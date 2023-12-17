@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Whenever manually run from actions-tab
   schedule:
     #- cron: "45 23 * * *" #( 11:45 PM UTC --> 05:30 AM Morning )
-    - cron: "45 * * * *" #( Every 45 Mins )
+    - cron: "* */2 * * *" #( Every 120 Mins/2 Hr )
 #------------------------------------------------------------------------------------#
 jobs:
   Parse:
@@ -101,6 +101,7 @@ jobs:
           #--------------#
           mkdir -p "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs"
           cd "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs"
+          # Source : https://bdia.btcl.com.bd/
           #(ALL)
           #Last 24 Hr
           #grep -Ei 'com\.bd|edu\.bd|gov\.bd|net\.bd|org\.bd|ac\.bd|mil\.bd|co\.bd|info\.bd' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_24h.txt"
@@ -177,8 +178,8 @@ jobs:
       - name: Get DateTime
         run: |
           # Date Time
-          NEPALI_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d (%I:%M:%S %p)')
-          echo "NEPALI_TIME=$NEPALI_TIME" >> $GITHUB_ENV
+          BANGLA_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d (%I:%M:%S %p)')
+          echo "BANGLA_TIME=$BANGLA_TIME" >> $GITHUB_ENV
           
       - name: Git Pull
         run: |
@@ -190,5 +191,5 @@ jobs:
           repository: ./main
           commit_user_name: Azathothas # defaults to "github-actions[bot]"
           commit_user_email: AjamX101@gmail.com # defaults to "41898282+github-actions[bot]@users.noreply.github.com"
-          commit_message: "✅ ⚓ Filter | Parsed 🔰 CertStream Data 🌊 <-- ${{ env.NEPALI_TIME }} ⌚"
+          commit_message: "✅ ⚓ Filter | Parsed 🔰 CertStream Data 🌊 <-- ${{ env.BANGLA_TIME }} ⌚"
           #push_options: '--force'
