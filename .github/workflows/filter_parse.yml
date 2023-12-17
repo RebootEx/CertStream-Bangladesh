@@ -113,7 +113,7 @@ jobs:
           #Last 24 Hr
           grep -Ei '\.gov\.bd$|\.mil\.bd$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_gov_mil_24h.txt"
           #Last 7 Days
-          grep -Ei '\.gov\.bd|\.mil\.bd$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_gov_mil_7days.txt"
+          grep -Ei '\.gov\.bd$|\.mil\.bd$' "/tmp/certstream_domains_7days.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_gov_mil_7days.txt"
           #(Edu)
           #Last 24 Hr
           grep -Ei '\.edu\.bd$' "/tmp/certstream_domains.txt" | sort -u -o "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_edu_24h.txt"
