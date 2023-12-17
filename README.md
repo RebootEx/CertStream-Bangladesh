@@ -30,7 +30,7 @@
 --> 🇧🇩 bd_ccTLDs
 [+] New/ReNewed SSL Certs (ALL): +11395
 [+] New/ReNewed SSL Certs (Edu): +4099
-[+] New/ReNewed SSL Certs (Gov|Mil): +664
+[+] New/ReNewed SSL Certs (Gov|Mil): +618
 [+] New/ReNewed SSL Certs (ISPs): +8
 
 
