@@ -1,6 +1,8 @@
 admin.bmd.gov.bd
 admin.vaxepi.gov.bd
+adminapi.vaxepi.gov.bd
 amarekusheyboimela.gov.bd
+api.vaxepi.gov.bd
 app.zpgazipur.gov.bd
 application.pmo.gov.bd
 apps.bnh.gov.bd
@@ -34,6 +36,7 @@ cafocat.gov.bd
 cafochta.gov.bd
 cafocommerce.gov.bd
 cafocultural.gov.bd
+cafodefence.gov.bd
 cafoforeign.gov.bd
 cafoimed.gov.bd
 cafoindustries.gov.bd
@@ -105,6 +108,7 @@ cpcontacts.taxappealkhulna.gov.bd
 cpcontacts.tearesort.gov.bd
 cpcontacts.ttcraj.gov.bd
 cumillattc.gov.bd
+cyberteens.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dcadhaka.gov.bd
 dev-backend.tourismctg.gov.bd
@@ -114,7 +118,9 @@ dgca58.gov.bd
 dhamraimunicipality.gov.bd
 diagnostic.rmch.gov.bd
 digitalhaat.gov.bd
+dis.gov.bd
 domain.btcl.gov.bd
+dpg.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ebrc.mil.bd
@@ -163,6 +169,7 @@ learn.freelancers.gov.bd
 lis.bwdb.gov.bd
 locc.psd.gov.bd
 locc.psdsms.gov.bd
+login.borhamganjcollege.gov.bd
 logistics.gov.bd
 magurapaurashava.gov.bd
 mail.bagancharagps.gov.bd
@@ -182,6 +189,7 @@ mail.taxappealkhulna.gov.bd
 mail.tearesort.gov.bd
 mail.ttcraj.gov.bd
 mail.useoishwarganj.gov.bd
+mail1.tihdtcb.gov.bd
 mcci-dev.niseee.gov.bd
 meherparaup.narsingdilg.gov.bd
 mela.amarekusheyboimela.gov.bd
@@ -189,6 +197,7 @@ metandgeo-ctg.bmd.gov.bd
 migration.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
+mmcm.gov.bd
 mob-app.bnh.gov.bd
 mta-sts.nothi.gov.bd
 mujib100.gov.bd
@@ -235,6 +244,7 @@ rndvm1.dghs.gov.bd
 rrdhs.gov.bd
 santhiapaurashava.gov.bd
 sbcbiz.gov.bd
+searchapi.demo.muktopaath.gov.bd
 senbagmunicipality.gov.bd
 service.gov.bd
 sgc.gov.bd
@@ -367,6 +377,7 @@ www.dev.bgttc.gov.bd
 www.dgca58.gov.bd
 www.dhamptiup.comillalg.gov.bd
 www.diagnostic.rmch.gov.bd
+www.dis.gov.bd
 www.dollainowabpurup.comillalg.gov.bd
 www.durgapurnorthup.comillalg.gov.bd
 www.durgapursouthup.comillalg.gov.bd
@@ -413,6 +424,7 @@ www.locc.psd.gov.bd
 www.locc.psdsms.gov.bd
 www.madhaiyaup.comillalg.gov.bd
 www.maijkharup.comillalg.gov.bd
+www.mail1.tihdtcb.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohanpurup.comillalg.gov.bd
@@ -453,6 +465,7 @@ www.register.gameapp.gov.bd
 www.renewableenergy.gov.bd.sreda.gov.bd
 www.rmp.gov.bd
 www.salikandiup.comillalg.gov.bd
+www.searchapi.demo.muktopaath.gov.bd
 www.shakpurup.comillalg.gov.bd
 www.shd.sreda.gov.bd
 www.shilmurinorthup.comillalg.gov.bd
@@ -487,6 +500,7 @@ www.visitormgt.beza.gov.bd
 www.vmdatabase.mspvaw.gov.bd
 www.yousufpurup.comillalg.gov.bd
 www.zprajshahi.gov.bd
+wzpdcl.gov.bd
 youth-dev.niseee.gov.bd
 zpfeni.gov.bd
 zphabiganj.gov.bd
