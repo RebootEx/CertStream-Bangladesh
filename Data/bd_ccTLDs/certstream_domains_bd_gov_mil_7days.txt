@@ -71,6 +71,7 @@ cbs.gov.bd
 cbs.rdodterangpur.gov.bd
 ccie.gov.bd
 cedp.gov.bd
+central.comillalg.gov.bd
 centralup.munshiganjlg.gov.bd
 certificate.demo.muktopaath.gov.bd
 certificate2.demo.muktopaath.gov.bd
@@ -142,6 +143,7 @@ dev.portal.dgme.gov.bd
 dgca58.gov.bd
 dhamraimunicipality.gov.bd
 diagnostic.rmch.gov.bd
+digitalhaat.gov.bd
 domain.btcl.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
@@ -176,6 +178,7 @@ gobindagonjpourashava.gov.bd
 gopalpurtsc.gov.bd
 gunbahaup.faridpurlg.gov.bd
 hamirdiup.faridpurlg.gov.bd
+hpi.gov.bd
 hris-training.mohfw.gov.bd
 hrm-service.bscl.gov.bd
 hrm.bscl.gov.bd
@@ -249,8 +252,10 @@ nise-dev.niseee.gov.bd
 nlas.dls.gov.bd
 noakhalittc.gov.bd
 noipunno.gov.bd
+noisepollutioncontrolproject.gov.bd
 npi.gov.bd
 nsdi.gov.bd
+ntrc.gameapp.gov.bd
 nttc.gov.bd
 oaf.comillaboard.gov.bd
 old.bargunapoly.gov.bd
@@ -258,12 +263,14 @@ old.cngwc.gov.bd
 old.iedcr.gov.bd
 onlineschoolform.bise-ctg.gov.bd
 panchgachhiawestup.gov.bd
+patgrammunicipality.gov.bd
 patient-hsms.somch.gov.bd
 pdb.mcishr.dghs.gov.bd
 pirjatrapurup.gov.bd
 plantsp-eflora.bnh.gov.bd
 pmhsr.edu.bd.gbrcr.gov.bd
 pop.emergencynutrition.gov.bd
+portal.dgme.gov.bd
 practical.bise-ctg.gov.bd
 practical.comillaboard.gov.bd
 printable.dengue.gov.bd
@@ -274,6 +281,7 @@ raipurup.faridpurlg.gov.bd
 rajbaritsc.gov.bd
 ramgonjcollege.gov.bd
 rca-lged.gov.bd
+register.gameapp.gov.bd
 rems.railwayestate.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
@@ -309,6 +317,8 @@ srishtitetulia.gov.bd
 srngih.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 stg.demo.virtualclass.gov.bd
+student.cmc.gov.bd
+students.dgme.gov.bd
 sunamganjpourashava.gov.bd
 sundalpurup.gov.bd
 sylhetvat.gov.bd
@@ -325,6 +335,7 @@ test.jamalpurttc.gov.bd
 tourismctg.gov.bd
 training.ansarvdpbank.gov.bd
 training.dghs.gov.bd
+training.emrddashboard.gov.bd
 ttcraj.gov.bd
 ucddigitalh.gov.bd
 upms.ugc.gov.bd
@@ -433,6 +444,7 @@ www.burichangsadarup.comillalg.gov.bd
 www.career.nilmrcbd.gov.bd
 www.cbs.rdodterangpur.gov.bd
 www.cedp.gov.bd
+www.central.comillalg.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.certificate.demo.muktopaath.gov.bd
@@ -518,6 +530,7 @@ www.ngwc.gov.bd
 www.nobipureastup.comillalg.gov.bd
 www.nobipurwestup.comillalg.gov.bd
 www.npi.gov.bd
+www.ntrc.gameapp.gov.bd
 www.nttc.gov.bd
 www.old.bargunapoly.gov.bd
 www.old.iedcr.gov.bd
@@ -542,6 +555,7 @@ www.ramgonjcollege.gov.bd
 www.rasulpurup.comillalg.gov.bd
 www.reeep.sreda.gov.bd
 www.reeep2.sreda.gov.bd
+www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
 www.renewableenergy.gov.bd.sreda.gov.bd
 www.result.fci.gov.bd
@@ -559,6 +573,7 @@ www.solar.sreda.gov.bd
 www.srdl.gov.bd
 www.srepgen.sreda.gov.bd
 www.stdb.sreda.gov.bd
+www.student.cmc.gov.bd
 www.subilup.comillalg.gov.bd
 www.sultanpurup.comillalg.gov.bd
 www.sundalpurup.gov.bd
