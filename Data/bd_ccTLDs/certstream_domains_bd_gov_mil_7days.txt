@@ -1,7 +1,9 @@
 admin.bmd.gov.bd
 admin.vaxepi.gov.bd
 adminapi.vaxepi.gov.bd
+adolnutrireporting.nnsop.gov.bd
 amarekusheyboimela.gov.bd
+api.bsiedu.gov.bd
 api.vaxepi.gov.bd
 app.zpgazipur.gov.bd
 application.pmo.gov.bd
@@ -11,12 +13,14 @@ artistdb.bsa.gov.bd
 autodiscover.bgttc.gov.bd
 autodiscover.caabhc.gov.bd
 autodiscover.cumillattc.gov.bd
+autodiscover.keraniganjttc.gov.bd
 autodiscover.taxappealkhulna.gov.bd
 autodiscover.ttcraj.gov.bd
 bagancharagps.gov.bd
 barishalcity.gov.bd
 basb.gov.bd
 bgttc.gov.bd
+bhcl.itconnect.gov.bd
 bhpi.gov.bd
 bicsaa.gov.bd
 bikiron2021.sreda.gov.bd
@@ -28,6 +32,7 @@ bmp.gov.bd
 boalmariup.faridpurlg.gov.bd
 bogurapoly.gov.bd
 bondiculator.prison.gov.bd
+brief.taxeszoneonedhaka.gov.bd
 bscic-emarket.gov.bd
 bscicemarket.gov.bd
 cafocabinet.gov.bd
@@ -43,6 +48,7 @@ cafoindustries.gov.bd
 cafoird.gov.bd
 cafolabour.gov.bd
 cafoland.gov.bd
+cafomohfw.gov.bd
 cafomopa.gov.bd
 cafoparliament.gov.bd
 cafopme.gov.bd
@@ -78,6 +84,8 @@ cpanel.cedp.gov.bd
 cpanel.cumillattc.gov.bd
 cpanel.dgca58.gov.bd
 cpanel.jmc.gov.bd
+cpanel.keraniganjttc.gov.bd
+cpanel.nins.gov.bd
 cpanel.nttc.gov.bd
 cpanel.srdl.gov.bd
 cpanel.taxappealkhulna.gov.bd
@@ -90,6 +98,8 @@ cpcalendars.cedp.gov.bd
 cpcalendars.cumillattc.gov.bd
 cpcalendars.dgca58.gov.bd
 cpcalendars.jmc.gov.bd
+cpcalendars.keraniganjttc.gov.bd
+cpcalendars.nins.gov.bd
 cpcalendars.nttc.gov.bd
 cpcalendars.srdl.gov.bd
 cpcalendars.taxappealkhulna.gov.bd
@@ -102,6 +112,8 @@ cpcontacts.cedp.gov.bd
 cpcontacts.cumillattc.gov.bd
 cpcontacts.dgca58.gov.bd
 cpcontacts.jmc.gov.bd
+cpcontacts.keraniganjttc.gov.bd
+cpcontacts.nins.gov.bd
 cpcontacts.nttc.gov.bd
 cpcontacts.srdl.gov.bd
 cpcontacts.taxappealkhulna.gov.bd
@@ -111,6 +123,7 @@ cumillattc.gov.bd
 cyberteens.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dcadhaka.gov.bd
+deraipaurashava.gov.bd
 dev-backend.tourismctg.gov.bd
 dev.bgttc.gov.bd
 dev.portal.dgme.gov.bd
@@ -118,6 +131,7 @@ dgca58.gov.bd
 dhamraimunicipality.gov.bd
 diagnostic.rmch.gov.bd
 digitalhaat.gov.bd
+dinajpurboard.gov.bd
 dis.gov.bd
 domain.btcl.gov.bd
 dpg.gov.bd
@@ -135,6 +149,7 @@ epass.bcc.gov.bd
 epassport.gov.bd
 epietracker.dghs.gov.bd
 erp.icmab.gov.bd
+erp.sariakandipourashava.gov.bd
 eservices.boiler.gov.bd
 etds.gov.bd
 etender.comillaboard.gov.bd
@@ -142,6 +157,8 @@ etracker.dghs.gov.bd
 familycard.distgopalganj.gov.bd
 feedback.dos.gov.bd
 feedback.karmasangsthanbank.gov.bd
+financialinclusion.gov.bd
+fmsdss.gov.bd
 foodfornation.gov.bd
 ftp.emergencynutrition.gov.bd
 gameapp.gov.bd
@@ -156,12 +173,15 @@ hrm.bscl.gov.bd
 hsms.somch.gov.bd
 ht.kanaighatmunicipality.gov.bd
 iisb.bidaevents.gov.bd
+imam.gov.bd
 inventory.dbwctp64.gov.bd
 jhalamup.comillalg.gov.bd
 jmc.gov.bd
 journal.bcsadminacademy.gov.bd
 katiadipourashava.gov.bd
+keraniganjttc.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
+kr.itconnect.gov.bd
 kuliarcharpourashava.gov.bd
 labrepository.bfsa.gov.bd
 laraveltest.beza.gov.bd
@@ -182,6 +202,8 @@ mail.cumillattc.gov.bd
 mail.dgca58.gov.bd
 mail.emergencynutrition.gov.bd
 mail.jmc.gov.bd
+mail.keraniganjttc.gov.bd
+mail.nins.gov.bd
 mail.nttc.gov.bd
 mail.srdl.gov.bd
 mail.support.a2i.gov.bd
@@ -208,7 +230,9 @@ narsingdilg.gov.bd
 nbr.gov.bd
 new.cafomolwa.gov.bd
 ngwc.gov.bd
+nins.gov.bd
 nise-dev.niseee.gov.bd
+nitor.gov.bd
 nlas.dls.gov.bd
 noakhalittc.gov.bd
 noipunno.gov.bd
@@ -260,6 +284,7 @@ smmamc.gov.bd
 smsgateway.comillaboard.gov.bd
 smtp.dghs.gov.bd
 smtp.emergencynutrition.gov.bd
+soft.taxeszoneonedhaka.gov.bd
 sonaimuripaurashava.gov.bd
 srdl.gov.bd
 sreda.gov.bd
@@ -280,8 +305,10 @@ tearesort.gov.bd
 test.faridpurlg.gov.bd
 test.jaldhakamunicipality.gov.bd
 test.jamalpurttc.gov.bd
+testdiv.ansarvdpbank.gov.bd
 training.ansarvdpbank.gov.bd
 training.dghs.gov.bd
+training.ec4j.gov.bd
 training.emrddashboard.gov.bd
 ttcraj.gov.bd
 ucddigitalh.gov.bd
@@ -301,6 +328,8 @@ webdisk.cedp.gov.bd
 webdisk.cumillattc.gov.bd
 webdisk.dgca58.gov.bd
 webdisk.jmc.gov.bd
+webdisk.keraniganjttc.gov.bd
+webdisk.nins.gov.bd
 webdisk.nttc.gov.bd
 webdisk.srdl.gov.bd
 webdisk.taxappealkhulna.gov.bd
@@ -312,6 +341,8 @@ webmail.cedp.gov.bd
 webmail.cumillattc.gov.bd
 webmail.dgca58.gov.bd
 webmail.jmc.gov.bd
+webmail.keraniganjttc.gov.bd
+webmail.nins.gov.bd
 webmail.nttc.gov.bd
 webmail.srdl.gov.bd
 webmail.taxappealkhulna.gov.bd
@@ -322,6 +353,7 @@ www.akubpurup.comillalg.gov.bd
 www.amarekusheyboimela.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
+www.api.bsiedu.gov.bd
 www.app.zpgazipur.gov.bd
 www.apps.jamalpurttc.gov.bd
 www.artistdb.bsa.gov.bd
@@ -354,6 +386,7 @@ www.borcaraiup.comillalg.gov.bd
 www.borcoitup.comillalg.gov.bd
 www.boroshalghorup.comillalg.gov.bd
 www.brahmanparasadarup.comillalg.gov.bd
+www.brief.taxeszoneonedhaka.gov.bd
 www.bscic-emarket.gov.bd
 www.bscicemarket.gov.bd
 www.burichangsadarup.comillalg.gov.bd
@@ -388,10 +421,12 @@ www.elahabadup.comillalg.gov.bd
 www.elibrary.sreda.gov.bd
 www.emergencynutrition.gov.bd
 www.epassport.gov.bd
+www.erp.sariakandipourashava.gov.bd
 www.etberpurup.comillalg.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.fatehabadup.comillalg.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
+www.fmsdss.gov.bd
 www.foodfornation.gov.bd
 www.galimpurup.comillalg.gov.bd
 www.gazirtekup.faridpurlg.gov.bd
@@ -413,6 +448,7 @@ www.joagup.comillalg.gov.bd
 www.kalikapurup.comillalg.gov.bd
 www.kamallaup.comillalg.gov.bd
 www.kamaria.upmymensinghholdingtax.gov.bd
+www.keraniganjttc.gov.bd
 www.keronkhalup.comillalg.gov.bd
 www.khoshbasnorthup.comillalg.gov.bd
 www.khoshbassouthup.comillalg.gov.bd
@@ -435,6 +471,8 @@ www.ndre.sreda.gov.bd
 www.nemcalc.sreda.gov.bd
 www.new.cafomolwa.gov.bd
 www.ngwc.gov.bd
+www.nins.gov.bd
+www.nitor.gov.bd
 www.nobipureastup.comillalg.gov.bd
 www.nobipurwestup.comillalg.gov.bd
 www.npi.gov.bd
@@ -472,6 +510,7 @@ www.shilmurinorthup.comillalg.gov.bd
 www.shilmurisouthup.comillalg.gov.bd
 www.sholanalup.gov.bd
 www.shuhilpurup.comillalg.gov.bd
+www.soft.taxeszoneonedhaka.gov.bd
 www.solar.sreda.gov.bd
 www.srdl.gov.bd
 www.srepgen.sreda.gov.bd
@@ -490,7 +529,9 @@ www.tearesort.gov.bd
 www.test.faridpurlg.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.test.jamalpurttc.gov.bd
+www.testdiv.ansarvdpbank.gov.bd
 www.training.ansarvdpbank.gov.bd
+www.training.ec4j.gov.bd
 www.training.sreda.gov.bd
 www.ttcraj.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
