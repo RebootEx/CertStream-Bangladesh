@@ -14,27 +14,27 @@
  cd "$GITHUB_WORKSPACE/main" && git pull origin main  
 #---------------------# 
 #GoWitness
-cat "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_24h_httpx.txt" | awk '{print $1}' | grep -i 'http' | sort -u -o "/tmp/subs_live.txt"
+##cat "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_24h_httpx.txt" | awk '{print $1}' | grep -i 'http' | sort -u -o "/tmp/subs_live.txt"
 #Random
 #cat "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/certstream_domains_bd_all_24h_httpx.txt" | awk '{print $1}' | grep -i 'http' | sort -u | shuf > "/tmp/subs_live.txt"
 #output dir is autocreated
 #Run gowitness
 # 1000 Hosts Screenshot ~ 30-45 mins
- echo -e "\n[+] Total Hosts --> 📷 : $(wc -l < /tmp/subs_live.txt)\n"
- gowitness file -f "/tmp/subs_live.txt" --fullpage --disable-db --debug --screenshot-path "/tmp/goshots"
+ #echo -e "\n[+] Total Hosts --> 📷 : $(wc -l < /tmp/subs_live.txt)\n"
+ #gowitness file -f "/tmp/subs_live.txt" --fullpage --disable-db --debug --screenshot-path "/tmp/goshots"
 #Remove Dupes (Prefer Https)
- fdupes "/tmp/goshots" --order=name | grep -v '/https-' | xargs -I {} find {} -type f -delete
+ #fdupes "/tmp/goshots" --order=name | grep -v '/https-' | xargs -I {} find {} -type f -delete
 #Stats 
- TOTAL_SHOTS="$(find /tmp/goshots -type f | wc -l)" ; echo "Total Shots: $TOTAL_SHOTS"
- TOTAL_SIZE="$(du -h /tmp/goshots | awk '{print $1}')" ; echo "Total Size: $TOTAL_SIZE"
+ #TOTAL_SHOTS="$(find /tmp/goshots -type f | wc -l)" ; echo "Total Shots: $TOTAL_SHOTS"
+ #TOTAL_SIZE="$(du -h /tmp/goshots | awk '{print $1}')" ; echo "Total Size: $TOTAL_SIZE"
 #Git Pull
- cd "$GITHUB_WORKSPACE/main" && git pull origin main
+ #cd "$GITHUB_WORKSPACE/main" && git pull origin main
 #Copy & Move
- mkdir -p "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots"
+ #mkdir -p "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots"
  #Move to Oblivion
- find "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots" -type f -name '*.png' -exec rm {} \; 2>/dev/null
+ #find "$GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots" -type f -name '*.png' -exec rm {} \; 2>/dev/null
  #Copy
- find "/tmp/goshots" -type f -name '*.png' -exec cp {} $GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots \; 2>/dev/null
+ #find "/tmp/goshots" -type f -name '*.png' -exec cp {} $GITHUB_WORKSPACE/main/Data/bd_ccTLDs/Screenshots \; 2>/dev/null
 #Git Pull
- cd "$GITHUB_WORKSPACE/main" && git pull origin main 
+ #cd "$GITHUB_WORKSPACE/main" && git pull origin main 
 #----------------------------------------------------------------------------#  
