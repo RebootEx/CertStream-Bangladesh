@@ -8,9 +8,11 @@ amarekusheyboimela.gov.bd
 api.bsiedu.gov.bd
 api.vaxepi.gov.bd
 application.pmo.gov.bd
+application.zpgazipur.gov.bd
 appointment.srngih.gov.bd
 apps.bnh.gov.bd
 artistdb.bsa.gov.bd
+assessments.demo.muktopaath.gov.bd
 autodiscover.bgttc.gov.bd
 autodiscover.caabhc.gov.bd
 autodiscover.cumillattc.gov.bd
@@ -24,6 +26,7 @@ barishalcity.gov.bd
 basb.gov.bd
 betarcommercialservice.gov.bd
 bgttc.gov.bd
+bhangapourashava.gov.bd
 bhcl.itconnect.gov.bd
 bhpi.gov.bd
 bicsaa.gov.bd
@@ -175,6 +178,7 @@ feedback.karmasangsthanbank.gov.bd
 financialinclusion.gov.bd
 fmsdss.gov.bd
 foodfornation.gov.bd
+fulsutiup.faridpurlg.gov.bd
 gai.gov.bd
 gattiup.faridpurlg.gov.bd
 gazirtekup.faridpurlg.gov.bd
@@ -192,6 +196,7 @@ hsms.somch.gov.bd
 ht.kanaighatmunicipality.gov.bd
 imam.gov.bd
 inventory.dbwctp64.gov.bd
+ishangopalpurup.faridpurlg.gov.bd
 jamalpurttc.gov.bd
 jhalamup.comillalg.gov.bd
 jhikargachamunicipality.gov.bd
@@ -200,9 +205,11 @@ judiciary.gov.bd
 kaichailup.faridpurlg.gov.bd
 kaijuriup.faridpurlg.gov.bd
 kamarkhaliup.faridpurlg.gov.bd
+kanaipurup.faridpurlg.gov.bd
 keraniganjttc.gov.bd
 keshabpurpouroshava.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
+korakdi.faridpurlg.gov.bd
 kr.itconnect.gov.bd
 lasherpur.gov.bd
 lis.bwdb.gov.bd
@@ -225,12 +232,14 @@ mail.jmc.gov.bd
 mail.keraniganjttc.gov.bd
 mail.nins.gov.bd
 mail.nttc.gov.bd
+mail.rgc.gov.bd
 mail.rtsc.gov.bd
 mail.srdl.gov.bd
 mail.support.a2i.gov.bd
 mail.taxappealkhulna.gov.bd
 mail.ttcraj.gov.bd
 mail1.tihdtcb.gov.bd
+mandfservice.gnc.gov.bd
 mcci-dev.niseee.gov.bd
 meherparaup.narsingdilg.gov.bd
 mela.amarekusheyboimela.gov.bd
@@ -254,6 +263,7 @@ noipunno.gov.bd
 noisepollutioncontrolproject.gov.bd
 npi.gov.bd
 nsdi.gov.bd
+nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
 nttc.gov.bd
 nvacqr.nnsop.gov.bd
@@ -274,11 +284,13 @@ proxy.mcishr.dghs.gov.bd
 raipurpourashava.gov.bd
 raipurup.faridpurlg.gov.bd
 rajbaritsc.gov.bd
+ral.brri.gov.bd
 ranisankailpourashava.gov.bd
 register.gameapp.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
 restaurant.gov.bd
+rgc.gov.bd
 rmp.gov.bd
 rndvm1.dghs.gov.bd
 rrdhs.gov.bd
@@ -371,6 +383,7 @@ www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
 www.api.bsiedu.gov.bd
 www.app.jamalpurttc.gov.bd
+www.application.zpgazipur.gov.bd
 www.appointment.srngih.gov.bd
 www.artistdb.bsa.gov.bd
 www.babutiparaup.comillalg.gov.bd
@@ -449,6 +462,7 @@ www.fatehabadup.comillalg.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.fmsdss.gov.bd
 www.foodfornation.gov.bd
+www.fulsutiup.faridpurlg.gov.bd
 www.gai.gov.bd
 www.galimpurup.comillalg.gov.bd
 www.gattiup.faridpurlg.gov.bd
@@ -464,6 +478,7 @@ www.hep.sreda.gov.bd
 www.ht.kanaighatmunicipality.gov.bd
 www.iceeca2019.sreda.gov.bd
 www.inventory.dbwctp64.gov.bd
+www.ishangopalpurup.faridpurlg.gov.bd
 www.jafargonjup.comillalg.gov.bd
 www.jahapurup.comillalg.gov.bd
 www.jatrapurup.comillalg.gov.bd
@@ -476,6 +491,7 @@ www.kalikapurup.comillalg.gov.bd
 www.kamallaup.comillalg.gov.bd
 www.kamaria.upmymensinghholdingtax.gov.bd
 www.kamarkhaliup.faridpurlg.gov.bd
+www.kanaipurup.faridpurlg.gov.bd
 www.keraniganjttc.gov.bd
 www.keronkhalup.comillalg.gov.bd
 www.keshabpurpouroshava.gov.bd
@@ -483,12 +499,14 @@ www.khoshbasnorthup.comillalg.gov.bd
 www.khoshbassouthup.comillalg.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.kodaliashohidnagarup.faridpurlg.gov.bd
+www.korakdi.faridpurlg.gov.bd
 www.kumargata.upmymensinghholdingtax.gov.bd
 www.locc.psd.gov.bd
 www.locc.psdsms.gov.bd
 www.madhaiyaup.comillalg.gov.bd
 www.maijkharup.comillalg.gov.bd
 www.mail1.tihdtcb.gov.bd
+www.mandfservice.gnc.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.mohanpurup.comillalg.gov.bd
 www.mohichialup.comillalg.gov.bd
@@ -503,6 +521,7 @@ www.nitor.gov.bd
 www.nobipureastup.comillalg.gov.bd
 www.nobipurwestup.comillalg.gov.bd
 www.npi.gov.bd
+www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nttc.gov.bd
 www.old.iedcr.gov.bd
@@ -527,6 +546,7 @@ www.reeep.sreda.gov.bd
 www.reeep2.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.renewableenergy.gov.bd.sreda.gov.bd
+www.rgc.gov.bd
 www.rmp.gov.bd
 www.rtsc.gov.bd
 www.salikandiup.comillalg.gov.bd
