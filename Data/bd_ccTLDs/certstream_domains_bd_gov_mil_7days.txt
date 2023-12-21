@@ -4,10 +4,8 @@ adgfinance.gov.bd
 admin.farmbroadcast.gov.bd
 adminapi.vaxepi.gov.bd
 adolnutrireporting.nnsop.gov.bd
-amarekusheyboimela.gov.bd
 api.bsiedu.gov.bd
 api.vaxepi.gov.bd
-application.pmo.gov.bd
 application.zpgazipur.gov.bd
 appointment.srngih.gov.bd
 apps.bnh.gov.bd
@@ -32,7 +30,6 @@ bhcl.itconnect.gov.bd
 bhpi.gov.bd
 bicsaa.gov.bd
 bikiron2021.sreda.gov.bd
-billing-service.bscl.gov.bd
 billing.bscl.gov.bd
 birthdeath.dghs.gov.bd
 biteshwarup.gov.bd
@@ -42,7 +39,6 @@ bnoip.navy.mil.bd
 bnoip2.navy.mil.bd
 boalmariup.faridpurlg.gov.bd
 bogurapoly.gov.bd
-bondiculator.prison.gov.bd
 bot.mujibjigyasa.gov.bd
 brief.taxeszoneonedhaka.gov.bd
 bscic-emarket.gov.bd
@@ -80,13 +76,11 @@ cevappealctg.gov.bd
 cevappealkhulna.gov.bd
 cevccomilla.gov.bd
 cevchandina.gov.bd
-chapaipoura.gov.bd
 charbisnopurup.faridpurlg.gov.bd
 chatulup.faridpurlg.gov.bd
 citizen.ncc.gov.bd
 cjmcourtjashore.gov.bd
 college.gov.bd
-comillaboard.gov.bd
 comillalg.gov.bd
 corona.gov.bd
 cpadmin.ncc.gov.bd
@@ -146,16 +140,13 @@ cpcontacts.taxappealkhulna.gov.bd
 cpcontacts.ttcraj.gov.bd
 cumillattc.gov.bd
 cyberteens.gov.bd
-dashboard-backoffice-dev.niseee.gov.bd
 dcadhaka.gov.bd
 deodinajpur.gov.bd
 deraipaurashava.gov.bd
 dev.bgttc.gov.bd
-dev.portal.dgme.gov.bd
 dgca58.gov.bd
 dhamraimunicipality.gov.bd
 dhaukhaliup.faridpurlg.gov.bd
-diagnostic.rmch.gov.bd
 digitalhaat.gov.bd
 digrajshahirange.gov.bd
 dinajpurboard.gov.bd
@@ -182,7 +173,6 @@ etender.comillaboard.gov.bd
 etracker.dghs.gov.bd
 familycard.distgopalganj.gov.bd
 farmbroadcast.gov.bd
-feedback.karmasangsthanbank.gov.bd
 financialinclusion.gov.bd
 fmsdss.gov.bd
 foodfornation.gov.bd
@@ -251,9 +241,7 @@ mail.taxappealkhulna.gov.bd
 mail.ttcraj.gov.bd
 mail1.tihdtcb.gov.bd
 mandfservice.gnc.gov.bd
-mcci-dev.niseee.gov.bd
 meherparaup.narsingdilg.gov.bd
-mela.amarekusheyboimela.gov.bd
 migration.gov.bd
 mmcm.gov.bd
 mob-app.bnh.gov.bd
@@ -266,7 +254,6 @@ narsingdilg.gov.bd
 nbr.gov.bd
 new.cafomolwa.gov.bd
 nins.gov.bd
-nise-dev.niseee.gov.bd
 nitor.gov.bd
 nl.itconnect.gov.bd
 nlas.dls.gov.bd
@@ -286,13 +273,11 @@ padmamuseum.gov.bd
 panchgachhiawestup.gov.bd
 patgrammunicipality.gov.bd
 patient-hsms.somch.gov.bd
-pdb.mcishr.dghs.gov.bd
 pirjatrapurup.gov.bd
 plantsp-eflora.bnh.gov.bd
 pmhsr.edu.bd.gbrcr.gov.bd
 portal.dgme.gov.bd
 practical.bise-ctg.gov.bd
-printable.dengue.gov.bd
 proxy.mcishr.dghs.gov.bd
 raipurpourashava.gov.bd
 raipurup.faridpurlg.gov.bd
@@ -306,7 +291,6 @@ restaurant.gov.bd
 rgc.gov.bd
 rgccr.gov.bd
 rmp.gov.bd
-rndvm1.dghs.gov.bd
 rrdhs.gov.bd
 rtsc.gov.bd
 searchapi.demo.muktopaath.gov.bd
@@ -314,12 +298,10 @@ sechshebatetulia.gov.bd
 senbagmunicipality.gov.bd
 service.gov.bd
 serviceweek.dgfp.gov.bd
-sgc.gov.bd
 sheikhrusselgastroliver.gov.bd
 sherpurpolice.gov.bd
 shift.gov.bd
 sholanalup.gov.bd
-shop.amarekusheyboimela.gov.bd
 slotpay4d.raipurpourashava.gov.bd
 smartschoolbus.gov.bd
 smmamc.gov.bd
@@ -398,7 +380,6 @@ www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.aganagarup.comillalg.gov.bd
 www.akubpurup.comillalg.gov.bd
-www.amarekusheyboimela.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
 www.api.bsiedu.gov.bd
@@ -465,7 +446,6 @@ www.dev.bgttc.gov.bd
 www.dgca58.gov.bd
 www.dhamptiup.comillalg.gov.bd
 www.dhaukhaliup.faridpurlg.gov.bd
-www.diagnostic.rmch.gov.bd
 www.digrajshahirange.gov.bd
 www.dis.gov.bd
 www.dollainowabpurup.comillalg.gov.bd
@@ -483,7 +463,6 @@ www.erp.sariakandipourashava.gov.bd
 www.etberpurup.comillalg.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.fatehabadup.comillalg.gov.bd
-www.feedback.karmasangsthanbank.gov.bd
 www.fmsdss.gov.bd
 www.foodfornation.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
@@ -606,8 +585,5 @@ www.upsonod.com.melandahbhata.gov.bd
 www.vaniup.comillalg.gov.bd
 www.vmdatabase.mspvaw.gov.bd
 www.yousufpurup.comillalg.gov.bd
-www.zprajshahi.gov.bd
 wzpdcl.gov.bd
-youth-dev.niseee.gov.bd
 zphabiganj.gov.bd
-zprajshahi.gov.bd
