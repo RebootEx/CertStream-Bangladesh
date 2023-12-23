@@ -19,6 +19,7 @@ autodiscover.keraniganjttc.gov.bd
 autodiscover.taxappealkhulna.gov.bd
 automation.bepza.gov.bd
 bakshimulup.gov.bd
+banglabazarup.munshiganjlg.gov.bd
 bankposting.ncc.gov.bd
 bargunapoly.gov.bd
 barishalcity.gov.bd
@@ -50,6 +51,7 @@ cafostict.gov.bd
 cafoyouthandsports.gov.bd
 cedp.gov.bd
 central.comillalg.gov.bd
+centralup.faridpurlg.gov.bd
 certificate2.demo.muktopaath.gov.bd
 cevappealctg.gov.bd
 cevappealkhulna.gov.bd
@@ -58,6 +60,9 @@ cevchandina.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
 charbisnopurup.faridpurlg.gov.bd
 charharirampurup.faridpurlg.gov.bd
+charkewarup.munshiganjlg.gov.bd
+charmadbdiaup.faridpurlg.gov.bd
+charmanairup.faridpurlg.gov.bd
 chatulup.faridpurlg.gov.bd
 chittagongzoo.gov.bd
 citizen.ncc.gov.bd
@@ -127,6 +132,7 @@ dwavwb.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ecertificate.sreda.gov.bd
 ekpass.gov.bd
+elearning.gov.bd
 erp.sariakandipourashava.gov.bd
 etender.sylhetboard.gov.bd
 faridpurlg.gov.bd
@@ -142,6 +148,7 @@ gazirtekup.faridpurlg.gov.bd
 globe.com.ph.dhamraimunicipality.gov.bd
 globe.dhamraimunicipality.gov.bd
 gps.gov.bd
+gredaup.faridpurlg.gov.bd
 gunbahaup.faridpurlg.gov.bd
 habiganjtsc.gov.bd
 hamirdiup.faridpurlg.gov.bd
@@ -229,7 +236,9 @@ old.gzmcfeni.gov.bd
 ossbhtpa.gov.bd
 pabtec.gov.bd
 padmamuseum.gov.bd
+parbatipurtsc.gov.bd
 patgrammunicipality.gov.bd
+pmfellowship.pmo.gov.bd
 portal.dgme.gov.bd
 portal.munshiganjtsc.gov.bd
 raipurpourashava.gov.bd
@@ -250,8 +259,10 @@ searchapi.demo.muktopaath.gov.bd
 sechshebatetulia.gov.bd
 secpass.gov.bd
 serviceweek.dgfp.gov.bd
+shahali.gnc.gov.bd
 sheikhrusseldigitallab.gov.bd
 sheikhrusselgastroliver.gov.bd
+shibganjpourashava.gov.bd
 shiloyup.munshiganjlg.gov.bd
 slot777.secretariatclinic.gov.bd
 slotgacor.secretariatclinic.gov.bd
@@ -277,6 +288,7 @@ ullaparapaurashava.gov.bd
 uniontax.gov.bd
 upsonod.com.melandahbhata.gov.bd
 vamanager.dghs.gov.bd
+vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 web.bepza.gov.bd
 webdisk.cedp.gov.bd
@@ -329,6 +341,7 @@ www.bakoisouthup.comillalg.gov.bd
 www.bakshimulup.gov.bd
 www.balorampurup.comillalg.gov.bd
 www.bangaddaup.comillalg.gov.bd
+www.banglabazarup.munshiganjlg.gov.bd
 www.bankposting.ncc.gov.bd
 www.baroparaup.comillalg.gov.bd
 www.baroparaup1.comillalg.gov.bd
@@ -350,12 +363,16 @@ www.boxgonjup.comillalg.gov.bd
 www.brief.taxeszoneonedhaka.gov.bd
 www.cedp.gov.bd
 www.central.comillalg.gov.bd
+www.centralup.faridpurlg.gov.bd
 www.certificate2.demo.muktopaath.gov.bd
 www.chanderchorup.comillalg.gov.bd
 www.chandlaup.comillalg.gov.bd
 www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
 www.charharirampurup.faridpurlg.gov.bd
+www.charkewarup.munshiganjlg.gov.bd
+www.charmadbdiaup.faridpurlg.gov.bd
+www.charmanairup.faridpurlg.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.chuwaraup.comillalg.gov.bd
 www.citizen.ncc.gov.bd
@@ -377,6 +394,7 @@ www.dulalpurup.comillalg.gov.bd
 www.dulalpurup2.comillalg.gov.bd
 www.dwavwb.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
+www.ecampus.parbatipurtsc.gov.bd
 www.ecertificate.sreda.gov.bd
 www.eliotgonjnorthup.comillalg.gov.bd
 www.eliotgonjsouthup.comillalg.gov.bd
@@ -401,6 +419,7 @@ www.goonabatiup.comillalg.gov.bd
 www.gouripurup.comillalg.gov.bd
 www.govindapurup.comillalg.gov.bd
 www.gps.gov.bd
+www.gredaup.faridpurlg.gov.bd
 www.gunbahaup.faridpurlg.gov.bd
 www.hamirdiup.faridpurlg.gov.bd
 www.hasnabadup.comillalg.gov.bd
@@ -469,9 +488,11 @@ www.nitor.gov.bd
 www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.old.gzmcfeni.gov.bd
+www.old.parbatipurtsc.gov.bd
 www.pariaup.comillalg.gov.bd
 www.passgaciawestup.comillalg.gov.bd
 www.payalgachaup.comillalg.gov.bd
+www.pmfellowship.pmo.gov.bd
 www.poduaup.comillalg.gov.bd
 www.ranisankailpourashava.gov.bd
 www.raykotnorthup.comillalg.gov.bd
@@ -486,6 +507,7 @@ www.sataniup.comillalg.gov.bd
 www.satbariaup.comillalg.gov.bd
 www.sbobet.secretariatclinic.gov.bd
 www.searchapi.demo.muktopaath.gov.bd
+www.shahali.gnc.gov.bd
 www.shahebabadup.comillalg.gov.bd
 www.shashidalup.comillalg.gov.bd
 www.sheikhrusseldigitallab.gov.bd
