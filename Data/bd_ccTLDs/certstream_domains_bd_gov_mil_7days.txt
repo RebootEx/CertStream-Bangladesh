@@ -3,6 +3,7 @@
 adgfinance.gov.bd
 admin.farmbroadcast.gov.bd
 adminapi.vaxepi.gov.bd
+admission.bmcs.gov.bd
 adolnutrireporting.nnsop.gov.bd
 alfadangaup.faridpurlg.gov.bd
 amarekusheyboimela.gov.bd
@@ -28,6 +29,7 @@ bankposting.ncc.gov.bd
 bargunapoly.gov.bd
 barishalcity.gov.bd
 belkuchipoura.gov.bd
+betagimunicipality.gov.bd
 betarcommercialservice.gov.bd
 bhangapourashava.gov.bd
 bharellasouthup.gov.bd
@@ -43,6 +45,7 @@ bot.mujibjigyasa.gov.bd
 brief.taxeszoneonedhaka.gov.bd
 bsa.gov.bd
 bscic-emarket.gov.bd
+bsddhaka.navy.mil.bd
 bsmsn.beza.gov.bd
 cafocat.gov.bd
 cafodefence.gov.bd
@@ -156,11 +159,13 @@ gai.gov.bd
 gatepass.dgdp.gov.bd
 gattiup.faridpurlg.gov.bd
 ggmcg.gov.bd
+gis.bwdb.gov.bd
 globe.com.ph.dhamraimunicipality.gov.bd
 globe.dhamraimunicipality.gov.bd
 gps.gov.bd
 gredaup.faridpurlg.gov.bd
 habiganjtsc.gov.bd
+hajj.gov.bd
 hamirdiup.faridpurlg.gov.bd
 hds1.ndc.gov.bd
 herpower.gov.bd
@@ -206,6 +211,7 @@ mail.bmdf.gov.bd
 mail.cedp.gov.bd
 mail.debendracollege.gov.bd
 mail.deodinajpur.gov.bd
+mail.egp.dghs.gov.bd
 mail.faridpurlg.gov.bd
 mail.gai.gov.bd
 mail.ggmcg.gov.bd
@@ -217,6 +223,7 @@ mail.nins.gov.bd
 mail.register.gameapp.gov.bd
 mail.rgc.gov.bd
 mail.rgccr.gov.bd
+mail.rgdc.gov.bd
 mail.rtsc.gov.bd
 mail.sheikhrusseldigitallab.gov.bd
 mail.ttc-pabna.gov.bd
@@ -234,6 +241,7 @@ mtsc.gov.bd
 munshiganjtsc.gov.bd
 myaccount.demo.muktopaath.gov.bd
 mygov.gov.bd
+nabiganjpaurashava.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
 nearneat.bargunapoly.gov.bd
@@ -245,6 +253,7 @@ nmv.dscc.gov.bd
 nowaparapourashava.gov.bd
 nsdi.gov.bd
 nshd.sreda.gov.bd
+nssd.navy.mil.bd
 nvacqr.nnsop.gov.bd
 old.gzmcfeni.gov.bd
 ossbhtpa.gov.bd
@@ -253,6 +262,7 @@ padmamuseum.gov.bd
 panchagarhmunicipality.gov.bd
 parbatipurtsc.gov.bd
 patgrammunicipality.gov.bd
+phghs.gov.bd
 pmes.moind.gov.bd
 pmfellowship.pmo.gov.bd
 portal.dgme.gov.bd
@@ -264,6 +274,7 @@ rdodterangpur.gov.bd
 restaurant.gov.bd
 rgc.gov.bd
 rgccr.gov.bd
+rgdc.gov.bd
 roc.gov.bd
 rrdhs.gov.bd
 rtsc.gov.bd
@@ -305,6 +316,7 @@ vamanager.dghs.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 web.bepza.gov.bd
+web.pgcb.gov.bd
 webdisk.cedp.gov.bd
 webdisk.debendracollege.gov.bd
 webdisk.deodinajpur.gov.bd
@@ -339,6 +351,7 @@ whm.faridpurlg.gov.bd
 www.addaup.comillalg.gov.bd
 www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
+www.admission.bmcs.gov.bd
 www.adranorthup.comillalg.gov.bd
 www.adrasouthup.comillalg.gov.bd
 www.adraup.comillalg.gov.bd
@@ -379,6 +392,7 @@ www.boalmariup.faridpurlg.gov.bd
 www.booking.bsa.gov.bd
 www.boxgonjup.comillalg.gov.bd
 www.brief.taxeszoneonedhaka.gov.bd
+www.bsddhaka.navy.mil.bd
 www.bsmsn.beza.gov.bd
 www.cedp.gov.bd
 www.central.comillalg.gov.bd
@@ -503,6 +517,7 @@ www.nilokhiup.comillalg.gov.bd
 www.nins.gov.bd
 www.nitor.gov.bd
 www.nshd.sreda.gov.bd
+www.nssd.navy.mil.bd
 www.old.gzmcfeni.gov.bd
 www.old.parbatipurtsc.gov.bd
 www.pariaup.comillalg.gov.bd
@@ -515,6 +530,7 @@ www.raykotnorthup.comillalg.gov.bd
 www.raykotsouthup.comillalg.gov.bd
 www.rgc.gov.bd
 www.rgccr.gov.bd
+www.rgdc.gov.bd
 www.rrdhs.gov.bd
 www.rtsc.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
