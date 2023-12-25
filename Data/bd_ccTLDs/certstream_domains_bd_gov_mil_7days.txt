@@ -11,8 +11,10 @@ amcchuadanga.gov.bd
 ams.moind.gov.bd
 apams.cabinet.gov.bd
 api.bsiedu.gov.bd
+api.freelancers.gov.bd
 api.rajabariup.gov.bd
 api.vaxepi.gov.bd
+application-review-asdhqemckqld.bicsaa.gov.bd
 application.zpgazipur.gov.bd
 appointment.srngih.gov.bd
 ara-bd.org.zpkhulna.gov.bd
@@ -22,6 +24,7 @@ autodiscover.bavs.gov.bd
 autodiscover.debendracollege.gov.bd
 autodiscover.dhakasouthcity.gov.bd
 autodiscover.mathbariapourashava.gov.bd
+autodiscover.pkcp.gov.bd
 autodiscover.ttc-pabna.gov.bd
 automation.bepza.gov.bd
 baghaicharipaurashava.gov.bd
@@ -42,6 +45,7 @@ biteshwarup.gov.bd
 bmp.gov.bd
 bnoip.navy.mil.bd
 bnoip2.navy.mil.bd
+boguramunicipality.gov.bd
 bogurapoly.gov.bd
 boithok.bcc.gov.bd
 bot.mujibjigyasa.gov.bd
@@ -92,6 +96,7 @@ cpanel.ggmcg.gov.bd
 cpanel.gps.gov.bd
 cpanel.iifc.gov.bd
 cpanel.mathbariapourashava.gov.bd
+cpanel.pkcp.gov.bd
 cpanel.rgccr.gov.bd
 cpanel.rtsc.gov.bd
 cpanel.sheikhrusseldigitallab.gov.bd
@@ -108,6 +113,7 @@ cpcalendars.ggmcg.gov.bd
 cpcalendars.gps.gov.bd
 cpcalendars.iifc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
+cpcalendars.pkcp.gov.bd
 cpcalendars.rgccr.gov.bd
 cpcalendars.rtsc.gov.bd
 cpcalendars.sheikhrusseldigitallab.gov.bd
@@ -123,6 +129,7 @@ cpcontacts.ggmcg.gov.bd
 cpcontacts.gps.gov.bd
 cpcontacts.iifc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
+cpcontacts.pkcp.gov.bd
 cpcontacts.rgccr.gov.bd
 cpcontacts.rtsc.gov.bd
 cpcontacts.sheikhrusseldigitallab.gov.bd
@@ -168,6 +175,7 @@ globe.com.ph.dhamraimunicipality.gov.bd
 globe.dhamraimunicipality.gov.bd
 gps.gov.bd
 gredaup.faridpurlg.gov.bd
+gsfy.brri.gov.bd
 guchhogram.gov.bd
 habiganjtsc.gov.bd
 hajj.gov.bd
@@ -178,6 +186,7 @@ hossainpurpourashava.gov.bd
 hotels.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
+hscresult1.bise-ctg.gov.bd
 iedcr.gov.bd
 iifc.gov.bd
 inventory.moind.gov.bd
@@ -199,6 +208,7 @@ kanaipurup.faridpurlg.gov.bd
 kapasiatsc.gov.bd
 keshabpurpouroshava.gov.bd
 kjml.gov.bd
+knsikhagrachari.gov.bd
 korakdi.faridpurlg.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kushtiapi.gov.bd
@@ -223,6 +233,7 @@ mail.iifc.gov.bd
 mail.jamalpurtsc.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.navy.mil.bd
+mail.pkcp.gov.bd
 mail.register.gameapp.gov.bd
 mail.rgc.gov.bd
 mail.rgccr.gov.bd
@@ -245,6 +256,7 @@ monohardipourashava.gov.bd
 moynaup.faridpurlg.gov.bd
 mtsc.gov.bd
 munshiganjtsc.gov.bd
+my.gameapp.gov.bd
 myaccount.demo.muktopaath.gov.bd
 mygov.gov.bd
 nabiganjpaurashava.gov.bd
@@ -261,8 +273,10 @@ nshd.sreda.gov.bd
 nssd.navy.mil.bd
 ntrc.gameapp.gov.bd
 nvacqr.nnsop.gov.bd
+old.gameapp.gov.bd
 old.gzmcfeni.gov.bd
 online.bpi.com.ph.dhamraimunicipality.gov.bd
+onlineadmission.bise-ctg.gov.bd
 ossbhtpa.gov.bd
 pabtec.gov.bd
 padmamuseum.gov.bd
@@ -271,6 +285,7 @@ parbatipurtsc.gov.bd
 patgrammunicipality.gov.bd
 pdo.khulnattc.gov.bd
 phghs.gov.bd
+pkcp.gov.bd
 pmes.moind.gov.bd
 pmfellowship.pmo.gov.bd
 portal.munshiganjtsc.gov.bd
@@ -318,6 +333,7 @@ test.zprajshahi.gov.bd
 testdiv.ansarvdpbank.gov.bd
 testimonial.noakhalicoll.gov.bd
 ticketing-brtc.gov.bd
+training.distgopalganj.gov.bd
 training.gov.bd
 trainingnis.cabinet.gov.bd
 ttc-pabna.gov.bd
@@ -340,6 +356,7 @@ webdisk.ggmcg.gov.bd
 webdisk.gps.gov.bd
 webdisk.iifc.gov.bd
 webdisk.mathbariapourashava.gov.bd
+webdisk.pkcp.gov.bd
 webdisk.rgccr.gov.bd
 webdisk.rtsc.gov.bd
 webdisk.sheikhrusseldigitallab.gov.bd
@@ -355,12 +372,14 @@ webmail.ggmcg.gov.bd
 webmail.gps.gov.bd
 webmail.iifc.gov.bd
 webmail.mathbariapourashava.gov.bd
+webmail.pkcp.gov.bd
 webmail.rgccr.gov.bd
 webmail.rtsc.gov.bd
 webmail.sheikhrusseldigitallab.gov.bd
 webmail.ttc-pabna.gov.bd
 webmail.zpgazipur.gov.bd
 whm.faridpurlg.gov.bd
+wp2304.gnc.gov.bd
 www.addaup.comillalg.gov.bd
 www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
@@ -374,6 +393,7 @@ www.andikotup.comillalg.gov.bd
 www.api.bsiedu.gov.bd
 www.api.rajabariup.gov.bd
 www.app.jamalpurttc.gov.bd
+www.application-review-asdhqemckqld.bicsaa.gov.bd
 www.application.zpgazipur.gov.bd
 www.appointment.srngih.gov.bd
 www.ara-bd.org.zpkhulna.gov.bd
@@ -541,6 +561,7 @@ www.pariaup.comillalg.gov.bd
 www.passgaciawestup.comillalg.gov.bd
 www.payalgachaup.comillalg.gov.bd
 www.pdo.khulnattc.gov.bd
+www.pkcp.gov.bd
 www.pmfellowship.pmo.gov.bd
 www.poduaup.comillalg.gov.bd
 www.proactive.raipurpourashava.gov.bd
@@ -579,6 +600,7 @@ www.sundolpurup.comillalg.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.testdiv.ansarvdpbank.gov.bd
 www.testimonial.noakhalicoll.gov.bd
+www.training.distgopalganj.gov.bd
 www.training.gov.bd
 www.ttc-pabna.gov.bd
 www.ujirpurup.comillalg.gov.bd
@@ -586,6 +608,7 @@ www.uttardaup.comillalg.gov.bd
 www.uttarhowlaup.comillalg.gov.bd
 www.vashaniaup.comillalg.gov.bd
 www.vitikandiup.comillalg.gov.bd
+www.wp2304.gnc.gov.bd
 www.xpiqgmalirqplfjrubcmajrurpwjrnbc.bicsaa.gov.bd
 www.zearkandiup.comillalg.gov.bd
 www.zinglatoliup.comillalg.gov.bd
