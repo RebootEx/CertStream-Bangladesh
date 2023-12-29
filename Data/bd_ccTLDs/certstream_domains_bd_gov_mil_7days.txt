@@ -39,6 +39,7 @@ bise-ctg.gov.bd
 bnppams.navy.mil.bd
 boalmaripaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
+boardadmin.comillaboard.gov.bd
 boguramunicipality.gov.bd
 bogurapoly.gov.bd
 boithok.bcc.gov.bd
@@ -149,6 +150,7 @@ dev.ttc-pabna.gov.bd
 dhakasouthcity.gov.bd
 dknvat.gov.bd
 doctor.bvc.gov.bd
+ebrc.mil.bd
 effhsc.comillaboard.gov.bd
 effjsc.comillaboard.gov.bd
 elearning.gov.bd
@@ -156,6 +158,8 @@ ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
 epicampaign.dghs.gov.bd
 eregistration.gov.bd
+erp.bakshiganjpourashava.gov.bd
+erp.bcsadminacademy.gov.bd
 erp.pgcb.gov.bd
 esifdata.comillaboard.gov.bd
 esifhsc.comillaboard.gov.bd
@@ -174,6 +178,7 @@ ghoraghatmunicipality.gov.bd
 ghoshpurup.faridpurlg.gov.bd
 gis.bwdb.gov.bd
 gisserver.grm.plandiv.gov.bd
+godagaricollege.gov.bd
 govindapurup1.gov.bd
 gredaup.faridpurlg.gov.bd
 grm.plandiv.gov.bd
@@ -188,8 +193,10 @@ herpower.gov.bd
 hijli.distgopalganj.gov.bd
 hpmdashboard.dghs.gov.bd
 hrms.pgcb.gov.bd
+hscresult.bise-ctg.gov.bd
 hscresult.comillaboard.gov.bd
 hscresult1.bise-ctg.gov.bd
+hscrollsheet.comillaboard.gov.bd
 iedcr.gov.bd
 iifc.gov.bd
 inventory.moind.gov.bd
@@ -233,12 +240,14 @@ mail.pkcp.gov.bd
 mail.pmis.urp.gov.bd
 mail.rgdc.gov.bd
 mail.sarkaribanglacollege.gov.bd
+mail.satkhiratsc.gov.bd
 mail.ttc-pabna.gov.bd
 mail.zpgazipur.gov.bd
 mail.zpnilphamari.gov.bd
 mail.zprajshahi.gov.bd
 majcharup.faridpurlg.gov.bd
 marmcd.gov.bd
+marmch.gov.bd
 marriage.gov.bd
 mathbariapourashava.gov.bd
 meeting.cabinet.gov.bd
@@ -260,6 +269,7 @@ narikelbariyaup.faridpurlg.gov.bd
 nasirabadup.faridpurlg.gov.bd
 ncbelearning.fpmu.gov.bd
 ncc-ward8.gov.bd
+news.dcarangpur.gov.bd
 nmv.dscc.gov.bd
 noakhaligmc.gov.bd
 notarypublic.gov.bd
@@ -332,6 +342,7 @@ sreenagarup.munshiganjlg.gov.bd
 sresult.bise-ctg.gov.bd
 sscb.gov.bd
 startupbangladeshvc.gov.bd
+store.ekshop.gov.bd
 studentmgt.gnc.gov.bd
 support.doict.gov.bd
 sylhettsc.gov.bd
@@ -353,9 +364,11 @@ ubid.gov.bd
 ucddigitalh.gov.bd
 ullaparapaurashava.gov.bd
 uphcsdp.gov.bd
+upms.ugc.gov.bd
 useoalfadanga.gov.bd
 useobagraj.gov.bd
 usf.bmd.gov.bd
+uttaraganabhaban.gov.bd
 uttarchannelup.faridpurlg.gov.bd
 vc2.bcc.gov.bd
 vr.bangabhaban.gov.bd
@@ -448,6 +461,7 @@ www.dhakasouthcity.gov.bd
 www.doctor.bvc.gov.bd
 www.ecampus.parbatipurtsc.gov.bd
 www.eregistration.gov.bd
+www.erp.bakshiganjpourashava.gov.bd
 www.faridganjmunicipality.gov.bd
 www.fdr.btcl.gov.bd
 www.flora-bnh.gov.bd
@@ -477,6 +491,7 @@ www.mgcm.gov.bd
 www.nabipurwestsmartup.gov.bd
 www.narikelbariyaup.faridpurlg.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
+www.news.dcarangpur.gov.bd
 www.nssd.navy.mil.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.dknvat.gov.bd
@@ -503,6 +518,7 @@ www.rgdc.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sarkaribanglacollege.gov.bd
+www.satkhiratsc.gov.bd
 www.sbmc.gov.bd
 www.shahali.gnc.gov.bd
 www.shariatpurmunicipality.gov.bd
