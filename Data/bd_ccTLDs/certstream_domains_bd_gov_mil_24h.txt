@@ -7,6 +7,7 @@ banaup.faridpurlg.gov.bd
 barisalboard.gov.bd
 betagimunicipality.gov.bd
 bhashancharup.faridpurlg.gov.bd
+bwdb.gov.bd
 case.gov.bd
 cevt.gov.bd
 chuadangacollege.gov.bd
@@ -27,6 +28,8 @@ cxbrcancersurveillance.mohfw.gov.bd
 dashboard.demo.muktopaath.gov.bd
 dcabarishal.gov.bd
 dhis2training.dghs.gov.bd
+ebrc.mil.bd
+edb.epb.gov.bd
 eregistration.gov.bd
 flora-bnh.gov.bd
 ftp.cevt.gov.bd
@@ -47,12 +50,16 @@ mail.satkhiratsc.gov.bd
 mail.zpnilphamari.gov.bd
 muktopaath.gov.bd
 panchasharup.munshiganjlg.gov.bd
+portal.satkhiratsc.gov.bd
 rangpurdivhrm.gov.bd
 rb.ictbdiasms.gov.bd
 rfm.beza.gov.bd
+rpi.gov.bd
 satkhiratsc.gov.bd
+server.bise-ctg.gov.bd
 taloramunicipality.gov.bd
 taxofficemanagement.gov.bd
+training.gov.bd
 vmgttest.beza.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.gsfmcbhola.gov.bd
@@ -68,6 +75,7 @@ www.bhashancharup.faridpurlg.gov.bd
 www.cevt.gov.bd
 www.dashboard.demo.muktopaath.gov.bd
 www.dcabarishal.gov.bd
+www.ebrc.mil.bd
 www.eregistration.gov.bd
 www.flora-bnh.gov.bd
 www.gaznaup.faridpurlg.gov.bd
@@ -78,8 +86,10 @@ www.la.ictbdiasms.gov.bd
 www.panchasharup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rb.ictbdiasms.gov.bd
+www.realestate.rpi.gov.bd
 www.rfm.beza.gov.bd
 www.satkhiratsc.gov.bd
+www.sums-apis.rpi.gov.bd
 www.vmgttest.beza.gov.bd
 www.zpnilphamari.gov.bd
 zpnilphamari.gov.bd
