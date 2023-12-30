@@ -24,6 +24,7 @@ autodiscover.mathbariapourashava.gov.bd
 autodiscover.pkcp.gov.bd
 autodiscover.pmis.urp.gov.bd
 autodiscover.rangpurdivhrm.gov.bd
+award.gov.bd
 azimnagorup.faridpurlg.gov.bd
 banaup.faridpurlg.gov.bd
 banglabazarup.munshiganjlg.gov.bd
@@ -84,6 +85,7 @@ chauddagrammunicipality.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
 chuadangacollege.gov.bd
+chumurdiup.faridpurlg.gov.bd
 cirt.gov.bd
 cltp.gov.bd
 cmch.gov.bd
@@ -92,10 +94,12 @@ cms.torjoni.gov.bd
 corona.gov.bd
 coxsbazaartsc.gov.bd
 cpanel.amarbangabandhu.gov.bd
+cpanel.award.gov.bd
 cpanel.bavs.gov.bd
 cpanel.cevt.gov.bd
 cpanel.cmch.gov.bd
 cpanel.coxsbazaartsc.gov.bd
+cpanel.demo.virtualclass.gov.bd
 cpanel.dhakasouthcity.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.flora-bnh.gov.bd
@@ -105,9 +109,11 @@ cpanel.pkcp.gov.bd
 cpanel.pmis.urp.gov.bd
 cpanel.rangpurdivhrm.gov.bd
 cpanel.sarkaribanglacollege.gov.bd
+cpcalendars.award.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.cmch.gov.bd
 cpcalendars.coxsbazaartsc.gov.bd
+cpcalendars.demo.virtualclass.gov.bd
 cpcalendars.dhakasouthcity.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.flora-bnh.gov.bd
@@ -117,9 +123,11 @@ cpcalendars.pkcp.gov.bd
 cpcalendars.pmis.urp.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.sarkaribanglacollege.gov.bd
+cpcontacts.award.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.cmch.gov.bd
 cpcontacts.coxsbazaartsc.gov.bd
+cpcontacts.demo.virtualclass.gov.bd
 cpcontacts.dhakasouthcity.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.flora-bnh.gov.bd
@@ -133,6 +141,7 @@ cpf.pgcb.gov.bd
 crelic-lged.gov.bd
 ctgcollege.gov.bd
 ctgtaxeszone2.gov.bd
+culmination.bise-ctg.gov.bd
 customsvaluation.gov.bd
 cxbrcancersurveillance.mohfw.gov.bd
 dangiup.faridpurlg.gov.bd
@@ -149,6 +158,7 @@ ebrc.mil.bd
 edb.epb.gov.bd
 effhsc.comillaboard.gov.bd
 effjsc.comillaboard.gov.bd
+effssc.comillaboard.gov.bd
 elearning.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
@@ -194,6 +204,7 @@ hscresult.comillaboard.gov.bd
 hscresult1.bise-ctg.gov.bd
 hscrollsheet.comillaboard.gov.bd
 iedcr.gov.bd
+iif.bise-ctg.gov.bd
 inventory.moind.gov.bd
 it.iifc.gov.bd
 jahapurup.faridpurlg.gov.bd
@@ -203,11 +214,14 @@ jitsi.vc8.bcc.gov.bd
 jmc.gov.bd
 jorkanoneastup.gov.bd
 jscadmitcard.bise-ctg.gov.bd
+kalamridhaup.faridpurlg.gov.bd
 kalipouragazi.gov.bd
 karimganjpourashava.gov.bd
 khulnattc.gov.bd
 kjml.gov.bd
+kkcp.gov.bd
 knsikhagrachari.gov.bd
+krishnanagarup.faridpurlg.gov.bd
 la.ictbdiasms.gov.bd
 land.gov.bd
 laskardiaup.faridpurlg.gov.bd
@@ -215,11 +229,13 @@ lbphs.gov.bd
 learning.dgme.gov.bd
 lms.ipemis.dpe.gov.bd
 madhukhalipaurashava.gov.bd
+mail.award.gov.bd
 mail.bavs.gov.bd
 mail.cbraj.gov.bd
 mail.cevdsc.gov.bd
 mail.cmch.gov.bd
 mail.coxsbazaartsc.gov.bd
+mail.demo.virtualclass.gov.bd
 mail.dhakasouthcity.gov.bd
 mail.egp.dghs.gov.bd
 mail.eregistration.gov.bd
@@ -247,6 +263,7 @@ megchamiup.faridpurlg.gov.bd
 mfstc.mfstc.gov.bd
 mgcm.gov.bd
 mmcm.gov.bd
+mohakaliup.munshiganjlg.gov.bd
 monglaportmunicipality.gov.bd
 monohardipourashava.gov.bd
 msw-soft.gov.bd
@@ -310,6 +327,7 @@ rgdc.gov.bd
 rpi.gov.bd
 rupapatup.faridpurlg.gov.bd
 sarkaribanglacollege.gov.bd
+satairup.faridpurlg.gov.bd
 sathi.gov.bd
 satkhiratsc.gov.bd
 sbmc.gov.bd
@@ -341,6 +359,7 @@ tagarbandaup.faridpurlg.gov.bd
 taloramunicipality.gov.bd
 taxappealzone2dhaka.gov.bd
 taxeszone3ctg.gov.bd
+taxeszone4ctg.gov.bd
 taxofficemanagement.gov.bd
 tds.taxeszone3ctg.gov.bd
 teacher.comillaboard.gov.bd
@@ -353,6 +372,7 @@ turn.vc8.bcc.gov.bd
 uat.dc-khagrachhari.gov.bd
 ubid.gov.bd
 ucddigitalh.gov.bd
+unorupganj.gov.bd
 uphcsdp.gov.bd
 upms.ugc.gov.bd
 useoalfadanga.gov.bd
@@ -364,9 +384,11 @@ vmgttest.beza.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 web.pgcb.gov.bd
+webdisk.award.gov.bd
 webdisk.bavs.gov.bd
 webdisk.cmch.gov.bd
 webdisk.coxsbazaartsc.gov.bd
+webdisk.demo.virtualclass.gov.bd
 webdisk.dhakasouthcity.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.flora-bnh.gov.bd
@@ -376,9 +398,11 @@ webdisk.pkcp.gov.bd
 webdisk.pmis.urp.gov.bd
 webdisk.rangpurdivhrm.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
+webmail.award.gov.bd
 webmail.bavs.gov.bd
 webmail.cmch.gov.bd
 webmail.coxsbazaartsc.gov.bd
+webmail.demo.virtualclass.gov.bd
 webmail.dhakasouthcity.gov.bd
 webmail.eregistration.gov.bd
 webmail.flora-bnh.gov.bd
@@ -395,9 +419,11 @@ www.admission.bmcs.gov.bd
 www.algiup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.amarbangabandhu.gov.bd
+www.app.taxeszone4ctg.gov.bd
 www.application-review-asdhqemckqld.bicsaa.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.auction.pgcb.gov.bd
+www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.banaup.faridpurlg.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
@@ -433,6 +459,7 @@ www.charmanairup.faridpurlg.gov.bd
 www.charnasirpurup.faridpurlg.gov.bd
 www.chicd.gov.bd
 www.chittagongvat.gov.bd
+www.chumurdiup.faridpurlg.gov.bd
 www.cirt.gov.bd
 www.cmch.gov.bd
 www.coxsbazaartsc.gov.bd
@@ -441,6 +468,7 @@ www.dangiup.faridpurlg.gov.bd
 www.dashboard.demo.muktopaath.gov.bd
 www.dc-khagrachhari.gov.bd
 www.dcabarishal.gov.bd
+www.demo.virtualclass.gov.bd
 www.dev.rgc.gov.bd
 www.dhakasouthcity.gov.bd
 www.ebrc.mil.bd
@@ -463,6 +491,8 @@ www.jahapurup.faridpurlg.gov.bd
 www.jorkanoneastup.gov.bd
 www.judgement-panel-secure-server.bicsaa.gov.bd
 www.juryboard-secure-login.bicsaa.gov.bd
+www.kalamridhaup.faridpurlg.gov.bd
+www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.laskardiaup.faridpurlg.gov.bd
 www.mail.navy.mil.bd
@@ -471,6 +501,7 @@ www.mathbariapourashava.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mgcm.gov.bd
+www.mohakaliup.munshiganjlg.gov.bd
 www.nabipurwestsmartup.gov.bd
 www.narikelbariyaup.faridpurlg.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
@@ -504,6 +535,7 @@ www.rfm.beza.gov.bd
 www.rgdc.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.sarkaribanglacollege.gov.bd
+www.satairup.faridpurlg.gov.bd
 www.satkhiratsc.gov.bd
 www.sbmc.gov.bd
 www.shahali.gnc.gov.bd
@@ -512,13 +544,16 @@ www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
 www.sohayota.gov.bd.melandahbhata.gov.bd
 www.sonapurup.faridpurlg.gov.bd
+www.sp-server.rpi.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
+www.student-portal.rpi.gov.bd
 www.studentmgt.gnc.gov.bd
 www.sums-apis.rpi.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.taxappealzone2dhaka.gov.bd
 www.taxeszone3ctg.gov.bd
 www.tds.taxeszone3ctg.gov.bd
+www.test.taxeszone4ctg.gov.bd
 www.training.distgopalganj.gov.bd
 www.training.gov.bd
 www.training.uphcsdp.gov.bd
