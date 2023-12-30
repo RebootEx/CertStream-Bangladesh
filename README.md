@@ -6,14 +6,14 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +10920462
+[+] New/ReNewed SSL Certs (ALL): +2582614
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +1636
-[+] New/ReNewed SSL Certs (Edu): +442
-[+] New/ReNewed SSL Certs (Gov|Mil): +95
-[+] New/ReNewed SSL Certs (ISPs): +2
+[+] New/ReNewed SSL Certs (ALL): +431
+[+] New/ReNewed SSL Certs (Edu): +184
+[+] New/ReNewed SSL Certs (Gov|Mil): +16
+[+] New/ReNewed SSL Certs (ISPs): +0
 
 
 ```
@@ -24,14 +24,14 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +61430324
+[+] New/ReNewed SSL Certs (ALL): +68162052
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +9624
-[+] New/ReNewed SSL Certs (Edu): +2895
-[+] New/ReNewed SSL Certs (Gov|Mil): +552
-[+] New/ReNewed SSL Certs (ISPs): +14
+[+] New/ReNewed SSL Certs (ALL): +10719
+[+] New/ReNewed SSL Certs (Edu): +3212
+[+] New/ReNewed SSL Certs (Gov|Mil): +611
+[+] New/ReNewed SSL Certs (ISPs): +15
 
 
 ```
