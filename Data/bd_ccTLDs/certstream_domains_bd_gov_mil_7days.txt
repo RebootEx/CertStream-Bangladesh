@@ -55,6 +55,7 @@ cafoagriculture.gov.bd
 cafobsc.gov.bd
 cafodefence.gov.bd
 cafoird.gov.bd
+cafopresident.gov.bd
 cafowater.gov.bd
 case.gov.bd
 cbraj.gov.bd
@@ -86,6 +87,7 @@ corona.gov.bd
 coxsbazaartsc.gov.bd
 cpanel.amarbangabandhu.gov.bd
 cpanel.award.gov.bd
+cpanel.cafopresident.gov.bd
 cpanel.cevt.gov.bd
 cpanel.cmch.gov.bd
 cpanel.coxsbazaartsc.gov.bd
@@ -98,7 +100,9 @@ cpanel.pkcp.gov.bd
 cpanel.pmis.urp.gov.bd
 cpanel.rangpurdivhrm.gov.bd
 cpanel.sarkaribanglacollege.gov.bd
+cpanel.server.melandahbhata.gov.bd
 cpcalendars.award.gov.bd
+cpcalendars.cafopresident.gov.bd
 cpcalendars.cmch.gov.bd
 cpcalendars.coxsbazaartsc.gov.bd
 cpcalendars.demo.virtualclass.gov.bd
@@ -110,7 +114,9 @@ cpcalendars.pkcp.gov.bd
 cpcalendars.pmis.urp.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.sarkaribanglacollege.gov.bd
+cpcalendars.server.melandahbhata.gov.bd
 cpcontacts.award.gov.bd
+cpcontacts.cafopresident.gov.bd
 cpcontacts.cmch.gov.bd
 cpcontacts.coxsbazaartsc.gov.bd
 cpcontacts.demo.virtualclass.gov.bd
@@ -122,8 +128,10 @@ cpcontacts.pkcp.gov.bd
 cpcontacts.pmis.urp.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
 cpcontacts.sarkaribanglacollege.gov.bd
+cpcontacts.server.melandahbhata.gov.bd
 cpf.pgcb.gov.bd
 crelic-lged.gov.bd
+ctgbcsir.gov.bd
 ctgcollege.gov.bd
 ctgtaxeszone2.gov.bd
 culmination.bise-ctg.gov.bd
@@ -196,6 +204,7 @@ hscresult1.bise-ctg.gov.bd
 hscrollsheet.comillaboard.gov.bd
 ihtdhaka.gov.bd
 iif.bise-ctg.gov.bd
+image.rdodterangpur.gov.bd
 it.iifc.gov.bd
 jahapurup.faridpurlg.gov.bd
 jaldhakamunicipality.gov.bd
@@ -217,6 +226,7 @@ laskardiaup.faridpurlg.gov.bd
 lbphs.gov.bd
 learning.dgme.gov.bd
 mail.award.gov.bd
+mail.cafopresident.gov.bd
 mail.cbraj.gov.bd
 mail.cevdsc.gov.bd
 mail.cmch.gov.bd
@@ -229,12 +239,14 @@ mail.gsfmcbhola.gov.bd
 mail.ihtdhaka.gov.bd
 mail.mgcm.gov.bd
 mail.navy.mil.bd
+mail.pbi.gov.bd
 mail.pkcp.gov.bd
 mail.pmis.urp.gov.bd
 mail.rangpurdivhrm.gov.bd
 mail.rgdc.gov.bd
 mail.sarkaribanglacollege.gov.bd
 mail.satkhiratsc.gov.bd
+mail.server.melandahbhata.gov.bd
 mail.tc.dghs.gov.bd
 mail.zpnilphamari.gov.bd
 mail.zprajshahi.gov.bd
@@ -265,6 +277,8 @@ noakhaligmc.gov.bd
 notarypublic.gov.bd
 nowparaup.faridpurlg.gov.bd
 nssd.navy.mil.bd
+ntrc.gameapp.gov.bd
+nuralapur.narsingdilg.gov.bd
 nurullagonjup.faridpurlg.gov.bd
 nwpgcl.gov.bd
 old.bise-ctg.gov.bd
@@ -302,6 +316,7 @@ ramnagarup.faridpurlg.gov.bd
 rampalup.munshiganjlg.gov.bd
 rangpurdivhrm.gov.bd
 rb.ictbdiasms.gov.bd
+register.gameapp.gov.bd
 regtravelagency.gov.bd
 resultmanagement.comillaboard.gov.bd
 rfm.beza.gov.bd
@@ -316,6 +331,7 @@ satkhiratsc.gov.bd
 sbmc.gov.bd
 scc.gov.bd
 server.bise-ctg.gov.bd
+server.melandahbhata.gov.bd
 service.gov.bd
 service.hbri.gov.bd
 shalikhatsc.gov.bd
@@ -329,6 +345,7 @@ smartpurbadhaireastup.gov.bd
 smartrajshahi.gov.bd
 sohayota.gov.bd
 sohayota.gov.bd.melandahbhata.gov.bd
+sonali238.dinajpurboard.gov.bd
 sonapurup.faridpurlg.gov.bd
 spmmis.bwdb.gov.bd
 sreenagarup.munshiganjlg.gov.bd
@@ -371,6 +388,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 web.pgcb.gov.bd
 webdisk.award.gov.bd
+webdisk.cafopresident.gov.bd
 webdisk.cmch.gov.bd
 webdisk.coxsbazaartsc.gov.bd
 webdisk.demo.virtualclass.gov.bd
@@ -383,6 +401,7 @@ webdisk.pmis.urp.gov.bd
 webdisk.rangpurdivhrm.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
 webmail.award.gov.bd
+webmail.cafopresident.gov.bd
 webmail.cmch.gov.bd
 webmail.coxsbazaartsc.gov.bd
 webmail.demo.virtualclass.gov.bd
@@ -395,6 +414,8 @@ webmail.pkcp.gov.bd
 webmail.pmis.urp.gov.bd
 webmail.rangpurdivhrm.gov.bd
 webmail.sarkaribanglacollege.gov.bd
+webmail.server.melandahbhata.gov.bd
+whm.server.melandahbhata.gov.bd
 wp2304.gnc.gov.bd
 www.adharaup.munshiganjlg.gov.bd
 www.admin-control-secure-server-hash.bicsaa.gov.bd
@@ -421,6 +442,7 @@ www.bsddhaka.navy.mil.bd
 www.buraichup.faridpurlg.gov.bd
 www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 www.cafobsc.gov.bd
+www.cafopresident.gov.bd
 www.cbraj.gov.bd
 www.cevccumilla.gov.bd
 www.cevcumillasadar.gov.bd
@@ -465,6 +487,7 @@ www.gsfmcbhola.gov.bd
 www.hds1.ndc.gov.bd
 www.herpower.gov.bd
 www.ihtdhaka.gov.bd
+www.image.rdodterangpur.gov.bd
 www.it.iifc.gov.bd
 www.jahapurup.faridpurlg.gov.bd
 www.jorkanoneastup.gov.bd
@@ -475,6 +498,7 @@ www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.laskardiaup.faridpurlg.gov.bd
 www.mail.navy.mil.bd
+www.mail.pbi.gov.bd
 www.majcharup.faridpurlg.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mfstc.mfstc.gov.bd
@@ -486,6 +510,8 @@ www.nasirabadup.faridpurlg.gov.bd
 www.news.dcarangpur.gov.bd
 www.nowparaup.faridpurlg.gov.bd
 www.nssd.navy.mil.bd
+www.ntrc.gameapp.gov.bd
+www.nuralapur.narsingdilg.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.dknvat.gov.bd
 www.oldmis.iresppw-brdb.gov.bd
@@ -506,6 +532,7 @@ www.rampalup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rb.ictbdiasms.gov.bd
 www.realestate.rpi.gov.bd
+www.register.gameapp.gov.bd
 www.regtravelagency.gov.bd
 www.reporting.uphcsdp.gov.bd
 www.rfm.beza.gov.bd
@@ -515,6 +542,7 @@ www.sarkaribanglacollege.gov.bd
 www.satairup.faridpurlg.gov.bd
 www.satkhiratsc.gov.bd
 www.sbmc.gov.bd
+www.server.melandahbhata.gov.bd
 www.shariatpurmunicipality.gov.bd
 www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
