@@ -1,3 +1,4 @@
+2apbn.gov.bd
 accounting.smartrajshahi.gov.bd
 adharaup.munshiganjlg.gov.bd
 admin.tourismctg.gov.bd
@@ -26,7 +27,9 @@ basbmed.gov.bd
 bdhckl.gov.bd
 belkuchipoura.gov.bd
 betagimunicipality.gov.bd
+bgb.gov.bd
 bhashancharup.faridpurlg.gov.bd
+bhawalup.faridpurlg.gov.bd
 bise-ctg.gov.bd
 bnoip.navy.mil.bd
 bnoip2.navy.mil.bd
@@ -35,6 +38,7 @@ boalmaripaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
 boardadmin.comillaboard.gov.bd
 bogurapoly.gov.bd
+borhamganjcollege.gov.bd
 bstieapp.gov.bd
 buraichup.faridpurlg.gov.bd
 burichangsadarup.gov.bd
@@ -49,6 +53,7 @@ cafowater.gov.bd
 cafoworks.gov.bd
 case.gov.bd
 cdc.gov.bd
+center.comillaboard.gov.bd
 certificate.comillaboard.gov.bd
 cevccumilla.gov.bd
 cevcumillasadar.gov.bd
@@ -126,6 +131,7 @@ cxbrcancersurveillance.mohfw.gov.bd
 dadpurup.faridpurlg.gov.bd
 dangiup.faridpurlg.gov.bd
 dashboard.demo.muktopaath.gov.bd
+dashboard.dghs.gov.bd
 dashboard.otms.nass.gov.bd
 dcabarishal.gov.bd
 dcarangpur.gov.bd
@@ -150,6 +156,7 @@ erp.pgcb.gov.bd
 esifdata.comillaboard.gov.bd
 esifhsc.comillaboard.gov.bd
 esifjsc.bise-ctg.gov.bd
+esifjsc.comillaboard.gov.bd
 esifssc.bise-ctg.gov.bd
 esifssc2017.bise-ctg.gov.bd
 estore.bsc.gov.bd
@@ -158,6 +165,7 @@ etif.bise-ctg.gov.bd
 etif.comillaboard.gov.bd
 faridganjmunicipality.gov.bd
 flora-bnh.gov.bd
+freelancer.gov.bd
 ftp.cevt.gov.bd
 gaznaup.faridpurlg.gov.bd
 gems.gov.bd
@@ -201,6 +209,7 @@ mail.badc.gov.bd
 mail.cafopresident.gov.bd
 mail.cevdsc.gov.bd
 mail.cmch.gov.bd
+mail.cpatos.gov.bd
 mail.demo.virtualclass.gov.bd
 mail.eregistration.gov.bd
 mail.flora-bnh.gov.bd
@@ -219,6 +228,7 @@ mail.vatdhkeast.gov.bd
 mail.zpnilphamari.gov.bd
 marmch.gov.bd
 marriage.gov.bd
+mazadiaup.faridpurlg.gov.bd
 meeting.cabinet.gov.bd
 meeting.pgcb.gov.bd
 megchamiup.faridpurlg.gov.bd
@@ -258,6 +268,7 @@ pdf.bise-ctg.gov.bd
 pkcp.gov.bd
 policy.gov.bd
 portal.netrokonatsc.gov.bd
+portal.nothi.gov.bd
 portal.satkhiratsc.gov.bd
 prepaidgas.gov.bd
 proinfo.lged.gov.bd
@@ -284,6 +295,7 @@ service.hbri.gov.bd
 shalikhatsc.gov.bd
 share.pmo.gov.bd
 shariatpurmunicipality.gov.bd
+shekharup.faridpurlg.gov.bd
 smartavijogbox.gov.bd
 smartbdsummit.gov.bd
 smartpurbadhaireastup.gov.bd
@@ -291,6 +303,7 @@ smartrajshahi.gov.bd
 smsbjri.gov.bd
 sonali238.dinajpurboard.gov.bd
 sonapurup.faridpurlg.gov.bd
+sreekailup.comillalg.gov.bd
 sresult.bise-ctg.gov.bd
 sscesif.comillaboard.gov.bd
 ssf.gov.bd
@@ -370,6 +383,7 @@ www.banaup.faridpurlg.gov.bd
 www.barakandaup.gov.bd
 www.bargunamunicipality.gov.bd
 www.bhashancharup.faridpurlg.gov.bd
+www.bhawalup.faridpurlg.gov.bd
 www.bise-ctg.gov.bd
 www.bnoip.navy.mil.bd
 www.bnoip2.navy.mil.bd
@@ -425,6 +439,7 @@ www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.lutercharup.gov.bd
 www.mail.pbi.gov.bd
+www.mazadiaup.faridpurlg.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mgcm.gov.bd
@@ -457,9 +472,11 @@ www.satairup.faridpurlg.gov.bd
 www.satkhiratsc.gov.bd
 www.server.melandahbhata.gov.bd
 www.shariatpurmunicipality.gov.bd
+www.shekharup.faridpurlg.gov.bd
 www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
 www.sonapurup.faridpurlg.gov.bd
+www.sp-assets.rpi.gov.bd
 www.sp-server.rpi.gov.bd
 www.ssmcmh.gov.bd
 www.student-portal.rpi.gov.bd
@@ -475,5 +492,7 @@ www.transmission.btcl.gov.bd
 www.vatdhkeast.gov.bd
 www.vimruli.gov.bd
 www.vmgttest.beza.gov.bd
+www.zoom-live.demo.muktopaath.gov.bd
 www.zpnilphamari.gov.bd
+zoom-live.demo.muktopaath.gov.bd
 zpnilphamari.gov.bd
