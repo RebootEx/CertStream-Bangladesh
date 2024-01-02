@@ -8,6 +8,7 @@ ahsanmanzilticket.gov.bd
 algiup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 amarbangabandhu.gov.bd
+amr.cdc.gov.bd
 api.freelancers.gov.bd
 api.otms.nass.gov.bd
 api.torjoni.gov.bd
@@ -33,6 +34,8 @@ belkuchipoura.gov.bd
 betagimunicipality.gov.bd
 bhashancharup.faridpurlg.gov.bd
 bise-ctg.gov.bd
+bnoip.navy.mil.bd
+bnoip2.navy.mil.bd
 bnppams.navy.mil.bd
 boalmaripaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
@@ -42,6 +45,7 @@ bogurapoly.gov.bd
 bstieapp.gov.bd
 bstiqrcode.gov.bd
 buraichup.faridpurlg.gov.bd
+burichangsadarup.gov.bd
 buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 bwdb.gov.bd
 cafoagriculture.gov.bd
@@ -52,6 +56,7 @@ cafopresident.gov.bd
 cafowater.gov.bd
 cafoworks.gov.bd
 case.gov.bd
+cdc.gov.bd
 certificate.comillaboard.gov.bd
 cevccumilla.gov.bd
 cevcumillasadar.gov.bd
@@ -68,6 +73,7 @@ charjahukandaup.faridpurlg.gov.bd
 charnasirpurup.faridpurlg.gov.bd
 chatbot.a2i.gov.bd
 chicd.gov.bd
+chittagongttc.gov.bd
 chittagongvat.gov.bd
 chuadangacollege.gov.bd
 chumurdiup.faridpurlg.gov.bd
@@ -75,6 +81,7 @@ cltp.gov.bd
 cmch.gov.bd
 cmp.gov.bd
 cms.torjoni.gov.bd
+comillaregion.highwaypolice.gov.bd
 corona.gov.bd
 coxsbazaartsc.gov.bd
 cpanel.amarbangabandhu.gov.bd
@@ -171,6 +178,7 @@ gems.gov.bd
 gharuaup.faridpurlg.gov.bd
 ghoraghatmunicipality.gov.bd
 ghoshpurup.faridpurlg.gov.bd
+gis-titasgas.gov.bd
 gisserver.grm.plandiv.gov.bd
 gobindagonjpourashava.gov.bd
 godagaricollege.gov.bd
@@ -184,6 +192,7 @@ gzmcfeni.gov.bd
 hajj.gov.bd
 hathazaripourashava.gov.bd
 hds1.ndc.gov.bd
+hmis.dghs.gov.bd
 hpmdashboard.dghs.gov.bd
 hrms.pgcb.gov.bd
 hscresult.bise-ctg.gov.bd
@@ -209,7 +218,9 @@ la.ictbdiasms.gov.bd
 land.gov.bd
 lbphs.gov.bd
 learning.dgme.gov.bd
+lutercharup.gov.bd
 mail.award.gov.bd
+mail.badc.gov.bd
 mail.cafopresident.gov.bd
 mail.cevdsc.gov.bd
 mail.cmch.gov.bd
@@ -246,6 +257,7 @@ mymail.ekshop.gov.bd
 name.bise-ctg.gov.bd
 nameageserv.comillaboard.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
+narsingdilg.gov.bd
 nasirabadup.faridpurlg.gov.bd
 ncbelearning.fpmu.gov.bd
 ncc.gov.bd
@@ -289,6 +301,7 @@ ramkantapurup.faridpurlg.gov.bd
 rampalup.munshiganjlg.gov.bd
 rangpurdivhrm.gov.bd
 rb.ictbdiasms.gov.bd
+rdcd.gov.bd
 register.gameapp.gov.bd
 regtravelagency.gov.bd
 resultmanagement.comillaboard.gov.bd
@@ -312,6 +325,7 @@ smartbdsummit.gov.bd
 smartdistrict.gov.bd
 smartpurbadhaireastup.gov.bd
 smartrajshahi.gov.bd
+smsbjri.gov.bd
 sonali238.dinajpurboard.gov.bd
 sonapurup.faridpurlg.gov.bd
 spmmis.bwdb.gov.bd
@@ -322,7 +336,9 @@ sscesif.comillaboard.gov.bd
 ssf.gov.bd
 ssmcmh.gov.bd
 store.ekshop.gov.bd
+student.bmcs.gov.bd
 studentmgt.gnc.gov.bd
+students.npi.gov.bd
 support.doict.gov.bd
 sylhettsc.gov.bd
 taloramunicipality.gov.bd
@@ -369,6 +385,7 @@ webdisk.rangpurdivhrm.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
 webdisk.ssmcmh.gov.bd
 webmail.award.gov.bd
+webmail.badc.gov.bd
 webmail.cafopresident.gov.bd
 webmail.cmch.gov.bd
 webmail.coxsbazaartsc.gov.bd
@@ -402,8 +419,11 @@ www.barakandaup.gov.bd
 www.bargunamunicipality.gov.bd
 www.bhashancharup.faridpurlg.gov.bd
 www.bise-ctg.gov.bd
+www.bnoip.navy.mil.bd
+www.bnoip2.navy.mil.bd
 www.bnppams.navy.mil.bd
 www.buraichup.faridpurlg.gov.bd
+www.burichangsadarup.gov.bd
 www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 www.cafobsc.gov.bd
 www.cafopresident.gov.bd
@@ -424,6 +444,7 @@ www.chicd.gov.bd
 www.chittagongvat.gov.bd
 www.chumurdiup.faridpurlg.gov.bd
 www.cmch.gov.bd
+www.comillaregion.highwaypolice.gov.bd
 www.coxsbazaartsc.gov.bd
 www.customsvaluation.gov.bd
 www.dadpurup.faridpurlg.gov.bd
@@ -454,6 +475,7 @@ www.jahapurup.faridpurlg.gov.bd
 www.kalamridhaup.faridpurlg.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
+www.lutercharup.gov.bd
 www.mail.pbi.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mfstc.mfstc.gov.bd
@@ -499,12 +521,14 @@ www.sp-server.rpi.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
 www.ssmcmh.gov.bd
 www.student-portal.rpi.gov.bd
+www.student.bmcs.gov.bd
 www.studentmgt.gnc.gov.bd
 www.sums-apis.rpi.gov.bd
 www.taxappealzone2dhaka.gov.bd
 www.taxeszone3ctg.gov.bd
 www.tds.taxeszone3ctg.gov.bd
 www.test.taxeszone4ctg.gov.bd
+www.tourismctg.gov.bd
 www.training.distgopalganj.gov.bd
 www.training.uphcsdp.gov.bd
 www.transmission.btcl.gov.bd
