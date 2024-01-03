@@ -13,6 +13,7 @@ amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
 api.torjoni.gov.bd
 arjsc.roc.gov.bd
+army.mil.bd
 atgharup.faridpurlg.gov.bd
 auction.pgcb.gov.bd
 autodiscover.ghk.gov.bd
@@ -54,6 +55,7 @@ cafoworks.gov.bd
 case.gov.bd
 ccap.krishibatighor.gov.bd
 cdc.gov.bd
+cdn.epb-exporttracker.gov.bd
 center.comillaboard.gov.bd
 certificate.comillaboard.gov.bd
 cevccumilla.gov.bd
@@ -67,6 +69,7 @@ cevt.gov.bd
 cevta.gov.bd
 chalibhangaup.gov.bd
 champs.iedcr.gov.bd
+charjashordiup.faridpurlg.gov.bd
 chatbot.a2i.gov.bd
 chicd.gov.bd
 chittagongttc.gov.bd
@@ -185,6 +188,7 @@ gaznaup.faridpurlg.gov.bd
 gbrcr.gov.bd
 ghabc.gov.bd
 gharuaup.faridpurlg.gov.bd
+ghjashore.gov.bd
 ghk.gov.bd
 ghoraghatmunicipality.gov.bd
 gis-titasgas.gov.bd
@@ -220,6 +224,8 @@ jscadmitcard.bise-ctg.gov.bd
 judiciary.gov.bd
 kalamridhaup.faridpurlg.gov.bd
 kashinagarup.comillalg.gov.bd
+katigramhighschool.gnc.gov.bd
+kawliberaup.faridpurlg.gov.bd
 kishoreganjtsc.gov.bd
 kkcp.gov.bd
 krishnanagarup.faridpurlg.gov.bd
@@ -288,6 +294,7 @@ nuralapurup.narsingdilg.gov.bd
 nurullagonjup.faridpurlg.gov.bd
 nutritionprofile.gov.bd
 old.bise-ctg.gov.bd
+old.demo.muktopaath.gov.bd
 old.dghs.gov.bd
 old.dknvat.gov.bd
 oldweb.rpir.gov.bd
@@ -314,6 +321,7 @@ residence.dc-khagrachhari.gov.bd
 resultmanagement.comillaboard.gov.bd
 rfm.beza.gov.bd
 rgamc.gov.bd
+rollcheck.bise-ctg.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 satairup.faridpurlg.gov.bd
@@ -356,6 +364,7 @@ tourismctg.gov.bd
 training.gov.bd
 tsc.gov.bd
 tscgopal.gov.bd
+tujerpurup.faridpurlg.gov.bd
 turn.vc8.bcc.gov.bd
 ubid.gov.bd
 ucddigitalh.gov.bd
@@ -444,6 +453,7 @@ www.cevrajshahi.gov.bd
 www.cevt.gov.bd
 www.cevta.gov.bd
 www.chalibhangaup.gov.bd
+www.charjashordiup.faridpurlg.gov.bd
 www.chicd.gov.bd
 www.chittagongvat.gov.bd
 www.chumurdiup.faridpurlg.gov.bd
@@ -479,6 +489,8 @@ www.inheritance.dc-khagrachhari.gov.bd
 www.it.iifc.gov.bd
 www.kalamridhaup.faridpurlg.gov.bd
 www.kashinagarup.comillalg.gov.bd
+www.katigramhighschool.gnc.gov.bd
+www.kawliberaup.faridpurlg.gov.bd
 www.kishoreganjtsc.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
@@ -534,6 +546,7 @@ www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
 www.transmission.btcl.gov.bd
 www.tscgopal.gov.bd
+www.tujerpurup.faridpurlg.gov.bd
 www.upsylhetholdingtax.gov.bd
 www.vatdhkeast.gov.bd
 www.vimruli.gov.bd
