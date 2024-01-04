@@ -2,6 +2,7 @@
 accounting.smartrajshahi.gov.bd
 adharaup.munshiganjlg.gov.bd
 admin.dc-khagrachhari.gov.bd
+agromet.brri.gov.bd
 ahsanmanzilticket.gov.bd
 algiup.faridpurlg.gov.bd
 alkaraup.comillalg.gov.bd
@@ -9,6 +10,7 @@ amarbangabandhu.gov.bd
 amarekusheyboimela.gov.bd
 amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
+api.bscl.gov.bd
 api.torjoni.gov.bd
 army.mil.bd
 atgharup.faridpurlg.gov.bd
@@ -28,6 +30,7 @@ bbms.dghs.gov.bd
 bdhckl.gov.bd
 betagimunicipality.gov.bd
 bgb.gov.bd
+bhairabmunicipality.gov.bd
 bhashancharup.faridpurlg.gov.bd
 bhawalup.faridpurlg.gov.bd
 biman.ekpay.gov.bd
@@ -61,6 +64,7 @@ cmch.gov.bd
 cmp.gov.bd
 cms.torjoni.gov.bd
 comillaregion.highwaypolice.gov.bd
+communitydhis.mohfw.gov.bd
 controlroom.dghs.gov.bd
 corona.gov.bd
 coxsbazarmunicipality.gov.bd
@@ -130,6 +134,7 @@ dashboard.demo.muktopaath.gov.bd
 dashboard.dghs.gov.bd
 dcabarishal.gov.bd
 dcarangpur.gov.bd
+dch.gov.bd
 dhis2training.dghs.gov.bd
 digitaldcpatuakhali.gov.bd
 digitalhaat.gov.bd
@@ -180,6 +185,7 @@ iif.bise-ctg.gov.bd
 image.rdodterangpur.gov.bd
 ims-accounts.mra.gov.bd
 ims-test.mra.gov.bd
+info.dgda.gov.bd
 inheritance.dc-khagrachhari.gov.bd
 jagannathpurup.comillalg.gov.bd
 jhalokathimunicipality.gov.bd
@@ -195,6 +201,7 @@ katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
 kishoreganjtsc.gov.bd
 kkcp.gov.bd
+kmhc.gov.bd
 krishnanagarup.faridpurlg.gov.bd
 la.ictbdiasms.gov.bd
 land.gov.bd
@@ -208,6 +215,7 @@ mail.badc.gov.bd
 mail.cafopresident.gov.bd
 mail.cafoshipping.gov.bd
 mail.cpatos.gov.bd
+mail.dch.gov.bd
 mail.demo.virtualclass.gov.bd
 mail.dncc-dch.gov.bd
 mail.eregistration.gov.bd
@@ -249,6 +257,7 @@ ngosatkhira.gov.bd
 ngosavar.gov.bd
 nnsop.gov.bd
 nowparaup.faridpurlg.gov.bd
+nrais.dgda.gov.bd
 nsdi.gov.bd
 ntrc.gameapp.gov.bd
 nuralapur.narsingdilg.gov.bd
@@ -264,6 +273,7 @@ panchasharup.munshiganjlg.gov.bd
 payment.ekshop.gov.bd
 pensionfacerecognition.finance.gov.bd
 phonebook.pgcb.gov.bd
+pibstore.gnc.gov.bd
 pkcp.gov.bd
 portal.nothi.gov.bd
 portal.satkhiratsc.gov.bd
@@ -285,6 +295,7 @@ satairup.faridpurlg.gov.bd
 satkhirapolice.gov.bd
 satkhiratsc.gov.bd
 scan.jessoreboard.gov.bd
+schoolform.comillaboard.gov.bd
 senbagcollege.gov.bd
 server.bise-ctg.gov.bd
 server.melandahbhata.gov.bd
@@ -315,6 +326,7 @@ tsc.gov.bd
 tscgopal.gov.bd
 tujerpurup.faridpurlg.gov.bd
 turn.vc8.bcc.gov.bd
+tvr.bscl.gov.bd
 unorupganj.gov.bd
 upms.ugc.gov.bd
 upsylhetholdingtax.gov.bd
@@ -392,6 +404,7 @@ www.comillaregion.highwaypolice.gov.bd
 www.dadpurup.faridpurlg.gov.bd
 www.dashboard.demo.muktopaath.gov.bd
 www.dcabarishal.gov.bd
+www.dch.gov.bd
 www.demo.virtualclass.gov.bd
 www.dmc.fima.gov.bd
 www.dncc-dch.gov.bd
@@ -436,6 +449,7 @@ www.nuralapurup.narsingdilg.gov.bd
 www.oldweb.rpir.gov.bd
 www.panchasharup.munshiganjlg.gov.bd
 www.payment.ekshop.gov.bd
+www.pibstore.gnc.gov.bd
 www.pkcp.gov.bd
 www.python.secretariatclinic.gov.bd
 www.rampalup.munshiganjlg.gov.bd
