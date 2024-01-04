@@ -18,9 +18,11 @@ cpcalendars.iras.bamis.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.iras.bamis.gov.bd
 demo.kabinazrulcollege.gov.bd
+dpi.gov.bd
 epb-exporttracker.gov.bd
 ffwc.bwdb.gov.bd
 godagaricollege.gov.bd
+hrm.sprangpur.gov.bd
 hrmdss.gov.bd
 info.dgda.gov.bd
 iras.bamis.gov.bd
@@ -30,17 +32,20 @@ mail.ccr.gov.bd
 mail.iras.bamis.gov.bd
 mne.socialprotection.gov.bd
 muladimunicipality.gov.bd
+myclass.gov.bd
 narsingdilg.gov.bd
 nrais.dgda.gov.bd
 payment.ekshop.gov.bd
 profile.rmch.gov.bd
 queue.cgbdsydney.gov.bd
 roadshow.sec.gov.bd
+rpi.gov.bd
 senbagcollege.gov.bd
 services.cgbdsydney.gov.bd
 staging.shift.gov.bd
 story.ansarvdpbank.gov.bd
 test.bgmc.gov.bd
+uniontax.gov.bd
 virtualclass.gov.bd
 webdisk.ccr.gov.bd
 webdisk.iras.bamis.gov.bd
@@ -50,6 +55,7 @@ www.brdb.iresppw-brdb.gov.bd
 www.ccr.gov.bd
 www.circle34.taxeszone2.gov.bd
 www.demo.kabinazrulcollege.gov.bd
+www.hrm.sprangpur.gov.bd
 www.iras.bamis.gov.bd
 www.meherpara.narsingdilg.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
@@ -58,3 +64,4 @@ www.profile.rmch.gov.bd
 www.roadshow.sec.gov.bd
 www.staging.shift.gov.bd
 www.story.ansarvdpbank.gov.bd
+www.test.rpi.gov.bd
