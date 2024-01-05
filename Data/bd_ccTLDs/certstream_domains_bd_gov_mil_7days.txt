@@ -23,6 +23,7 @@ autodiscover.tscgopal.gov.bd
 award.gov.bd
 azimnagorup.faridpurlg.gov.bd
 bagatup.faridpurlg.gov.bd
+bajrajoginiup.munshiganjlg.gov.bd
 banaup.faridpurlg.gov.bd
 barisalboard.gov.bd
 basb.gov.bd
@@ -75,6 +76,7 @@ cpanel.cafoshipping.gov.bd
 cpanel.cevt.gov.bd
 cpanel.demo.virtualclass.gov.bd
 cpanel.dncc-dch.gov.bd
+cpanel.drodhaka.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.flora-bnh.gov.bd
 cpanel.ghk.gov.bd
@@ -93,6 +95,7 @@ cpcalendars.cafopresident.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.demo.virtualclass.gov.bd
 cpcalendars.dncc-dch.gov.bd
+cpcalendars.drodhaka.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.flora-bnh.gov.bd
 cpcalendars.ghk.gov.bd
@@ -110,6 +113,7 @@ cpcontacts.cafopresident.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.demo.virtualclass.gov.bd
 cpcontacts.dncc-dch.gov.bd
+cpcontacts.drodhaka.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.flora-bnh.gov.bd
 cpcontacts.ghk.gov.bd
@@ -135,12 +139,14 @@ dashboard.dghs.gov.bd
 dcabarishal.gov.bd
 dcarangpur.gov.bd
 dch.gov.bd
+demo.kabinazrulcollege.gov.bd
 dhis2training.dghs.gov.bd
 digitaldcpatuakhali.gov.bd
 digitalhaat.gov.bd
 dmc.fima.gov.bd
 dms.cca.gov.bd
 dncc-dch.gov.bd
+drodhaka.gov.bd
 dumainup.faridpurlg.gov.bd
 ebrc.mil.bd
 edb.epb.gov.bd
@@ -169,9 +175,11 @@ gis-titasgas.gov.bd
 gmscn.dac.gov.bd
 gobindagonjpourashava.gov.bd
 godagaricollege.gov.bd
+gopalpurup.faridpurlg.gov.bd
 gpufp.gov.bd
 grsreport.karmasangsthanbank.gov.bd
 gsfmcbhola.gov.bd
+gurudaspurpourosava.gov.bd
 hajj.gov.bd
 hathazaripourashava.gov.bd
 hds1.ndc.gov.bd
@@ -218,6 +226,7 @@ mail.cpatos.gov.bd
 mail.dch.gov.bd
 mail.demo.virtualclass.gov.bd
 mail.dncc-dch.gov.bd
+mail.drodhaka.gov.bd
 mail.eregistration.gov.bd
 mail.flora-bnh.gov.bd
 mail.ghk.gov.bd
@@ -313,6 +322,7 @@ ssf.gov.bd
 ssmcmh.gov.bd
 staging.shift.gov.bd
 store.ekshop.gov.bd
+story.ansarvdpbank.gov.bd
 student.bmcs.gov.bd
 students.npi.gov.bd
 sylhettsc.gov.bd
@@ -336,6 +346,7 @@ va.dghs.gov.bd
 vatdhkeast.gov.bd
 vcsavar.gov.bd
 vimruli.gov.bd
+virtualclass.gov.bd
 vmgttest.beza.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -345,6 +356,7 @@ webdisk.cafopresident.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.demo.virtualclass.gov.bd
 webdisk.dncc-dch.gov.bd
+webdisk.drodhaka.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.flora-bnh.gov.bd
 webdisk.ghk.gov.bd
@@ -362,6 +374,7 @@ webmail.cafopresident.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.demo.virtualclass.gov.bd
 webmail.dncc-dch.gov.bd
+webmail.drodhaka.gov.bd
 webmail.eregistration.gov.bd
 webmail.flora-bnh.gov.bd
 webmail.ghk.gov.bd
@@ -386,6 +399,7 @@ www.atgharup.faridpurlg.gov.bd
 www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.bagatup.faridpurlg.gov.bd
+www.bajrajoginiup.munshiganjlg.gov.bd
 www.banaup.faridpurlg.gov.bd
 www.bhashancharup.faridpurlg.gov.bd
 www.bhawalup.faridpurlg.gov.bd
@@ -405,9 +419,11 @@ www.dadpurup.faridpurlg.gov.bd
 www.dashboard.demo.muktopaath.gov.bd
 www.dcabarishal.gov.bd
 www.dch.gov.bd
+www.demo.kabinazrulcollege.gov.bd
 www.demo.virtualclass.gov.bd
 www.dmc.fima.gov.bd
 www.dncc-dch.gov.bd
+www.drodhaka.gov.bd
 www.dumainup.faridpurlg.gov.bd
 www.ebrc.mil.bd
 www.eregistration.gov.bd
@@ -419,6 +435,7 @@ www.gaznaup.faridpurlg.gov.bd
 www.gharuaup.faridpurlg.gov.bd
 www.ghk.gov.bd
 www.gmscn.dac.gov.bd
+www.gopalpurup.faridpurlg.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.gsfmcbhola.gov.bd
 www.hds1.ndc.gov.bd
@@ -470,6 +487,7 @@ www.sp-assets.rpi.gov.bd
 www.sp-server.rpi.gov.bd
 www.ssmcmh.gov.bd
 www.staging.shift.gov.bd
+www.story.ansarvdpbank.gov.bd
 www.student-portal.rpi.gov.bd
 www.student.bmcs.gov.bd
 www.sums-apis.rpi.gov.bd
