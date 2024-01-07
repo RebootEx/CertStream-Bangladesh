@@ -7,6 +7,7 @@ agent.cgbdsydney.gov.bd
 agromet.brri.gov.bd
 ahsanmanzilticket.gov.bd
 alkaraup.comillalg.gov.bd
+amarbangabandhu.gov.bd
 amarekusheyboimela.gov.bd
 amr.cdc.gov.bd
 amtalimunicipality.gov.bd
@@ -20,6 +21,7 @@ autodiscover.ccr.gov.bd
 autodiscover.ghk.gov.bd
 autodiscover.iras.bamis.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
+autodiscover.naogaontsc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.pkcp.gov.bd
 autodiscover.tscgopal.gov.bd
@@ -76,6 +78,7 @@ cpanel.cafopresident.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.caotnt.gov.bd
 cpanel.ccr.gov.bd
+cpanel.cumillapoly.gov.bd
 cpanel.demo.virtualclass.gov.bd
 cpanel.dncc-dch.gov.bd
 cpanel.drodhaka.gov.bd
@@ -84,6 +87,7 @@ cpanel.ghk.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.kishoreganjtsc.gov.bd
+cpanel.naogaontsc.gov.bd
 cpanel.pkcp.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.ssmcmh.gov.bd
@@ -95,6 +99,7 @@ cpcalendars.cafopresident.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.caotnt.gov.bd
 cpcalendars.ccr.gov.bd
+cpcalendars.cumillapoly.gov.bd
 cpcalendars.demo.virtualclass.gov.bd
 cpcalendars.dncc-dch.gov.bd
 cpcalendars.drodhaka.gov.bd
@@ -103,6 +108,7 @@ cpcalendars.ghk.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcalendars.iras.bamis.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
+cpcalendars.naogaontsc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.pkcp.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
@@ -114,6 +120,7 @@ cpcontacts.cafopresident.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.caotnt.gov.bd
 cpcontacts.ccr.gov.bd
+cpcontacts.cumillapoly.gov.bd
 cpcontacts.demo.virtualclass.gov.bd
 cpcontacts.dncc-dch.gov.bd
 cpcontacts.drodhaka.gov.bd
@@ -122,6 +129,7 @@ cpcontacts.ghk.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.iras.bamis.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
+cpcontacts.naogaontsc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.pkcp.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
@@ -133,6 +141,7 @@ csc.dghs.gov.bd
 ctgbcsir.gov.bd
 culmination.bise-ctg.gov.bd
 culmination.comillaboard.gov.bd
+cumillapoly.gov.bd
 dashboard.dghs.gov.bd
 dch.gov.bd
 debidwarpourashava.gov.bd
@@ -156,6 +165,7 @@ emrd.gov.bd
 epb-exporttracker.gov.bd
 erd.gov.bd
 eregistration.gov.bd
+erp.barisalboard.gov.bd
 esifjsc.comillaboard.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
@@ -185,6 +195,7 @@ hsd.gov.bd
 ictd.gov.bd
 ihtdhaka.gov.bd
 iif.bise-ctg.gov.bd
+ikfmss.gov.bd
 image.rdodterangpur.gov.bd
 imed.gov.bd
 ims-accounts.mra.gov.bd
@@ -207,6 +218,7 @@ kalirbazarup.gov.bd
 kashinagarup.comillalg.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
+kgmc.gov.bd
 kiosk.cgbdsydney.gov.bd
 kishoreganjtsc.gov.bd
 kkcp.gov.bd
@@ -230,6 +242,7 @@ mail.cafoshipping.gov.bd
 mail.caotnt.gov.bd
 mail.ccr.gov.bd
 mail.cpatos.gov.bd
+mail.cumillapoly.gov.bd
 mail.dch.gov.bd
 mail.demo.virtualclass.gov.bd
 mail.dncc-dch.gov.bd
@@ -240,6 +253,7 @@ mail.ghk.gov.bd
 mail.ihtdhaka.gov.bd
 mail.iras.bamis.gov.bd
 mail.kishoreganjtsc.gov.bd
+mail.naogaontsc.gov.bd
 mail.patgrammunicipality.gov.bd
 mail.pbi.gov.bd
 mail.pkcp.gov.bd
@@ -255,6 +269,7 @@ manos.mofa.gov.bd
 mazadiaup.faridpurlg.gov.bd
 meeting.pgcb.gov.bd
 mefwd.gov.bd
+melandahbhata.gov.bd
 mhapsd.gov.bd
 mincom.gov.bd
 minland.gov.bd
@@ -294,6 +309,7 @@ muladimunicipality.gov.bd
 myclass.gov.bd
 mymail.ekshop.gov.bd
 nameageserv.comillaboard.gov.bd
+naogaontsc.gov.bd
 narsingdilg.gov.bd
 ncc.gov.bd
 nccrfhd.gov.bd
@@ -312,8 +328,10 @@ nuralapurup.narsingdilg.gov.bd
 nutritionprofile.gov.bd
 old.demo.muktopaath.gov.bd
 old.dghs.gov.bd
+oldup.comillalg.gov.bd
 oldweb.rpir.gov.bd
 oss.beza.gov.bd
+pabnapourashava.gov.bd
 panchagarhmunicipality.gov.bd
 payment.ekshop.gov.bd
 pensionfacerecognition.finance.gov.bd
@@ -352,6 +370,7 @@ services.cgbdsydney.gov.bd
 shed.gov.bd
 shekharup.faridpurlg.gov.bd
 shmrmi.gov.bd
+shop.cirt.gov.bd
 sid.gov.bd
 smartavijogbox.gov.bd
 smartdistrict.gov.bd
@@ -362,6 +381,7 @@ smsc.ekshop.gov.bd
 soltrack.gov.bd
 soms.gov.bd
 sonali238.dinajpurboard.gov.bd
+sp-server.rpi.gov.bd
 sreekailup.comillalg.gov.bd
 sscesif.comillaboard.gov.bd
 ssd.gov.bd
@@ -375,6 +395,7 @@ sylhettsc.gov.bd
 taxeszone4ctg.gov.bd
 taxeszonecumilla.gov.bd
 test.bgmc.gov.bd
+tihdtcbproj.gov.bd
 tmed.gov.bd
 tourismctg.gov.bd
 tsc.gov.bd
@@ -383,11 +404,13 @@ ttc.gov.bd
 tujerpurup.faridpurlg.gov.bd
 turn.vc8.bcc.gov.bd
 tvr.bscl.gov.bd
+uccbrdbshyamnagar.gov.bd
 uniontax.gov.bd
 unorupganj.gov.bd
 upsylhetholdingtax.gov.bd
 va.dghs.gov.bd
 vatdhkeast.gov.bd
+vaxepi.gov.bd
 verify-network.ekshop.gov.bd
 virtualclass.gov.bd
 vr.bangabhaban.gov.bd
@@ -398,6 +421,7 @@ webdisk.cafopresident.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.caotnt.gov.bd
 webdisk.ccr.gov.bd
+webdisk.cumillapoly.gov.bd
 webdisk.demo.virtualclass.gov.bd
 webdisk.dncc-dch.gov.bd
 webdisk.drodhaka.gov.bd
@@ -406,6 +430,7 @@ webdisk.ghk.gov.bd
 webdisk.ihtdhaka.gov.bd
 webdisk.iras.bamis.gov.bd
 webdisk.kishoreganjtsc.gov.bd
+webdisk.naogaontsc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.pkcp.gov.bd
 webdisk.ssmcmh.gov.bd
@@ -417,6 +442,7 @@ webmail.cafopresident.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.caotnt.gov.bd
 webmail.ccr.gov.bd
+webmail.cumillapoly.gov.bd
 webmail.demo.virtualclass.gov.bd
 webmail.dncc-dch.gov.bd
 webmail.drodhaka.gov.bd
@@ -425,6 +451,7 @@ webmail.ghk.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.kishoreganjtsc.gov.bd
+webmail.naogaontsc.gov.bd
 webmail.pkcp.gov.bd
 webmail.server.melandahbhata.gov.bd
 webmail.shmrmi.gov.bd
@@ -462,6 +489,7 @@ www.cloud.ekshop.gov.bd
 www.comillaregion.highwaypolice.gov.bd
 www.commission.ekshop.gov.bd
 www.cttcdmp.gov.bd
+www.cumillapoly.gov.bd
 www.dch.gov.bd
 www.demo.kabinazrulcollege.gov.bd
 www.demo.kmc.gov.bd
@@ -499,12 +527,14 @@ www.mail.pbi.gov.bd
 www.mazadiaup.faridpurlg.gov.bd
 www.meherpara.narsingdilg.gov.bd
 www.mohakaliup.munshiganjlg.gov.bd
+www.naogaontsc.gov.bd
 www.new.vatdhkeast.gov.bd
 www.newveirson.comillalg.gov.bd
 www.nsdi.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
+www.oldup.comillalg.gov.bd
 www.oldweb.rpir.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.payment.ekshop.gov.bd
@@ -531,6 +561,7 @@ www.staging.shift.gov.bd
 www.story.ansarvdpbank.gov.bd
 www.student-portal.rpi.gov.bd
 www.student.bmcs.gov.bd
+www.tcb.melandahbhata.gov.bd
 www.test.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
@@ -539,6 +570,8 @@ www.tujerpurup.faridpurlg.gov.bd
 www.upsylhetholdingtax.gov.bd
 www.vatdhkeast.gov.bd
 www.verify-network.ekshop.gov.bd
+www.vgd.melandahbhata.gov.bd
+www.vgf.melandahbhata.gov.bd
 www.zoom-live.demo.muktopaath.gov.bd
 zoom-live.demo.muktopaath.gov.bd
 zpdinajpur.gov.bd
