@@ -1,6 +1,7 @@
 2apbn.gov.bd
 a.ttcbog.gov.bd
 academy.ekshop.gov.bd
+accounts.bise-ctg.gov.bd
 admin.cgbdsydney.gov.bd
 admin.dc-khagrachhari.gov.bd
 admin.mbgc.gov.bd
@@ -14,7 +15,10 @@ amarekusheyboimela.gov.bd
 amtalimunicipality.gov.bd
 api.bfacf-ticket.gov.bd
 api.bscl.gov.bd
+api.spellcheck.bangla.gov.bd
 app.dghs.gov.bd
+apps.training.grs.gov.bd
+archives.btvlive.gov.bd
 army.mil.bd
 attendance.ekshop.gov.bd
 autodiscover.cafoshipping.gov.bd
@@ -27,6 +31,7 @@ autodiscover.pabnatsc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.pkcp.gov.bd
 autodiscover.tscgopal.gov.bd
+award.moysports.gov.bd
 back.socialprotection.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 ballabhdiup.faridpurlg.gov.bd
@@ -43,12 +48,16 @@ bise-ctg.gov.bd
 bmdbwcsrp.gov.bd
 bnoip.navy.mil.bd
 bnoip2.navy.mil.bd
+bnppams.navy.mil.bd
 borhamganjcollege.gov.bd
 bpmis.bsc.gov.bd
 brahmanbariamunicipality.gov.bd
 brdb.iresppw-brdb.gov.bd
 bridgesdivision.gov.bd
+bsdkhu.navy.mil.bd
+btcl.gov.bd
 cabinet.gov.bd
+cafolaw.gov.bd
 cafoshipping.gov.bd
 cafoworks.gov.bd
 caotnt.gov.bd
@@ -69,6 +78,7 @@ commission.ekshop.gov.bd
 communitydhis.mohfw.gov.bd
 controlroom.dghs.gov.bd
 coxsbazarmunicipality.gov.bd
+cp.kda.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.caotnt.gov.bd
 cpanel.ccr.gov.bd
@@ -180,10 +190,12 @@ godagaricollege.gov.bd
 gopalpurup.faridpurlg.gov.bd
 gurudaspurpourosava.gov.bd
 hmis.dghs.gov.bd
+hmis.uphcsdp.gov.bd
 hrm.sprangpur.gov.bd
 hrmdss.gov.bd
 hrms.pgcb.gov.bd
 hsd.gov.bd
+icml.gov.bd
 ictd.gov.bd
 ikfmss.gov.bd
 imed.gov.bd
@@ -234,6 +246,7 @@ mail.drodhaka.gov.bd
 mail.eregistration.gov.bd
 mail.gameapp.gov.bd
 mail.ghk.gov.bd
+mail.icml.gov.bd
 mail.iras.bamis.gov.bd
 mail.kishoreganjtsc.gov.bd
 mail.kmpi.gov.bd
@@ -301,13 +314,16 @@ ncc.gov.bd
 nccrfhd.gov.bd
 ndc.gov.bd
 new.vatdhkeast.gov.bd
+newetif.bise-ctg.gov.bd
 newveirson.comillalg.gov.bd
 ngmc.gov.bd
 nient.gov.bd
 nise3.gov.bd
 nnsop.gov.bd
+noc.kda.gov.bd
 nrais.dgda.gov.bd
 nsdi.gov.bd
+nsdkhulna.navy.mil.bd
 ntrc.gameapp.gov.bd
 nuralapurup.narsingdilg.gov.bd
 nutritionprofile.gov.bd
@@ -315,10 +331,12 @@ ocei.gov.bd
 old.demo.muktopaath.gov.bd
 old.dghs.gov.bd
 oldup.comillalg.gov.bd
+olt.btcl.gov.bd
 oss.beza.gov.bd
 pabnapourashava.gov.bd
 pabnatsc.gov.bd
 payment.ekshop.gov.bd
+payroll.btcl.gov.bd
 pensionfacerecognition.finance.gov.bd
 phonebook.pgcb.gov.bd
 pibstore.gnc.gov.bd
@@ -345,6 +363,7 @@ rrdhs.gov.bd
 rthd.gov.bd
 scan.jessoreboard.gov.bd
 schedule.brri.gov.bd
+school.gov.bd
 schoolform.comillaboard.gov.bd
 senbagcollege.gov.bd
 services.cgbdsydney.gov.bd
@@ -381,6 +400,7 @@ test.bgmc.gov.bd
 testimonials.gov.bd
 tihdtcbproj.gov.bd
 tmed.gov.bd
+training.grs.gov.bd
 tsc.gov.bd
 tscgopal.gov.bd
 ttc.gov.bd
@@ -449,7 +469,9 @@ www.ballabhdiup.faridpurlg.gov.bd
 www.bhawalup.faridpurlg.gov.bd
 www.bnoip.navy.mil.bd
 www.bnoip2.navy.mil.bd
+www.bnppams.navy.mil.bd
 www.brdb.iresppw-brdb.gov.bd
+www.bsdkhu.navy.mil.bd
 www.cafoshipping.gov.bd
 www.cafoworks.gov.bd
 www.caotnt.gov.bd
@@ -481,6 +503,7 @@ www.gmscn.dac.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.hrm.sprangpur.gov.bd
 www.hrms.pgcb.gov.bd
+www.icml.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
 www.iras.bamis.gov.bd
 www.itconnect.gov.bd
@@ -503,6 +526,7 @@ www.naogaontsc.gov.bd
 www.new.vatdhkeast.gov.bd
 www.newveirson.comillalg.gov.bd
 www.nsdi.gov.bd
+www.nsdkhulna.navy.mil.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
 www.nutritionprofile.gov.bd
@@ -533,6 +557,7 @@ www.sp-server.rpi.gov.bd
 www.ssmcmh.gov.bd
 www.staging.shift.gov.bd
 www.story.ansarvdpbank.gov.bd
+www.taxsurvey.gov.bd
 www.tcb.melandahbhata.gov.bd
 www.test.rpi.gov.bd
 www.tourismctg.gov.bd
