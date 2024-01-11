@@ -53,6 +53,7 @@ bnppams.navy.mil.bd
 borhamganjcollege.gov.bd
 brahmanbariamunicipality.gov.bd
 bridgesdivision.gov.bd
+brta1.bpodms.gov.bd
 bsc.gov.bd
 bsdkhu.navy.mil.bd
 btcl.gov.bd
@@ -97,6 +98,7 @@ cpanel.distgopalganj.gov.bd
 cpanel.drodhaka.gov.bd
 cpanel.dsheraj.gov.bd
 cpanel.eregistration.gov.bd
+cpanel.fta.gov.bd
 cpanel.kmpi.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.naogaontsc.gov.bd
@@ -126,6 +128,7 @@ cpcalendars.distgopalganj.gov.bd
 cpcalendars.drodhaka.gov.bd
 cpcalendars.dsheraj.gov.bd
 cpcalendars.eregistration.gov.bd
+cpcalendars.fta.gov.bd
 cpcalendars.kmpi.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.naogaontsc.gov.bd
@@ -156,6 +159,7 @@ cpcontacts.distgopalganj.gov.bd
 cpcontacts.drodhaka.gov.bd
 cpcontacts.dsheraj.gov.bd
 cpcontacts.eregistration.gov.bd
+cpcontacts.fta.gov.bd
 cpcontacts.kmpi.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.naogaontsc.gov.bd
@@ -181,6 +185,7 @@ demo.kmc.gov.bd
 demo.taxeszone2.gov.bd
 deopanchagarh.gov.bd
 deukhola.upmymensinghholdingtax.gov.bd
+dfdms.lddp.gov.bd
 dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
 dhobaura.upmymensinghholdingtax.gov.bd
@@ -189,8 +194,10 @@ distgopalganj.gov.bd
 dmpwsid.gov.bd
 dncc.gov.bd
 dns.ekshop.gov.bd
+do.attendance.gov.bd
 dob.ekshop.gov.bd
 dpg.ekshop.gov.bd
+dpg.grs.gov.bd
 drive-registration.egovcloud.gov.bd
 drive.egovcloud.gov.bd
 drodhaka.gov.bd
@@ -215,6 +222,7 @@ fowlab.gov.bd
 fpcsqit.dgfp.gov.bd
 freelancer.gov.bd
 freelancers.gov.bd
+fta.gov.bd
 gallery.sarkaribanglacollege.gov.bd
 ghjashore.gov.bd
 gms.dscc.gov.bd
@@ -237,6 +245,8 @@ info.dgda.gov.bd
 inheritance.dc-rangamati.gov.bd
 inheritance.gov.bd
 ird.gov.bd
+islampur.sohayota.gov.bd
+iswarganj.upmymensinghholdingtax.gov.bd
 itconnect.gov.bd
 jessoreboardcollege.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -265,6 +275,7 @@ lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 login.borhamganjcollege.gov.bd
 logo.gov.bd
+logs.gems.gov.bd
 lwservice.gov.bd
 maijdeetsc.gov.bd
 mail.aarazzaktsc.gov.bd
@@ -333,6 +344,7 @@ mail.eedmoe.gov.bd
 mail.erecruitment.bcc.gov.bd
 mail.eregistration.gov.bd
 mail.finance.gov.bd
+mail.fta.gov.bd
 mail.gameapp.gov.bd
 mail.hbri.gov.bd
 mail.icb.gov.bd
@@ -439,6 +451,7 @@ mowr.gov.bd
 moysports.gov.bd
 msw.gov.bd
 mujibjigyasa.gov.bd
+muktagacha.upmymensinghholdingtax.gov.bd
 myclass.gov.bd
 mydocreader.gov.bd
 mymensinghsadar.upmymensinghholdingtax.gov.bd
@@ -463,6 +476,7 @@ pabnapourashava.gov.bd
 pabnatsc.gov.bd
 patgrammunicipality.gov.bd
 payroll.btcl.gov.bd
+pelx.dfsrcaab.gov.bd
 phulpur.upmymensinghholdingtax.gov.bd
 pibstore.gnc.gov.bd
 pkcp.gov.bd
@@ -480,6 +494,7 @@ rdobarishal.gov.bd
 register.gameapp.gov.bd
 report.gov.bd
 revenueshare.btcl.gov.bd
+ric.gov.bd
 rms.bscl.gov.bd
 roc.gov.bd
 rpi.gov.bd
@@ -517,6 +532,7 @@ spi.gov.bd
 sprangpur.gov.bd
 ssd.gov.bd
 ssndebidwar.gov.bd
+ssrenew.ocei.gov.bd
 story.ansarvdpbank.gov.bd
 tafaruqueschoolandcollege.gov.bd
 tangailtsc.gov.bd
@@ -561,6 +577,7 @@ webdisk.distgopalganj.gov.bd
 webdisk.drodhaka.gov.bd
 webdisk.dsheraj.gov.bd
 webdisk.eregistration.gov.bd
+webdisk.fta.gov.bd
 webdisk.kmpi.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.naogaontsc.gov.bd
@@ -590,6 +607,7 @@ webmail.distgopalganj.gov.bd
 webmail.drodhaka.gov.bd
 webmail.dsheraj.gov.bd
 webmail.eregistration.gov.bd
+webmail.fta.gov.bd
 webmail.kmpi.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.naogaontsc.gov.bd
@@ -603,6 +621,7 @@ webmail.ssndebidwar.gov.bd
 webmail.tangailtsc.gov.bd
 webmail.upmymensinghholdingtax.gov.bd
 webmail.urp.gov.bd
+wp632.gnc.gov.bd
 wqtrms.dphe.gov.bd
 www.a.ttcbog.gov.bd
 www.aarazzaktsc.gov.bd
@@ -656,6 +675,7 @@ www.dsheraj.gov.bd
 www.eregistration.gov.bd
 www.feedback.ekshop.gov.bd
 www.freelancer.gov.bd
+www.fta.gov.bd
 www.gallery.sarkaribanglacollege.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
@@ -664,6 +684,8 @@ www.haripur.uppabnaholdingtax.gov.bd
 www.house.bargunapoly.gov.bd
 www.hrm.sprangpur.gov.bd
 www.icml.gov.bd
+www.islampur.sohayota.gov.bd
+www.iswarganj.upmymensinghholdingtax.gov.bd
 www.itconnect.gov.bd
 www.job.bsc.gov.bd
 www.kalirbazarup.gov.bd
@@ -682,6 +704,7 @@ www.majhpara.uppabnaholdingtax.gov.bd
 www.meetingmgt.beza.gov.bd
 www.monitoring.landzoning.gov.bd
 www.mujibjigyasa.gov.bd
+www.muktagacha.upmymensinghholdingtax.gov.bd
 www.mulgram.uppabnaholdingtax.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.naogaontsc.gov.bd
@@ -694,6 +717,7 @@ www.nutritionprofile.gov.bd
 www.oldup.comillalg.gov.bd
 www.pabnatsc.gov.bd
 www.patgrammunicipality.gov.bd
+www.pelx.dfsrcaab.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.pibstore.gnc.gov.bd
 www.pkcp.gov.bd
@@ -730,6 +754,7 @@ www.urp.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
+www.wp632.gnc.gov.bd
 zpdinajpur.gov.bd
 zpsherpur.gov.bd
 zsorajshahi.gov.bd
