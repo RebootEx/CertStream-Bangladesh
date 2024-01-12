@@ -18,6 +18,7 @@ app.dghs.gov.bd
 app.muladimunicipality.gov.bd
 apps.training.grs.gov.bd
 archives.btvlive.gov.bd
+assignment.bise-ctg.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.cafoemrd.gov.bd
@@ -39,10 +40,12 @@ ballabhdiup.faridpurlg.gov.bd
 bamis.gov.bd
 bandarbantsc.gov.bd
 bangla.srngih.gov.bd
+barisalboard.gov.bd
 bdris.melandahbhata.gov.bd
 beanibazarpaurashava.gov.bd
 beta.nmcp.gov.bd
 bh410mwccpp.nwpgcl.gov.bd
+bill.dphe.gov.bd
 billingtest.alaap.gov.bd
 bise-ctg.gov.bd
 bmet.dev.niseee.gov.bd
@@ -103,6 +106,7 @@ cpanel.nutritionprofile.gov.bd
 cpanel.pabnatsc.gov.bd
 cpanel.pkcp.gov.bd
 cpanel.publichearing.gov.bd
+cpanel.sac.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.ssndebidwar.gov.bd
 cpanel.tangailtsc.gov.bd
@@ -135,6 +139,7 @@ cpcalendars.pabnatsc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.pkcp.gov.bd
 cpcalendars.publichearing.gov.bd
+cpcalendars.sac.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.ssndebidwar.gov.bd
 cpcalendars.tangailtsc.gov.bd
@@ -165,6 +170,7 @@ cpcontacts.pabnatsc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.pkcp.gov.bd
 cpcontacts.publichearing.gov.bd
+cpcontacts.sac.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.ssndebidwar.gov.bd
 cpcontacts.tangailtsc.gov.bd
@@ -219,6 +225,7 @@ gallery.sarkaribanglacollege.gov.bd
 ghjashore.gov.bd
 ghk.ghk.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
+greenmolbd.gov.bd
 haripur.uppabnaholdingtax.gov.bd
 helpline.comillaboard.gov.bd
 hid.shrlive.dghs.gov.bd
@@ -237,6 +244,7 @@ jessoreboardcollege.gov.bd
 jgmc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jobfair.awt.mil.bd
+jscmark.comillaboard.gov.bd
 judipay.gov.bd
 kalirbazarup.gov.bd
 karmasangsthanbank.gov.bd
@@ -358,6 +366,7 @@ mail.nutritionprofile.gov.bd
 mail.pabnatsc.gov.bd
 mail.pallisanchaybank.gov.bd
 mail.patgrammunicipality.gov.bd
+mail.patuakhalimunicipality.gov.bd
 mail.payfixation.gov.bd
 mail.pbi.gov.bd
 mail.pd.gov.bd
@@ -370,6 +379,7 @@ mail.publichearing.gov.bd
 mail.railway.gov.bd
 mail.rdcd.gov.bd
 mail.regtravelagency.gov.bd
+mail.sac.gov.bd
 mail.sfcworks.gov.bd
 mail.sfdf.gov.bd
 mail.shmrmi.gov.bd
@@ -402,6 +412,7 @@ mybtcl.btcl.gov.bd
 mydocreader.gov.bd
 mymensinghsadar.upmymensinghholdingtax.gov.bd
 naogaontsc.gov.bd
+ncc-ward8.gov.bd
 newetif.bise-ctg.gov.bd
 nicvd.gov.bd
 nidch.gov.bd
@@ -417,6 +428,7 @@ olt.btcl.gov.bd
 pabnapourashava.gov.bd
 pabnatsc.gov.bd
 patgrammunicipality.gov.bd
+patuakhalimunicipality.gov.bd
 payroll.btcl.gov.bd
 pelx.dfsrcaab.gov.bd
 phulpur.upmymensinghholdingtax.gov.bd
@@ -432,6 +444,8 @@ revenueshare.btcl.gov.bd
 ric.gov.bd
 rms.bscl.gov.bd
 roc.gov.bd
+sac.gov.bd
+sacgov.sac.gov.bd
 saejp.gov.bd
 sandbox.dife.gov.bd
 schedule.brri.gov.bd
@@ -446,12 +460,14 @@ smail.bcc.gov.bd
 smartavijogbox.gov.bd
 smartbangarawestup.gov.bd
 smartchapitalaup.gov.bd
+smarthaat.gov.bd
 smartpurbadhairwestup.gov.bd
 smartramchandrapursouthup.gov.bd
 smmbox18.bcc.gov.bd
 smsc.ekshop.gov.bd
 snipegate.karmasangsthanbank.gov.bd
 socialprotection.gov.bd
+soft.taxesinspection.gov.bd
 solar2.sreda.gov.bd
 soms.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
@@ -461,9 +477,11 @@ spi.gov.bd
 sprangpur.gov.bd
 ssndebidwar.gov.bd
 ssrenew.ocei.gov.bd
+support.hpi.gov.bd
 tafaruqueschoolandcollege.gov.bd
 tangailtsc.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
+taxappealzone4dhaka.gov.bd
 taxeszone6.gov.bd
 tcbextra.dewanganjbhata.gov.bd
 testimonials.gov.bd
@@ -512,6 +530,7 @@ webdisk.pabnatsc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.pkcp.gov.bd
 webdisk.publichearing.gov.bd
+webdisk.sac.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.ssndebidwar.gov.bd
 webdisk.tangailtsc.gov.bd
@@ -539,8 +558,10 @@ webmail.laxmipurtsc.gov.bd
 webmail.naogaontsc.gov.bd
 webmail.nutritionprofile.gov.bd
 webmail.pabnatsc.gov.bd
+webmail.patuakhalimunicipality.gov.bd
 webmail.pkcp.gov.bd
 webmail.publichearing.gov.bd
+webmail.sac.gov.bd
 webmail.sfcworks.gov.bd
 webmail.shmrmi.gov.bd
 webmail.ssndebidwar.gov.bd
@@ -639,6 +660,7 @@ www.nutritionprofile.gov.bd
 www.oldup.comillalg.gov.bd
 www.pabnatsc.gov.bd
 www.patgrammunicipality.gov.bd
+www.patuakhalimunicipality.gov.bd
 www.pelx.dfsrcaab.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.pkcp.gov.bd
@@ -647,6 +669,8 @@ www.psm.beza.gov.bd
 www.publichearing.gov.bd
 www.register.gameapp.gov.bd
 www.ric.gov.bd
+www.sac.gov.bd
+www.sacgov.sac.gov.bd
 www.sfcworks.gov.bd
 www.shmrmi.gov.bd
 www.smartbangarawestup.gov.bd
@@ -654,6 +678,7 @@ www.smartchapitalaup.gov.bd
 www.smartpurbadhairwestup.gov.bd
 www.smartramchandrapursouthup.gov.bd
 www.snipegate.karmasangsthanbank.gov.bd
+www.soft.taxesinspection.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
 www.solar2.sreda.gov.bd
@@ -662,6 +687,7 @@ www.sp-server.rpi.gov.bd
 www.ssndebidwar.gov.bd
 www.tangailtsc.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
+www.taxappealzone4dhaka.gov.bd
 www.taxsurvey.gov.bd
 www.tcb.melandahbhata.gov.bd
 www.tcbextra.dewanganjbhata.gov.bd
@@ -677,4 +703,5 @@ www.zpmoulvibazar.gov.bd
 zpdinajpur.gov.bd
 zpmoulvibazar.gov.bd
 zpsherpur.gov.bd
+zpthakurgaon.gov.bd
 zsorajshahi.gov.bd
