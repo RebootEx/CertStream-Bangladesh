@@ -61,6 +61,7 @@ btcl.gov.bd
 cafocagpscec.gov.bd
 cafocultural.gov.bd
 cafoemrd.gov.bd
+cafofooddisaster.gov.bd
 cafoland.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
@@ -98,6 +99,7 @@ cpanel.eregistration.gov.bd
 cpanel.fta.gov.bd
 cpanel.jcbs.gov.bd
 cpanel.kmpi.gov.bd
+cpanel.knsikhagrachari.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.nutritionprofile.gov.bd
 cpanel.pabnatsc.gov.bd
@@ -127,6 +129,7 @@ cpcalendars.eregistration.gov.bd
 cpcalendars.fta.gov.bd
 cpcalendars.jcbs.gov.bd
 cpcalendars.kmpi.gov.bd
+cpcalendars.knsikhagrachari.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.nutritionprofile.gov.bd
 cpcalendars.oss.bepza.gov.bd
@@ -156,6 +159,7 @@ cpcontacts.eregistration.gov.bd
 cpcontacts.fta.gov.bd
 cpcontacts.jcbs.gov.bd
 cpcontacts.kmpi.gov.bd
+cpcontacts.knsikhagrachari.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.nutritionprofile.gov.bd
 cpcontacts.pabnatsc.gov.bd
@@ -195,12 +199,14 @@ edp.gov.bd
 eduhub.gov.bd
 egov.cabinet.gov.bd
 ehrm.fireservice.gov.bd
+ekpass.gov.bd
 ekshop.gov.bd
 emrddashboard.gov.bd
 ems.epb.gov.bd
 ems.taxeszone3ctg.gov.bd
 epoas.ddm.gov.bd
 eregistration.gov.bd
+esheba.sylhetboard.gov.bd
 esiraj.gov.bd
 esspmtetulia.gov.bd
 files.mbgc.gov.bd
@@ -213,6 +219,7 @@ gallery.sarkaribanglacollege.gov.bd
 ghjashore.gov.bd
 ghk.ghk.gov.bd
 ghkmc.gov.bd
+ghoraghatmunicipality.gov.bd
 gmp.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
 greenmolbd.gov.bd
@@ -329,6 +336,7 @@ mail.janatarsarkar.gov.bd
 mail.jcbs.gov.bd
 mail.kgdcl.gov.bd
 mail.kmpi.gov.bd
+mail.knsikhagrachari.gov.bd
 mail.laxmipurtsc.gov.bd
 mail.legislativediv.gov.bd
 mail.lgd.gov.bd
@@ -398,6 +406,7 @@ muktagacha.upmymensinghholdingtax.gov.bd
 mybtcl.btcl.gov.bd
 mydocreader.gov.bd
 mymensinghsadar.upmymensinghholdingtax.gov.bd
+nabiganjpaurashava.gov.bd
 nacholemunicipality.gov.bd
 ncc-ward8.gov.bd
 newetif.bise-ctg.gov.bd
@@ -411,6 +420,7 @@ ntrc.gameapp.gov.bd
 nutritionprofile.gov.bd
 ocei.gov.bd
 olt.btcl.gov.bd
+onlinepayment.bise-ctg.gov.bd
 pabnatsc.gov.bd
 patgrammunicipality.gov.bd
 patuakhalimunicipality.gov.bd
@@ -506,6 +516,7 @@ webdisk.eregistration.gov.bd
 webdisk.fta.gov.bd
 webdisk.jcbs.gov.bd
 webdisk.kmpi.gov.bd
+webdisk.knsikhagrachari.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.nutritionprofile.gov.bd
 webdisk.pabnatsc.gov.bd
@@ -589,9 +600,11 @@ www.dhobaura.upmymensinghholdingtax.gov.bd
 www.diaautomation.gov.bd
 www.distgopalganj.gov.bd
 www.dsheraj.gov.bd
+www.ekpass.gov.bd
 www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.eregistration.gov.bd
+www.esheba.sylhetboard.gov.bd
 www.freelancer.gov.bd
 www.fta.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
@@ -611,6 +624,7 @@ www.kalirbazarup.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.keshorhatpourashava.gov.bd
 www.kmpi.gov.bd
+www.knsikhagrachari.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.landac.comillalg.gov.bd
 www.laravel.sfcair.gov.bd
