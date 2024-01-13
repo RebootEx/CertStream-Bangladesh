@@ -12,6 +12,7 @@ admin.mbgc.gov.bd
 akotercharup.faridpurlg.gov.bd
 amarbangabandhu.gov.bd
 amarekusheyboimela.gov.bd
+api-merchant.ekshop.gov.bd
 api.career.nwpgcl.gov.bd
 api.demo.muktopaath.gov.bd
 api.demo.virtualclass.gov.bd
@@ -39,6 +40,7 @@ autodiscover.urp.gov.bd
 award.moysports.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
+bagancharagps.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bamis.gov.bd
 bandarbantsc.gov.bd
@@ -54,6 +56,7 @@ bise-ctg.gov.bd
 bmet.dev.niseee.gov.bd
 bnppams.navy.mil.bd
 bogurapolice.gov.bd
+booking.bbcfec.gov.bd
 borhamganjcollege.gov.bd
 brahmanbariamunicipality.gov.bd
 brta1.bpodms.gov.bd
@@ -67,6 +70,7 @@ cafoland.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
 cafoshipping.gov.bd
+cafowater.gov.bd
 cafoyouthandsports.gov.bd
 career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
@@ -84,6 +88,7 @@ cmc.gov.bd
 college.gov.bd
 commission.ekshop.gov.bd
 coxpoly.gov.bd
+coxsbazarpolice.gov.bd
 cp.kda.gov.bd
 cpanel.aarazzaktsc.gov.bd
 cpanel.aclandkotowalicircle.gov.bd
@@ -180,7 +185,9 @@ cpcontacts.tangailtsc.gov.bd
 cpcontacts.upmymensinghholdingtax.gov.bd
 cpcontacts.urp.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
+cttcdmp.gov.bd
 cumillapoly.gov.bd
+dac.gov.bd
 dakshinmaijpara.upmymensinghholdingtax.gov.bd
 daulatpurup.gov.bd
 dbid.gov.bd
@@ -210,6 +217,7 @@ edp.gov.bd
 eduhub.gov.bd
 egov.cabinet.gov.bd
 ehrm.fireservice.gov.bd
+ekshop.gov.bd
 emrddashboard.gov.bd
 ems.epb.gov.bd
 ems.taxeszone3ctg.gov.bd
@@ -228,6 +236,8 @@ fta.gov.bd
 gallery.sarkaribanglacollege.gov.bd
 ghjashore.gov.bd
 ghk.ghk.gov.bd
+ghkmc.gov.bd
+gmp.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
 greenmolbd.gov.bd
 haripur.uppabnaholdingtax.gov.bd
@@ -240,6 +250,7 @@ icml.gov.bd
 ikfmss.gov.bd
 inheritance.dc-rangamati.gov.bd
 inheritance.gov.bd
+isec.gov.bd
 islampur.sohayota.gov.bd
 iswarganj.upmymensinghholdingtax.gov.bd
 itconnect.gov.bd
@@ -449,6 +460,7 @@ register.gameapp.gov.bd
 report.gov.bd
 revenueshare.btcl.gov.bd
 ric.gov.bd
+ridonbd.com.rdodterangpur.gov.bd
 rms.bscl.gov.bd
 roc.gov.bd
 sac.gov.bd
@@ -493,6 +505,7 @@ taxappealzone4dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszone8dhaka.gov.bd
 tcbextra.dewanganjbhata.gov.bd
+telehealth.gov.bd
 testimonials.gov.bd
 testing.dope-test.dghs.gov.bd
 tihdtcbproj.gov.bd
@@ -515,6 +528,7 @@ vlan.cmpi.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vtti.gov.bd
+wctsc.gov.bd
 webdisk.aarazzaktsc.gov.bd
 webdisk.aclandkotowalicircle.gov.bd
 webdisk.bandarbantsc.gov.bd
@@ -586,15 +600,19 @@ www.academy.ekshop.gov.bd
 www.aclandkotowalicircle.gov.bd
 www.admin-mail.soms.gov.bd
 www.akotercharup.faridpurlg.gov.bd
+www.atghoria.uppabnaholdingtax.gov.bd
 www.attendance.ekshop.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
 www.bamis.gov.bd
 www.bandarbantsc.gov.bd
 www.bangla.srngih.gov.bd
+www.basati.upmymensinghholdingtax.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.beanibazarpaurashava.gov.bd
+www.bhaluka.upmymensinghholdingtax.gov.bd
 www.bnppams.navy.mil.bd
 www.bogurapolice.gov.bd
+www.booking.bbcfec.gov.bd
 www.borhamganjcollege.gov.bd
 www.bpmis.bsc.gov.bd
 www.bsdkhu.navy.mil.bd
@@ -625,11 +643,13 @@ www.distgopalganj.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.dsheraj.gov.bd
+www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.eregistration.gov.bd
 www.feedback.ekshop.gov.bd
 www.freelancer.gov.bd
 www.fta.gov.bd
+www.fulbaria.upmymensinghholdingtax.gov.bd
 www.gallery.sarkaribanglacollege.gov.bd
 www.ghk.ghk.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
@@ -679,9 +699,11 @@ www.psm.beza.gov.bd
 www.publichearing.gov.bd
 www.register.gameapp.gov.bd
 www.ric.gov.bd
+www.ridonbd.com.rdodterangpur.gov.bd
 www.sac.gov.bd
 www.sacgov.sac.gov.bd
 www.sfcworks.gov.bd
+www.sggsc.gov.bd
 www.shmrmi.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartchapitalaup.gov.bd
