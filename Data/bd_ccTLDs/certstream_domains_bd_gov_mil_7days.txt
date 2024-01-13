@@ -36,6 +36,7 @@ award.moysports.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
 bagancharagps.gov.bd
+bakshiganjbhata.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bamis.gov.bd
 bandarbantsc.gov.bd
@@ -84,6 +85,7 @@ coxsbazarpolice.gov.bd
 cp.kda.gov.bd
 cpanel.aarazzaktsc.gov.bd
 cpanel.aclandkotowalicircle.gov.bd
+cpanel.bakshiganjbhata.gov.bd
 cpanel.bamis.gov.bd
 cpanel.bandarbantsc.gov.bd
 cpanel.borhamganjcollege.gov.bd
@@ -114,6 +116,7 @@ cpanel.urp.gov.bd
 cpanel.zpmoulvibazar.gov.bd
 cpcalendars.aarazzaktsc.gov.bd
 cpcalendars.aclandkotowalicircle.gov.bd
+cpcalendars.bakshiganjbhata.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bandarbantsc.gov.bd
 cpcalendars.borhamganjcollege.gov.bd
@@ -145,6 +148,7 @@ cpcalendars.urp.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
 cpcontacts.aarazzaktsc.gov.bd
 cpcontacts.aclandkotowalicircle.gov.bd
+cpcontacts.bakshiganjbhata.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bandarbantsc.gov.bd
 cpcontacts.cafoemrd.gov.bd
@@ -249,6 +253,7 @@ kashianitsc.gov.bd
 kb10takakg.melandahbhata.gov.bd
 keshorhatpourashava.gov.bd
 khaac.gov.bd
+khulnashipyard.gov.bd
 kjtsc.gov.bd
 kmpi.gov.bd
 knsikhagrachari.gov.bd
@@ -269,6 +274,7 @@ mail.aclandall.gov.bd
 mail.aclandkotowalicircle.gov.bd
 mail.ansarvdp.gov.bd
 mail.baec.gov.bd
+mail.bakshiganjbhata.gov.bd
 mail.banbeis.gov.bd
 mail.bandarbantsc.gov.bd
 mail.bangla.gov.bd
@@ -350,6 +356,7 @@ mail.moind.gov.bd
 mail.mowca.gov.bd
 mail.mowr.gov.bd
 mail.moysports.gov.bd
+mail.mpl.gov.bd
 mail.msw.gov.bd
 mail.naem.gov.bd
 mail.nbr.gov.bd
@@ -401,6 +408,7 @@ melandahbhata.gov.bd
 mfstc.gov.bd
 monglaportmunicipality.gov.bd
 monitoring.landzoning.gov.bd
+motjdigitalstore.gov.bd
 mujibjigyasa.gov.bd
 muktagacha.upmymensinghholdingtax.gov.bd
 mybtcl.btcl.gov.bd
@@ -486,6 +494,7 @@ testing.dope-test.dghs.gov.bd
 tihdtcbproj.gov.bd
 tk.coxpoly.gov.bd
 tr.shrlive.dghs.gov.bd
+training.gov.bd
 training.grs.gov.bd
 trishal.upmymensinghholdingtax.gov.bd
 turn.vc8.bcc.gov.bd
@@ -502,6 +511,7 @@ vr.gameapp.gov.bd
 wctsc.gov.bd
 webdisk.aarazzaktsc.gov.bd
 webdisk.aclandkotowalicircle.gov.bd
+webdisk.bakshiganjbhata.gov.bd
 webdisk.bandarbantsc.gov.bd
 webdisk.bepza.gov.bd
 webdisk.cafoemrd.gov.bd
@@ -531,6 +541,7 @@ webdisk.urp.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webmail.aarazzaktsc.gov.bd
 webmail.aclandkotowalicircle.gov.bd
+webmail.bakshiganjbhata.gov.bd
 webmail.bandarbantsc.gov.bd
 webmail.borhamganjcollege.gov.bd
 webmail.cafoemrd.gov.bd
@@ -567,6 +578,8 @@ www.aclandkotowalicircle.gov.bd
 www.admin-mail.soms.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.atghoria.uppabnaholdingtax.gov.bd
+www.bakshiganjbhata.gov.bd
+www.bakshiganjbhata.melandahbhata.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
 www.bamis.gov.bd
 www.bandarbantsc.gov.bd
@@ -608,6 +621,7 @@ www.esheba.sylhetboard.gov.bd
 www.freelancer.gov.bd
 www.fta.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
+www.gafargaon.upmymensinghholdingtax.gov.bd
 www.gallery.sarkaribanglacollege.gov.bd
 www.ghk.ghk.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
@@ -641,6 +655,7 @@ www.mulgram.uppabnaholdingtax.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.nicvd.gov.bd
 www.nidch.gov.bd
+www.nokshipolli.melandahbhata.gov.bd
 www.nsdkhulna.navy.mil.bd
 www.ntrc.gameapp.gov.bd
 www.nutritionprofile.gov.bd
