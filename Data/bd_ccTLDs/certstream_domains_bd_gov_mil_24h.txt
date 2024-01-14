@@ -6,8 +6,11 @@ bvcdatabase.bvc.gov.bd
 cbraj.gov.bd
 corona.gov.bd
 cpanel.bakshiganjbhata.gov.bd
+cpanel.kanaighatmunicipality.gov.bd
 cpcalendars.bakshiganjbhata.gov.bd
+cpcalendars.kanaighatmunicipality.gov.bd
 cpcontacts.bakshiganjbhata.gov.bd
+cpcontacts.kanaighatmunicipality.gov.bd
 ctgdclicense.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dmch.gov.bd
@@ -23,11 +26,13 @@ hotels.gov.bd
 ica.gov.bd
 idp-devsso.land.gov.bd
 iras.brri.gov.bd
+kanaighatmunicipality.gov.bd
 khulnashipyard.gov.bd
 kibana-dev.niseee.gov.bd
 lms.parbatipurtsc.gov.bd
 mail.bakshiganjbhata.gov.bd
 mail.barisalboard.gov.bd
+mail.kanaighatmunicipality.gov.bd
 mail.mpl.gov.bd
 manirampurmunicipality.gov.bd
 mcci-dev.niseee.gov.bd
@@ -46,6 +51,7 @@ rhd.gov.bd
 ridon.com.bd.rdodterangpur.gov.bd
 sec.gov.bd
 shibchartsc.gov.bd
+smartup.munshiganjlg.gov.bd
 smef-dev.niseee.gov.bd
 taherpurpourashava.gov.bd
 tihdtcbproj.gov.bd
@@ -54,7 +60,9 @@ trainingrtpcr.iedcr.gov.bd
 upmymensinghholdingtax.gov.bd
 vr.bangabhaban.gov.bd
 webdisk.bakshiganjbhata.gov.bd
+webdisk.kanaighatmunicipality.gov.bd
 webmail.bakshiganjbhata.gov.bd
+webmail.kanaighatmunicipality.gov.bd
 www.bakshiganjbhata.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
 www.barisalboard.gov.bd
@@ -65,10 +73,12 @@ www.erpl.btebcbt.gov.bd
 www.esheba.sylhetboard.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
 www.hmis.uphcsdp.gov.bd
+www.kanaighatmunicipality.gov.bd
 www.lms.parbatipurtsc.gov.bd
 www.nlp.gov.bd
 www.nokshipolli.melandahbhata.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
 www.ridon.com.bd.rdodterangpur.gov.bd
+www.smartup.munshiganjlg.gov.bd
 youth-dev.niseee.gov.bd
