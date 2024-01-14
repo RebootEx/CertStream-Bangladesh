@@ -2,6 +2,7 @@
 a.ttcbog.gov.bd
 aarazzaktsc.gov.bd
 accounts.bise-ctg.gov.bd
+accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
 aclanddemracircle.gov.bd
 aclandkotowalicircle.gov.bd
@@ -48,12 +49,15 @@ bakshiganjbhata.gov.bd
 bamis.gov.bd
 bandarbantsc.gov.bd
 bangla.srngih.gov.bd
+bard.idsdp.rdcd.gov.bd
 barisalboard.gov.bd
 bdris.melandahbhata.gov.bd
 bdskills.gov.bd
 beanibazarpaurashava.gov.bd
+beneficiary.idsdp.rdcd.gov.bd
 bepza.gov.bd
 beta.nmcp.gov.bd
+bhumipedia.land.gov.bd
 bill.dphe.gov.bd
 billingtest.alaap.gov.bd
 bise-ctg.gov.bd
@@ -74,6 +78,7 @@ bteb-dev.niseee.gov.bd
 bvcdoctor.bvc.gov.bd
 cafocabinet.gov.bd
 cafocagpscec.gov.bd
+cafocat.gov.bd
 cafocultural.gov.bd
 cafoemrd.gov.bd
 cafofooddisaster.gov.bd
@@ -85,6 +90,7 @@ cafowater.gov.bd
 cafoyouthandsports.gov.bd
 career-sandbox.nwpgcl.gov.bd
 case.gov.bd
+cbraj.gov.bd
 ccdfpfm.gov.bd
 certificates.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
@@ -228,6 +234,7 @@ dhis2tracker.dghs.gov.bd
 dhobaura.upmymensinghholdingtax.gov.bd
 diaautomation.gov.bd
 distgopalganj.gov.bd
+dmch.gov.bd
 dmpwsid.gov.bd
 do.attendance.gov.bd
 dpg.grs.gov.bd
@@ -270,6 +277,7 @@ his1.bcc.gov.bd
 hmis.uphcsdp.gov.bd
 house.bargunapoly.gov.bd
 icml.gov.bd
+idp-devsso.land.gov.bd
 inheritance.dc-rangamati.gov.bd
 inheritance.gov.bd
 isec.gov.bd
@@ -439,11 +447,14 @@ mail.urp.gov.bd
 mail.zpmoulvibazar.gov.bd
 mailbox.macademy.gov.bd
 manos.mofa.gov.bd
+matelehealth.gov.bd
 mbgc.gov.bd
 mcci-dev.niseee.gov.bd
 mci.shrlive.dghs.gov.bd
 melandahbhata.gov.bd
 mfstc.gov.bd
+milkvita.idsdp.rdcd.gov.bd
+mmddl-ctgbcsir.gov.bd
 monglaportmunicipality.gov.bd
 monitoring.landzoning.gov.bd
 motjdigitalstore.gov.bd
@@ -488,6 +499,7 @@ revenueshare.btcl.gov.bd
 ric.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
 roc.gov.bd
+rrdhs.gov.bd
 sac.gov.bd
 sacgov.sac.gov.bd
 saejp.gov.bd
@@ -634,6 +646,7 @@ wp632.gnc.gov.bd
 wqtrms.dphe.gov.bd
 www.a.ttcbog.gov.bd
 www.aarazzaktsc.gov.bd
+www.accounts.dhakaeducationboard.gov.bd
 www.aclanddemracircle.gov.bd
 www.aclandkotowalicircle.gov.bd
 www.admin-mail.soms.gov.bd
@@ -645,10 +658,12 @@ www.bakshiganjbhata.melandahbhata.gov.bd
 www.bamis.gov.bd
 www.bandarbantsc.gov.bd
 www.bangla.srngih.gov.bd
+www.bard.idsdp.rdcd.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.bdskills.gov.bd
 www.beanibazarpaurashava.gov.bd
+www.beneficiary.idsdp.rdcd.gov.bd
 www.bhaluka.upmymensinghholdingtax.gov.bd
 www.bnppams.navy.mil.bd
 www.bogurapolice.gov.bd
@@ -711,6 +726,7 @@ www.laxmipurtsc.gov.bd
 www.mail.soms.gov.bd
 www.mailbox.macademy.gov.bd
 www.majhpara.uppabnaholdingtax.gov.bd
+www.milkvita.idsdp.rdcd.gov.bd
 www.monitoring.landzoning.gov.bd
 www.mujibjigyasa.gov.bd
 www.muktagacha.upmymensinghholdingtax.gov.bd
