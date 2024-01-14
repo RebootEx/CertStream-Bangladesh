@@ -70,6 +70,7 @@ bsc.gov.bd
 bsdkhu.navy.mil.bd
 bta.gov.bd
 btcl.gov.bd
+bteb-dev.niseee.gov.bd
 bvcdoctor.bvc.gov.bd
 cafocabinet.gov.bd
 cafocagpscec.gov.bd
@@ -93,6 +94,7 @@ charghatpaurashava.gov.bd
 chhaikola.uppabnaholdingtax.gov.bd
 cmc.gov.bd
 college.gov.bd
+corona.gov.bd
 coxpoly.gov.bd
 coxsbazarpolice.gov.bd
 cp.kda.gov.bd
@@ -115,6 +117,7 @@ cpanel.dsheraj.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.fta.gov.bd
 cpanel.jcbs.gov.bd
+cpanel.kanaighatmunicipality.gov.bd
 cpanel.knsikhagrachari.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.pkcp.gov.bd
@@ -152,6 +155,7 @@ cpcalendars.dsheraj.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.fta.gov.bd
 cpcalendars.jcbs.gov.bd
+cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.knsikhagrachari.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.oss.bepza.gov.bd
@@ -189,6 +193,7 @@ cpcontacts.dsheraj.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.fta.gov.bd
 cpcontacts.jcbs.gov.bd
+cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.knsikhagrachari.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.pkcp.gov.bd
@@ -210,6 +215,7 @@ cpcontacts.zpmoulvibazar.gov.bd
 cttcdmp.gov.bd
 dac.gov.bd
 dakshinmaijpara.upmymensinghholdingtax.gov.bd
+dashboard-backoffice-dev.niseee.gov.bd
 daulatpurup.gov.bd
 dbid.gov.bd
 demand.taxeszone13dhaka.gov.bd
@@ -277,6 +283,7 @@ jitsi.vc8.bcc.gov.bd
 jscmark.comillaboard.gov.bd
 judipay.gov.bd
 kabinazrulcollege.gov.bd
+kanaighatmunicipality.gov.bd
 karmasangsthanbank.gov.bd
 kashianitsc.gov.bd
 kb10takakg.melandahbhata.gov.bd
@@ -368,6 +375,7 @@ mail.icbamcl.gov.bd
 mail.icml.gov.bd
 mail.janatarsarkar.gov.bd
 mail.jcbs.gov.bd
+mail.kanaighatmunicipality.gov.bd
 mail.kgdcl.gov.bd
 mail.knsikhagrachari.gov.bd
 mail.laxmipurtsc.gov.bd
@@ -432,6 +440,7 @@ mail.zpmoulvibazar.gov.bd
 mailbox.macademy.gov.bd
 manos.mofa.gov.bd
 mbgc.gov.bd
+mcci-dev.niseee.gov.bd
 mci.shrlive.dghs.gov.bd
 melandahbhata.gov.bd
 mfstc.gov.bd
@@ -447,6 +456,7 @@ mymensinghsadar.upmymensinghholdingtax.gov.bd
 nabiganjpaurashava.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
+nascib-dev.niseee.gov.bd
 ncc-ward8.gov.bd
 newetif.bise-ctg.gov.bd
 nicvd.gov.bd
@@ -455,6 +465,7 @@ nise3.gov.bd
 noc.btcl.gov.bd
 noc.kda.gov.bd
 nsdkhulna.navy.mil.bd
+nu-dev.niseee.gov.bd
 olt.btcl.gov.bd
 onlinepayment.bise-ctg.gov.bd
 ossbscic.gov.bd
@@ -493,6 +504,7 @@ smartavijogbox.gov.bd
 smartbangarawestup.gov.bd
 smarthaat.gov.bd
 smartramchandrapursouthup.gov.bd
+smartup.munshiganjlg.gov.bd
 smmbox18.bcc.gov.bd
 snipegate.karmasangsthanbank.gov.bd
 socialprotection.gov.bd
@@ -562,6 +574,7 @@ webdisk.dsheraj.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.fta.gov.bd
 webdisk.jcbs.gov.bd
+webdisk.kanaighatmunicipality.gov.bd
 webdisk.knsikhagrachari.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.pkcp.gov.bd
@@ -598,6 +611,7 @@ webmail.dsheraj.gov.bd
 webmail.eregistration.gov.bd
 webmail.fta.gov.bd
 webmail.jcbs.gov.bd
+webmail.kanaighatmunicipality.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.patuakhalimunicipality.gov.bd
 webmail.pkcp.gov.bd
@@ -687,6 +701,7 @@ www.iswarganj.upmymensinghholdingtax.gov.bd
 www.itconnect.gov.bd
 www.jcbs.gov.bd
 www.job.bsc.gov.bd
+www.kanaighatmunicipality.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.keshorhatpourashava.gov.bd
 www.knsikhagrachari.gov.bd
@@ -723,6 +738,7 @@ www.sfcworks.gov.bd
 www.sggsc.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartramchandrapursouthup.gov.bd
+www.smartup.munshiganjlg.gov.bd
 www.snipegate.karmasangsthanbank.gov.bd
 www.soft.taxesinspection.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
