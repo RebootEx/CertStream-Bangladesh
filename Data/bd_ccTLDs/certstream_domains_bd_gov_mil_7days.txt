@@ -13,6 +13,7 @@ admin.mbgc.gov.bd
 akkelpurmunicipality.gov.bd
 akotercharup.faridpurlg.gov.bd
 amarekusheyboimela.gov.bd
+api-ictpolicy.ictd.gov.bd
 api-merchant.ekshop.gov.bd
 api.career.nwpgcl.gov.bd
 api.demo.muktopaath.gov.bd
@@ -77,6 +78,7 @@ bsdkhu.navy.mil.bd
 bta.gov.bd
 btcl.gov.bd
 bteb-dev.niseee.gov.bd
+bvcdatabase.bvc.gov.bd
 bvcdoctor.bvc.gov.bd
 cafocabinet.gov.bd
 cafocagpscec.gov.bd
@@ -220,6 +222,7 @@ cpcontacts.taxeszoneonedhaka.gov.bd
 cpcontacts.upmymensinghholdingtax.gov.bd
 cpcontacts.urp.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
+ctgdclicense.gov.bd
 cttcdmp.gov.bd
 dac.gov.bd
 dakshinmaijpara.upmymensinghholdingtax.gov.bd
@@ -243,6 +246,8 @@ dpg.grs.gov.bd
 drive-registration.egovcloud.gov.bd
 drive.egovcloud.gov.bd
 dsheraj.gov.bd
+dss-dev.niseee.gov.bd
+dyd-dev.niseee.gov.bd
 eacei.gov.bd
 edp.gov.bd
 eduhub.gov.bd
@@ -255,6 +260,8 @@ ems.epb.gov.bd
 ems.taxeszone3ctg.gov.bd
 epoas.ddm.gov.bd
 eregistration.gov.bd
+erpl.btebcbt.gov.bd
+erpl1.btebcbt.gov.bd
 esales.banglaacademy.gov.bd
 esheba.sylhetboard.gov.bd
 esiraj.gov.bd
@@ -277,11 +284,14 @@ helpline.comillaboard.gov.bd
 hid.shrlive.dghs.gov.bd
 his1.bcc.gov.bd
 hmis.uphcsdp.gov.bd
+hotels.gov.bd
 house.bargunapoly.gov.bd
+ica.gov.bd
 icml.gov.bd
 idp-devsso.land.gov.bd
 inheritance.dc-rangamati.gov.bd
 inheritance.gov.bd
+iras.brri.gov.bd
 isec.gov.bd
 islampur.sohayota.gov.bd
 iswarganj.upmymensinghholdingtax.gov.bd
@@ -300,6 +310,7 @@ kb10takakg.melandahbhata.gov.bd
 keshorhatpourashava.gov.bd
 khaac.gov.bd
 khulnashipyard.gov.bd
+kibana-dev.niseee.gov.bd
 kjtsc.gov.bd
 knsikhagrachari.gov.bd
 kuwaitmoitreehospital.gov.bd
@@ -308,6 +319,7 @@ landac.comillalg.gov.bd
 laravel.sfcair.gov.bd
 laxmipurtsc.gov.bd
 lbphs.gov.bd
+lms.parbatipurtsc.gov.bd
 logo.gov.bd
 logs.gems.gov.bd
 maheshpurpourashava.gov.bd
@@ -325,6 +337,7 @@ mail.bangla.gov.bd
 mail.bangladeshtradeportal.gov.bd
 mail.bard.gov.bd
 mail.bari.gov.bd
+mail.barisalboard.gov.bd
 mail.bba.gov.bd
 mail.bbs.gov.bd
 mail.bcc-ca.gov.bd
@@ -448,6 +461,7 @@ mail.upmymensinghholdingtax.gov.bd
 mail.urp.gov.bd
 mail.zpmoulvibazar.gov.bd
 mailbox.macademy.gov.bd
+manirampurmunicipality.gov.bd
 manos.mofa.gov.bd
 matelehealth.gov.bd
 mbgc.gov.bd
@@ -471,15 +485,20 @@ nabiganjpaurashava.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
 nascib-dev.niseee.gov.bd
+nazipurpourashava.gov.bd
 ncc-ward8.gov.bd
 newetif.bise-ctg.gov.bd
 nicvd.gov.bd
 nidch.gov.bd
+nise-dev.niseee.gov.bd
 nise3.gov.bd
+nlp.gov.bd
 noc.btcl.gov.bd
 noc.kda.gov.bd
 nsdkhulna.navy.mil.bd
+ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
+old.warpo.gov.bd
 olt.btcl.gov.bd
 onlinepayment.bise-ctg.gov.bd
 ossbscic.gov.bd
@@ -495,12 +514,15 @@ psdsms.gov.bd
 psm.beza.gov.bd
 publichearing.gov.bd
 puthiauhc.gov.bd
+rabbitmq-dashboard-dev.niseee.gov.bd
 rdobarishal.gov.bd
+register.gameapp.gov.bd
 report.gov.bd
 reports.bpodms.gov.bd
 revenueshare.btcl.gov.bd
 rhd.gov.bd
 ric.gov.bd
+ridon.com.bd.rdodterangpur.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
 roc.gov.bd
 rrdhs.gov.bd
@@ -510,6 +532,7 @@ saejp.gov.bd
 sandbox.dife.gov.bd
 schedule.brri.gov.bd
 school.gov.bd
+sec.gov.bd
 sechshebatetulia.gov.bd
 sfcworks.gov.bd
 sggsc.gov.bd
@@ -521,6 +544,7 @@ smartbangarawestup.gov.bd
 smarthaat.gov.bd
 smartramchandrapursouthup.gov.bd
 smartup.munshiganjlg.gov.bd
+smef-dev.niseee.gov.bd
 smmbox18.bcc.gov.bd
 snipegate.karmasangsthanbank.gov.bd
 socialprotection.gov.bd
@@ -537,6 +561,7 @@ ssrenew.ocei.gov.bd
 supervision.dghs.gov.bd
 support.hpi.gov.bd
 tafaruqueschoolandcollege.gov.bd
+taherpurpourashava.gov.bd
 tangailtsc.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
 tax.doharmunicipality.gov.bd
@@ -558,6 +583,7 @@ tk.coxpoly.gov.bd
 tr.shrlive.dghs.gov.bd
 training.gov.bd
 training.grs.gov.bd
+trainingrtpcr.iedcr.gov.bd
 trishal.upmymensinghholdingtax.gov.bd
 turn.vc8.bcc.gov.bd
 unobagerhatsadar.gov.bd
@@ -663,6 +689,7 @@ www.bamis.gov.bd
 www.bandarbantsc.gov.bd
 www.bangla.srngih.gov.bd
 www.bard.idsdp.rdcd.gov.bd
+www.barisalboard.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.bdskills.gov.bd
@@ -678,6 +705,7 @@ www.bpmis.bsc.gov.bd
 www.bpodms.gov.bd
 www.bsdkhu.navy.mil.bd
 www.bta.gov.bd
+www.bvcdatabase.bvc.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.cafocabinet.gov.bd
 www.cafoemrd.gov.bd
@@ -687,6 +715,7 @@ www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.challenge.gov.bd
 www.chandraup.faridpurlg.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
+www.ctgdclicense.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.daulatpurup.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
@@ -703,6 +732,7 @@ www.ekpass.gov.bd
 www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.eregistration.gov.bd
+www.erpl.btebcbt.gov.bd
 www.esheba.sylhetboard.gov.bd
 www.freelancer.gov.bd
 www.fta.gov.bd
@@ -713,6 +743,7 @@ www.ghk.ghk.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
 www.haripur.uppabnaholdingtax.gov.bd
+www.hmis.uphcsdp.gov.bd
 www.house.bargunapoly.gov.bd
 www.icml.gov.bd
 www.islampur.sohayota.gov.bd
@@ -727,6 +758,7 @@ www.knsikhagrachari.gov.bd
 www.landac.comillalg.gov.bd
 www.laravel.sfcair.gov.bd
 www.laxmipurtsc.gov.bd
+www.lms.parbatipurtsc.gov.bd
 www.mail.soms.gov.bd
 www.mailbox.macademy.gov.bd
 www.majhpara.uppabnaholdingtax.gov.bd
@@ -740,8 +772,10 @@ www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
 www.nicvd.gov.bd
 www.nidch.gov.bd
+www.nlp.gov.bd
 www.nokshipolli.melandahbhata.gov.bd
 www.nsdkhulna.navy.mil.bd
+www.ntrc.gameapp.gov.bd
 www.patgrammunicipality.gov.bd
 www.patuakhalimunicipality.gov.bd
 www.pelx.dfsrcaab.gov.bd
@@ -751,7 +785,9 @@ www.profile.secretariatclinic.gov.bd
 www.psdsms.gov.bd
 www.psm.beza.gov.bd
 www.publichearing.gov.bd
+www.register.gameapp.gov.bd
 www.ric.gov.bd
+www.ridon.com.bd.rdodterangpur.gov.bd
 www.ridonbd.com.rdodterangpur.gov.bd
 www.sac.gov.bd
 www.sacgov.sac.gov.bd
@@ -786,6 +822,7 @@ www.upmymensinghholdingtax.gov.bd
 www.urp.gov.bd
 www.wp632.gnc.gov.bd
 www.zpmoulvibazar.gov.bd
+youth-dev.niseee.gov.bd
 zpdinajpur.gov.bd
 zpmoulvibazar.gov.bd
 zpsherpur.gov.bd
