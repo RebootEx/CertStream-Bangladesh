@@ -34,6 +34,7 @@ autodiscover.taxeszone2.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 autodiscover.urp.gov.bd
+automationtest.bepza.gov.bd
 award.moysports.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
@@ -51,6 +52,7 @@ beanibazarpaurashava.gov.bd
 beneficiary.idsdp.rdcd.gov.bd
 bepza.gov.bd
 beta.nmcp.gov.bd
+bgb.gov.bd
 bhumipedia.land.gov.bd
 bill.dphe.gov.bd
 billingtest.alaap.gov.bd
@@ -78,6 +80,7 @@ cafofooddisaster.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
 cafowater.gov.bd
+cafowomenchild.gov.bd
 cafoyouthandsports.gov.bd
 career-sandbox.nwpgcl.gov.bd
 case.gov.bd
@@ -101,6 +104,7 @@ cpanel.aclandkotowalicircle.gov.bd
 cpanel.bakshiganjbhata.gov.bd
 cpanel.bamis.gov.bd
 cpanel.bandarbantsc.gov.bd
+cpanel.bepza.gov.bd
 cpanel.borhamganjcollege.gov.bd
 cpanel.bta.gov.bd
 cpanel.ccdfpfm.gov.bd
@@ -217,6 +221,7 @@ drive-registration.egovcloud.gov.bd
 drive.egovcloud.gov.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
+ecommerce.idsdp.rdcd.gov.bd
 edp.gov.bd
 eduhub.gov.bd
 egov.cabinet.gov.bd
@@ -237,6 +242,7 @@ fpcsqit.dgfp.gov.bd
 freelancer.gov.bd
 freelancers.gov.bd
 fta.gov.bd
+ftp.bepza.gov.bd
 gallery.sarkaribanglacollege.gov.bd
 ghjashore.gov.bd
 ghk.ghk.gov.bd
@@ -288,6 +294,7 @@ lms.parbatipurtsc.gov.bd
 logo.gov.bd
 logs.gems.gov.bd
 lvs.ansarvdpbank.gov.bd
+madhukhalipaurashava.gov.bd
 maheshpurpourashava.gov.bd
 maijdeetsc.gov.bd
 mail.aarazzaktsc.gov.bd
@@ -427,6 +434,7 @@ mcci-dev.niseee.gov.bd
 mci.shrlive.dghs.gov.bd
 melandahbhata.gov.bd
 meoseba.gov.bd
+merchant.ekshop.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 mmddl-ctgbcsir.gov.bd
 monglaportmunicipality.gov.bd
@@ -656,6 +664,7 @@ www.devapi.demo.muktopaath.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.diaautomation.gov.bd
 www.dpp.gov.bd
+www.ecommerce.idsdp.rdcd.gov.bd
 www.ekpass.gov.bd
 www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
