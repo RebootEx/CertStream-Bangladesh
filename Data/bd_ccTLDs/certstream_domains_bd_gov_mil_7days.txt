@@ -34,6 +34,7 @@ backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
 baf.mil.bd
 bagancharagps.gov.bd
+bajitpurpaurashava.gov.bd
 bakshiganjbhata.gov.bd
 bandarbantsc.gov.bd
 bard.idsdp.rdcd.gov.bd
@@ -289,6 +290,7 @@ mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 mail.upmymensinghholdingtax.gov.bd
 mail.urp.gov.bd
+mail.zplakshmipur.gov.bd
 mail.zpmoulvibazar.gov.bd
 mail2.mfsp.gov.bd
 manirampurmunicipality.gov.bd
@@ -366,6 +368,7 @@ smef-dev.niseee.gov.bd
 snipegate.karmasangsthanbank.gov.bd
 socialprotection.gov.bd
 soft.taxesinspection.gov.bd
+soltrack.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
 specialbranch.gov.bd
 sribordicollege.gov.bd
@@ -396,6 +399,7 @@ tms.brri.gov.bd
 tr.shrlive.dghs.gov.bd
 training.gov.bd
 trainingrtpcr.iedcr.gov.bd
+tsc-kurigram.gov.bd
 unorupganj.gov.bd
 upcoming.ghk.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -471,6 +475,7 @@ www.aclanddemracircle.gov.bd
 www.aclandkotowalicircle.gov.bd
 www.atghoria.uppabnaholdingtax.gov.bd
 www.attendance.rdobarishal.gov.bd
+www.bajitpurpaurashava.gov.bd
 www.bakshiganjbhata.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
 www.bandarbantsc.gov.bd
@@ -582,8 +587,10 @@ www.upcoming.ghk.gov.bd
 www.upmymensinghholdingtax.gov.bd
 www.urp.gov.bd
 www.wp632.gnc.gov.bd
+www.zplakshmipur.gov.bd
 www.zpmoulvibazar.gov.bd
 youth-dev.niseee.gov.bd
+zplakshmipur.gov.bd
 zpmoulvibazar.gov.bd
 zpsherpur.gov.bd
 zpthakurgaon.gov.bd
