@@ -10,6 +10,7 @@ amtalimunicipality.gov.bd
 ansarvdpbank.gov.bd
 api-ictpolicy.ictd.gov.bd
 api-merchant.ekshop.gov.bd
+api-milkvita.idsdp.rdcd.gov.bd
 api.demo.muktopaath.gov.bd
 api.demo.virtualclass.gov.bd
 api.ekpass.gov.bd
@@ -39,6 +40,7 @@ bakshiganjbhata.gov.bd
 bard.idsdp.rdcd.gov.bd
 bargunamunicipality.gov.bd
 barisalboard.gov.bd
+bcms.gov.bd
 bdskills.gov.bd
 beanibazarpaurashava.gov.bd
 belkuchipoura.gov.bd
@@ -59,6 +61,7 @@ bsc.gov.bd
 bspi.gov.bd
 bta.gov.bd
 bteb-dev.niseee.gov.bd
+btm.idsdp.rdcd.gov.bd
 bvcdatabase.bvc.gov.bd
 bvcdoctor.bvc.gov.bd
 cafocabinet.gov.bd
@@ -86,6 +89,7 @@ charghatpaurashava.gov.bd
 chhaikola.uppabnaholdingtax.gov.bd
 cid.gov.bd
 cloud.gems.gov.bd
+cltp.gov.bd
 cmc.gov.bd
 college.gov.bd
 corona.gov.bd
@@ -106,6 +110,7 @@ cpanel.jcbs.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
 cpanel.knsikhagrachari.gov.bd
 cpanel.laxmipurtsc.gov.bd
+cpanel.mspvaw109.gov.bd
 cpanel.psdsms.gov.bd
 cpanel.sac.gov.bd
 cpanel.shibcharpourashava.gov.bd
@@ -132,6 +137,7 @@ cpcalendars.jcbs.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.knsikhagrachari.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
+cpcalendars.mspvaw109.gov.bd
 cpcalendars.oss.bepza.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcalendars.sac.gov.bd
@@ -159,6 +165,7 @@ cpcontacts.jcbs.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.knsikhagrachari.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
+cpcontacts.mspvaw109.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.sac.gov.bd
 cpcontacts.shibcharpourashava.gov.bd
@@ -173,6 +180,7 @@ cpcontacts.urp.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 ctgdclicense.gov.bd
 cttcdmp.gov.bd
+cumilla.gov.bd
 dac.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 demand.taxeszone13dhaka.gov.bd
@@ -182,11 +190,14 @@ devapi.demo.muktopaath.gov.bd
 dfdms.lddp.gov.bd
 dfmtetulia.gov.bd
 dgme.gov.bd
+digitalliteracy.gov.bd
 dmch.gov.bd
+dntcalendar.navy.mil.bd
 do.attendance.gov.bd
 doharmunicipality.gov.bd
 dpg.grs.gov.bd
 dpp.gov.bd
+dscsc.mil.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
 ecommerce.idsdp.rdcd.gov.bd
@@ -222,6 +233,8 @@ hid.shrlive.dghs.gov.bd
 hmis.uphcsdp.gov.bd
 hotels.gov.bd
 hrm.doharmunicipality.gov.bd
+hrm.ekshop.gov.bd
+hscprivate.comillaboard.gov.bd
 ica.gov.bd
 ictbdiasms.gov.bd
 idp-devsso.land.gov.bd
@@ -232,6 +245,7 @@ iswarganj.upmymensinghholdingtax.gov.bd
 jcbs.gov.bd
 jessoreboardcollege.gov.bd
 jgmc.gov.bd
+journal.fima.gov.bd
 jscmark.comillaboard.gov.bd
 judiciary.gov.bd
 kabinazrulcollege.gov.bd
@@ -271,6 +285,7 @@ mail.kanaighatmunicipality.gov.bd
 mail.knsikhagrachari.gov.bd
 mail.laxmipurtsc.gov.bd
 mail.mpl.gov.bd
+mail.mspvaw109.gov.bd
 mail.patuakhalimunicipality.gov.bd
 mail.psdsms.gov.bd
 mail.sac.gov.bd
@@ -300,6 +315,7 @@ milkvita.idsdp.rdcd.gov.bd
 mmch.gov.bd
 mmddl-ctgbcsir.gov.bd
 motjdigitalstore.gov.bd
+mspvaw109.gov.bd
 muktagacha.upmymensinghholdingtax.gov.bd
 muktopaath.gov.bd
 mybtcl.btcl.gov.bd
@@ -313,6 +329,7 @@ nazipurpourashava.gov.bd
 ncc-ward8.gov.bd
 ncsa.gov.bd
 newsletter.ec4j.gov.bd
+nimh.gov.bd
 nise-dev.niseee.gov.bd
 nise3.gov.bd
 niseee.gov.bd
@@ -328,6 +345,7 @@ patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 patuakhalimunicipality.gov.bd
 pelx.dfsrcaab.gov.bd
+pidms.ansarvdp.gov.bd
 portal.ntmc.gov.bd
 projects.iifc.gov.bd
 psdsms.gov.bd
@@ -352,6 +370,7 @@ saejp.gov.bd
 scc.gov.bd
 school.gov.bd
 sec.gov.bd
+service.rdcd.gov.bd
 sggsc.gov.bd
 sgtc.gov.bd
 sheikhrussel.gov.bd
@@ -364,12 +383,15 @@ smartdistrict.gov.bd
 smarthaat.gov.bd
 smartup.munshiganjlg.gov.bd
 smef-dev.niseee.gov.bd
+smmamc.gov.bd
 snipegate.karmasangsthanbank.gov.bd
 soft.taxesinspection.gov.bd
 soltrack.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
+sonod.gov.bd
 specialbranch.gov.bd
 sribordicollege.gov.bd
+ssk.dghs.gov.bd
 ssndebidwar.gov.bd
 ssrenew.ocei.gov.bd
 supervision.dghs.gov.bd
@@ -396,8 +418,11 @@ tk.coxpoly.gov.bd
 tms.brri.gov.bd
 tr.shrlive.dghs.gov.bd
 training.gov.bd
+training.rdcd.gov.bd
 trainingrtpcr.iedcr.gov.bd
 tsc-kurigram.gov.bd
+tscbagerhat.gov.bd
+tvi.gov.bd
 ulipurmunicipality.gov.bd
 unorupganj.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -426,6 +451,7 @@ webdisk.jcbs.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webdisk.knsikhagrachari.gov.bd
 webdisk.laxmipurtsc.gov.bd
+webdisk.mspvaw109.gov.bd
 webdisk.oss.bepza.gov.bd
 webdisk.psdsms.gov.bd
 webdisk.sac.gov.bd
@@ -452,6 +478,7 @@ webmail.ictbdiasms.gov.bd
 webmail.jcbs.gov.bd
 webmail.kanaighatmunicipality.gov.bd
 webmail.laxmipurtsc.gov.bd
+webmail.mspvaw109.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.patuakhalimunicipality.gov.bd
 webmail.psdsms.gov.bd
@@ -471,6 +498,8 @@ wp632.gnc.gov.bd
 www.acc-dohar.doharmunicipality.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.aclanddemracircle.gov.bd
+www.acrdoc.bcms.gov.bd
+www.api-milkvita.idsdp.rdcd.gov.bd
 www.atghoria.uppabnaholdingtax.gov.bd
 www.attendance.rdobarishal.gov.bd
 www.baghaboup.narsingdilg.gov.bd
@@ -491,6 +520,7 @@ www.bpdbgis.gov.bd
 www.bpodms.gov.bd
 www.brahmanbariatsc.gov.bd
 www.bta.gov.bd
+www.btm.idsdp.rdcd.gov.bd
 www.bvcdatabase.bvc.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.cafocabinet.gov.bd
@@ -499,12 +529,15 @@ www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.challenge.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
 www.cid.gov.bd
+www.cltp.gov.bd
 www.ctgdclicense.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.demo.muktopaath.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
 www.devapi.demo.muktopaath.gov.bd
+www.digitalliteracy.gov.bd
+www.dntcalendar.navy.mil.bd
 www.doharmunicipality.gov.bd
 www.dpp.gov.bd
 www.ecommerce.idsdp.rdcd.gov.bd
@@ -524,10 +557,12 @@ www.haluaghat.upmymensinghholdingtax.gov.bd
 www.haripur.uppabnaholdingtax.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.hrm.doharmunicipality.gov.bd
+www.hrm.ekshop.gov.bd
 www.ictbdiasms.gov.bd
 www.islampur.sohayota.gov.bd
 www.iswarganj.upmymensinghholdingtax.gov.bd
 www.jcbs.gov.bd
+www.journal.fima.gov.bd
 www.kanaighatmunicipality.gov.bd
 www.khulnashipyard.com.khulnashipyard.gov.bd
 www.knsikhagrachari.gov.bd
@@ -540,6 +575,7 @@ www.mail2.mfsp.gov.bd
 www.majhpara.uppabnaholdingtax.gov.bd
 www.meoseba.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
+www.mspvaw109.gov.bd
 www.muktagacha.upmymensinghholdingtax.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
 www.newsletter.ec4j.gov.bd
