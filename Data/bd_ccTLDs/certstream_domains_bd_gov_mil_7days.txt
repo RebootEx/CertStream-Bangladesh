@@ -1,5 +1,6 @@
 2020-21.accounts.comillaboard.gov.bd
 aarazzaktsc.gov.bd
+acc-dohar.doharmunicipality.gov.bd
 accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
 aclanddemracircle.gov.bd
@@ -19,6 +20,7 @@ assignment.bise-ctg.gov.bd
 attendance.gov.bd
 attendance.rdobarishal.gov.bd
 autodiscover.bta.gov.bd
+autodiscover.doharmunicipality.gov.bd
 autodiscover.laxmipurtsc.gov.bd
 autodiscover.pkcp.gov.bd
 autodiscover.ssndebidwar.gov.bd
@@ -99,6 +101,7 @@ cpanel.bjsc.gov.bd
 cpanel.borhamganjcollege.gov.bd
 cpanel.bta.gov.bd
 cpanel.demo.muktopaath.gov.bd
+cpanel.doharmunicipality.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.fta.gov.bd
 cpanel.jcbs.gov.bd
@@ -127,6 +130,7 @@ cpcalendars.bjsc.gov.bd
 cpcalendars.borhamganjcollege.gov.bd
 cpcalendars.bta.gov.bd
 cpcalendars.demo.muktopaath.gov.bd
+cpcalendars.doharmunicipality.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.fta.gov.bd
 cpcalendars.jcbs.gov.bd
@@ -155,6 +159,7 @@ cpcontacts.bandarbantsc.gov.bd
 cpcontacts.bjsc.gov.bd
 cpcontacts.bta.gov.bd
 cpcontacts.demo.muktopaath.gov.bd
+cpcontacts.doharmunicipality.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.fta.gov.bd
 cpcontacts.jcbs.gov.bd
@@ -190,6 +195,7 @@ dhobaura.upmymensinghholdingtax.gov.bd
 dmch.gov.bd
 dmpwsid.gov.bd
 do.attendance.gov.bd
+doharmunicipality.gov.bd
 dpg.grs.gov.bd
 dpp.gov.bd
 dss-dev.niseee.gov.bd
@@ -229,6 +235,7 @@ hid.shrlive.dghs.gov.bd
 his1.bcc.gov.bd
 hmis.uphcsdp.gov.bd
 hotels.gov.bd
+hrm.doharmunicipality.gov.bd
 ica.gov.bd
 idp-devsso.land.gov.bd
 iras.brri.gov.bd
@@ -270,6 +277,7 @@ mail.borhamganjcollege.gov.bd
 mail.bta.gov.bd
 mail.btcl.gov.bd
 mail.demo.muktopaath.gov.bd
+mail.doharmunicipality.gov.bd
 mail.eregistration.gov.bd
 mail.fta.gov.bd
 mail.jcbs.gov.bd
@@ -295,6 +303,7 @@ mail.zpmoulvibazar.gov.bd
 mail2.mfsp.gov.bd
 manirampurmunicipality.gov.bd
 matelehealth.gov.bd
+mathbariacollege.gov.bd
 mbgc.gov.bd
 mcci-dev.niseee.gov.bd
 mci.shrlive.dghs.gov.bd
@@ -421,6 +430,7 @@ webdisk.bepza.gov.bd
 webdisk.bjsc.gov.bd
 webdisk.bta.gov.bd
 webdisk.demo.muktopaath.gov.bd
+webdisk.doharmunicipality.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.fta.gov.bd
 webdisk.jcbs.gov.bd
@@ -449,6 +459,7 @@ webmail.bjsc.gov.bd
 webmail.borhamganjcollege.gov.bd
 webmail.bta.gov.bd
 webmail.demo.muktopaath.gov.bd
+webmail.doharmunicipality.gov.bd
 webmail.eregistration.gov.bd
 webmail.fta.gov.bd
 webmail.jcbs.gov.bd
@@ -470,6 +481,7 @@ webmail.urp.gov.bd
 webmail.zpmoulvibazar.gov.bd
 wp632.gnc.gov.bd
 www.aarazzaktsc.gov.bd
+www.acc-dohar.doharmunicipality.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.aclanddemracircle.gov.bd
 www.aclandkotowalicircle.gov.bd
@@ -508,6 +520,7 @@ www.demo.muktopaath.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
 www.devapi.demo.muktopaath.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
+www.doharmunicipality.gov.bd
 www.dpp.gov.bd
 www.ecommerce.idsdp.rdcd.gov.bd
 www.ekpass.gov.bd
@@ -526,6 +539,7 @@ www.gunaigachha.uppabnaholdingtax.gov.bd
 www.haluaghat.upmymensinghholdingtax.gov.bd
 www.haripur.uppabnaholdingtax.gov.bd
 www.hmis.uphcsdp.gov.bd
+www.hrm.doharmunicipality.gov.bd
 www.islampur.sohayota.gov.bd
 www.iswarganj.upmymensinghholdingtax.gov.bd
 www.jcbs.gov.bd
