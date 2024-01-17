@@ -5,8 +5,10 @@ autodiscover.doharmunicipality.gov.bd
 autodiscover.naogaonmc.gov.bd
 autodiscover.sfmmttc.gov.bd
 bangladesh.gov.bd
+bcms.gov.bd
 brahmanbariatsc.gov.bd
 cbcctg.gov.bd
+cltp.gov.bd
 cpanel.brahmanbariatsc.gov.bd
 cpanel.doharmunicipality.gov.bd
 cpanel.naogaonmc.gov.bd
@@ -28,6 +30,7 @@ erp.seip-fd.gov.bd
 esiraj.gov.bd
 finman.seip-fd.gov.bd
 hrm.doharmunicipality.gov.bd
+hrm.ekshop.gov.bd
 ipemis.training.dpe.gov.bd
 keshabpurpouroshava.gov.bd
 lms.seip-fd.gov.bd
@@ -65,13 +68,16 @@ webmail.doharmunicipality.gov.bd
 webmail.naogaonmc.gov.bd
 webmail.sfmmttc.gov.bd
 www.acc-dohar.doharmunicipality.gov.bd
+www.acrdoc.bcms.gov.bd
 www.attendence.rpi.gov.bd
 www.brahmanbariatsc.gov.bd
+www.cltp.gov.bd
 www.dntcalendar.navy.mil.bd
 www.doharmunicipality.gov.bd
 www.ecampus.thakurgaontsc.gov.bd
 www.esiraj.gov.bd
 www.hrm.doharmunicipality.gov.bd
+www.hrm.ekshop.gov.bd
 www.location.karmasangsthanbank.gov.bd
 www.naogaonmc.gov.bd
 www.program.betarcommercialservice.gov.bd
