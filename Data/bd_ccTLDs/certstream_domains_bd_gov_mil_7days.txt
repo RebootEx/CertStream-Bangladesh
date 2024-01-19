@@ -177,6 +177,7 @@ da.ictbdiasms.gov.bd
 darsanapaurashava.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dashboard.blri.gov.bd
+dashboard.idsdp.rdcd.gov.bd
 dashboard.ipemis.training.dpe.gov.bd
 demand.taxeszone13dhaka.gov.bd
 demo.pch.gov.bd
@@ -260,6 +261,7 @@ logs.ipemis.training.dpe.gov.bd
 lvs.ansarvdpbank.gov.bd
 madhukhalipaurashava.gov.bd
 maheshpurpourashava.gov.bd
+maijdeetsc.gov.bd
 mail.aclanddemracircle.gov.bd
 mail.bakshiganjbhata.gov.bd
 mail.barisalboard.gov.bd
@@ -523,6 +525,7 @@ www.cid.gov.bd
 www.cltp.gov.bd
 www.ctgdclicense.gov.bd
 www.da.ictbdiasms.gov.bd
+www.dashboard.idsdp.rdcd.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.diaautomation.gov.bd
 www.digitalliteracy.gov.bd
@@ -618,4 +621,5 @@ zplalmonirhat.gov.bd
 zpnatore.gov.bd
 zpsunamganj.gov.bd
 zpthakurgaon.gov.bd
+zsanatore.gov.bd
 zsorajshahi.gov.bd
