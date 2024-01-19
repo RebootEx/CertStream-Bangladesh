@@ -21,6 +21,7 @@ autodiscover.doharmunicipality.gov.bd
 autodiscover.naogaonmc.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.shibcharpourashava.gov.bd
+autodiscover.surgeryrpmc.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
@@ -64,6 +65,7 @@ bteb-dev.niseee.gov.bd
 btm.idsdp.rdcd.gov.bd
 bvcdatabase.bvc.gov.bd
 bvcdoctor.bvc.gov.bd
+caabhc.gov.bd
 cafocabinet.gov.bd
 cafocat.gov.bd
 cafofooddisaster.gov.bd
@@ -97,6 +99,7 @@ cpanel.bepza.gov.bd
 cpanel.bjsc.gov.bd
 cpanel.brahmanbariatsc.gov.bd
 cpanel.bta.gov.bd
+cpanel.caabhc.gov.bd
 cpanel.doharmunicipality.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.fta.gov.bd
@@ -110,6 +113,7 @@ cpanel.psdsms.gov.bd
 cpanel.sac.gov.bd
 cpanel.sfmmttc.gov.bd
 cpanel.shibcharpourashava.gov.bd
+cpanel.surgeryrpmc.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
 cpanel.taxeszone13dhaka.gov.bd
@@ -135,6 +139,7 @@ cpcalendars.psdsms.gov.bd
 cpcalendars.sac.gov.bd
 cpcalendars.sfmmttc.gov.bd
 cpcalendars.shibcharpourashava.gov.bd
+cpcalendars.surgeryrpmc.gov.bd
 cpcalendars.taxappealzone3dhaka.gov.bd
 cpcalendars.taxesinspection.gov.bd
 cpcalendars.taxeszone13dhaka.gov.bd
@@ -160,6 +165,7 @@ cpcontacts.psdsms.gov.bd
 cpcontacts.sac.gov.bd
 cpcontacts.sfmmttc.gov.bd
 cpcontacts.shibcharpourashava.gov.bd
+cpcontacts.surgeryrpmc.gov.bd
 cpcontacts.taxappealzone3dhaka.gov.bd
 cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
@@ -215,6 +221,7 @@ gatepass.chc.gov.bd
 ghk.ghk.gov.bd
 ghkmc.gov.bd
 ghoraghatmunicipality.gov.bd
+ghorashalpourashava.gov.bd
 gmp.gov.bd
 greenmolbd.gov.bd
 haluaghat.upmymensinghholdingtax.gov.bd
@@ -283,6 +290,7 @@ mail.psdsms.gov.bd
 mail.sac.gov.bd
 mail.sfmmttc.gov.bd
 mail.shibcharpourashava.gov.bd
+mail.surgeryrpmc.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
@@ -372,6 +380,7 @@ sheikhhasina.gov.bd
 sheikhrussel.gov.bd
 shibchartsc.gov.bd
 shmcht.gov.bd
+sip-apps.ssf.gov.bd
 skbbscr.edu.bd.gbrcr.gov.bd
 smartandikot.gov.bd
 smartdistrict.gov.bd
@@ -390,6 +399,7 @@ ssrenew.ocei.gov.bd
 supervision.dghs.gov.bd
 support.hpi.gov.bd
 support.ntmc.gov.bd
+surgeryrpmc.gov.bd
 taherpurpourashava.gov.bd
 tax.doharmunicipality.gov.bd
 taxappealzone3dhaka.gov.bd
@@ -416,6 +426,7 @@ tvi.gov.bd
 ulipurmunicipality.gov.bd
 uniontax.gov.bd
 unorupganj.gov.bd
+unosullah.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 upsebarajshahidiv.gov.bd
@@ -445,6 +456,7 @@ webdisk.psdsms.gov.bd
 webdisk.sac.gov.bd
 webdisk.sfmmttc.gov.bd
 webdisk.shibcharpourashava.gov.bd
+webdisk.surgeryrpmc.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
 webdisk.taxeszone13dhaka.gov.bd
@@ -457,6 +469,7 @@ webmail.bakshiganjbhata.gov.bd
 webmail.bjsc.gov.bd
 webmail.brahmanbariatsc.gov.bd
 webmail.bta.gov.bd
+webmail.caabhc.gov.bd
 webmail.doharmunicipality.gov.bd
 webmail.eregistration.gov.bd
 webmail.fta.gov.bd
@@ -471,6 +484,7 @@ webmail.psdsms.gov.bd
 webmail.sac.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.shibcharpourashava.gov.bd
+webmail.surgeryrpmc.gov.bd
 webmail.taxappealzone3dhaka.gov.bd
 webmail.taxesinspection.gov.bd
 webmail.taxeszone13dhaka.gov.bd
@@ -508,6 +522,7 @@ www.bta.gov.bd
 www.btm.idsdp.rdcd.gov.bd
 www.bvcdatabase.bvc.gov.bd
 www.bvcdoctor.bvc.gov.bd
+www.caabhc.gov.bd
 www.cafocabinet.gov.bd
 www.certificatechecker.pwdta.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
@@ -586,6 +601,7 @@ www.smartup.munshiganjlg.gov.bd
 www.soft.taxesinspection.gov.bd
 www.soft.tscnatore.gov.bd
 www.store.bspi.gov.bd
+www.surgeryrpmc.gov.bd
 www.tax.doharmunicipality.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxappealzone4dhaka.gov.bd
