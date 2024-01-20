@@ -40,6 +40,7 @@ bangladesh.gov.bd
 bard.idsdp.rdcd.gov.bd
 bargunamunicipality.gov.bd
 barisalboard.gov.bd
+barishal.gov.bd
 bbcfec.gov.bd
 bcms.gov.bd
 bdskills.gov.bd
@@ -79,6 +80,7 @@ cafosocial.gov.bd
 cafostict.gov.bd
 cafowomenchild.gov.bd
 case.gov.bd
+casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
 cbraj.gov.bd
 cchpu-mohfw.gov.bd
@@ -121,6 +123,7 @@ cpanel.taxeszone13dhaka.gov.bd
 cpanel.taxeszone2.gov.bd
 cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
+cpanel.tds.taxeszone5dhaka.gov.bd
 cpcalendars.aclanddemracircle.gov.bd
 cpcalendars.bakshiganjbhata.gov.bd
 cpcalendars.bjsc.gov.bd
@@ -146,6 +149,7 @@ cpcalendars.taxeszone13dhaka.gov.bd
 cpcalendars.taxeszone2.gov.bd
 cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
+cpcalendars.tds.taxeszone5dhaka.gov.bd
 cpcontacts.aclanddemracircle.gov.bd
 cpcontacts.bakshiganjbhata.gov.bd
 cpcontacts.bjsc.gov.bd
@@ -171,6 +175,7 @@ cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone2.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
+cpcontacts.tds.taxeszone5dhaka.gov.bd
 ctgdclicense.gov.bd
 cttcdmp.gov.bd
 cumilla.gov.bd
@@ -195,12 +200,16 @@ dpp.gov.bd
 dscsc.mil.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
+eappointment.dghs.gov.bd
 ebook.land.gov.bd
+ebrc.mil.bd
 ecampus.thakurgaontsc.gov.bd
+ecampus.tsc-kurigram.gov.bd
 ecommerce.idsdp.rdcd.gov.bd
 edge.gov.bd
 edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
+edutech.gov.bd
 ekpass.gov.bd
 eregistration.gov.bd
 erp.seip-fd.gov.bd
@@ -295,6 +304,7 @@ mail.taxeszone13dhaka.gov.bd
 mail.taxeszone2.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
+mail.tds.taxeszone5dhaka.gov.bd
 mail.zplakshmipur.gov.bd
 mail2.mfsp.gov.bd
 manirampurmunicipality.gov.bd
@@ -310,6 +320,7 @@ milkvita.idsdp.rdcd.gov.bd
 mmch.gov.bd
 mmddl-ctgbcsir.gov.bd
 monitor.ipemis.training.dpe.gov.bd
+morneyahighschool.edu.bd.gbrcr.gov.bd
 motjdigitalstore.gov.bd
 mra.gov.bd
 mspvaw109.gov.bd
@@ -339,6 +350,7 @@ nu-dev.niseee.gov.bd
 old.warpo.gov.bd
 onlinepayment.bise-ctg.gov.bd
 ops.ipemis.training.dpe.gov.bd
+ossbhtpa.gov.bd
 ossbscic.gov.bd
 paikgachacollege.gov.bd
 patharghatapourashava.gov.bd
@@ -365,6 +377,7 @@ ridon.com.bd.rdodterangpur.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
 rrdhs.gov.bd
 saadatcollege.gov.bd
+sabung-ayam-online.accessibledictionary.gov.bd
 sac.gov.bd
 sacgov.sac.gov.bd
 saidpurmunicipality.gov.bd
@@ -383,6 +396,7 @@ shmcht.gov.bd
 sip-apps.ssf.gov.bd
 sip-call-apps.ssf.gov.bd
 skbbscr.edu.bd.gbrcr.gov.bd
+slot.accessibledictionary.gov.bd
 smartandikot.gov.bd
 smartdistrict.gov.bd
 smarthaat.gov.bd
@@ -411,16 +425,22 @@ taxeszone3dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszone8dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
+taxeszonerajshahi.gov.bd
+tds.taxeszone5dhaka.gov.bd
+tealicense.gov.bd
+tecn.gov.bd
 telehealth.gov.bd
 templeedu.gov.bd
 testimonials.gov.bd
 tihdtcbproj.gov.bd
 tms.brri.gov.bd
+tphsbagmara.gov.bd
 training.gov.bd
 training.rdcd.gov.bd
 trainingrtpcr.iedcr.gov.bd
 tsc-kurigram.gov.bd
 tscbagerhat.gov.bd
+ttcrangpur.edu.bd.rdodterangpur.gov.bd
 tvi.gov.bd
 ulipurmunicipality.gov.bd
 uniontax.gov.bd
@@ -460,6 +480,7 @@ webdisk.taxeszone13dhaka.gov.bd
 webdisk.taxeszone2.gov.bd
 webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
+webdisk.tds.taxeszone5dhaka.gov.bd
 webmail.aclanddemracircle.gov.bd
 webmail.bakshiganjbhata.gov.bd
 webmail.bjsc.gov.bd
@@ -487,6 +508,7 @@ webmail.taxeszone13dhaka.gov.bd
 webmail.taxeszone2.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
+webmail.tds.taxeszone5dhaka.gov.bd
 whm.oss.bepza.gov.bd
 www.acc-dohar.doharmunicipality.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
@@ -534,6 +556,7 @@ www.dntcalendar.navy.mil.bd
 www.doharmunicipality.gov.bd
 www.dpp.gov.bd
 www.ecampus.thakurgaontsc.gov.bd
+www.ecampus.tsc-kurigram.gov.bd
 www.ecommerce.idsdp.rdcd.gov.bd
 www.edge.gov.bd
 www.ekpass.gov.bd
@@ -564,6 +587,7 @@ www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mail2.mfsp.gov.bd
 www.meoseba.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
+www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.mspvaw109.gov.bd
 www.mukit.smmamc.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
@@ -611,7 +635,10 @@ www.taxeszone2.gov.bd
 www.taxeszone3dhaka.gov.bd
 www.taxeszone8dhaka.gov.bd
 www.taxeszoneonedhaka.gov.bd
+www.tds.taxeszone5dhaka.gov.bd
 www.templeedu.gov.bd
+www.tphsbagmara.gov.bd
+www.ttcrangpur.edu.bd.rdodterangpur.gov.bd
 www.zplakshmipur.gov.bd
 youth-dev.niseee.gov.bd
 zpbagerhat.gov.bd
@@ -619,7 +646,10 @@ zpbhola.gov.bd
 zpchapainawabganj.gov.bd
 zplakshmipur.gov.bd
 zplalmonirhat.gov.bd
+zpmeherpur.gov.bd
 zpnatore.gov.bd
+zppabna.gov.bd
+zppatuakhali.gov.bd
 zpsunamganj.gov.bd
 zpthakurgaon.gov.bd
 zsanatore.gov.bd
