@@ -1,8 +1,11 @@
 aclandbarisalsadar.gov.bd
+autodiscover.bamis.gov.bd
 autodiscover.dsheraj.gov.bd
+bamis.gov.bd
 bangla.srngih.gov.bd
 beanibazarpaurashava.gov.bd
 bepza.gov.bd
+bsc.gov.bd
 bsti.gov.bd
 bvc.gov.bd
 cafoimed.gov.bd
@@ -13,6 +16,7 @@ cafopsid.gov.bd
 career-sandbox.nwpgcl.gov.bd
 cbc.gov.bd
 charghatpaurashava.gov.bd
+cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bvc.gov.bd
 cpanel.dsheraj.gov.bd
@@ -21,6 +25,7 @@ cpanel.publichearing.gov.bd
 cpanel.tvib.gov.bd
 cpanel.upmymensinghholdingtax.gov.bd
 cpanel.zpmoulvibazar.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.bvc.gov.bd
 cpcalendars.dsheraj.gov.bd
 cpcalendars.jcbs.gov.bd
@@ -28,6 +33,7 @@ cpcalendars.publichearing.gov.bd
 cpcalendars.tvib.gov.bd
 cpcalendars.upmymensinghholdingtax.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.bvc.gov.bd
 cpcontacts.dsheraj.gov.bd
 cpcontacts.jcbs.gov.bd
@@ -74,6 +80,7 @@ phulpur.upmymensinghholdingtax.gov.bd
 publichearing.gov.bd
 puthiauhc.gov.bd
 ramgatipourashava.gov.bd
+rdobarishal.gov.bd
 register.gameapp.gov.bd
 socialprotection.gov.bd
 sprangpur.gov.bd
@@ -102,9 +109,11 @@ webmail.publichearing.gov.bd
 webmail.tvib.gov.bd
 webmail.upmymensinghholdingtax.gov.bd
 webmail.zpmoulvibazar.gov.bd
+www.bamis.gov.bd
 www.bangla.srngih.gov.bd
 www.beanibazarpaurashava.gov.bd
 www.bepza.gov.bd
+www.bpmis.bsc.gov.bd
 www.bvc.gov.bd
 www.cafoimed.gov.bd
 www.cafoird.gov.bd
@@ -116,6 +125,7 @@ www.dnbc.gov.bd
 www.dsheraj.gov.bd
 www.itconnect.gov.bd
 www.jcbs.gov.bd
+www.job.bsc.gov.bd
 www.kamaria.upmymensinghholdingtax.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.laravel.sfcair.gov.bd
