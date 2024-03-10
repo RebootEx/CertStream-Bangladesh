@@ -4,7 +4,10 @@ beanibazarpaurashava.gov.bd
 bepza.gov.bd
 bsti.gov.bd
 bvc.gov.bd
+cafoird.gov.bd
+cafomopa.gov.bd
 career-sandbox.nwpgcl.gov.bd
+cbc.gov.bd
 charghatpaurashava.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bvc.gov.bd
@@ -19,6 +22,7 @@ cpcontacts.bvc.gov.bd
 cpcontacts.dsheraj.gov.bd
 cpcontacts.jcbs.gov.bd
 cpcontacts.publichearing.gov.bd
+dnbc.gov.bd
 dsheraj.gov.bd
 edp.gov.bd
 egov.cabinet.gov.bd
@@ -33,11 +37,14 @@ kb10takakg.melandahbhata.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 mail.bvc.gov.bd
+mail.cbc.gov.bd
+mail.dnbc.gov.bd
 mail.dsheraj.gov.bd
 mail.jcbs.gov.bd
 mail.publichearing.gov.bd
 meeting.gtcl.gov.bd
 monitoring.landzoning.gov.bd
+mujibjigyasa.gov.bd
 nilmrc.gov.bd
 nogorapp.scc.gov.bd
 ntrc.gameapp.gov.bd
@@ -66,6 +73,10 @@ www.bangla.srngih.gov.bd
 www.beanibazarpaurashava.gov.bd
 www.bepza.gov.bd
 www.bvc.gov.bd
+www.cafoird.gov.bd
+www.cafomopa.gov.bd
+www.cbc.gov.bd
+www.dnbc.gov.bd
 www.dsheraj.gov.bd
 www.itconnect.gov.bd
 www.jcbs.gov.bd
@@ -73,6 +84,7 @@ www.kamaria.upmymensinghholdingtax.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.laravel.sfcair.gov.bd
 www.monitoring.landzoning.gov.bd
+www.mujibjigyasa.gov.bd
 www.nilmrc.gov.bd
 www.nogorapp.scc.gov.bd
 www.ntrc.gameapp.gov.bd
