@@ -19,6 +19,7 @@ api.ekpass.gov.bd
 arparaup.faridpurlg.gov.bd
 attendance.ekshop.gov.bd
 autoconfig.server.melandahbhata.gov.bd
+autodiscover.bamis.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.iras.bamis.gov.bd
 autodiscover.jamalpurpostal.gov.bd
@@ -26,6 +27,7 @@ autodiscover.patgrammunicipality.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 back.socialprotection.gov.bd
 backend.career.nwpgcl.gov.bd
+bamis.gov.bd
 bangla.srngih.gov.bd
 banglabazarup.munshiganjlg.gov.bd
 basb.gov.bd
@@ -44,6 +46,7 @@ bmcollege.gov.bd
 booking.bpodms.gov.bd
 borhamganjcollege.gov.bd
 brahmanbariamunicipality.gov.bd
+bsc.gov.bd
 bsmraau.gov.bd
 bstiqrcode.gov.bd
 btbckaschool.com.btriapps.gov.bd
@@ -80,6 +83,7 @@ controlroom.dghs.gov.bd
 coxsbazarmunicipality.gov.bd
 cp.kda.gov.bd
 cpadmin.scc.gov.bd
+cpanel.bamis.gov.bd
 cpanel.ccr.gov.bd
 cpanel.deodinajpur.gov.bd
 cpanel.faridpurlg.gov.bd
@@ -93,6 +97,7 @@ cpanel.sheikhrusseldigitallab.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpbackend.scc.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.deodinajpur.gov.bd
 cpcalendars.faridpurlg.gov.bd
@@ -105,6 +110,7 @@ cpcalendars.publichearing.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sheikhrusseldigitallab.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.deodinajpur.gov.bd
 cpcontacts.faridpurlg.gov.bd
@@ -173,6 +179,7 @@ hrm-service.bscl.gov.bd
 hrm.bscl.gov.bd
 hrm.sprangpur.gov.bd
 hrmdss.gov.bd
+hscresult1.bise-ctg.gov.bd
 iifc.gov.bd
 ikfmss.gov.bd
 inheritance.dc-rangamati.gov.bd
@@ -261,6 +268,7 @@ nwpgcl.gov.bd
 ocei.gov.bd
 old.dghs.gov.bd
 oldup.comillalg.gov.bd
+onlineadmission.bise-ctg.gov.bd
 oss.beza.gov.bd
 pabnapourashava.gov.bd
 pmes.moind.gov.bd
@@ -273,6 +281,7 @@ queue.cgbdsydney.gov.bd
 radhanagarup.gov.bd
 rajbaripourashava.gov.bd
 ramnagarup.faridpurlg.gov.bd
+rdobarishal.gov.bd
 roadshow.sec.gov.bd
 roc.gov.bd
 rpi.gov.bd
@@ -354,6 +363,7 @@ upsylhetholdingtax.gov.bd
 va.dghs.gov.bd
 vaxepi.gov.bd
 verify-network.ekshop.gov.bd
+vimruli.gov.bd
 vlan.cmpi.gov.bd
 vms.ugc.gov.bd
 vr.bangabhaban.gov.bd
@@ -394,6 +404,7 @@ www.alfadangaup.faridpurlg.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.attendance.ekshop.gov.bd
+www.bamis.gov.bd
 www.bangla.srngih.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.beanibazarpaurashava.gov.bd
@@ -415,6 +426,7 @@ www.book7.gobindagonjpourashava.gov.bd
 www.book8.gobindagonjpourashava.gov.bd
 www.book9.gobindagonjpourashava.gov.bd
 www.booking.bpodms.gov.bd
+www.bpmis.bsc.gov.bd
 www.bstiqrcode.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.cafomefcc.gov.bd
@@ -468,6 +480,7 @@ www.ishangopalpurup.faridpurlg.gov.bd
 www.jadunandiup.faridpurlg.gov.bd
 www.jalalpur.upsylhetholdingtax.gov.bd
 www.jamalpurpostal.gov.bd
+www.job.bsc.gov.bd
 www.jobsbiwta.gov.bd
 www.kaichailup.faridpurlg.gov.bd
 www.kaijuriup.faridpurlg.gov.bd
@@ -532,6 +545,7 @@ www.upsylhetholdingtax.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
+www.vimruli.gov.bd
 www.water.scc.gov.bd
 www.zpkurigram.gov.bd
 zpdinajpur.gov.bd
