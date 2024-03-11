@@ -4,6 +4,8 @@ aamhs.edu.bd
 abdulabadhighschool.edu.bd
 abdullapurhighschool.edu.bd
 abdussamad.edu.bd
+adm.edu.bd
+admin.dumuriacollege.edu.bd
 afazalahighschool.edu.bd
 amc.edu.bd
 amchighschool.edu.bd
@@ -16,8 +18,11 @@ autodiscover.rajcourtcollege.edu.bd
 autodiscover.rghscr.edu.bd
 bakshoreidm.edu.bd
 baliazanhighschool.edu.bd
+bashgaricollege.edu.bd
 bashkandihs.edu.bd
 basudebpurhs.edu.bd
+bau.edu.bd
+bdhs.edu.bd
 bepzacollegectg.edu.bd
 bghsb.edu.bd
 bghsbpara.edu.bd
@@ -33,6 +38,7 @@ chehelgazicollege.edu.bd
 clcs.green.edu.bd
 cmsc.edu.bd
 cpanel.aamhs.edu.bd
+cpanel.adm.edu.bd
 cpanel.bghsb.edu.bd
 cpanel.chamtola.edu.bd
 cpanel.dmidmb.edu.bd
@@ -50,6 +56,7 @@ cpanel.rghscr.edu.bd
 cpanel.rmstu.edu.bd
 cpanel.salamatsmritihs.edu.bd
 cpcalendars.aamhs.edu.bd
+cpcalendars.adm.edu.bd
 cpcalendars.bghsb.edu.bd
 cpcalendars.chamtola.edu.bd
 cpcalendars.dmidmb.edu.bd
@@ -66,6 +73,7 @@ cpcalendars.rghscr.edu.bd
 cpcalendars.rmstu.edu.bd
 cpcalendars.salamatsmritihs.edu.bd
 cpcontacts.aamhs.edu.bd
+cpcontacts.adm.edu.bd
 cpcontacts.bghsb.edu.bd
 cpcontacts.chamtola.edu.bd
 cpcontacts.dmidmb.edu.bd
@@ -104,6 +112,7 @@ gb777.cstahs.edu.bd
 gcia.green.edu.bd
 glht.edu.bd
 gmc2012.edu.bd
+gosdm.edu.bd
 grants.bbgc.edu.bd
 green.edu.bd
 gvlc.edu.bd
@@ -112,11 +121,14 @@ hazimdmofizuddinhighschool.edu.bd
 hazirparahdm.edu.bd
 hdsam.edu.bd
 hmjacc.edu.bd
+iba-ju.edu.bd
 icpc.green.edu.bd
 ihymmhs.edu.bd
+jamilakhatun.edu.bd
 jmc.green.edu.bd
 jorepukuriass.edu.bd
 jsfm.edu.bd
+jshschool.edu.bd
 jss.edu.bd
 juphs.edu.bd
 kajisirajulislamhighschool.edu.bd
@@ -139,6 +151,7 @@ library.green.edu.bd
 m.murailam.edu.bd
 maga.edu.bd
 mail.aamhs.edu.bd
+mail.adm.edu.bd
 mail.afazalahighschool.edu.bd
 mail.amchighschool.edu.bd
 mail.bghsb.edu.bd
@@ -148,6 +161,7 @@ mail.dmidmb.edu.bd
 mail.doluahs.edu.bd
 mail.gvlc.edu.bd
 mail.hatimarahs.edu.bd
+mail.jshschool.edu.bd
 mail.kajisirajulislamhighschool.edu.bd
 mail.kcpscbd.edu.bd
 mail.khdmadrasah.edu.bd
@@ -167,10 +181,13 @@ mail.rmstu.edu.bd
 mail.salamatsmritihs.edu.bd
 mail.surjyadiamhs.edu.bd
 mail.tbjhs.edu.bd
+majlishpurhighschool.edu.bd
+mamc.edu.bd
 mbtc.edu.bd
 mcc.edu.bd
 mdmm.edu.bd
 mdmu.edu.bd
+mentor.gachhbariidealcollege.edu.bd
 mhs.mollikpurhs.edu.bd
 mnusfm.edu.bd
 mphschool.edu.bd
@@ -184,6 +201,7 @@ nogel-gopay.cstahs.edu.bd
 nogel-linkaja.cstahs.edu.bd
 nogel-ovo.cstahs.edu.bd
 npimanikganj.edu.bd
+paitharahighschool.edu.bd
 paniharahighschool.edu.bd
 parkhimoniruddinschool.edu.bd
 payment.cub.edu.bd
@@ -191,6 +209,7 @@ pmc.edu.bd
 pnnhhs.edu.bd
 portal.kbnhighschool.edu.bd
 portal.kgdcollege.edu.bd
+portal.knhchs.edu.bd
 portal.nahhms.edu.bd
 ppss.edu.bd
 pritynessa.edu.bd
@@ -228,6 +247,7 @@ suratjanss.edu.bd
 suratjanss.lrkm.edu.bd
 surjadiadakhilmadrasah.edu.bd
 surjyadiamhs.edu.bd
+sxsctg.edu.bd
 taloraaahs.edu.bd
 tanoretsc.edu.bd
 tbeahs.edu.bd
@@ -237,7 +257,10 @@ tnanfazilmadrasah.edu.bd
 tttc.edu.bd
 uddm.edu.bd
 ulab.edu.bd
+user.dumuriacollege.edu.bd
+webapi.bsmraau.edu.bd
 webdisk.aamhs.edu.bd
+webdisk.adm.edu.bd
 webdisk.bghsb.edu.bd
 webdisk.chamtola.edu.bd
 webdisk.dmidmb.edu.bd
@@ -255,6 +278,7 @@ webdisk.rghscr.edu.bd
 webdisk.rmstu.edu.bd
 webdisk.salamatsmritihs.edu.bd
 webmail.aamhs.edu.bd
+webmail.adm.edu.bd
 webmail.bghsb.edu.bd
 webmail.chamtola.edu.bd
 webmail.dmidmb.edu.bd
@@ -272,6 +296,7 @@ webmail.rmstu.edu.bd
 webmail.salamatsmritihs.edu.bd
 www.aamhs.edu.bd
 www.abdussamad.edu.bd
+www.adm.edu.bd
 www.admission.amc.edu.bd
 www.afazalahighschool.edu.bd
 www.amchighschool.edu.bd
@@ -280,6 +305,7 @@ www.beta.green.edu.bd
 www.bghsb.edu.bd
 www.bghsbpara.edu.bd
 www.bus.green.edu.bd
+www.businessclub.iba-ju.edu.bd
 www.c.haadc.edu.bd
 www.cadetresult.shaheen.edu.bd
 www.ccd.green.edu.bd
@@ -287,6 +313,7 @@ www.cetl.green.edu.bd
 www.chamtola.edu.bd
 www.clcs.green.edu.bd
 www.cmscadmin.cmsc.edu.bd
+www.communic.iba-ju.edu.bd
 www.crit.green.edu.bd
 www.database.dtec.edu.bd
 www.demo.cub.edu.bd
@@ -307,6 +334,7 @@ www.hmjacc.edu.bd
 www.icpc.green.edu.bd
 www.jmc.green.edu.bd
 www.journal.green.edu.bd
+www.jshschool.edu.bd
 www.kajisirajulislamhighschool.edu.bd
 www.kcpscbd.edu.bd
 www.khdmadrasah.edu.bd
@@ -317,8 +345,10 @@ www.lhkuam.edu.bd
 www.library.green.edu.bd
 www.m.murailam.edu.bd
 www.maga.edu.bd
+www.mamc.edu.bd
 www.mcc.edu.bd
 www.mdmm.khdmm.edu.bd
+www.mentor.gachhbariidealcollege.edu.bd
 www.mhs.mollikpurhs.edu.bd
 www.mnusfm.edu.bd
 www.mpmhs113629.edu.bd
@@ -329,6 +359,7 @@ www.parkhimoniruddinschool.edu.bd
 www.payment.cub.edu.bd
 www.pmc.edu.bd
 www.pnnhhs.edu.bd
+www.portal.knhchs.edu.bd
 www.publications.green.edu.bd
 www.purbasadardihs.abdulabadhighschool.edu.bd
 www.rahmatpurhs.edu.bd
@@ -341,6 +372,7 @@ www.s.mirhs.edu.bd
 www.s.moriahs.edu.bd
 www.s.shalikhahighschool.edu.bd
 www.salamatsmritihs.edu.bd
+www.school.paitharahighschool.edu.bd
 www.school.pathanbazarabediaschool.edu.bd
 www.school.sonagazigirlsphs.edu.bd
 www.sdmpk.ppss.edu.bd
@@ -350,6 +382,8 @@ www.stat.tejgaoncollege.edu.bd
 www.sunflowerschool.edu.bd
 www.suratjanss.lrkm.edu.bd
 www.surjyadiamhs.edu.bd
+www.swc.iba-ju.edu.bd
+www.swcstore.iba-ju.edu.bd
 www.tbjhs.edu.bd
 www.test-site.green.edu.bd
 www.tex.green.edu.bd
