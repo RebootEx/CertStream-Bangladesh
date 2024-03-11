@@ -2,7 +2,9 @@ admin.ekshop.gov.bd
 api-admin.ekshop.gov.bd
 api-front.ekshop.gov.bd
 api-merchant.ekshop.gov.bd
+autodiscover.bamis.gov.bd
 bagancharagps.gov.bd
+bamis.gov.bd
 bangabhaban.gov.bd
 barisalboard.gov.bd
 bdris.melandahbhata.gov.bd
@@ -13,10 +15,13 @@ bridgesdivision.gov.bd
 cabinet.gov.bd
 cafoimed.gov.bd
 cafopmo.gov.bd
+cpanel.bamis.gov.bd
 cpanel.upmymensinghholdingtax.gov.bd
 cpanel.zpmoulvibazar.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.upmymensinghholdingtax.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.upmymensinghholdingtax.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 dhobaura.upmymensinghholdingtax.gov.bd
@@ -95,6 +100,7 @@ powerdivision.gov.bd
 probashi.gov.bd
 ptd.gov.bd
 rdcd.gov.bd
+rdobarishal.gov.bd
 rthd.gov.bd
 shed.gov.bd
 shr.shrlive.dghs.gov.bd
@@ -108,6 +114,7 @@ webdisk.upmymensinghholdingtax.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webmail.upmymensinghholdingtax.gov.bd
 webmail.zpmoulvibazar.gov.bd
+www.bamis.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.bogurapolice.gov.bd
 www.cafoimed.gov.bd
