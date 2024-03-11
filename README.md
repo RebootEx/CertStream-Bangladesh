@@ -24,14 +24,14 @@
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +60458560
+[+] New/ReNewed SSL Certs (ALL): +62024353
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +10168
-[+] New/ReNewed SSL Certs (Edu): +3566
-[+] New/ReNewed SSL Certs (Gov|Mil): +679
-[+] New/ReNewed SSL Certs (ISPs): +4
+[+] New/ReNewed SSL Certs (ALL): +10616
+[+] New/ReNewed SSL Certs (Edu): +3794
+[+] New/ReNewed SSL Certs (Gov|Mil): +706
+[+] New/ReNewed SSL Certs (ISPs): +5
 
 
 ```
