@@ -19,6 +19,7 @@ apfbhs.edu.bd
 api.just.edu.bd
 api.v2.just.edu.bd
 app.just.edu.bd
+apps.agrasara.edu.bd
 appt.just.edu.bd
 arc69.edu.bd
 argis.bbgc.edu.bd
@@ -62,6 +63,7 @@ bbcrss.edu.bd
 bbkgschool.edu.bd
 bcghschool.edu.bd
 bdm85.edu.bd
+bghc.edu.bd
 bghschool.edu.bd
 bha.edu.bd
 bhataiss.edu.bd
@@ -122,6 +124,7 @@ cpanel.ctis.edu.bd
 cpanel.drchs.edu.bd
 cpanel.eklashpurhighschool.edu.bd
 cpanel.gazipurmuslimhs.edu.bd
+cpanel.gcbghs.edu.bd
 cpanel.gwcollegepab.edu.bd
 cpanel.hamirdipiloths.edu.bd
 cpanel.hrhs.edu.bd
@@ -157,6 +160,7 @@ cpcalendars.ctis.edu.bd
 cpcalendars.drchs.edu.bd
 cpcalendars.eklashpurhighschool.edu.bd
 cpcalendars.gazipurmuslimhs.edu.bd
+cpcalendars.gcbghs.edu.bd
 cpcalendars.gwcollegepab.edu.bd
 cpcalendars.hamirdipiloths.edu.bd
 cpcalendars.hrhs.edu.bd
@@ -193,6 +197,7 @@ cpcontacts.drchs.edu.bd
 cpcontacts.eklashpurhighschool.edu.bd
 cpcontacts.engine.hasc.edu.bd
 cpcontacts.gazipurmuslimhs.edu.bd
+cpcontacts.gcbghs.edu.bd
 cpcontacts.gwcollegepab.edu.bd
 cpcontacts.hamirdipiloths.edu.bd
 cpcontacts.hrhs.edu.bd
@@ -257,6 +262,7 @@ garagonjgirls.edu.bd
 gazihamidm.edu.bd
 gazipurmuslimhs.edu.bd
 gazipurmuslimhs.edu.bd.dwc.edu.bd
+gcbghs.edu.bd
 gcim.edu.bd
 gebt.just.edu.bd
 ggidm.edu.bd
@@ -303,6 +309,7 @@ jangirhighschool.edu.bd
 jhemhs.edu.bd
 jhs65.edu.bd
 jhs65.edu.bd.jhs.edu.bd
+jidmadrasha.edu.bd
 jkschoolandcollege.edu.bd
 jogardiahs.edu.bd
 jsfdm.edu.bd
@@ -336,6 +343,7 @@ kulbariadm.edu.bd
 kutubpurhs.edu.bd
 laam.edu.bd
 laam.jss.edu.bd
+lbcghs.edu.bd
 ldufm.edu.bd
 library.greenlife.edu.bd
 lkcs.edu.bd
@@ -366,6 +374,7 @@ mail.ddufm.edu.bd
 mail.drchs.edu.bd
 mail.eklashpurhighschool.edu.bd
 mail.gazipurmuslimhs.edu.bd
+mail.gcbghs.edu.bd
 mail.gwcollegepab.edu.bd
 mail.hamirdipiloths.edu.bd
 mail.hkdc.edu.bd
@@ -443,6 +452,7 @@ nhs.just.edu.bd
 nhsnil.edu.bd
 nhyahs.edu.bd
 nidmnr.edu.bd
+njkdm.edu.bd
 nkbhs.edu.bd
 nmdhs.edu.bd
 nowabenkicollege.edu.bd
@@ -475,6 +485,7 @@ portal.mgphs.edu.bd
 ppmi.edu.bd
 premnolhs.edu.bd
 ptr.just.edu.bd
+raipuramodelcollege.edu.bd
 ramugirlshighschool.edu.bd
 rashidpurghs.edu.bd
 rbdm.edu.bd
@@ -488,9 +499,14 @@ rustompurhs.edu.bd
 rustompurhs.edu.bd.jhs.edu.bd
 s.bbiam.edu.bd
 s.chandiparaghs.edu.bd
+s.jrshs.edu.bd
+s.magdm.edu.bd
+s.nhdhs.edu.bd
+s.shamhs.edu.bd
 salmanfasrsidm.edu.bd
 sams2004.edu.bd
 sasdm.edu.bd
+sauhs.edu.bd
 school.kohs.edu.bd
 seu.edu.bd
 shahjokiuddinhighschool.edu.bd
@@ -554,6 +570,7 @@ webdisk.drchs.edu.bd
 webdisk.durlovpurhs.edu.bd
 webdisk.eklashpurhighschool.edu.bd
 webdisk.gazipurmuslimhs.edu.bd
+webdisk.gcbghs.edu.bd
 webdisk.gwcollegepab.edu.bd
 webdisk.hamirdipiloths.edu.bd
 webdisk.hrhs.edu.bd
@@ -588,6 +605,7 @@ webmail.ctis.edu.bd
 webmail.drchs.edu.bd
 webmail.eklashpurhighschool.edu.bd
 webmail.gazipurmuslimhs.edu.bd
+webmail.gcbghs.edu.bd
 webmail.gwcollegepab.edu.bd
 webmail.hamirdipiloths.edu.bd
 webmail.hrhs.edu.bd
@@ -617,6 +635,7 @@ www.admin.snuhs114122.edu.bd
 www.aibasylhet.edu.bd
 www.aladipara.edu.bd
 www.alhsc.edu.bd
+www.apps.agrasara.edu.bd
 www.azimcompany.azimhakimschool.edu.bd
 www.back.ywca.edu.bd
 www.backend.eklashpurhighschool.edu.bd
@@ -663,6 +682,7 @@ www.eklashpurhighschool.edu.bd.dwc.edu.bd
 www.fsnghs.edu.bd
 www.gazipurmuslimhs.edu.bd
 www.gazipurmuslimhs.edu.bd.dwc.edu.bd
+www.gcbghs.edu.bd
 www.giftepro.com.rckhs.edu.bd
 www.gmkihs.edu.bd
 www.gomnatihs.mirzagonjmlhs.edu.bd
@@ -719,6 +739,10 @@ www.rustompurhs.edu.bd
 www.rustompurhs.edu.bd.jhs.edu.bd
 www.s.bbiam.edu.bd
 www.s.chandiparaghs.edu.bd
+www.s.jrshs.edu.bd
+www.s.magdm.edu.bd
+www.s.nhdhs.edu.bd
+www.s.shamhs.edu.bd
 www.sams2004.edu.bd
 www.sasdm.kmsnhs.edu.bd
 www.school.kohs.edu.bd
