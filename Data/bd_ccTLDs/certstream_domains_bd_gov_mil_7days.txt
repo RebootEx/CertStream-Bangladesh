@@ -6,6 +6,7 @@ admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 adminpanel.bise-ctg.gov.bd
 alfadangaup.faridpurlg.gov.bd
+aliabadup.faridpurlg.gov.bd
 amarbangabandhu.gov.bd
 ambikapurup.faridpurlg.gov.bd
 api-admin.ekshop.gov.bd
@@ -45,6 +46,7 @@ bridgesdivision.gov.bd
 bsc.gov.bd
 bsmraau.gov.bd
 bsti.gov.bd
+buraichup.faridpurlg.gov.bd
 bvc.gov.bd
 cabinet.gov.bd
 cafoimed.gov.bd
@@ -266,6 +268,7 @@ lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 laskardiaup.faridpurlg.gov.bd
 lawjusticediv.gov.bd
+lbphs.gov.bd
 lcsakhaura.gov.bd
 learning.dgme.gov.bd
 legislativediv.gov.bd
@@ -320,6 +323,7 @@ media.bmp.gov.bd
 meeting.gtcl.gov.bd
 meetingmgt.beza.gov.bd
 mefwd.gov.bd
+megchamiup.faridpurlg.gov.bd
 meherpur.gov.bd
 melandahbhata.gov.bd
 memis.gov.bd
@@ -372,6 +376,7 @@ narail.gov.bd
 narayanganj.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
 narsingdi.gov.bd
+nasirabadup.faridpurlg.gov.bd
 natore.gov.bd
 nbr.gov.bd
 nbrelearning.gov.bd
@@ -390,6 +395,7 @@ noc.kda.gov.bd
 nogorapp.scc.gov.bd
 nothi.gov.bd
 ntrc.gameapp.gov.bd
+nurullagonjup.faridpurlg.gov.bd
 nvacqr.nnsop.gov.bd
 ocei.gov.bd
 old.bise-ctg.gov.bd
@@ -401,6 +407,7 @@ ossbscic.gov.bd
 pabna.gov.bd
 pabnapourashava.gov.bd
 panchagarh.gov.bd
+panchuriaup.faridpurlg.gov.bd
 parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
 patuakhali.gov.bd
@@ -418,6 +425,7 @@ profile.rmch.gov.bd
 psm.beza.gov.bd
 ptd.gov.bd
 publichearing.gov.bd
+puraparaup.faridpurlg.gov.bd
 puthiauhc.gov.bd
 radhanagarup.gov.bd
 rajbari.gov.bd
@@ -470,6 +478,7 @@ smsc.ekshop.gov.bd
 socialprotection.gov.bd
 soms.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
+sonapurup.faridpurlg.gov.bd
 sonod.gov.bd
 sp.seip-fd.gov.bd
 spi.gov.bd
@@ -578,6 +587,7 @@ www.a.ttcbog.gov.bd
 www.academy.ekshop.gov.bd
 www.admin-mail.soms.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
+www.aliabadup.faridpurlg.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.attendance.ekshop.gov.bd
@@ -607,6 +617,7 @@ www.book8.gobindagonjpourashava.gov.bd
 www.book9.gobindagonjpourashava.gov.bd
 www.booking.bpodms.gov.bd
 www.bpmis.bsc.gov.bd
+www.buraichup.faridpurlg.gov.bd
 www.bvc.gov.bd
 www.cafoimed.gov.bd
 www.cafoird.gov.bd
@@ -694,20 +705,24 @@ www.mailbox.macademy.gov.bd
 www.majcharup.faridpurlg.gov.bd
 www.manikdhaup.faridpurlg.gov.bd
 www.meetingmgt.beza.gov.bd
+www.megchamiup.faridpurlg.gov.bd
 www.monitoring.landzoning.gov.bd
 www.moynaup.faridpurlg.gov.bd
 www.mujibjigyasa.gov.bd
 www.mulgram.uppabnaholdingtax.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.narikelbariyaup.faridpurlg.gov.bd
+www.nasirabadup.faridpurlg.gov.bd
 www.nbrelearning.gov.bd
 www.newveirson.comillalg.gov.bd
 www.nicvd.gov.bd
 www.nilmrc.gov.bd
 www.nogorapp.scc.gov.bd
 www.ntrc.gameapp.gov.bd
+www.nurullagonjup.faridpurlg.gov.bd
 www.old.bvc.gov.bd
 www.oldup.comillalg.gov.bd
+www.panchuriaup.faridpurlg.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
 www.pch.gov.bd
@@ -715,6 +730,7 @@ www.phulpur.upmymensinghholdingtax.gov.bd
 www.profile.rmch.gov.bd
 www.psm.beza.gov.bd
 www.publichearing.gov.bd
+www.puraparaup.faridpurlg.gov.bd
 www.radhanagarup.gov.bd
 www.rajshahiboard.gov.bd
 www.ramkantapurup.faridpurlg.gov.bd
@@ -742,6 +758,7 @@ www.smartramchandrapursouthup.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
 www.soms.gov.bd
+www.sonapurup.faridpurlg.gov.bd
 www.sp-server.rpi.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
 www.story.ansarvdpbank.gov.bd
