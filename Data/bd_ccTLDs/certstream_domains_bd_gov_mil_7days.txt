@@ -5,6 +5,7 @@ admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 adminpanel.bise-ctg.gov.bd
 alfadangaup.faridpurlg.gov.bd
+algiup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 ambikapurup.faridpurlg.gov.bd
 api-admin.ekshop.gov.bd
@@ -18,9 +19,11 @@ autodiscover.coxsbazaartsc.gov.bd
 autodiscover.dsheraj.gov.bd
 autodiscover.ghk.gov.bd
 autodiscover.urp.gov.bd
+azimnagorup.faridpurlg.gov.bd
 backend.career.nwpgcl.gov.bd
 bagancharagps.gov.bd
 bamis.gov.bd
+banaup.faridpurlg.gov.bd
 bangabhaban.gov.bd
 bangla.srngih.gov.bd
 banglabazarup.munshiganjlg.gov.bd
@@ -31,6 +34,7 @@ bepza.gov.bd
 beta.nmcp.gov.bd
 bgb.gov.bd
 bh410mwccpp.nwpgcl.gov.bd
+bhashancharup.faridpurlg.gov.bd
 bise-ctg.gov.bd
 bmet.dev.niseee.gov.bd
 boardadmin.bise-ctg.gov.bd
@@ -196,8 +200,11 @@ fowlab.gov.bd
 fpcsqit.dgfp.gov.bd
 freelancer.gov.bd
 gaibandhapourashava.gov.bd
+gaznaup.faridpurlg.gov.bd
+gharuaup.faridpurlg.gov.bd
 ghk.gov.bd
 ghoshpurup.faridpurlg.gov.bd
+gmp.gov.bd
 gobindagonjpourashava.gov.bd
 gredaup.faridpurlg.gov.bd
 greenmolbd.gov.bd
@@ -400,6 +407,7 @@ pabna.gov.bd
 pabnapourashava.gov.bd
 paikgachacollege.gov.bd
 panchagarh.gov.bd
+panchasharup.munshiganjlg.gov.bd
 panchuriaup.faridpurlg.gov.bd
 parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
@@ -572,15 +580,19 @@ wqtrms.dphe.gov.bd
 www.a.ttcbog.gov.bd
 www.admin-mail.soms.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
+www.algiup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
 www.arparaup.faridpurlg.gov.bd
+www.azimnagorup.faridpurlg.gov.bd
 www.bamis.gov.bd
+www.banaup.faridpurlg.gov.bd
 www.bangla.srngih.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.beanibazarpaurashava.gov.bd
 www.bepza.gov.bd
+www.bhashancharup.faridpurlg.gov.bd
 www.bise-ctg.gov.bd
 www.bogurapolice.gov.bd
 www.book1.gobindagonjpourashava.gov.bd
@@ -658,7 +670,9 @@ www.esheba.sylhetboard.gov.bd
 www.etds.gov.bd
 www.faridpurlg.gov.bd
 www.freelancer.gov.bd
+www.gaznaup.faridpurlg.gov.bd
 www.gccn.nient.gov.bd
+www.gharuaup.faridpurlg.gov.bd
 www.ghk.ghk.gov.bd
 www.ghk.gov.bd
 www.ghoshpurup.faridpurlg.gov.bd
@@ -713,6 +727,7 @@ www.ntrc.gameapp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.bvc.gov.bd
 www.oldup.comillalg.gov.bd
+www.panchasharup.munshiganjlg.gov.bd
 www.panchuriaup.faridpurlg.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
