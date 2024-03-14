@@ -70,6 +70,7 @@ beta.admission.sust.edu.bd
 beta.system.admission.sust.edu.bd
 bgphs.edu.bd
 bhabanipurghs.edu.bd
+biahs.edu.bd
 bifmc.edu.bd
 bimhs.edu.bd
 birampurcollege.edu.bd
@@ -109,11 +110,14 @@ cpanel.dgdm.edu.bd
 cpanel.dhukurjharicollege.edu.bd
 cpanel.dhulasarhighschool.edu.bd
 cpanel.dinajpursangeetcollege.edu.bd
+cpanel.dorsonparahs.edu.bd
 cpanel.dsgs.edu.bd
 cpanel.dssmm.edu.bd
 cpanel.ghsm.edu.bd
 cpanel.hajeeanjobalihighschool.edu.bd
+cpanel.hsschool.edu.bd
 cpanel.jhiniahighschool.edu.bd
+cpanel.kashimalahighschool.edu.bd
 cpanel.ksbcollege.edu.bd
 cpanel.kssm.edu.bd
 cpanel.kulbariahs.edu.bd
@@ -157,6 +161,7 @@ cpcalendars.dsgs.edu.bd
 cpcalendars.dssmm.edu.bd
 cpcalendars.ghsm.edu.bd
 cpcalendars.hajeeanjobalihighschool.edu.bd
+cpcalendars.hsschool.edu.bd
 cpcalendars.jhiniahighschool.edu.bd
 cpcalendars.ksbcollege.edu.bd
 cpcalendars.kssm.edu.bd
@@ -201,6 +206,7 @@ cpcontacts.dsgs.edu.bd
 cpcontacts.dssmm.edu.bd
 cpcontacts.ghsm.edu.bd
 cpcontacts.hajeeanjobalihighschool.edu.bd
+cpcontacts.hsschool.edu.bd
 cpcontacts.jhiniahighschool.edu.bd
 cpcontacts.ksbcollege.edu.bd
 cpcontacts.kssm.edu.bd
@@ -245,6 +251,7 @@ dhulasarhighschool.edu.bd
 dinajpurgcc.edu.bd
 dinajpursangeetcollege.edu.bd
 domargghs.edu.bd
+dorsonparahs.edu.bd
 drsalehaselimhighschool.edu.bd
 dsbhs.edu.bd
 dsgs.edu.bd
@@ -263,6 +270,8 @@ exams.bcps.edu.bd
 fakhs.edu.bd
 faridpurcitycollege.edu.bd
 fghs.edu.bd
+ftp.dorsonparahs.edu.bd
+ftp.kashimalahighschool.edu.bd
 gateway.easternuni.edu.bd
 gatiaahhs.edu.bd
 ghsm.edu.bd
@@ -281,6 +290,8 @@ hhrhighschool.edu.bd
 hkmfm.edu.bd
 hlphs.edu.bd
 hmidm.edu.bd
+hnhnpmc.edu.bd
+hsschool.edu.bd
 htabhs.edu.bd
 htimamgsc.edu.bd
 idhs.edu.bd
@@ -302,14 +313,17 @@ jhssirajganj.edu.bd
 jhstc.edu.bd
 jmgscbd.edu.bd
 jorkhalihighschool.edu.bd
+jrgbp.edu.bd
 jsfha.edu.bd
 jss.edu.bd
 kadmadrasah.edu.bd
+kalabadhaghs.edu.bd
 kalaigmc.edu.bd
 kaliapurksam.edu.bd
 kalikacchapathshalahs.edu.bd
 kalkinipghs.edu.bd
 kalsgirlsschool.edu.bd
+kashimalahighschool.edu.bd
 kayagolaharsc.edu.bd
 kazimontucollege.edu.bd
 kazirhatgs.edu.bd
@@ -363,16 +377,19 @@ mail.dgdm.edu.bd
 mail.dhukurjharicollege.edu.bd
 mail.dhulasarhighschool.edu.bd
 mail.dinajpursangeetcollege.edu.bd
+mail.dorsonparahs.edu.bd
 mail.dsgs.edu.bd
 mail.dssmm.edu.bd
 mail.ghsm.edu.bd
 mail.hajeeanjobalihighschool.edu.bd
+mail.hsschool.edu.bd
 mail.ighsp.edu.bd
 mail.iims.aehs.edu.bd
 mail.iims.ighsp.edu.bd
 mail.iims.srdmp.edu.bd
 mail.iims.sstactapobanhs.edu.bd
 mail.jhiniahighschool.edu.bd
+mail.kashimalahighschool.edu.bd
 mail.kazimontucollege.edu.bd
 mail.kbhsmym.edu.bd
 mail.khuhs.edu.bd
@@ -388,6 +405,7 @@ mail.mmodel.edu.bd
 mail.munshirbazarhighschool.edu.bd
 mail.muss.edu.bd
 mail.naphschool.edu.bd
+mail.nawabganjgovcollege.edu.bd
 mail.pndhs.edu.bd
 mail.pssp.edu.bd
 mail.qcps.edu.bd
@@ -434,6 +452,7 @@ naharacademy.edu.bd
 naphschool.edu.bd
 naphschool.edu.bd.dwc.edu.bd
 narichamhs.edu.bd
+nawabganjgovcollege.edu.bd
 new.adust.edu.bd
 newtowngirlshighschool.edu.bd
 nhskaw.edu.bd
@@ -486,6 +505,7 @@ ramgonjhighschool.edu.bd
 ranachandibgdm.edu.bd
 rangamatimc.edu.bd
 ranibghschool.edu.bd
+rbass.edu.bd
 rgs.edu.bd
 rmcollege.edu.bd
 rmhschool.edu.bd
@@ -544,6 +564,7 @@ telkupyhs.edu.bd
 terosreecollege.edu.bd
 test.miam79.edu.bd
 thsbf.edu.bd
+udayanmath.edu.bd
 updatedentalcollege.edu.bd
 utei.edu.bd
 utrailhighschool.edu.bd
@@ -573,6 +594,7 @@ webdisk.dsgs.edu.bd
 webdisk.dssmm.edu.bd
 webdisk.ghsm.edu.bd
 webdisk.hajeeanjobalihighschool.edu.bd
+webdisk.hsschool.edu.bd
 webdisk.jhiniahighschool.edu.bd
 webdisk.ksbcollege.edu.bd
 webdisk.kssm.edu.bd
@@ -613,11 +635,14 @@ webmail.dgdm.edu.bd
 webmail.dhukurjharicollege.edu.bd
 webmail.dhulasarhighschool.edu.bd
 webmail.dinajpursangeetcollege.edu.bd
+webmail.dorsonparahs.edu.bd
 webmail.dsgs.edu.bd
 webmail.dssmm.edu.bd
 webmail.ghsm.edu.bd
 webmail.hajeeanjobalihighschool.edu.bd
+webmail.hsschool.edu.bd
 webmail.jhiniahighschool.edu.bd
+webmail.kashimalahighschool.edu.bd
 webmail.ksbcollege.edu.bd
 webmail.kssm.edu.bd
 webmail.kulbariahs.edu.bd
@@ -698,6 +723,7 @@ www.dhulasarhighschool.edu.bd
 www.dhulasarhighschool.shishupalliacademy.edu.bd
 www.dinajpursangeetcollege.edu.bd
 www.dksdhs.edu.bd.dagma.edu.bd
+www.dorsonparahs.edu.bd
 www.dsgs.edu.bd
 www.dssmm.edu.bd
 www.dudmollikgirlsschool.edu.bd
@@ -710,6 +736,7 @@ www.faridpurcitycollege.edu.bd
 www.ghsm.edu.bd
 www.hajeeanjobalihighschool.edu.bd
 www.hasnabadhs.edu.bd
+www.hsschool.edu.bd
 www.immdm.edu.bd.kldm.edu.bd
 www.israilmazumdersc.edu.bd.tma.edu.bd
 www.jamilakghs.edu.bd
@@ -718,6 +745,7 @@ www.jhiniahighschool.edu.bd
 www.jhiniahighschool.edu.bd.jhs.edu.bd
 www.jhssirajganj.edu.bd
 www.jhstc.edu.bd
+www.kashimalahighschool.edu.bd
 www.kazimontucollege.edu.bd
 www.kbhsmym.edu.bd
 www.khuhs.edu.bd
@@ -751,6 +779,7 @@ www.my.desaam.edu.bd
 www.naharacademy.edu.bd
 www.naphschool.edu.bd
 www.naphschool.edu.bd.dwc.edu.bd
+www.nawabganjgovcollege.edu.bd
 www.online.bajuasurendranathcollege.edu.bd
 www.pencilbox.edu.bd
 www.piipiip.manikgonjmohilacollege.edu.bd
