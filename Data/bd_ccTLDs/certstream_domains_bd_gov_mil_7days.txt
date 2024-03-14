@@ -20,6 +20,7 @@ autodiscover.bamis.gov.bd
 autodiscover.coxsbazaartsc.gov.bd
 autodiscover.dsheraj.gov.bd
 autodiscover.ghk.gov.bd
+autodiscover.provati3-lged.gov.bd
 autodiscover.urp.gov.bd
 azimnagorup.faridpurlg.gov.bd
 backend.career.nwpgcl.gov.bd
@@ -95,6 +96,7 @@ charpotra.gov.bd
 citizen.scc.gov.bd
 cmc.gov.bd
 cmch.gov.bd
+college.gov.bd
 collegemanagement.thakpoly.gov.bd
 communitydhis.mohfw.gov.bd
 corona.gov.bd
@@ -111,6 +113,7 @@ cpanel.dsheraj.gov.bd
 cpanel.ghk.gov.bd
 cpanel.iifc.gov.bd
 cpanel.jcbs.gov.bd
+cpanel.provati3-lged.gov.bd
 cpanel.publichearing.gov.bd
 cpanel.rpmp.gov.bd
 cpanel.sariakandipourashava.gov.bd
@@ -129,6 +132,7 @@ cpcalendars.dsheraj.gov.bd
 cpcalendars.ghk.gov.bd
 cpcalendars.iifc.gov.bd
 cpcalendars.jcbs.gov.bd
+cpcalendars.provati3-lged.gov.bd
 cpcalendars.publichearing.gov.bd
 cpcalendars.rpmp.gov.bd
 cpcalendars.sariakandipourashava.gov.bd
@@ -145,6 +149,7 @@ cpcontacts.dsheraj.gov.bd
 cpcontacts.ghk.gov.bd
 cpcontacts.iifc.gov.bd
 cpcontacts.jcbs.gov.bd
+cpcontacts.provati3-lged.gov.bd
 cpcontacts.publichearing.gov.bd
 cpcontacts.sariakandipourashava.gov.bd
 cpcontacts.sarkaribanglacollege.gov.bd
@@ -309,6 +314,7 @@ mail.mgcm.gov.bd
 mail.nbrelearning.gov.bd
 mail.nicvd.gov.bd
 mail.pch.gov.bd
+mail.provati3-lged.gov.bd
 mail.publichearing.gov.bd
 mail.rangpurvat.gov.bd
 mail.sariakandipourashava.gov.bd
@@ -401,6 +407,7 @@ nilmrc.gov.bd
 nilphamari.gov.bd
 nise-dev.niseee.gov.bd
 niseee.gov.bd
+nlp.gov.bd
 noakhali.gov.bd
 noc.kda.gov.bd
 nogorapp.scc.gov.bd
@@ -431,11 +438,13 @@ pmo.gov.bd
 portal.gov.bd
 powerdivision.gov.bd
 probashi.gov.bd
+provati3-lged.gov.bd
 psm.beza.gov.bd
 ptd.gov.bd
 publichearing.gov.bd
 puraparaup.faridpurlg.gov.bd
 puthiauhc.gov.bd
+rabbitmq-dashboard-dev.niseee.gov.bd
 radhanagarup.gov.bd
 rajbari.gov.bd
 rajshahi.gov.bd
@@ -511,6 +520,7 @@ tangail.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
 tax.doharmunicipality.gov.bd
 taxappealzone4dhaka.gov.bd
+taxeszone6.gov.bd
 taxeszone8dhaka.gov.bd
 tcbextra.dewanganjbhata.gov.bd
 tdmtraining.finance.gov.bd
@@ -556,6 +566,7 @@ webdisk.dsheraj.gov.bd
 webdisk.ghk.gov.bd
 webdisk.iifc.gov.bd
 webdisk.jcbs.gov.bd
+webdisk.provati3-lged.gov.bd
 webdisk.publichearing.gov.bd
 webdisk.sariakandipourashava.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
@@ -570,6 +581,7 @@ webmail.dsheraj.gov.bd
 webmail.ghk.gov.bd
 webmail.iifc.gov.bd
 webmail.jcbs.gov.bd
+webmail.provati3-lged.gov.bd
 webmail.publichearing.gov.bd
 webmail.sariakandipourashava.gov.bd
 webmail.sarkaribanglacollege.gov.bd
@@ -725,6 +737,7 @@ www.nasirabadup.faridpurlg.gov.bd
 www.nbrelearning.gov.bd
 www.nicvd.gov.bd
 www.nilmrc.gov.bd
+www.nlp.gov.bd
 www.nogorapp.scc.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
@@ -735,6 +748,7 @@ www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
 www.pch.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
+www.provati3-lged.gov.bd
 www.psm.beza.gov.bd
 www.publichearing.gov.bd
 www.puraparaup.faridpurlg.gov.bd
