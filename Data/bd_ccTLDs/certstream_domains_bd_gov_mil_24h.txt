@@ -2,6 +2,7 @@
 api-ictpolicy.ictd.gov.bd
 api.scc.gov.bd
 autodiscover.bta.gov.bd
+autodiscover.provati3-lged.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
@@ -10,8 +11,12 @@ autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 bta.gov.bd
 bteb-dev.niseee.gov.bd
+cafocommerce.gov.bd
+certificate.comillaboard.gov.bd
+college.gov.bd
 collegemanagement.thakpoly.gov.bd
 cpanel.bta.gov.bd
+cpanel.provati3-lged.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
 cpanel.taxeszone13dhaka.gov.bd
@@ -19,6 +24,7 @@ cpanel.taxeszone2.gov.bd
 cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
 cpcalendars.bta.gov.bd
+cpcalendars.provati3-lged.gov.bd
 cpcalendars.taxappealzone3dhaka.gov.bd
 cpcalendars.taxesinspection.gov.bd
 cpcalendars.taxeszone13dhaka.gov.bd
@@ -26,6 +32,7 @@ cpcalendars.taxeszone2.gov.bd
 cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
 cpcontacts.bta.gov.bd
+cpcontacts.provati3-lged.gov.bd
 cpcontacts.taxappealzone3dhaka.gov.bd
 cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
@@ -34,6 +41,7 @@ cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 demand.taxeszone13dhaka.gov.bd
+dgnm.gov.bd
 dmch.gov.bd
 dragon77.teknaftsc.gov.bd
 dss-dev.niseee.gov.bd
@@ -42,9 +50,12 @@ gacor131.teknaftsc.gov.bd
 gacor303.teknaftsc.gov.bd
 gacor88.teknaftsc.gov.bd
 grs.sicip.gov.bd
+kibana-dev.niseee.gov.bd
 la.ictbdiasms.gov.bd
 lms.ipemis.dpe.gov.bd
 mail.bta.gov.bd
+mail.mgcm.gov.bd
+mail.provati3-lged.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
@@ -52,11 +63,15 @@ mail.taxeszone2.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 mcci-dev.niseee.gov.bd
+mgcm.gov.bd
 mw68.teknaftsc.gov.bd
 nascib-dev.niseee.gov.bd
 nise-dev.niseee.gov.bd
 nu-dev.niseee.gov.bd
+patharghatapourashava.gov.bd
 petir388.teknaftsc.gov.bd
+provati3-lged.gov.bd
+rabbitmq-dashboard-dev.niseee.gov.bd
 rhd.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
 sicip.gov.bd
@@ -74,6 +89,7 @@ taxeszoneonedhaka.gov.bd
 thedp.gov.bd
 upmymensinghholdingtax.gov.bd
 webdisk.bta.gov.bd
+webdisk.provati3-lged.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
 webdisk.taxeszone13dhaka.gov.bd
@@ -81,6 +97,7 @@ webdisk.taxeszone2.gov.bd
 webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
 webmail.bta.gov.bd
+webmail.provati3-lged.gov.bd
 webmail.taxappealzone3dhaka.gov.bd
 webmail.taxesinspection.gov.bd
 webmail.taxeszone13dhaka.gov.bd
@@ -92,6 +109,8 @@ www.collegemanagement.thakpoly.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.la.ictbdiasms.gov.bd
+www.mgcm.gov.bd
+www.provati3-lged.gov.bd
 www.ridonbd.com.rdodterangpur.gov.bd
 www.sicip.gov.bd
 www.smartpaharpurup.gov.bd
