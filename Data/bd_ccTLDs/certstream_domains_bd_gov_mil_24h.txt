@@ -10,6 +10,7 @@ autodiscover.taxeszone13dhaka.gov.bd
 autodiscover.taxeszone2.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
+bsc.gov.bd
 bta.gov.bd
 bteb-dev.niseee.gov.bd
 cafocommerce.gov.bd
@@ -53,8 +54,11 @@ dyd-dev.niseee.gov.bd
 gacor131.teknaftsc.gov.bd
 gacor303.teknaftsc.gov.bd
 gacor88.teknaftsc.gov.bd
+gobindagonjpourashava.gov.bd
 grs.sicip.gov.bd
+khulnashipyard.gov.bd
 kibana-dev.niseee.gov.bd
+krishibank.gov.bd
 la.ictbdiasms.gov.bd
 lms.ipemis.dpe.gov.bd
 mail.bta.gov.bd
@@ -117,6 +121,7 @@ webmail.taxeszoneonedhaka.gov.bd
 www.bta.gov.bd
 www.collegemanagement.thakpoly.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
+www.fp.gobindagonjpourashava.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.la.ictbdiasms.gov.bd
 www.mgcm.gov.bd
