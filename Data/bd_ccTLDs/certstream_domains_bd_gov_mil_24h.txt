@@ -8,6 +8,8 @@ autodiscover.taxeszone2.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 bta.gov.bd
+bteb-dev.niseee.gov.bd
+collegemanagement.thakpoly.gov.bd
 cpanel.bta.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
@@ -29,8 +31,11 @@ cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone2.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
+dashboard-backoffice-dev.niseee.gov.bd
 demand.taxeszone13dhaka.gov.bd
 dmch.gov.bd
+dss-dev.niseee.gov.bd
+dyd-dev.niseee.gov.bd
 la.ictbdiasms.gov.bd
 lms.ipemis.dpe.gov.bd
 mail.bta.gov.bd
@@ -40,14 +45,19 @@ mail.taxeszone13dhaka.gov.bd
 mail.taxeszone2.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
+mcci-dev.niseee.gov.bd
+nascib-dev.niseee.gov.bd
+nu-dev.niseee.gov.bd
 rhd.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
+smef-dev.niseee.gov.bd
 taxappealzone3dhaka.gov.bd
 taxesinspection.gov.bd
 taxeszone13dhaka.gov.bd
 taxeszone2.gov.bd
 taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
+thedp.gov.bd
 upmymensinghholdingtax.gov.bd
 webdisk.bta.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
@@ -64,6 +74,7 @@ webmail.taxeszone2.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
 www.bta.gov.bd
+www.collegemanagement.thakpoly.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.la.ictbdiasms.gov.bd
@@ -74,3 +85,5 @@ www.taxeszone13dhaka.gov.bd
 www.taxeszone2.gov.bd
 www.taxeszone3dhaka.gov.bd
 www.taxeszoneonedhaka.gov.bd
+youth-dev.niseee.gov.bd
+zpthakurgaon.gov.bd
