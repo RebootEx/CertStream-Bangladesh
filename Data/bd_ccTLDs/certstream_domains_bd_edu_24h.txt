@@ -42,6 +42,7 @@ backend.bdm2000.edu.bd.jhs.edu.bd
 backend.jhiniahighschool.edu.bd
 backend.jhiniahighschool.edu.bd.jhs.edu.bd
 backend.jhs65.edu.bd
+backend.jpgss.edu.bd
 backend.naphschool.edu.bd
 bafa.edu.bd
 baghschool.edu.bd
@@ -116,6 +117,7 @@ cpanel.dinajpursangeetcollege.edu.bd
 cpanel.dorsonparahs.edu.bd
 cpanel.dsgs.edu.bd
 cpanel.dssmm.edu.bd
+cpanel.eugsc.edu.bd
 cpanel.ghsm.edu.bd
 cpanel.hajeeanjobalihighschool.edu.bd
 cpanel.hatrampurcollege.edu.bd
@@ -166,6 +168,7 @@ cpcalendars.dhulasarhighschool.edu.bd
 cpcalendars.dinajpursangeetcollege.edu.bd
 cpcalendars.dsgs.edu.bd
 cpcalendars.dssmm.edu.bd
+cpcalendars.eugsc.edu.bd
 cpcalendars.ghsm.edu.bd
 cpcalendars.hajeeanjobalihighschool.edu.bd
 cpcalendars.hsschool.edu.bd
@@ -214,6 +217,7 @@ cpcontacts.dhulasarhighschool.edu.bd
 cpcontacts.dinajpursangeetcollege.edu.bd
 cpcontacts.dsgs.edu.bd
 cpcontacts.dssmm.edu.bd
+cpcontacts.eugsc.edu.bd
 cpcontacts.ghsm.edu.bd
 cpcontacts.hajeeanjobalihighschool.edu.bd
 cpcontacts.hsschool.edu.bd
@@ -283,6 +287,7 @@ ekduariahighschool.edu.bd
 ems.snhsr.edu.bd
 eng.rpsu.edu.bd
 epolygontoken.abnk.edu.bd
+eugsc.edu.bd
 exams.bcps.edu.bd
 fakhs.edu.bd
 faridpurcitycollege.edu.bd
@@ -311,6 +316,7 @@ hkmfm.edu.bd
 hlphs.edu.bd
 hmidm.edu.bd
 hnhnpmc.edu.bd
+hpgc.edu.bd
 hsschool.edu.bd
 htabhs.edu.bd
 htimamgsc.edu.bd
@@ -334,6 +340,7 @@ jhssirajganj.edu.bd
 jhstc.edu.bd
 jmgscbd.edu.bd
 jorkhalihighschool.edu.bd
+jpgss.edu.bd
 jrgbp.edu.bd
 jsfha.edu.bd
 jss.edu.bd
@@ -378,6 +385,7 @@ laluaskjb.edu.bd
 laluaskjb.shishupalliacademy.edu.bd
 langolmorahs.edu.bd
 lgsc.edu.bd
+library.seu.edu.bd
 m.aadmadrasah.edu.bd
 m.cpdm.edu.bd
 m.vmdm.edu.bd
@@ -409,6 +417,7 @@ mail.dinajpursangeetcollege.edu.bd
 mail.dorsonparahs.edu.bd
 mail.dsgs.edu.bd
 mail.dssmm.edu.bd
+mail.eugsc.edu.bd
 mail.ghsm.edu.bd
 mail.hajeeanjobalihighschool.edu.bd
 mail.hsschool.edu.bd
@@ -545,6 +554,7 @@ ranachandibgdm.edu.bd
 rangamatimc.edu.bd
 ranibghschool.edu.bd
 rbass.edu.bd
+residenthalls.just.edu.bd
 rgs.edu.bd
 rmcollege.edu.bd
 rmhschool.edu.bd
@@ -571,6 +581,7 @@ saradeshwarighs.edu.bd
 sazailgmhs.edu.bd
 sbc.edu.bd
 sbm.edu.bd
+sbschool.edu.bd
 scpsc.edu.bd
 sdhs.edu.bd
 sdqdm.edu.bd
@@ -583,6 +594,7 @@ shaldharfm.edu.bd
 shdc.edu.bd
 shishupalliacademy.edu.bd
 shyampurhmdcollege.edu.bd
+singherkathimlhs.edu.bd
 singuriadm.edu.bd
 sirajnagarhighschool.edu.bd
 sirajuddincollege.edu.bd
@@ -638,6 +650,7 @@ webdisk.dhulasarhighschool.edu.bd
 webdisk.dinajpursangeetcollege.edu.bd
 webdisk.dsgs.edu.bd
 webdisk.dssmm.edu.bd
+webdisk.eugsc.edu.bd
 webdisk.ghsm.edu.bd
 webdisk.hajeeanjobalihighschool.edu.bd
 webdisk.hsschool.edu.bd
@@ -687,6 +700,7 @@ webmail.dinajpursangeetcollege.edu.bd
 webmail.dorsonparahs.edu.bd
 webmail.dsgs.edu.bd
 webmail.dssmm.edu.bd
+webmail.eugsc.edu.bd
 webmail.ghsm.edu.bd
 webmail.hajeeanjobalihighschool.edu.bd
 webmail.hatrampurcollege.edu.bd
@@ -787,6 +801,7 @@ www.ems.snhsr.edu.bd
 www.ems.sundarpursrhs.edu.bd
 www.eng.rpsu.edu.bd
 www.epolygontoken.abnk.edu.bd
+www.eugsc.edu.bd
 www.faridpurcitycollege.edu.bd
 www.ghsm.edu.bd
 www.hajeeanjobalihighschool.edu.bd
@@ -802,6 +817,7 @@ www.jhiniahighschool.edu.bd
 www.jhiniahighschool.edu.bd.jhs.edu.bd
 www.jhssirajganj.edu.bd
 www.jhstc.edu.bd
+www.jpgss.edu.bd
 www.kashimalahighschool.edu.bd
 www.kazimontucollege.edu.bd
 www.kbhsmym.edu.bd
