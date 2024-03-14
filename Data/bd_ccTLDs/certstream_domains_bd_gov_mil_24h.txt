@@ -36,6 +36,8 @@ demand.taxeszone13dhaka.gov.bd
 dmch.gov.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
+gacor131.teknaftsc.gov.bd
+grs.sicip.gov.bd
 la.ictbdiasms.gov.bd
 lms.ipemis.dpe.gov.bd
 mail.bta.gov.bd
@@ -46,11 +48,18 @@ mail.taxeszone2.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 mcci-dev.niseee.gov.bd
+mw68.teknaftsc.gov.bd
 nascib-dev.niseee.gov.bd
+nise-dev.niseee.gov.bd
 nu-dev.niseee.gov.bd
+petir388.teknaftsc.gov.bd
 rhd.gov.bd
 ridonbd.com.rdodterangpur.gov.bd
+sicip.gov.bd
+smartpaharpurup.gov.bd
 smef-dev.niseee.gov.bd
+sp.sicip.gov.bd
+supervision.dghs.gov.bd
 taxappealzone3dhaka.gov.bd
 taxesinspection.gov.bd
 taxeszone13dhaka.gov.bd
@@ -79,6 +88,8 @@ www.demand.taxeszone13dhaka.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.la.ictbdiasms.gov.bd
 www.ridonbd.com.rdodterangpur.gov.bd
+www.sicip.gov.bd
+www.smartpaharpurup.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxesinspection.gov.bd
 www.taxeszone13dhaka.gov.bd
