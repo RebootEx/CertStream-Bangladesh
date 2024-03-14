@@ -55,6 +55,7 @@ bbhsac.edu.bd
 bbmdm.edu.bd
 bdm2000.edu.bd
 bdm2000.edu.bd.jhs.edu.bd
+bdsfdm.edu.bd
 beta.admission.sust.edu.bd
 beta.system.admission.sust.edu.bd
 bgphs.edu.bd
@@ -92,6 +93,7 @@ cpanel.ksbcollege.edu.bd
 cpanel.mmodel.edu.bd
 cpanel.naphschool.edu.bd
 cpanel.pndhs.edu.bd
+cpanel.qcps.edu.bd
 cpanel.rrhighschoolduarabazar.edu.bd
 cpanel.server1.nstu.edu.bd
 cpanel.shaldharfm.edu.bd
@@ -115,6 +117,7 @@ cpcalendars.ksbcollege.edu.bd
 cpcalendars.mmodel.edu.bd
 cpcalendars.naphschool.edu.bd
 cpcalendars.pndhs.edu.bd
+cpcalendars.qcps.edu.bd
 cpcalendars.rrhighschoolduarabazar.edu.bd
 cpcalendars.server1.nstu.edu.bd
 cpcalendars.shaldharfm.edu.bd
@@ -138,6 +141,7 @@ cpcontacts.ksbcollege.edu.bd
 cpcontacts.mmodel.edu.bd
 cpcontacts.naphschool.edu.bd
 cpcontacts.pndhs.edu.bd
+cpcontacts.qcps.edu.bd
 cpcontacts.rrhighschoolduarabazar.edu.bd
 cpcontacts.server1.nstu.edu.bd
 cpcontacts.shaldharfm.edu.bd
@@ -165,6 +169,8 @@ faridpurcitycollege.edu.bd
 fghs.edu.bd
 gatiaahhs.edu.bd
 gmc.edu.bd
+gmsmhs.edu.bd
+govtkjs.edu.bd
 gub.edu.bd
 hachs.edu.bd
 hajeeanjobalihighschool.edu.bd
@@ -177,6 +183,7 @@ hlphs.edu.bd
 hmidm.edu.bd
 htabhs.edu.bd
 htimamgsc.edu.bd
+idhs.edu.bd
 ijbhs.edu.bd
 immss.edu.bd
 indrakulsecondaryschool.edu.bd
@@ -206,8 +213,10 @@ kpss.edu.bd
 krjrinstitution.edu.bd
 ksbcollege.edu.bd
 kumurianarailhs.edu.bd
+langolmorahs.edu.bd
 lgsc.edu.bd
 m.aadmadrasah.edu.bd
+m.cpdm.edu.bd
 m.vmdm.edu.bd
 maauam.edu.bd
 madergonjschool.edu.bd
@@ -219,6 +228,7 @@ mail.backend.bdm2000.edu.bd
 mail.backend.jhiniahighschool.edu.bd
 mail.bakilahs.edu.bd
 mail.bdm2000.edu.bd
+mail.bdsfdm.edu.bd
 mail.bifmc.edu.bd
 mail.bornalmhs.edu.bd
 mail.charbariass.edu.bd
@@ -235,11 +245,13 @@ mail.jhiniahighschool.edu.bd
 mail.kbhsmym.edu.bd
 mail.khuhs.edu.bd
 mail.ksbcollege.edu.bd
+mail.langolmorahs.edu.bd
 mail.mirpurhs.edu.bd
 mail.mmodel.edu.bd
 mail.muss.edu.bd
 mail.naphschool.edu.bd
 mail.pndhs.edu.bd
+mail.qcps.edu.bd
 mail.rrhighschoolduarabazar.edu.bd
 mail.server1.nstu.edu.bd
 mail.shaldharfm.edu.bd
@@ -312,6 +324,7 @@ portal.sfnhs.edu.bd
 portal.shdc.edu.bd
 portal.ugv.edu.bd
 prmss116419.edu.bd
+qcps.edu.bd
 rahs.edu.bd
 ramchandrapuram.edu.bd
 ramgonjhighschool.edu.bd
@@ -325,6 +338,7 @@ rudraboirahs.edu.bd
 rupdiacollege.edu.bd
 s.bknphs.edu.bd
 s.borgachihs.edu.bd
+s.hahhs.edu.bd
 s.kppi.edu.bd
 s.lalbagrahs.edu.bd
 sadagarkandihs.edu.bd
@@ -339,6 +353,7 @@ sdhs.edu.bd
 server.amtailhs.edu.bd
 server1.nstu.edu.bd
 shaistabadgirlsschool.edu.bd
+shaktalihs.edu.bd
 shaldharfm.edu.bd
 shdc.edu.bd
 shyampurhmdcollege.edu.bd
@@ -348,6 +363,7 @@ sitakundacollege.edu.bd
 slhighchool.edu.bd
 smhabibpdc.edu.bd
 smmodelgovt.edu.bd
+software.chourait.edu.bd
 sonapurnurulislamhighschool.edu.bd
 sonapurnurulislamhighschool.edu.bd.jhs.edu.bd
 spcchs.edu.bd
@@ -378,6 +394,7 @@ webdisk.ksbcollege.edu.bd
 webdisk.mmodel.edu.bd
 webdisk.naphschool.edu.bd
 webdisk.pndhs.edu.bd
+webdisk.qcps.edu.bd
 webdisk.rrhighschoolduarabazar.edu.bd
 webdisk.shaldharfm.edu.bd
 webdisk.updatedentalcollege.edu.bd
@@ -401,6 +418,7 @@ webmail.ksbcollege.edu.bd
 webmail.mmodel.edu.bd
 webmail.naphschool.edu.bd
 webmail.pndhs.edu.bd
+webmail.qcps.edu.bd
 webmail.rrhighschoolduarabazar.edu.bd
 webmail.server1.nstu.edu.bd
 webmail.shaldharfm.edu.bd
@@ -441,6 +459,7 @@ www.bantencyberteam.iitb.edu.bd
 www.barundihighschool.edu.bd.jhs.edu.bd
 www.bdm2000.edu.bd
 www.bdm2000.edu.bd.jhs.edu.bd
+www.bdsfdm.edu.bd
 www.bifmc.edu.bd
 www.birampurcollege.edu.bd
 www.bornalmhs.edu.bd
@@ -469,7 +488,9 @@ www.kbhsmym.edu.bd
 www.khuhs.edu.bd
 www.kpss.edu.bd
 www.ksbcollege.edu.bd
+www.langolmorahs.edu.bd
 www.m.aadmadrasah.edu.bd
+www.m.cpdm.edu.bd
 www.m.vmdm.edu.bd
 www.mail.ighsp.edu.bd
 www.mail.iims.aehs.edu.bd
@@ -492,12 +513,14 @@ www.pirercharhs.abdulabadhighschool.edu.bd
 www.pndhs.edu.bd
 www.pndhs.shamalataherschool.edu.bd
 www.portal.ugv.edu.bd
+www.qcps.edu.bd
 www.rahs.edu.bd
 www.ranachandibgdm.edu.bd
 www.rrhighschoolduarabazar.edu.bd
 www.rupdiacollege.edu.bd
 www.s.bknphs.edu.bd
 www.s.borgachihs.edu.bd
+www.s.hahhs.edu.bd
 www.s.kppi.edu.bd
 www.s.lalbagrahs.edu.bd
 www.saikat.nakgh.edu.bd
