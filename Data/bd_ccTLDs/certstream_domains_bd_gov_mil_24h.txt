@@ -1,4 +1,5 @@
 66kbet.teknaftsc.gov.bd
+aclandsadarpur.gov.bd
 algiup.faridpurlg.gov.bd
 api-ictpolicy.ictd.gov.bd
 api.scc.gov.bd
@@ -21,6 +22,7 @@ cafocommerce.gov.bd
 certificate.comillaboard.gov.bd
 college.gov.bd
 collegemanagement.thakpoly.gov.bd
+cpanel.aclandsadarpur.gov.bd
 cpanel.bta.gov.bd
 cpanel.provati3-lged.gov.bd
 cpanel.rangpurdivhrm.gov.bd
@@ -30,6 +32,7 @@ cpanel.taxeszone13dhaka.gov.bd
 cpanel.taxeszone2.gov.bd
 cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
+cpcalendars.aclandsadarpur.gov.bd
 cpcalendars.bta.gov.bd
 cpcalendars.provati3-lged.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
@@ -39,6 +42,7 @@ cpcalendars.taxeszone13dhaka.gov.bd
 cpcalendars.taxeszone2.gov.bd
 cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
+cpcontacts.aclandsadarpur.gov.bd
 cpcontacts.bta.gov.bd
 cpcontacts.provati3-lged.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
@@ -51,6 +55,7 @@ cpcontacts.taxeszoneonedhaka.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 demand.taxeszone13dhaka.gov.bd
 dgnm.gov.bd
+distgopalganj.gov.bd
 dmch.gov.bd
 dragon77.teknaftsc.gov.bd
 dss-dev.niseee.gov.bd
@@ -67,6 +72,8 @@ kibana-dev.niseee.gov.bd
 krishibank.gov.bd
 la.ictbdiasms.gov.bd
 lms.ipemis.dpe.gov.bd
+madhukhalipaurashava.gov.bd
+mail.aclandsadarpur.gov.bd
 mail.bta.gov.bd
 mail.mgcm.gov.bd
 mail.provati3-lged.gov.bd
@@ -107,6 +114,7 @@ taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
 thedp.gov.bd
 upmymensinghholdingtax.gov.bd
+webdisk.aclandsadarpur.gov.bd
 webdisk.bta.gov.bd
 webdisk.provati3-lged.gov.bd
 webdisk.rangpurdivhrm.gov.bd
@@ -116,6 +124,7 @@ webdisk.taxeszone13dhaka.gov.bd
 webdisk.taxeszone2.gov.bd
 webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
+webmail.aclandsadarpur.gov.bd
 webmail.bta.gov.bd
 webmail.provati3-lged.gov.bd
 webmail.rangpurdivhrm.gov.bd
@@ -125,6 +134,7 @@ webmail.taxeszone13dhaka.gov.bd
 webmail.taxeszone2.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
+www.aclandsadarpur.gov.bd
 www.algiup.faridpurlg.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.banaup.faridpurlg.gov.bd

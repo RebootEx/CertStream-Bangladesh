@@ -110,10 +110,12 @@ cpanel.ksbcollege.edu.bd
 cpanel.mmodel.edu.bd
 cpanel.munshirbazarhighschool.edu.bd
 cpanel.naphschool.edu.bd
+cpanel.pencilbox.edu.bd
 cpanel.pndhs.edu.bd
 cpanel.qcps.edu.bd
 cpanel.rrhighschoolduarabazar.edu.bd
 cpanel.saradeshwarighs.edu.bd
+cpanel.scpsc.edu.bd
 cpanel.server1.nstu.edu.bd
 cpanel.shaldharfm.edu.bd
 cpanel.updatedentalcollege.edu.bd
@@ -140,10 +142,12 @@ cpcalendars.ksbcollege.edu.bd
 cpcalendars.mmodel.edu.bd
 cpcalendars.munshirbazarhighschool.edu.bd
 cpcalendars.naphschool.edu.bd
+cpcalendars.pencilbox.edu.bd
 cpcalendars.pndhs.edu.bd
 cpcalendars.qcps.edu.bd
 cpcalendars.rrhighschoolduarabazar.edu.bd
 cpcalendars.saradeshwarighs.edu.bd
+cpcalendars.scpsc.edu.bd
 cpcalendars.server1.nstu.edu.bd
 cpcalendars.shaldharfm.edu.bd
 cpcalendars.updatedentalcollege.edu.bd
@@ -170,10 +174,12 @@ cpcontacts.ksbcollege.edu.bd
 cpcontacts.mmodel.edu.bd
 cpcontacts.munshirbazarhighschool.edu.bd
 cpcontacts.naphschool.edu.bd
+cpcontacts.pencilbox.edu.bd
 cpcontacts.pndhs.edu.bd
 cpcontacts.qcps.edu.bd
 cpcontacts.rrhighschoolduarabazar.edu.bd
 cpcontacts.saradeshwarighs.edu.bd
+cpcontacts.scpsc.edu.bd
 cpcontacts.server1.nstu.edu.bd
 cpcontacts.shaldharfm.edu.bd
 cpcontacts.updatedentalcollege.edu.bd
@@ -182,6 +188,7 @@ cpcontacts.wmts.edu.bd
 dabzshs.edu.bd
 dahgdm.edu.bd
 dampurahs.edu.bd
+dattaparacollege.edu.bd
 daudpurhighschool.edu.bd
 dbadm.edu.bd
 demraidealcollege.edu.bd
@@ -206,6 +213,7 @@ exams.bcps.edu.bd
 fakhs.edu.bd
 faridpurcitycollege.edu.bd
 fghs.edu.bd
+gateway.easternuni.edu.bd
 gatiaahhs.edu.bd
 gistdinajpur.edu.bd
 gmc.edu.bd
@@ -238,6 +246,7 @@ jhiniahighschool.edu.bd
 jhiniahighschool.edu.bd.jhs.edu.bd
 jhssirajganj.edu.bd
 jhstc.edu.bd
+jmgscbd.edu.bd
 jorkhalihighschool.edu.bd
 jsfha.edu.bd
 jss.edu.bd
@@ -257,11 +266,13 @@ khsjoypurhat.edu.bd
 khsnn.edu.bd
 khsns.edu.bd
 khuhs.edu.bd
+kigam.edu.bd
 kpsc.edu.bd
 kpss.edu.bd
 krjrinstitution.edu.bd
 ksbcollege.edu.bd
 kumurianarailhs.edu.bd
+ladyprotimaghs.edu.bd
 langolmorahs.edu.bd
 lgsc.edu.bd
 m.aadmadrasah.edu.bd
@@ -312,6 +323,7 @@ mail.qcps.edu.bd
 mail.rrhighschoolduarabazar.edu.bd
 mail.saradeshwarighs.edu.bd
 mail.sbpgc.edu.bd
+mail.scpsc.edu.bd
 mail.server1.nstu.edu.bd
 mail.shaldharfm.edu.bd
 mail.smmodelgovt.edu.bd
@@ -339,6 +351,7 @@ msndm.edu.bd
 munshiganjghs.edu.bd
 munshirbazarhighschool.edu.bd
 munsurabadhighschool.edu.bd
+mushuddiafazuddinhighschool.edu.bd
 muslimacademy.edu.bd
 muss.edu.bd
 my.desaam.edu.bd
@@ -419,6 +432,7 @@ sanbhs.edu.bd
 santaharhgghs.edu.bd
 saradeshwarighs.edu.bd
 sbc.edu.bd
+scpsc.edu.bd
 sdhs.edu.bd
 server.amtailhs.edu.bd
 server1.nstu.edu.bd
@@ -452,8 +466,10 @@ updatedentalcollege.edu.bd
 utei.edu.bd
 utrailhighschool.edu.bd
 uttarbhurshiannadajibanhs.edu.bd
+varuakhalimnahs.edu.bd
 vatoparaghs.edu.bd
 vhbub.edu.bd
+vps.ndc.edu.bd
 webdisk.alazamsc.edu.bd
 webdisk.anandalokhs.edu.bd
 webdisk.anteharyahs.edu.bd
@@ -475,10 +491,12 @@ webdisk.ksbcollege.edu.bd
 webdisk.mmodel.edu.bd
 webdisk.munshirbazarhighschool.edu.bd
 webdisk.naphschool.edu.bd
+webdisk.pencilbox.edu.bd
 webdisk.pndhs.edu.bd
 webdisk.qcps.edu.bd
 webdisk.rrhighschoolduarabazar.edu.bd
 webdisk.saradeshwarighs.edu.bd
+webdisk.scpsc.edu.bd
 webdisk.shaldharfm.edu.bd
 webdisk.updatedentalcollege.edu.bd
 webdisk.uttarbhurshiannadajibanhs.edu.bd
@@ -505,15 +523,18 @@ webmail.ksbcollege.edu.bd
 webmail.mmodel.edu.bd
 webmail.munshirbazarhighschool.edu.bd
 webmail.naphschool.edu.bd
+webmail.pencilbox.edu.bd
 webmail.pndhs.edu.bd
 webmail.qcps.edu.bd
 webmail.rrhighschoolduarabazar.edu.bd
 webmail.saradeshwarighs.edu.bd
+webmail.scpsc.edu.bd
 webmail.server1.nstu.edu.bd
 webmail.shaldharfm.edu.bd
 webmail.updatedentalcollege.edu.bd
 webmail.uttarbhurshiannadajibanhs.edu.bd
 webmail.wmts.edu.bd
+webportal.easternuni.edu.bd
 whm.server1.nstu.edu.bd
 wmts.edu.bd
 www.abcdcollege.edu.bd
@@ -610,6 +631,7 @@ www.naharacademy.edu.bd
 www.naphschool.edu.bd
 www.naphschool.edu.bd.dwc.edu.bd
 www.online.bajuasurendranathcollege.edu.bd
+www.pencilbox.edu.bd
 www.piipiip.manikgonjmohilacollege.edu.bd
 www.pirercharhs.abdulabadhighschool.edu.bd
 www.pndhs.edu.bd
@@ -627,6 +649,7 @@ www.s.kppi.edu.bd
 www.s.lalbagrahs.edu.bd
 www.saikat.nakgh.edu.bd
 www.saradeshwarighs.edu.bd
+www.scpsc.edu.bd
 www.server.amtailhs.edu.bd
 www.server1.nstu.edu.bd
 www.shaldharfm.edu.bd
@@ -644,3 +667,4 @@ www.updatedentalcollege.edu.bd
 www.uttarbhurshiannadajibanhs.edu.bd
 www.uttarbhurshiannadajibanhs.edu.bd.abjmhs.edu.bd
 www.wmts.edu.bd
+ziacollegebagbari.edu.bd
