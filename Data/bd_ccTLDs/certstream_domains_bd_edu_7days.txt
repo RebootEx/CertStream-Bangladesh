@@ -698,6 +698,7 @@ cpanel.kulbariahs.edu.bd
 cpanel.kutigirlshs.edu.bd
 cpanel.laluajanata.edu.bd
 cpanel.laluaskjb.edu.bd
+cpanel.lbhs.edu.bd
 cpanel.libertyintschool.edu.bd
 cpanel.maauam.edu.bd
 cpanel.majbarihighschool.edu.bd
@@ -926,6 +927,7 @@ cpcalendars.kulbariahs.edu.bd
 cpcalendars.kutigirlshs.edu.bd
 cpcalendars.laluajanata.edu.bd
 cpcalendars.laluaskjb.edu.bd
+cpcalendars.lbhs.edu.bd
 cpcalendars.libertyintschool.edu.bd
 cpcalendars.maauam.edu.bd
 cpcalendars.majbarihighschool.edu.bd
@@ -1148,6 +1150,7 @@ cpcontacts.kulbariahs.edu.bd
 cpcontacts.kutigirlshs.edu.bd
 cpcontacts.laluajanata.edu.bd
 cpcontacts.laluaskjb.edu.bd
+cpcontacts.lbhs.edu.bd
 cpcontacts.libertyintschool.edu.bd
 cpcontacts.maauam.edu.bd
 cpcontacts.majbarihighschool.edu.bd
@@ -1896,6 +1899,7 @@ law.green.edu.bd
 laxmipurgovtmohilacollege.edu.bd
 laylamalekia.edu.bd
 lbcghs.edu.bd
+lbhs.edu.bd
 lbic.edu.bd
 ldufm.edu.bd
 lekha-info.uttarauniversity.edu.bd
@@ -2140,6 +2144,7 @@ mail.laluajanata.edu.bd
 mail.laluaskjb.edu.bd
 mail.langolmorahs.edu.bd
 mail.languliahighschool.edu.bd
+mail.lbhs.edu.bd
 mail.lhkuam.edu.bd
 mail.libertyintschool.edu.bd
 mail.maauam.edu.bd
@@ -2885,6 +2890,7 @@ siet.edu.bd
 sifm.edu.bd
 sihs.edu.bd
 sii.edu.bd
+sijghs.edu.bd
 singherkathimlhs.edu.bd
 singuriadm.edu.bd
 sipi.edu.bd
@@ -3216,6 +3222,7 @@ webdisk.kulbariahs.edu.bd
 webdisk.kutigirlshs.edu.bd
 webdisk.laluajanata.edu.bd
 webdisk.laluaskjb.edu.bd
+webdisk.lbhs.edu.bd
 webdisk.libertyintschool.edu.bd
 webdisk.maauam.edu.bd
 webdisk.majbarihighschool.edu.bd
@@ -3445,6 +3452,7 @@ webmail.kulbariahs.edu.bd
 webmail.kutigirlshs.edu.bd
 webmail.laluajanata.edu.bd
 webmail.laluaskjb.edu.bd
+webmail.lbhs.edu.bd
 webmail.libertyintschool.edu.bd
 webmail.maauam.edu.bd
 webmail.majbarihighschool.edu.bd
@@ -4060,6 +4068,7 @@ www.langolmorahs.edu.bd
 www.languliahighschool.edu.bd
 www.laurihs.jss.edu.bd
 www.law.green.edu.bd
+www.lbhs.edu.bd
 www.lekha-info.uttarauniversity.edu.bd
 www.lfe.primeasia.edu.bd
 www.lhkuam.edu.bd
