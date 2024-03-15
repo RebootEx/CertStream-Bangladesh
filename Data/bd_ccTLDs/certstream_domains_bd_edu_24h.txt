@@ -1,5 +1,6 @@
 aasn.edu.bd
 abdulabadhighschool.edu.bd
+abmhschool.edu.bd
 acc.khanjahanalicst.edu.bd
 adm.edu.bd
 admin.beta.sust.edu.bd
@@ -27,6 +28,7 @@ autodiscover.ihsbd.edu.bd
 autodiscover.kmfgcmhs.edu.bd
 avjmgghschool.edu.bd
 ayeshaalihighschool.edu.bd
+aylass.edu.bd
 azdm.edu.bd
 backend.jpgss.edu.bd
 backup.sifm.edu.bd
@@ -40,6 +42,7 @@ baligaonhighschool.edu.bd
 banaschool.edu.bd
 bangabariyssc.edu.bd
 banparilhighschool.edu.bd
+baptistmissionboysschool.edu.bd
 barapangashihs.edu.bd
 baribakasgss.edu.bd
 bashgaricollege.edu.bd
@@ -62,6 +65,7 @@ bkhschool.edu.bd
 bknjadm.edu.bd
 bmamrasc.edu.bd
 bmddm.edu.bd
+bmhsm.edu.bd
 boaliaghs.edu.bd
 bohiparahs.edu.bd
 bohschool.edu.bd
@@ -79,7 +83,9 @@ butex.edu.bd
 cadc.edu.bd
 cbdm.edu.bd
 cdadmadrasah.edu.bd
+charkaranjisecondaryschool.edu.bd
 chikancharahighschool.edu.bd
+chilahatikarengatali.edu.bd
 chiramtmshs.edu.bd
 choupallijghs.edu.bd
 chsb.edu.bd
@@ -96,6 +102,7 @@ cpanel.avjmgghschool.edu.bd
 cpanel.baligaonhighschool.edu.bd
 cpanel.baribakasgss.edu.bd
 cpanel.benguraseniormadrasah.edu.bd
+cpanel.bmhsm.edu.bd
 cpanel.bubt.edu.bd
 cpanel.butex.edu.bd
 cpanel.chsb.edu.bd
@@ -117,6 +124,7 @@ cpanel.ihsbd.edu.bd
 cpanel.klpshs.edu.bd
 cpanel.kmfgcmhs.edu.bd
 cpanel.kphsm.edu.bd
+cpanel.kss101985.edu.bd
 cpanel.kulbariahs.edu.bd
 cpanel.laluajanata.edu.bd
 cpanel.laluaskjb.edu.bd
@@ -127,6 +135,7 @@ cpanel.mcsk.edu.bd
 cpanel.mdsaam.edu.bd
 cpanel.mmghs.edu.bd
 cpanel.mmhsac.edu.bd
+cpanel.mshs.edu.bd
 cpanel.nachnaparamss.edu.bd
 cpanel.nhsn.edu.bd
 cpanel.northpoint.edu.bd
@@ -150,6 +159,7 @@ cpcalendars.avjmgghschool.edu.bd
 cpcalendars.baligaonhighschool.edu.bd
 cpcalendars.baribakasgss.edu.bd
 cpcalendars.benguraseniormadrasah.edu.bd
+cpcalendars.bmhsm.edu.bd
 cpcalendars.bubt.edu.bd
 cpcalendars.butex.edu.bd
 cpcalendars.chsb.edu.bd
@@ -169,6 +179,7 @@ cpcalendars.ihsbd.edu.bd
 cpcalendars.klpshs.edu.bd
 cpcalendars.kmfgcmhs.edu.bd
 cpcalendars.kphsm.edu.bd
+cpcalendars.kss101985.edu.bd
 cpcalendars.kulbariahs.edu.bd
 cpcalendars.laluajanata.edu.bd
 cpcalendars.laluaskjb.edu.bd
@@ -179,6 +190,7 @@ cpcalendars.mcsk.edu.bd
 cpcalendars.mdsaam.edu.bd
 cpcalendars.mmghs.edu.bd
 cpcalendars.mmhsac.edu.bd
+cpcalendars.mshs.edu.bd
 cpcalendars.nachnaparamss.edu.bd
 cpcalendars.nhsn.edu.bd
 cpcalendars.northpoint.edu.bd
@@ -201,6 +213,7 @@ cpcontacts.avjmgghschool.edu.bd
 cpcontacts.baligaonhighschool.edu.bd
 cpcontacts.baribakasgss.edu.bd
 cpcontacts.benguraseniormadrasah.edu.bd
+cpcontacts.bmhsm.edu.bd
 cpcontacts.bubt.edu.bd
 cpcontacts.butex.edu.bd
 cpcontacts.chsb.edu.bd
@@ -220,6 +233,7 @@ cpcontacts.ihsbd.edu.bd
 cpcontacts.klpshs.edu.bd
 cpcontacts.kmfgcmhs.edu.bd
 cpcontacts.kphsm.edu.bd
+cpcontacts.kss101985.edu.bd
 cpcontacts.kulbariahs.edu.bd
 cpcontacts.laluajanata.edu.bd
 cpcontacts.laluaskjb.edu.bd
@@ -230,6 +244,7 @@ cpcontacts.mcsk.edu.bd
 cpcontacts.mdsaam.edu.bd
 cpcontacts.mmghs.edu.bd
 cpcontacts.mmhsac.edu.bd
+cpcontacts.mshs.edu.bd
 cpcontacts.nachnaparamss.edu.bd
 cpcontacts.nhsn.edu.bd
 cpcontacts.northpoint.edu.bd
@@ -264,6 +279,7 @@ dhukuriagirlshighschool.edu.bd
 dhukuriamodelhighschool.edu.bd
 dim.edu.bd
 disschool.edu.bd
+diu.edu.bd
 djs.edu.bd
 dmaheswarpurdm.edu.bd
 dorsonparahs.edu.bd
@@ -290,6 +306,7 @@ ghonagdm.edu.bd
 ghoshpalagfm.edu.bd
 ghsm.edu.bd
 gjsc.edu.bd
+gjss.edu.bd
 gmc.edu.bd
 gmsmhs.edu.bd
 gonaigatidm.edu.bd
@@ -349,16 +366,20 @@ kphsm.edu.bd
 ksdm.edu.bd
 kshsc.edu.bd
 ksjui.edu.bd
+kss101985.edu.bd
+kss101993.edu.bd
 kulbariahs.edu.bd
 kundeswaribv.edu.bd
 laluajanata.edu.bd
 laluajanata.shishupalliacademy.edu.bd
 laluaskjb.edu.bd
 laluaskjb.shishupalliacademy.edu.bd
+lamcharihighschool.edu.bd
 lbhs.edu.bd
 lebudangahs.edu.bd
 lhsc.edu.bd
 library.cityuniversity.edu.bd
+m.nddm.edu.bd
 m.skjgdmadrasah.edu.bd
 m.ssfm.edu.bd
 machkholass.edu.bd
@@ -375,6 +396,7 @@ mail.avjmgghschool.edu.bd
 mail.baligaonhighschool.edu.bd
 mail.baribakasgss.edu.bd
 mail.benguraseniormadrasah.edu.bd
+mail.bmhsm.edu.bd
 mail.bubt.edu.bd
 mail.butex.edu.bd
 mail.chsb.edu.bd
@@ -397,6 +419,7 @@ mail.jalalpursecondaryschool.edu.bd
 mail.klpshs.edu.bd
 mail.kmfgcmhs.edu.bd
 mail.kphsm.edu.bd
+mail.kss101985.edu.bd
 mail.kulbariahs.edu.bd
 mail.laluajanata.edu.bd
 mail.laluaskjb.edu.bd
@@ -407,6 +430,7 @@ mail.mcsk.edu.bd
 mail.mdsaam.edu.bd
 mail.mmghs.edu.bd
 mail.mmhsac.edu.bd
+mail.mshs.edu.bd
 mail.nachnaparamss.edu.bd
 mail.nhsn.edu.bd
 mail.northpoint.edu.bd
@@ -426,6 +450,7 @@ majormannanhs.edu.bd
 malikhalibbags.edu.bd
 mandarbariasogdm.edu.bd
 martdm.edu.bd
+mbshs.edu.bd
 mcsk.edu.bd
 mdsaam.edu.bd
 mghs1918.edu.bd
@@ -442,6 +467,7 @@ monidakuamndm.edu.bd
 mpc.edu.bd
 msac.edu.bd
 msam.edu.bd
+mshs.edu.bd
 mssbrfm.edu.bd
 muragachahs.edu.bd
 muragachahs.edu.bd.rtnb.edu.bd
@@ -459,6 +485,7 @@ nhsn.edu.bd
 nhsp.edu.bd
 nmtsbmc.edu.bd
 northpoint.edu.bd
+nowmalass.edu.bd
 npi51040.edu.bd
 nrc.edu.bd
 nsdm.edu.bd
@@ -476,7 +503,9 @@ pawhs.edu.bd.abdulabadhighschool.edu.bd
 pbmschool.edu.bd
 pcsac.edu.bd
 perkarfajdm.edu.bd
+pghs1909.edu.bd
 pghschool.edu.bd
+pgss.edu.bd
 phsdk.edu.bd
 pkmmgss.edu.bd
 pmehahs.edu.bd
@@ -486,6 +515,7 @@ pritynessa.edu.bd
 pssp.edu.bd
 raghunathpurdnhsedu.edu.bd
 rajnagarrfm.edu.bd
+ramkatisecondaryschool.edu.bd
 rangpurmodelcollege.edu.bd
 rasulpurbn.edu.bd
 rbass.edu.bd
@@ -513,6 +543,7 @@ satkhiracsc.edu.bd
 sazailgmhs.edu.bd
 scholarships.eastdelta.edu.bd
 sdqdm.edu.bd
+sengua.edu.bd
 server2.daffodilvarsity.edu.bd
 sfmadrasah.edu.bd
 sghschool.edu.bd
@@ -537,11 +568,13 @@ sonaborhs.edu.bd
 sonapurcollege.edu.bd
 sovanhs.edu.bd
 spghs125690.edu.bd
+sreepurhighschool.edu.bd
 ssdcb.edu.bd
 stamc.edu.bd
 stghs.edu.bd
 suhschool.edu.bd
 sujaulhs.edu.bd
+sunarhaths.edu.bd
 sundarpurss.edu.bd
 talimpurbhs.edu.bd
 tangailmats.edu.bd
@@ -553,6 +586,7 @@ udayanmath.edu.bd
 ugck.dugc.edu.bd
 ujss.edu.bd
 ukrmhs.edu.bd
+ummeysalmaigdm.edu.bd
 uorlyceum.edu.bd
 uwfc.edu.bd
 vps.ndc.edu.bd
@@ -564,6 +598,7 @@ webdisk.avjmgghschool.edu.bd
 webdisk.baligaonhighschool.edu.bd
 webdisk.baribakasgss.edu.bd
 webdisk.benguraseniormadrasah.edu.bd
+webdisk.bmhsm.edu.bd
 webdisk.bubt.edu.bd
 webdisk.butex.edu.bd
 webdisk.chsb.edu.bd
@@ -583,6 +618,7 @@ webdisk.ihsbd.edu.bd
 webdisk.klpshs.edu.bd
 webdisk.kmfgcmhs.edu.bd
 webdisk.kphsm.edu.bd
+webdisk.kss101985.edu.bd
 webdisk.kulbariahs.edu.bd
 webdisk.laluajanata.edu.bd
 webdisk.laluaskjb.edu.bd
@@ -593,6 +629,7 @@ webdisk.mcsk.edu.bd
 webdisk.mdsaam.edu.bd
 webdisk.mmghs.edu.bd
 webdisk.mmhsac.edu.bd
+webdisk.mshs.edu.bd
 webdisk.nachnaparamss.edu.bd
 webdisk.nhsn.edu.bd
 webdisk.northpoint.edu.bd
@@ -615,6 +652,7 @@ webmail.avjmgghschool.edu.bd
 webmail.baligaonhighschool.edu.bd
 webmail.baribakasgss.edu.bd
 webmail.benguraseniormadrasah.edu.bd
+webmail.bmhsm.edu.bd
 webmail.bubt.edu.bd
 webmail.butex.edu.bd
 webmail.chsb.edu.bd
@@ -637,6 +675,7 @@ webmail.islampurcollege.edu.bd
 webmail.klpshs.edu.bd
 webmail.kmfgcmhs.edu.bd
 webmail.kphsm.edu.bd
+webmail.kss101985.edu.bd
 webmail.kulbariahs.edu.bd
 webmail.laluajanata.edu.bd
 webmail.laluaskjb.edu.bd
@@ -647,6 +686,7 @@ webmail.mcsk.edu.bd
 webmail.mdsaam.edu.bd
 webmail.mmghs.edu.bd
 webmail.mmhsac.edu.bd
+webmail.mshs.edu.bd
 webmail.nachnaparamss.edu.bd
 webmail.nhsn.edu.bd
 webmail.northpoint.edu.bd
@@ -682,6 +722,7 @@ www.baribakasgss.edu.bd
 www.bashgaricollege.edu.bd
 www.benguraseniormadrasah.edu.bd
 www.bhayadangaam.edu.bd
+www.bmhsm.edu.bd
 www.bsmrmu.edu.bd
 www.bubt.edu.bd
 www.butex.edu.bd
@@ -698,6 +739,7 @@ www.dhukuriaberahighschool.edu.bd
 www.dhukuriagirlshighschool.edu.bd
 www.dhukuriamodelhighschool.edu.bd
 www.dim.edu.bd
+www.diu.edu.bd
 www.dksdhs.edu.bd.dagma.edu.bd
 www.dorsonparahs.edu.bd
 www.dsgs.edu.bd
@@ -729,6 +771,7 @@ www.klpshs.edu.bd
 www.kmfgcmhs.edu.bd
 www.kobir.maohahighschool.edu.bd
 www.kphsm.edu.bd
+www.kss101985.edu.bd
 www.kulbariahs.edu.bd
 www.laluajanata.edu.bd
 www.laluajanata.shishupalliacademy.edu.bd
@@ -737,6 +780,7 @@ www.laluaskjb.shishupalliacademy.edu.bd
 www.lbhs.edu.bd
 www.lhsc.edu.bd
 www.library.cityuniversity.edu.bd
+www.m.nddm.edu.bd
 www.m.skjgdmadrasah.edu.bd
 www.m.ssfm.edu.bd
 www.madhobpurhs.edu.bd
@@ -748,6 +792,7 @@ www.mmghs.edu.bd
 www.mmhsac.edu.bd
 www.mmsac.edu.bd
 www.moharparahighschool.edu.bd
+www.mshs.edu.bd
 www.muragachahs.edu.bd.rtnb.edu.bd
 www.nachnaparamss.edu.bd
 www.nachnaparamss.edu.bd.abjmhs.edu.bd
