@@ -1,4 +1,5 @@
 acc-dohar.doharmunicipality.gov.bd
+accounts.dhakaeducationboard.gov.bd
 api.scc.gov.bd
 attendance.gov.bd
 attendance.rdobarishal.gov.bd
@@ -28,8 +29,10 @@ cpcontacts.taxeszone3dhaka.gov.bd
 dashboard.nilmrc.gov.bd
 doharmunicipality.gov.bd
 dpp.gov.bd
+freelancers.gov.bd
 gobindagonjpourashava.gov.bd
 hrm.doharmunicipality.gov.bd
+hscrollsheet.comillaboard.gov.bd
 ica.gov.bd
 iras.brri.gov.bd
 madhukhalipaurashava.gov.bd
@@ -40,6 +43,7 @@ merchant.ekshop.gov.bd
 old.warpo.gov.bd
 rb.ictbdiasms.gov.bd
 shibchartsc.gov.bd
+shmcht.gov.bd
 taxeszone3dhaka.gov.bd
 ulipurmunicipality.gov.bd
 uniontax.gov.bd
@@ -51,6 +55,7 @@ webmail.bta.gov.bd
 webmail.doharmunicipality.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 www.acc-dohar.doharmunicipality.gov.bd
+www.accounts.dhakaeducationboard.gov.bd
 www.attendance.rdobarishal.gov.bd
 www.bdansarerp.gov.bd
 www.book.gobindagonjpourashava.gov.bd
