@@ -32,6 +32,7 @@ autodiscover.taxeszone2.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 autodiscover.urp.gov.bd
+award.gov.bd
 azimnagorup.faridpurlg.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
@@ -66,7 +67,9 @@ brta1.bpodms.gov.bd
 bsc.gov.bd
 bsti.gov.bd
 bta.gov.bd
+btcl.gov.bd
 bteb-dev.niseee.gov.bd
+btvlive.gov.bd
 buraichup.faridpurlg.gov.bd
 bvc.gov.bd
 cabinet.gov.bd
@@ -121,6 +124,7 @@ coxsbazaartsc.gov.bd
 cp.kda.gov.bd
 cpadmin.scc.gov.bd
 cpanel.aclandsadarpur.gov.bd
+cpanel.award.gov.bd
 cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bta.gov.bd
@@ -149,6 +153,7 @@ cpanel.urp.gov.bd
 cpanel.zpmoulvibazar.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.aclandsadarpur.gov.bd
+cpcalendars.award.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bta.gov.bd
 cpcalendars.bvc.gov.bd
@@ -174,6 +179,7 @@ cpcalendars.upmymensinghholdingtax.gov.bd
 cpcalendars.urp.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
 cpcontacts.aclandsadarpur.gov.bd
+cpcontacts.award.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bta.gov.bd
 cpcontacts.bvc.gov.bd
@@ -198,6 +204,7 @@ cpcontacts.upmymensinghholdingtax.gov.bd
 cpcontacts.urp.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 cttcdmp.gov.bd
+culmination.bise-ctg.gov.bd
 dac.gov.bd
 dadpurup.faridpurlg.gov.bd
 dakshinmaijpara.upmymensinghholdingtax.gov.bd
@@ -227,6 +234,7 @@ dyd-dev.niseee.gov.bd
 edp.gov.bd
 effhsc.comillaboard.gov.bd
 effjsc.comillaboard.gov.bd
+effssc.comillaboard.gov.bd
 egov.cabinet.gov.bd
 ehaj.hajj.gov.bd
 ehrm.fireservice.gov.bd
@@ -236,6 +244,7 @@ elmis.dgfp.gov.bd
 emrd.gov.bd
 ems.epb.gov.bd
 ems.taxeszone3ctg.gov.bd
+epassport.gov.bd
 erd.gov.bd
 erp.barisalboard.gov.bd
 esales.banglaacademy.gov.bd
@@ -283,6 +292,7 @@ hscrollsheet.comillaboard.gov.bd
 hsd.gov.bd
 icbamcl.gov.bd
 ictd.gov.bd
+iif.bise-ctg.gov.bd
 imed.gov.bd
 inheritance.dc-rangamati.gov.bd
 ird.gov.bd
@@ -337,6 +347,7 @@ madhukhalipaurashava.gov.bd
 magura.gov.bd
 maijdeetsc.gov.bd
 mail.aclandsadarpur.gov.bd
+mail.award.gov.bd
 mail.bta.gov.bd
 mail.bvc.gov.bd
 mail.cbc.gov.bd
@@ -613,6 +624,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 water.scc.gov.bd
 webdisk.aclandsadarpur.gov.bd
+webdisk.award.gov.bd
 webdisk.bta.gov.bd
 webdisk.bvc.gov.bd
 webdisk.cmch.gov.bd
@@ -636,6 +648,7 @@ webdisk.upmymensinghholdingtax.gov.bd
 webdisk.urp.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webmail.aclandsadarpur.gov.bd
+webmail.award.gov.bd
 webmail.bta.gov.bd
 webmail.bvc.gov.bd
 webmail.cmch.gov.bd
@@ -668,6 +681,7 @@ www.algiup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.attendance.rdobarishal.gov.bd
+www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.bagatup.faridpurlg.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
@@ -703,6 +717,8 @@ www.book9.gobindagonjpourashava.gov.bd
 www.booking.bbcfec.gov.bd
 www.bpmis.bsc.gov.bd
 www.bta.gov.bd
+www.btcl.gov.bd
+www.btvlive.gov.bd
 www.buraichup.faridpurlg.gov.bd
 www.bvc.gov.bd
 www.bvcdoctor.bvc.gov.bd
@@ -758,6 +774,7 @@ www.dumainup.faridpurlg.gov.bd
 www.ekpass.gov.bd
 www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
+www.epassport.gov.bd
 www.esheba.sylhetboard.gov.bd
 www.etds.gov.bd
 www.fp.gobindagonjpourashava.gov.bd
