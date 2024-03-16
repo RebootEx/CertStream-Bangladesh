@@ -3,6 +3,7 @@ acc-dohar.doharmunicipality.gov.bd
 accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
 aclandsadarpur.gov.bd
+adharaup.munshiganjlg.gov.bd
 admin.ekshop.gov.bd
 adminpanel.bise-ctg.gov.bd
 algiup.faridpurlg.gov.bd
@@ -14,6 +15,7 @@ api-merchant.ekshop.gov.bd
 api.ekpass.gov.bd
 api.scc.gov.bd
 arparaup.faridpurlg.gov.bd
+atgharup.faridpurlg.gov.bd
 attendance.gov.bd
 attendance.rdobarishal.gov.bd
 autodiscover.bamis.gov.bd
@@ -326,6 +328,7 @@ jessoreboard.gov.bd
 jessorecustoms.gov.bd
 jgmc.gov.bd
 jhenaidah.gov.bd
+job.shmrmi.gov.bd
 joypurhat.gov.bd
 jscadmitcard.bise-ctg.gov.bd
 judiciary.gov.bd
@@ -347,6 +350,7 @@ kurigram.gov.bd
 kushtia.gov.bd
 la.ictbdiasms.gov.bd
 ladangtoto.teknaftsc.gov.bd
+lakshmipur.gov.bd
 lalmonirhat.gov.bd
 lalmonirhatmunicipality.gov.bd
 landac.comillalg.gov.bd
@@ -531,6 +535,7 @@ rajshahiboard.gov.bd
 ramgatipourashava.gov.bd
 ramkantapurup.faridpurlg.gov.bd
 ramnagarup.faridpurlg.gov.bd
+rampalup.munshiganjlg.gov.bd
 rangamati.gov.bd
 rangpur.gov.bd
 rangpurdiv.gov.bd
@@ -694,9 +699,11 @@ webmail.zpmoulvibazar.gov.bd
 www.acc-dohar.doharmunicipality.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.aclandsadarpur.gov.bd
+www.adharaup.munshiganjlg.gov.bd
 www.algiup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.arparaup.faridpurlg.gov.bd
+www.atgharup.faridpurlg.gov.bd
 www.attendance.rdobarishal.gov.bd
 www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
@@ -868,6 +875,7 @@ www.python.secretariatclinic.gov.bd
 www.rajshahiboard.gov.bd
 www.ramkantapurup.faridpurlg.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
+www.rampalup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rangpurvat.gov.bd
 www.rb.ictbdiasms.gov.bd
