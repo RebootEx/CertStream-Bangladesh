@@ -18,6 +18,7 @@ attendance.gov.bd
 attendance.rdobarishal.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bta.gov.bd
+autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.coxsbazaartsc.gov.bd
 autodiscover.doharmunicipality.gov.bd
 autodiscover.ghk.gov.bd
@@ -110,6 +111,7 @@ charjahukandaup.faridpurlg.gov.bd
 charnasirpurup.faridpurlg.gov.bd
 charpotra.gov.bd
 chittagong.gov.bd
+chowmuhanimunicipality.gov.bd
 chumurdiup.faridpurlg.gov.bd
 cloud.gems.gov.bd
 cltp.gov.bd
@@ -128,6 +130,7 @@ cpanel.aclandsadarpur.gov.bd
 cpanel.award.gov.bd
 cpanel.bamis.gov.bd
 cpanel.bta.gov.bd
+cpanel.chowmuhanimunicipality.gov.bd
 cpanel.cmch.gov.bd
 cpanel.coxsbazaartsc.gov.bd
 cpanel.doharmunicipality.gov.bd
@@ -151,6 +154,7 @@ cpcalendars.aclandsadarpur.gov.bd
 cpcalendars.award.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bta.gov.bd
+cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.cmch.gov.bd
 cpcalendars.coxsbazaartsc.gov.bd
 cpcalendars.doharmunicipality.gov.bd
@@ -173,6 +177,7 @@ cpcontacts.aclandsadarpur.gov.bd
 cpcontacts.award.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bta.gov.bd
+cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.cmch.gov.bd
 cpcontacts.coxsbazaartsc.gov.bd
 cpcontacts.doharmunicipality.gov.bd
@@ -344,6 +349,7 @@ mail.bsachittagong.gov.bd
 mail.bsiedu.gov.bd
 mail.bta.gov.bd
 mail.cbraj.gov.bd
+mail.chowmuhanimunicipality.gov.bd
 mail.cmch.gov.bd
 mail.coxsbazaartsc.gov.bd
 mail.dedo.gov.bd
@@ -431,6 +437,7 @@ mylocker.gov.bd
 mymensingh.gov.bd
 mymensinghsadar.upmymensinghholdingtax.gov.bd
 name.bise-ctg.gov.bd
+nameageserv.comillaboard.gov.bd
 naogaon.gov.bd
 narail.gov.bd
 narayanganj.gov.bd
@@ -593,6 +600,7 @@ vtti.gov.bd
 webdisk.aclandsadarpur.gov.bd
 webdisk.award.gov.bd
 webdisk.bta.gov.bd
+webdisk.chowmuhanimunicipality.gov.bd
 webdisk.cmch.gov.bd
 webdisk.coxsbazaartsc.gov.bd
 webdisk.doharmunicipality.gov.bd
@@ -613,6 +621,7 @@ webdisk.zpmoulvibazar.gov.bd
 webmail.aclandsadarpur.gov.bd
 webmail.award.gov.bd
 webmail.bta.gov.bd
+webmail.chowmuhanimunicipality.gov.bd
 webmail.cmch.gov.bd
 webmail.coxsbazaartsc.gov.bd
 webmail.doharmunicipality.gov.bd
@@ -707,6 +716,7 @@ www.challenge.gov.bd
 www.charjahukandaup.faridpurlg.gov.bd
 www.charnasirpurup.faridpurlg.gov.bd
 www.charpotra.gov.bd
+www.chowmuhanimunicipality.gov.bd
 www.chumurdiup.faridpurlg.gov.bd
 www.cltp.gov.bd
 www.cmch.gov.bd
