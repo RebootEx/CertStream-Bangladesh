@@ -7,11 +7,13 @@ admin.ekshop.gov.bd
 adminpanel.bise-ctg.gov.bd
 algiup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
+ansarvdpbank.gov.bd
 api-admin.ekshop.gov.bd
 api-front.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
 api-merchant.ekshop.gov.bd
 api.ekpass.gov.bd
+api.ipemis.training.dpe.gov.bd
 api.scc.gov.bd
 atgharup.faridpurlg.gov.bd
 attendance.gov.bd
@@ -37,6 +39,7 @@ backup.urp.gov.bd
 bagancharagps.gov.bd
 bagatup.faridpurlg.gov.bd
 bagerhat.gov.bd
+baghaboup.narsingdilg.gov.bd
 bajitpurpaurashava.gov.bd
 bakshiganjbhata.gov.bd
 bamis.gov.bd
@@ -79,6 +82,7 @@ buraichup.faridpurlg.gov.bd
 bvc.gov.bd
 bvcdatabase.bvc.gov.bd
 cabinet.gov.bd
+cafobsc.gov.bd
 cafocabinet.gov.bd
 cafocat.gov.bd
 cafochta.gov.bd
@@ -103,6 +107,7 @@ cbraj.gov.bd
 ccms.gov.bd
 cddl.gov.bd
 certificate.comillaboard.gov.bd
+certificatechecker.pwdta.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
 challenge.gov.bd
 chandpur.gov.bd
@@ -204,6 +209,7 @@ dadpurup.faridpurlg.gov.bd
 dakshinmaijpara.upmymensinghholdingtax.gov.bd
 dangiup.faridpurlg.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
+dashboard.ipemis.training.dpe.gov.bd
 dashboard.nilmrc.gov.bd
 dedo.gov.bd
 demand.taxeszone13dhaka.gov.bd
@@ -243,6 +249,8 @@ emrd.gov.bd
 ems.taxeszone3ctg.gov.bd
 eocgeoportal.dncc.gov.bd
 epassport.gov.bd
+epayment.mbgc.gov.bd
+epoas.ddm.gov.bd
 erd.gov.bd
 erp.barisalboard.gov.bd
 esales.banglaacademy.gov.bd
@@ -267,9 +275,11 @@ gacor303.teknaftsc.gov.bd
 gacor88.teknaftsc.gov.bd
 gaibandha.gov.bd
 gaibandhapourashava.gov.bd
+gatepass.chc.gov.bd
 gaznaup.faridpurlg.gov.bd
 gharuaup.faridpurlg.gov.bd
 ghk.gov.bd
+ghorashalpourashava.gov.bd
 ghoshpurup.faridpurlg.gov.bd
 gmp.gov.bd
 gobindagonjpourashava.gov.bd
@@ -281,6 +291,7 @@ gsfy.brri.gov.bd
 gtbb.gov.bd
 gunaigachha.uppabnaholdingtax.gov.bd
 habiganj.gov.bd
+haluaghat.upmymensinghholdingtax.gov.bd
 haripur.uppabnaholdingtax.gov.bd
 haripurhspr.edu.bd.gbrcr.gov.bd
 hid.shrlive.dghs.gov.bd
@@ -299,6 +310,7 @@ icbamcl.gov.bd
 ictd.gov.bd
 iif.bise-ctg.gov.bd
 imed.gov.bd
+ipemis.training.dpe.gov.bd
 iras.brri.gov.bd
 ird.gov.bd
 islampur.sohayota.gov.bd
@@ -341,9 +353,12 @@ lbphs.gov.bd
 lcsakhaura.gov.bd
 legislativediv.gov.bd
 lgd.gov.bd
+lgservice.gov.bd
 lms.ipemis.dpe.gov.bd
 lms.parbatipurtsc.gov.bd
+login.ipemis.training.dpe.gov.bd
 logs.gems.gov.bd
+logs.ipemis.training.dpe.gov.bd
 ltuvat.gov.bd
 lvs.ansarvdpbank.gov.bd
 madhukhalipaurashava.gov.bd
@@ -351,6 +366,7 @@ madhukhaliup.faridpurlg.gov.bd
 magura.gov.bd
 mail.aclandsadarpur.gov.bd
 mail.award.gov.bd
+mail.badc.gov.bd
 mail.bsachittagong.gov.bd
 mail.bsiedu.gov.bd
 mail.bta.gov.bd
@@ -360,6 +376,7 @@ mail.cmch.gov.bd
 mail.coxsbazaartsc.gov.bd
 mail.dedo.gov.bd
 mail.doharmunicipality.gov.bd
+mail.esiraj.gov.bd
 mail.ghk.gov.bd
 mail.gtbb.gov.bd
 mail.jessorecustoms.gov.bd
@@ -405,6 +422,7 @@ mgcm.gov.bd
 mhapsd.gov.bd
 mincom.gov.bd
 minland.gov.bd
+mmch.gov.bd
 moa.gov.bd
 moca.gov.bd
 mocat.gov.bd
@@ -423,6 +441,7 @@ moi.gov.bd
 moind.gov.bd
 mole.gov.bd
 molwa.gov.bd
+monitor.ipemis.training.dpe.gov.bd
 mop.gov.bd
 mopa.gov.bd
 mopme.gov.bd
@@ -459,6 +478,7 @@ nbr.gov.bd
 nbrelearning.gov.bd
 ncc-ward8.gov.bd
 netrokona.gov.bd
+newsletter.ec4j.gov.bd
 nient.gov.bd
 nilphamari.gov.bd
 nise-dev.niseee.gov.bd
@@ -467,12 +487,15 @@ nlp.gov.bd
 noakhali.gov.bd
 nothi.gov.bd
 nowparaup.faridpurlg.gov.bd
+ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
 nurullagonjup.faridpurlg.gov.bd
 old.bise-ctg.gov.bd
 old.warpo.gov.bd
+oms.tzr.gov.bd
 onlineadmission.bise-ctg.gov.bd
 onlinefile.bise-ctg.gov.bd
+ops.ipemis.training.dpe.gov.bd
 ossbscic.gov.bd
 pabna.gov.bd
 paikgachacollege.gov.bd
@@ -501,6 +524,7 @@ puraparaup.faridpurlg.gov.bd
 python.secretariatclinic.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rajbari.gov.bd
+rajgati.uniontax.gov.bd
 rajshahi.gov.bd
 rajshahiboard.gov.bd
 ramgatipourashava.gov.bd
@@ -516,6 +540,8 @@ rcms.gov.bd
 rdcd.gov.bd
 rdobarishal.gov.bd
 recruitment.bdansarerp.gov.bd
+register.gameapp.gov.bd
+rems3.railwayestate.gov.bd
 resultmanagement.comillaboard.gov.bd
 rhd.gov.bd
 ric.gov.bd
@@ -633,6 +659,7 @@ webdisk.urp.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webmail.aclandsadarpur.gov.bd
 webmail.award.gov.bd
+webmail.badc.gov.bd
 webmail.bta.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.cmch.gov.bd
@@ -664,6 +691,7 @@ www.attendance.rdobarishal.gov.bd
 www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.bagatup.faridpurlg.gov.bd
+www.baghaboup.narsingdilg.gov.bd
 www.bajitpurpaurashava.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
 www.bamis.gov.bd
@@ -724,6 +752,7 @@ www.caforural.gov.bd
 www.cafotnt.gov.bd
 www.cbraj.gov.bd
 www.cddl.gov.bd
+www.certificatechecker.pwdta.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.challenge.gov.bd
 www.charjahukandaup.faridpurlg.gov.bd
@@ -753,9 +782,11 @@ www.ekshop.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.epassport.gov.bd
 www.esheba.sylhetboard.gov.bd
+www.esiraj.gov.bd
 www.etds.gov.bd
 www.fp.gobindagonjpourashava.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
+www.gafargaon.upmymensinghholdingtax.gov.bd
 www.gaznaup.faridpurlg.gov.bd
 www.gccn.nient.gov.bd
 www.gharuaup.faridpurlg.gov.bd
@@ -766,6 +797,7 @@ www.gouripur.upmymensinghholdingtax.gov.bd
 www.grs.gov.bd
 www.gtbb.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
+www.haluaghat.upmymensinghholdingtax.gov.bd
 www.haripur.uppabnaholdingtax.gov.bd
 www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hmis.uphcsdp.gov.bd
@@ -801,11 +833,14 @@ www.nandail.upmymensinghholdingtax.gov.bd
 www.narikelbariyaup.faridpurlg.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
 www.nbrelearning.gov.bd
+www.newsletter.ec4j.gov.bd
 www.nlp.gov.bd
 www.nokshipolli.melandahbhata.gov.bd
 www.nowparaup.faridpurlg.gov.bd
+www.ntrc.gameapp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.bspi.gov.bd
+www.oms.tzr.gov.bd
 www.panchasharup.munshiganjlg.gov.bd
 www.panchuriaup.faridpurlg.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
@@ -821,6 +856,8 @@ www.rampalup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rangpurvat.gov.bd
 www.rb.ictbdiasms.gov.bd
+www.register.gameapp.gov.bd
+www.rems3.railwayestate.gov.bd
 www.ric.gov.bd
 www.ridon.com.bd.rdodterangpur.gov.bd
 www.ridonbd.com.rdodterangpur.gov.bd
