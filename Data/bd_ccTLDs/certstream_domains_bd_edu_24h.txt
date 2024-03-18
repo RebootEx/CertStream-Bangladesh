@@ -10,6 +10,7 @@ access.ulab.edu.bd
 acpsc.edu.bd
 admission.britannia.edu.bd
 aghsk.edu.bd
+agsam.edu.bd
 ahmadndm.edu.bd
 ahsanullahcollegekhulna.edu.bd
 airamaryghs.edu.bd
@@ -49,6 +50,7 @@ basdm.edu.bd
 basgghs.edu.bd
 bawfm.edu.bd
 belnagarhs.edu.bd
+berkurihs.edu.bd
 betrobotyschool.edu.bd
 bfchs.edu.bd
 bgahs.edu.bd
@@ -58,6 +60,7 @@ bhangagovpiloths.edu.bd
 bhatshailhs.edu.bd
 bhedarganjhgphs.edu.bd
 bhkhs.edu.bd
+bhomordahdharmochakibdhighschool.edu.bd
 bhs06.edu.bd
 bhs125063.edu.bd
 bhssg.edu.bd
@@ -65,6 +68,7 @@ bigm.edu.bd
 bikrampur-bmc.edu.bd
 bilasbarihs.edu.bd
 bjb.edu.bd
+bkhs.edu.bd
 bmb.just.edu.bd
 bme.just.edu.bd
 bmhs.edu.bd
@@ -74,6 +78,7 @@ bockchartuitalhighschool.edu.bd
 bodhalhs.edu.bd
 bodm.edu.bd
 bomeairdrop.abnk.edu.bd
+bomeairdrop.ndhc.edu.bd
 bongramdrahs.edu.bd
 boropilakjuniorhighschool.edu.bd
 bpidm.edu.bd
@@ -82,6 +87,7 @@ bssb.edu.bd
 bsskj.edu.bd
 bsss.edu.bd
 cblhs.edu.bd
+cdhddm.edu.bd
 cdm.just.edu.bd
 cdmb.edu.bd
 cdsecondaryschool.edu.bd
@@ -109,6 +115,7 @@ cpanel.auc.edu.bd
 cpanel.azamc.edu.bd
 cpanel.baratvakla.edu.bd
 cpanel.basdm.edu.bd
+cpanel.berkurihs.edu.bd
 cpanel.bhangagovpiloths.edu.bd
 cpanel.bjb.edu.bd
 cpanel.bmhs.edu.bd
@@ -167,6 +174,7 @@ cpcalendars.auc.edu.bd
 cpcalendars.azamc.edu.bd
 cpcalendars.baratvakla.edu.bd
 cpcalendars.basdm.edu.bd
+cpcalendars.berkurihs.edu.bd
 cpcalendars.bhangagovpiloths.edu.bd
 cpcalendars.bjb.edu.bd
 cpcalendars.bmhs.edu.bd
@@ -225,6 +233,7 @@ cpcontacts.auc.edu.bd
 cpcontacts.azamc.edu.bd
 cpcontacts.baratvakla.edu.bd
 cpcontacts.basdm.edu.bd
+cpcontacts.berkurihs.edu.bd
 cpcontacts.bhangagovpiloths.edu.bd
 cpcontacts.bjb.edu.bd
 cpcontacts.bmhs.edu.bd
@@ -280,9 +289,11 @@ cse.just.edu.bd
 cspamhs.edu.bd
 cspamhs.edu.bd.azamc.edu.bd
 cyberresearch.bubt.edu.bd
+dahss.edu.bd
 damgarihs.edu.bd
 das.cgs.edu.bd
 dban.edu.bd
+dbdmadrasah.edu.bd
 dchss131121.edu.bd
 ddmadrasah.edu.bd
 debinagarghs.edu.bd
@@ -387,6 +398,7 @@ kokdandighs.edu.bd
 ksg.edu.bd
 kskhs.edu.bd
 ksradm.edu.bd
+kurianaghs.edu.bd
 kus.edu.bd
 kutubdangaghs.edu.bd
 kutubpurarunnesasc.edu.bd
@@ -403,10 +415,13 @@ mail.amtolikamilmadrasha.edu.bd
 mail.asrahs.edu.bd
 mail.auc.edu.bd
 mail.basdm.edu.bd
+mail.berkurihs.edu.bd
 mail.bhangagovpiloths.edu.bd
+mail.bhomordahdharmochakibdhighschool.edu.bd
 mail.bjb.edu.bd
 mail.bmhs.edu.bd
 mail.bmusc.edu.bd
+mail.bongramdrahs.edu.bd
 mail.boropilakjuniorhighschool.edu.bd
 mail.cduam118513.edu.bd
 mail.chscollege.edu.bd
@@ -482,6 +497,7 @@ mohanpurgirlshighschool.edu.bd
 mollas.edu.bd
 motgarihighschool.edu.bd
 mougachihighschool.edu.bd
+mpfmadrasah.edu.bd
 msnsc.edu.bd
 msti.edu.bd
 mth.just.edu.bd
@@ -508,6 +524,7 @@ nft.just.edu.bd
 nhahs.edu.bd
 nhs.just.edu.bd
 nilkhethighschool.edu.bd
+nizmeharmphs.edu.bd
 nnidm.edu.bd
 novation.edu.bd
 nsghs.edu.bd
@@ -536,6 +553,7 @@ posskn.edu.bd
 pphsnil.edu.bd
 progressivemodelschool.edu.bd
 pruahs.edu.bd
+psbfm.edu.bd
 ptr.just.edu.bd
 purbakakoirhs.edu.bd
 qaumijutemillshighschool.edu.bd
@@ -555,6 +573,7 @@ s.beltalihs.edu.bd
 sadagarkandihs.edu.bd
 saghspabna.edu.bd
 saintpeters.edu.bd
+salapcollege.edu.bd
 salehasc.edu.bd
 samsc.edu.bd
 sbkm.edu.bd
@@ -610,6 +629,7 @@ webdisk.auc.edu.bd
 webdisk.azamc.edu.bd
 webdisk.baratvakla.edu.bd
 webdisk.basdm.edu.bd
+webdisk.berkurihs.edu.bd
 webdisk.bhangagovpiloths.edu.bd
 webdisk.bjb.edu.bd
 webdisk.bmhs.edu.bd
@@ -668,6 +688,7 @@ webmail.auc.edu.bd
 webmail.azamc.edu.bd
 webmail.baratvakla.edu.bd
 webmail.basdm.edu.bd
+webmail.berkurihs.edu.bd
 webmail.bhangagovpiloths.edu.bd
 webmail.bjb.edu.bd
 webmail.bmhs.edu.bd
@@ -732,13 +753,16 @@ www.azimnagarhs.abdulabadhighschool.edu.bd
 www.babulcharahs.edu.bd
 www.basdm.edu.bd
 www.belnagarhs.edu.bd.mlahs.edu.bd
+www.berkurihs.edu.bd
 www.bghschool.edu.bd
 www.bhangagovpiloths.edu.bd
+www.bhomordahdharmochakibdhighschool.edu.bd
 www.bjb.edu.bd
 www.bmhs.edu.bd
 www.bmusc.edu.bd
 www.bncd.edu.bd
 www.bomeairdrop.abnk.edu.bd
+www.bomeairdrop.ndhc.edu.bd
 www.boropilakjuniorhighschool.edu.bd
 www.bsss.edu.bd
 www.cduam118513.edu.bd
@@ -748,6 +772,7 @@ www.ckmc.edu.bd
 www.cms.cyberresearch.bubt.edu.bd
 www.crestschool.edu.bd
 www.cspamhs.edu.bd.azamc.edu.bd
+www.dahss.edu.bd
 www.dban.edu.bd
 www.dgatihs.edu.bd
 www.dhukundihighschool.edu.bd
@@ -809,6 +834,7 @@ www.nakuchahs.edu.bd.nagargolahs.edu.bd
 www.nbths.edu.bd
 www.new.hgc.edu.bd
 www.new.uits.edu.bd
+www.nizmeharmphs.edu.bd
 www.nnidm.edu.bd.jrmb.edu.bd
 www.novation.edu.bd
 www.nurulihs.edu.bd
