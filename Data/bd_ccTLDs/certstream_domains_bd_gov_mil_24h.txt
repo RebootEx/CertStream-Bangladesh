@@ -1,4 +1,5 @@
 api.pds.dae.gov.bd
+autodiscover.taxeszone12dhaka.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 bazarmonitoring.digrajshahirange.gov.bd
 booking.bpodms.gov.bd
@@ -9,13 +10,17 @@ college.gov.bd
 comillazp.gov.bd
 cpanel.drodhaka.gov.bd
 cpanel.pwdta.gov.bd
+cpanel.taxeszone12dhaka.gov.bd
 cpanel.tds.taxeszone5dhaka.gov.bd
 cpcalendars.drodhaka.gov.bd
 cpcalendars.pwdta.gov.bd
+cpcalendars.taxeszone12dhaka.gov.bd
 cpcalendars.tds.taxeszone5dhaka.gov.bd
 cpcontacts.drodhaka.gov.bd
 cpcontacts.pwdta.gov.bd
+cpcontacts.taxeszone12dhaka.gov.bd
 cpcontacts.tds.taxeszone5dhaka.gov.bd
+cttcdmp.gov.bd
 dms.basbmed.gov.bd
 drodhaka.gov.bd
 ecptest.uru.gov.bd
@@ -31,6 +36,7 @@ imeetingmgt.beza.gov.bd
 mail.drodhaka.gov.bd
 mail.ppi.gov.bd
 mail.pwdta.gov.bd
+mail.taxeszone12dhaka.gov.bd
 mail.tds.taxeszone5dhaka.gov.bd
 mail.tpi.gov.bd
 meeting.cabinet.gov.bd
@@ -47,6 +53,7 @@ sttc.gov.bd
 swh.bwdb.gov.bd
 syedpurtsc.gov.bd
 taxappealrajshahi.gov.bd
+taxeszone12dhaka.gov.bd
 taxeszone4dhaka.gov.bd
 tds.taxeszone5dhaka.gov.bd
 thakpoly.gov.bd
@@ -55,9 +62,11 @@ ttcrangpur.edu.bd.rdodterangpur.gov.bd
 ttms.dpe.gov.bd
 webdisk.drodhaka.gov.bd
 webdisk.pwdta.gov.bd
+webdisk.taxeszone12dhaka.gov.bd
 webdisk.tds.taxeszone5dhaka.gov.bd
 webmail.drodhaka.gov.bd
 webmail.pwdta.gov.bd
+webmail.taxeszone12dhaka.gov.bd
 webmail.tds.taxeszone5dhaka.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
 www.dms.basbmed.gov.bd
@@ -69,6 +78,7 @@ www.ppi.gov.bd
 www.pwdta.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
 www.sttc.gov.bd
+www.taxeszone12dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
 www.tds.taxeszone5dhaka.gov.bd
 www.tpi.gov.bd
