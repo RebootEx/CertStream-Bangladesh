@@ -1,5 +1,6 @@
 autodiscover.taxeszone12dhaka.gov.bd
 bstiqrcode.gov.bd
+cgwc.gov.bd
 cpanel.cumillapoly.gov.bd
 cpanel.taxeszone12dhaka.gov.bd
 cpcalendars.cumillapoly.gov.bd
@@ -10,7 +11,11 @@ cttcdmp.gov.bd
 cumillapoly.gov.bd
 curriculum.gov.bd
 grs.ec4j.gov.bd
+himb.bwdb.gov.bd
+hris.mohfw.gov.bd
+hrm.dghs.gov.bd
 hrm.mfstc.gov.bd
+laravel.cafolgd.gov.bd
 mail.cumillapoly.gov.bd
 mail.taxeszone12dhaka.gov.bd
 office.fta.gov.bd
@@ -24,5 +29,6 @@ webmail.taxeszone12dhaka.gov.bd
 www.cumillapoly.gov.bd
 www.grs.ec4j.gov.bd
 www.hrm.mfstc.gov.bd
+www.laravel.cafolgd.gov.bd
 www.office.fta.gov.bd
 www.taxeszone12dhaka.gov.bd
