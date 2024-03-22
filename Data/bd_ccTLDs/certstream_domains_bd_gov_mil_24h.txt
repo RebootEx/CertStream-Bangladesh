@@ -1,3 +1,4 @@
+333.gov.bd
 api.ipemis.dpe.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
 bstiqrcode.gov.bd
@@ -13,6 +14,7 @@ cumillapoly.gov.bd
 curriculum.gov.bd
 damspsd.gov.bd
 dashboard.ipemis.dpe.gov.bd
+digidash.bhtpa.gov.bd
 grs.ec4j.gov.bd
 health.nwpgcl.gov.bd
 himb.bwdb.gov.bd
@@ -20,6 +22,7 @@ hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 hrm.mfstc.gov.bd
 ipemis.dpe.gov.bd
+judipay.gov.bd
 kms.bamis.gov.bd
 laravel.cafolgd.gov.bd
 live3.bmd.gov.bd
