@@ -22,6 +22,7 @@ office.fta.gov.bd
 shsmc.gov.bd
 swh.bwdb.gov.bd
 taxeszone12dhaka.gov.bd
+tds.taxeszone13dhaka.gov.bd
 webdisk.cumillapoly.gov.bd
 webdisk.taxeszone12dhaka.gov.bd
 webmail.cumillapoly.gov.bd
@@ -32,3 +33,4 @@ www.hrm.mfstc.gov.bd
 www.laravel.cafolgd.gov.bd
 www.office.fta.gov.bd
 www.taxeszone12dhaka.gov.bd
+www.tds.taxeszone13dhaka.gov.bd
