@@ -13,6 +13,7 @@ grs.ec4j.gov.bd
 hrm.mfstc.gov.bd
 mail.cumillapoly.gov.bd
 mail.taxeszone12dhaka.gov.bd
+office.fta.gov.bd
 shsmc.gov.bd
 swh.bwdb.gov.bd
 taxeszone12dhaka.gov.bd
@@ -23,4 +24,5 @@ webmail.taxeszone12dhaka.gov.bd
 www.cumillapoly.gov.bd
 www.grs.ec4j.gov.bd
 www.hrm.mfstc.gov.bd
+www.office.fta.gov.bd
 www.taxeszone12dhaka.gov.bd
