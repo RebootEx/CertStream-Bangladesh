@@ -16,10 +16,12 @@ himb.bwdb.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 hrm.mfstc.gov.bd
+kms.bamis.gov.bd
 laravel.cafolgd.gov.bd
 mail.cumillapoly.gov.bd
 mail.taxeszone12dhaka.gov.bd
 office.fta.gov.bd
+old.dhakadental.gov.bd
 shsmc.gov.bd
 swh.bwdb.gov.bd
 taxeszone12dhaka.gov.bd
@@ -33,5 +35,6 @@ www.grs.ec4j.gov.bd
 www.hrm.mfstc.gov.bd
 www.laravel.cafolgd.gov.bd
 www.office.fta.gov.bd
+www.old.dhakadental.gov.bd
 www.taxeszone12dhaka.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
