@@ -37,6 +37,7 @@ auc.onecar.com.bd
 autodiscover.akabaict.edu.bd
 autodiscover.askmphs.edu.bd
 autodiscover.bdgl.com.bd
+autodiscover.bgpmsc.edu.bd
 autodiscover.bhlgroup.com.bd
 autodiscover.bhogdangagirls.edu.bd
 autodiscover.chapilahighschool.edu.bd
@@ -59,11 +60,13 @@ autodiscover.spahs.edu.bd
 autodiscover.virgo.com.bd
 avjmgghschool.edu.bd
 avom.bsmraau.edu.bd
+backup.ahsan.com.bd
 baipurhs.edu.bd
 baliahs.edu.bd
 bamihalblhs.edu.bd
 bamnacollege.edu.bd
 bank24.mdalamgir.com.bd
+barakatalimlhighschool.edu.bd
 bardiaksahs.edu.bd
 bardiaksahs.edu.bd.hmsrhs.edu.bd
 basf.com.bd
@@ -75,6 +78,7 @@ bcoc.com.bd
 bdgl.com.bd
 bdmhs.edu.bd
 bestever.com.bd
+bgpmsc.edu.bd
 bhatshalaschool.edu.bd
 bhogdangagirls.edu.bd
 bif.org.bd
@@ -107,6 +111,7 @@ buyit.com.bd
 bvghs.edu.bd
 bvghs.edu.bd.momtajtdpl.com.bd
 call.com.bd
+card.think.com.bd
 cas.com.bd
 cashier.subidha.com.bd
 catalog.creo.com.bd
@@ -132,6 +137,7 @@ cpanel.ants.com.bd
 cpanel.askmphs.edu.bd
 cpanel.bardiaksahs.edu.bd
 cpanel.bdgl.com.bd
+cpanel.bgpmsc.edu.bd
 cpanel.bhlgroup.com.bd
 cpanel.bhogdangagirls.edu.bd
 cpanel.boaliahs.edu.bd
@@ -143,12 +149,14 @@ cpanel.firstsolutions.com.bd
 cpanel.gaghs.edu.bd
 cpanel.gkalhs.edu.bd
 cpanel.gmis.edu.bd
+cpanel.icn.com.bd
 cpanel.ihsb.edu.bd
 cpanel.jgdc.edu.bd
 cpanel.jhinaiyahs.edu.bd
 cpanel.kachiaraghs.edu.bd
 cpanel.katirhaths.edu.bd
 cpanel.kmpi.gov.bd
+cpanel.matrikotha.com.bd
 cpanel.medmart.com.bd
 cpanel.mgpghs.edu.bd
 cpanel.microsun.com.bd
@@ -166,6 +174,7 @@ cpanel.sadikagro.com.bd
 cpanel.sjgss.edu.bd
 cpanel.sjs.edu.bd
 cpanel.skahs.edu.bd
+cpanel.smartgen.com.bd
 cpanel.spahs.edu.bd
 cpanel.srv1.sbit.com.bd
 cpanel.virgo.com.bd
@@ -175,6 +184,7 @@ cpcalendars.ants.com.bd
 cpcalendars.askmphs.edu.bd
 cpcalendars.bardiaksahs.edu.bd
 cpcalendars.bdgl.com.bd
+cpcalendars.bgpmsc.edu.bd
 cpcalendars.bhlgroup.com.bd
 cpcalendars.bhogdangagirls.edu.bd
 cpcalendars.boaliahs.edu.bd
@@ -186,12 +196,14 @@ cpcalendars.firstsolutions.com.bd
 cpcalendars.gaghs.edu.bd
 cpcalendars.gkalhs.edu.bd
 cpcalendars.gmis.edu.bd
+cpcalendars.icn.com.bd
 cpcalendars.ihsb.edu.bd
 cpcalendars.jgdc.edu.bd
 cpcalendars.jhinaiyahs.edu.bd
 cpcalendars.kachiaraghs.edu.bd
 cpcalendars.katirhaths.edu.bd
 cpcalendars.kmpi.gov.bd
+cpcalendars.matrikotha.com.bd
 cpcalendars.medmart.com.bd
 cpcalendars.mgpghs.edu.bd
 cpcalendars.microsun.com.bd
@@ -209,6 +221,7 @@ cpcalendars.sadikagro.com.bd
 cpcalendars.sjgss.edu.bd
 cpcalendars.sjs.edu.bd
 cpcalendars.skahs.edu.bd
+cpcalendars.smartgen.com.bd
 cpcalendars.spahs.edu.bd
 cpcalendars.srv1.sbit.com.bd
 cpcalendars.virgo.com.bd
@@ -219,6 +232,7 @@ cpcontacts.askmphs.edu.bd
 cpcontacts.bank24.mdalamgir.com.bd
 cpcontacts.bardiaksahs.edu.bd
 cpcontacts.bdgl.com.bd
+cpcontacts.bgpmsc.edu.bd
 cpcontacts.bhlgroup.com.bd
 cpcontacts.bhogdangagirls.edu.bd
 cpcontacts.boaliahs.edu.bd
@@ -230,12 +244,14 @@ cpcontacts.firstsolutions.com.bd
 cpcontacts.gaghs.edu.bd
 cpcontacts.gkalhs.edu.bd
 cpcontacts.gmis.edu.bd
+cpcontacts.icn.com.bd
 cpcontacts.ihsb.edu.bd
 cpcontacts.jgdc.edu.bd
 cpcontacts.jhinaiyahs.edu.bd
 cpcontacts.kachiaraghs.edu.bd
 cpcontacts.katirhaths.edu.bd
 cpcontacts.kmpi.gov.bd
+cpcontacts.matrikotha.com.bd
 cpcontacts.medmart.com.bd
 cpcontacts.mgpghs.edu.bd
 cpcontacts.microsun.com.bd
@@ -253,6 +269,7 @@ cpcontacts.sadikagro.com.bd
 cpcontacts.sjgss.edu.bd
 cpcontacts.sjs.edu.bd
 cpcontacts.skahs.edu.bd
+cpcontacts.smartgen.com.bd
 cpcontacts.spahs.edu.bd
 cpcontacts.srv1.sbit.com.bd
 cpcontacts.virgo.com.bd
@@ -271,6 +288,14 @@ dearit.com.bd
 demo.bu.edu.bd
 designerland.com.bd
 dev.bmi.com.bd
+dev.waltonplaza.com.bd
+devadmin.waltonplaza.com.bd
+devapi.waltonplaza.com.bd
+devauth.waltonplaza.com.bd
+devorder.waltonplaza.com.bd
+devpayment.waltonplaza.com.bd
+devsocket.waltonplaza.com.bd
+devstorage.waltonplaza.com.bd
 dex.com.bd
 dic.edu.bd
 dle.asiaconnect.bdren.net.bd
@@ -291,6 +316,7 @@ email.cashbaba.com.bd
 env.emaco.com.bd
 eporibar.com.bd
 erp.nutseller.com.bd
+ews.com.bd
 example.karnafulicollege.edu.bd
 executive.paikar.com.bd
 face-api.octopitech.com.bd
@@ -308,6 +334,8 @@ fountainit.com.bd
 fticargo.com.bd
 fulbarihs.edu.bd
 gaghs.edu.bd
+gahsc.edu.bd
+gasmonkey.com.bd
 genexproperties.com.bd
 gift.kilage.com.bd
 giftriver.com.bd
@@ -333,6 +361,7 @@ hts.com.bd
 humanityfoundation.org.bd
 humanityfoundation.org.bd.kss1919.edu.bd
 iccsdgconf.iccbangladesh.org.bd
+icn.com.bd
 ict.bsmraau.edu.bd
 ictcelltest.buet.ac.bd
 ictschool.com.bd
@@ -356,10 +385,12 @@ joye.com.bd
 joyee.com.bd
 kachiaraghs.edu.bd
 kachiaraghs.edu.bd.hmsrhs.edu.bd
+kalidahaschs.edu.bd
 kamdiaghs.edu.bd
 katirhaths.edu.bd
 kau.edu.bd
 kau.edu.bd.kau.ac.bd
+kcgs.edu.bd
 kdms.edu.bd
 keimart.com.bd
 kenakada.com.bd
@@ -385,6 +416,7 @@ limitedworld.com.bd
 limonbashar.com.bd
 link.aranya.com.bd
 linkedin.alim.com.bd
+livechat.frilix.com.bd
 mail.adthsb.edu.bd
 mail.ajhs.edu.bd
 mail.akabaict.edu.bd
@@ -396,6 +428,7 @@ mail.bapex.com.bd
 mail.bardiaksahs.edu.bd
 mail.bbsc.edu.bd
 mail.bdgl.com.bd
+mail.bgpmsc.edu.bd
 mail.bhogdangagirls.edu.bd
 mail.bishnupurimhs.edu.bd
 mail.boaliaghs.edu.bd
@@ -417,6 +450,7 @@ mail.gaghs.edu.bd
 mail.gkalhs.edu.bd
 mail.gmis.edu.bd
 mail.hashtag.com.bd
+mail.icn.com.bd
 mail.ihsb.edu.bd
 mail.infocrat.com.bd
 mail.intactagro.com.bd
@@ -425,6 +459,7 @@ mail.jhinaiyahs.edu.bd
 mail.kachiaraghs.edu.bd
 mail.katirhaths.edu.bd
 mail.kmpi.gov.bd
+mail.matrikotha.com.bd
 mail.medmart.com.bd
 mail.mgpghs.edu.bd
 mail.microsun.com.bd
@@ -446,6 +481,7 @@ mail.sjgss.edu.bd
 mail.sjs.edu.bd
 mail.skahs.edu.bd
 mail.skseyehospital.com.bd
+mail.smartgen.com.bd
 mail.spahs.edu.bd
 mail.srv1.sbit.com.bd
 mail.startup.net.bd
@@ -453,6 +489,7 @@ mail.virgo.com.bd
 mail.walipurhs.edu.bd
 mastergroup.com.bd
 mastermoshai.com.bd
+matrikotha.com.bd
 mechatronicslab.net.ipsbd.com.bd
 medicalshop.com.bd
 meditrust.com.bd
@@ -495,6 +532,7 @@ online.bpodms.gov.bd
 oofymart.com.bd
 openspace.org.bd
 orom.com.bd
+oss.bepza.gov.bd
 outbox.com.bd
 outbox.com.bd.b71.com.bd
 pacificpowertech.com.bd
@@ -520,6 +558,7 @@ portal.linktech.net.bd
 portal.marmcd.edu.bd
 portal.rghscr.edu.bd
 portal.wisdomsc.edu.bd
+pos.computerschool.com.bd
 pos.paikar.com.bd
 pos.shotomul.com.bd
 pos.subidha.com.bd
@@ -577,6 +616,7 @@ skillzoneit.subidha.com.bd
 skrp.com.bd
 skseyehospital.com.bd
 skyranko.com.bd
+smartgen.com.bd
 smartphonevalley.com.bd
 smhabibpdc.edu.bd
 smtp.orm.cde.com.bd
@@ -615,7 +655,9 @@ uiu.ac.bd
 ussit.com.bd
 utrade.unitedsecurities.com.bd
 uzparaihazar.gov.bd
+verification.metrouni.edu.bd
 virgo.com.bd
+vpn.orm.cde.com.bd
 vt.just.edu.bd
 walipurhs.edu.bd
 walipurhs.edu.bd.hmsrhs.edu.bd
@@ -626,6 +668,7 @@ webdisk.askmphs.edu.bd
 webdisk.bank24.mdalamgir.com.bd
 webdisk.bardiaksahs.edu.bd
 webdisk.bdgl.com.bd
+webdisk.bgpmsc.edu.bd
 webdisk.bhlgroup.com.bd
 webdisk.bhogdangagirls.edu.bd
 webdisk.boaliahs.edu.bd
@@ -637,12 +680,14 @@ webdisk.firstsolutions.com.bd
 webdisk.gaghs.edu.bd
 webdisk.gkalhs.edu.bd
 webdisk.gmis.edu.bd
+webdisk.icn.com.bd
 webdisk.ihsb.edu.bd
 webdisk.jgdc.edu.bd
 webdisk.jhinaiyahs.edu.bd
 webdisk.kachiaraghs.edu.bd
 webdisk.katirhaths.edu.bd
 webdisk.kmpi.gov.bd
+webdisk.matrikotha.com.bd
 webdisk.medmart.com.bd
 webdisk.mgpghs.edu.bd
 webdisk.microsun.com.bd
@@ -660,6 +705,7 @@ webdisk.sadikagro.com.bd
 webdisk.sjgss.edu.bd
 webdisk.sjs.edu.bd
 webdisk.skahs.edu.bd
+webdisk.smartgen.com.bd
 webdisk.spahs.edu.bd
 webdisk.virgo.com.bd
 webdisk.walipurhs.edu.bd
@@ -670,6 +716,7 @@ webmail.askmphs.edu.bd
 webmail.bank24.mdalamgir.com.bd
 webmail.bardiaksahs.edu.bd
 webmail.bdgl.com.bd
+webmail.bgpmsc.edu.bd
 webmail.bhlgroup.com.bd
 webmail.bhogdangagirls.edu.bd
 webmail.boaliahs.edu.bd
@@ -681,6 +728,7 @@ webmail.firstsolutions.com.bd
 webmail.gaghs.edu.bd
 webmail.gkalhs.edu.bd
 webmail.gmis.edu.bd
+webmail.icn.com.bd
 webmail.ihsb.edu.bd
 webmail.intactagro.com.bd
 webmail.jgdc.edu.bd
@@ -688,6 +736,7 @@ webmail.jhinaiyahs.edu.bd
 webmail.kachiaraghs.edu.bd
 webmail.katirhaths.edu.bd
 webmail.kmpi.gov.bd
+webmail.matrikotha.com.bd
 webmail.medmart.com.bd
 webmail.mgpghs.edu.bd
 webmail.microsun.com.bd
@@ -705,6 +754,7 @@ webmail.sadikagro.com.bd
 webmail.sjgss.edu.bd
 webmail.sjs.edu.bd
 webmail.skahs.edu.bd
+webmail.smartgen.com.bd
 webmail.spahs.edu.bd
 webmail.srv1.sbit.com.bd
 webmail.virgo.com.bd
@@ -732,6 +782,7 @@ www.askmphs.edu.bd
 www.asset.sau.edu.bd
 www.assettracking.madedigital.com.bd
 www.ayanbd.com.yeasin.com.bd
+www.backup.ahsan.com.bd
 www.baliahs.edu.bd
 www.bangla.cvgc.edu.bd
 www.bank24.mdalamgir.com.bd
@@ -739,6 +790,7 @@ www.bardiaksahs.edu.bd
 www.bardiaksahs.edu.bd.hmsrhs.edu.bd
 www.bbsc.edu.bd
 www.bdgl.com.bd
+www.bgpmsc.edu.bd
 www.bhogdangagirls.edu.bd
 www.bincal.sumon.com.bd
 www.bishnupurimhs.edu.bd
@@ -754,6 +806,7 @@ www.bsmraau.edu.bd
 www.bubble.com.bd
 www.buyit.com.bd
 www.bvghs.edu.bd.momtajtdpl.com.bd
+www.card.think.com.bd
 www.cashier.subidha.com.bd
 www.cedp.gbrcr.gov.bd
 www.cellb.dataserver.com.bd
@@ -793,6 +846,7 @@ www.finance.ec4j.gov.bd
 www.firstsolutions.com.bd
 www.fulbarihs.edu.bd
 www.gaghs.edu.bd
+www.gasmonkey.com.bd
 www.gift.kilage.com.bd
 www.gkalhs.edu.bd
 www.gkalhs.edu.bd.hmsrhs.edu.bd
@@ -804,6 +858,7 @@ www.gsksbd.com.one2one.com.bd
 www.history.cvgc.edu.bd
 www.humanityfoundation.org.bd.kss1919.edu.bd
 www.iccsdgconf.iccbangladesh.org.bd
+www.icn.com.bd
 www.ieatery.com.bd
 www.ihsb.edu.bd
 www.intactagro.com.bd
@@ -829,6 +884,7 @@ www.library.shishuacademy.gov.bd
 www.mail.infocrat.com.bd
 www.management.cvgc.edu.bd
 www.mathematics.cvgc.edu.bd
+www.matrikotha.com.bd
 www.mechatronicslab.net.ipsbd.com.bd
 www.medmart.com.bd
 www.medmart.hospitalmart.com.bd
@@ -890,6 +946,7 @@ www.skahs.edu.bd
 www.skahs.edu.bd.hmsrhs.edu.bd
 www.skillzoneit.subidha.com.bd
 www.skseyehospital.com.bd
+www.smartgen.com.bd
 www.smhabibpdc.edu.bd
 www.snlb.octopitech.com.bd
 www.socialwork.cvgc.edu.bd
@@ -918,6 +975,7 @@ www.tracking.madedigital.com.bd
 www.tutorialbangla.sibd.com.bd
 www.uni.sumon.com.bd
 www.urdu.cvgc.edu.bd
+www.verification.metrouni.edu.bd
 www.virgo.com.bd
 www.vt.just.edu.bd
 www.walipurhs.edu.bd
@@ -927,6 +985,7 @@ www.www.www.nac.pay.com.bd
 www.yorker.skrp.com.bd
 www.zeeunico.com.brainstation.com.bd
 www.zoology.cvgc.edu.bd
+xn--q5b0dsb8a9lma.xn--54b7fta0cc
 youtube.alim.com.bd
 zhfbd.org.bd
 zpsirajganj.gov.bd

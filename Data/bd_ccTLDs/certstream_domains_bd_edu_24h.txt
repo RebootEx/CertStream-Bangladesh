@@ -15,6 +15,7 @@ asai.bsmraau.edu.bd
 askmphs.edu.bd
 autodiscover.akabaict.edu.bd
 autodiscover.askmphs.edu.bd
+autodiscover.bgpmsc.edu.bd
 autodiscover.bhogdangagirls.edu.bd
 autodiscover.chapilahighschool.edu.bd
 autodiscover.gaghs.edu.bd
@@ -31,11 +32,13 @@ baipurhs.edu.bd
 baliahs.edu.bd
 bamihalblhs.edu.bd
 bamnacollege.edu.bd
+barakatalimlhighschool.edu.bd
 bardiaksahs.edu.bd
 bardiaksahs.edu.bd.hmsrhs.edu.bd
 basths.edu.bd
 bbsc.edu.bd
 bdmhs.edu.bd
+bgpmsc.edu.bd
 bhatshalaschool.edu.bd
 bhogdangagirls.edu.bd
 binsharahs.edu.bd
@@ -59,6 +62,7 @@ continentalbd.com.legend.edu.bd
 cpanel.akabaict.edu.bd
 cpanel.askmphs.edu.bd
 cpanel.bardiaksahs.edu.bd
+cpanel.bgpmsc.edu.bd
 cpanel.bhogdangagirls.edu.bd
 cpanel.boaliahs.edu.bd
 cpanel.chapilahighschool.edu.bd
@@ -82,6 +86,7 @@ cpanel.walipurhs.edu.bd
 cpcalendars.akabaict.edu.bd
 cpcalendars.askmphs.edu.bd
 cpcalendars.bardiaksahs.edu.bd
+cpcalendars.bgpmsc.edu.bd
 cpcalendars.bhogdangagirls.edu.bd
 cpcalendars.boaliahs.edu.bd
 cpcalendars.chapilahighschool.edu.bd
@@ -105,6 +110,7 @@ cpcalendars.walipurhs.edu.bd
 cpcontacts.akabaict.edu.bd
 cpcontacts.askmphs.edu.bd
 cpcontacts.bardiaksahs.edu.bd
+cpcontacts.bgpmsc.edu.bd
 cpcontacts.bhogdangagirls.edu.bd
 cpcontacts.boaliahs.edu.bd
 cpcontacts.chapilahighschool.edu.bd
@@ -137,6 +143,7 @@ example.karnafulicollege.edu.bd
 fakhs.edu.bd
 fulbarihs.edu.bd
 gaghs.edu.bd
+gahsc.edu.bd
 gkalhs.edu.bd
 gkalhs.edu.bd.hmsrhs.edu.bd
 gmis.edu.bd
@@ -155,9 +162,11 @@ jhinaiyahs.edu.bd.hmsrhs.edu.bd
 journal.marmcd.edu.bd
 kachiaraghs.edu.bd
 kachiaraghs.edu.bd.hmsrhs.edu.bd
+kalidahaschs.edu.bd
 kamdiaghs.edu.bd
 katirhaths.edu.bd
 kau.edu.bd
+kcgs.edu.bd
 kdms.edu.bd
 khashhashil.edu.bd
 khmhmhighschool.edu.bd
@@ -175,6 +184,7 @@ mail.askmphs.edu.bd
 mail.baliahs.edu.bd
 mail.bardiaksahs.edu.bd
 mail.bbsc.edu.bd
+mail.bgpmsc.edu.bd
 mail.bhogdangagirls.edu.bd
 mail.bishnupurimhs.edu.bd
 mail.boaliaghs.edu.bd
@@ -247,6 +257,7 @@ spahs.edu.bd
 sshschool.edu.bd
 sshsm.edu.bd
 ssnic.edu.bd
+verification.metrouni.edu.bd
 vt.just.edu.bd
 walipurhs.edu.bd
 walipurhs.edu.bd.hmsrhs.edu.bd
@@ -254,6 +265,7 @@ wasiamadrasah.edu.bd
 webdisk.akabaict.edu.bd
 webdisk.askmphs.edu.bd
 webdisk.bardiaksahs.edu.bd
+webdisk.bgpmsc.edu.bd
 webdisk.bhogdangagirls.edu.bd
 webdisk.boaliahs.edu.bd
 webdisk.chapilahighschool.edu.bd
@@ -277,6 +289,7 @@ webdisk.walipurhs.edu.bd
 webmail.akabaict.edu.bd
 webmail.askmphs.edu.bd
 webmail.bardiaksahs.edu.bd
+webmail.bgpmsc.edu.bd
 webmail.bhogdangagirls.edu.bd
 webmail.boaliahs.edu.bd
 webmail.chapilahighschool.edu.bd
@@ -313,6 +326,7 @@ www.bangla.cvgc.edu.bd
 www.bardiaksahs.edu.bd
 www.bardiaksahs.edu.bd.hmsrhs.edu.bd
 www.bbsc.edu.bd
+www.bgpmsc.edu.bd
 www.bhogdangagirls.edu.bd
 www.bishnupurimhs.edu.bd
 www.boaliaghs.edu.bd
@@ -383,6 +397,7 @@ www.spahs.edu.bd
 www.statistics.cvgc.edu.bd
 www.studentportal.sau.edu.bd
 www.urdu.cvgc.edu.bd
+www.verification.metrouni.edu.bd
 www.vt.just.edu.bd
 www.walipurhs.edu.bd
 www.walipurhs.edu.bd.hmsrhs.edu.bd
