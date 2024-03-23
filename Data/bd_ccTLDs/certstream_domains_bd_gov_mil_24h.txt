@@ -1,6 +1,7 @@
 autodiscover.ec4j.gov.bd
 bbggc.gov.bd
 cedp.gbrcr.gov.bd
+coxsbazarpolice.gov.bd
 cpanel.ec4j.gov.bd
 cpanel.kmpi.gov.bd
 cpanel.nilmrcbd.gov.bd
@@ -12,6 +13,7 @@ cpcontacts.kmpi.gov.bd
 cpcontacts.nilmrcbd.gov.bd
 ec4j.gov.bd
 finance.ec4j.gov.bd
+gps.gov.bd
 kenduagc.gov.bd
 kmpi.gov.bd
 library.shishuacademy.gov.bd
@@ -37,6 +39,7 @@ webmail.kmpi.gov.bd
 webmail.nilmrcbd.gov.bd
 whm.nilmrcbd.gov.bd
 www.cedp.gbrcr.gov.bd
+www.coxsbazarpolice.gov.bd
 www.ec4j.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.finance.ec4j.gov.bd
