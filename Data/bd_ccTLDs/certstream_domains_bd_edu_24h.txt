@@ -4,6 +4,7 @@ adss.edu.bd
 adthsb.edu.bd
 alormela.edu.bd
 apa.bsmraau.edu.bd
+api.noaparahsctg.edu.bd
 arparanesariasiddiquiadakhilmadrasa.edu.bd
 asai.bsmraau.edu.bd
 askmphs.edu.bd
@@ -19,6 +20,7 @@ autodiscover.ppahs.edu.bd
 autodiscover.spahs.edu.bd
 avjmgghschool.edu.bd
 avom.bsmraau.edu.bd
+baipurhs.edu.bd
 baliahs.edu.bd
 bamihalblhs.edu.bd
 bardiaksahs.edu.bd
@@ -26,6 +28,7 @@ bardiaksahs.edu.bd.hmsrhs.edu.bd
 basths.edu.bd
 bbsc.edu.bd
 bdmhs.edu.bd
+bhatshalaschool.edu.bd
 bhogdangagirls.edu.bd
 bishnupurimhs.edu.bd
 bjrshs.edu.bd
@@ -54,6 +57,7 @@ cpanel.gkalhs.edu.bd
 cpanel.ihsb.edu.bd
 cpanel.jgdc.edu.bd
 cpanel.jhinaiyahs.edu.bd
+cpanel.kachiaraghs.edu.bd
 cpanel.katirhaths.edu.bd
 cpanel.mgpghs.edu.bd
 cpanel.monshaschoolandcollege.edu.bd
@@ -63,6 +67,7 @@ cpanel.sjgss.edu.bd
 cpanel.sjs.edu.bd
 cpanel.skahs.edu.bd
 cpanel.spahs.edu.bd
+cpanel.walipurhs.edu.bd
 cpcalendars.askmphs.edu.bd
 cpcalendars.bardiaksahs.edu.bd
 cpcalendars.bhogdangagirls.edu.bd
@@ -73,6 +78,7 @@ cpcalendars.gkalhs.edu.bd
 cpcalendars.ihsb.edu.bd
 cpcalendars.jgdc.edu.bd
 cpcalendars.jhinaiyahs.edu.bd
+cpcalendars.kachiaraghs.edu.bd
 cpcalendars.katirhaths.edu.bd
 cpcalendars.mgpghs.edu.bd
 cpcalendars.monshaschoolandcollege.edu.bd
@@ -82,6 +88,7 @@ cpcalendars.sjgss.edu.bd
 cpcalendars.sjs.edu.bd
 cpcalendars.skahs.edu.bd
 cpcalendars.spahs.edu.bd
+cpcalendars.walipurhs.edu.bd
 cpcontacts.askmphs.edu.bd
 cpcontacts.bardiaksahs.edu.bd
 cpcontacts.bhogdangagirls.edu.bd
@@ -92,6 +99,7 @@ cpcontacts.gkalhs.edu.bd
 cpcontacts.ihsb.edu.bd
 cpcontacts.jgdc.edu.bd
 cpcontacts.jhinaiyahs.edu.bd
+cpcontacts.kachiaraghs.edu.bd
 cpcontacts.katirhaths.edu.bd
 cpcontacts.mgpghs.edu.bd
 cpcontacts.monshaschoolandcollege.edu.bd
@@ -101,6 +109,8 @@ cpcontacts.sjgss.edu.bd
 cpcontacts.sjs.edu.bd
 cpcontacts.skahs.edu.bd
 cpcontacts.spahs.edu.bd
+cpcontacts.walipurhs.edu.bd
+cutc.edu.bd
 cvgc.edu.bd
 damgarihs.edu.bd
 daulatkhanmohilacollege.edu.bd
@@ -121,11 +131,16 @@ international.sjs.edu.bd
 jgdc.edu.bd
 jhinaiyahs.edu.bd
 jhinaiyahs.edu.bd.hmsrhs.edu.bd
+journal.marmcd.edu.bd
+kachiaraghs.edu.bd
+kachiaraghs.edu.bd.hmsrhs.edu.bd
 kamdiaghs.edu.bd
 katirhaths.edu.bd
+kdms.edu.bd
 khmhmhighschool.edu.bd
 khsnn.edu.bd
 kkpahs.edu.bd
+krbhighschool.edu.bd
 kutirhathighschool.edu.bd
 mail.adthsb.edu.bd
 mail.askmphs.edu.bd
@@ -147,6 +162,7 @@ mail.gkalhs.edu.bd
 mail.ihsb.edu.bd
 mail.jgdc.edu.bd
 mail.jhinaiyahs.edu.bd
+mail.kachiaraghs.edu.bd
 mail.katirhaths.edu.bd
 mail.mgpghs.edu.bd
 mail.mjbc.edu.bd
@@ -157,6 +173,7 @@ mail.sjgss.edu.bd
 mail.sjs.edu.bd
 mail.skahs.edu.bd
 mail.spahs.edu.bd
+mail.walipurhs.edu.bd
 mgpghs.edu.bd
 mgpghs.edu.bd.hmsrhs.edu.bd
 mjbc.edu.bd
@@ -164,6 +181,7 @@ monshaschoolandcollege.edu.bd
 ncb.edu.bd
 nkmhighschoolandhomes.edu.bd
 pdbhssyl.edu.bd
+portal.marmcd.edu.bd
 portal.rghscr.edu.bd
 ppahs.edu.bd
 proyashrangpur.edu.bd
@@ -172,6 +190,7 @@ rsac.edu.bd
 rtc.edu.bd
 sabujpaharhighschool.edu.bd
 sau.edu.bd
+school.kmifdm.edu.bd
 seminar.bsmraau.edu.bd
 server.bphs.edu.bd
 shksc.edu.bd
@@ -182,6 +201,8 @@ skahs.edu.bd.hmsrhs.edu.bd
 spacelaw.bsmraau.edu.bd
 spahs.edu.bd
 sshschool.edu.bd
+walipurhs.edu.bd
+walipurhs.edu.bd.hmsrhs.edu.bd
 webdisk.askmphs.edu.bd
 webdisk.bardiaksahs.edu.bd
 webdisk.bhogdangagirls.edu.bd
@@ -192,6 +213,7 @@ webdisk.gkalhs.edu.bd
 webdisk.ihsb.edu.bd
 webdisk.jgdc.edu.bd
 webdisk.jhinaiyahs.edu.bd
+webdisk.kachiaraghs.edu.bd
 webdisk.katirhaths.edu.bd
 webdisk.mgpghs.edu.bd
 webdisk.monshaschoolandcollege.edu.bd
@@ -201,6 +223,7 @@ webdisk.sjgss.edu.bd
 webdisk.sjs.edu.bd
 webdisk.skahs.edu.bd
 webdisk.spahs.edu.bd
+webdisk.walipurhs.edu.bd
 webmail.askmphs.edu.bd
 webmail.bardiaksahs.edu.bd
 webmail.bhogdangagirls.edu.bd
@@ -211,6 +234,7 @@ webmail.gkalhs.edu.bd
 webmail.ihsb.edu.bd
 webmail.jgdc.edu.bd
 webmail.jhinaiyahs.edu.bd
+webmail.kachiaraghs.edu.bd
 webmail.katirhaths.edu.bd
 webmail.mgpghs.edu.bd
 webmail.monshaschoolandcollege.edu.bd
@@ -220,10 +244,12 @@ webmail.sjgss.edu.bd
 webmail.sjs.edu.bd
 webmail.skahs.edu.bd
 webmail.spahs.edu.bd
+webmail.walipurhs.edu.bd
 whm.askmphs.edu.bd
 www.accounting.cvgc.edu.bd
 www.adss.edu.bd
 www.adthsb.edu.bd
+www.api.noaparahsctg.edu.bd
 www.arabic.cvgc.edu.bd
 www.askmphs.edu.bd
 www.asset.sau.edu.bd
@@ -264,6 +290,9 @@ www.islamichistory.cvgc.edu.bd
 www.jgdc.edu.bd
 www.jhinaiyahs.edu.bd
 www.jhinaiyahs.edu.bd.hmsrhs.edu.bd
+www.journal.marmcd.edu.bd
+www.kachiaraghs.edu.bd
+www.kachiaraghs.edu.bd.hmsrhs.edu.bd
 www.katirhaths.edu.bd
 www.library.cvgc.edu.bd
 www.management.cvgc.edu.bd
@@ -276,10 +305,12 @@ www.ncb.edu.bd
 www.philosophy.cvgc.edu.bd
 www.physics.cvgc.edu.bd
 www.politicalscience.cvgc.edu.bd
+www.portal.marmcd.edu.bd
 www.portal.rghscr.edu.bd
 www.ppahs.edu.bd
 www.rabindraspusa.org.kss1919.edu.bd
 www.sanskrit.cvgc.edu.bd
+www.school.kmifdm.edu.bd
 www.sjgss.edu.bd
 www.sjs.edu.bd
 www.skahs.edu.bd
@@ -290,4 +321,6 @@ www.spahs.edu.bd
 www.statistics.cvgc.edu.bd
 www.studentportal.sau.edu.bd
 www.urdu.cvgc.edu.bd
+www.walipurhs.edu.bd
+www.walipurhs.edu.bd.hmsrhs.edu.bd
 www.zoology.cvgc.edu.bd
