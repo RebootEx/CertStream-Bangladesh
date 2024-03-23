@@ -16,6 +16,7 @@ app.monglaportmunicipality.gov.bd
 apps.bfa.gov.bd
 atgharup.faridpurlg.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
+autodiscover.ec4j.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
@@ -64,6 +65,7 @@ comillazp.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpanel.cumillapoly.gov.bd
 cpanel.drodhaka.gov.bd
+cpanel.ec4j.gov.bd
 cpanel.kishoreganjtsc.gov.bd
 cpanel.kmpi.gov.bd
 cpanel.pwdta.gov.bd
@@ -74,6 +76,7 @@ cpanel.tscgopal.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.cumillapoly.gov.bd
 cpcalendars.drodhaka.gov.bd
+cpcalendars.ec4j.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
 cpcalendars.kmpi.gov.bd
 cpcalendars.pwdta.gov.bd
@@ -84,6 +87,7 @@ cpcalendars.tscgopal.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.cumillapoly.gov.bd
 cpcontacts.drodhaka.gov.bd
+cpcontacts.ec4j.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
 cpcontacts.kmpi.gov.bd
 cpcontacts.pwdta.gov.bd
@@ -117,6 +121,7 @@ drodhaka.gov.bd
 dscsc.mil.bd
 dwamcbp.gov.bd
 eappointment.dghs.gov.bd
+ec4j.gov.bd
 ecampus.thakurgaontsc.gov.bd
 ecampus.tsc-kurigram.gov.bd
 ecpdev.uru.gov.bd
@@ -162,6 +167,7 @@ ipemis.training.dpe.gov.bd
 irms.bida.gov.bd
 jamalpurtsc.gov.bd
 jhenaidahtsc.gov.bd
+jitsi.vc8.bcc.gov.bd
 job.shmrmi.gov.bd
 jobportal.shmrmi.gov.bd
 journal.dhakadental.gov.bd
@@ -203,6 +209,7 @@ mail.bwc.gov.bd
 mail.chowmuhanimunicipality.gov.bd
 mail.cumillapoly.gov.bd
 mail.drodhaka.gov.bd
+mail.ec4j.gov.bd
 mail.esiraj.gov.bd
 mail.kishoreganjtsc.gov.bd
 mail.kmpi.gov.bd
@@ -238,6 +245,7 @@ ofc.bfa.gov.bd
 office.fta.gov.bd
 old.dhakadental.gov.bd
 oms.tzr.gov.bd
+online.bpodms.gov.bd
 ops.ipemis.dpe.gov.bd
 ops.ipemis.training.dpe.gov.bd
 pds.dae.gov.bd
@@ -290,6 +298,7 @@ spmmis.bwdb.gov.bd
 sribordicollege.gov.bd
 sscesif.comillaboard.gov.bd
 ssndebidwar.gov.bd
+startupbangladeshvc.gov.bd
 sttc.gov.bd
 sub.media.bmp.gov.bd
 swh.bwdb.gov.bd
@@ -318,6 +327,7 @@ tscgopal.gov.bd
 ttcrangpur.edu.bd.rdodterangpur.gov.bd
 ttms.dpe.gov.bd
 tujerpurup.faridpurlg.gov.bd
+turn.vc8.bcc.gov.bd
 unosullah.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
@@ -329,6 +339,7 @@ web.bepza.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
 webdisk.cumillapoly.gov.bd
 webdisk.drodhaka.gov.bd
+webdisk.ec4j.gov.bd
 webdisk.kishoreganjtsc.gov.bd
 webdisk.kmpi.gov.bd
 webdisk.pwdta.gov.bd
@@ -340,6 +351,7 @@ webmail.badc.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.cumillapoly.gov.bd
 webmail.drodhaka.gov.bd
+webmail.ec4j.gov.bd
 webmail.kishoreganjtsc.gov.bd
 webmail.kmpi.gov.bd
 webmail.pwdta.gov.bd
@@ -404,8 +416,10 @@ www.digitalliteracy.gov.bd
 www.dms.basbmed.gov.bd
 www.drodhaka.gov.bd
 www.dwamcbp.gov.bd
+www.ec4j.gov.bd
 www.ecampus.thakurgaontsc.gov.bd
 www.ecampus.tsc-kurigram.gov.bd
+www.ecertificate.fisheries.gov.bd
 www.edge.gov.bd
 www.esiraj.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
@@ -422,6 +436,7 @@ www.journal.dhakadental.gov.bd
 www.journal.fima.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
+www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.khulnashipyard.com.khulnashipyard.gov.bd
 www.kishoreganjtsc.gov.bd
 www.kmpi.gov.bd
