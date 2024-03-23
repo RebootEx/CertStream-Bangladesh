@@ -82,6 +82,7 @@ cpanel.cumillapoly.gov.bd
 cpanel.doharmunicipality.gov.bd
 cpanel.drodhaka.gov.bd
 cpanel.kishoreganjtsc.gov.bd
+cpanel.kmpi.gov.bd
 cpanel.pwdta.gov.bd
 cpanel.sfmmttc.gov.bd
 cpanel.taxeszone12dhaka.gov.bd
@@ -93,6 +94,7 @@ cpcalendars.cumillapoly.gov.bd
 cpcalendars.doharmunicipality.gov.bd
 cpcalendars.drodhaka.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
+cpcalendars.kmpi.gov.bd
 cpcalendars.pwdta.gov.bd
 cpcalendars.sfmmttc.gov.bd
 cpcalendars.taxeszone12dhaka.gov.bd
@@ -104,6 +106,7 @@ cpcontacts.cumillapoly.gov.bd
 cpcontacts.doharmunicipality.gov.bd
 cpcontacts.drodhaka.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
+cpcontacts.kmpi.gov.bd
 cpcontacts.pwdta.gov.bd
 cpcontacts.sfmmttc.gov.bd
 cpcontacts.taxeszone12dhaka.gov.bd
@@ -199,6 +202,7 @@ kgh.gov.bd
 khdc.gov.bd
 khulnashipyard.com.khulnashipyard.gov.bd
 kishoreganjtsc.gov.bd
+kmpi.gov.bd
 kms.bamis.gov.bd
 kodalkatihs.gov.bd
 korakdiup.faridpurlg.gov.bd
@@ -230,6 +234,7 @@ mail.doharmunicipality.gov.bd
 mail.drodhaka.gov.bd
 mail.esiraj.gov.bd
 mail.kishoreganjtsc.gov.bd
+mail.kmpi.gov.bd
 mail.ppi.gov.bd
 mail.pwdta.gov.bd
 mail.sfmmttc.gov.bd
@@ -360,6 +365,7 @@ webdisk.cumillapoly.gov.bd
 webdisk.doharmunicipality.gov.bd
 webdisk.drodhaka.gov.bd
 webdisk.kishoreganjtsc.gov.bd
+webdisk.kmpi.gov.bd
 webdisk.pwdta.gov.bd
 webdisk.sfmmttc.gov.bd
 webdisk.taxeszone12dhaka.gov.bd
@@ -372,6 +378,7 @@ webmail.cumillapoly.gov.bd
 webmail.doharmunicipality.gov.bd
 webmail.drodhaka.gov.bd
 webmail.kishoreganjtsc.gov.bd
+webmail.kmpi.gov.bd
 webmail.pwdta.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.shmrmi.gov.bd
@@ -468,6 +475,7 @@ www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
 www.khulnashipyard.com.khulnashipyard.gov.bd
 www.kishoreganjtsc.gov.bd
+www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.kscr.edu.bd.gbrcr.gov.bd
