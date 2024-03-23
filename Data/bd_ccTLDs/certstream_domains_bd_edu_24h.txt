@@ -33,6 +33,7 @@ autodiscover.bhogdangagirls.edu.bd
 autodiscover.boahs.edu.bd
 autodiscover.chapilahighschool.edu.bd
 autodiscover.gaghs.edu.bd
+autodiscover.gchsc.edu.bd
 autodiscover.gmis.edu.bd
 autodiscover.jgdc.edu.bd
 autodiscover.katirhaths.edu.bd
@@ -113,6 +114,7 @@ cpanel.boaliahs.edu.bd
 cpanel.chapatalilfmadrasah.edu.bd
 cpanel.chapilahighschool.edu.bd
 cpanel.gaghs.edu.bd
+cpanel.gchsc.edu.bd
 cpanel.gkalhs.edu.bd
 cpanel.gmis.edu.bd
 cpanel.ihsb.edu.bd
@@ -142,6 +144,7 @@ cpcalendars.boaliahs.edu.bd
 cpcalendars.chapatalilfmadrasah.edu.bd
 cpcalendars.chapilahighschool.edu.bd
 cpcalendars.gaghs.edu.bd
+cpcalendars.gchsc.edu.bd
 cpcalendars.gkalhs.edu.bd
 cpcalendars.gmis.edu.bd
 cpcalendars.ihsb.edu.bd
@@ -171,6 +174,7 @@ cpcontacts.boaliahs.edu.bd
 cpcontacts.chapatalilfmadrasah.edu.bd
 cpcontacts.chapilahighschool.edu.bd
 cpcontacts.gaghs.edu.bd
+cpcontacts.gchsc.edu.bd
 cpcontacts.gkalhs.edu.bd
 cpcontacts.gmis.edu.bd
 cpcontacts.ihsb.edu.bd
@@ -230,6 +234,7 @@ gaghs.edu.bd
 gahsc.edu.bd
 gbuhsc.edu.bd
 gcbdmdm.edu.bd
+gchsc.edu.bd
 gebt.just.edu.bd
 ghajalilhighschool.edu.bd
 gkalhs.edu.bd
@@ -270,6 +275,7 @@ kau.edu.bd
 kbbcsc.edu.bd
 kcgs.edu.bd
 kdms.edu.bd
+keranirhatalikhlasdm.edu.bd
 khashhashil.edu.bd
 khmhmhighschool.edu.bd
 kholabarihs.edu.bd
@@ -309,6 +315,7 @@ mail.damgarihs.edu.bd
 mail.dbmrhs.edu.bd
 mail.fulbarihs.edu.bd
 mail.gaghs.edu.bd
+mail.gchsc.edu.bd
 mail.gkalhs.edu.bd
 mail.gmis.edu.bd
 mail.ihsb.edu.bd
@@ -335,6 +342,7 @@ mgpghs.edu.bd
 mgpghs.edu.bd.hmsrhs.edu.bd
 mgt.just.edu.bd
 mjbc.edu.bd
+mkhghs.edu.bd
 mkt.just.edu.bd
 mohanamangalpurhs.edu.bd
 moliaishhs.edu.bd
@@ -406,6 +414,7 @@ students.just.edu.bd
 subalongkhs.edu.bd
 te.just.edu.bd
 tmm.edu.bd
+umfm.edu.bd
 usahs.edu.bd
 verification.metrouni.edu.bd
 vt.just.edu.bd
@@ -422,6 +431,7 @@ webdisk.boaliahs.edu.bd
 webdisk.chapatalilfmadrasah.edu.bd
 webdisk.chapilahighschool.edu.bd
 webdisk.gaghs.edu.bd
+webdisk.gchsc.edu.bd
 webdisk.gkalhs.edu.bd
 webdisk.gmis.edu.bd
 webdisk.ihsb.edu.bd
@@ -451,6 +461,7 @@ webmail.boaliahs.edu.bd
 webmail.chapatalilfmadrasah.edu.bd
 webmail.chapilahighschool.edu.bd
 webmail.gaghs.edu.bd
+webmail.gchsc.edu.bd
 webmail.gkalhs.edu.bd
 webmail.gmis.edu.bd
 webmail.ihsb.edu.bd
@@ -527,6 +538,7 @@ www.example.karnafulicollege.edu.bd
 www.fulbarihs.edu.bd
 www.gaghs.edu.bd
 www.gcbdmdm.edu.bd.dagma.edu.bd
+www.gchsc.edu.bd
 www.gkalhs.edu.bd
 www.gkalhs.edu.bd.hmsrhs.edu.bd
 www.gmis.edu.bd
