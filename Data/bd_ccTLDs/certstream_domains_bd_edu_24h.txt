@@ -150,6 +150,7 @@ cpanel.pdfdm.edu.bd
 cpanel.pmdm.edu.bd
 cpanel.rpmc.edu.bd
 cpanel.sbrailwayschoolandcollege.edu.bd
+cpanel.senapalli.edu.bd
 cpanel.shuhilpurabsfm.edu.bd
 cpanel.smcollege.edu.bd
 cpanel.ucn.edu.bd
@@ -169,6 +170,7 @@ cpcalendars.pdfdm.edu.bd
 cpcalendars.pmdm.edu.bd
 cpcalendars.rpmc.edu.bd
 cpcalendars.sbrailwayschoolandcollege.edu.bd
+cpcalendars.senapalli.edu.bd
 cpcalendars.shuhilpurabsfm.edu.bd
 cpcalendars.smcollege.edu.bd
 cpcalendars.ucn.edu.bd
@@ -188,6 +190,7 @@ cpcontacts.pdfdm.edu.bd
 cpcontacts.pmdm.edu.bd
 cpcontacts.rpmc.edu.bd
 cpcontacts.sbrailwayschoolandcollege.edu.bd
+cpcontacts.senapalli.edu.bd
 cpcontacts.shuhilpurabsfm.edu.bd
 cpcontacts.smcollege.edu.bd
 cpcontacts.ucn.edu.bd
@@ -445,6 +448,7 @@ mail.rampahs.edu.bd
 mail.rpmc.edu.bd
 mail.rtabmc.edu.bd
 mail.sbrailwayschoolandcollege.edu.bd
+mail.senapalli.edu.bd
 mail.sffazilmadrasa.edu.bd
 mail.shaherkhalihighschool.edu.bd
 mail.shuhilpurabsfm.edu.bd
@@ -591,6 +595,7 @@ schschool.edu.bd
 sdhdm.edu.bd
 sdphs.edu.bd
 sekama.edu.bd
+senapalli.edu.bd
 sffazilmadrasa.edu.bd
 sfm1951.edu.bd
 shaharpukurghs.edu.bd
@@ -686,6 +691,7 @@ webdisk.pdfdm.edu.bd
 webdisk.pmdm.edu.bd
 webdisk.rpmc.edu.bd
 webdisk.sbrailwayschoolandcollege.edu.bd
+webdisk.senapalli.edu.bd
 webdisk.shuhilpurabsfm.edu.bd
 webdisk.smcollege.edu.bd
 webdisk.ucn.edu.bd
@@ -706,6 +712,7 @@ webmail.pdfdm.edu.bd
 webmail.pmdm.edu.bd
 webmail.rpmc.edu.bd
 webmail.sbrailwayschoolandcollege.edu.bd
+webmail.senapalli.edu.bd
 webmail.shuhilpurabsfm.edu.bd
 webmail.smcollege.edu.bd
 webmail.ucn.edu.bd
@@ -1108,6 +1115,7 @@ www.schschool.edu.bd
 www.sdhdm.edu.bd
 www.sdphs.edu.bd
 www.sekama.edu.bd
+www.senapalli.edu.bd
 www.sffazilmadrasa.edu.bd
 www.sfm1951.edu.bd
 www.shaharpukurghs.edu.bd
