@@ -58,6 +58,7 @@ admission.amdainstitutes.edu.bd
 admission.britannia.edu.bd
 admission.cgwc.edu.bd
 admission.fiu.edu.bd
+admission.mdch.edu.bd
 admission.ncpsc.edu.bd
 admission.rpsu.edu.bd
 admk.edu.bd
@@ -77,6 +78,7 @@ aghsa.edu.bd
 aghsk.edu.bd
 agonihighschool.edu.bd
 agsam.edu.bd
+ahcmc.edu.bd
 ahedalischool.edu.bd
 ahiss.edu.bd
 ahmadnagarhs.edu.bd
@@ -104,6 +106,7 @@ akms.edu.bd
 akmu.edu.bd
 aksesdpmhs.edu.bd
 alaboxcollege.edu.bd
+alaipurhighschool95.edu.bd
 alaminfazil.edu.bd
 alatulihs.edu.bd
 alefuddinsarkarhs.edu.bd
@@ -246,6 +249,7 @@ autodiscover.rajibpurgovthighschool.edu.bd
 autodiscover.rampurbm.edu.bd
 autodiscover.rhbdmadrasah.edu.bd
 autodiscover.rib.edu.bd
+autodiscover.rpmc.edu.bd
 autodiscover.rsfm.edu.bd
 autodiscover.sbrailwayschoolandcollege.edu.bd
 autodiscover.schooldsh.edu.bd
@@ -518,6 +522,7 @@ borotajpurmdb.edu.bd
 borvaghs.edu.bd
 botiabhangahs.edu.bd
 botiabhangahs.edu.bd.aoghsc.edu.bd
+botlagarihighschool.edu.bd
 boyraksc.edu.bd
 bpdhfm.edu.bd
 bpgdm.edu.bd
@@ -554,6 +559,7 @@ buchs.edu.bd
 burighaths.edu.bd
 bvdsdmadrasah.edu.bd
 bvghs.edu.bd
+bwahs.edu.bd
 bwumhs.edu.bd
 c.hmac.edu.bd
 caams.edu.bd
@@ -899,6 +905,7 @@ cpanel.rhbdmadrasah.edu.bd
 cpanel.rhsn.edu.bd
 cpanel.rib.edu.bd
 cpanel.rkmhsc.edu.bd
+cpanel.rpmc.edu.bd
 cpanel.rsfm.edu.bd
 cpanel.rusdwdc.edu.bd
 cpanel.saghspabna.edu.bd
@@ -1169,6 +1176,7 @@ cpcalendars.rhbdmadrasah.edu.bd
 cpcalendars.rhsn.edu.bd
 cpcalendars.rib.edu.bd
 cpcalendars.rkmhsc.edu.bd
+cpcalendars.rpmc.edu.bd
 cpcalendars.rsfm.edu.bd
 cpcalendars.rusdwdc.edu.bd
 cpcalendars.saghspabna.edu.bd
@@ -1439,6 +1447,7 @@ cpcontacts.rhbdmadrasah.edu.bd
 cpcontacts.rhsn.edu.bd
 cpcontacts.rib.edu.bd
 cpcontacts.rkmhsc.edu.bd
+cpcontacts.rpmc.edu.bd
 cpcontacts.rsfm.edu.bd
 cpcontacts.rusdwdc.edu.bd
 cpcontacts.saghspabna.edu.bd
@@ -1668,6 +1677,7 @@ edu.bd.saracollege.edu.bd
 edu.bd.umfm.edu.bd
 edu.bd.vdmc.edu.bd
 edu.kcmsc.edu.bd
+eduroam.nstu.edu.bd
 edwardcollege.edu.bd
 eee.just.edu.bd
 eee.ulab.edu.bd
@@ -1704,6 +1714,7 @@ faridpurhighschool.edu.bd
 fariduddinhighschool.edu.bd
 farizakhatunghsfenchu.edu.bd
 fass.edu.bd
+fatehpurfazilmadrasah.edu.bd
 fatepurhs.edu.bd
 fatepursschool.edu.bd
 fb.just.edu.bd
@@ -1841,6 +1852,7 @@ hadmadrasah.edu.bd
 hahnnhs.edu.bd
 hajeeabdulmhs.edu.bd
 hajiabdulbarihs.edu.bd
+hajimaggss.edu.bd
 hajisamsherahs.edu.bd
 hajituhschool.edu.bd
 hakalukihs.edu.bd
@@ -1897,6 +1909,7 @@ host.mangrove.edu.bd
 hpghsc.edu.bd
 hpsc.edu.bd
 hrb.edu.bd
+hrdc.edu.bd
 hsbcollege.edu.bd
 hsmhscxb.edu.bd
 hssmnadm.edu.bd
@@ -1971,10 +1984,12 @@ janatadegreecollegebogura.edu.bd
 jangalbadhalhs.edu.bd
 jangiraidm.edu.bd
 janobirhs.edu.bd
+jblhps.edu.bd
 jbufm.edu.bd
 jcc.edu.bd
 jdc106995.edu.bd
 jdcollege.edu.bd
+jdidm.edu.bd
 jdih.gccc.edu.bd
 jdpghs.edu.bd
 jdsdm.edu.bd
@@ -2008,6 +2023,7 @@ jongrajgs.edu.bd
 joshoilhs.edu.bd
 journal.marmcd.edu.bd
 joyagcollege.edu.bd
+joyghs.edu.bd
 joyjhaphs.edu.bd
 jpbsc67.edu.bd
 jpkm.edu.bd
@@ -2119,6 +2135,7 @@ khodezaharunschool.edu.bd
 kholabarihs.edu.bd
 kholahaticollege.edu.bd
 khopatihs.edu.bd
+khoragachhsc.edu.bd
 khordamlhighschool.edu.bd
 khs100244.edu.bd
 khs112310.edu.bd
@@ -2447,6 +2464,7 @@ mail.jalilpur.edu.bd
 mail.jalkurihighschoolandcollege.edu.bd
 mail.jameyaislamiadakhilmadrasah.edu.bd
 mail.jamiruddinshahgirlshc.edu.bd
+mail.jdidm.edu.bd
 mail.jdsdm.edu.bd
 mail.jgc.edu.bd
 mail.jgdc.edu.bd
@@ -2556,6 +2574,7 @@ mail.rhsn.edu.bd
 mail.rib.edu.bd
 mail.rkmhsc.edu.bd
 mail.rmss.edu.bd
+mail.rpmc.edu.bd
 mail.rsac.edu.bd
 mail.rsfm.edu.bd
 mail.ruakhs.edu.bd
@@ -2729,6 +2748,7 @@ mohiuddinmohilacollege.edu.bd
 moliaishhs.edu.bd
 mollas.edu.bd
 mominpurkuchlibarihs.edu.bd
+monigramgirlsschool.edu.bd
 monshaschoolandcollege.edu.bd
 monshs.edu.bd
 motgarihighschool.edu.bd
@@ -2746,6 +2766,7 @@ msnsc.edu.bd
 msti.edu.bd
 mth.just.edu.bd
 mtuahighschool.edu.bd
+muhs.edu.bd
 muhurigonjhs.edu.bd
 muktakghs.edu.bd
 muktinagatdm.edu.bd
@@ -2785,6 +2806,7 @@ nariagovtcollege.edu.bd
 narindaserver.sjs.edu.bd
 nasimosmanmodelhighschool.edu.bd
 nat-test.green.edu.bd
+natdm.edu.bd
 natherpetuabhs.edu.bd
 nationalidealcollege.edu.ba.nationalidealcollege.edu.bd
 nauddm.edu.bd
@@ -3012,6 +3034,7 @@ pphsnil.edu.bd
 ppigdm.edu.bd
 ppmhs.edu.bd
 ppmi.edu.bd
+pradegreecollege.edu.bd
 pradm.edu.bd
 prahs.edu.bd
 prcc.edu.bd
@@ -3109,6 +3132,7 @@ rmgcollege.edu.bd
 rmhighschool.edu.bd
 rmhschool.edu.bd
 rmmaghs.edu.bd
+rms.saahs.edu.bd
 rmss.edu.bd
 rnss.edu.bd
 rnukm.aabchs.edu.bd
@@ -3118,10 +3142,12 @@ routine.image.edu.bd
 rpc.edu.bd
 rpghsc.edu.bd
 rphs.edu.bd
+rpmc.edu.bd
 rpsu.edu.bd
 rrfm.edu.bd
 rrhsac.edu.bd
 rsac.edu.bd
+rsb.edu.bd
 rsfm.edu.bd
 rsfm.edu.bd.jsgs.edu.bd
 rsgskn.edu.bd
@@ -3203,6 +3229,7 @@ sc.satc.edu.bd
 scbbhs.edu.bd
 scholar.edu.bd
 scholars.edu.bd
+scholarshomemajortila.edu.bd
 scholarshomesylhet.edu.bd
 school.kmifdm.edu.bd
 schooldsh.edu.bd
@@ -3450,6 +3477,7 @@ teguriahs.edu.bd
 tejgaoncollege.edu.bd
 tekahalihs.edu.bd
 teligatibnhkacademy.edu.bd
+telkupyhs.edu.bd
 tengashiahs.edu.bd
 tengashiahs.edu.bd.dihsc.edu.bd
 test.bcps.edu.bd
@@ -3754,6 +3782,7 @@ webdisk.rhbdmadrasah.edu.bd
 webdisk.rhsn.edu.bd
 webdisk.rib.edu.bd
 webdisk.rkmhsc.edu.bd
+webdisk.rpmc.edu.bd
 webdisk.rsfm.edu.bd
 webdisk.rusdwdc.edu.bd
 webdisk.saghspabna.edu.bd
@@ -4036,6 +4065,7 @@ webmail.rhbdmadrasah.edu.bd
 webmail.rhsn.edu.bd
 webmail.rib.edu.bd
 webmail.rkmhsc.edu.bd
+webmail.rpmc.edu.bd
 webmail.rsfm.edu.bd
 webmail.rusdwdc.edu.bd
 webmail.saghspabna.edu.bd
@@ -4140,6 +4170,7 @@ www.admission.amdainstitutes.edu.bd
 www.admission.bubt.edu.bd
 www.admission.cgwc.edu.bd
 www.admission.fiu.edu.bd
+www.admission.mdch.edu.bd
 www.admission.ncpsc.edu.bd
 www.admission.rpsu.edu.bd
 www.admk.edu.bd.bkbhs.edu.bd
@@ -4324,6 +4355,7 @@ www.boropilakjuniorhighschool.edu.bd
 www.borvaghs.edu.bd
 www.botany.cvgc.edu.bd
 www.botiabhangahs.edu.bd.aoghsc.edu.bd
+www.botlagarihighschool.edu.bd
 www.bpgdm.edu.bd
 www.bpm.edu.bd
 www.brarhsc.edu.bd
@@ -4611,6 +4643,7 @@ www.jameyaislamiadakhilmadrasah.edu.bd
 www.jamiruddinshahgirlshc.edu.bd
 www.jangalbadhalhs.edu.bd
 www.jdcollege.edu.bd
+www.jdidm.edu.bd
 www.jdsdm.edu.bd
 www.jfm.edu.bd
 www.jgc.edu.bd
@@ -4943,10 +4976,12 @@ www.rib.edu.bd
 www.risc.edu.bd
 www.rkmhsc.edu.bd
 www.rmhschool.edu.bd
+www.rms.saahs.edu.bd
 www.rmss.edu.bd
 www.rnukm.aabchs.edu.bd
 www.routine.image.edu.bd
 www.rphs.edu.bd
+www.rpmc.edu.bd
 www.rsac.edu.bd
 www.rsfm.edu.bd
 www.rsfm.edu.bd.jsgs.edu.bd
