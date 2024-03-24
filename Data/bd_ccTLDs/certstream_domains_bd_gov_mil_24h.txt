@@ -1,3 +1,4 @@
+akotercharup.faridpurlg.gov.bd
 apps.terbb.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 autodiscover.cafoemrd.gov.bd
@@ -8,6 +9,7 @@ bmcollege.gov.bd
 booking.bpodms.gov.bd
 cafoemrd.gov.bd
 cafoshipping.gov.bd
+chandraup.faridpurlg.gov.bd
 cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.pabnatsc.gov.bd
@@ -21,11 +23,13 @@ cpcontacts.cafoshipping.gov.bd
 cpcontacts.pabnatsc.gov.bd
 cpcontacts.sfcworks.gov.bd
 dpeojhenaidah.gov.bd
+dppseba.gov.bd
 drive-registration.egovcloud.gov.bd
 drive.egovcloud.gov.bd
 ehealthcertificate.bfsa.gov.bd
 erecruitment.sec.gov.bd
 etradelicense.gov.bd
+jamalpurttc.gov.bd
 laravel.sfcarmy.gov.bd
 mail.aclandall.gov.bd
 mail.ansarvdp.gov.bd
@@ -98,6 +102,7 @@ mail.doia.gov.bd
 mail.doict.gov.bd
 mail.dos.gov.bd
 mail.dpp.gov.bd
+mail.dppseba.gov.bd
 mail.dshe.gov.bd
 mail.dss.gov.bd
 mail.dsw.gov.bd
@@ -216,8 +221,12 @@ smail.bcc.gov.bd
 smmbox01.bcc.gov.bd
 smmbox18.bcc.gov.bd
 startupbangladeshvc.gov.bd
+sylhetbetar.gov.bd
+thakurgaontsc.gov.bd
 trademark.bsc.gov.bd
+tscpatuakhali.gov.bd
 ueopat.gov.bd
+web.jamalpurttc.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.pabnatsc.gov.bd
@@ -227,10 +236,13 @@ webmail.cafoshipping.gov.bd
 webmail.pabnatsc.gov.bd
 webmail.sfcworks.gov.bd
 wms.ansarvdp.gov.bd
+www.akotercharup.faridpurlg.gov.bd
 www.apps.terbb.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.cafoemrd.gov.bd
 www.cafoshipping.gov.bd
+www.chandraup.faridpurlg.gov.bd
+www.dppseba.gov.bd
 www.etradelicense.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.ntrc.gameapp.gov.bd
@@ -239,4 +251,6 @@ www.pti.ueopat.gov.bd
 www.register.gameapp.gov.bd
 www.server.secretariatclinic.gov.bd
 www.sfcworks.gov.bd
+www.sylhetbetar.gov.bd
 www.trademark.bsc.gov.bd
+www.web.jamalpurttc.gov.bd
