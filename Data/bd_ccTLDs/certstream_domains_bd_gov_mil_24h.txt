@@ -5,6 +5,7 @@ autodiscover.cafoemrd.gov.bd
 autodiscover.cafoshipping.gov.bd
 autodiscover.pabnatsc.gov.bd
 autodiscover.sfcworks.gov.bd
+autodiscover.tangailtsc.gov.bd
 bmcollege.gov.bd
 booking.bpodms.gov.bd
 cafoemrd.gov.bd
@@ -15,14 +16,17 @@ cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.pabnatsc.gov.bd
 cpanel.sfcworks.gov.bd
+cpanel.tangailtsc.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.pabnatsc.gov.bd
 cpcalendars.sfcworks.gov.bd
+cpcalendars.tangailtsc.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.pabnatsc.gov.bd
 cpcontacts.sfcworks.gov.bd
+cpcontacts.tangailtsc.gov.bd
 dakbazar.bpodms.gov.bd
 dpeojhenaidah.gov.bd
 dppseba.gov.bd
@@ -206,6 +210,7 @@ mail.sskcell.gov.bd
 mail.sujanagarpabna.gov.bd
 mail.supremecourt.gov.bd
 mail.syedpuruzp.gov.bd
+mail.tangailtsc.gov.bd
 mail.tat.gov.bd
 mail.teaboard.gov.bd
 mail.techedu.gov.bd
@@ -225,6 +230,7 @@ smmbox01.bcc.gov.bd
 smmbox18.bcc.gov.bd
 startupbangladeshvc.gov.bd
 sylhetbetar.gov.bd
+tangailtsc.gov.bd
 taskmapp.nwpgcl.gov.bd
 thakurgaontsc.gov.bd
 trademark.bsc.gov.bd
@@ -235,10 +241,12 @@ webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.pabnatsc.gov.bd
 webdisk.sfcworks.gov.bd
+webdisk.tangailtsc.gov.bd
 webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.pabnatsc.gov.bd
 webmail.sfcworks.gov.bd
+webmail.tangailtsc.gov.bd
 wms.ansarvdp.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.apps.terbb.gov.bd
@@ -256,5 +264,6 @@ www.register.gameapp.gov.bd
 www.server.secretariatclinic.gov.bd
 www.sfcworks.gov.bd
 www.sylhetbetar.gov.bd
+www.tangailtsc.gov.bd
 www.trademark.bsc.gov.bd
 www.web.jamalpurttc.gov.bd
