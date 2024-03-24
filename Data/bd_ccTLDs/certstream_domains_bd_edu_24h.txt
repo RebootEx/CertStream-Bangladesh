@@ -1,6 +1,7 @@
 aasdm.edu.bd
 aaushs.edu.bd
 abednagar.edu.bd
+abnk.edu.bd
 academic.chapatalilfmadrasah.edu.bd
 admission.lmbhs.edu.bd
 aehs.edu.bd
@@ -33,6 +34,7 @@ bajuaunionhighschool.edu.bd
 balokdiarhs.edu.bd
 bamujasfdm.edu.bd
 banishantapinakpanihs.edu.bd
+bank.khkhsm.edu.bd
 bapghsc.edu.bd
 barochangoirhs.edu.bd
 barochownahighschool.edu.bd
@@ -79,6 +81,7 @@ ccssjewel.edu.bd
 cdschool.edu.bd
 cghsp.edu.bd
 cgsam.edu.bd
+chakborkhodati.edu.bd
 chandradighiam.edu.bd
 chapatalilfmadrasah.edu.bd
 choytass.edu.bd
@@ -93,18 +96,21 @@ cnphs.edu.bd
 cpanel.berubarihs.edu.bd
 cpanel.cbjs.edu.bd
 cpanel.chapatalilfmadrasah.edu.bd
+cpanel.fenigaacademy.edu.bd
 cpanel.nlmhs.edu.bd
 cpanel.shuhilpurabsfm.edu.bd
 cpanel.smcollege.edu.bd
 cpcalendars.berubarihs.edu.bd
 cpcalendars.cbjs.edu.bd
 cpcalendars.chapatalilfmadrasah.edu.bd
+cpcalendars.fenigaacademy.edu.bd
 cpcalendars.nlmhs.edu.bd
 cpcalendars.shuhilpurabsfm.edu.bd
 cpcalendars.smcollege.edu.bd
 cpcontacts.berubarihs.edu.bd
 cpcontacts.cbjs.edu.bd
 cpcontacts.chapatalilfmadrasah.edu.bd
+cpcontacts.fenigaacademy.edu.bd
 cpcontacts.nlmhs.edu.bd
 cpcontacts.shuhilpurabsfm.edu.bd
 cpcontacts.smcollege.edu.bd
@@ -119,6 +125,7 @@ dcphs.edu.bd
 ddmmc.edu.bd
 ddsmnidm.edu.bd
 deoraadm.edu.bd
+dghst.edu.bd
 dgrghs.edu.bd
 dhainagarghs.edu.bd
 dhankoragirishinstitution1917.edu.bd
@@ -141,6 +148,7 @@ edu.bd.fulbarihs.edu.bd
 ekbariaam.edu.bd
 ekhs.edu.bd
 faumdm.edu.bd
+fenigaacademy.edu.bd
 ffm.edu.bd
 fgonjss.edu.bd
 firojpurjanakallanhighschool.edu.bd
@@ -158,6 +166,7 @@ gnfm.edu.bd
 govtgazariacollege.edu.bd
 gpghs.edu.bd
 gpss.edu.bd
+gtamam.ppss.edu.bd
 guhs.edu.bd
 hahs.edu.bd
 hamidpurghs.edu.bd
@@ -198,7 +207,9 @@ iims.ruppurhs.edu.bd
 iims.sarghsp.edu.bd
 iims.srdmp.edu.bd
 iims.sstactapobanhs.edu.bd
+ilshabarihsn.edu.bd
 ims.babulcharahs.edu.bd
+induhatincsstk.edu.bd
 ismanircharhighschool.edu.bd
 jalalabadhs.edu.bd
 jama.edu.bd
@@ -211,6 +222,7 @@ jhacademy.edu.bd
 jhakhirdm.edu.bd
 jhapuaaidmad.edu.bd
 jhatibuniamiss.edu.bd
+jibdm.edu.bd
 jkahs.edu.bd
 jmakm.edu.bd
 jndm.edu.bd
@@ -284,6 +296,7 @@ mail.chapatalilfmadrasah.edu.bd
 mail.daragramhs.edu.bd
 mail.dgrghs.edu.bd
 mail.domnibarihighschool.edu.bd
+mail.fenigaacademy.edu.bd
 mail.fmshs.edu.bd
 mail.hmjacc.edu.bd
 mail.hnhnpmc.edu.bd
@@ -327,6 +340,7 @@ mhss.edu.bd
 mjdm.edu.bd
 mjs.edu.bd
 mjsc.edu.bd
+mkhghs.edu.bd
 mlsnbghs.edu.bd
 mmafdm.edu.bd
 mmsfm.edu.bd
@@ -488,6 +502,7 @@ tkfm.edu.bd
 tnam.edu.bd
 tpaadm.edu.bd
 tsandc.edu.bd
+umfm.edu.bd
 updidm.edu.bd
 uppss.edu.bd
 usahs.edu.bd
@@ -496,12 +511,14 @@ wdbhs.edu.bd
 webdisk.berubarihs.edu.bd
 webdisk.cbjs.edu.bd
 webdisk.chapatalilfmadrasah.edu.bd
+webdisk.fenigaacademy.edu.bd
 webdisk.nlmhs.edu.bd
 webdisk.shuhilpurabsfm.edu.bd
 webdisk.smcollege.edu.bd
 webmail.berubarihs.edu.bd
 webmail.cbjs.edu.bd
 webmail.chapatalilfmadrasah.edu.bd
+webmail.fenigaacademy.edu.bd
 webmail.nlmhs.edu.bd
 webmail.shuhilpurabsfm.edu.bd
 webmail.smcollege.edu.bd
@@ -534,6 +551,7 @@ www.bajuaunionhighschool.edu.bd
 www.balokdiarhs.edu.bd
 www.bamujasfdm.edu.bd
 www.banishantapinakpanihs.edu.bd
+www.bank.khkhsm.edu.bd
 www.bapghsc.edu.bd
 www.barochangoirhs.edu.bd
 www.barochownahighschool.edu.bd
@@ -578,6 +596,7 @@ www.ccssjewel.edu.bd
 www.cdschool.edu.bd
 www.cghsp.edu.bd
 www.cgsam.edu.bd
+www.chakborkhodati.edu.bd
 www.chandradighiam.edu.bd
 www.chapatalilfmadrasah.edu.bd
 www.choytass.edu.bd
@@ -597,6 +616,7 @@ www.dcphs.edu.bd
 www.ddmmc.edu.bd
 www.ddsmnidm.edu.bd
 www.deoraadm.edu.bd
+www.dghst.edu.bd
 www.dgrghs.edu.bd
 www.dhankoragirishinstitution1917.edu.bd
 www.dhdm.edu.bd
@@ -614,6 +634,7 @@ www.dshsc.edu.bd
 www.ekbariaam.edu.bd
 www.ekhs.edu.bd
 www.faumdm.edu.bd
+www.fenigaacademy.edu.bd
 www.ffm.edu.bd
 www.fgonjss.edu.bd
 www.firojpurjanakallanhighschool.edu.bd
@@ -626,6 +647,7 @@ www.gnfm.edu.bd
 www.govtgazariacollege.edu.bd
 www.gpghs.edu.bd
 www.gpss.edu.bd
+www.gtamam.ppss.edu.bd
 www.guhs.edu.bd
 www.hahs.edu.bd
 www.hamidpurghs.edu.bd
@@ -662,6 +684,7 @@ www.iims.ruppurhs.edu.bd
 www.iims.sarghsp.edu.bd
 www.iims.srdmp.edu.bd
 www.iims.sstactapobanhs.edu.bd
+www.ilshabarihsn.edu.bd
 www.ims.babulcharahs.edu.bd
 www.ismanircharhighschool.edu.bd
 www.jalalabadhs.edu.bd

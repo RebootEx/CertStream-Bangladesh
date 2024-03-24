@@ -1,3 +1,4 @@
+apps.terbb.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 autodiscover.pabnatsc.gov.bd
 bmcollege.gov.bd
@@ -10,6 +11,7 @@ drive-registration.egovcloud.gov.bd
 drive.egovcloud.gov.bd
 ehealthcertificate.bfsa.gov.bd
 erecruitment.sec.gov.bd
+etradelicense.gov.bd
 laravel.sfcarmy.gov.bd
 mail.aclandall.gov.bd
 mail.ansarvdp.gov.bd
@@ -200,7 +202,9 @@ ueopat.gov.bd
 webdisk.pabnatsc.gov.bd
 webmail.pabnatsc.gov.bd
 wms.ansarvdp.gov.bd
+www.apps.terbb.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
+www.etradelicense.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.ntrc.gameapp.gov.bd
 www.pabnatsc.gov.bd
