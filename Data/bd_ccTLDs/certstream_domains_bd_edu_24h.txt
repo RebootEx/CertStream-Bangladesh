@@ -67,11 +67,13 @@ berubarihs.edu.bd
 betuahighschool.edu.bd
 bfauadm.edu.bd
 bghs84.edu.bd
+bghsm.edu.bd
 bhabnass.edu.bd
 bhalukgharsecondaryschool.edu.bd
 bhimsarmahs.edu.bd
 bhuapurpghs.edu.bd
 binodpurhighschoolsn.edu.bd
+biochemistry.tejgaoncollege.edu.bd
 birashidmhs.edu.bd
 bjjfm.edu.bd
 bkfdm.edu.bd
@@ -114,6 +116,7 @@ cmaidm.edu.bd
 cmu.edu.bd
 cnphs.edu.bd
 cpanel.berubarihs.edu.bd
+cpanel.bghsm.edu.bd
 cpanel.bhabnass.edu.bd
 cpanel.cbjs.edu.bd
 cpanel.chapatalilfmadrasah.edu.bd
@@ -123,10 +126,13 @@ cpanel.falahiafeni.edu.bd
 cpanel.fenigaacademy.edu.bd
 cpanel.nlmhs.edu.bd
 cpanel.pdfdm.edu.bd
+cpanel.pmdm.edu.bd
 cpanel.sbrailwayschoolandcollege.edu.bd
 cpanel.shuhilpurabsfm.edu.bd
 cpanel.smcollege.edu.bd
+cpanel.ucn.edu.bd
 cpcalendars.berubarihs.edu.bd
+cpcalendars.bghsm.edu.bd
 cpcalendars.bhabnass.edu.bd
 cpcalendars.cbjs.edu.bd
 cpcalendars.chapatalilfmadrasah.edu.bd
@@ -135,10 +141,13 @@ cpcalendars.falahiafeni.edu.bd
 cpcalendars.fenigaacademy.edu.bd
 cpcalendars.nlmhs.edu.bd
 cpcalendars.pdfdm.edu.bd
+cpcalendars.pmdm.edu.bd
 cpcalendars.sbrailwayschoolandcollege.edu.bd
 cpcalendars.shuhilpurabsfm.edu.bd
 cpcalendars.smcollege.edu.bd
+cpcalendars.ucn.edu.bd
 cpcontacts.berubarihs.edu.bd
+cpcontacts.bghsm.edu.bd
 cpcontacts.bhabnass.edu.bd
 cpcontacts.cbjs.edu.bd
 cpcontacts.chapatalilfmadrasah.edu.bd
@@ -147,9 +156,11 @@ cpcontacts.falahiafeni.edu.bd
 cpcontacts.fenigaacademy.edu.bd
 cpcontacts.nlmhs.edu.bd
 cpcontacts.pdfdm.edu.bd
+cpcontacts.pmdm.edu.bd
 cpcontacts.sbrailwayschoolandcollege.edu.bd
 cpcontacts.shuhilpurabsfm.edu.bd
 cpcontacts.smcollege.edu.bd
+cpcontacts.ucn.edu.bd
 cptahs.edu.bd
 crhsbk.edu.bd
 csbmc.edu.bd
@@ -187,6 +198,7 @@ dshsc.edu.bd
 dsss.edu.bd
 edu.bd.bkbhs.edu.bd
 edu.bd.fulbarihs.edu.bd
+eduroam.nstu.edu.bd
 ekbariaam.edu.bd
 ekhs.edu.bd
 falahiafeni.edu.bd
@@ -305,6 +317,7 @@ khfm.edu.bd
 khghs.edu.bd
 khns.edu.bd
 khopatihs.edu.bd
+khoragachhsc.edu.bd
 khoshbashcollege.edu.bd
 khs112310.edu.bd
 khs1998.edu.bd
@@ -347,6 +360,7 @@ maam.edu.bd
 mabarijehadiamadrasah.edu.bd
 mahdm.edu.bd
 mail.berubarihs.edu.bd
+mail.bghsm.edu.bd
 mail.bhabnass.edu.bd
 mail.cbjs.edu.bd
 mail.chapatalilfmadrasah.edu.bd
@@ -375,6 +389,7 @@ mail.nkhs.edu.bd
 mail.nlmhs.edu.bd
 mail.nvsschool.edu.bd
 mail.pdfdm.edu.bd
+mail.pmdm.edu.bd
 mail.porbapoulihs.edu.bd
 mail.psac.edu.bd
 mail.rampahs.edu.bd
@@ -387,6 +402,7 @@ mail.sijghs.edu.bd
 mail.smcollege.edu.bd
 mail.stfxs.edu.bd
 mail.tjfhs.edu.bd
+mail.ucn.edu.bd
 mail.wdbhs.edu.bd
 makc.edu.bd
 maufm.edu.bd
@@ -464,6 +480,7 @@ pifdm.edu.bd
 pirojpurfm.edu.bd
 pkhsss.edu.bd
 pkkdm.edu.bd
+pmdm.edu.bd
 pmisgs.edu.bd
 pmrdm.edu.bd
 polsc.tejgaoncollege.edu.bd
@@ -490,6 +507,7 @@ rhsvoc.edu.bd
 ridmb.edu.bd
 roghupurhighschool.edu.bd
 rrpbam.edu.bd
+rsb.edu.bd
 rtabmc.edu.bd
 rupnagarmadrasah.edu.bd
 ruppurghs.edu.bd
@@ -572,6 +590,7 @@ tkfm.edu.bd
 tnam.edu.bd
 tpaadm.edu.bd
 tsandc.edu.bd
+ucn.edu.bd
 umfm.edu.bd
 updidm.edu.bd
 uppss.edu.bd
@@ -579,6 +598,7 @@ usahs.edu.bd
 vika.edu.bd
 wdbhs.edu.bd
 webdisk.berubarihs.edu.bd
+webdisk.bghsm.edu.bd
 webdisk.bhabnass.edu.bd
 webdisk.cbjs.edu.bd
 webdisk.chapatalilfmadrasah.edu.bd
@@ -587,10 +607,13 @@ webdisk.falahiafeni.edu.bd
 webdisk.fenigaacademy.edu.bd
 webdisk.nlmhs.edu.bd
 webdisk.pdfdm.edu.bd
+webdisk.pmdm.edu.bd
 webdisk.sbrailwayschoolandcollege.edu.bd
 webdisk.shuhilpurabsfm.edu.bd
 webdisk.smcollege.edu.bd
+webdisk.ucn.edu.bd
 webmail.berubarihs.edu.bd
+webmail.bghsm.edu.bd
 webmail.bhabnass.edu.bd
 webmail.cbjs.edu.bd
 webmail.chapatalilfmadrasah.edu.bd
@@ -600,9 +623,12 @@ webmail.falahiafeni.edu.bd
 webmail.fenigaacademy.edu.bd
 webmail.nlmhs.edu.bd
 webmail.pdfdm.edu.bd
+webmail.pmdm.edu.bd
 webmail.sbrailwayschoolandcollege.edu.bd
 webmail.shuhilpurabsfm.edu.bd
 webmail.smcollege.edu.bd
+webmail.ucn.edu.bd
+whm.pmdm.edu.bd
 www.aasdm.edu.bd
 www.aaushs.edu.bd
 www.abdm.edu.bd
@@ -666,11 +692,13 @@ www.berubarihs.edu.bd
 www.betuahighschool.edu.bd
 www.bfauadm.edu.bd
 www.bghs84.edu.bd
+www.bghsm.edu.bd
 www.bhabnass.edu.bd
 www.bhalukgharsecondaryschool.edu.bd
 www.bhimsarmahs.edu.bd
 www.bhuapurpghs.edu.bd
 www.binodpurhighschoolsn.edu.bd
+www.biochemistry.tejgaoncollege.edu.bd
 www.birashidmhs.edu.bd
 www.bjjfm.edu.bd
 www.bkfdm.edu.bd
@@ -941,6 +969,7 @@ www.pifdm.edu.bd
 www.pirojpurfm.edu.bd
 www.pkhsss.edu.bd
 www.pkkdm.edu.bd
+www.pmdm.edu.bd
 www.pmisgs.edu.bd
 www.pmrdm.edu.bd
 www.polsc.tejgaoncollege.edu.bd
@@ -1036,6 +1065,7 @@ www.tkfm.edu.bd
 www.tnam.edu.bd
 www.tpaadm.edu.bd
 www.tsandc.edu.bd.fulbarihs.edu.bd
+www.ucn.edu.bd
 www.uppss.edu.bd
 www.vika.edu.bd
 www.wdbhs.edu.bd
@@ -1046,4 +1076,5 @@ www.zoo.tejgaoncollege.edu.bd
 xn--j5baa8jxbbc0d.ssmcollege.edu.bd
 ygdm.edu.bd
 zadurths.edu.bd
+zhghsc.edu.bd
 zoo.tejgaoncollege.edu.bd
