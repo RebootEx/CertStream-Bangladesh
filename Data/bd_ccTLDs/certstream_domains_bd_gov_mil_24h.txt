@@ -7,9 +7,11 @@ autodiscover.cafoshipping.gov.bd
 autodiscover.pabnatsc.gov.bd
 autodiscover.sfcworks.gov.bd
 autodiscover.tangailtsc.gov.bd
+basurhatpourashava.gov.bd
 bmcollege.gov.bd
 booking.bpodms.gov.bd
 cafoemrd.gov.bd
+cafohome.gov.bd
 cafoshipping.gov.bd
 champs.iedcr.gov.bd
 chandraup.faridpurlg.gov.bd
@@ -37,6 +39,7 @@ ehealthcertificate.bfsa.gov.bd
 erecruitment.sec.gov.bd
 etradelicense.gov.bd
 jamalpurttc.gov.bd
+kachuatsc.gov.bd
 laravel.sfcarmy.gov.bd
 live4.bmd.gov.bd
 mail.aclandall.gov.bd
@@ -252,7 +255,9 @@ wms.ansarvdp.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.apps.terbb.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
+www.basurhatpourashava.gov.bd
 www.cafoemrd.gov.bd
+www.cafohome.gov.bd
 www.cafoshipping.gov.bd
 www.chandraup.faridpurlg.gov.bd
 www.dppseba.gov.bd

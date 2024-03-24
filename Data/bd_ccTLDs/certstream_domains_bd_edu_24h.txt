@@ -3,6 +3,7 @@ aaushs.edu.bd
 abdm.edu.bd
 abednagar.edu.bd
 abnk.edu.bd
+academic.alkawsarschool.edu.bd
 academic.chapatalilfmadrasah.edu.bd
 admin.djkmc.edu.bd
 admin.sbrailwayschoolandcollege.edu.bd
@@ -39,13 +40,16 @@ autodiscover.falahiafeni.edu.bd
 autodiscover.nlmhs.edu.bd
 autodiscover.rpmc.edu.bd
 autodiscover.sbrailwayschoolandcollege.edu.bd
+autodiscover.schooldsh.edu.bd
 babulcharahs.edu.bd
 baburhatschool.edu.bd
 backend.admk.edu.bd
 backend.djkmc.edu.bd
 backend.sbrailwayschoolandcollege.edu.bd
+backend.schooldsh.edu.bd
 bafama.edu.bd
 bafm.edu.bd
+bagbarihighschool.edu.bd
 baghoriahs.edu.bd
 bahadurpursecondaryschool.edu.bd
 baidm.edu.bd
@@ -150,6 +154,7 @@ cpanel.pdfdm.edu.bd
 cpanel.pmdm.edu.bd
 cpanel.rpmc.edu.bd
 cpanel.sbrailwayschoolandcollege.edu.bd
+cpanel.schooldsh.edu.bd
 cpanel.senapalli.edu.bd
 cpanel.shuhilpurabsfm.edu.bd
 cpanel.smcollege.edu.bd
@@ -170,6 +175,7 @@ cpcalendars.pdfdm.edu.bd
 cpcalendars.pmdm.edu.bd
 cpcalendars.rpmc.edu.bd
 cpcalendars.sbrailwayschoolandcollege.edu.bd
+cpcalendars.schooldsh.edu.bd
 cpcalendars.senapalli.edu.bd
 cpcalendars.shuhilpurabsfm.edu.bd
 cpcalendars.smcollege.edu.bd
@@ -190,6 +196,7 @@ cpcontacts.pdfdm.edu.bd
 cpcontacts.pmdm.edu.bd
 cpcontacts.rpmc.edu.bd
 cpcontacts.sbrailwayschoolandcollege.edu.bd
+cpcontacts.schooldsh.edu.bd
 cpcontacts.senapalli.edu.bd
 cpcontacts.shuhilpurabsfm.edu.bd
 cpcontacts.smcollege.edu.bd
@@ -240,6 +247,7 @@ ekbariaam.edu.bd
 ekhs.edu.bd
 falahiafeni.edu.bd
 faumdm.edu.bd
+fbudm.edu.bd
 fenigaacademy.edu.bd
 ffm.edu.bd
 fgonjss.edu.bd
@@ -252,6 +260,7 @@ ftp.dsss.edu.bd
 ftp.kmhwc.edu.bd
 ftp.ridmb.edu.bd
 gawsia.edu.bd
+gbgc.edu.bd
 gdhs.edu.bd
 geidgahodm.edu.bd
 ghfm.edu.bd
@@ -314,6 +323,7 @@ ilshabarihsn.edu.bd
 ims.babulcharahs.edu.bd
 imsn.edu.bd
 induhatincsstk.edu.bd
+ipv6.schooldsh.edu.bd
 ismanircharhighschool.edu.bd
 itapotadm.edu.bd
 jalalabadhs.edu.bd
@@ -381,6 +391,7 @@ kndbm.edu.bd
 knhidm.edu.bd
 kosiam.edu.bd
 kpgs.edu.bd
+kpmlhs.edu.bd
 kpphs.edu.bd
 kqmdakhilmadrasah.edu.bd
 ksm.edu.bd
@@ -448,6 +459,7 @@ mail.rampahs.edu.bd
 mail.rpmc.edu.bd
 mail.rtabmc.edu.bd
 mail.sbrailwayschoolandcollege.edu.bd
+mail.schooldsh.edu.bd
 mail.senapalli.edu.bd
 mail.sffazilmadrasa.edu.bd
 mail.shaherkhalihighschool.edu.bd
@@ -591,6 +603,7 @@ sbhs119919.edu.bd
 sbmlhs.edu.bd
 sbrailwayschoolandcollege.edu.bd
 scholarshomemajortila.edu.bd
+schooldsh.edu.bd
 schschool.edu.bd
 sdhdm.edu.bd
 sdphs.edu.bd
@@ -637,6 +650,7 @@ srdmp.edu.bd
 sreenagargovtcollege.edu.bd
 sreenagarhighschool.edu.bd
 sreendm.edu.bd
+sristy.edu.bd
 ssdmmk.edu.bd
 sshs119932.edu.bd
 ssidm.edu.bd
@@ -658,6 +672,7 @@ tahighschool.edu.bd
 taloraghs.edu.bd
 taltalahs.edu.bd
 tamtadm.edu.bd
+tarakandihs.edu.bd
 taziamadrasah.edu.bd
 test.matirangaghs.edu.bd
 thakurgaonroadcollege.edu.bd
@@ -666,6 +681,7 @@ tjfhs.edu.bd
 tkfm.edu.bd
 tnam.edu.bd
 tpaadm.edu.bd
+tric.edu.bd
 tsandc.edu.bd
 ttcs.butex.edu.bd
 ucn.edu.bd
@@ -691,6 +707,7 @@ webdisk.pdfdm.edu.bd
 webdisk.pmdm.edu.bd
 webdisk.rpmc.edu.bd
 webdisk.sbrailwayschoolandcollege.edu.bd
+webdisk.schooldsh.edu.bd
 webdisk.senapalli.edu.bd
 webdisk.shuhilpurabsfm.edu.bd
 webdisk.smcollege.edu.bd
@@ -712,6 +729,7 @@ webmail.pdfdm.edu.bd
 webmail.pmdm.edu.bd
 webmail.rpmc.edu.bd
 webmail.sbrailwayschoolandcollege.edu.bd
+webmail.schooldsh.edu.bd
 webmail.senapalli.edu.bd
 webmail.shuhilpurabsfm.edu.bd
 webmail.smcollege.edu.bd
@@ -722,6 +740,7 @@ www.aasdm.edu.bd
 www.aaushs.edu.bd
 www.abdm.edu.bd
 www.abednagar.edu.bd
+www.academic.alkawsarschool.edu.bd
 www.academic.chapatalilfmadrasah.edu.bd
 www.admin.djhs1969.edu.bd
 www.admin.djkmc.edu.bd
@@ -755,6 +774,7 @@ www.backend.ghschool.edu.bd
 www.backend.hkmvssgschool.edu.bd
 www.backend.kundahighschool.edu.bd
 www.backend.sbrailwayschoolandcollege.edu.bd
+www.backend.schooldsh.edu.bd
 www.bafama.edu.bd
 www.bafm.edu.bd
 www.baghoriahs.edu.bd
@@ -1111,6 +1131,7 @@ www.sarghsp.edu.bd
 www.sarkerbarihs.edu.bd
 www.sashia.edu.bd
 www.sbrailwayschoolandcollege.edu.bd
+www.schooldsh.edu.bd
 www.schschool.edu.bd
 www.sdhdm.edu.bd
 www.sdphs.edu.bd
