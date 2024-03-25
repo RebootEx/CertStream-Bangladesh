@@ -1,9 +1,13 @@
+admin.saejp.gov.bd
 apamsv3.cabinet.gov.bd
 autodiscover.tangailtsc.gov.bd
 autodiscover.zpsatkhira.gov.bd
 award.moysports.gov.bd
 bakshiganjpourashava.gov.bd
+bangabandhushilpanagar.gov.bd
 barcouncil.gov.bd
+bi.apamsv3.cabinet.gov.bd
+bsmsn.gov.bd
 ccdfpfm.gov.bd
 champs.iedcr.gov.bd
 cpadigital.gov.bd
@@ -25,6 +29,7 @@ ilab.gov.bd
 iph.gov.bd
 jgtdsl.gov.bd
 kachuatsc.gov.bd
+khagrachhari.gov.bd
 kpik.gov.bd
 laravel.sfc-dp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
@@ -32,9 +37,13 @@ mail.bakshiganjpourashava.gov.bd
 mail.ccdfpfm.gov.bd
 mail.tangailtsc.gov.bd
 mail.zpsatkhira.gov.bd
+mq.apamsv3.cabinet.gov.bd
 network.ekshop.gov.bd
+pdf.apamsv3.cabinet.gov.bd
 pirganjmunicipality.gov.bd
+rohanpurpourashava.gov.bd
 smartschoolbus.gov.bd
+smbogra.gov.bd
 staging.award.smartbangladesh.gov.bd
 stall-software.barishalcity.gov.bd
 sylhetbetar.gov.bd
@@ -51,6 +60,7 @@ webmail.bakshiganjpourashava.gov.bd
 webmail.ccdfpfm.gov.bd
 webmail.tangailtsc.gov.bd
 webmail.zpsatkhira.gov.bd
+www.admin.saejp.gov.bd
 www.bakshiganjpourashava.gov.bd
 www.ccdfpfm.gov.bd
 www.kpik.gov.bd
