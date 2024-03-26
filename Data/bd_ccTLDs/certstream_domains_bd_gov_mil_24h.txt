@@ -1,5 +1,6 @@
 aclandmotijheelcircle.gov.bd
 app.dhakaeducationboard.gov.bd
+autodiscover.acland.gov.bd
 autodiscover.laxmipurtsc.gov.bd
 autodiscover.naogaonmc.gov.bd
 bandarbantsc.gov.bd
@@ -7,13 +8,16 @@ basbjobportal.gov.bd
 bdris.dscc.gov.bd
 bepza.gov.bd
 cdc.gov.bd
+cpanel.acland.gov.bd
 cpanel.bandarbantsc.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.naogaonmc.gov.bd
+cpcalendars.acland.gov.bd
 cpcalendars.bandarbantsc.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.naogaonmc.gov.bd
+cpcontacts.acland.gov.bd
 cpcontacts.bandarbantsc.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.naogaonmc.gov.bd
@@ -25,6 +29,7 @@ helpline.comillaboard.gov.bd
 jitsi.vc8.bcc.gov.bd
 keshabpurpouroshava.gov.bd
 laxmipurtsc.gov.bd
+mail.acland.gov.bd
 mail.bandarbantsc.gov.bd
 mail.laxmipurtsc.gov.bd
 mail.naogaonmc.gov.bd
@@ -39,9 +44,11 @@ smartup.comillalg.gov.bd
 stgapp.cdc.gov.bd
 sujanagarmunicipality.gov.bd
 turn.vc8.bcc.gov.bd
+webdisk.acland.gov.bd
 webdisk.bandarbantsc.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.naogaonmc.gov.bd
+webmail.acland.gov.bd
 webmail.bandarbantsc.gov.bd
 webmail.dmpi.gov.bd
 webmail.laxmipurtsc.gov.bd
