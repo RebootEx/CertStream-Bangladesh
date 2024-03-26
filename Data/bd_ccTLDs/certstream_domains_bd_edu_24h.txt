@@ -72,6 +72,7 @@ cpanel.kanparakajlahs.edu.bd
 cpanel.kpahs.edu.bd
 cpanel.meherpurmdm.edu.bd
 cpanel.nizam.edu.bd
+cpanel.nnhs.edu.bd
 cpanel.pdmg.edu.bd
 cpanel.sathibaricollege.edu.bd
 cpanel.scollege.edu.bd
@@ -93,6 +94,7 @@ cpcalendars.kanparakajlahs.edu.bd
 cpcalendars.kpahs.edu.bd
 cpcalendars.meherpurmdm.edu.bd
 cpcalendars.nizam.edu.bd
+cpcalendars.nnhs.edu.bd
 cpcalendars.pdmg.edu.bd
 cpcalendars.sathibaricollege.edu.bd
 cpcalendars.scollege.edu.bd
@@ -114,6 +116,7 @@ cpcontacts.kpahs.edu.bd
 cpcontacts.manjurahmedhs.edu.bd
 cpcontacts.meherpurmdm.edu.bd
 cpcontacts.nizam.edu.bd
+cpcontacts.nnhs.edu.bd
 cpcontacts.pdmg.edu.bd
 cpcontacts.sathibaricollege.edu.bd
 cpcontacts.scollege.edu.bd
@@ -126,6 +129,7 @@ dhakasabmcollege.edu.bd
 dhsg.edu.bd
 digitalvisitingcard.amhc.edu.bd
 dogachihs.edu.bd
+drmannancollege.edu.bd
 earpurhighschool.edu.bd
 ecom.dhakasabmcollege.edu.bd
 ecom3.dhakasabmcollege.edu.bd
@@ -186,6 +190,7 @@ kcghs.edu.bd
 khagrachariiam.edu.bd
 khanjiahighschool.edu.bd
 kharshurhighschool1975.edu.bd
+kmv.edu.bd
 konaparasc.edu.bd
 kpahs.edu.bd
 kusumpur.edu.bd
@@ -209,6 +214,7 @@ mail.kanparakajlahs.edu.bd
 mail.kpahs.edu.bd
 mail.meherpurmdm.edu.bd
 mail.nizam.edu.bd
+mail.nnhs.edu.bd
 mail.pdmg.edu.bd
 mail.pklhs.edu.bd
 mail.sathibaricollege.edu.bd
@@ -223,6 +229,7 @@ malapdiahighschool.edu.bd
 maljghs.edu.bd
 malkhanagarcollege.edu.bd
 mbhighschool.edu.bd
+meags.edu.bd
 meherpurmdm.edu.bd
 metropolitan.edu.bd
 mitunursingcollege.edu.bd
@@ -240,11 +247,14 @@ nayalavangaghs.edu.bd
 nfchs.edu.bd
 nizam.edu.bd
 nmihs.edu.bd
+nnhs.edu.bd
+nnhs.edu.bd.hmsrhs.edu.bd
 nowparasandc.edu.bd
 nsbkhs.edu.bd
 nswhs.edu.bd
 paduasrhighschool.edu.bd
 panchliabahs.edu.bd
+panjaraigkyidm.edu.bd
 parnandualihsmagura.edu.bd
 paruaraidm.edu.bd
 pbhs86.edu.bd
@@ -273,12 +283,14 @@ portal.sherkolesahs.edu.bd
 portal.sshs119932.edu.bd
 portal.tghs1967.edu.bd
 portfolio.proyashrangpur.edu.bd
+pprmgs.edu.bd
 psp.edu.bd
 pspscjhs.edu.bd
 pust.edu.bd
 rabeyagsc.edu.bd
 raipuramodelschool.edu.bd
 residentiallaboratorycollege.edu.bd
+result.bmgc.edu.bd
 rhsrmhs.edu.bd
 rkgdm.edu.bd
 rtpslotonlinedanslotgacor.gccc.edu.bd
@@ -315,6 +327,7 @@ smtp.pklhs.edu.bd
 snbghs.edu.bd
 snhschool.edu.bd
 snuhs.edu.bd
+sonaborhs.edu.bd
 sreerchs.edu.bd
 srschool.edu.bd
 ssgovths.edu.bd
@@ -334,6 +347,7 @@ ubc.edu.bd
 ujangramss.edu.bd
 ussac.edu.bd
 uttargahs.edu.bd
+uwkdm.edu.bd
 v2.mangrove.edu.bd
 vast.dhakasabmcollege.edu.bd
 victorianursing.edu.bd
@@ -352,6 +366,7 @@ webdisk.kanparakajlahs.edu.bd
 webdisk.kpahs.edu.bd
 webdisk.meherpurmdm.edu.bd
 webdisk.nizam.edu.bd
+webdisk.nnhs.edu.bd
 webdisk.pdmg.edu.bd
 webdisk.sathibaricollege.edu.bd
 webdisk.scollege.edu.bd
@@ -373,6 +388,7 @@ webmail.kbmcollege.edu.bd
 webmail.kpahs.edu.bd
 webmail.meherpurmdm.edu.bd
 webmail.nizam.edu.bd
+webmail.nnhs.edu.bd
 webmail.pdmg.edu.bd
 webmail.sathibaricollege.edu.bd
 webmail.scollege.edu.bd
@@ -456,6 +472,8 @@ www.ms.butex.edu.bd
 www.mymail.harvardisdinajpur.edu.bd
 www.nalinidasghs.edu.bd
 www.nizam.edu.bd
+www.nnhs.edu.bd
+www.nnhs.edu.bd.hmsrhs.edu.bd
 www.old.bafsd.edu.bd
 www.parnandualihsmagura.edu.bd.mlahs.edu.bd
 www.pdmg.edu.bd
@@ -463,6 +481,7 @@ www.pklhs.edu.bd
 www.portfolio.proyashrangpur.edu.bd
 www.psp.edu.bd
 www.raipuramodelschool.edu.bd
+www.result.bmgc.edu.bd
 www.s.awmhs.edu.bd
 www.s.pakullamlhighschool.edu.bd
 www.saf.image.edu.bd
