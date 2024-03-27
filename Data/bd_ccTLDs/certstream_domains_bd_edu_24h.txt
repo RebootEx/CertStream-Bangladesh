@@ -103,6 +103,7 @@ barnamalasc.edu.bd
 barokonahs.edu.bd
 basailhighschool.edu.bd
 bashabarihighschool.edu.bd
+battalijhs.edu.bd
 bau.edu.bd
 bcdhighschool.edu.bd
 bcin.edu.bd
@@ -134,6 +135,7 @@ boaliagirlshs.edu.bd.hmsrhs.edu.bd
 boguramuk-bodhirbiddalay.edu.bd
 bonkishorehighschool.edu.bd
 bpatal.edu.bd
+bpgss.edu.bd
 bpidm.edu.bd
 bpmgmhs.edu.bd
 brahmandangadakhilmadrasah.edu.bd
@@ -176,6 +178,7 @@ cpanel.dsm.edu.bd
 cpanel.ekhlaspurhs.edu.bd
 cpanel.gidm.edu.bd
 cpanel.gzsmc.edu.bd
+cpanel.hajigonjdc.edu.bd
 cpanel.hksm.edu.bd
 cpanel.imperialcollege.edu.bd
 cpanel.jihm.edu.bd
@@ -206,6 +209,7 @@ cpanel.muzafarabadcollege.edu.bd
 cpanel.naherpurhs.edu.bd
 cpanel.nemc.edu.bd
 cpanel.nnhs.edu.bd
+cpanel.nouriahs.edu.bd
 cpanel.omsc.edu.bd
 cpanel.pbdim.edu.bd
 cpanel.pblhs.edu.bd
@@ -245,6 +249,7 @@ cpcalendars.dsm.edu.bd
 cpcalendars.ekhlaspurhs.edu.bd
 cpcalendars.gidm.edu.bd
 cpcalendars.gzsmc.edu.bd
+cpcalendars.hajigonjdc.edu.bd
 cpcalendars.hksm.edu.bd
 cpcalendars.imperialcollege.edu.bd
 cpcalendars.jihm.edu.bd
@@ -261,6 +266,7 @@ cpcalendars.kifm.edu.bd
 cpcalendars.kjbhs.edu.bd
 cpcalendars.kpcbd.edu.bd
 cpcalendars.lhmrschoolandcollege.edu.bd
+cpcalendars.lokman.edu.bd
 cpcalendars.manahs.edu.bd
 cpcalendars.massm.edu.bd
 cpcalendars.mbariahs.edu.bd
@@ -275,6 +281,7 @@ cpcalendars.muzafarabadcollege.edu.bd
 cpcalendars.naherpurhs.edu.bd
 cpcalendars.nemc.edu.bd
 cpcalendars.nnhs.edu.bd
+cpcalendars.nouriahs.edu.bd
 cpcalendars.omsc.edu.bd
 cpcalendars.pbdim.edu.bd
 cpcalendars.pblhs.edu.bd
@@ -315,6 +322,7 @@ cpcontacts.dsm.edu.bd
 cpcontacts.ekhlaspurhs.edu.bd
 cpcontacts.gidm.edu.bd
 cpcontacts.gzsmc.edu.bd
+cpcontacts.hajigonjdc.edu.bd
 cpcontacts.hksm.edu.bd
 cpcontacts.imperialcollege.edu.bd
 cpcontacts.jihm.edu.bd
@@ -331,6 +339,7 @@ cpcontacts.kifm.edu.bd
 cpcontacts.kjbhs.edu.bd
 cpcontacts.kpcbd.edu.bd
 cpcontacts.lhmrschoolandcollege.edu.bd
+cpcontacts.lokman.edu.bd
 cpcontacts.manahs.edu.bd
 cpcontacts.massm.edu.bd
 cpcontacts.mbariahs.edu.bd
@@ -345,6 +354,7 @@ cpcontacts.muzafarabadcollege.edu.bd
 cpcontacts.naherpurhs.edu.bd
 cpcontacts.nemc.edu.bd
 cpcontacts.nnhs.edu.bd
+cpcontacts.nouriahs.edu.bd
 cpcontacts.omsc.edu.bd
 cpcontacts.pbdim.edu.bd
 cpcontacts.pblhs.edu.bd
@@ -398,6 +408,7 @@ dsm.edu.bd
 dukm.edu.bd
 edu.bd.jspgirls.edu.bd
 edu.bd.mlahs.edu.bd
+edu.bd.piam.edu.bd
 ekhlaspurhs.edu.bd
 ekhlaspurhs.edu.bd.hmsrhs.edu.bd
 enayetpurhighschool.edu.bd
@@ -412,10 +423,12 @@ fss.edu.bd
 fsss.edu.bd
 ftp.bargunagovcollege.edu.bd
 ftp.pklhs.edu.bd
+fusdc.edu.bd
 gabtaliam.edu.bd
 gallaknowabalihs.edu.bd
 ganapaddyhs.edu.bd
 gandhamaruasc.edu.bd
+gangghs.edu.bd
 garjaripaadsdm.edu.bd
 gazirhatdeco.edu.bd
 gbgc.edu.bd
@@ -424,11 +437,14 @@ ghoshnagarhs.edu.bd.kskhs.edu.bd
 gidm.edu.bd
 gkhighschool.edu.bd
 gmghs.edu.bd
+gmhs.edu.bd
 gonosvmc.edu.bd
+gopalghatahighschool.edu.bd
 gps.edu.bd
 grwc.edu.bd
 gsfm.edu.bd
 gzsmc.edu.bd
+hajigonjdc.edu.bd
 haldiagovhs.edu.bd
 hblpgschool.edu.bd
 hhighschool.edu.bd
@@ -471,6 +487,7 @@ kaliaishifdm.edu.bd
 kalikapur-hs.edu.bd
 kalikapur-hs.edu.bd.hmsrhs.edu.bd
 kalinagarhs.edu.bd
+kamarkhalihighschool.edu.bd
 kamhschool.edu.bd
 kanchanpurkgrkhighschool.edu.bd
 kapotaksha.edu.bd
@@ -554,6 +571,7 @@ mail.gidm.edu.bd
 mail.gps.edu.bd
 mail.gsfm.edu.bd
 mail.gzsmc.edu.bd
+mail.hajigonjdc.edu.bd
 mail.hksm.edu.bd
 mail.hmmkhs.edu.bd
 mail.hoglahs.edu.bd
@@ -600,6 +618,7 @@ mail.naherpurhs.edu.bd
 mail.nemc.edu.bd
 mail.nhssingra.edu.bd
 mail.nnhs.edu.bd
+mail.nouriahs.edu.bd
 mail.nphs.edu.bd
 mail.omsc.edu.bd
 mail.pbdim.edu.bd
@@ -640,6 +659,7 @@ mail.udayannursingcollege.edu.bd
 majharuddintbm.edu.bd
 malijhikandahs.edu.bd
 malonchihs.edu.bd
+maluharwazediasecondaryschool.edu.bd
 manahs.edu.bd
 maschyaparahs.edu.bd
 masnisecondary.edu.bd
@@ -694,6 +714,8 @@ nhssingra.edu.bd
 nievs.bnis.edu.bd
 nnhs.edu.bd
 nnhs.edu.bd.hmsrhs.edu.bd
+nouriahs.edu.bd
+nouriahs.edu.bd.hmsrhs.edu.bd
 nphs.edu.bd
 nsfm.edu.bd
 nswhs.edu.bd
@@ -842,6 +864,7 @@ webdisk.dsm.edu.bd
 webdisk.ekhlaspurhs.edu.bd
 webdisk.gidm.edu.bd
 webdisk.gzsmc.edu.bd
+webdisk.hajigonjdc.edu.bd
 webdisk.hksm.edu.bd
 webdisk.imperialcollege.edu.bd
 webdisk.jihm.edu.bd
@@ -872,6 +895,7 @@ webdisk.muzafarabadcollege.edu.bd
 webdisk.naherpurhs.edu.bd
 webdisk.nemc.edu.bd
 webdisk.nnhs.edu.bd
+webdisk.nouriahs.edu.bd
 webdisk.omsc.edu.bd
 webdisk.pbdim.edu.bd
 webdisk.pblhs.edu.bd
@@ -912,6 +936,7 @@ webmail.ekhlaspurhs.edu.bd
 webmail.gandhamaruasc.edu.bd
 webmail.gidm.edu.bd
 webmail.gzsmc.edu.bd
+webmail.hajigonjdc.edu.bd
 webmail.hksm.edu.bd
 webmail.imperialcollege.edu.bd
 webmail.jihm.edu.bd
@@ -928,6 +953,7 @@ webmail.kifm.edu.bd
 webmail.kjbhs.edu.bd
 webmail.kpcbd.edu.bd
 webmail.lhmrschoolandcollege.edu.bd
+webmail.lokman.edu.bd
 webmail.manahs.edu.bd
 webmail.massm.edu.bd
 webmail.mbariahs.edu.bd
@@ -942,6 +968,7 @@ webmail.muzafarabadcollege.edu.bd
 webmail.naherpurhs.edu.bd
 webmail.nemc.edu.bd
 webmail.nnhs.edu.bd
+webmail.nouriahs.edu.bd
 webmail.omsc.edu.bd
 webmail.pbdim.edu.bd
 webmail.pblhs.edu.bd
@@ -1013,6 +1040,7 @@ www.bakdm.edu.bd
 www.bargunagovcollege.edu.bd
 www.barnamalasc.edu.bd
 www.bashabarihighschool.edu.bd
+www.battalijhs.edu.bd.mlahs.edu.bd
 www.bia.edu.bd
 www.bia.edu.bd.hmsrhs.edu.bd
 www.biamlaboratoryschool.edu.bd
@@ -1022,6 +1050,7 @@ www.bmhighschool.edu.bd.khamarbashahighschool.edu.bd
 www.bmlhighschool.edu.bd
 www.boaliagirlshs.edu.bd
 www.boaliagirlshs.edu.bd.hmsrhs.edu.bd
+www.bpgss.edu.bd.piam.edu.bd
 www.bpmgmhs.edu.bd
 www.brahmandangadakhilmadrasah.edu.bd.chammhs.edu.bd
 www.bsadarshaseniormadrasah.edu.bd
@@ -1055,6 +1084,7 @@ www.gps.edu.bd
 www.grwc.edu.bd
 www.gsfm.edu.bd
 www.gzsmc.edu.bd
+www.hajigonjdc.edu.bd
 www.hksm.edu.bd
 www.hmmkhs.edu.bd
 www.hmsc.edu.bd.baratvakla.edu.bd
@@ -1095,6 +1125,7 @@ www.lhmrschoolandcollege.edu.bd
 www.lib.urma.edu.bd
 www.m.amtoilpmdm.edu.bd
 www.m.dighleermdm.edu.bd
+www.maluharwazediasecondaryschool.edu.bd.mlahs.edu.bd
 www.manahs.edu.bd
 www.massm.edu.bd
 www.matikatahs.edu.bd
@@ -1126,6 +1157,8 @@ www.nhssingra.edu.bd
 www.nievs.bnis.edu.bd
 www.nnhs.edu.bd
 www.nnhs.edu.bd.hmsrhs.edu.bd
+www.nouriahs.edu.bd
+www.nouriahs.edu.bd.hmsrhs.edu.bd
 www.nphs.edu.bd
 www.omsc.edu.bd
 www.pakshiaidealcollege.xyz.pakshiaic.edu.bd
