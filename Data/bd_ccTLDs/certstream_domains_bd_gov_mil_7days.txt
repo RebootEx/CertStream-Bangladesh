@@ -24,6 +24,7 @@ autodiscover.laxmipurtsc.gov.bd
 autodiscover.mushroomproject.gov.bd
 autodiscover.naogaonmc.gov.bd
 autodiscover.pabnatsc.gov.bd
+autodiscover.pict.gov.bd
 autodiscover.sfcworks.gov.bd
 autodiscover.tangailtsc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
@@ -52,6 +53,7 @@ booking.bpodms.gov.bd
 bsmsn.gov.bd
 bstiqrcode.gov.bd
 btriapps.gov.bd
+bup.gov.bd
 bwc.gov.bd
 cafoemrd.gov.bd
 cafohome.gov.bd
@@ -60,6 +62,8 @@ cafotj.gov.bd
 ccdfpfm.gov.bd
 cdc.gov.bd
 cedp.gbrcr.gov.bd
+cevccomilla.gov.bd
+cevccumilla.gov.bd
 cgwc.gov.bd
 champs.iedcr.gov.bd
 chandraup.faridpurlg.gov.bd
@@ -86,6 +90,7 @@ cpanel.mushroomproject.gov.bd
 cpanel.naogaonmc.gov.bd
 cpanel.nilmrcbd.gov.bd
 cpanel.pabnatsc.gov.bd
+cpanel.pict.gov.bd
 cpanel.pwdta.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.tangailtsc.gov.bd
@@ -108,6 +113,7 @@ cpcalendars.mushroomproject.gov.bd
 cpcalendars.naogaonmc.gov.bd
 cpcalendars.nilmrcbd.gov.bd
 cpcalendars.pabnatsc.gov.bd
+cpcalendars.pict.gov.bd
 cpcalendars.pwdta.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.tangailtsc.gov.bd
@@ -130,6 +136,7 @@ cpcontacts.mushroomproject.gov.bd
 cpcontacts.naogaonmc.gov.bd
 cpcontacts.nilmrcbd.gov.bd
 cpcontacts.pabnatsc.gov.bd
+cpcontacts.pict.gov.bd
 cpcontacts.pwdta.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.tangailtsc.gov.bd
@@ -194,6 +201,7 @@ imeetingmgt.beza.gov.bd
 innovationquiz.a2i.gov.bd
 ipemis.dpe.gov.bd
 iph.gov.bd
+jagannathpurup.comillalg.gov.bd
 jamalpurtsc.gov.bd
 jamalpurttc.gov.bd
 jgtdsl.gov.bd
@@ -394,6 +402,7 @@ mail.pcb.gov.bd
 mail.pd.gov.bd
 mail.pdbf.gov.bd
 mail.pib.gov.bd
+mail.pict.gov.bd
 mail.pocl.gov.bd
 mail.porichoy.gov.bd
 mail.portal.gov.bd
@@ -469,7 +478,9 @@ pabnatsc.gov.bd
 patharghatapourashava.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 pds.dae.gov.bd
+pelx.dfsrcaab.gov.bd
 pibstore.gnc.gov.bd
+pict.gov.bd
 pims.dgfood.gov.bd
 pirganjmunicipality.gov.bd
 postcode.bpodms.gov.bd
@@ -507,6 +518,7 @@ smartup.comillalg.gov.bd
 smbogra.gov.bd
 smmbox01.bcc.gov.bd
 smmbox18.bcc.gov.bd
+soltrack.gov.bd
 staging.award.smartbangladesh.gov.bd
 stall-software.barishalcity.gov.bd
 startupbangladeshvc.gov.bd
@@ -548,6 +560,7 @@ ullaparapaurashava.gov.bd
 unosullah.gov.bd
 uppabnaholdingtax.gov.bd
 uzparaihazar.gov.bd
+visa.gov.bd
 visipass.farmbroadcast.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -569,6 +582,7 @@ webdisk.mushroomproject.gov.bd
 webdisk.naogaonmc.gov.bd
 webdisk.nilmrcbd.gov.bd
 webdisk.pabnatsc.gov.bd
+webdisk.pict.gov.bd
 webdisk.pwdta.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.tangailtsc.gov.bd
@@ -591,6 +605,7 @@ webmail.laxmipurtsc.gov.bd
 webmail.naogaonmc.gov.bd
 webmail.nilmrcbd.gov.bd
 webmail.pabnatsc.gov.bd
+webmail.pict.gov.bd
 webmail.pwdta.gov.bd
 webmail.sfcworks.gov.bd
 webmail.shmrmi.gov.bd
@@ -613,6 +628,7 @@ www.ballabhdiup.faridpurlg.gov.bd
 www.bandarbantsc.gov.bd
 www.basurhatpourashava.gov.bd
 www.bms.navy.mil.bd
+www.bup.gov.bd
 www.bwc.gov.bd
 www.cafoemrd.gov.bd
 www.cafohome.gov.bd
@@ -620,6 +636,7 @@ www.cafoshipping.gov.bd
 www.ccdfpfm.gov.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
+www.cevccumilla.gov.bd
 www.chandraup.faridpurlg.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
@@ -648,6 +665,7 @@ www.hrm.mfstc.gov.bd
 www.icml.gov.bd
 www.ideabank.gov.bd
 www.imeetingmgt.beza.gov.bd
+www.jagannathpurup.comillalg.gov.bd
 www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
@@ -672,7 +690,9 @@ www.office.fta.gov.bd
 www.old.dhakadental.gov.bd
 www.old.joypurhattsc.gov.bd
 www.pabnatsc.gov.bd
+www.pelx.dfsrcaab.gov.bd
 www.pibstore.gnc.gov.bd
+www.pict.gov.bd
 www.ppi.gov.bd
 www.pti.ueopat.gov.bd
 www.pwdta.gov.bd
