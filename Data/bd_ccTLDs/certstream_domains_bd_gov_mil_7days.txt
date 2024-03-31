@@ -52,6 +52,7 @@ bwdb.gov.bd
 cafoagriculture.gov.bd
 cafoemrd.gov.bd
 cafoshipping.gov.bd
+cbj.gov.bd
 ccdfpfm.gov.bd
 cdc.gov.bd
 certification.bdskills.gov.bd
@@ -280,6 +281,7 @@ mail.brwt.gov.bd
 mail.bsbk.gov.bd
 mail.bsec.gov.bd
 mail.bstft.gov.bd
+mail.btcl.gov.bd
 mail.btmc.gov.bd
 mail.caab.gov.bd
 mail.cafoemrd.gov.bd
@@ -495,6 +497,7 @@ psdsms.gov.bd
 raise.wewb.gov.bd
 ranisankailpourashava.gov.bd
 rdodtekhulna.gov.bd
+rdodterangpur.gov.bd
 revenueshare.btcl.gov.bd
 rmpi.gov.bd
 rohanpurpourashava.gov.bd
@@ -544,6 +547,7 @@ test-api.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
 testing.award.smartbangladesh.gov.bd
 thakurgaontsc.gov.bd
+thakurgaonttc.gov.bd
 toto-macau.teknaftsc.gov.bd
 track.bpodms.gov.bd
 training.cirt.gov.bd
@@ -612,6 +616,7 @@ www.admin.saejp.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.apps.gjkagc.gov.bd
 www.attendance.rdodtekhulna.gov.bd
+www.attimage.rdodterangpur.gov.bd
 www.baghaicharipaurashava.gov.bd
 www.bakshiganjpourashava.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
@@ -629,6 +634,7 @@ www.bup.gov.bd
 www.cafoagriculture.gov.bd
 www.cafoemrd.gov.bd
 www.cafoshipping.gov.bd
+www.cbj.rdodterangpur.gov.bd
 www.ccdfpfm.gov.bd
 www.cdc.gov.bd
 www.cevccumilla.gov.bd
@@ -719,6 +725,7 @@ www.storage1.alaap.gov.bd
 www.store.bsc.gov.bd
 www.tangailtsc.gov.bd
 www.test.gameapp.gov.bd
+www.thakurgaonttc.rdodterangpur.gov.bd
 www.toto-macau.teknaftsc.gov.bd
 www.useomadhukhali.gov.bd
 www.vatdhkeast.gov.bd
