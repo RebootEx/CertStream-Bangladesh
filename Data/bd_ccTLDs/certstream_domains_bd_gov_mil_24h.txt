@@ -30,6 +30,7 @@ en.sfcnavy.gov.bd
 erp.bfacf-ticket.gov.bd
 faridganjmunicipality.gov.bd
 ftp.cevt.gov.bd
+ghoraghatmunicipality.gov.bd
 gis.beautifulbangladesh.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
 harmonyprojectmora.gov.bd
@@ -44,11 +45,13 @@ leprosytracker.dghs.gov.bd
 maheshpurpourashava.gov.bd
 mail.kanaighatmunicipality.gov.bd
 mail.test.gameapp.gov.bd
+manirampurmunicipality.gov.bd
 memis.gov.bd
 meoseba.gov.bd
 merchantpay.ekshop.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 nacholemunicipality.gov.bd
+nazipurpourashava.gov.bd
 nidproxy.mcishr.dghs.gov.bd
 nrigostisanad.gov.bd
 ntp.gov.bd
@@ -56,6 +59,7 @@ ntrc.gameapp.gov.bd
 pcb-doe.gov.bd
 portal.grm.plandiv.gov.bd
 projects.iifc.gov.bd
+rajbaripourashava.gov.bd
 rdcd.gov.bd
 register.gameapp.gov.bd
 savargc.gov.bd
@@ -70,6 +74,7 @@ tr.mcishr.dghs.gov.bd
 training.cirt.gov.bd
 ubid.gov.bd
 useoishwarganj.gov.bd
+uttoradhikar.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vtour.beautifulbangladesh.gov.bd
@@ -90,6 +95,7 @@ www.cevt.gov.bd
 www.course.bsiedu.gov.bd
 www.dms.basbmed.gov.bd
 www.en.sfcnavy.gov.bd
+www.ghoraghatmunicipality.gov.bd
 www.gis.beautifulbangladesh.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
 www.harmonyprojectmora.gov.bd
@@ -97,10 +103,12 @@ www.job.bsc.gov.bd
 www.kanaighatmunicipality.gov.bd
 www.lalmohanpaurashava.gov.bd
 www.mail.test.gameapp.gov.bd
+www.manirampurmunicipality.gov.bd
 www.meoseba.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
 www.ntrc.gameapp.gov.bd
 www.projects.iifc.gov.bd
+www.rajbaripourashava.gov.bd
 www.register.gameapp.gov.bd
 www.savargc.gov.bd
 www.spisg.spisg.gov.bd
