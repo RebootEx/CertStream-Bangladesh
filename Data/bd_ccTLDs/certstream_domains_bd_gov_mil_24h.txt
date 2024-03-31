@@ -6,15 +6,18 @@ beautifulbangladesh.gov.bd
 beneficiary.idsdp.rdcd.gov.bd
 biwtavhc.gov.bd
 cafoagriculture.gov.bd
+card.mcishr.dghs.gov.bd
 certification.bdskills.gov.bd
 cevappealctg.gov.bd
 cevappealkhulna.gov.bd
 cevcumillasadar.gov.bd
 cevdcumilla.gov.bd
+cevt.gov.bd
 chakariamunicipality.gov.bd
 chauddagramgovcollege.gov.bd
 course.bsiedu.gov.bd
 covid19.mohfw.gov.bd
+cpanel.cevt.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
@@ -26,6 +29,7 @@ emrddashboard.gov.bd
 en.sfcnavy.gov.bd
 erp.bfacf-ticket.gov.bd
 faridganjmunicipality.gov.bd
+ftp.cevt.gov.bd
 harmonyprojectmora.gov.bd
 hmis.dghs.gov.bd
 jachai.payment.ekshop.gov.bd
@@ -42,6 +46,7 @@ meoseba.gov.bd
 merchantpay.ekshop.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 nacholemunicipality.gov.bd
+nidproxy.mcishr.dghs.gov.bd
 nrigostisanad.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
@@ -56,11 +61,14 @@ sgtc.gov.bd
 shibganjpourashava.gov.bd
 specialbranch.gov.bd
 spisg.spisg.gov.bd
+stakeholder.beautifulbangladesh.gov.bd
 test.gameapp.gov.bd
+tr.mcishr.dghs.gov.bd
 training.cirt.gov.bd
 useoishwarganj.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
+vtour.beautifulbangladesh.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webmail.kanaighatmunicipality.gov.bd
 webmail.savargc.gov.bd
@@ -74,6 +82,7 @@ www.bpmis.bsc.gov.bd
 www.cafoagriculture.gov.bd
 www.cevcumillasadar.gov.bd
 www.cevdcumilla.gov.bd
+www.cevt.gov.bd
 www.course.bsiedu.gov.bd
 www.dms.basbmed.gov.bd
 www.en.sfcnavy.gov.bd
@@ -90,5 +99,7 @@ www.register.gameapp.gov.bd
 www.savargc.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
+www.stakeholder.beautifulbangladesh.gov.bd
 www.test.gameapp.gov.bd
+www.vtour.beautifulbangladesh.gov.bd
 zprajbari.gov.bd
