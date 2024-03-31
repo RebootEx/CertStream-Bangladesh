@@ -30,6 +30,8 @@ en.sfcnavy.gov.bd
 erp.bfacf-ticket.gov.bd
 faridganjmunicipality.gov.bd
 ftp.cevt.gov.bd
+gis.beautifulbangladesh.gov.bd
+gisadmin.beautifulbangladesh.gov.bd
 harmonyprojectmora.gov.bd
 hmis.dghs.gov.bd
 jachai.payment.ekshop.gov.bd
@@ -42,6 +44,7 @@ leprosytracker.dghs.gov.bd
 maheshpurpourashava.gov.bd
 mail.kanaighatmunicipality.gov.bd
 mail.test.gameapp.gov.bd
+memis.gov.bd
 meoseba.gov.bd
 merchantpay.ekshop.gov.bd
 milkvita.idsdp.rdcd.gov.bd
@@ -65,6 +68,7 @@ stakeholder.beautifulbangladesh.gov.bd
 test.gameapp.gov.bd
 tr.mcishr.dghs.gov.bd
 training.cirt.gov.bd
+ubid.gov.bd
 useoishwarganj.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -86,6 +90,8 @@ www.cevt.gov.bd
 www.course.bsiedu.gov.bd
 www.dms.basbmed.gov.bd
 www.en.sfcnavy.gov.bd
+www.gis.beautifulbangladesh.gov.bd
+www.gisadmin.beautifulbangladesh.gov.bd
 www.harmonyprojectmora.gov.bd
 www.job.bsc.gov.bd
 www.kanaighatmunicipality.gov.bd
