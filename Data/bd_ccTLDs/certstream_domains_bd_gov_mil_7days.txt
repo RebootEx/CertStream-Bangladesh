@@ -33,6 +33,7 @@ bkspds.gov.bd
 bnda.gov.bd
 bpo.farmbroadcast.gov.bd
 bsc.gov.bd
+bteb-dev.niseee.gov.bd
 btm.idsdp.rdcd.gov.bd
 btriapps.gov.bd
 bup.gov.bd
@@ -93,6 +94,7 @@ cpcontacts.eregistration.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.mspvaw109.gov.bd
+cpcontacts.oss.bepza.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.sac.gov.bd
@@ -153,6 +155,7 @@ hscprivate.comillaboard.gov.bd
 icsetep.ugc.gov.bd
 ictbdiasms.gov.bd
 ictpolicy.ictd.gov.bd
+industry-dev.niseee.gov.bd
 inheritance.gov.bd
 inventory.rmch.gov.bd
 ipcams.cdc.gov.bd
@@ -211,6 +214,7 @@ melandahbhata.gov.bd
 memis.gov.bd
 meoseba.gov.bd
 merchantpay.ekshop.gov.bd
+migration-portal-dev.niseee.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 mislgsp.gov.bd
 mmddl-ctgbcsir.gov.bd
@@ -233,10 +237,13 @@ nicrh.gov.bd
 nidproxy.mcishr.dghs.gov.bd
 nilmrc.gov.bd
 nilphamarittc.gov.bd
+nise-dev.niseee.gov.bd
+niseee.gov.bd
 notarypublic.gov.bd
 nrigostisanad.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
+nu-dev.niseee.gov.bd
 nwpgcl.gov.bd
 oldnothi.bfa.gov.bd
 onlinepayment.bise-ctg.gov.bd
@@ -284,6 +291,7 @@ smarttraffic-api.dncc.gov.bd
 smarttraffic-owner.dncc.gov.bd
 smarttraffic.dncc.gov.bd
 smartup.comillalg.gov.bd
+smef-dev.niseee.gov.bd
 smfb.gov.bd
 soltrack.gov.bd
 specialbranch.gov.bd
@@ -321,6 +329,7 @@ user.tds.taxeszone3ctg.gov.bd
 uttaraganabhaban.gov.bd
 uttoradhikar.gov.bd
 vatdhkeast.gov.bd
+vaxepi.gov.bd
 vc2.bcc.gov.bd
 vcbig.bcc.gov.bd
 visa.gov.bd
@@ -333,6 +342,7 @@ webdisk.ictbdiasms.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webdisk.mspvaw109.gov.bd
 webdisk.munpoly.gov.bd
+webdisk.oss.bepza.gov.bd
 webdisk.pict.gov.bd
 webdisk.psdsms.gov.bd
 webdisk.sac.gov.bd
@@ -477,6 +487,8 @@ www.thakurgaonttc.rdodterangpur.gov.bd
 www.toto-macau.teknaftsc.gov.bd
 www.useomadhukhali.gov.bd
 www.vatdhkeast.gov.bd
+www.vaxepi.gov.bd
 www.vtour.beautifulbangladesh.gov.bd
+youth-dev.niseee.gov.bd
 zpnarail.gov.bd
 zprajbari.gov.bd
