@@ -66,6 +66,7 @@ cpanel.cevt.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
+cpanel.mspvaw109.gov.bd
 cpanel.munpoly.gov.bd
 cpanel.pict.gov.bd
 cpanel.psdsms.gov.bd
@@ -75,6 +76,7 @@ cpcalendars.bjkb.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
+cpcalendars.mspvaw109.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcalendars.sac.gov.bd
@@ -83,6 +85,7 @@ cpcontacts.bjkb.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
+cpcontacts.mspvaw109.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.sac.gov.bd
@@ -139,6 +142,7 @@ harmonyprojectmora.gov.bd
 helpdesk.karmasangsthanbank.gov.bd
 hematology.rmch.gov.bd
 hmis.dghs.gov.bd
+hscprivate.comillaboard.gov.bd
 icsetep.ugc.gov.bd
 ictbdiasms.gov.bd
 ictpolicy.ictd.gov.bd
@@ -180,6 +184,7 @@ mail.dch.gov.bd
 mail.eregistration.gov.bd
 mail.ictbdiasms.gov.bd
 mail.kanaighatmunicipality.gov.bd
+mail.mspvaw109.gov.bd
 mail.munpoly.gov.bd
 mail.mybtcl.btcl.gov.bd
 mail.nilmrc.gov.bd
@@ -206,6 +211,7 @@ monglaportmunicipality.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
 motjdigitalstore.gov.bd
 moynamotiup.comillalg.gov.bd
+mspvaw109.gov.bd
 munpoly.gov.bd
 munshiganjpourashava.gov.bd
 my.ngosherpur.gov.bd
@@ -313,6 +319,7 @@ webdisk.bjkb.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
+webdisk.mspvaw109.gov.bd
 webdisk.munpoly.gov.bd
 webdisk.pict.gov.bd
 webdisk.psdsms.gov.bd
@@ -323,6 +330,7 @@ webmail.cevt.gov.bd
 webmail.eregistration.gov.bd
 webmail.ictbdiasms.gov.bd
 webmail.kanaighatmunicipality.gov.bd
+webmail.mspvaw109.gov.bd
 webmail.pict.gov.bd
 webmail.psdsms.gov.bd
 webmail.sac.gov.bd
@@ -342,6 +350,7 @@ www.bdansarerp.gov.bd
 www.beautifulbangladesh.gov.bd
 www.belkuchipoura.gov.bd
 www.beneficiary.idsdp.rdcd.gov.bd
+www.bepza.gov.bd
 www.betagimunicipality.gov.bd
 www.bfacf-ticket.gov.bd
 www.biwtavhc.gov.bd
@@ -407,6 +416,7 @@ www.milkvita.idsdp.rdcd.gov.bd
 www.mislgsp.gov.bd
 www.monglaportmunicipality.gov.bd
 www.moynamotiup.comillalg.gov.bd
+www.mspvaw109.gov.bd
 www.munpoly.gov.bd
 www.munshiganjpourashava.gov.bd
 www.my.ngosherpur.gov.bd
