@@ -3,7 +3,10 @@
 91011.melandahbhata.gov.bd
 aclandmotijheelcircle.gov.bd
 admin.saejp.gov.bd
+admission.akcc.gov.bd
+admission.sttc.gov.bd
 ai.gameapp.gov.bd
+akkelpurmunicipality.gov.bd
 apamsv3.cabinet.gov.bd
 app.dhakaeducationboard.gov.bd
 apps.ekpass.gov.bd
@@ -16,6 +19,7 @@ autodiscover.chtpaimc.gov.bd
 autodiscover.laxmipurtsc.gov.bd
 autodiscover.naogaonmc.gov.bd
 autodiscover.pict.gov.bd
+award.sheikhrussel.gov.bd
 baghaicharipaurashava.gov.bd
 bandarbantsc.gov.bd
 bard.idsdp.rdcd.gov.bd
@@ -80,6 +84,7 @@ cpanel.cevt.gov.bd
 cpanel.chtpaimc.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.eregistration.gov.bd
+cpanel.ictbdiasms.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.munpoly.gov.bd
@@ -93,6 +98,7 @@ cpcalendars.bandarbantsc.gov.bd
 cpcalendars.bjkb.gov.bd
 cpcalendars.chtpaimc.gov.bd
 cpcalendars.eregistration.gov.bd
+cpcalendars.ictbdiasms.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.naogaonmc.gov.bd
@@ -105,6 +111,7 @@ cpcontacts.bandarbantsc.gov.bd
 cpcontacts.bjkb.gov.bd
 cpcontacts.chtpaimc.gov.bd
 cpcontacts.eregistration.gov.bd
+cpcontacts.ictbdiasms.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.naogaonmc.gov.bd
@@ -118,6 +125,8 @@ customsvaluation.gov.bd
 cyberteens.gov.bd
 data.ncdc.dghs.gov.bd
 dch.gov.bd
+demo.krishibatighor.gov.bd
+dev.digitalliteracy.gov.bd
 dghs.gov.bd
 dhakaeducationboard.gov.bd
 dip.gov.bd
@@ -125,6 +134,7 @@ dknvat.gov.bd
 dls.gov.bd
 dmpi.gov.bd
 dms.basbmed.gov.bd
+dms.cca.gov.bd
 drive.bcc.gov.bd
 dscsc.mil.bd
 ebmeb.gov.bd
@@ -143,8 +153,10 @@ emsserver.epb-exporttracker.gov.bd
 en.sfcnavy.gov.bd
 eregistration.gov.bd
 erp.bfacf-ticket.gov.bd
+eservice.bba.gov.bd
 evm.gov.bd
 faridganjmunicipality.gov.bd
+fci.gov.bd
 fdr.btcl.gov.bd
 fgc.gov.bd
 ftp.cevt.gov.bd
@@ -154,8 +166,10 @@ ghoraghatmunicipality.gov.bd
 ghorashalpourashava.gov.bd
 gis.beautifulbangladesh.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
+gisserver.grm.plandiv.gov.bd
 gjkagc.gov.bd
 greenmolbd.gov.bd
+grm.plandiv.gov.bd
 harmonyprojectmora.gov.bd
 helpdesk.karmasangsthanbank.gov.bd
 helpline.comillaboard.gov.bd
@@ -163,6 +177,8 @@ hematology.rmch.gov.bd
 hmis.dghs.gov.bd
 icml.gov.bd
 icsetep.ugc.gov.bd
+ictbdiasms.gov.bd
+ictpolicy.ictd.gov.bd
 ilab.gov.bd
 inheritance.gov.bd
 inventory.rmch.gov.bd
@@ -170,6 +186,7 @@ ipcams.cdc.gov.bd
 jachai.payment.ekshop.gov.bd
 jachaipay.ekshop.gov.bd
 jagannathpurup.comillalg.gov.bd
+jamalpurtsc.gov.bd
 jessoreboard.gov.bd
 jgmc.gov.bd
 jhalokathimunicipality.gov.bd
@@ -178,6 +195,7 @@ jitsi.vc8.bcc.gov.bd
 jobportal.sfmmttc.gov.bd
 jscmark.comillaboard.gov.bd
 judiciary.gov.bd
+judipay.gov.bd
 kalipouragazi.gov.bd
 kanaighatmunicipality.gov.bd
 keshabpurpouroshava.gov.bd
@@ -187,6 +205,7 @@ lalmohanpaurashava.gov.bd
 laravel.sfc-dp.gov.bd
 laravel.sfcnavy.gov.bd
 laxmipurtsc.gov.bd
+lb.ictbdiasms.gov.bd
 leprosytracker.dghs.gov.bd
 lgservice.gov.bd
 licence.gov.bd
@@ -204,6 +223,7 @@ mail.chtpaimc.gov.bd
 mail.dch.gov.bd
 mail.eregistration.gov.bd
 mail.icml.gov.bd
+mail.ictbdiasms.gov.bd
 mail.kanaighatmunicipality.gov.bd
 mail.laxmipurtsc.gov.bd
 mail.munpoly.gov.bd
@@ -219,6 +239,7 @@ mail.test.gameapp.gov.bd
 mail.useomadhukhali.gov.bd
 mail.vatdhkeast.gov.bd
 manirampurmunicipality.gov.bd
+marriage.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
 melandahbhata.gov.bd
@@ -227,6 +248,7 @@ meoseba.gov.bd
 merchantpay.ekshop.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 mislgsp.gov.bd
+mmddl-ctgbcsir.gov.bd
 monglaportmunicipality.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
 motjdigitalstore.gov.bd
@@ -249,6 +271,7 @@ nidproxy.mcishr.dghs.gov.bd
 nilmrc.gov.bd
 nilphamarittc.gov.bd
 nimaichara.uppabnaholdingtax.gov.bd
+notarypublic.gov.bd
 nrigostisanad.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
@@ -260,11 +283,14 @@ operations.alaap.gov.bd
 paito-macau.teknaftsc.gov.bd
 pcb-doe.gov.bd
 pelx.dfsrcaab.gov.bd
+photo.pmo.gov.bd
 pict.gov.bd
 pirojpurtsc.gov.bd
+play.betarcommercialservice.gov.bd
 policy.gov.bd
 polytech.gov.bd
 portal.grm.plandiv.gov.bd
+portal.nothi.gov.bd
 pouroseba.gov.bd
 projects.iifc.gov.bd
 psdsms.gov.bd
@@ -276,6 +302,7 @@ register.gameapp.gov.bd
 revenueshare.btcl.gov.bd
 rmpi.gov.bd
 rohanpurpourashava.gov.bd
+ror.dc-rangamati.gov.bd
 sac.gov.bd
 sacgov.sac.gov.bd
 saidpurcollege.gov.bd
@@ -343,6 +370,7 @@ webdisk.bandarbantsc.gov.bd
 webdisk.bjkb.gov.bd
 webdisk.chtpaimc.gov.bd
 webdisk.eregistration.gov.bd
+webdisk.ictbdiasms.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.munpoly.gov.bd
@@ -358,6 +386,7 @@ webmail.cevt.gov.bd
 webmail.chtpaimc.gov.bd
 webmail.dmpi.gov.bd
 webmail.eregistration.gov.bd
+webmail.ictbdiasms.gov.bd
 webmail.kanaighatmunicipality.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.naogaonmc.gov.bd
@@ -371,6 +400,7 @@ www.5678.melandahbhata.gov.bd
 www.91011.melandahbhata.gov.bd
 www.admin.bsc.gov.bd
 www.admin.saejp.gov.bd
+www.admission.akcc.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.apps.gjkagc.gov.bd
 www.attendance.rdodtekhulna.gov.bd
@@ -409,6 +439,7 @@ www.comillaregion.highwaypolice.gov.bd
 www.course.bsiedu.gov.bd
 www.customsvaluation.gov.bd
 www.dch.gov.bd
+www.demo.krishibatighor.gov.bd
 www.department.bsc.gov.bd
 www.dmpi.gov.bd
 www.dms.basbmed.gov.bd
@@ -430,6 +461,7 @@ www.helpdesk.karmasangsthanbank.gov.bd
 www.hematology.rmch.gov.bd
 www.icml.gov.bd
 www.icsetep.ugc.gov.bd
+www.ictbdiasms.gov.bd
 www.inventory.rmch.gov.bd
 www.jagannathpurup.comillalg.gov.bd
 www.jhalokathimunicipality.gov.bd
@@ -442,10 +474,12 @@ www.lalmohanpaurashava.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.laravel.sfcnavy.gov.bd
 www.laxmipurtsc.gov.bd
+www.lb.ictbdiasms.gov.bd
 www.madhukhalipaurashava.gov.bd
 www.mail.pbi.gov.bd
 www.mail.test.gameapp.gov.bd
 www.manirampurmunicipality.gov.bd
+www.marriage.gov.bd
 www.meal.pwdta.gov.bd
 www.meoseba.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
@@ -460,12 +494,14 @@ www.naogaonmc.gov.bd
 www.nationalmuseumticket.gov.bd
 www.nilmrc.gov.bd
 www.nimaichara.uppabnaholdingtax.gov.bd
+www.notarypublic.gov.bd
 www.ntp.gov.bd
 www.ntrc.gameapp.gov.bd
 www.openmrs.secretariatclinic.gov.bd
 www.paito-macau.teknaftsc.gov.bd
 www.pelx.dfsrcaab.gov.bd
 www.pict.gov.bd
+www.play.betarcommercialservice.gov.bd
 www.policy.gov.bd
 www.portal.bsc.gov.bd
 www.projects.iifc.gov.bd
@@ -481,6 +517,7 @@ www.shibganjpourashava.gov.bd
 www.shop.bsc.gov.bd
 www.smartandikot.gov.bd
 www.smartup.comillalg.gov.bd
+www.soltrack.gov.bd
 www.spisg.spisg.gov.bd
 www.sreekailup.comillalg.gov.bd
 www.staging.zprajbari.gov.bd
