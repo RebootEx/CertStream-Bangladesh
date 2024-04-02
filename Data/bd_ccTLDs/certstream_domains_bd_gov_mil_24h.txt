@@ -57,6 +57,7 @@ report.ec4j.gov.bd
 rims.dgda.gov.bd
 rpl-dev.niseee.gov.bd
 rrfrangpur.gov.bd
+sadai.gov.bd
 sam.nnsop.gov.bd
 server.kpik.gov.bd
 smartandikot.gov.bd
@@ -74,7 +75,9 @@ ullaparapaurashava.gov.bd
 vaxepi.gov.bd
 webdisk.bepza.gov.bd
 webdisk.srijon.gov.bd
+webmail.oss.bepza.gov.bd
 webmail.srijon.gov.bd
+whm.oss.bepza.gov.bd
 www.1234.melandahbhata.gov.bd
 www.5678.melandahbhata.gov.bd
 www.bsfmstu.gameapp.gov.bd
@@ -91,6 +94,7 @@ www.notarypublic.gov.bd
 www.pbrlp.gov.bd
 www.recruitment.sreda.gov.bd
 www.report.ec4j.gov.bd
+www.sadai.gov.bd
 www.smartandikot.gov.bd
 www.soltrack.gov.bd
 www.somotolercha.btriapps.gov.bd
