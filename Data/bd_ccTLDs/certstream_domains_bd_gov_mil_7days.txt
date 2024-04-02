@@ -116,6 +116,7 @@ dms.basbmed.gov.bd
 dms.cca.gov.bd
 drive.bcc.gov.bd
 dscsc.mil.bd
+du.gameapp.gov.bd
 ebmeb.gov.bd
 ebook.land.gov.bd
 ecommerce.idsdp.rdcd.gov.bd
@@ -172,6 +173,7 @@ jobportal.sfmmttc.gov.bd
 jscmark.comillaboard.gov.bd
 judiciary.gov.bd
 judipay.gov.bd
+jury.ric.gov.bd
 kalipouragazi.gov.bd
 kanaighatmunicipality.gov.bd
 khagracharipourashava.gov.bd
@@ -297,6 +299,7 @@ soltrack.gov.bd
 specialbranch.gov.bd
 spisg.spisg.gov.bd
 spmis.dol.gov.bd
+sreda.gov.bd
 sreekailup.comillalg.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
 storage1.alaap.gov.bd
@@ -405,12 +408,14 @@ www.dch.gov.bd
 www.demo.krishibatighor.gov.bd
 www.department.bsc.gov.bd
 www.dms.basbmed.gov.bd
+www.du.gameapp.gov.bd
 www.dutipata.btriapps.gov.bd
 www.ecampus.gazipurtsc.gov.bd
 www.ecommerce.idsdp.rdcd.gov.bd
 www.ems.titumircollege.gov.bd
 www.en.sfcnavy.gov.bd
 www.eregistration.gov.bd
+www.erp.sreda.gov.bd
 www.federal.bsc.gov.bd
 www.forum.bsc.gov.bd
 www.ghoraghatmunicipality.gov.bd
@@ -434,6 +439,7 @@ www.laravel.sfcnavy.gov.bd
 www.lb.ictbdiasms.gov.bd
 www.madhukhalipaurashava.gov.bd
 www.mail.pbi.gov.bd
+www.mail.sreda.gov.bd
 www.mail.test.gameapp.gov.bd
 www.manirampurmunicipality.gov.bd
 www.marriage.gov.bd
@@ -463,6 +469,7 @@ www.portal.bsc.gov.bd
 www.projects.iifc.gov.bd
 www.psdsms.gov.bd
 www.rajbaripourashava.gov.bd
+www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.sac.gov.bd
 www.sacgov.sac.gov.bd
