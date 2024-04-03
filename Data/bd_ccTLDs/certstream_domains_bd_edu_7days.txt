@@ -536,6 +536,7 @@ cpanel.kalikapur-hs.edu.bd
 cpanel.kanaidangass.edu.bd
 cpanel.kass100031.edu.bd
 cpanel.kazisdm.edu.bd
+cpanel.kccghsc.edu.bd
 cpanel.kcszrc.edu.bd
 cpanel.khidirpurhsngn.edu.bd
 cpanel.khurshed-ellinorbidyaniketon.edu.bd
@@ -710,6 +711,7 @@ cpcalendars.kalikapur-hs.edu.bd
 cpcalendars.kanaidangass.edu.bd
 cpcalendars.kass100031.edu.bd
 cpcalendars.kazisdm.edu.bd
+cpcalendars.kccghsc.edu.bd
 cpcalendars.kcszrc.edu.bd
 cpcalendars.khidirpurhsngn.edu.bd
 cpcalendars.khurshed-ellinorbidyaniketon.edu.bd
@@ -883,6 +885,7 @@ cpcontacts.kalikapur-hs.edu.bd
 cpcontacts.kanaidangass.edu.bd
 cpcontacts.kass100031.edu.bd
 cpcontacts.kazisdm.edu.bd
+cpcontacts.kccghsc.edu.bd
 cpcontacts.kcszrc.edu.bd
 cpcontacts.khidirpurhsngn.edu.bd
 cpcontacts.khurshed-ellinorbidyaniketon.edu.bd
@@ -1091,6 +1094,7 @@ ekhlaspurhs.edu.bd.hmsrhs.edu.bd
 ekrahaqicbc.edu.bd
 elearning.bou.edu.bd
 electel.daffodilvarsity.edu.bd
+election.jkkniu.edu.bd
 ems.abrss.edu.bd
 ems.anss.edu.bd
 ems.cfhighschool.edu.bd
@@ -1384,6 +1388,7 @@ kbhsc.edu.bd
 kbsschool.edu.bd
 kcabn.edu.bd
 kcasnp.edu.bd
+kccghsc.edu.bd
 kcgs.edu.bd
 kcszrc.edu.bd
 kgpurdm.edu.bd
@@ -1614,6 +1619,7 @@ mail.kattc.edu.bd
 mail.kayempurmas.edu.bd
 mail.kazisdm.edu.bd
 mail.kbbc.edu.bd
+mail.kccghsc.edu.bd
 mail.kcszrc.edu.bd
 mail.khidirpurhsngn.edu.bd
 mail.khurshed-ellinorbidyaniketon.edu.bd
@@ -2416,6 +2422,7 @@ webdisk.kalikapur-hs.edu.bd
 webdisk.kanaidangass.edu.bd
 webdisk.kass100031.edu.bd
 webdisk.kazisdm.edu.bd
+webdisk.kccghsc.edu.bd
 webdisk.kcszrc.edu.bd
 webdisk.khidirpurhsngn.edu.bd
 webdisk.khurshed-ellinorbidyaniketon.edu.bd
@@ -2604,6 +2611,7 @@ webmail.kalikapur-hs.edu.bd
 webmail.kanaidangass.edu.bd
 webmail.kass100031.edu.bd
 webmail.kazisdm.edu.bd
+webmail.kccghsc.edu.bd
 webmail.kcszrc.edu.bd
 webmail.kgsc.edu.bd
 webmail.khidirpurhsngn.edu.bd
@@ -2911,6 +2919,7 @@ www.eee.cub.edu.bd
 www.ekhlaspurhs.edu.bd
 www.ekhlaspurhs.edu.bd.hmsrhs.edu.bd
 www.elearning.bou.edu.bd
+www.election.jkkniu.edu.bd
 www.elt.bubt.edu.bd
 www.emba.bubt.edu.bd
 www.ems.abrss.edu.bd
@@ -3048,6 +3057,7 @@ www.kass100031.edu.bd
 www.kattc.edu.bd
 www.kazisdm.edu.bd
 www.kbbc.edu.bd
+www.kccghsc.edu.bd
 www.kcszrc.edu.bd
 www.kgsc.edu.bd
 www.khidirpurhsngn.edu.bd
