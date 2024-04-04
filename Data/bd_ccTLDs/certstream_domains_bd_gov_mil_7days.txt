@@ -39,6 +39,7 @@ btm.idsdp.rdcd.gov.bd
 btriapps.gov.bd
 bup.gov.bd
 bwdb.gov.bd
+caabhc.gov.bd
 cafoagriculture.gov.bd
 cafoerd.gov.bd
 cafoexpatriates.gov.bd
@@ -70,13 +71,16 @@ chakariamunicipality.gov.bd
 chauddagramgovcollege.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
+climatefinance.erd.gov.bd
 cmmcourtsylhet.gov.bd
 comillaregion.highwaypolice.gov.bd
 course.bsiedu.gov.bd
 covid19.mohfw.gov.bd
 cp.ekpass.gov.bd
 cpanel.bepza.gov.bd
+cpanel.caabhc.gov.bd
 cpanel.cevt.gov.bd
+cpanel.diaautomation.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
@@ -89,6 +93,7 @@ cpanel.sac.gov.bd
 cpanel.srijon.gov.bd
 cpanel.useomadhukhali.gov.bd
 cpcalendars.bepza.gov.bd
+cpcalendars.diaautomation.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
@@ -100,6 +105,7 @@ cpcalendars.sac.gov.bd
 cpcalendars.srijon.gov.bd
 cpcalendars.useomadhukhali.gov.bd
 cpcontacts.bepza.gov.bd
+cpcontacts.diaautomation.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
@@ -115,6 +121,7 @@ ctgbcsir.gov.bd
 curriculum.gov.bd
 customsvaluation.gov.bd
 cyberteens.gov.bd
+da.ictbdiasms.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 data.ncdc.dghs.gov.bd
 dch.gov.bd
@@ -124,6 +131,7 @@ dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
 dhakaeducationboard.gov.bd
 dhakalabsbcsir.gov.bd
+diaautomation.gov.bd
 dip.gov.bd
 dknvat.gov.bd
 dls.gov.bd
@@ -205,7 +213,9 @@ mail.bepza.gov.bd
 mail.btcl.gov.bd
 mail.cevdsc.gov.bd
 mail.cevt.gov.bd
+mail.cpa.gov.bd
 mail.dch.gov.bd
+mail.diaautomation.gov.bd
 mail.eregistration.gov.bd
 mail.ictbdiasms.gov.bd
 mail.kanaighatmunicipality.gov.bd
@@ -353,6 +363,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vtour.beautifulbangladesh.gov.bd
 webdisk.bepza.gov.bd
+webdisk.diaautomation.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
@@ -364,7 +375,9 @@ webdisk.psdsms.gov.bd
 webdisk.sac.gov.bd
 webdisk.srijon.gov.bd
 webdisk.useomadhukhali.gov.bd
+webmail.caabhc.gov.bd
 webmail.cevt.gov.bd
+webmail.diaautomation.gov.bd
 webmail.eregistration.gov.bd
 webmail.ictbdiasms.gov.bd
 webmail.kanaighatmunicipality.gov.bd
@@ -404,6 +417,7 @@ www.bsfmstu.gameapp.gov.bd
 www.btbkschools.btriapps.gov.bd
 www.btm.idsdp.rdcd.gov.bd
 www.bup.gov.bd
+www.caabhc.gov.bd
 www.cafoagriculture.gov.bd
 www.cbj.rdodterangpur.gov.bd
 www.cevccumilla.gov.bd
@@ -421,10 +435,12 @@ www.comillaregion.highwaypolice.gov.bd
 www.course.bsiedu.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.customsvaluation.gov.bd
+www.da.ictbdiasms.gov.bd
 www.dch.gov.bd
 www.demo.krishibatighor.gov.bd
 www.department.bsc.gov.bd
 www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
+www.diaautomation.gov.bd
 www.dms.basbmed.gov.bd
 www.du.gameapp.gov.bd
 www.dutipata.btriapps.gov.bd
@@ -454,6 +470,7 @@ www.lalmohanpaurashava.gov.bd
 www.laravel.sfcnavy.gov.bd
 www.lb.ictbdiasms.gov.bd
 www.madhukhalipaurashava.gov.bd
+www.mail.cpa.gov.bd
 www.mail.pbi.gov.bd
 www.mail.sreda.gov.bd
 www.mail.test.gameapp.gov.bd
