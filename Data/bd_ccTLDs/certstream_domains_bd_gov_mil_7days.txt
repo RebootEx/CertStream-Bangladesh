@@ -60,6 +60,7 @@ cevt.gov.bd
 cevta.gov.bd
 cgpoura.gov.bd
 chakariamunicipality.gov.bd
+chattogramdiv.gov.bd
 chauddagramgovcollege.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
@@ -110,6 +111,7 @@ customsvaluation.gov.bd
 cyberteens.gov.bd
 da.ictbdiasms.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
+dashboard.idsdp.rdcd.gov.bd
 data.ncdc.dghs.gov.bd
 dch.gov.bd
 demo.krishibatighor.gov.bd
@@ -149,6 +151,7 @@ foreignstudents.dgme.gov.bd
 fsa.gov.bd
 ftp.bepza.gov.bd
 ftp.cevt.gov.bd
+ftp.oss.bepza.gov.bd
 ghoraghatmunicipality.gov.bd
 ghorashalpourashava.gov.bd
 gis.beautifulbangladesh.gov.bd
@@ -260,12 +263,14 @@ profile.nins.gov.bd
 projects.iifc.gov.bd
 psdsms.gov.bd
 rajbaripourashava.gov.bd
+rajshahiboard.gov.bd
 rangamatigmc.gov.bd
 rdcd.gov.bd
 rdodterangpur.gov.bd
 reg.dc-rangamati.gov.bd
 register.gameapp.gov.bd
 report.ec4j.gov.bd
+report.gov.bd
 rims.dgda.gov.bd
 rmpi.gov.bd
 ror.dc-rangamati.gov.bd
@@ -397,6 +402,7 @@ www.course.bsiedu.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.customsvaluation.gov.bd
 www.da.ictbdiasms.gov.bd
+www.dashboard.idsdp.rdcd.gov.bd
 www.dch.gov.bd
 www.demo.krishibatighor.gov.bd
 www.department.bsc.gov.bd
@@ -452,6 +458,7 @@ www.profile.nins.gov.bd
 www.projects.iifc.gov.bd
 www.psdsms.gov.bd
 www.rajbaripourashava.gov.bd
+www.rajshahiboard.gov.bd
 www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
