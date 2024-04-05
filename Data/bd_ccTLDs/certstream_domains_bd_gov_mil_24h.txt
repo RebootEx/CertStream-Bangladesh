@@ -3,6 +3,7 @@ ansarvdpbank.gov.bd
 app.dghs.gov.bd
 autodiscover.joyparatsc.gov.bd
 autodiscover.shariatpurtsc.gov.bd
+bangladesh.gov.bd
 bangladeshfestival.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
@@ -38,6 +39,7 @@ estore.fireservice.gov.bd
 exam.akcc.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
+fima.gov.bd
 financialinclusion.gov.bd
 fsc.fireservice.gov.bd
 golapganjpourashava.gov.bd
@@ -54,6 +56,7 @@ mail.bangladeshfestival.gov.bd
 mail.jamalpurttc.gov.bd
 mail.joyparatsc.gov.bd
 mail.shariatpurtsc.gov.bd
+mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 migration.gov.bd
 mmcm.gov.bd
@@ -67,7 +70,9 @@ report.gov.bd
 sanboard.gov.bd
 sdg.gov.bd
 services.nha.gov.bd
+sgtc.gov.bd
 shariatpurtsc.gov.bd
+sheikhrussel.gov.bd
 shsmch.gov.bd
 ssnimc.gov.bd
 test.msw-soft.gov.bd
@@ -84,11 +89,13 @@ webmail.jamalpurttc.gov.bd
 webmail.joyparatsc.gov.bd
 webmail.shariatpurtsc.gov.bd
 www.akkelpurmunicipality.gov.bd
+www.ban-fima-web.fima.gov.bd
 www.bangladeshfestival.gov.bd
 www.barlekhamunicipality.gov.bd
 www.beeer.sreda.gov.bd
 www.center.dbwctp64.gov.bd
 www.chasebah.btriapps.gov.bd
+www.course.fima.gov.bd
 www.database.melandahbhata.gov.bd
 www.demo.rmch.gov.bd
 www.dids.btriapps.gov.bd
@@ -100,6 +107,7 @@ www.jamalpurttc.gov.bd
 www.joyparatsc.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
+www.mehendiganjpourashava.gov.bd
 www.new.pict.gov.bd
 www.patharghatapourashava.gov.bd
 www.shariatpurtsc.gov.bd
