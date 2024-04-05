@@ -21,6 +21,7 @@ barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
 bbuasm.gov.bd
 bdansarerp.gov.bd
+bdrisnotification.dghs.gov.bd
 beanibazarpaurashava.gov.bd
 beautifulbangladesh.gov.bd
 beeer.sreda.gov.bd
@@ -28,6 +29,7 @@ beneficiary.idsdp.rdcd.gov.bd
 bepza.gov.bd
 bfacf-ticket.gov.bd
 bgghsbhola.gov.bd
+bhpi.gov.bd
 biwtahydrographicdata.gov.bd
 biwtavhc.gov.bd
 bnda.gov.bd
@@ -81,7 +83,9 @@ cpanel.cevt.gov.bd
 cpanel.diaautomation.gov.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
+cpanel.moulvibazartsc.gov.bd
 cpanel.mspvaw109.gov.bd
+cpanel.mudp.gov.bd
 cpanel.munpoly.gov.bd
 cpanel.oss.bepza.gov.bd
 cpanel.srijon.gov.bd
@@ -91,6 +95,7 @@ cpcalendars.diaautomation.gov.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.mspvaw109.gov.bd
+cpcalendars.mudp.gov.bd
 cpcalendars.oss.bepza.gov.bd
 cpcalendars.srijon.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
@@ -99,6 +104,7 @@ cpcontacts.diaautomation.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.mspvaw109.gov.bd
+cpcontacts.mudp.gov.bd
 cpcontacts.oss.bepza.gov.bd
 cpcontacts.srijon.gov.bd
 ct.taxeszoneonedhaka.gov.bd
@@ -149,8 +155,10 @@ fid.gov.bd
 foodfornation.gov.bd
 foreignstudents.dgme.gov.bd
 fsa.gov.bd
+fsc.fireservice.gov.bd
 ftp.bepza.gov.bd
 ftp.cevt.gov.bd
+ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 ghoraghatmunicipality.gov.bd
 gis.beautifulbangladesh.gov.bd
@@ -191,6 +199,8 @@ legislativediv.gov.bd
 leprosytracker.dghs.gov.bd
 lgservice.gov.bd
 licence.gov.bd
+lv.mspvaw.gov.bd
+lwservice.gov.bd
 madhukhalipaurashava.gov.bd
 maheshpurpourashava.gov.bd
 mail.akkelpurmunicipality.gov.bd
@@ -201,7 +211,10 @@ mail.cpa.gov.bd
 mail.diaautomation.gov.bd
 mail.ictbdiasms.gov.bd
 mail.kanaighatmunicipality.gov.bd
+mail.lwservice.gov.bd
+mail.moulvibazartsc.gov.bd
 mail.mspvaw109.gov.bd
+mail.mudp.gov.bd
 mail.munpoly.gov.bd
 mail.nilmrc.gov.bd
 mail.ntp.gov.bd
@@ -251,11 +264,13 @@ mos.gov.bd
 most.gov.bd
 motj.gov.bd
 motjdigitalstore.gov.bd
+moulvibazartsc.gov.bd
 mowca.gov.bd
 mowr.gov.bd
 moysports.gov.bd
 mspvaw109.gov.bd
 msw.gov.bd
+mudp.gov.bd
 mujib100sfc.gov.bd
 munpoly.gov.bd
 mygov.gov.bd
@@ -365,6 +380,7 @@ webdisk.diaautomation.gov.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webdisk.mspvaw109.gov.bd
+webdisk.mudp.gov.bd
 webdisk.munpoly.gov.bd
 webdisk.oss.bepza.gov.bd
 webdisk.srijon.gov.bd
@@ -374,7 +390,10 @@ webmail.caabhc.gov.bd
 webmail.diaautomation.gov.bd
 webmail.ictbdiasms.gov.bd
 webmail.kanaighatmunicipality.gov.bd
+webmail.lwservice.gov.bd
+webmail.moulvibazartsc.gov.bd
 webmail.mspvaw109.gov.bd
+webmail.mudp.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.savargc.gov.bd
 webmail.srijon.gov.bd
@@ -451,6 +470,8 @@ www.job.bsc.gov.bd
 www.kanaighatmunicipality.gov.bd
 www.lalmohanpaurashava.gov.bd
 www.lb.ictbdiasms.gov.bd
+www.lv.mspvaw.gov.bd
+www.lwservice.gov.bd
 www.madhukhalipaurashava.gov.bd
 www.mail.ansarvdpbank.gov.bd
 www.mail.cpa.gov.bd
@@ -462,7 +483,9 @@ www.meoseba.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
 www.mislgsp.gov.bd
 www.monglaportmunicipality.gov.bd
+www.moulvibazartsc.gov.bd
 www.mspvaw109.gov.bd
+www.mudp.gov.bd
 www.munpoly.gov.bd
 www.nacholemunicipality.gov.bd
 www.nationalmuseumticket.gov.bd
