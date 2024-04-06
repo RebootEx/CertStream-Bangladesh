@@ -1,6 +1,8 @@
 api.barisalboard.gov.bd
+apps.jamalpurttc.gov.bd
 autodiscover.bhairabtsc.gov.bd
 autodiscover.bpemc.gov.bd
+backup.fima.gov.bd
 bdp.gov.bd
 beta.nicrh.gov.bd
 bhairabtsc.gov.bd
@@ -53,6 +55,7 @@ webdisk.bpemc.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bpemc.gov.bd
 webmail.moulvibazartsc.gov.bd
+www.backup.fima.gov.bd
 www.beta.nicrh.gov.bd
 www.bhairabtsc.gov.bd
 www.bpemc.gov.bd
