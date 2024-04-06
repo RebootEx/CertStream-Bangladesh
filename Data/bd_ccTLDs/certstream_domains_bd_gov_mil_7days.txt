@@ -9,6 +9,7 @@ app.dghs.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
 apps.gjkagc.gov.bd
+apps.jamalpurttc.gov.bd
 autoconfig.bepza.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.joyparatsc.gov.bd
@@ -306,6 +307,7 @@ navy.mil.bd
 nazipurpourashava.gov.bd
 new.pict.gov.bd
 new.rgamc.gov.bd
+newsite.zsorangpur.gov.bd
 nidproxy.mcishr.dghs.gov.bd
 nise-dev.niseee.gov.bd
 niseee.gov.bd
@@ -343,6 +345,7 @@ register.gameapp.gov.bd
 report.ec4j.gov.bd
 report.gov.bd
 rims.dgda.gov.bd
+rms.bscl.gov.bd
 ror.dc-rangamati.gov.bd
 rpl-dev.niseee.gov.bd
 rrfrangpur.gov.bd
@@ -441,6 +444,7 @@ www.admission.akcc.gov.bd
 www.akkelpurmunicipality.gov.bd
 www.api-milkvita.idsdp.rdcd.gov.bd
 www.apps.gjkagc.gov.bd
+www.apps.jamalpurttc.gov.bd
 www.attimage.rdodterangpur.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ban-fima-web.fima.gov.bd
@@ -528,6 +532,7 @@ www.nationalmuseumticket.gov.bd
 www.navy.mil.bd
 www.new.pict.gov.bd
 www.new.rgamc.gov.bd
+www.newsite.zsorangpur.gov.bd
 www.nnsop.gov.bd
 www.notarypublic.gov.bd
 www.ntrc.gameapp.gov.bd
