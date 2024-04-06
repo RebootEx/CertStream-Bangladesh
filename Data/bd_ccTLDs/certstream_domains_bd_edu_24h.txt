@@ -42,6 +42,7 @@ cpanel.icc.edu.bd
 cpanel.jannahighschool.edu.bd
 cpanel.matlabcollege.edu.bd
 cpanel.mokterpursgs.edu.bd
+cpanel.ohs.edu.bd
 cpanel.pcuarss.edu.bd
 cpanel.shalmarahs.edu.bd
 cpanel.shsm.edu.bd
@@ -51,6 +52,7 @@ cpcalendars.icc.edu.bd
 cpcalendars.jannahighschool.edu.bd
 cpcalendars.matlabcollege.edu.bd
 cpcalendars.mokterpursgs.edu.bd
+cpcalendars.ohs.edu.bd
 cpcalendars.shalmarahs.edu.bd
 cpcalendars.shsm.edu.bd
 cpcontacts.chandigarhighschool.edu.bd
@@ -59,6 +61,7 @@ cpcontacts.icc.edu.bd
 cpcontacts.jannahighschool.edu.bd
 cpcontacts.matlabcollege.edu.bd
 cpcontacts.mokterpursgs.edu.bd
+cpcontacts.ohs.edu.bd
 cpcontacts.shalmarahs.edu.bd
 cpcontacts.shsm.edu.bd
 cpscramu.edu.bd
@@ -133,6 +136,7 @@ mail.krshs.edu.bd
 mail.matlabcollege.edu.bd
 mail.mhhs.edu.bd
 mail.mokterpursgs.edu.bd
+mail.ohs.edu.bd
 mail.pcuarss.edu.bd
 mail.shalmarahs.edu.bd
 mail.shsm.edu.bd
@@ -142,7 +146,9 @@ mangrove.edu.bd
 mathurapurblhs.edu.bd
 matlabcollege.edu.bd
 matlabcollege.edu.bd.hmsrhs.edu.bd
+mgili.edu.bd
 mhhs.edu.bd
+mihdm.edu.bd
 misterislotgacor.gccc.edu.bd
 mmanchs.edu.bd
 mnjhs.edu.bd
@@ -156,6 +162,7 @@ ngvc.edu.bd
 nisha.cti.edu.bd
 njac.edu.bd
 nwdcr.edu.bd
+ohs.edu.bd
 oldproject.sbhsc.edu.bd
 parents.daffodilvarsity.edu.bd
 payments.smuct.edu.bd
@@ -213,6 +220,7 @@ webdisk.icc.edu.bd
 webdisk.jannahighschool.edu.bd
 webdisk.matlabcollege.edu.bd
 webdisk.mokterpursgs.edu.bd
+webdisk.ohs.edu.bd
 webdisk.shalmarahs.edu.bd
 webdisk.shsm.edu.bd
 webmail.chandigarhighschool.edu.bd
@@ -221,6 +229,7 @@ webmail.icc.edu.bd
 webmail.jannahighschool.edu.bd
 webmail.matlabcollege.edu.bd
 webmail.mokterpursgs.edu.bd
+webmail.ohs.edu.bd
 webmail.savaracghighschool.edu.bd
 webmail.shalmarahs.edu.bd
 webmail.shsm.edu.bd
@@ -265,6 +274,7 @@ www.m.bdsdm.edu.bd
 www.mangrove.edu.bd
 www.matlabcollege.edu.bd
 www.matlabcollege.edu.bd.hmsrhs.edu.bd
+www.mgili.edu.bd
 www.mhhs.edu.bd
 www.misterislotgacor.gccc.edu.bd
 www.mmc.urma.edu.bd
@@ -272,6 +282,7 @@ www.mokterpursgs.edu.bd
 www.nababpurhighschool.edu.bd
 www.news.ihsb.edu.bd
 www.nisha.cti.edu.bd
+www.ohs.edu.bd
 www.oldproject.sbhsc.edu.bd
 www.p1-reg.bcps.edu.bd
 www.pcuarss.edu.bd
