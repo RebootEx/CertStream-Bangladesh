@@ -5,6 +5,7 @@ admission.uca.edu.bd
 ahica.edu.bd
 airamaryghs.edu.bd
 alumni.ihsb.edu.bd
+alumni.smuct.edu.bd
 ambaganhs.edu.bd
 ardc.edu.bd
 arsc.edu.bd
@@ -37,6 +38,7 @@ charhoglass.edu.bd
 codechefer.com.jathaliaashs.edu.bd
 cpanel.chandigarhighschool.edu.bd
 cpanel.cpscramu.edu.bd
+cpanel.icc.edu.bd
 cpanel.jannahighschool.edu.bd
 cpanel.matlabcollege.edu.bd
 cpanel.mokterpursgs.edu.bd
@@ -45,6 +47,7 @@ cpanel.shalmarahs.edu.bd
 cpanel.shsm.edu.bd
 cpcalendars.chandigarhighschool.edu.bd
 cpcalendars.cpscramu.edu.bd
+cpcalendars.icc.edu.bd
 cpcalendars.jannahighschool.edu.bd
 cpcalendars.matlabcollege.edu.bd
 cpcalendars.mokterpursgs.edu.bd
@@ -52,6 +55,7 @@ cpcalendars.shalmarahs.edu.bd
 cpcalendars.shsm.edu.bd
 cpcontacts.chandigarhighschool.edu.bd
 cpcontacts.cpscramu.edu.bd
+cpcontacts.icc.edu.bd
 cpcontacts.jannahighschool.edu.bd
 cpcontacts.matlabcollege.edu.bd
 cpcontacts.mokterpursgs.edu.bd
@@ -65,6 +69,7 @@ demo.simecinstitute.edu.bd
 dghsn.edu.bd
 dhalaschoolandcollege.edu.bd
 dharmapurhighschool.edu.bd
+dmc94.edu.bd
 dmfhc.edu.bd
 dmid.edu.bd
 dml.edu.bd
@@ -75,6 +80,7 @@ eschool.ekdhs.edu.bd
 faridpurgghs.edu.bd
 fbsju.edu.bd
 ftp.pcuarss.edu.bd
+gabnahs.edu.bd
 ganguriacollege.edu.bd
 gghscn.edu.bd
 ghdc.edu.bd
@@ -82,6 +88,7 @@ gipi.edu.bd
 gopalpurknhsc.edu.bd
 gourshs.edu.bd
 govsmc.edu.bd
+h2hs.edu.bd
 habn.edu.bd
 hafijakhatunghs.edu.bd
 hajigonjpilotgirls.edu.bd
@@ -90,6 +97,7 @@ harimohanschool.edu.bd
 hartagirlshs.edu.bd
 hatbakoilhs.edu.bd
 hurkagirlsschool.edu.bd
+icc.edu.bd
 imperial.edu.bd
 internationalschoolsaidpur.edu.bd
 iphsc.edu.bd
@@ -97,7 +105,9 @@ jabedaliinstitution.edu.bd
 jaintapurgovths.edu.bd
 jannahighschool.edu.bd
 jisc.edu.bd
+jobs.smuct.edu.bd
 kaidimahs.edu.bd
+kajrghs.edu.bd
 kalidaskuhs.edu.bd
 kasimalimhsfenchu.edu.bd
 kawghsnandigram.edu.bd
@@ -117,6 +127,7 @@ mail.bbghs.edu.bd
 mail.chandigarhighschool.edu.bd
 mail.cpscramu.edu.bd
 mail.dpshs.edu.bd
+mail.icc.edu.bd
 mail.jannahighschool.edu.bd
 mail.krshs.edu.bd
 mail.matlabcollege.edu.bd
@@ -147,6 +158,7 @@ njac.edu.bd
 nwdcr.edu.bd
 oldproject.sbhsc.edu.bd
 parents.daffodilvarsity.edu.bd
+payments.smuct.edu.bd
 pbhs122465.edu.bd
 pcuarss.edu.bd
 piarapurrm.edu.bd
@@ -174,6 +186,7 @@ shsm.edu.bd
 slotgacorhariini.gccc.edu.bd
 smarthasch.edu.bd
 smbis.edu.bd
+smict.edu.bd
 sms.lmbhs.edu.bd
 software.alhajaliachiyahighschool.edu.bd
 solaparahs.edu.bd
@@ -196,6 +209,7 @@ victoriahs-sreemangal.edu.bd
 warihighschool.edu.bd
 webdisk.chandigarhighschool.edu.bd
 webdisk.cpscramu.edu.bd
+webdisk.icc.edu.bd
 webdisk.jannahighschool.edu.bd
 webdisk.matlabcollege.edu.bd
 webdisk.mokterpursgs.edu.bd
@@ -203,6 +217,7 @@ webdisk.shalmarahs.edu.bd
 webdisk.shsm.edu.bd
 webmail.chandigarhighschool.edu.bd
 webmail.cpscramu.edu.bd
+webmail.icc.edu.bd
 webmail.jannahighschool.edu.bd
 webmail.matlabcollege.edu.bd
 webmail.mokterpursgs.edu.bd
@@ -236,6 +251,7 @@ www.fbsju.edu.bd
 www.gourshs.edu.bd
 www.hafijakhatunghs.edu.bd
 www.hatbakoilhs.edu.bd
+www.icc.edu.bd
 www.imperial.edu.bd
 www.jaintapurgovths.edu.bd
 www.jannahighschool.edu.bd
@@ -278,5 +294,6 @@ www.tttc.edu.bd
 www.tuition.rpsu.edu.bd
 www.ukhs.edu.bd
 www.victoriahs-sreemangal.edu.bd
+www.web.smict.edu.bd
 www.ziihs.aphs.edu.bd
 ziihs.aphs.edu.bd
