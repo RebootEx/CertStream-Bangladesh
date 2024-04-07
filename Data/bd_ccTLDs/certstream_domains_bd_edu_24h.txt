@@ -45,6 +45,7 @@ cpanel.bangalhaliagovernmentcollege.edu.bd
 cpanel.chakrashalakhs.edu.bd
 cpanel.chaksimlahighschool.edu.bd
 cpanel.chuniagarihighschool.edu.bd
+cpanel.ermhs.edu.bd
 cpanel.fdasc.edu.bd
 cpanel.icc.edu.bd
 cpanel.induriahs.edu.bd
@@ -57,6 +58,7 @@ cpcalendars.bangalhaliagovernmentcollege.edu.bd
 cpcalendars.chakrashalakhs.edu.bd
 cpcalendars.chaksimlahighschool.edu.bd
 cpcalendars.chuniagarihighschool.edu.bd
+cpcalendars.ermhs.edu.bd
 cpcalendars.fdasc.edu.bd
 cpcalendars.icc.edu.bd
 cpcalendars.induriahs.edu.bd
@@ -68,6 +70,7 @@ cpcontacts.bangalhaliagovernmentcollege.edu.bd
 cpcontacts.chakrashalakhs.edu.bd
 cpcontacts.chaksimlahighschool.edu.bd
 cpcontacts.chuniagarihighschool.edu.bd
+cpcontacts.ermhs.edu.bd
 cpcontacts.fdasc.edu.bd
 cpcontacts.icc.edu.bd
 cpcontacts.induriahs.edu.bd
@@ -79,9 +82,11 @@ demo.msmfm.edu.bd
 dewataliadm.edu.bd
 dgrdc.edu.bd
 dpgdhs.edu.bd
+dphs12628967.edu.bd
 duchs.edu.bd
 edrc.zums.edu.bd
 edu.bd.traumainstitute.edu.bd
+ermhs.edu.bd
 exam.kharkhoriadm.edu.bd
 fdasc.edu.bd
 ftp.sfmsj.edu.bd
@@ -118,6 +123,7 @@ iims.sstactapobanhs.edu.bd
 imperial.edu.bd
 ims.babulcharahs.edu.bd
 induriahs.edu.bd
+iqraidealhs.edu.bd
 jdudm.edu.bd
 jhacademy.edu.bd
 jsdbuweo.ndhc.edu.bd
@@ -140,6 +146,7 @@ mail.bbghs.edu.bd
 mail.chakrashalakhs.edu.bd
 mail.chaksimlahighschool.edu.bd
 mail.chuniagarihighschool.edu.bd
+mail.ermhs.edu.bd
 mail.fdasc.edu.bd
 mail.hmjacc.edu.bd
 mail.icc.edu.bd
@@ -165,6 +172,7 @@ mhsts.edu.bd
 mjfsc.edu.bd
 mmemorialcollege.edu.bd
 msmc.edu.bd
+muahs.edu.bd
 mufm118584.edu.bd
 mumiam.edu.bd
 munshirhatcollege.edu.bd
@@ -212,6 +220,7 @@ shyamolinursing.edu.bd
 slotqris.gccc.edu.bd
 slotterpercaya88.gccc.edu.bd
 sms.hamdarduniversity.edu.bd
+sndm.edu.bd
 soft.bkav.edu.bd
 spring.hamdarduniversity.edu.bd
 srdmp.edu.bd
@@ -228,6 +237,7 @@ traumawomensmats.edu.bd
 tv.sgcdn.edu.bd
 tytc.edu.bd
 uasbdlkw.ndhc.edu.bd
+ucimt.edu.bd
 ulipuraghs.edu.bd
 url.ahskbera.edu.bd
 vennabariuhs.edu.bd
@@ -237,6 +247,7 @@ webdisk.bangalhaliagovernmentcollege.edu.bd
 webdisk.chakrashalakhs.edu.bd
 webdisk.chaksimlahighschool.edu.bd
 webdisk.chuniagarihighschool.edu.bd
+webdisk.ermhs.edu.bd
 webdisk.fdasc.edu.bd
 webdisk.icc.edu.bd
 webdisk.induriahs.edu.bd
@@ -248,6 +259,7 @@ webmail.bangalhaliagovernmentcollege.edu.bd
 webmail.chakrashalakhs.edu.bd
 webmail.chaksimlahighschool.edu.bd
 webmail.chuniagarihighschool.edu.bd
+webmail.ermhs.edu.bd
 webmail.fdasc.edu.bd
 webmail.icc.edu.bd
 webmail.induriahs.edu.bd
@@ -284,8 +296,10 @@ www.chourait.edu.bd
 www.chuniagarihighschool.edu.bd
 www.course.hamdarduniversity.edu.bd
 www.dewataliadm.edu.bd
+www.dphs12628967.edu.bd
 www.duchs.edu.bd
 www.edrc.zums.edu.bd
+www.ermhs.edu.bd
 www.exam.kharkhoriadm.edu.bd
 www.fdasc.edu.bd
 www.glenrich.edu.bd
