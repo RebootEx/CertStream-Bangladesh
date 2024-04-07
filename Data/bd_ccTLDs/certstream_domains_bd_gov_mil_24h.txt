@@ -1,3 +1,4 @@
+app.patgrammunicipality.gov.bd
 apps.jamalpurttc.gov.bd
 backup.fima.gov.bd
 bstieapp.gov.bd
@@ -10,6 +11,7 @@ dhakala.gov.bd
 durjog.gov.bd
 emrddashboard.gov.bd
 enoc.fireservice.gov.bd
+fpmu.mofood.gov.bd
 hosenabadtsc.gov.bd
 hrm.dghs.gov.bd
 ipv6.durjog.gov.bd
@@ -28,6 +30,7 @@ ntrc.gameapp.gov.bd
 pdb.shrlive.dghs.gov.bd
 register.gameapp.gov.bd
 rpi.gov.bd
+spst.gov.bd
 test.gameapp.gov.bd
 unorupganj.gov.bd
 vr.gameapp.gov.bd
@@ -37,6 +40,7 @@ www.apps.jamalpurttc.gov.bd
 www.backup.fima.gov.bd
 www.bstieapp.gov.bd
 www.durjog.gov.bd
+www.fpmu.mofood.gov.bd
 www.mail.bsfmstu.gameapp.gov.bd
 www.mail.du.gameapp.gov.bd
 www.majidpurup.gov.bd

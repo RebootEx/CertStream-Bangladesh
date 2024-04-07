@@ -5,6 +5,7 @@ ace.edu.bd
 admission.uca.edu.bd
 aehs.edu.bd
 alksjbdu.ndhc.edu.bd
+asbmdm.edu.bd
 aunhs.edu.bd
 autodiscover.admission.uca.edu.bd
 autodiscover.bangalhaliagovernmentcollege.edu.bd
@@ -18,6 +19,7 @@ balokdiarhs.edu.bd
 bangalhaliagovernmentcollege.edu.bd
 baznabogirlshighschool.edu.bd
 bbghs.edu.bd
+bbic.edu.bd
 bdcip.edu.bd
 bhatparancguptahighschool.edu.bd
 bholagovtcollege.edu.bd
@@ -33,6 +35,7 @@ course.hamdarduniversity.edu.bd
 cpanel.bangalhaliagovernmentcollege.edu.bd
 cpanel.chakrashalakhs.edu.bd
 cpanel.chuniagarihighschool.edu.bd
+cpanel.fdasc.edu.bd
 cpanel.icc.edu.bd
 cpanel.induriahs.edu.bd
 cpanel.kaikurirmhs.edu.bd
@@ -43,6 +46,7 @@ cpanel.sharifbagikm.edu.bd
 cpcalendars.bangalhaliagovernmentcollege.edu.bd
 cpcalendars.chakrashalakhs.edu.bd
 cpcalendars.chuniagarihighschool.edu.bd
+cpcalendars.fdasc.edu.bd
 cpcalendars.icc.edu.bd
 cpcalendars.induriahs.edu.bd
 cpcalendars.kaikurirmhs.edu.bd
@@ -52,6 +56,7 @@ cpcalendars.sharifbagikm.edu.bd
 cpcontacts.bangalhaliagovernmentcollege.edu.bd
 cpcontacts.chakrashalakhs.edu.bd
 cpcontacts.chuniagarihighschool.edu.bd
+cpcontacts.fdasc.edu.bd
 cpcontacts.icc.edu.bd
 cpcontacts.induriahs.edu.bd
 cpcontacts.kaikurirmhs.edu.bd
@@ -61,12 +66,17 @@ cpcontacts.sharifbagikm.edu.bd
 demo.msmfm.edu.bd
 dewataliadm.edu.bd
 dgrdc.edu.bd
+dpgdhs.edu.bd
 edu.bd.traumainstitute.edu.bd
 exam.kharkhoriadm.edu.bd
+fdasc.edu.bd
 ftp.sfmsj.edu.bd
 gabnahs.edu.bd
+glenrich.edu.bd
 gopalghatahighschool.edu.bd
+gopalpurdm.edu.bd
 h2hs.edu.bd
+hamdardpubliccollege.edu.bd
 heakmam.edu.bd
 hkghs.edu.bd
 icc.edu.bd
@@ -107,11 +117,13 @@ laxmipurgovtcollege.edu.bd
 lib.su.edu.bd
 lms.mangrove.edu.bd
 lobjancghsc.edu.bd
+mail.asbmdm.edu.bd
 mail.aunhs.edu.bd
 mail.bangalhaliagovernmentcollege.edu.bd
 mail.bbghs.edu.bd
 mail.chakrashalakhs.edu.bd
 mail.chuniagarihighschool.edu.bd
+mail.fdasc.edu.bd
 mail.hmjacc.edu.bd
 mail.icc.edu.bd
 mail.induriahs.edu.bd
@@ -146,11 +158,14 @@ old.aift.edu.bd
 pabsm118579.edu.bd
 palshakrishnapurhighschool.edu.bd
 patc.edu.bd
+pekuagirlshighschool.edu.bd
+pgovmgmci.edu.bd
 presidencybd.edu.bd
 psdiwnek.ndhc.edu.bd
 puthimarihs.edu.bd
 qcsc.edu.bd
 radhapurhs.edu.bd
+rajakhalispamuidm.edu.bd
 rajganjhighschool.edu.bd
 rammohanhs.edu.bd
 ramms.edu.bd
@@ -182,6 +197,8 @@ soft.bkav.edu.bd
 spring.hamdarduniversity.edu.bd
 srdmp.edu.bd
 sstactapobanhs.edu.bd
+study-admin.ronit.edu.bd
+study.ronit.edu.bd
 swe.application.daffodilvarsity.edu.bd
 symposium.daffodilvarsity.edu.bd
 traumaimt.edu.bd
@@ -199,6 +216,7 @@ visitors.green.edu.bd
 webdisk.bangalhaliagovernmentcollege.edu.bd
 webdisk.chakrashalakhs.edu.bd
 webdisk.chuniagarihighschool.edu.bd
+webdisk.fdasc.edu.bd
 webdisk.icc.edu.bd
 webdisk.induriahs.edu.bd
 webdisk.kaikurirmhs.edu.bd
@@ -208,6 +226,7 @@ webdisk.sharifbagikm.edu.bd
 webmail.bangalhaliagovernmentcollege.edu.bd
 webmail.chakrashalakhs.edu.bd
 webmail.chuniagarihighschool.edu.bd
+webmail.fdasc.edu.bd
 webmail.icc.edu.bd
 webmail.induriahs.edu.bd
 webmail.kaikurirmhs.edu.bd
@@ -223,6 +242,7 @@ www.admission.presidencybd.edu.bd
 www.admission.uca.edu.bd
 www.aehs.edu.bd
 www.alksjbdu.ndhc.edu.bd
+www.asbmdm.edu.bd
 www.aunhs.edu.bd
 www.babulcharahs.edu.bd
 www.balokdiarhs.edu.bd
@@ -239,6 +259,9 @@ www.chuniagarihighschool.edu.bd
 www.course.hamdarduniversity.edu.bd
 www.dewataliadm.edu.bd
 www.exam.kharkhoriadm.edu.bd
+www.fdasc.edu.bd
+www.glenrich.edu.bd
+www.gopalpurdm.edu.bd
 www.heakmam.edu.bd
 www.hkghs.edu.bd
 www.icc.edu.bd
@@ -284,9 +307,12 @@ www.narbdm.edu.bd
 www.ocrs.hamdarduniversity.edu.bd
 www.old.aift.edu.bd
 www.palshakrishnapurhighschool.edu.bd
+www.pekuagirlshighschool.edu.bd
+www.pgovmgmci.edu.bd
 www.psdiwnek.ndhc.edu.bd
 www.puthimarihs.edu.bd
 www.radhapurhs.edu.bd
+www.rajakhalispamuidm.edu.bd
 www.rajganjhighschool.edu.bd
 www.rammohanhs.edu.bd
 www.ramms.edu.bd
@@ -310,6 +336,8 @@ www.soft.bkav.edu.bd
 www.spring.hamdarduniversity.edu.bd
 www.srdmp.edu.bd
 www.sstactapobanhs.edu.bd
+www.study-admin.ronit.edu.bd
+www.study.ronit.edu.bd
 www.traumaimt.edu.bd.traumainstitute.edu.bd
 www.traumamats.edu.bd.traumainstitute.edu.bd
 www.traumanursing.edu.bd.traumainstitute.edu.bd
