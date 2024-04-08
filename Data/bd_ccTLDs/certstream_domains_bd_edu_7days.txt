@@ -93,6 +93,7 @@ app.aauhs.edu.bd
 app.mjfsc.edu.bd
 app.pochamariacollege.edu.bd
 arbs.edu.bd
+archive.saulibrary.edu.bd
 ardc.edu.bd
 armc.edu.bd
 arobschool.edu.bd
@@ -505,6 +506,7 @@ cpanel.dariapuramanullahhs.edu.bd
 cpanel.darushacollege.edu.bd
 cpanel.dhankorahighschool.edu.bd
 cpanel.dklgdmad.edu.bd
+cpanel.dlmch.edu.bd
 cpanel.dssdc.edu.bd
 cpanel.dzuam.edu.bd
 cpanel.ermhs.edu.bd
@@ -607,6 +609,7 @@ cpanel.sultanpurhighschool.edu.bd
 cpanel.tarakandihighschool.edu.bd
 cpanel.tgpmhs.edu.bd
 cpanel.trimohanihs.edu.bd
+cpanel.ttcdhaka.edu.bd
 cpanel.urphs.edu.bd
 cpanel.wsmhs.edu.bd
 cpanel.zcbmc.edu.bd
@@ -659,6 +662,7 @@ cpcalendars.dariapuramanullahhs.edu.bd
 cpcalendars.darushacollege.edu.bd
 cpcalendars.dhankorahighschool.edu.bd
 cpcalendars.dklgdmad.edu.bd
+cpcalendars.dlmch.edu.bd
 cpcalendars.dssdc.edu.bd
 cpcalendars.dzuam.edu.bd
 cpcalendars.ermhs.edu.bd
@@ -756,6 +760,7 @@ cpcalendars.sultanpurhighschool.edu.bd
 cpcalendars.tarakandihighschool.edu.bd
 cpcalendars.tgpmhs.edu.bd
 cpcalendars.trimohanihs.edu.bd
+cpcalendars.ttcdhaka.edu.bd
 cpcalendars.urphs.edu.bd
 cpcalendars.wsmhs.edu.bd
 cpcalendars.zcbmc.edu.bd
@@ -807,6 +812,7 @@ cpcontacts.dariapuramanullahhs.edu.bd
 cpcontacts.darushacollege.edu.bd
 cpcontacts.dhankorahighschool.edu.bd
 cpcontacts.dklgdmad.edu.bd
+cpcontacts.dlmch.edu.bd
 cpcontacts.dssdc.edu.bd
 cpcontacts.dzuam.edu.bd
 cpcontacts.ermhs.edu.bd
@@ -904,6 +910,7 @@ cpcontacts.sultanpurhighschool.edu.bd
 cpcontacts.tarakandihighschool.edu.bd
 cpcontacts.tgpmhs.edu.bd
 cpcontacts.trimohanihs.edu.bd
+cpcontacts.ttcdhaka.edu.bd
 cpcontacts.urphs.edu.bd
 cpcontacts.wsmhs.edu.bd
 cpcontacts.zcbmc.edu.bd
@@ -979,6 +986,7 @@ djsis.edu.bd
 dkcsschool.edu.bd
 dklgdmad.edu.bd
 dkschoolandcollge.edu.bd
+dlmch.edu.bd
 dmaghs.edu.bd
 dmc94.edu.bd
 dmfhc.edu.bd
@@ -1206,6 +1214,7 @@ iims.srdmp.edu.bd
 iims.sstactapobanhs.edu.bd
 ijcaci2020.daffodilvarsity.edu.bd
 ikalihschool.edu.bd
+imadm.edu.bd
 image.edu.bd
 imkm.edu.bd
 imperial.edu.bd
@@ -1470,6 +1479,7 @@ mail.darushacollege.edu.bd
 mail.dhankorahighschool.edu.bd
 mail.dhobaurabghs.edu.bd
 mail.dklgdmad.edu.bd
+mail.dlmch.edu.bd
 mail.doulatpurhoquebahadurhs.edu.bd
 mail.dpshs.edu.bd
 mail.drhs1925.edu.bd
@@ -1628,6 +1638,7 @@ mail.tilabadulamhs.edu.bd
 mail.tjmhs.edu.bd
 mail.tpdm.edu.bd
 mail.trimohanihs.edu.bd
+mail.ttcdhaka.edu.bd
 mail.tttc.edu.bd
 mail.ubchs.edu.bd
 mail.ugv.edu.bd
@@ -1675,6 +1686,7 @@ mhsku.edu.bd
 mhslalpur.edu.bd
 mhsp.edu.bd
 mhsts.edu.bd
+mienterprise.com.bd.ktc.edu.bd
 mihdm.edu.bd
 mirkundihighschool.edu.bd
 mirsaraigirlshighschool.edu.bd
@@ -2174,6 +2186,7 @@ trimohanihs.edu.bd
 tshs.edu.bd
 tsshs.edu.bd
 ttaghs.edu.bd
+ttcdhaka.edu.bd
 tts.edu.bd
 tttc.edu.bd
 tushkhalicollege.edu.bd
@@ -2269,6 +2282,7 @@ webdisk.dariapuramanullahhs.edu.bd
 webdisk.darushacollege.edu.bd
 webdisk.dhankorahighschool.edu.bd
 webdisk.dklgdmad.edu.bd
+webdisk.dlmch.edu.bd
 webdisk.dssdc.edu.bd
 webdisk.dzuam.edu.bd
 webdisk.ermhs.edu.bd
@@ -2367,6 +2381,7 @@ webdisk.sultanpurhighschool.edu.bd
 webdisk.tarakandihighschool.edu.bd
 webdisk.tgpmhs.edu.bd
 webdisk.trimohanihs.edu.bd
+webdisk.ttcdhaka.edu.bd
 webdisk.urphs.edu.bd
 webdisk.wsmhs.edu.bd
 webdisk.zcbmc.edu.bd
@@ -2419,6 +2434,7 @@ webmail.dariapuramanullahhs.edu.bd
 webmail.darushacollege.edu.bd
 webmail.dhankorahighschool.edu.bd
 webmail.dklgdmad.edu.bd
+webmail.dlmch.edu.bd
 webmail.dssdc.edu.bd
 webmail.dzuam.edu.bd
 webmail.ermhs.edu.bd
@@ -2522,6 +2538,7 @@ webmail.sultanpurhighschool.edu.bd
 webmail.tarakandihighschool.edu.bd
 webmail.tgpmhs.edu.bd
 webmail.trimohanihs.edu.bd
+webmail.ttcdhaka.edu.bd
 webmail.ugv.edu.bd
 webmail.urphs.edu.bd
 webmail.wsmhs.edu.bd
@@ -2583,6 +2600,7 @@ www.ammc.edu.bd
 www.app.aauhs.edu.bd
 www.app.mjfsc.edu.bd
 www.application.bcps.edu.bd
+www.archive.saulibrary.edu.bd
 www.ardc.edu.bd
 www.arpangashiapnhs.edu.bd.aaksac.edu.bd
 www.asahs.edu.bd
@@ -2729,6 +2747,7 @@ www.dhanpuraphs.edu.bd
 www.dhobaurabghs.edu.bd
 www.dhobaurabghs.edu.bd.khamarbashahighschool.edu.bd
 www.dklgdmad.edu.bd
+www.dlmch.edu.bd
 www.dnidm.edu.bd
 www.doulatpurhoquebahadurhs.edu.bd
 www.dpghighschool.edu.bd.mkshs.edu.bd
@@ -2832,6 +2851,7 @@ www.iims.ruppurhs.edu.bd
 www.iims.sarghsp.edu.bd
 www.iims.srdmp.edu.bd
 www.iims.sstactapobanhs.edu.bd
+www.imadm.edu.bd
 www.imperial.edu.bd
 www.ims.babulcharahs.edu.bd
 www.inderzaniphs.edu.bd
@@ -2940,6 +2960,7 @@ www.mgs.edu.bd
 www.mhhs.edu.bd
 www.mhslalpur.edu.bd
 www.mhsp.edu.bd
+www.mienterprise.com.bd.ktc.edu.bd
 www.mirpurimt.edu.bd.traumainstitute.edu.bd
 www.mirsaraigirlshighschool.edu.bd
 www.mirzarcharhs.edu.bd
@@ -3176,6 +3197,7 @@ www.traumanursing.edu.bd.traumainstitute.edu.bd
 www.traumawomensmats.edu.bd.traumainstitute.edu.bd
 www.trhighschool.edu.bd.abjmhs.edu.bd
 www.trimohanihs.edu.bd
+www.ttcdhaka.edu.bd
 www.tts.edu.bd.pekuahs.edu.bd
 www.tttc.edu.bd
 www.tuition.rpsu.edu.bd
