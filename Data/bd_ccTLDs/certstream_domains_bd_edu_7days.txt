@@ -151,6 +151,7 @@ autodiscover.dklgdmad.edu.bd
 autodiscover.gbss100032.edu.bd
 autodiscover.ghostadmhighschool.edu.bd
 autodiscover.gikm.edu.bd
+autodiscover.gohirakamilmadrasah.edu.bd
 autodiscover.golaidangahighschool.edu.bd
 autodiscover.govmmalicollege.edu.bd
 autodiscover.gschschool.edu.bd
@@ -517,6 +518,7 @@ cpanel.gbss100032.edu.bd
 cpanel.gghs.edu.bd
 cpanel.ghostadmhighschool.edu.bd
 cpanel.gikm.edu.bd
+cpanel.gohirakamilmadrasah.edu.bd
 cpanel.golaidangahighschool.edu.bd
 cpanel.govmmalicollege.edu.bd
 cpanel.govscbog.edu.bd
@@ -594,6 +596,7 @@ cpanel.rikabi.edu.bd
 cpanel.rudmadrasah.edu.bd
 cpanel.saturiagovmphschool.edu.bd
 cpanel.sbhschoolch.edu.bd
+cpanel.sbngghs.edu.bd
 cpanel.scssg.edu.bd
 cpanel.sdmm.edu.bd
 cpanel.sfmsj.edu.bd
@@ -673,6 +676,7 @@ cpcalendars.gbss100032.edu.bd
 cpcalendars.gghs.edu.bd
 cpcalendars.ghostadmhighschool.edu.bd
 cpcalendars.gikm.edu.bd
+cpcalendars.gohirakamilmadrasah.edu.bd
 cpcalendars.golaidangahighschool.edu.bd
 cpcalendars.govmmalicollege.edu.bd
 cpcalendars.govscbog.edu.bd
@@ -746,6 +750,7 @@ cpcalendars.rikabi.edu.bd
 cpcalendars.rudmadrasah.edu.bd
 cpcalendars.saturiagovmphschool.edu.bd
 cpcalendars.sbhschoolch.edu.bd
+cpcalendars.sbngghs.edu.bd
 cpcalendars.scssg.edu.bd
 cpcalendars.sdmm.edu.bd
 cpcalendars.sgmsc.edu.bd
@@ -823,6 +828,7 @@ cpcontacts.gbss100032.edu.bd
 cpcontacts.gghs.edu.bd
 cpcontacts.ghostadmhighschool.edu.bd
 cpcontacts.gikm.edu.bd
+cpcontacts.gohirakamilmadrasah.edu.bd
 cpcontacts.golaidangahighschool.edu.bd
 cpcontacts.govmmalicollege.edu.bd
 cpcontacts.govscbog.edu.bd
@@ -896,6 +902,7 @@ cpcontacts.rikabi.edu.bd
 cpcontacts.rudmadrasah.edu.bd
 cpcontacts.saturiagovmphschool.edu.bd
 cpcontacts.sbhschoolch.edu.bd
+cpcontacts.sbngghs.edu.bd
 cpcontacts.scssg.edu.bd
 cpcontacts.sdmm.edu.bd
 cpcontacts.sgmsc.edu.bd
@@ -1112,6 +1119,7 @@ globe.proyashrangpur.edu.bd
 gmc4328.edu.bd
 gobarchapahaths.edu.bd
 gobindapurhsgbc.edu.bd
+gohirakamilmadrasah.edu.bd
 golaidangahighschool.edu.bd
 gopalghatahighschool.edu.bd
 gopalpurdm.edu.bd
@@ -1151,6 +1159,7 @@ hashimpurmphs.edu.bd
 hatbakoilhs.edu.bd
 hatgabindapurhs.edu.bd
 hazrabarihighschool.edu.bd
+hbhss.edu.bd
 hbmc.edu.bd
 hceihs.edu.bd
 hcnc.edu.bd
@@ -1269,6 +1278,7 @@ jhhschool.edu.bd
 jhsfulbari.edu.bd
 jhsm.edu.bd
 jifdm.edu.bd
+jis.edu.bd
 jisc.edu.bd
 jisdm.edu.bd
 jjgkhs.edu.bd
@@ -1345,6 +1355,7 @@ kist.edu.bd
 kkhhs.edu.bd
 kksschool.edu.bd
 klghs1966.edu.bd
+klidm.edu.bd
 kmdcollege.edu.bd
 kmm118600.edu.bd
 kmmainuddin.edu.bd
@@ -1494,6 +1505,7 @@ mail.gbss100032.edu.bd
 mail.gghs.edu.bd
 mail.ghostadmhighschool.edu.bd
 mail.gikm.edu.bd
+mail.gohirakamilmadrasah.edu.bd
 mail.golaidangahighschool.edu.bd
 mail.gopalpurhs.edu.bd
 mail.govmmalicollege.edu.bd
@@ -1609,6 +1621,7 @@ mail.samhschool.edu.bd
 mail.sarkarhatnazaralirupzanhighschool.edu.bd
 mail.saturiagovmphschool.edu.bd
 mail.sbhschoolch.edu.bd
+mail.sbngghs.edu.bd
 mail.scssg.edu.bd
 mail.sdmm.edu.bd
 mail.sebhs.edu.bd
@@ -1759,6 +1772,7 @@ nasck.edu.bd
 nataramhighschool.edu.bd
 natherkandihs.edu.bd
 nationalidealschool.edu.bd
+navycollegectg.edu.bd
 nayabazarhighschool.edu.bd
 nayakhalihighschool.edu.bd
 nayergaonhs.edu.bd
@@ -2018,6 +2032,7 @@ sbhsc.aphs.edu.bd
 sbhschool.edu.bd
 sbhschoolch.edu.bd
 sbmc.edu.bd
+sbngghs.edu.bd
 sbrcollege.edu.bd
 scchs.edu.bd
 scholarship.daffodilvarsity.edu.bd
@@ -2062,6 +2077,7 @@ shilakothahighschool.edu.bd
 shimu-rezampcollege.edu.bd
 shiruailhighschool.edu.bd
 shitalpurhighschool.edu.bd
+shmcjgov.edu.bd
 sholakundakdm.edu.bd
 sholakurihschool.edu.bd
 shsac.edu.bd
@@ -2071,6 +2087,7 @@ shyamolinursing.edu.bd
 siddekalihs.edu.bd
 sikarpurghs.edu.bd
 sirajnagarhighschool.edu.bd
+sisb.edu.bd
 siu.edu.bd
 skbss.edu.bd
 skc.edu.bd
@@ -2293,6 +2310,7 @@ webdisk.gbss100032.edu.bd
 webdisk.gghs.edu.bd
 webdisk.ghostadmhighschool.edu.bd
 webdisk.gikm.edu.bd
+webdisk.gohirakamilmadrasah.edu.bd
 webdisk.golaidangahighschool.edu.bd
 webdisk.govmmalicollege.edu.bd
 webdisk.govscbog.edu.bd
@@ -2367,6 +2385,7 @@ webdisk.rikabi.edu.bd
 webdisk.rudmadrasah.edu.bd
 webdisk.saturiagovmphschool.edu.bd
 webdisk.sbhschoolch.edu.bd
+webdisk.sbngghs.edu.bd
 webdisk.scssg.edu.bd
 webdisk.sdmm.edu.bd
 webdisk.sgmsc.edu.bd
@@ -2445,6 +2464,7 @@ webmail.gbss100032.edu.bd
 webmail.gghs.edu.bd
 webmail.ghostadmhighschool.edu.bd
 webmail.gikm.edu.bd
+webmail.gohirakamilmadrasah.edu.bd
 webmail.golaidangahighschool.edu.bd
 webmail.govmmalicollege.edu.bd
 webmail.govscbog.edu.bd
@@ -2523,6 +2543,7 @@ webmail.rudmadrasah.edu.bd
 webmail.saturiagovmphschool.edu.bd
 webmail.savaracghighschool.edu.bd
 webmail.sbhschoolch.edu.bd
+webmail.sbngghs.edu.bd
 webmail.scssg.edu.bd
 webmail.sdmm.edu.bd
 webmail.sfmsj.edu.bd
@@ -2799,6 +2820,7 @@ www.gima.edu.bd
 www.glenrich.edu.bd
 www.glht.edu.bd
 www.globe.proyashrangpur.edu.bd
+www.gohirakamilmadrasah.edu.bd
 www.golaidangahighschool.edu.bd
 www.gopalpurdm.edu.bd
 www.gourshs.edu.bd
@@ -2997,6 +3019,7 @@ www.nacholewomenscollege.edu.bd
 www.nadcollege.edu.bd
 www.nags.edu.bd
 www.narbdm.edu.bd
+www.navycollegectg.edu.bd
 www.nayergaonhs.edu.bd.vdmc.edu.bd
 www.nazimkhanghsedu.nazimkhanhsc.edu.bd
 www.nblgovhs.edu.bd
@@ -3113,6 +3136,7 @@ www.sbhsc.aphs.edu.bd
 www.sbhschool.edu.bd
 www.sbhschoolch.edu.bd
 www.sbmc.edu.bd
+www.sbngghs.edu.bd
 www.sbrcollege.edu.bd
 www.school.aunhs.edu.bd
 www.school.ssesdpmhs.edu.bd
@@ -3230,6 +3254,7 @@ www.zbadhs-ctg.edu.bd
 www.zcbmc.edu.bd
 www.ziihs.aphs.edu.bd
 www.zinoirhs.edu.bd
+yis.edu.bd
 zbadhs-ctg.edu.bd
 zbhs.edu.bd
 zcbmc.edu.bd

@@ -40,6 +40,7 @@ bhairabtsc.gov.bd
 bhpi.gov.bd
 birampurpaurashava.gov.bd
 biwtahydrographicdata.gov.bd
+board.mymensingheducationboard.gov.bd
 bogura.gov.bd
 bpdbivvr.gov.bd
 bpemc.gov.bd
@@ -144,11 +145,14 @@ dis.btrc.gov.bd
 dncrp.gov.bd
 dpg.gov.bd
 dss-dev.niseee.gov.bd
+dtemymensingh.gov.bd
+dtemymensingh.rdodterangpur.gov.bd
 dtesylhet.gov.bd
 dtesylhet.rdodterangpur.gov.bd
 du.gameapp.gov.bd
 durjog.gov.bd
 dyd-dev.niseee.gov.bd
+e-service.mymensingheducationboard.gov.bd
 ebook.cmmc.gov.bd
 edu.bd.gbrcr.gov.bd
 elearning.ec4j.gov.bd
@@ -351,6 +355,7 @@ sgtc.gov.bd
 shariatpurtsc.gov.bd
 sheikhrussel.gov.bd
 shiprecycling.gov.bd
+shmcj.gov.bd
 shsmch.gov.bd
 sid.gov.bd
 smartandikot.gov.bd
@@ -441,6 +446,7 @@ www.beeer.sreda.gov.bd
 www.bepza.gov.bd
 www.beta.nicrh.gov.bd
 www.bhairabtsc.gov.bd
+www.board.mymensingheducationboard.gov.bd
 www.bpemc.gov.bd
 www.bpo.farmbroadcast.gov.bd
 www.bsfmstu.gameapp.gov.bd
@@ -467,10 +473,12 @@ www.dids.btriapps.gov.bd
 www.dividend.ansarvdpbank.gov.bd
 www.dncrp.gov.bd
 www.documents.ansarvdpbank.gov.bd
+www.dtemymensingh.rdodterangpur.gov.bd
 www.dtesylhet.rdodterangpur.gov.bd
 www.du.gameapp.gov.bd
 www.durjog.gov.bd
 www.dutipata.btriapps.gov.bd
+www.e-service.mymensingheducationboard.gov.bd
 www.ebongobondhu.ansarvdpbank.gov.bd
 www.ecampus.bancharampurtsc.gov.bd
 www.ecampus.chhataktsc.gov.bd
