@@ -2,6 +2,7 @@ aah-ex01.asgaralimc.edu.bd
 aah-ex01.frnmi.edu.bd
 aah-ex02.asgaralimc.edu.bd
 aah-ex02.frnmi.edu.bd
+admissionportal.diu.edu.bd
 alhajshiddiquehighschool.edu.bd
 amhqm.edu.bd
 anowaragovtcollege.edu.bd
@@ -26,6 +27,7 @@ barangkulajsdmadrasah.edu.bd
 bashtalahighschool.edu.bd
 batkamarihs.edu.bd
 baznabogirlshighschool.edu.bd
+bfkc.edu.bd
 bgmsc.edu.bd
 bhataraumb.edu.bd
 bhdc.edu.bd
@@ -43,6 +45,7 @@ career.green.edu.bd
 cdcmn.edu.bd
 cgsacollege.edu.bd
 charghatmahadicollege.edu.bd
+chongowngirlshighschool.edu.bd
 chourait.edu.bd
 cjhs.edu.bd
 cpanel.bgmsc.edu.bd
@@ -51,6 +54,7 @@ cpanel.ermhs.edu.bd
 cpanel.fdasc.edu.bd
 cpanel.gbmcwc.edu.bd
 cpanel.gdhskushtia.edu.bd
+cpanel.gnibc.edu.bd
 cpanel.gohirakamilmadrasah.edu.bd
 cpanel.gojariajphighschool.edu.bd
 cpanel.kanderpodiahsk.edu.bd
@@ -68,6 +72,7 @@ cpcalendars.ermhs.edu.bd
 cpcalendars.fdasc.edu.bd
 cpcalendars.gbmcwc.edu.bd
 cpcalendars.gdhskushtia.edu.bd
+cpcalendars.gnibc.edu.bd
 cpcalendars.gohirakamilmadrasah.edu.bd
 cpcalendars.gojariajphighschool.edu.bd
 cpcalendars.kanderpodiahsk.edu.bd
@@ -84,6 +89,7 @@ cpcontacts.ermhs.edu.bd
 cpcontacts.fdasc.edu.bd
 cpcontacts.gbmcwc.edu.bd
 cpcontacts.gdhskushtia.edu.bd
+cpcontacts.gnibc.edu.bd
 cpcontacts.gohirakamilmadrasah.edu.bd
 cpcontacts.gojariajphighschool.edu.bd
 cpcontacts.kanderpodiahsk.edu.bd
@@ -97,22 +103,27 @@ cpcontacts.ugbusm.edu.bd
 cpifeni.edu.bd
 ctc.edu.bd
 daowlatpurdegreecollege.edu.bd
+dcpi.edu.bd
 demo.traumainstitute.edu.bd
 dhamtikm.edu.bd
 dhanpuraphs.edu.bd
+dhekrahs.edu.bd
 dhubauratsc.edu.bd
 diutc.daffodilvarsity.edu.bd
 dmc94.edu.bd
 doulatpurskhs.edu.bd
 ecom.rakm.edu.bd
 ermhs.edu.bd
+erp.comillamodernhighschool.edu.bd
 fatemabegumgirlsschool.edu.bd
 fdasc.edu.bd
 gallakadarshadegreecollege.edu.bd
 gbfdm.edu.bd
+gbhsk.edu.bd
 gbmcwc.edu.bd
 gdhskushtia.edu.bd
 gmc4328.edu.bd
+gnibc.edu.bd
 gohirakamilmadrasah.edu.bd
 gojariajphighschool.edu.bd
 gotatikorblhs.edu.bd
@@ -153,6 +164,7 @@ mail.fdasc.edu.bd
 mail.frnmi.edu.bd
 mail.gbmcwc.edu.bd
 mail.gdhskushtia.edu.bd
+mail.gnibc.edu.bd
 mail.gohirakamilmadrasah.edu.bd
 mail.gojariajphighschool.edu.bd
 mail.ibitsylhet.edu.bd
@@ -186,6 +198,7 @@ nbbhs.edu.bd
 nbc.edu.bd
 ngdc.edu.bd
 nilkhethighschool.edu.bd
+nmhs.edu.bd
 nss1990.edu.bd
 oajagfbk.ndhc.edu.bd
 ohsecoce.ndhc.edu.bd
@@ -195,6 +208,7 @@ pgjhs.edu.bd
 pgs.sau.edu.bd
 play.pundrauniversity.edu.bd
 plbhs.edu.bd
+portal.glenrich.edu.bd
 portal.rtabmc.edu.bd
 primeasia.edu.bd
 pssdm.edu.bd
@@ -215,10 +229,14 @@ sbgc.edu.bd
 sbyc.daffodilvarsity.edu.bd
 shahrastigbhschool.edu.bd
 shaistaganjhighschool.edu.bd
+shalikhaschool.edu.bd
+shaplaacademy.edu.bd
 shmcjgov.edu.bd
 shulpurhighschool.edu.bd
+silverbells.edu.bd
 singarolhs.edu.bd
 slotgacorgampangmaxwin.gccc.edu.bd
+solmaidschoolandcollege.edu.bd
 spdm.edu.bd
 sphsc.edu.bd
 sppuzwhz.ndhc.edu.bd
@@ -236,6 +254,7 @@ tamaihighschool.edu.bd
 tanc.edu.bd
 tarolhs.edu.bd
 teghoriamodelhighschool.edu.bd
+test.bubt.edu.bd
 thutapaikarhs.edu.bd
 thutapaikarhs.edu.bd.npsc.edu.bd
 tilakpuragh.edu.bd
@@ -251,6 +270,7 @@ webdisk.ermhs.edu.bd
 webdisk.fdasc.edu.bd
 webdisk.gbmcwc.edu.bd
 webdisk.gdhskushtia.edu.bd
+webdisk.gnibc.edu.bd
 webdisk.gohirakamilmadrasah.edu.bd
 webdisk.gojariajphighschool.edu.bd
 webdisk.kanderpodiahsk.edu.bd
@@ -268,6 +288,7 @@ webmail.ermhs.edu.bd
 webmail.fdasc.edu.bd
 webmail.gbmcwc.edu.bd
 webmail.gdhskushtia.edu.bd
+webmail.gnibc.edu.bd
 webmail.gohirakamilmadrasah.edu.bd
 webmail.gojariajphighschool.edu.bd
 webmail.kanderpodiahsk.edu.bd
@@ -287,6 +308,7 @@ www.anowaragovtcollege.edu.bd
 www.api.pogaldighamodelhs.edu.bd
 www.backend.balaatahs.edu.bd
 www.baznabogirlshighschool.edu.bd
+www.bfkc.edu.bd
 www.bgmsc.edu.bd
 www.blog.primeasia.edu.bd
 www.broadmaxit.com.satiacharasnghs.edu.bd
@@ -305,6 +327,7 @@ www.gallakadarshadegreecollege.edu.bd
 www.gbmcwc.edu.bd
 www.gdhskushtia.edu.bd
 www.glht.edu.bd
+www.gnibc.edu.bd
 www.gohirakamilmadrasah.edu.bd
 www.gojariajphighschool.edu.bd
 www.gotatikorblhs.edu.bd
@@ -340,6 +363,7 @@ www.rdma.edu.bd
 www.rhsac.edu.bd
 www.sadekpuridm.edu.bd
 www.shaistaganjhighschool.edu.bd
+www.shalikhaschool.edu.bd
 www.spdm.edu.bd
 www.sphsc.edu.bd
 www.sppuzwhz.ndhc.edu.bd
