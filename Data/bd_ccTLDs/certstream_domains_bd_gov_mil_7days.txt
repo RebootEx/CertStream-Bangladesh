@@ -5,6 +5,7 @@ amumc.gov.bd
 ansarvdpbank.gov.bd
 api-milkvita.idsdp.rdcd.gov.bd
 api.barisalboard.gov.bd
+api.spellcheck.bangla.gov.bd
 app.dghs.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
@@ -18,6 +19,7 @@ autodiscover.joyparatsc.gov.bd
 autodiscover.shariatpurtsc.gov.bd
 automationtest.bepza.gov.bd
 backup.fima.gov.bd
+bancharampurtsc.gov.bd
 bangabhaban.gov.bd
 bangladesh.gov.bd
 bangladeshfestival.gov.bd
@@ -73,6 +75,7 @@ cgpoura.gov.bd
 chatkhilpourashava.gov.bd
 chattogram.gov.bd
 chattogramdiv.gov.bd
+chhataktsc.gov.bd
 chittagongzoo.gov.bd
 climatefinance.erd.gov.bd
 cmmc.gov.bd
@@ -170,6 +173,7 @@ fsc.fireservice.gov.bd
 ftp.bepza.gov.bd
 ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
+gameapp.gov.bd
 golapganjpourashava.gov.bd
 gopalganjpoly.gov.bd
 highwaypolice.gov.bd
@@ -182,6 +186,7 @@ ihtbogura.gov.bd
 imam.gov.bd
 imed.gov.bd
 industry-dev.niseee.gov.bd
+ipam.dghs.gov.bd
 ipv6.durjog.gov.bd
 ir.brri.gov.bd
 ird.gov.bd
@@ -274,6 +279,7 @@ mowr.gov.bd
 moysports.gov.bd
 mspvaw109.gov.bd
 msw.gov.bd
+mta-sts.nothi.gov.bd
 mudp.gov.bd
 mujib100sfc.gov.bd
 mujibnagartsc.gov.bd
@@ -299,6 +305,7 @@ notice.bavs.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
+onlineexam.gbrcr.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 outsp.kmch.gov.bd
@@ -335,6 +342,7 @@ sam.nnsop.gov.bd
 sanboard.gov.bd
 sdg.gov.bd
 server.kpik.gov.bd
+service.ashrayanpmo.gov.bd
 service.gov.bd
 service.rdcd.gov.bd
 services.nha.gov.bd
@@ -462,6 +470,8 @@ www.du.gameapp.gov.bd
 www.durjog.gov.bd
 www.dutipata.btriapps.gov.bd
 www.ebongobondhu.ansarvdpbank.gov.bd
+www.ecampus.bancharampurtsc.gov.bd
+www.ecampus.chhataktsc.gov.bd
 www.elearning.ec4j.gov.bd
 www.elmis.ntp.gov.bd
 www.erp.sreda.gov.bd
@@ -504,6 +514,7 @@ www.nnsop.gov.bd
 www.notarypublic.gov.bd
 www.notice.bavs.gov.bd
 www.ntrc.gameapp.gov.bd
+www.onlineexam.gbrcr.gov.bd
 www.outsp.kmch.gov.bd
 www.panchagarhmunicipality.gov.bd
 www.patharghatapourashava.gov.bd
