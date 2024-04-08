@@ -1,6 +1,7 @@
 alhajshiddiquehighschool.edu.bd
 amhqm.edu.bd
 anowaragovtcollege.edu.bd
+api.pogaldighamodelhs.edu.bd
 autodiscover.gohirakamilmadrasah.edu.bd
 autodiscover.gojariajphighschool.edu.bd
 autodiscover.lelangaraphs.edu.bd
@@ -39,6 +40,7 @@ cpanel.bgmsc.edu.bd
 cpanel.cdcmn.edu.bd
 cpanel.ermhs.edu.bd
 cpanel.fdasc.edu.bd
+cpanel.gdhskushtia.edu.bd
 cpanel.gohirakamilmadrasah.edu.bd
 cpanel.gojariajphighschool.edu.bd
 cpanel.kanderpodiahsk.edu.bd
@@ -54,6 +56,7 @@ cpcalendars.bgmsc.edu.bd
 cpcalendars.cdcmn.edu.bd
 cpcalendars.ermhs.edu.bd
 cpcalendars.fdasc.edu.bd
+cpcalendars.gdhskushtia.edu.bd
 cpcalendars.gohirakamilmadrasah.edu.bd
 cpcalendars.gojariajphighschool.edu.bd
 cpcalendars.kanderpodiahsk.edu.bd
@@ -68,6 +71,7 @@ cpcontacts.bgmsc.edu.bd
 cpcontacts.cdcmn.edu.bd
 cpcontacts.ermhs.edu.bd
 cpcontacts.fdasc.edu.bd
+cpcontacts.gdhskushtia.edu.bd
 cpcontacts.gohirakamilmadrasah.edu.bd
 cpcontacts.gojariajphighschool.edu.bd
 cpcontacts.kanderpodiahsk.edu.bd
@@ -82,6 +86,7 @@ daowlatpurdegreecollege.edu.bd
 demo.traumainstitute.edu.bd
 dhamtikm.edu.bd
 dhanpuraphs.edu.bd
+dhubauratsc.edu.bd
 diutc.daffodilvarsity.edu.bd
 dmc94.edu.bd
 doulatpurskhs.edu.bd
@@ -91,6 +96,7 @@ fatemabegumgirlsschool.edu.bd
 fdasc.edu.bd
 gallakadarshadegreecollege.edu.bd
 gbfdm.edu.bd
+gdhskushtia.edu.bd
 gmc4328.edu.bd
 gohirakamilmadrasah.edu.bd
 gojariajphighschool.edu.bd
@@ -126,6 +132,7 @@ mail.cdcmn.edu.bd
 mail.dhamtikm.edu.bd
 mail.ermhs.edu.bd
 mail.fdasc.edu.bd
+mail.gdhskushtia.edu.bd
 mail.gohirakamilmadrasah.edu.bd
 mail.gojariajphighschool.edu.bd
 mail.ibitsylhet.edu.bd
@@ -190,12 +197,14 @@ syedpurpiloths.edu.bd
 talukshakhatihighschool.edu.bd
 tamaigirlshighschool.edu.bd
 tamaihighschool.edu.bd
+tanc.edu.bd
 teghoriamodelhighschool.edu.bd
 thutapaikarhs.edu.bd
 thutapaikarhs.edu.bd.npsc.edu.bd
 tilakpuragh.edu.bd
 tilakpurhs.edu.bd
 uaidm.edu.bd
+ucbsschool.edu.bd
 ugbusm.edu.bd
 uksha118754.edu.bd
 vlsi.bubt.edu.bd
@@ -203,6 +212,7 @@ webdisk.bgmsc.edu.bd
 webdisk.cdcmn.edu.bd
 webdisk.ermhs.edu.bd
 webdisk.fdasc.edu.bd
+webdisk.gdhskushtia.edu.bd
 webdisk.gohirakamilmadrasah.edu.bd
 webdisk.gojariajphighschool.edu.bd
 webdisk.kanderpodiahsk.edu.bd
@@ -217,6 +227,7 @@ webmail.bgmsc.edu.bd
 webmail.cdcmn.edu.bd
 webmail.ermhs.edu.bd
 webmail.fdasc.edu.bd
+webmail.gdhskushtia.edu.bd
 webmail.gohirakamilmadrasah.edu.bd
 webmail.gojariajphighschool.edu.bd
 webmail.kanderpodiahsk.edu.bd
@@ -230,8 +241,10 @@ webmail.ugbusm.edu.bd
 www.2022.mpahs.edu.bd
 www.admin.amhqm.edu.bd
 www.admin.balaatahs.edu.bd
+www.admission.tanc.edu.bd
 www.alumni.infra.edu.bd
 www.anowaragovtcollege.edu.bd
+www.api.pogaldighamodelhs.edu.bd
 www.backend.balaatahs.edu.bd
 www.baznabogirlshighschool.edu.bd
 www.bgmsc.edu.bd
@@ -248,6 +261,7 @@ www.ecom.rakm.edu.bd
 www.ermhs.edu.bd
 www.fdasc.edu.bd
 www.gallakadarshadegreecollege.edu.bd
+www.gdhskushtia.edu.bd
 www.glht.edu.bd
 www.gohirakamilmadrasah.edu.bd
 www.gojariajphighschool.edu.bd
