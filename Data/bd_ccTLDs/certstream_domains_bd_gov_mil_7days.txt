@@ -1,5 +1,6 @@
 91011.melandahbhata.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
+akcc.gov.bd
 akkelpurmunicipality.gov.bd
 amumc.gov.bd
 ansarvdpbank.gov.bd
@@ -54,6 +55,8 @@ btm.idsdp.rdcd.gov.bd
 btriapps.gov.bd
 caabhc.gov.bd
 cabinet.gov.bd
+cafocommerce.gov.bd
+cafocultural.gov.bd
 cafoeducation.gov.bd
 cafoerd.gov.bd
 cafoexpatriates.gov.bd
@@ -63,6 +66,7 @@ cafomefcc.gov.bd
 cafomof.gov.bd
 cafomofl.gov.bd
 cafomolwa.gov.bd
+cafoparliament.gov.bd
 cafopmo.gov.bd
 cafoptd.gov.bd
 caforeligious.gov.bd
@@ -134,6 +138,7 @@ da.ictbdiasms.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dashboard.idsdp.rdcd.gov.bd
 dbwctp64.gov.bd
+dcsherpurinfo.gov.bd
 demo.rmch.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
@@ -160,6 +165,7 @@ email.ops.a2i.gov.bd
 emrd.gov.bd
 emrddashboard.gov.bd
 enoc.fireservice.gov.bd
+epassport1.bpodms.gov.bd
 epb-exporttracker.gov.bd
 erd.gov.bd
 estore.fireservice.gov.bd
@@ -178,18 +184,22 @@ ftp.bepza.gov.bd
 ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gameapp.gov.bd
+gdc.gov.bd
 golapganjpourashava.gov.bd
 gopalganjpoly.gov.bd
+govtorder.afd.gov.bd
 highwaypolice.gov.bd
 hosenabadtsc.gov.bd
 hrm.dghs.gov.bd
 hscprivate.comillaboard.gov.bd
 hsd.gov.bd
 idpgazipur.gov.bd
+ifstbcsir.gov.bd
 ihtbogura.gov.bd
 imam.gov.bd
 imed.gov.bd
 industry-dev.niseee.gov.bd
+info.shr.dghs.gov.bd
 ipam.dghs.gov.bd
 ipv6.durjog.gov.bd
 ir.brri.gov.bd
@@ -289,6 +299,7 @@ mujib100sfc.gov.bd
 mujibnagartsc.gov.bd
 muktopaath.gov.bd
 munshiganjtsc.gov.bd
+mybtcl.btcl.gov.bd
 myconstituency.gov.bd
 mygov.gov.bd
 mymail.ssnimc.gov.bd
@@ -297,18 +308,22 @@ nascib-dev.niseee.gov.bd
 nationalmuseumticket.gov.bd
 navy.mil.bd
 ncc.gov.bd
+new.bhtpa.gov.bd
 new.pict.gov.bd
 new.rgamc.gov.bd
 news.police.gov.bd
 newsite.zsorangpur.gov.bd
+nis.cabinet.gov.bd
 nise-dev.niseee.gov.bd
 niseee.gov.bd
 nnsop.gov.bd
+noakhalicoll.gov.bd
 notarypublic.gov.bd
 notice.bavs.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
+omsdebidwar.gov.bd
 onlineexam.gbrcr.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
@@ -326,6 +341,7 @@ probashi.gov.bd
 profile.nins.gov.bd
 ptd.gov.bd
 rajshahiboard.gov.bd
+rangamaticollege.gov.bd
 rangamatigmc.gov.bd
 rdcd.gov.bd
 rdodterangpur.gov.bd
@@ -367,6 +383,7 @@ sonalibank.gov.bd
 spst.gov.bd
 sreda.gov.bd
 srijon.gov.bd
+srishtitetulia.gov.bd
 ssd.gov.bd
 ssnimc.gov.bd
 startupbangladesh.gov.bd
@@ -377,6 +394,7 @@ taxappealzone4dhaka.gov.bd
 taxeszone18dhaka.gov.bd
 tbhsd.gov.bd
 test.gameapp.gov.bd
+test.jamalpurttc.gov.bd
 test.msw-soft.gov.bd
 testing.dope-test.dghs.gov.bd
 thakurgaonttc.gov.bd
@@ -442,6 +460,7 @@ www.balikha.upmymensinghholdingtax.gov.bd
 www.ban-fima-web.fima.gov.bd
 www.bangladeshfestival.gov.bd
 www.bangladeshtourism.gov.bd
+www.banihala.upmymensinghholdingtax.gov.bd
 www.barlekhamunicipality.gov.bd
 www.beeer.sreda.gov.bd
 www.bepza.gov.bd
@@ -485,6 +504,7 @@ www.ecampus.bancharampurtsc.gov.bd
 www.ecampus.chhataktsc.gov.bd
 www.elearning.ec4j.gov.bd
 www.elmis.ntp.gov.bd
+www.en.ifstbcsir.gov.bd
 www.erp.sreda.gov.bd
 www.etbmanager.ntp.gov.bd
 www.evm.gov.bd
@@ -518,6 +538,7 @@ www.mudp.gov.bd
 www.mymail.ssnimc.gov.bd
 www.nationalmuseumticket.gov.bd
 www.navy.mil.bd
+www.new.bhtpa.gov.bd
 www.new.pict.gov.bd
 www.new.rgamc.gov.bd
 www.newsite.zsorangpur.gov.bd
@@ -542,6 +563,7 @@ www.rpclorg2.bpemc.gov.bd
 www.sadai.gov.bd
 www.shariatpurtsc.gov.bd
 www.smartandikot.gov.bd
+www.smartlgd.dcsherpurinfo.gov.bd
 www.smartteasolutions.btriapps.gov.bd
 www.software.dbwctp64.gov.bd
 www.soltrack.gov.bd
@@ -554,7 +576,9 @@ www.taloramunicipality.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.teasoft.btriapps.gov.bd
 www.test.gameapp.gov.bd
+www.test.jamalpurttc.gov.bd
 www.test.msw-soft.gov.bd
+www.test.omsdebidwar.gov.bd
 www.thakurgaonttc.rdodterangpur.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.ugc-hemis.gov.bd
