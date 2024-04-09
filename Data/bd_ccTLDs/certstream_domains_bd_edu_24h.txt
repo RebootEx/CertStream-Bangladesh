@@ -21,6 +21,7 @@ autodiscover.akbariacollege.edu.bd
 autodiscover.al-ihsanhighschool.edu.bd
 autodiscover.azimnagararhighschool.edu.bd
 autodiscover.azimpuridealhighschool.edu.bd
+autodiscover.bdmlhighschool.edu.bd
 autodiscover.bhartentuliahighschool.edu.bd
 autodiscover.bhujpurmodelhighschool.edu.bd
 autodiscover.birgghs.edu.bd
@@ -71,8 +72,10 @@ baghutiaam.edu.bd
 bakarerhaths.edu.bd
 bamundibaliakandihighschool.edu.bd
 bandhucomputer.edu.bd
+baufdm.edu.bd
 bauliankhighschool.edu.bd
 bbsm.edu.bd
+bdmlhighschool.edu.bd
 beta.pirganjcollege.edu.bd
 bgb.bgbschoolraj.edu.bd
 bhartentuliahighschool.edu.bd
@@ -95,6 +98,7 @@ cpanel.akbariacollege.edu.bd
 cpanel.al-ihsanhighschool.edu.bd
 cpanel.azimnagararhighschool.edu.bd
 cpanel.azimpuridealhighschool.edu.bd
+cpanel.bdmlhighschool.edu.bd
 cpanel.bhartentuliahighschool.edu.bd
 cpanel.bhujpurmodelhighschool.edu.bd
 cpanel.birgghs.edu.bd
@@ -142,6 +146,7 @@ cpcalendars.akbariacollege.edu.bd
 cpcalendars.al-ihsanhighschool.edu.bd
 cpcalendars.azimnagararhighschool.edu.bd
 cpcalendars.azimpuridealhighschool.edu.bd
+cpcalendars.bdmlhighschool.edu.bd
 cpcalendars.bhartentuliahighschool.edu.bd
 cpcalendars.bhujpurmodelhighschool.edu.bd
 cpcalendars.birgghs.edu.bd
@@ -189,6 +194,7 @@ cpcontacts.akbariacollege.edu.bd
 cpcontacts.al-ihsanhighschool.edu.bd
 cpcontacts.azimnagararhighschool.edu.bd
 cpcontacts.azimpuridealhighschool.edu.bd
+cpcontacts.bdmlhighschool.edu.bd
 cpcontacts.bhartentuliahighschool.edu.bd
 cpcontacts.bhujpurmodelhighschool.edu.bd
 cpcontacts.birgghs.edu.bd
@@ -232,6 +238,7 @@ cpcontacts.shovandandicollege.edu.bd
 cpcontacts.shovandandischool.edu.bd
 cpcontacts.suabilgirlshighschool.edu.bd
 csc.daffodilvarsity.edu.bd
+cscc.edu.bd
 cse.green.edu.bd
 ctc.edu.bd
 cuhs.edu.bd
@@ -240,6 +247,7 @@ dhekrahs.edu.bd
 dhubauratsc.edu.bd
 diups.daffodilvarsity.edu.bd
 dlmch.edu.bd
+dnaghs.edu.bd
 dnrgc.edu.bd
 dphs.edu.bd
 drhoqueacademy.edu.bd
@@ -286,14 +294,17 @@ knmlhighschool.edu.bd
 komorpurabdulazizinstitution.edu.bd
 ksigsc.edu.bd
 kssddm.edu.bd
+kvhs.edu.bd
 law.cub.edu.bd
 library.ist.edu.bd
 lrhighschool.edu.bd
+maihs.edu.bd
 mail.aikm.edu.bd
 mail.akbariacollege.edu.bd
 mail.al-ihsanhighschool.edu.bd
 mail.azimnagararhighschool.edu.bd
 mail.azimpuridealhighschool.edu.bd
+mail.bdmlhighschool.edu.bd
 mail.bhartentuliahighschool.edu.bd
 mail.bhujpurmodelhighschool.edu.bd
 mail.birgghs.edu.bd
@@ -347,6 +358,7 @@ narayanhathighschool.edu.bd
 nargisislam-sgs.edu.bd
 narsingdizpbpaschool.edu.bd
 nazirhatgirlshighschool.edu.bd
+nbmghs.edu.bd
 nipghs.edu.bd
 northmadarshahighschool.edu.bd
 old.hamdarduniversity.edu.bd
@@ -398,12 +410,14 @@ teghoriamodelhighschool.edu.bd
 test.bubt.edu.bd
 uca.edu.bd
 ulipuraghs.edu.bd
+uoda.edu.bd
 waiver.rpsu.edu.bd
 webdisk.aikm.edu.bd
 webdisk.akbariacollege.edu.bd
 webdisk.al-ihsanhighschool.edu.bd
 webdisk.azimnagararhighschool.edu.bd
 webdisk.azimpuridealhighschool.edu.bd
+webdisk.bdmlhighschool.edu.bd
 webdisk.bhartentuliahighschool.edu.bd
 webdisk.bhujpurmodelhighschool.edu.bd
 webdisk.birgghs.edu.bd
@@ -451,6 +465,7 @@ webmail.akbariacollege.edu.bd
 webmail.al-ihsanhighschool.edu.bd
 webmail.azimnagararhighschool.edu.bd
 webmail.azimpuridealhighschool.edu.bd
+webmail.bdmlhighschool.edu.bd
 webmail.bhartentuliahighschool.edu.bd
 webmail.bhujpurmodelhighschool.edu.bd
 webmail.birgghs.edu.bd
@@ -517,6 +532,8 @@ www.backend.sdmlhs.edu.bd
 www.bakarerhaths.edu.bd.ulipurmssc.edu.bd
 www.bauliankhighschool.edu.bd
 www.bbsm.edu.bd
+www.bdmlhighschool.edu.bd
+www.bge.uoda.edu.bd
 www.bhartentuliahighschool.edu.bd
 www.bhujpurmodelhighschool.edu.bd
 www.birgghs.aamc.edu.bd
@@ -528,6 +545,7 @@ www.chhanharasbhighschool.edu.bd
 www.cmats.slnc.edu.bd
 www.cmhs.edu.bd
 www.cse.green.edu.bd
+www.cse.uoda.edu.bd
 www.cuhs.edu.bd
 www.dharmapurkkgirlshighschool.edu.bd
 www.dlmch.edu.bd
@@ -556,6 +574,7 @@ www.kdmadrasah.edu.bd
 www.kelishaharhighschool.edu.bd
 www.kholabarihs.edu.bd
 www.knmlhighschool.edu.bd
+www.kvhs.edu.bd
 www.law.cub.edu.bd
 www.library.ist.edu.bd
 www.lrhighschool.edu.bd
@@ -564,7 +583,9 @@ www.mirror.proyashrangpur.edu.bd
 www.mnhighschool.edu.bd
 www.mopbdm.edu.bd
 www.narayanhathighschool.edu.bd
+www.narsingdizpbpaschool.edu.bd
 www.nazirhatgirlshighschool.edu.bd
+www.nbmghs.edu.bd
 www.nipghsadmin.nipghs.edu.bd
 www.northmadarshahighschool.edu.bd
 www.old.hamdarduniversity.edu.bd
