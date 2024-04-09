@@ -135,6 +135,7 @@ cpanel.mnhighschool.edu.bd
 cpanel.narayanhathighschool.edu.bd
 cpanel.nazirhatgirlshighschool.edu.bd
 cpanel.northmadarshahighschool.edu.bd
+cpanel.pancheyhighschool.edu.bd
 cpanel.rahamaniahighschool.edu.bd
 cpanel.raozandimadrasah.edu.bd
 cpanel.raozanmohilamadrasah.edu.bd
@@ -183,6 +184,7 @@ cpcalendars.mnhighschool.edu.bd
 cpcalendars.narayanhathighschool.edu.bd
 cpcalendars.nazirhatgirlshighschool.edu.bd
 cpcalendars.northmadarshahighschool.edu.bd
+cpcalendars.pancheyhighschool.edu.bd
 cpcalendars.rahamaniahighschool.edu.bd
 cpcalendars.raozandimadrasah.edu.bd
 cpcalendars.raozanmohilamadrasah.edu.bd
@@ -231,6 +233,7 @@ cpcontacts.mnhighschool.edu.bd
 cpcontacts.narayanhathighschool.edu.bd
 cpcontacts.nazirhatgirlshighschool.edu.bd
 cpcontacts.northmadarshahighschool.edu.bd
+cpcontacts.pancheyhighschool.edu.bd
 cpcontacts.rahamaniahighschool.edu.bd
 cpcontacts.raozandimadrasah.edu.bd
 cpcontacts.raozanmohilamadrasah.edu.bd
@@ -263,6 +266,7 @@ fatikchharigphighschool.edu.bd
 gaudm.edu.bd
 gbhighschool.edu.bd
 gbmcwc.edu.bd
+gctkutibaridakhilmadrasha.edu.bd
 gdsdm.edu.bd
 ghsr.edu.bd
 gnibc.edu.bd
@@ -284,6 +288,7 @@ jamunabadhs.edu.bd
 janarddanpurhighschool.edu.bd
 jmumhs.edu.bd
 jnuenglish.edu.bd
+jogardiahs.edu.bd
 karimpurkkbhs.edu.bd
 katakhalihighschool.edu.bd
 katiadipilotgirlshighschool.edu.bd
@@ -297,6 +302,7 @@ knmlhighschool.edu.bd
 komorpurabdulazizinstitution.edu.bd
 ksigsc.edu.bd
 kssddm.edu.bd
+kuraniarcharkhdmadrasah.edu.bd
 kvhs.edu.bd
 law.cub.edu.bd
 library.ist.edu.bd
@@ -343,6 +349,7 @@ mail.mnhighschool.edu.bd
 mail.narayanhathighschool.edu.bd
 mail.nazirhatgirlshighschool.edu.bd
 mail.northmadarshahighschool.edu.bd
+mail.pancheyhighschool.edu.bd
 mail.rahamaniahighschool.edu.bd
 mail.raozandimadrasah.edu.bd
 mail.raozanmohilamadrasah.edu.bd
@@ -369,6 +376,7 @@ northmadarshahighschool.edu.bd
 old.hamdarduniversity.edu.bd
 onlineexam.tpsc.edu.bd
 pakmmc.edu.bd
+pancheyhighschool.edu.bd
 password.recovery.sust.edu.bd
 pkphs.edu.bd
 plhsc.edu.bd
@@ -378,6 +386,7 @@ pshsc.edu.bd
 rahamaniahighschool.edu.bd
 raozandimadrasah.edu.bd
 raozanmohilamadrasah.edu.bd
+rdphs.edu.bd
 roshangirigirlshighschool.edu.bd
 rtbmc.edu.bd
 s.baznabogirlshighschool.edu.bd
@@ -386,6 +395,7 @@ sadm.edu.bd
 samcb.edu.bd
 sannashihs.edu.bd
 scpa.edu.bd
+scpa.edu.bd.mmemorialcollege.edu.bd
 sdmlhs.edu.bd
 shaistaganjhighschool.edu.bd
 shantirhathighschool.edu.bd
@@ -457,6 +467,7 @@ webdisk.mnhighschool.edu.bd
 webdisk.narayanhathighschool.edu.bd
 webdisk.nazirhatgirlshighschool.edu.bd
 webdisk.northmadarshahighschool.edu.bd
+webdisk.pancheyhighschool.edu.bd
 webdisk.rahamaniahighschool.edu.bd
 webdisk.raozandimadrasah.edu.bd
 webdisk.raozanmohilamadrasah.edu.bd
@@ -505,6 +516,7 @@ webmail.mnhighschool.edu.bd
 webmail.narayanhathighschool.edu.bd
 webmail.nazirhatgirlshighschool.edu.bd
 webmail.northmadarshahighschool.edu.bd
+webmail.pancheyhighschool.edu.bd
 webmail.rahamaniahighschool.edu.bd
 webmail.raozandimadrasah.edu.bd
 webmail.raozanmohilamadrasah.edu.bd
@@ -596,6 +608,7 @@ www.nbmghs.edu.bd
 www.nipghsadmin.nipghs.edu.bd
 www.northmadarshahighschool.edu.bd
 www.old.hamdarduniversity.edu.bd
+www.pancheyhighschool.edu.bd
 www.primeasia.primeasia.edu.bd
 www.rahamaniahighschool.edu.bd
 www.raozandimadrasah.edu.bd
@@ -604,6 +617,7 @@ www.roshangirigirlshighschool.edu.bd
 www.s.baznabogirlshighschool.edu.bd
 www.s.bhablahighschool.edu.bd
 www.schoolyacademy.karimpurkkbhs.edu.bd
+www.scpa.edu.bd.mmemorialcollege.edu.bd
 www.sdmlhs.edu.bd
 www.shaistaganjhighschool.edu.bd
 www.shantirhathighschool.edu.bd
