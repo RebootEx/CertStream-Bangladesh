@@ -24,6 +24,7 @@ bddm.edu.bd
 bdmlhighschool.edu.bd
 bgawdm.edu.bd
 bhengulamlhs.edu.bd
+bkdcl.edu.bd
 bkghs.edu.bd
 bmcbarisal.edu.bd
 bmsesdpmhs.edu.bd
@@ -41,6 +42,7 @@ cpanel.chatutiahs.edu.bd
 cpanel.dnrgc.edu.bd
 cpanel.fkmrhighschool.edu.bd
 cpanel.fulgcf.edu.bd
+cpanel.iesumb.edu.bd
 cpanel.kmb.edu.bd
 cpanel.koittahighschool.edu.bd
 cpanel.lemubaribinodasundaryhighschool.edu.bd
@@ -57,6 +59,7 @@ cpcalendars.chatutiahs.edu.bd
 cpcalendars.dnrgc.edu.bd
 cpcalendars.fkmrhighschool.edu.bd
 cpcalendars.fulgcf.edu.bd
+cpcalendars.iesumb.edu.bd
 cpcalendars.kmb.edu.bd
 cpcalendars.koittahighschool.edu.bd
 cpcalendars.lemubaribinodasundaryhighschool.edu.bd
@@ -73,6 +76,7 @@ cpcontacts.chatutiahs.edu.bd
 cpcontacts.dnrgc.edu.bd
 cpcontacts.fkmrhighschool.edu.bd
 cpcontacts.fulgcf.edu.bd
+cpcontacts.iesumb.edu.bd
 cpcontacts.kmb.edu.bd
 cpcontacts.koittahighschool.edu.bd
 cpcontacts.lemubaribinodasundaryhighschool.edu.bd
@@ -80,15 +84,18 @@ cpcontacts.mnbhs.edu.bd
 cpcontacts.psths.edu.bd
 cpcontacts.spsc.edu.bd
 cscc.edu.bd
+csesociety.sust.edu.bd
 csjidm.edu.bd
 dgrdc.edu.bd
 dnaghs.edu.bd
 dnrgc.edu.bd
+dpgc.edu.bd
 edu.bd.fulbarihs.edu.bd
 eunusalihighschool.edu.bd
 fkmrhighschool.edu.bd
 fulgcf.edu.bd
 gaa.daffodilvarsity.edu.bd
+gateway.diu.edu.bd
 gbagwc.edu.bd
 gctkutibaridakhilmadrasha.edu.bd
 gedu.edu.bd
@@ -97,15 +104,20 @@ gfi.edu.bd
 gowainghatmodelhs.edu.bd
 hmuphs.edu.bd
 hub.edu.bd
+iesumb.edu.bd
+independentcollege.edu.bd
 it.cub.edu.bd
 itclub.acc.edu.bd
 jadm.edu.bd
 janatahs.edu.bd
+kalmarfm.edu.bd
+kaufm.edu.bd
 kmb.edu.bd
 koittahighschool.edu.bd
 lemubaribinodasundaryhighschool.edu.bd
 lghsraj.edu.bd
 madhabdiamhs.edu.bd
+maiiacademy.edu.bd
 mail.al-ihsanhighschool.edu.bd
 mail.asam.edu.bd
 mail.aushs.edu.bd
@@ -117,6 +129,7 @@ mail.dgrdc.edu.bd
 mail.dnrgc.edu.bd
 mail.fkmrhighschool.edu.bd
 mail.fulgcf.edu.bd
+mail.iesumb.edu.bd
 mail.kmb.edu.bd
 mail.koittahighschool.edu.bd
 mail.lemubaribinodasundaryhighschool.edu.bd
@@ -134,6 +147,7 @@ norillacollege.edu.bd
 nugghs.edu.bd
 paschimdhs.edu.bd
 pmndm.edu.bd
+portal.deudm.edu.bd
 psths.edu.bd
 ptgghs.edu.bd
 pwdc.edu.bd
@@ -152,12 +166,14 @@ shaistabaddm.edu.bd
 slotgacorgampangmenang777.gccc.edu.bd
 spipalash.edu.bd
 spsc.edu.bd
+ssdegreecollege.edu.bd
 staging5.ois.edu.bd
 subachanihs.edu.bd
 tdcbogura.edu.bd
 test.bubt.edu.bd
 uamghs.edu.bd
 udakhaliwomencollege.edu.bd
+udayansecondaryschool.edu.bd
 uoda.edu.bd
 vcr.edu.bd
 webdisk.al-ihsanhighschool.edu.bd
@@ -170,6 +186,7 @@ webdisk.chatutiahs.edu.bd
 webdisk.dnrgc.edu.bd
 webdisk.fkmrhighschool.edu.bd
 webdisk.fulgcf.edu.bd
+webdisk.iesumb.edu.bd
 webdisk.kmb.edu.bd
 webdisk.koittahighschool.edu.bd
 webdisk.lemubaribinodasundaryhighschool.edu.bd
@@ -186,6 +203,7 @@ webmail.chatutiahs.edu.bd
 webmail.dnrgc.edu.bd
 webmail.fkmrhighschool.edu.bd
 webmail.fulgcf.edu.bd
+webmail.iesumb.edu.bd
 webmail.kmb.edu.bd
 webmail.koittahighschool.edu.bd
 webmail.lemubaribinodasundaryhighschool.edu.bd
@@ -216,6 +234,7 @@ www.gfi.edu.bd
 www.gowainghatmodelhs.edu.bd
 www.hmuphs.edu.bd
 www.hub.edu.bd
+www.iesumb.edu.bd
 www.it.cub.edu.bd
 www.jadm.edu.bd
 www.kmb.edu.bd
