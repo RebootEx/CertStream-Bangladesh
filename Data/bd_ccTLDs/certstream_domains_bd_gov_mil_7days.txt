@@ -69,6 +69,7 @@ cpanel.bangladeshfestival.gov.bd
 cpanel.bhairabtsc.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.durjog.gov.bd
+cpanel.gnc.gov.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.joyparatsc.gov.bd
 cpanel.moulvibazartsc.gov.bd
@@ -82,6 +83,7 @@ cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.bhairabtsc.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.durjog.gov.bd
+cpcalendars.gnc.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.joyparatsc.gov.bd
 cpcalendars.mudp.gov.bd
@@ -94,6 +96,7 @@ cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.bhairabtsc.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.durjog.gov.bd
+cpcontacts.gnc.gov.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.joyparatsc.gov.bd
 cpcontacts.mudp.gov.bd
@@ -143,6 +146,7 @@ ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gameapp.gov.bd
 gdc.gov.bd
+gnc.gov.bd
 golapganjpourashava.gov.bd
 gopalganjpoly.gov.bd
 govtorder.afd.gov.bd
@@ -170,6 +174,7 @@ jamalpurttc.gov.bd
 jashore.gov.bd
 jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
+journal.bcsadminacademy.gov.bd
 joyparatsc.gov.bd
 kmch.gov.bd
 kranti.bamis.gov.bd
@@ -177,6 +182,7 @@ labrepository.bfsa.gov.bd
 lalmohanpaurashava.gov.bd
 legislativediv.gov.bd
 lgservice.gov.bd
+lms.pmo.gov.bd
 lv.mspvaw.gov.bd
 lwservice.gov.bd
 maheshpurpourashava.gov.bd
@@ -189,6 +195,7 @@ mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.du.gameapp.gov.bd
 mail.durjog.gov.bd
+mail.gnc.gov.bd
 mail.jamalpurttc.gov.bd
 mail.joyparatsc.gov.bd
 mail.lwservice.gov.bd
@@ -348,6 +355,7 @@ webdisk.bangladeshfestival.gov.bd
 webdisk.bhairabtsc.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.durjog.gov.bd
+webdisk.gnc.gov.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.joyparatsc.gov.bd
 webdisk.mudp.gov.bd
@@ -361,6 +369,7 @@ webmail.bangladeshfestival.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bpemc.gov.bd
 webmail.durjog.gov.bd
+webmail.gnc.gov.bd
 webmail.jamalpurttc.gov.bd
 webmail.joyparatsc.gov.bd
 webmail.lwservice.gov.bd
@@ -417,6 +426,7 @@ www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
 www.fpmu.mofood.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
+www.gnc.gov.bd
 www.group.ansarvdpbank.gov.bd
 www.home.habiganjpourashava.gov.bd
 www.ihtbogura.gov.bd
