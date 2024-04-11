@@ -16,6 +16,7 @@ autodiscover.paduaaudskmadrasah.edu.bd
 autodiscover.pjhs.edu.bd
 autodiscover.rsub.edu.bd
 backend.pjhs.edu.bd
+baiam.edu.bd
 bamb.edu.bd
 bangabandhuhs95.edu.bd
 baniic.edu.bd
@@ -33,6 +34,7 @@ chandkhanagr.edu.bd
 chandvaalimmadrasah.edu.bd
 codechefer.com.jathaliaashs.edu.bd
 cpanel.gangjoarhs.edu.bd
+cpanel.ghgp.edu.bd
 cpanel.glorycollege.edu.bd
 cpanel.ldrasc.edu.bd
 cpanel.mirzapurhablhs.edu.bd
@@ -43,6 +45,7 @@ cpanel.rsub.edu.bd
 cpanel.sigm.edu.bd
 cpanel.spscsdohs.edu.bd
 cpcalendars.gangjoarhs.edu.bd
+cpcalendars.ghgp.edu.bd
 cpcalendars.glorycollege.edu.bd
 cpcalendars.ldrasc.edu.bd
 cpcalendars.mirzapurhablhs.edu.bd
@@ -53,6 +56,7 @@ cpcalendars.rsub.edu.bd
 cpcalendars.sigm.edu.bd
 cpcalendars.spscsdohs.edu.bd
 cpcontacts.gangjoarhs.edu.bd
+cpcontacts.ghgp.edu.bd
 cpcontacts.glorycollege.edu.bd
 cpcontacts.ldrasc.edu.bd
 cpcontacts.mirzapurhablhs.edu.bd
@@ -70,8 +74,10 @@ dinbazarhighschool.edu.bd
 eastghs.edu.bd
 eastjgss.edu.bd
 edu.pfm.edu.bd
+famousinstitutehighschool.edu.bd
 galdaparanalihs.edu.bd
 gangjoarhs.edu.bd
+ghgp.edu.bd
 ghrc.daffodilvarsity.edu.bd
 glorycollege.edu.bd
 govtmodelsskln.edu.bd
@@ -104,6 +110,7 @@ ldrasc.edu.bd
 mahabubazad.com.bd.moshakhalihs.edu.bd
 mahchighschool.edu.bd
 mail.gangjoarhs.edu.bd
+mail.ghgp.edu.bd
 mail.glorycollege.edu.bd
 mail.kochikantha.edu.bd
 mail.ldrasc.edu.bd
@@ -115,6 +122,7 @@ mail.pjhs.edu.bd
 mail.rsub.edu.bd
 mail.sigm.edu.bd
 mail.spscsdohs.edu.bd
+majhbarisasham.edu.bd
 management.jghs.edu.bd
 medhabikash.edu.bd
 mirzapurhablhs.edu.bd
@@ -154,10 +162,12 @@ tarashailhs.edu.bd
 tkm.edu.bd
 trimohonisecondaryschool.edu.bd
 udayanwomenscollege.edu.bd
+ulipurmscollege.djs.edu.bd
 updates.eastdelta.edu.bd
 vbss.edu.bd
 wahs.edu.bd
 webdisk.gangjoarhs.edu.bd
+webdisk.ghgp.edu.bd
 webdisk.glorycollege.edu.bd
 webdisk.ldrasc.edu.bd
 webdisk.mirzapurhablhs.edu.bd
@@ -168,6 +178,7 @@ webdisk.rsub.edu.bd
 webdisk.sigm.edu.bd
 webdisk.spscsdohs.edu.bd
 webmail.gangjoarhs.edu.bd
+webmail.ghgp.edu.bd
 webmail.glorycollege.edu.bd
 webmail.ldrasc.edu.bd
 webmail.mirzapurhablhs.edu.bd
@@ -180,9 +191,11 @@ webmail.sigm.edu.bd
 webmail.spscsdohs.edu.bd
 westcharamddiss.edu.bd
 www.admadrasah.edu.bd
+www.admin.pjhs.edu.bd
 www.alumni.jnuenglish.edu.bd
 www.auliabadrkhs.edu.bd
 www.backend.pjhs.edu.bd
+www.baiam.edu.bd
 www.bangabandhuhs95.edu.bd
 www.baniic.edu.bd
 www.bhahsac.edu.bd
@@ -190,7 +203,9 @@ www.bsghs-lakhai.edu.bd
 www.codechefer.com.jathaliaashs.edu.bd
 www.cpghs.edu.bd
 www.dacopegirls.edu.bd
+www.famousinstitutehighschool.edu.bd
 www.gangjoarhs.edu.bd
+www.ghgp.edu.bd
 www.glorycollege.edu.bd
 www.hiatt.edu.bd
 www.inathganjhighschool77.edu.bd
@@ -204,6 +219,7 @@ www.lakhaiacrcphs.edu.bd
 www.law.uoda.edu.bd
 www.ldrasc.edu.bd
 www.mahabubazad.com.bd.moshakhalihs.edu.bd
+www.majhbarisasham.edu.bd
 www.management.jghs.edu.bd
 www.medhabikash.edu.bd
 www.mirzapurhablhs.edu.bd
@@ -230,4 +246,5 @@ www.spscsdohs.edu.bd
 www.students.pundrauniversity.edu.bd
 www.susuahighschool.edu.bd
 www.trimohonisecondaryschool.edu.bd
+www.ulipurmscollege.djs.edu.bd
 zinzirapmpsc.edu.bd
