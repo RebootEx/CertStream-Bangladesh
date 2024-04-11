@@ -1,6 +1,7 @@
 accessibledictionary.gov.bd
 admin.comillalg.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
+admin.vaxepi.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
 akcc.gov.bd
 akkelpurmunicipality.gov.bd
@@ -25,6 +26,7 @@ bangabhaban.gov.bd
 bangladesh.gov.bd
 bangladeshfestival.gov.bd
 bangladeshtourism.gov.bd
+barisalboard.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
@@ -59,6 +61,7 @@ cbsh.gov.bd
 cbsh.rdodterangpur.gov.bd
 ccpc4teens.gov.bd
 cdn.epb-exporttracker.gov.bd
+centralup.comillalg.gov.bd
 chatkhilpourashava.gov.bd
 chattogram.gov.bd
 chattogramdiv.gov.bd
@@ -66,6 +69,7 @@ chhataktsc.gov.bd
 chittagongzoo.gov.bd
 cmmc.gov.bd
 comch.gov.bd
+corona.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpanel.bangladeshfestival.gov.bd
@@ -130,6 +134,7 @@ dtesylhet.gov.bd
 dtesylhet.rdodterangpur.gov.bd
 durjog.gov.bd
 e-service.mymensingheducationboard.gov.bd
+edc.srdl.gov.bd
 edu.bd.gbrcr.gov.bd
 elearning.ec4j.gov.bd
 emrd.gov.bd
@@ -145,6 +150,7 @@ exam.akcc.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
 faridganjmunicipality.gov.bd
+feedback.dos.gov.bd
 fid.gov.bd
 fima.gov.bd
 financialinclusion.gov.bd
@@ -167,6 +173,7 @@ hsd.gov.bd
 idpgazipur.gov.bd
 ifstbcsir.gov.bd
 ihtbogura.gov.bd
+iisb.bidaevents.gov.bd
 ilab.gov.bd
 imam.gov.bd
 imed.gov.bd
@@ -289,6 +296,7 @@ nis.cabinet.gov.bd
 nnsop.gov.bd
 noakhalicoll.gov.bd
 notice.bavs.gov.bd
+nowhatamunicipality.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
 omsdebidwar.gov.bd
@@ -341,6 +349,7 @@ shsmch.gov.bd
 sid.gov.bd
 singramunicipality.gov.bd
 soltrack.gov.bd
+sonaimuripaurashava.gov.bd
 spst.gov.bd
 srishtitetulia.gov.bd
 ssd.gov.bd
@@ -411,6 +420,7 @@ www.ban-fima-web.fima.gov.bd
 www.bangladeshfestival.gov.bd
 www.bangladeshtourism.gov.bd
 www.banihala.upmymensinghholdingtax.gov.bd
+www.barisalboard.gov.bd
 www.barlekhamunicipality.gov.bd
 www.beeer.sreda.gov.bd
 www.beta.nicrh.gov.bd
@@ -421,6 +431,7 @@ www.bstieapp.gov.bd
 www.career.nilmrcbd.gov.bd
 www.cbsh.rdodterangpur.gov.bd
 www.center.dbwctp64.gov.bd
+www.centralup.comillalg.gov.bd
 www.chasebah.btriapps.gov.bd
 www.cmmc.gov.bd
 www.course.fima.gov.bd
@@ -442,6 +453,7 @@ www.ebongobondhu.ansarvdpbank.gov.bd
 www.ecampus.bancharampurtsc.gov.bd
 www.ecampus.chhataktsc.gov.bd
 www.ecampus.hosenabadtsc.gov.bd
+www.edc.srdl.gov.bd
 www.elearning.ec4j.gov.bd
 www.elmis.ntp.gov.bd
 www.en.ifstbcsir.gov.bd
@@ -524,4 +536,5 @@ www.vwb.melandahbhata.gov.bd
 www.wp.tscpatuakhali.gov.bd
 zpdhaka.gov.bd
 zpdinajpur.gov.bd
+zpfaridpur.gov.bd
 zpgaibandha.gov.bd
