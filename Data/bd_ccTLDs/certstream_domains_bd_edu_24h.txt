@@ -10,7 +10,9 @@ autodiscover.gangjoarhs.edu.bd
 autodiscover.mirzapurhablhs.edu.bd
 autodiscover.mukm.edu.bd
 autodiscover.paduaaudskmadrasah.edu.bd
+autodiscover.pjhs.edu.bd
 autodiscover.rsub.edu.bd
+backend.pjhs.edu.bd
 bamb.edu.bd
 bangabandhuhs95.edu.bd
 baniic.edu.bd
@@ -32,6 +34,7 @@ cpanel.ldrasc.edu.bd
 cpanel.mirzapurhablhs.edu.bd
 cpanel.mukm.edu.bd
 cpanel.paduaaudskmadrasah.edu.bd
+cpanel.pjhs.edu.bd
 cpanel.rsub.edu.bd
 cpanel.sigm.edu.bd
 cpanel.spscsdohs.edu.bd
@@ -41,6 +44,7 @@ cpcalendars.ldrasc.edu.bd
 cpcalendars.mirzapurhablhs.edu.bd
 cpcalendars.mukm.edu.bd
 cpcalendars.paduaaudskmadrasah.edu.bd
+cpcalendars.pjhs.edu.bd
 cpcalendars.rsub.edu.bd
 cpcalendars.sigm.edu.bd
 cpcalendars.spscsdohs.edu.bd
@@ -50,6 +54,7 @@ cpcontacts.ldrasc.edu.bd
 cpcontacts.mirzapurhablhs.edu.bd
 cpcontacts.mukm.edu.bd
 cpcontacts.paduaaudskmadrasah.edu.bd
+cpcontacts.pjhs.edu.bd
 cpcontacts.rsub.edu.bd
 cpcontacts.sigm.edu.bd
 cpcontacts.spscsdohs.edu.bd
@@ -96,6 +101,7 @@ mail.mirzapurhablhs.edu.bd
 mail.mukm.edu.bd
 mail.paduaaudskmadrasah.edu.bd
 mail.pigsc.edu.bd
+mail.pjhs.edu.bd
 mail.rsub.edu.bd
 mail.sigm.edu.bd
 mail.spscsdohs.edu.bd
@@ -110,6 +116,7 @@ nengurahatschoolandcollege.edu.bd
 paduaaudskmadrasah.edu.bd
 paikgachaalimmadrasah.edu.bd
 pigsc.edu.bd
+pjhs.edu.bd
 pmhs.edu.bd
 pragmaticplay.gccc.edu.bd
 pundrauniversity.edu.bd
@@ -119,6 +126,7 @@ research.daffodilvarsity.edu.bd
 riddhy.edu.bd
 rkehs.edu.bd
 roghunathpurhighschool.edu.bd
+rsc.edu.bd
 rsub.edu.bd
 saverack.bkdcl.edu.bd
 sbgcr.edu.bd
@@ -133,6 +141,7 @@ spscsdohs.edu.bd
 susuahighschool.edu.bd
 swarupkatipss.edu.bd
 tarashailhs.edu.bd
+tkm.edu.bd
 trimohonisecondaryschool.edu.bd
 udayanwomenscollege.edu.bd
 updates.eastdelta.edu.bd
@@ -144,6 +153,7 @@ webdisk.ldrasc.edu.bd
 webdisk.mirzapurhablhs.edu.bd
 webdisk.mukm.edu.bd
 webdisk.paduaaudskmadrasah.edu.bd
+webdisk.pjhs.edu.bd
 webdisk.rsub.edu.bd
 webdisk.sigm.edu.bd
 webdisk.spscsdohs.edu.bd
@@ -153,6 +163,7 @@ webmail.ldrasc.edu.bd
 webmail.mirzapurhablhs.edu.bd
 webmail.mukm.edu.bd
 webmail.paduaaudskmadrasah.edu.bd
+webmail.pjhs.edu.bd
 webmail.riddhy.edu.bd
 webmail.rsub.edu.bd
 webmail.sigm.edu.bd
@@ -160,6 +171,7 @@ webmail.spscsdohs.edu.bd
 westcharamddiss.edu.bd
 www.alumni.jnuenglish.edu.bd
 www.auliabadrkhs.edu.bd
+www.backend.pjhs.edu.bd
 www.bangabandhuhs95.edu.bd
 www.baniic.edu.bd
 www.bhahsac.edu.bd
@@ -188,6 +200,7 @@ www.naghschool.edu.bd
 www.nengurahatschoolandcollege.edu.bd
 www.paduaaudskmadrasah.edu.bd
 www.pigsc.edu.bd
+www.pjhs.edu.bd
 www.pmhs.edu.bd
 www.portal.pundrauniversity.edu.bd
 www.pragmaticplay.gccc.edu.bd
