@@ -344,6 +344,7 @@ bsmmc.edu.bd
 bsschoolandcollege.edu.bd
 bssp.edu.bd
 bsudm.edu.bd
+business.hgc.edu.bd
 busschool.edu.bd
 bv.rajcpsc.edu.bd
 bwdc.edu.bd
@@ -498,6 +499,7 @@ cpanel.ldrasc.edu.bd
 cpanel.lelangaraphs.edu.bd
 cpanel.lemubaribinodasundaryhighschool.edu.bd
 cpanel.lrhighschool.edu.bd
+cpanel.lshs.edu.bd
 cpanel.matlabcollege.edu.bd
 cpanel.mbc.edu.bd
 cpanel.megamaizbhandari.edu.bd
@@ -547,6 +549,7 @@ cpanel.shovandandicollege.edu.bd
 cpanel.shovandandischool.edu.bd
 cpanel.shsm.edu.bd
 cpanel.sigm.edu.bd
+cpanel.skbdakhilmadrasah.edu.bd
 cpanel.southnichintapurhighschool.edu.bd
 cpanel.spdm.edu.bd
 cpanel.spsc.edu.bd
@@ -656,6 +659,7 @@ cpcalendars.ldrasc.edu.bd
 cpcalendars.lelangaraphs.edu.bd
 cpcalendars.lemubaribinodasundaryhighschool.edu.bd
 cpcalendars.lrhighschool.edu.bd
+cpcalendars.lshs.edu.bd
 cpcalendars.matlabcollege.edu.bd
 cpcalendars.mbc.edu.bd
 cpcalendars.megamaizbhandari.edu.bd
@@ -703,6 +707,7 @@ cpcalendars.shovandandicollege.edu.bd
 cpcalendars.shovandandischool.edu.bd
 cpcalendars.shsm.edu.bd
 cpcalendars.sigm.edu.bd
+cpcalendars.skbdakhilmadrasah.edu.bd
 cpcalendars.southnichintapurhighschool.edu.bd
 cpcalendars.spdm.edu.bd
 cpcalendars.spsc.edu.bd
@@ -811,6 +816,7 @@ cpcontacts.ldrasc.edu.bd
 cpcontacts.lelangaraphs.edu.bd
 cpcontacts.lemubaribinodasundaryhighschool.edu.bd
 cpcontacts.lrhighschool.edu.bd
+cpcontacts.lshs.edu.bd
 cpcontacts.matlabcollege.edu.bd
 cpcontacts.mbc.edu.bd
 cpcontacts.megamaizbhandari.edu.bd
@@ -858,6 +864,7 @@ cpcontacts.shovandandicollege.edu.bd
 cpcontacts.shovandandischool.edu.bd
 cpcontacts.shsm.edu.bd
 cpcontacts.sigm.edu.bd
+cpcontacts.skbdakhilmadrasah.edu.bd
 cpcontacts.southnichintapurhighschool.edu.bd
 cpcontacts.spdm.edu.bd
 cpcontacts.spsc.edu.bd
@@ -1065,6 +1072,7 @@ hamdardpubliccollege.edu.bd
 hamdmboalkhali.edu.bd
 hamdmboalkhali.edu.bd.sdcmhs.edu.bd
 hamghschool.edu.bd
+handialhs.edu.bd
 harikhalitech.edu.bd
 harimohanschool.edu.bd
 hartagirlshs.edu.bd
@@ -1087,6 +1095,7 @@ heghschool.edu.bd
 hgahs.edu.bd
 hhkm.edu.bd
 hiatt.edu.bd
+hkfm.edu.bd
 hkghs.edu.bd
 hkmmohabi.edu.bd
 hmialimmadrasah.edu.bd
@@ -1312,6 +1321,7 @@ lnihs.edu.bd
 lobjancghsc.edu.bd
 lrhighschool.edu.bd
 lscsn.edu.bd
+lshs.edu.bd
 m.bdsdm.edu.bd
 madhabdiamhs.edu.bd
 madrasah.kkim.edu.bd
@@ -1443,6 +1453,7 @@ mail.ldrasc.edu.bd
 mail.lelangaraphs.edu.bd
 mail.lemubaribinodasundaryhighschool.edu.bd
 mail.lrhighschool.edu.bd
+mail.lshs.edu.bd
 mail.matlabcollege.edu.bd
 mail.mbc.edu.bd
 mail.megamaizbhandari.edu.bd
@@ -1476,6 +1487,7 @@ mail.pjhs.edu.bd
 mail.psths.edu.bd
 mail.purboguzaramsm.edu.bd
 mail.putibilahamediafazilmadrasha.edu.bd
+mail.raam.edu.bd
 mail.radhapurhs.edu.bd
 mail.rahamaniahighschool.edu.bd
 mail.rammohanhs.edu.bd
@@ -1501,6 +1513,7 @@ mail.shovandandicollege.edu.bd
 mail.shovandandischool.edu.bd
 mail.shsm.edu.bd
 mail.sigm.edu.bd
+mail.skbdakhilmadrasah.edu.bd
 mail.southnichintapurhighschool.edu.bd
 mail.spdm.edu.bd
 mail.spsc.edu.bd
@@ -1727,6 +1740,7 @@ pwdc.edu.bd
 qbcollege.edu.bd
 qcsc.edu.bd
 qwgkulni.ndhc.edu.bd
+raam.edu.bd
 radhanagarhighschool.edu.bd
 radhapurhs.edu.bd
 rahamaniahighschool.edu.bd
@@ -1802,12 +1816,14 @@ saptaghs.edu.bd
 sarghsp.edu.bd
 sarmhs.edu.bd
 sass.edu.bd
+satgaonhighschool.edu.bd
 satgaonukndm.edu.bd
 sauhs.edu.bd
 saulibrary.edu.bd
 savaracghighschool.edu.bd
 saverack.bkdcl.edu.bd
 sbadm.edu.bd
+sbchs.edu.bd
 sbgc.edu.bd
 sbgcr.edu.bd
 sbghsc.edu.bd
@@ -1862,6 +1878,7 @@ singarolhs.edu.bd
 sisb.edu.bd
 sitei.edu.bd
 siu.edu.bd
+skbdakhilmadrasah.edu.bd
 slnc.edu.bd
 slotgacor.gccc.edu.bd
 slotgacorgampangmaxwin.gccc.edu.bd
@@ -1934,6 +1951,8 @@ susuahighschool.edu.bd
 svis.edu.bd
 swarupkatipss.edu.bd
 swe.application.daffodilvarsity.edu.bd
+swfm.edu.bd
+swfm.kdbbhs.edu.bd
 swnc.edu.bd
 syedpurpiloths.edu.bd
 symposium.daffodilvarsity.edu.bd
@@ -1999,6 +2018,7 @@ url.ahskbera.edu.bd
 urma.edu.bd
 utc.edu.bd
 uttardahighschool.edu.bd
+uttargsnhs.edu.bd
 uttarpaduahighschool.edu.bd
 uttc.edu.bd
 uviom.jhrcdb.edu.bd
@@ -2112,6 +2132,7 @@ webdisk.ldrasc.edu.bd
 webdisk.lelangaraphs.edu.bd
 webdisk.lemubaribinodasundaryhighschool.edu.bd
 webdisk.lrhighschool.edu.bd
+webdisk.lshs.edu.bd
 webdisk.matlabcollege.edu.bd
 webdisk.mbc.edu.bd
 webdisk.megamaizbhandari.edu.bd
@@ -2159,6 +2180,7 @@ webdisk.shovandandicollege.edu.bd
 webdisk.shovandandischool.edu.bd
 webdisk.shsm.edu.bd
 webdisk.sigm.edu.bd
+webdisk.skbdakhilmadrasah.edu.bd
 webdisk.southnichintapurhighschool.edu.bd
 webdisk.spdm.edu.bd
 webdisk.spsc.edu.bd
@@ -2269,6 +2291,7 @@ webmail.ldrasc.edu.bd
 webmail.lelangaraphs.edu.bd
 webmail.lemubaribinodasundaryhighschool.edu.bd
 webmail.lrhighschool.edu.bd
+webmail.lshs.edu.bd
 webmail.matlabcollege.edu.bd
 webmail.mbc.edu.bd
 webmail.megamaizbhandari.edu.bd
@@ -2319,6 +2342,7 @@ webmail.shovandandicollege.edu.bd
 webmail.shovandandischool.edu.bd
 webmail.shsm.edu.bd
 webmail.sigm.edu.bd
+webmail.skbdakhilmadrasah.edu.bd
 webmail.southnichintapurhighschool.edu.bd
 webmail.spdm.edu.bd
 webmail.spsc.edu.bd
@@ -2334,6 +2358,8 @@ webmail.zcbmc.edu.bd
 webportal.ugv.edu.bd
 westcharamddiss.edu.bd
 whm.kaptaihighschool.edu.bd
+whm.lshs.edu.bd
+whm.skbdakhilmadrasah.edu.bd
 woo.proyashrangpur.edu.bd
 work.hbuc.edu.bd
 www.2022.mpahs.edu.bd
@@ -2463,6 +2489,7 @@ www.bsghs-lakhai.edu.bd
 www.bsmhschool.edu.bd
 www.bsschoolandcollege.edu.bd
 www.bsudm.edu.bd
+www.business.hgc.edu.bd
 www.bwdc.edu.bd
 www.c.bwc.edu.bd
 www.c.khajurtalamc.edu.bd
@@ -2576,6 +2603,7 @@ www.heakmam.edu.bd
 www.hgahs.edu.bd.ihsh.edu.bd
 www.hhkm.edu.bd
 www.hiatt.edu.bd
+www.hkfm.edu.bd
 www.hkghs.edu.bd
 www.hmialimmadrasah.edu.bd
 www.hmkm.edu.bd.dagma.edu.bd
@@ -2688,6 +2716,7 @@ www.linksbobet.gccc.edu.bd
 www.lnihs.edu.bd
 www.lobjancghsc.edu.bd
 www.lrhighschool.edu.bd
+www.lshs.edu.bd
 www.m.bdsdm.edu.bd
 www.madrasah.kkim.edu.bd
 www.mahabubazad.com.bd.moshakhalihs.edu.bd
@@ -2801,6 +2830,7 @@ www.puthimarihs.edu.bd
 www.putibilahamediafazilmadrasha.edu.bd
 www.pwdc.edu.bd
 www.qwgkulni.ndhc.edu.bd
+www.raam.edu.bd
 www.radhapurhs.edu.bd
 www.rahamaniahighschool.edu.bd
 www.rajakhalispamuidm.edu.bd
@@ -2839,11 +2869,13 @@ www.safdm.edu.bd
 www.saitaliadakhilmadrasha.edu.bd
 www.saptaghs.edu.bd
 www.sarghsp.edu.bd
+www.satgaonhighschool.edu.bd
 www.satgaonukndm.edu.bd
 www.saulibrary.edu.bd
 www.savaracghighschool.edu.bd
 www.saverack.bkdcl.edu.bd
 www.sbadm.edu.bd
+www.sbchs.edu.bd
 www.sbgcr.edu.bd
 www.sbhschool.edu.bd
 www.sbngghs.edu.bd
@@ -2874,6 +2906,7 @@ www.shyamolinursing.edu.bd.traumainstitute.edu.bd
 www.sigm.edu.bd
 www.sitei.edu.bd
 www.sjhsc.edu.bd
+www.skbdakhilmadrasah.edu.bd
 www.slotgacor.gccc.edu.bd
 www.slotgacorgampangmenang777.gccc.edu.bd
 www.slotgacorhariini.gccc.edu.bd
@@ -2910,6 +2943,7 @@ www.study.ronit.edu.bd
 www.suabilgirlshighschool.edu.bd
 www.subidkhaligovtrihs.empo.edu.bd
 www.susuahighschool.edu.bd
+www.swfm.kdbbhs.edu.bd
 www.syedpurpiloths.edu.bd
 www.taghs.edu.bd
 www.tcgmfhhs.edu.bd

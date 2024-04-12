@@ -63,6 +63,7 @@ cpanel.bpemc.gov.bd
 cpanel.durjog.gov.bd
 cpanel.gnc.gov.bd
 cpanel.moulvibazartsc.gov.bd
+cpanel.mspvaw.gov.bd
 cpanel.mudp.gov.bd
 cpanel.promise.gov.bd
 cpanel.psb.gov.bd
@@ -75,6 +76,7 @@ cpcalendars.bhairabtsc.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.durjog.gov.bd
 cpcalendars.gnc.gov.bd
+cpcalendars.mspvaw.gov.bd
 cpcalendars.mudp.gov.bd
 cpcalendars.promise.gov.bd
 cpcalendars.psb.gov.bd
@@ -87,6 +89,7 @@ cpcontacts.bhairabtsc.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.durjog.gov.bd
 cpcontacts.gnc.gov.bd
+cpcontacts.mspvaw.gov.bd
 cpcontacts.mudp.gov.bd
 cpcontacts.promise.gov.bd
 cpcontacts.psb.gov.bd
@@ -149,6 +152,7 @@ ladhaka.gov.bd
 lalmohanpaurashava.gov.bd
 learn.freelancers.gov.bd
 lgservice.gov.bd
+llv.mspvaw.gov.bd
 lms.pmo.gov.bd
 lv.mspvaw.gov.bd
 lwservice.gov.bd
@@ -166,6 +170,7 @@ mail.durjog.gov.bd
 mail.gnc.gov.bd
 mail.lwservice.gov.bd
 mail.moulvibazartsc.gov.bd
+mail.mspvaw.gov.bd
 mail.mudp.gov.bd
 mail.promise.gov.bd
 mail.psb.gov.bd
@@ -181,6 +186,7 @@ mbgc.gov.bd
 mohanganjpaurashava.gov.bd
 mopa.gov.bd
 moulvibazartsc.gov.bd
+mspvaw.gov.bd
 mta-sts.nothi.gov.bd
 mudp.gov.bd
 muktopaath.gov.bd
@@ -271,6 +277,7 @@ webdisk.bhairabtsc.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.durjog.gov.bd
 webdisk.gnc.gov.bd
+webdisk.mspvaw.gov.bd
 webdisk.mudp.gov.bd
 webdisk.promise.gov.bd
 webdisk.psb.gov.bd
@@ -285,6 +292,7 @@ webmail.durjog.gov.bd
 webmail.gnc.gov.bd
 webmail.lwservice.gov.bd
 webmail.moulvibazartsc.gov.bd
+webmail.mspvaw.gov.bd
 webmail.mudp.gov.bd
 webmail.promise.gov.bd
 webmail.psb.gov.bd
@@ -333,6 +341,7 @@ www.ilab.gov.bd
 www.ispr.gov.bd
 www.jsc.mymensingheducationboard.gov.bd
 www.kranti.bamis.gov.bd
+www.llv.mspvaw.gov.bd
 www.lv.mspvaw.gov.bd
 www.lwservice.gov.bd
 www.maijdeetsc.gov.bd
@@ -342,6 +351,7 @@ www.majidpurup.gov.bd
 www.mopa.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moulvibazartsc.gov.bd
+www.mspvaw.gov.bd
 www.mudp.gov.bd
 www.mymail.ssnimc.gov.bd
 www.new.bhtpa.gov.bd
