@@ -21,6 +21,7 @@ nsdi.gov.bd
 pdb.mcishr.dghs.gov.bd
 proxy.mcishr.dghs.gov.bd
 rndvm1.dghs.gov.bd
+rpi.gov.bd
 santhiapaurashava.gov.bd
 test.jaldhakamunicipality.gov.bd
 useoishwarganj.gov.bd
@@ -28,7 +29,17 @@ visitormgt.beza.gov.bd
 webdisk.nins.gov.bd
 webmail.nins.gov.bd
 www.abc.dsw.gov.bd
+www.admins.rpi.gov.bd
+www.api.rpi.gov.bd
+www.apis.rpi.gov.bd
+www.application.rpi.gov.bd
+www.employee-server.rpi.gov.bd
+www.employee.rpi.gov.bd
+www.idcard.rpi.gov.bd
+www.masterapi.rpi.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.nins.gov.bd
+www.seat.rpi.gov.bd
+www.stipend.rpi.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.visitormgt.beza.gov.bd
