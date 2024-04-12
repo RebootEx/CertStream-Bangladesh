@@ -1,5 +1,7 @@
 14upazilaudd.gov.bd
+aaic.gov.bd
 accessibledictionary.gov.bd
+admin.bmd.gov.bd
 admin.comillalg.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 admin.vaxepi.gov.bd
@@ -10,10 +12,12 @@ amumc.gov.bd
 ansarvdpbank.gov.bd
 api.barisalboard.gov.bd
 api.spellcheck.bangla.gov.bd
+app.bdhckl.gov.bd
 app.dghs.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
+appointment.bdhckl.gov.bd
 apps.jamalpurttc.gov.bd
 autodiscover.bhairabtsc.gov.bd
 autodiscover.bpemc.gov.bd
@@ -31,6 +35,7 @@ barishal.gov.bd
 barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
 bcms.gov.bd
+bdhckl.gov.bd
 bdp.gov.bd
 bdrisnotification.dghs.gov.bd
 beeer.sreda.gov.bd
@@ -59,6 +64,7 @@ cafopmo.gov.bd
 cafopower.gov.bd
 cafoptd.gov.bd
 career.nilmrcbd.gov.bd
+case-moef.gov.bd
 cbsh.gov.bd
 cbsh.rdodterangpur.gov.bd
 ccpc4teens.gov.bd
@@ -69,11 +75,13 @@ chhataktsc.gov.bd
 chittagongzoo.gov.bd
 cmmc.gov.bd
 comch.gov.bd
+comillaboard.gov.bd
 corona.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bangladeshfestival.gov.bd
+cpanel.bdhckl.gov.bd
 cpanel.bhairabtsc.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.durjog.gov.bd
@@ -90,6 +98,7 @@ cpanel.shariatpurtsc.gov.bd
 cpanel.ugc-hemis.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
+cpcalendars.bdhckl.gov.bd
 cpcalendars.bhairabtsc.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.durjog.gov.bd
@@ -105,6 +114,7 @@ cpcalendars.shariatpurtsc.gov.bd
 cpcalendars.ugc-hemis.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
+cpcontacts.bdhckl.gov.bd
 cpcontacts.bhairabtsc.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.durjog.gov.bd
@@ -148,9 +158,11 @@ exam.akcc.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
 faridganjmunicipality.gov.bd
+fc.distgopalganj.gov.bd
 feedback.dos.gov.bd
 fima.gov.bd
 financialinclusion.gov.bd
+foodfornation.gov.bd
 fpmu.mofood.gov.bd
 fsc.fireservice.gov.bd
 ftp.moulvibazartsc.gov.bd
@@ -186,11 +198,13 @@ journal.bcsadminacademy.gov.bd
 joyparatsc.gov.bd
 jsc.mymensingheducationboard.gov.bd
 judiciary.gov.bd
+kaliakairpourashava.gov.bd
 kmch.gov.bd
 kranti.bamis.gov.bd
 labrepository.bfsa.gov.bd
 ladhaka.gov.bd
 lalmohanpaurashava.gov.bd
+learn.freelancers.gov.bd
 lgservice.gov.bd
 lms.pmo.gov.bd
 lv.mspvaw.gov.bd
@@ -200,10 +214,12 @@ mail.14upazilaudd.gov.bd
 mail.akkelpurmunicipality.gov.bd
 mail.bangladeshfestival.gov.bd
 mail.bangladeshtourism.gov.bd
+mail.bdhckl.gov.bd
 mail.bhairabtsc.gov.bd
 mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.btcltelesheba.gov.bd
+mail.case-moef.gov.bd
 mail.du.gameapp.gov.bd
 mail.durjog.gov.bd
 mail.gnc.gov.bd
@@ -215,6 +231,7 @@ mail.mudp.gov.bd
 mail.promise.gov.bd
 mail.psb.gov.bd
 mail.railwayestate.gov.bd
+mail.regionalwildlife.gov.bd
 mail.rmch.gov.bd
 mail.shariatpurtsc.gov.bd
 mail.ugc-hemis.gov.bd
@@ -226,6 +243,7 @@ mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 migration.gov.bd
 mmcm.gov.bd
+mohanganjpaurashava.gov.bd
 mopa.gov.bd
 moulvibazartsc.gov.bd
 mta-sts.nothi.gov.bd
@@ -244,6 +262,7 @@ navy.mil.bd
 ncc.gov.bd
 ndc.gov.bd
 new.bhtpa.gov.bd
+new.chauddagramgovcollege.gov.bd
 new.pict.gov.bd
 new.rgamc.gov.bd
 news.police.gov.bd
@@ -262,20 +281,24 @@ origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 outsp.kmch.gov.bd
 patharghatapourashava.gov.bd
+pdb.mcishr.dghs.gov.bd
 pdb.shrlive.dghs.gov.bd
 pibelearning.gov.bd
 previous.bajitpurpaurashava.gov.bd
 profile.nins.gov.bd
 promise.gov.bd
+proxy.mcishr.dghs.gov.bd
 psb.gov.bd
 railwayestate.gov.bd
 rajshahiboard.gov.bd
 rangamaticollege.gov.bd
 rca-lged.gov.bd
 reg.dc-rangamati.gov.bd
+regionalwildlife.gov.bd
 register.gameapp.gov.bd
 rems.railwayestate.gov.bd
 report.gov.bd
+result.fci.gov.bd
 rmch.gov.bd
 rms.bscl.gov.bd
 rndvm1.dghs.gov.bd
@@ -295,6 +318,7 @@ sfcnavy.gov.bd
 sgtc.gov.bd
 shariatpurtsc.gov.bd
 sheikhrussel.gov.bd
+shibpurpaurashava.gov.bd
 shmcj.gov.bd
 shsmch.gov.bd
 singramunicipality.gov.bd
@@ -306,8 +330,10 @@ ssnimc.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 startupbangladesh.gov.bd
 sundarbantourism.bforest.gov.bd
+szmc.gov.bd
 taxappealzone4dhaka.gov.bd
 taxeszone18dhaka.gov.bd
+tds.taxeszone9dhaka.gov.bd
 test.gameapp.gov.bd
 test.jamalpurttc.gov.bd
 test.msw-soft.gov.bd
@@ -328,6 +354,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.14upazilaudd.gov.bd
 webdisk.bangladeshfestival.gov.bd
+webdisk.bdhckl.gov.bd
 webdisk.bhairabtsc.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.durjog.gov.bd
@@ -344,6 +371,7 @@ webdisk.ugc-hemis.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.bangladeshfestival.gov.bd
+webmail.bdhckl.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bpemc.gov.bd
 webmail.durjog.gov.bd
@@ -371,6 +399,7 @@ www.bangladeshtourism.gov.bd
 www.banihala.upmymensinghholdingtax.gov.bd
 www.barisalboard.gov.bd
 www.barlekhamunicipality.gov.bd
+www.bdhckl.gov.bd
 www.beeer.sreda.gov.bd
 www.beta.nicrh.gov.bd
 www.bhairabtsc.gov.bd
@@ -378,6 +407,7 @@ www.board.mymensingheducationboard.gov.bd
 www.bpemc.gov.bd
 www.bstieapp.gov.bd
 www.career.nilmrcbd.gov.bd
+www.case-moef.gov.bd
 www.cbsh.rdodterangpur.gov.bd
 www.center.dbwctp64.gov.bd
 www.centralup.comillalg.gov.bd
@@ -404,6 +434,7 @@ www.elmis.ntp.gov.bd
 www.en.ifstbcsir.gov.bd
 www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
+www.fc.distgopalganj.gov.bd
 www.fpmu.mofood.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
 www.gazette.railwayestate.gov.bd
@@ -432,6 +463,7 @@ www.mudp.gov.bd
 www.mymail.ssnimc.gov.bd
 www.navy.mil.bd
 www.new.bhtpa.gov.bd
+www.new.chauddagramgovcollege.gov.bd
 www.new.pict.gov.bd
 www.new.rgamc.gov.bd
 www.newsite.zsorangpur.gov.bd
@@ -447,8 +479,10 @@ www.promise.gov.bd
 www.psb.gov.bd
 www.railwayestate.gov.bd
 www.rajshahiboard.gov.bd
+www.regionalwildlife.gov.bd
 www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
+www.result.fci.gov.bd
 www.rmch.gov.bd
 www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
@@ -461,6 +495,7 @@ www.software.dbwctp64.gov.bd
 www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
+www.tds.taxeszone9dhaka.gov.bd
 www.teasoft.btriapps.gov.bd
 www.test.gameapp.gov.bd
 www.test.jamalpurttc.gov.bd
