@@ -13,6 +13,7 @@ autodiscover.gfs.edu.bd
 autodiscover.mbhec.edu.bd
 autodiscover.ngc.edu.bd
 autodiscover.nmdcn.edu.bd
+autodiscover.tdudm.edu.bd
 baures.bau.edu.bd
 beragirlspiloths.edu.bd
 bidmm.edu.bd
@@ -23,6 +24,7 @@ campaign.bubt.edu.bd
 cces.edu.bd
 cdc.daffodilvarsity.edu.bd
 cdhddm.edu.bd
+cfghs.edu.bd
 cgbmhs.edu.bd
 cjfm.edu.bd
 ckhsh.edu.bd
@@ -38,6 +40,8 @@ cpanel.kmts.edu.bd
 cpanel.mbhec.edu.bd
 cpanel.ngc.edu.bd
 cpanel.nmdcn.edu.bd
+cpanel.rces.edu.bd
+cpanel.tdudm.edu.bd
 cpanel.thsm.edu.bd
 cpcalendars.adarshahighkmhatfeni.edu.bd
 cpcalendars.bidmm.edu.bd
@@ -50,6 +54,8 @@ cpcalendars.kmts.edu.bd
 cpcalendars.mbhec.edu.bd
 cpcalendars.ngc.edu.bd
 cpcalendars.nmdcn.edu.bd
+cpcalendars.rces.edu.bd
+cpcalendars.tdudm.edu.bd
 cpcalendars.thsm.edu.bd
 cpcontacts.adarshahighkmhatfeni.edu.bd
 cpcontacts.bidmm.edu.bd
@@ -62,12 +68,15 @@ cpcontacts.kmts.edu.bd
 cpcontacts.mbhec.edu.bd
 cpcontacts.ngc.edu.bd
 cpcontacts.nmdcn.edu.bd
+cpcontacts.rces.edu.bd
+cpcontacts.tdudm.edu.bd
 cpcontacts.thsm.edu.bd
 dblss.edu.bd
 dowhakhalahighschool.edu.bd
 dulalpurhighschool.edu.bd
 engolympics.daffodilvarsity.edu.bd
 financialaid.daffodilvarsity.edu.bd
+gafargaongovtcollege.edu.bd
 gagc.edu.bd
 gfs.edu.bd
 hasanpursncollege.edu.bd
@@ -103,6 +112,8 @@ mail.kmts.edu.bd
 mail.mbhec.edu.bd
 mail.ngc.edu.bd
 mail.nmdcn.edu.bd
+mail.rces.edu.bd
+mail.tdudm.edu.bd
 mail.thsm.edu.bd
 mantalahs.edu.bd
 mbhec.edu.bd
@@ -122,6 +133,7 @@ payment.daffodilvarsity.edu.bd
 photo.eminence.edu.bd
 portal.mahhs.edu.bd
 progotihs.edu.bd
+rces.edu.bd
 rtpslotgacordepo10.gccc.edu.bd
 rudranischoolandcollege.edu.bd
 sccc.edu.bd
@@ -135,6 +147,8 @@ student.uoda.edu.bd
 studentportal.mahhs.edu.bd
 subss.abedhalimaidm.edu.bd
 summit.daffodilvarsity.edu.bd
+tdidm.edu.bd
+tdudm.edu.bd
 thsm.edu.bd
 tnghs.edu.bd
 togotunic.poarbarihighschool.edu.bd
@@ -152,6 +166,8 @@ webdisk.kmts.edu.bd
 webdisk.mbhec.edu.bd
 webdisk.ngc.edu.bd
 webdisk.nmdcn.edu.bd
+webdisk.rces.edu.bd
+webdisk.tdudm.edu.bd
 webdisk.thsm.edu.bd
 webmail.adarshahighkmhatfeni.edu.bd
 webmail.bidmm.edu.bd
@@ -164,6 +180,8 @@ webmail.kmts.edu.bd
 webmail.mbhec.edu.bd
 webmail.ngc.edu.bd
 webmail.nmdcn.edu.bd
+webmail.rces.edu.bd
+webmail.tdudm.edu.bd
 webmail.thsm.edu.bd
 webportal.mahhs.edu.bd
 wifi.diu.edu.bd
@@ -198,11 +216,14 @@ www.ngc.edu.bd
 www.nist.edu.bd
 www.nmdcn.edu.bd
 www.progotihs.edu.bd
+www.rces.edu.bd
 www.rtpslotgacordepo10.gccc.edu.bd
 www.school.rbub.edu.bd
 www.sisac.edu.bd
 www.sm-global.igmis.edu.bd
 www.sms.cub.edu.bd
 www.student.uoda.edu.bd
+www.tdidm.edu.bd
+www.tdudm.edu.bd
 www.thsm.edu.bd
 www.togotunic.poarbarihighschool.edu.bd
