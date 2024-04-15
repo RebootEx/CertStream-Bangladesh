@@ -2,6 +2,7 @@ aaahs.edu.bd
 abjs.edu.bd
 agmc.edu.bd
 ahsbagmara.edu.bd
+ajchs.edu.bd
 ajucollege.edu.bd
 amhighschoolhatia.edu.bd
 amschaluaghat.edu.bd
@@ -13,6 +14,7 @@ atghariahighschool.edu.bd
 autodiscover.chalkbazarjhs.edu.bd
 autodiscover.ctti.edu.bd
 autodiscover.nagarnursing.edu.bd
+autodiscover.nfidm.edu.bd
 autodiscover.niist.edu.bd
 autodiscover.pkthhs.edu.bd
 autodiscover.rakm.edu.bd
@@ -50,6 +52,7 @@ cmpi.edu.bd
 codeseba.xyz.gangghs.edu.bd
 convocation.vu.edu.bd
 courses.iom.edu.bd
+cpanel.ajchs.edu.bd
 cpanel.anowara.edu.bd
 cpanel.chalkbazarjhs.edu.bd
 cpanel.cidch.edu.bd
@@ -60,6 +63,7 @@ cpanel.jashimuddin.edu.bd
 cpanel.khashhashil.edu.bd
 cpanel.mgmc.edu.bd
 cpanel.nagarnursing.edu.bd
+cpanel.nfidm.edu.bd
 cpanel.pkthhs.edu.bd
 cpanel.rakm.edu.bd
 cpanel.rumdo.edu.bd
@@ -68,6 +72,7 @@ cpanel.saicmedical.edu.bd
 cpanel.simt.edu.bd
 cpanel.uttara.edu.bd
 cpanel.zcbmc.edu.bd
+cpcalendars.ajchs.edu.bd
 cpcalendars.anowara.edu.bd
 cpcalendars.chalkbazarjhs.edu.bd
 cpcalendars.cidch.edu.bd
@@ -78,6 +83,7 @@ cpcalendars.jashimuddin.edu.bd
 cpcalendars.khashhashil.edu.bd
 cpcalendars.mgmc.edu.bd
 cpcalendars.nagarnursing.edu.bd
+cpcalendars.nfidm.edu.bd
 cpcalendars.pkthhs.edu.bd
 cpcalendars.rakm.edu.bd
 cpcalendars.rumdo.edu.bd
@@ -86,6 +92,7 @@ cpcalendars.saicmedical.edu.bd
 cpcalendars.simt.edu.bd
 cpcalendars.uttara.edu.bd
 cpcalendars.zcbmc.edu.bd
+cpcontacts.ajchs.edu.bd
 cpcontacts.anowara.edu.bd
 cpcontacts.chalkbazarjhs.edu.bd
 cpcontacts.cidch.edu.bd
@@ -95,6 +102,7 @@ cpcontacts.jashimuddin.edu.bd
 cpcontacts.khashhashil.edu.bd
 cpcontacts.mgmc.edu.bd
 cpcontacts.nagarnursing.edu.bd
+cpcontacts.nfidm.edu.bd
 cpcontacts.niist.edu.bd
 cpcontacts.pkthhs.edu.bd
 cpcontacts.rakm.edu.bd
@@ -155,8 +163,10 @@ khanepurhs.edu.bd
 khariatmdm.edu.bd
 khashhashil.edu.bd
 khujgipur-mu-hs.edu.bd
+lab.bgeju.edu.bd
 lbhsc.edu.bd
 lgc.edu.bd
+mail.ajchs.edu.bd
 mail.anowara.edu.bd
 mail.chalkbazarjhs.edu.bd
 mail.cidch.edu.bd
@@ -168,6 +178,7 @@ mail.khashhashil.edu.bd
 mail.majiruddinhs.edu.bd
 mail.mgmc.edu.bd
 mail.nagarnursing.edu.bd
+mail.nfidm.edu.bd
 mail.pkthhs.edu.bd
 mail.rakm.edu.bd
 mail.rumdo.edu.bd
@@ -187,6 +198,7 @@ munsirtallukgdm.edu.bd
 nabinagarghs.edu.bd
 nagarnursing.edu.bd
 nasiruddinhs.edu.bd
+nfidm.edu.bd
 nhschool.edu.bd
 niist.edu.bd
 nss1990.edu.bd
@@ -233,6 +245,7 @@ uttara-edu-bd.uttarauniversity.edu.bd
 uttara.edu.bd
 validate.vu.edu.bd
 vm3.iom.edu.bd
+webdisk.ajchs.edu.bd
 webdisk.anowara.edu.bd
 webdisk.chalkbazarjhs.edu.bd
 webdisk.cidch.edu.bd
@@ -242,6 +255,7 @@ webdisk.jashimuddin.edu.bd
 webdisk.khashhashil.edu.bd
 webdisk.mgmc.edu.bd
 webdisk.nagarnursing.edu.bd
+webdisk.nfidm.edu.bd
 webdisk.niist.edu.bd
 webdisk.pkthhs.edu.bd
 webdisk.rakm.edu.bd
@@ -251,6 +265,7 @@ webdisk.saicmedical.edu.bd
 webdisk.simt.edu.bd
 webdisk.uttara.edu.bd
 webdisk.zcbmc.edu.bd
+webmail.ajchs.edu.bd
 webmail.anowara.edu.bd
 webmail.chalkbazarjhs.edu.bd
 webmail.cidch.edu.bd
@@ -261,6 +276,7 @@ webmail.jashimuddin.edu.bd
 webmail.khashhashil.edu.bd
 webmail.mgmc.edu.bd
 webmail.nagarnursing.edu.bd
+webmail.nfidm.edu.bd
 webmail.niist.edu.bd
 webmail.pkthhs.edu.bd
 webmail.rakm.edu.bd
@@ -280,6 +296,7 @@ whm.simt.edu.bd
 www.abjs.edu.bd
 www.agmc.edu.bd
 www.ahsbagmara.edu.bd
+www.ajchs.edu.bd
 www.amhighschoolhatia.edu.bd
 www.amschaluaghat.edu.bd.ihsh.edu.bd
 www.annex.bubt.edu.bd
@@ -324,12 +341,14 @@ www.kashiabari.edu.bd
 www.kdm1945.edu.bd
 www.khashhashil.edu.bd
 www.khujgipur-mu-hs.edu.bd
+www.lab.bgeju.edu.bd
 www.lbhsc.edu.bd
 www.login.borishurschoolandcollege.edu.bd
 www.majiruddinhs.edu.bd
 www.mgmc.edu.bd
 www.nagarnursing.edu.bd
 www.nasiruddinhs.edu.bd
+www.nfidm.edu.bd
 www.niist.edu.bd
 www.paragaon.kathoraidm.edu.bd
 www.parilahighschool.edu.bd
