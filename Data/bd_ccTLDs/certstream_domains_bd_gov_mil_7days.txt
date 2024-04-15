@@ -57,6 +57,7 @@ cpanel.gnc.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.mymensingheducationboard.gov.bd
 cpanel.nins.gov.bd
+cpanel.ppi.gov.bd
 cpanel.promise.gov.bd
 cpanel.psb.gov.bd
 cpanel.railwayestate.gov.bd
@@ -69,6 +70,7 @@ cpcalendars.mspvaw.gov.bd
 cpcalendars.mymensingheducationboard.gov.bd
 cpcalendars.nins.gov.bd
 cpcalendars.pbi.gov.bd
+cpcalendars.ppi.gov.bd
 cpcalendars.promise.gov.bd
 cpcalendars.psb.gov.bd
 cpcalendars.railwayestate.gov.bd
@@ -81,6 +83,7 @@ cpcontacts.mspvaw.gov.bd
 cpcontacts.mymensingheducationboard.gov.bd
 cpcontacts.nins.gov.bd
 cpcontacts.pbi.gov.bd
+cpcontacts.ppi.gov.bd
 cpcontacts.promise.gov.bd
 cpcontacts.psb.gov.bd
 cpcontacts.railwayestate.gov.bd
@@ -149,6 +152,7 @@ mail.gnc.gov.bd
 mail.mspvaw.gov.bd
 mail.mymensingheducationboard.gov.bd
 mail.nins.gov.bd
+mail.ppi.gov.bd
 mail.promise.gov.bd
 mail.psb.gov.bd
 mail.railwayestate.gov.bd
@@ -159,6 +163,7 @@ mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mohanganjpaurashava.gov.bd
 mspvaw.gov.bd
+mspvawpre.mspvaw.gov.bd
 mta-sts.nothi.gov.bd
 mymensingheducationboard.gov.bd
 nabinagarpourashava.gov.bd
@@ -180,6 +185,7 @@ patient-hsms.somch.gov.bd
 pbi.gov.bd
 pdb.mcishr.dghs.gov.bd
 pibelearning.gov.bd
+ppi.gov.bd
 promise.gov.bd
 proxy.mcishr.dghs.gov.bd
 psb.gov.bd
@@ -233,6 +239,7 @@ webdisk.mspvaw.gov.bd
 webdisk.mymensingheducationboard.gov.bd
 webdisk.nins.gov.bd
 webdisk.pbi.gov.bd
+webdisk.ppi.gov.bd
 webdisk.promise.gov.bd
 webdisk.psb.gov.bd
 webdisk.railwayestate.gov.bd
@@ -244,6 +251,7 @@ webmail.gnc.gov.bd
 webmail.mspvaw.gov.bd
 webmail.mymensingheducationboard.gov.bd
 webmail.nins.gov.bd
+webmail.ppi.gov.bd
 webmail.promise.gov.bd
 webmail.psb.gov.bd
 webmail.railwayestate.gov.bd
@@ -333,6 +341,7 @@ www.masterapi.rpi.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohichialup.comillalg.gov.bd
 www.mspvaw.gov.bd
+www.mspvawpre.mspvaw.gov.bd
 www.mymensingheducationboard.gov.bd
 www.new.chauddagramgovcollege.gov.bd
 www.ngwc.gov.bd
@@ -345,6 +354,7 @@ www.pbi.gov.bd
 www.perulnorthup.comillalg.gov.bd
 www.perulsouthup.comillalg.gov.bd
 www.pmhsr.edu.bd.gbrcr.gov.bd
+www.ppi.gov.bd
 www.promise.gov.bd
 www.psb.gov.bd
 www.railwayestate.gov.bd
