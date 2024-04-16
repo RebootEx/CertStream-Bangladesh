@@ -90,12 +90,14 @@ atghariahighschool.edu.bd
 attendance.hgc.edu.bd
 auliabadrkhs.edu.bd
 aushs.edu.bd
+auth.test.bhsh.edu.bd
 autodiscover.abdullapursschool.edu.bd
 autodiscover.adarshahighkmhatfeni.edu.bd
 autodiscover.aghs95.edu.bd
 autodiscover.al-ihsanhighschool.edu.bd
 autodiscover.asam.edu.bd
 autodiscover.aushs.edu.bd
+autodiscover.bdahs.edu.bd
 autodiscover.bdmlhighschool.edu.bd
 autodiscover.bghs.edu.bd
 autodiscover.bhangagovpiloths.edu.bd
@@ -243,6 +245,7 @@ bbidm.edu.bd
 bbkhs.edu.bd
 bbsac.edu.bd
 bcc.edu.bd
+bdahs.edu.bd
 bdam1947.edu.bd
 bdcip.edu.bd
 bddm.cmdm.edu.bd
@@ -286,6 +289,7 @@ birampurcollege.edu.bd
 birjoanhighschool.edu.bd
 bkdcl.edu.bd
 bkghs.edu.bd
+bkuc.edu.bd
 blog.nist.edu.bd
 bmc.edu.bd
 bmcbarisal.edu.bd
@@ -398,6 +402,7 @@ cpanel.asam.edu.bd
 cpanel.aushs.edu.bd
 cpanel.bazrabohumukhihighschool.edu.bd
 cpanel.bbcpsc.edu.bd
+cpanel.bdahs.edu.bd
 cpanel.bdmlhighschool.edu.bd
 cpanel.bfkdc.edu.bd
 cpanel.bghs.edu.bd
@@ -408,6 +413,7 @@ cpanel.bhujpurmodelhighschool.edu.bd
 cpanel.bidmm.edu.bd
 cpanel.bilnaliamhs.edu.bd
 cpanel.bkghs.edu.bd
+cpanel.bkuc.edu.bd
 cpanel.bmmmadrasha.edu.bd
 cpanel.boilcharinhighschool.edu.bd
 cpanel.brahmandangahighschool.edu.bd
@@ -561,6 +567,7 @@ cpcalendars.asam.edu.bd
 cpcalendars.aushs.edu.bd
 cpcalendars.bazrabohumukhihighschool.edu.bd
 cpcalendars.bbcpsc.edu.bd
+cpcalendars.bdahs.edu.bd
 cpcalendars.bdmlhighschool.edu.bd
 cpcalendars.bfkdc.edu.bd
 cpcalendars.bghs.edu.bd
@@ -571,6 +578,7 @@ cpcalendars.bhujpurmodelhighschool.edu.bd
 cpcalendars.bidmm.edu.bd
 cpcalendars.bilnaliamhs.edu.bd
 cpcalendars.bkghs.edu.bd
+cpcalendars.bkuc.edu.bd
 cpcalendars.bmmmadrasha.edu.bd
 cpcalendars.boilcharinhighschool.edu.bd
 cpcalendars.brahmandangahighschool.edu.bd
@@ -722,6 +730,7 @@ cpcontacts.asam.edu.bd
 cpcontacts.aushs.edu.bd
 cpcontacts.bazrabohumukhihighschool.edu.bd
 cpcontacts.bbcpsc.edu.bd
+cpcontacts.bdahs.edu.bd
 cpcontacts.bdmlhighschool.edu.bd
 cpcontacts.bfkdc.edu.bd
 cpcontacts.bghs.edu.bd
@@ -732,6 +741,7 @@ cpcontacts.bhujpurmodelhighschool.edu.bd
 cpcontacts.bidmm.edu.bd
 cpcontacts.bilnaliamhs.edu.bd
 cpcontacts.bkghs.edu.bd
+cpcontacts.bkuc.edu.bd
 cpcontacts.bmmmadrasha.edu.bd
 cpcontacts.boilcharinhighschool.edu.bd
 cpcontacts.brahmandangahighschool.edu.bd
@@ -904,6 +914,7 @@ dehsgshdk.edu.bd
 demo.bam.edu.bd
 demo.saicmedical.edu.bd
 deutyhsandc.edu.bd
+dev.mhsa.edu.bd
 dgahs.edu.bd
 dgham.edu.bd
 dgmhs2018.edu.bd
@@ -1328,6 +1339,7 @@ mail.aushs.edu.bd
 mail.bazrabohumukhihighschool.edu.bd
 mail.bbcpsc.edu.bd
 mail.bbic.edu.bd
+mail.bdahs.edu.bd
 mail.bdmlhighschool.edu.bd
 mail.bfkdc.edu.bd
 mail.bghs.edu.bd
@@ -1338,6 +1350,7 @@ mail.bhujpurmodelhighschool.edu.bd
 mail.bidmm.edu.bd
 mail.bilnaliamhs.edu.bd
 mail.bkghs.edu.bd
+mail.bkuc.edu.bd
 mail.bmmmadrasha.edu.bd
 mail.boilcharinhighschool.edu.bd
 mail.brahmandangahighschool.edu.bd
@@ -1593,6 +1606,7 @@ narayanhathighschool.edu.bd
 nasiruddinhs.edu.bd
 natidangadm.edu.bd
 nauhs.edu.bd
+nayaparaalhajnobihossainhighschool.edu.bd
 naziburrahmangirlshighschool.edu.bd
 nbmghs.edu.bd
 ndsc.edu.bd
@@ -1985,6 +1999,7 @@ webdisk.asam.edu.bd
 webdisk.aushs.edu.bd
 webdisk.bazrabohumukhihighschool.edu.bd
 webdisk.bbcpsc.edu.bd
+webdisk.bdahs.edu.bd
 webdisk.bdmlhighschool.edu.bd
 webdisk.bfkdc.edu.bd
 webdisk.bghs.edu.bd
@@ -1995,6 +2010,7 @@ webdisk.bhujpurmodelhighschool.edu.bd
 webdisk.bidmm.edu.bd
 webdisk.bilnaliamhs.edu.bd
 webdisk.bkghs.edu.bd
+webdisk.bkuc.edu.bd
 webdisk.bmmmadrasha.edu.bd
 webdisk.boilcharinhighschool.edu.bd
 webdisk.brahmandangahighschool.edu.bd
@@ -2147,6 +2163,7 @@ webmail.asam.edu.bd
 webmail.aushs.edu.bd
 webmail.bazrabohumukhihighschool.edu.bd
 webmail.bbcpsc.edu.bd
+webmail.bdahs.edu.bd
 webmail.bdmlhighschool.edu.bd
 webmail.bfkdc.edu.bd
 webmail.bghs.edu.bd
@@ -2157,6 +2174,7 @@ webmail.bhujpurmodelhighschool.edu.bd
 webmail.bidmm.edu.bd
 webmail.bilnaliamhs.edu.bd
 webmail.bkghs.edu.bd
+webmail.bkuc.edu.bd
 webmail.bmmmadrasha.edu.bd
 webmail.boilcharinhighschool.edu.bd
 webmail.brahmandangahighschool.edu.bd
@@ -2386,6 +2404,7 @@ www.bbcpsc.edu.bd
 www.bbha.edu.bd
 www.bbic.edu.bd
 www.bbidm.edu.bd
+www.bdahs.edu.bd
 www.bdcip.edu.bd
 www.bddm.cmdm.edu.bd
 www.bdmlhighschool.edu.bd
@@ -2408,6 +2427,7 @@ www.bihsniamatpur.edu.bd
 www.bilnaliamhs.edu.bd
 www.birjoanhighschool.edu.bd
 www.bkghs.edu.bd
+www.bkuc.edu.bd
 www.blog.karimpurkkbhs.edu.bd
 www.bmcbarisal.edu.bd
 www.bmmmadrasha.edu.bd

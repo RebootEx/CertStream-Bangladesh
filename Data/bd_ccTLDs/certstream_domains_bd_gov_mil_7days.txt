@@ -10,6 +10,7 @@ application.pmo.gov.bd
 appointment.bdhckl.gov.bd
 assets.bscl.gov.bd
 autodiscover.bangladeshfestival.gov.bd
+autodiscover.iresppw-brdb.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
 bangladesh.gov.bd
@@ -29,6 +30,7 @@ bscicemarket.gov.bd
 btcl.gov.bd
 bvc.gov.bd
 cafocagpscec.gov.bd
+cafochta.gov.bd
 cafoexpatriates.gov.bd
 cafomefcc.gov.bd
 cafomof.gov.bd
@@ -51,6 +53,7 @@ cpanel.14upazilaudd.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.gnc.gov.bd
+cpanel.iresppw-brdb.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.mymensingheducationboard.gov.bd
 cpanel.nins.gov.bd
@@ -61,6 +64,7 @@ cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.bdhckl.gov.bd
 cpcalendars.gnc.gov.bd
+cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.mymensingheducationboard.gov.bd
 cpcalendars.nins.gov.bd
@@ -72,6 +76,7 @@ cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.bdhckl.gov.bd
 cpcontacts.gnc.gov.bd
+cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.mymensingheducationboard.gov.bd
 cpcontacts.nins.gov.bd
@@ -113,6 +118,7 @@ hsms.somch.gov.bd
 iisb.bidaevents.gov.bd
 ilab.gov.bd
 institute.bise-ctg.gov.bd
+iresppw-brdb.gov.bd
 isdp.gov.bd
 journal.bcsadminacademy.gov.bd
 jsc.mymensingheducationboard.gov.bd
@@ -139,6 +145,7 @@ mail.case-moef.gov.bd
 mail.cpatos.gov.bd
 mail.ggmcg.gov.bd
 mail.gnc.gov.bd
+mail.iresppw-brdb.gov.bd
 mail.mspvaw.gov.bd
 mail.mymensingheducationboard.gov.bd
 mail.nins.gov.bd
@@ -147,6 +154,7 @@ mail.pwdta.gov.bd
 mail.railwayestate.gov.bd
 mail.regionalwildlife.gov.bd
 mail.support.a2i.gov.bd
+mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mohanganjpaurashava.gov.bd
@@ -195,6 +203,7 @@ sherpurtsc.gov.bd
 shibpurpaurashava.gov.bd
 shift.gov.bd
 singramunicipality.gov.bd
+sjis.dgjute.gov.bd
 smmamc.gov.bd
 soltrack.gov.bd
 sonaimuripaurashava.gov.bd
@@ -221,6 +230,7 @@ webdisk.14upazilaudd.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.gnc.gov.bd
+webdisk.iresppw-brdb.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.mymensingheducationboard.gov.bd
 webdisk.nins.gov.bd
@@ -232,6 +242,7 @@ webmail.14upazilaudd.gov.bd
 webmail.bangladeshfestival.gov.bd
 webmail.bdhckl.gov.bd
 webmail.gnc.gov.bd
+webmail.iresppw-brdb.gov.bd
 webmail.mspvaw.gov.bd
 webmail.mymensingheducationboard.gov.bd
 webmail.nins.gov.bd
@@ -304,6 +315,7 @@ www.gunaighorsouthup.comillalg.gov.bd
 www.home.habiganjpourashava.gov.bd
 www.idcard.rpi.gov.bd
 www.ilab.gov.bd
+www.iresppw-brdb.gov.bd
 www.jafargonjup.comillalg.gov.bd
 www.jahapurup.comillalg.gov.bd
 www.jatrapurup.comillalg.gov.bd
@@ -322,6 +334,7 @@ www.madhaiyaup.comillalg.gov.bd
 www.maijkharup.comillalg.gov.bd
 www.masterapi.rpi.gov.bd
 www.meherparaup.narsingdilg.gov.bd
+www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohichialup.comillalg.gov.bd
 www.mspvaw.gov.bd
