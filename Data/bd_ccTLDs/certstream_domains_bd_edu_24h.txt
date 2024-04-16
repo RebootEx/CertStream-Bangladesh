@@ -83,6 +83,7 @@ cpanel.ajchs.edu.bd
 cpanel.bhaighaths.edu.bd
 cpanel.boliadaingahs.edu.bd
 cpanel.chakpranhs.edu.bd
+cpanel.govtnsc.edu.bd
 cpanel.jamunacollegemr.edu.bd
 cpanel.kmifdm.edu.bd
 cpanel.kucghighschool.edu.bd
@@ -98,6 +99,7 @@ cpcalendars.bhaighaths.edu.bd
 cpcalendars.bhsh.edu.bd
 cpcalendars.boliadaingahs.edu.bd
 cpcalendars.chakpranhs.edu.bd
+cpcalendars.govtnsc.edu.bd
 cpcalendars.jamunacollegemr.edu.bd
 cpcalendars.kmifdm.edu.bd
 cpcalendars.kucghighschool.edu.bd
@@ -112,6 +114,7 @@ cpcontacts.ajchs.edu.bd
 cpcontacts.bhaighaths.edu.bd
 cpcontacts.boliadaingahs.edu.bd
 cpcontacts.chakpranhs.edu.bd
+cpcontacts.govtnsc.edu.bd
 cpcontacts.jamunacollegemr.edu.bd
 cpcontacts.kmifdm.edu.bd
 cpcontacts.kucghighschool.edu.bd
@@ -126,6 +129,7 @@ dahsc.edu.bd
 dass.edu.bd
 dban.edu.bd
 dbsc.edu.bd
+demo.bam.edu.bd
 dgham.edu.bd
 dgrghs.edu.bd
 dhakaudyanpublicschool.edu.bd
@@ -151,6 +155,7 @@ ghsg.edu.bd
 gjcss.edu.bd
 gollashangonhs.edu.bd
 gopalasramvairabchandrahs.edu.bd
+govtnsc.edu.bd
 gulshancollege.edu.bd
 hazikhaliss.edu.bd
 hizaltalamhighs.edu.bd
@@ -197,6 +202,7 @@ mail.boliadaingahs.edu.bd
 mail.cbnfm.edu.bd
 mail.chakpranhs.edu.bd
 mail.chalitaghatasgm.edu.bd
+mail.govtnsc.edu.bd
 mail.jamunacollegemr.edu.bd
 mail.kagss.edu.bd
 mail.kmifdm.edu.bd
@@ -216,6 +222,7 @@ markajctg.edu.bd
 marmcd.edu.bd
 mdcr.edu.bd
 mentoring.diu.edu.bd
+minhaz.smdcollege.edu.bd
 mmsram.edu.bd
 moktadir.edu.bd
 mwdct.edu.bd
@@ -237,12 +244,14 @@ paragaon.edu.bd
 paragaon.kathoraidm.edu.bd
 pencilbox.edu.bd
 pgmfm.edu.bd
+plscn.edu.bd
 pmths.edu.bd
 portal.haithkandihighschool.edu.bd
 portal.hcphs.edu.bd
 profile.kcmsc.edu.bd
 psmhs.edu.bd
 ramgaonschool.edu.bd
+ramshilcollege.edu.bd
 rbhhs.edu.bd
 rc.edu.bd
 reunion.monshaschoolandcollege.edu.bd
@@ -293,6 +302,7 @@ webdisk.ajchs.edu.bd
 webdisk.bhaighaths.edu.bd
 webdisk.boliadaingahs.edu.bd
 webdisk.chakpranhs.edu.bd
+webdisk.govtnsc.edu.bd
 webdisk.jamunacollegemr.edu.bd
 webdisk.kmifdm.edu.bd
 webdisk.kucghighschool.edu.bd
@@ -307,6 +317,7 @@ webmail.ajchs.edu.bd
 webmail.bhaighaths.edu.bd
 webmail.boliadaingahs.edu.bd
 webmail.chakpranhs.edu.bd
+webmail.govtnsc.edu.bd
 webmail.jamunacollegemr.edu.bd
 webmail.kmifdm.edu.bd
 webmail.kucghighschool.edu.bd
@@ -338,6 +349,7 @@ www.cbnfm.edu.bd
 www.chakpranhs.edu.bd
 www.chalitaghatasgm.edu.bd
 www.dahsc.edu.bd
+www.demo.bam.edu.bd
 www.dist.edu.bd
 www.ems.pmths.edu.bd
 www.ems.shamlapurhs.edu.bd
@@ -345,6 +357,7 @@ www.foundry.eastdelta.edu.bd
 www.gbtcbm.edu.bd
 www.ghsg.edu.bd
 www.gjcss.edu.bd
+www.govtnsc.edu.bd
 www.jamunacollegemr.edu.bd
 www.joypurdhs.edu.bd.bakapurhighschool.edu.bd
 www.kagss.edu.bd
@@ -357,6 +370,7 @@ www.lab.bgeju.edu.bd
 www.lasn.edu.bd.fulbarihs.edu.bd
 www.lbhighschool.edu.bd
 www.mahmudabadrarhsc.edu.bd
+www.minhaz.smdcollege.edu.bd
 www.mmsram.edu.bd
 www.nasc.edu.bd
 www.ngmlhsc.edu.bd
