@@ -8,6 +8,7 @@ admin.vaxepi.gov.bd
 app.bdhckl.gov.bd
 application.pmo.gov.bd
 appointment.bdhckl.gov.bd
+assets.bscl.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
@@ -135,6 +136,7 @@ mail.barishalcity.gov.bd
 mail.bdhckl.gov.bd
 mail.btcltelesheba.gov.bd
 mail.case-moef.gov.bd
+mail.cpatos.gov.bd
 mail.ggmcg.gov.bd
 mail.gnc.gov.bd
 mail.mspvaw.gov.bd
@@ -150,8 +152,10 @@ mkgwclal.gov.bd.gbrcr.gov.bd
 mohanganjpaurashava.gov.bd
 mspvaw.gov.bd
 mspvawpre.mspvaw.gov.bd
+munshiganjtsc.gov.bd
 mymensingheducationboard.gov.bd
 narailtsc.gov.bd
+narsingdilg.gov.bd
 ncsa.gov.bd
 new.chauddagramgovcollege.gov.bd
 new.name.bise-ctg.gov.bd
@@ -238,6 +242,7 @@ www.14upazilaudd.gov.bd
 www.abc.dsw.gov.bd
 www.admin.comillalg.gov.bd
 www.admins.rpi.gov.bd
+www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
 www.api.rpi.gov.bd
 www.apis.rpi.gov.bd
@@ -269,6 +274,7 @@ www.burichangsadarup.comillalg.gov.bd
 www.case-moef.gov.bd
 www.cbs.rdodterangpur.gov.bd
 www.centralup.comillalg.gov.bd
+www.centralup.narsingdilg.gov.bd
 www.chitoddaup.comillalg.gov.bd
 www.college.mymensingheducationboard.gov.bd
 www.cumilla.srdl.gov.bd
@@ -315,6 +321,7 @@ www.llv.mspvaw.gov.bd
 www.madhaiyaup.comillalg.gov.bd
 www.maijkharup.comillalg.gov.bd
 www.masterapi.rpi.gov.bd
+www.meherparaup.narsingdilg.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohichialup.comillalg.gov.bd
 www.mspvaw.gov.bd
@@ -367,3 +374,4 @@ www3.bamis.gov.bd
 zpfaridpur.gov.bd
 zpfeni.gov.bd
 zphabiganj.gov.bd
+zpmunshiganj.gov.bd
