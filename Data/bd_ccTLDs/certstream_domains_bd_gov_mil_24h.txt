@@ -4,8 +4,11 @@ bangladesh.gov.bd
 bc.gov.bd
 bhcl.itconnect.gov.bd
 bvc.gov.bd
+cpanel.jmc.gov.bd
 cpcalendars.caabhc.gov.bd
+cpcalendars.jmc.gov.bd
 cpcontacts.caabhc.gov.bd
+cpcontacts.jmc.gov.bd
 cph.gov.bd
 denguereports.dghs.gov.bd
 ebalance.ansarvdpbank.gov.bd
@@ -16,12 +19,14 @@ finman.seip-fd.gov.bd
 ggmcg.gov.bd
 hotels.gov.bd
 inventory.dbwctp64.gov.bd
+jmc.gov.bd
 kr.itconnect.gov.bd
 lgd.gov.bd
 lms.seip-fd.gov.bd
 mail.caabhc.gov.bd
 mail.cpatos.gov.bd
 mail.ggmcg.gov.bd
+mail.jmc.gov.bd
 narsingdilg.gov.bd
 ncsa.gov.bd
 new.cafomolwa.gov.bd
@@ -36,6 +41,8 @@ srngih.gov.bd
 tds.taxeszone3dhaka.gov.bd
 tmed.gov.bd
 webdisk.caabhc.gov.bd
+webdisk.jmc.gov.bd
+webmail.jmc.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.bangladesh.gov.bd
 www.centralup.narsingdilg.gov.bd
@@ -46,6 +53,7 @@ www.esifsix.comillaboard.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.ggmcg.gov.bd
 www.inventory.dbwctp64.gov.bd
+www.jmc.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.lgd.gov.bd
 www.meherparaup.narsingdilg.gov.bd
