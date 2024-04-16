@@ -46,6 +46,7 @@ ajjhs.edu.bd
 ajucollege.edu.bd
 akpursecondaryschool.edu.bd
 aksessbobetmobile.gccc.edu.bd
+aksmdm.edu.bd
 al-ihsanhighschool.edu.bd
 alfarabi.edu.bd
 alfarooqacademy.edu.bd
@@ -94,6 +95,7 @@ auth.test.bhsh.edu.bd
 autodiscover.abdullapursschool.edu.bd
 autodiscover.adarshahighkmhatfeni.edu.bd
 autodiscover.aghs95.edu.bd
+autodiscover.aksmdm.edu.bd
 autodiscover.al-ihsanhighschool.edu.bd
 autodiscover.asam.edu.bd
 autodiscover.aushs.edu.bd
@@ -213,6 +215,7 @@ backend.pjhs.edu.bd
 backend.sdmlhs.edu.bd
 badiamhhs.edu.bd
 badoparahighschool.edu.bd
+baghaitalaahs.edu.bd
 baghutiaam.edu.bd
 bagssc.edu.bd
 bahirsimulhighschool.edu.bd
@@ -366,6 +369,7 @@ chatulhighschool.edu.bd
 chatutiahs.edu.bd
 chhatakusahs.edu.bd
 chhaterpaiyaschool.edu.bd
+chilmarighs.edu.bd
 chnhs.edu.bd
 chowmohoniss.edu.bd
 chps.edu.bd
@@ -395,6 +399,7 @@ cpanel.abdullapursschool.edu.bd
 cpanel.adarshahighkmhatfeni.edu.bd
 cpanel.aghs95.edu.bd
 cpanel.ajchs.edu.bd
+cpanel.aksmdm.edu.bd
 cpanel.al-ihsanhighschool.edu.bd
 cpanel.algibazarasm.edu.bd
 cpanel.anowara.edu.bd
@@ -560,6 +565,7 @@ cpcalendars.abdullapursschool.edu.bd
 cpcalendars.adarshahighkmhatfeni.edu.bd
 cpcalendars.aghs95.edu.bd
 cpcalendars.ajchs.edu.bd
+cpcalendars.aksmdm.edu.bd
 cpcalendars.al-ihsanhighschool.edu.bd
 cpcalendars.algibazarasm.edu.bd
 cpcalendars.anowara.edu.bd
@@ -723,6 +729,7 @@ cpcontacts.abdullapursschool.edu.bd
 cpcontacts.adarshahighkmhatfeni.edu.bd
 cpcontacts.aghs95.edu.bd
 cpcontacts.ajchs.edu.bd
+cpcontacts.aksmdm.edu.bd
 cpcontacts.al-ihsanhighschool.edu.bd
 cpcontacts.algibazarasm.edu.bd
 cpcontacts.anowara.edu.bd
@@ -1103,6 +1110,7 @@ hkphs.edu.bd
 hmphsderai.edu.bd
 hmrchs.edu.bd
 hmuphs.edu.bd
+hnhskm.edu.bd
 hns.edu.bd
 hosnabadsgs.edu.bd
 hostel.infra.edu.bd
@@ -1112,6 +1120,7 @@ hrmemorialdegreecollege.edu.bd
 hrportal.diu.edu.bd
 hsahs.edu.bd
 hsc.ngc.edu.bd
+htbmc.edu.bd
 htrmkm.edu.bd
 hub.edu.bd
 hurkasitanathschool.edu.bd
@@ -1218,6 +1227,7 @@ kamalkunribiddyaniketon.edu.bd
 kamp.edu.bd
 kanchkolhatmnhs.edu.bd
 kangaihs.edu.bd
+kanupurhs.edu.bd
 kapastiahs.edu.bd
 kapotakshmacollege.edu.bd
 kaptaihighschool.edu.bd
@@ -1330,6 +1340,7 @@ maiiacademy.edu.bd
 mail.abdullapursschool.edu.bd
 mail.adarshahighkmhatfeni.edu.bd
 mail.ajchs.edu.bd
+mail.aksmdm.edu.bd
 mail.al-ihsanhighschool.edu.bd
 mail.algibazarasm.edu.bd
 mail.anowara.edu.bd
@@ -1587,6 +1598,7 @@ munshirbazarhighschool.edu.bd
 munsirtallukgdm.edu.bd
 murarikatiuhe.edu.bd
 musfcghsc.edu.bd
+mushurikholahighschool.edu.bd
 mybill.kpmb.edu.bd
 mymensinghcollege.edu.bd
 naahdm.edu.bd
@@ -1975,6 +1987,7 @@ upmudm.edu.bd
 usc.edu.bd
 uttara-edu-bd.uttarauniversity.edu.bd
 uttara.edu.bd
+uttarauniversity.edu.bd
 uttardahighschool.edu.bd
 uttargsnhs.edu.bd
 uttarpaduahighschool.edu.bd
@@ -1992,6 +2005,7 @@ webdisk.abdullapursschool.edu.bd
 webdisk.adarshahighkmhatfeni.edu.bd
 webdisk.aghs95.edu.bd
 webdisk.ajchs.edu.bd
+webdisk.aksmdm.edu.bd
 webdisk.al-ihsanhighschool.edu.bd
 webdisk.algibazarasm.edu.bd
 webdisk.anowara.edu.bd
@@ -2156,6 +2170,7 @@ webmail.abdullapursschool.edu.bd
 webmail.adarshahighkmhatfeni.edu.bd
 webmail.aghs95.edu.bd
 webmail.ajchs.edu.bd
+webmail.aksmdm.edu.bd
 webmail.al-ihsanhighschool.edu.bd
 webmail.algibazarasm.edu.bd
 webmail.anowara.edu.bd
@@ -2359,6 +2374,7 @@ www.ahsbagmara.edu.bd
 www.ajchs.edu.bd
 www.ajjhs.edu.bd.ihsh.edu.bd
 www.aksessbobetmobile.gccc.edu.bd
+www.aksmdm.edu.bd
 www.al-ihsanhighschool.edu.bd
 www.algibazarasm.edu.bd
 www.alheraideal.empo.edu.bd
@@ -2389,6 +2405,7 @@ www.backend.kshs.edu.bd
 www.backend.pjhs.edu.bd
 www.backend.sdmlhs.edu.bd
 www.badiamhhs.edu.bd
+www.baghaitalaahs.edu.bd.ihsh.edu.bd
 www.bahirsimulhighschool.edu.bd.ihsh.edu.bd
 www.baiam.edu.bd
 www.bajrhs.edu.bd.pekuahs.edu.bd
@@ -2576,6 +2593,7 @@ www.hostel.infra.edu.bd
 www.hostel.ugv.edu.bd
 www.hrdi.rpsu.edu.bd
 www.hsc.ngc.edu.bd
+www.htbmc.edu.bd.ihsh.edu.bd
 www.hub.edu.bd
 www.iaub.edu.bd
 www.idealbmcollege.edu.bd
@@ -2915,6 +2933,7 @@ www.ulipuraghs.edu.bd.ulipurmssc.edu.bd
 www.ulipurmscollege.djs.edu.bd
 www.uttara-edu-bd.uttarauniversity.edu.bd
 www.uttara.edu.bd
+www.uttarauniversity.edu.bd
 www.uttardahighschool.edu.bd
 www.uttarpaduahighschool.edu.bd
 www.validate.vu.edu.bd
