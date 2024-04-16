@@ -438,6 +438,7 @@ cpanel.cmhs.edu.bd
 cpanel.cpscevjes.edu.bd
 cpanel.ctti.edu.bd
 cpanel.cuhs.edu.bd
+cpanel.dbhs.edu.bd
 cpanel.dblss.edu.bd
 cpanel.dharmapurkkgirlshighschool.edu.bd
 cpanel.dlmch.edu.bd
@@ -612,6 +613,7 @@ cpcalendars.cmhs.edu.bd
 cpcalendars.cpscevjes.edu.bd
 cpcalendars.ctti.edu.bd
 cpcalendars.cuhs.edu.bd
+cpcalendars.dbhs.edu.bd
 cpcalendars.dblss.edu.bd
 cpcalendars.dharmapurkkgirlshighschool.edu.bd
 cpcalendars.dlmch.edu.bd
@@ -784,6 +786,7 @@ cpcontacts.cidch.edu.bd
 cpcontacts.cmhs.edu.bd
 cpcontacts.cpscevjes.edu.bd
 cpcontacts.cuhs.edu.bd
+cpcontacts.dbhs.edu.bd
 cpcontacts.dblss.edu.bd
 cpcontacts.dharmapurkkgirlshighschool.edu.bd
 cpcontacts.dlmch.edu.bd
@@ -942,6 +945,7 @@ damdamhs.edu.bd
 damodarmmsschool.edu.bd
 darblhsc.edu.bd
 darponpolytechnic.edu.bd
+dbhs.edu.bd
 dblss.edu.bd
 ddkmlhsc.edu.bd
 ddudmc.edu.bd
@@ -1416,6 +1420,7 @@ mail.cpscevjes.edu.bd
 mail.ctti.edu.bd
 mail.cuhs.edu.bd
 mail.darponpolytechnic.edu.bd
+mail.dbhs.edu.bd
 mail.dblss.edu.bd
 mail.dgrdc.edu.bd
 mail.dhamtikm.edu.bd
@@ -2093,6 +2098,7 @@ webdisk.cidch.edu.bd
 webdisk.cmhs.edu.bd
 webdisk.cpscevjes.edu.bd
 webdisk.cuhs.edu.bd
+webdisk.dbhs.edu.bd
 webdisk.dblss.edu.bd
 webdisk.dharmapurkkgirlshighschool.edu.bd
 webdisk.dlmch.edu.bd
@@ -2268,6 +2274,7 @@ webmail.cmhs.edu.bd
 webmail.cpscevjes.edu.bd
 webmail.ctti.edu.bd
 webmail.cuhs.edu.bd
+webmail.dbhs.edu.bd
 webmail.dblss.edu.bd
 webmail.dharmapurkkgirlshighschool.edu.bd
 webmail.dlmch.edu.bd
@@ -2564,6 +2571,7 @@ www.dadpurdakhilmadrasah.edu.bd
 www.damodarmmsschool.edu.bd
 www.darblhsc.edu.bd
 www.darponpolytechnic.edu.bd
+www.dbhs.edu.bd
 www.dblss.edu.bd
 www.ddkmlhsc.edu.bd
 www.dgmhs2018.edu.bd
