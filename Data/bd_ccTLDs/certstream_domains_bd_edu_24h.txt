@@ -30,6 +30,8 @@ autodiscover.jamunacollegemr.edu.bd
 autodiscover.kmifdm.edu.bd
 autodiscover.kucghighschool.edu.bd
 autodiscover.noaparahsctg.edu.bd
+autodiscover.rc.edu.bd
+autodiscover.ribt.edu.bd
 autodiscover.ssqcdc.edu.bd
 autodiscover.sualokhs.edu.bd
 backend.boliadaingahs.edu.bd
@@ -81,6 +83,8 @@ cpanel.jamunacollegemr.edu.bd
 cpanel.kmifdm.edu.bd
 cpanel.kucghighschool.edu.bd
 cpanel.noaparahsctg.edu.bd
+cpanel.rc.edu.bd
+cpanel.ribt.edu.bd
 cpanel.rkgdm.edu.bd
 cpanel.ssqcdc.edu.bd
 cpanel.sualokhs.edu.bd
@@ -93,6 +97,8 @@ cpcalendars.jamunacollegemr.edu.bd
 cpcalendars.kmifdm.edu.bd
 cpcalendars.kucghighschool.edu.bd
 cpcalendars.noaparahsctg.edu.bd
+cpcalendars.rc.edu.bd
+cpcalendars.ribt.edu.bd
 cpcalendars.rkgdm.edu.bd
 cpcalendars.ssqcdc.edu.bd
 cpcalendars.sualokhs.edu.bd
@@ -104,9 +110,12 @@ cpcontacts.jamunacollegemr.edu.bd
 cpcontacts.kmifdm.edu.bd
 cpcontacts.kucghighschool.edu.bd
 cpcontacts.noaparahsctg.edu.bd
+cpcontacts.rc.edu.bd
+cpcontacts.ribt.edu.bd
 cpcontacts.rkgdm.edu.bd
 cpcontacts.ssqcdc.edu.bd
 cpcontacts.sualokhs.edu.bd
+dass.edu.bd
 dban.edu.bd
 dbsc.edu.bd
 dgham.edu.bd
@@ -121,6 +130,7 @@ dndm.edu.bd
 dshs112839.edu.bd
 eastkadhurkhil.edu.bd
 edu.bd.fulbarihs.edu.bd
+ems.pmths.edu.bd
 ems.shamlapurhs.edu.bd
 eservice.kgck.edu.bd
 feedback.sust.edu.bd
@@ -178,12 +188,15 @@ mail.kmifdm.edu.bd
 mail.kucghighschool.edu.bd
 mail.lbhighschool.edu.bd
 mail.noaparahsctg.edu.bd
+mail.rc.edu.bd
+mail.ribt.edu.bd
 mail.rkgdm.edu.bd
 mail.shankarkatisdm.edu.bd
 mail.ssqcdc.edu.bd
 mail.sualokhs.edu.bd
 malekaacademygopalganj.edu.bd
 manikgonjmohilacollege.edu.bd
+markajctg.edu.bd
 marmcd.edu.bd
 mdcr.edu.bd
 mentoring.diu.edu.bd
@@ -208,8 +221,11 @@ portal.haithkandihighschool.edu.bd
 portal.hcphs.edu.bd
 profile.kcmsc.edu.bd
 psmhs.edu.bd
+ramgaonschool.edu.bd
+rc.edu.bd
 reunion.monshaschoolandcollege.edu.bd
 rgss.edu.bd
+ribt.edu.bd
 rkgdm.edu.bd
 rmahs.edu.bd
 roygonjhs.edu.bd
@@ -236,6 +252,7 @@ stage.kushtiazillaschool.edu.bd
 sualokhs.edu.bd
 tarapashahsc.edu.bd
 tarashgghs.edu.bd
+tarashgovtghs.edu.bd
 tca.edu.bd
 tcmhs.edu.bd
 tintaharyhs.edu.bd
@@ -252,6 +269,8 @@ webdisk.jamunacollegemr.edu.bd
 webdisk.kmifdm.edu.bd
 webdisk.kucghighschool.edu.bd
 webdisk.noaparahsctg.edu.bd
+webdisk.rc.edu.bd
+webdisk.ribt.edu.bd
 webdisk.rkgdm.edu.bd
 webdisk.ssqcdc.edu.bd
 webdisk.sualokhs.edu.bd
@@ -263,6 +282,8 @@ webmail.jamunacollegemr.edu.bd
 webmail.kmifdm.edu.bd
 webmail.kucghighschool.edu.bd
 webmail.noaparahsctg.edu.bd
+webmail.rc.edu.bd
+webmail.ribt.edu.bd
 webmail.rkgdm.edu.bd
 webmail.ssqcdc.edu.bd
 webmail.sualokhs.edu.bd
@@ -286,6 +307,7 @@ www.boliadaingahs.edu.bd
 www.chakpranhs.edu.bd
 www.chalitaghatasgm.edu.bd
 www.dist.edu.bd
+www.ems.pmths.edu.bd
 www.ems.shamlapurhs.edu.bd
 www.foundry.eastdelta.edu.bd
 www.gjcss.edu.bd
@@ -311,7 +333,9 @@ www.paragaon.edu.bd
 www.paragaon.kathoraidm.edu.bd
 www.portal.nakgh.edu.bd
 www.profile.kcmsc.edu.bd
+www.rc.edu.bd
 www.reunion.monshaschoolandcollege.edu.bd
+www.ribt.edu.bd
 www.rkgdm.edu.bd
 www.rsmhs.edu.bd
 www.santaharhgghs.edu.bd
