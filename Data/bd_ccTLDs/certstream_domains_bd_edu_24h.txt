@@ -61,6 +61,7 @@ autodiscover.jasmm-ctg.edu.bd
 autodiscover.jesc.edu.bd
 autodiscover.jolshiricsc.edu.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
+autodiscover.kamalpurtm.edu.bd
 autodiscover.kgmsc.edu.bd
 autodiscover.ksc.edu.bd
 autodiscover.kucghighschool.edu.bd
@@ -78,6 +79,11 @@ autodiscover.scbbhs.edu.bd
 autodiscover.scpsc.edu.bd
 autodiscover.senapalli.edu.bd
 autodiscover.sghscdhaka.edu.bd
+autodiscover.shcpsc.edu.bd
+autodiscover.sipsc.edu.bd
+autodiscover.spsc.edu.bd
+autodiscover.spscsdohs.edu.bd
+autodiscover.srcpsc.edu.bd
 autodiscover.udayanmats.edu.bd
 backend.jamunacollegemr.edu.bd
 badar-ist.edu.bd
@@ -115,6 +121,7 @@ boliadahahighschool.edu.bd
 bpghs1920.edu.bd
 bpscuepz.edu.bd
 bsigfm.edu.bd
+caamzifd.edu.bd
 career.vu.edu.bd
 casc.edu.bd
 cbbhsc.edu.bd
@@ -123,6 +130,8 @@ ccc.edu.bd
 cgmphs.edu.bd
 chamtahighschool.edu.bd
 chandanpurdakhilmadrasah.edu.bd
+chrome.gccc.edu.bd
+chs.edu.bd
 cirdhhs.edu.bd
 cit.edu.bd
 cm.krmdc.edu.bd
@@ -182,6 +191,7 @@ cpanel.jasmm-ctg.edu.bd
 cpanel.jesc.edu.bd
 cpanel.jolshiricsc.edu.bd
 cpanel.kaliakairkhanhighschool.edu.bd
+cpanel.kamalpurtm.edu.bd
 cpanel.katakhaliham.edu.bd
 cpanel.kdm120918.edu.bd
 cpanel.kgmsc.edu.bd
@@ -203,6 +213,11 @@ cpanel.scbbhs.edu.bd
 cpanel.scpsc.edu.bd
 cpanel.senapalli.edu.bd
 cpanel.sghscdhaka.edu.bd
+cpanel.shcpsc.edu.bd
+cpanel.sipsc.edu.bd
+cpanel.spsc.edu.bd
+cpanel.spscsdohs.edu.bd
+cpanel.srcpsc.edu.bd
 cpanel.tpss.edu.bd
 cpanel.ubss.edu.bd
 cpanel.udayanmats.edu.bd
@@ -259,6 +274,7 @@ cpcalendars.jasmm-ctg.edu.bd
 cpcalendars.jesc.edu.bd
 cpcalendars.jolshiricsc.edu.bd
 cpcalendars.kaliakairkhanhighschool.edu.bd
+cpcalendars.kamalpurtm.edu.bd
 cpcalendars.katakhaliham.edu.bd
 cpcalendars.kgmsc.edu.bd
 cpcalendars.ksc.edu.bd
@@ -279,6 +295,11 @@ cpcalendars.scbbhs.edu.bd
 cpcalendars.scpsc.edu.bd
 cpcalendars.senapalli.edu.bd
 cpcalendars.sghscdhaka.edu.bd
+cpcalendars.shcpsc.edu.bd
+cpcalendars.sipsc.edu.bd
+cpcalendars.spsc.edu.bd
+cpcalendars.spscsdohs.edu.bd
+cpcalendars.srcpsc.edu.bd
 cpcalendars.tpss.edu.bd
 cpcalendars.ubss.edu.bd
 cpcalendars.udayanmats.edu.bd
@@ -335,6 +356,7 @@ cpcontacts.jasmm-ctg.edu.bd
 cpcontacts.jesc.edu.bd
 cpcontacts.jolshiricsc.edu.bd
 cpcontacts.kaliakairkhanhighschool.edu.bd
+cpcontacts.kamalpurtm.edu.bd
 cpcontacts.katakhaliham.edu.bd
 cpcontacts.kgmsc.edu.bd
 cpcontacts.ksc.edu.bd
@@ -355,6 +377,11 @@ cpcontacts.scbbhs.edu.bd
 cpcontacts.scpsc.edu.bd
 cpcontacts.senapalli.edu.bd
 cpcontacts.sghscdhaka.edu.bd
+cpcontacts.shcpsc.edu.bd
+cpcontacts.sipsc.edu.bd
+cpcontacts.spsc.edu.bd
+cpcontacts.spscsdohs.edu.bd
+cpcontacts.srcpsc.edu.bd
 cpcontacts.tpss.edu.bd
 cpcontacts.ubss.edu.bd
 cpcontacts.udayanmats.edu.bd
@@ -425,6 +452,7 @@ kakrschool.com.shishupalliacademy.edu.bd
 kaliakairkhanhighschool.edu.bd
 kaluhatihighschool.edu.bd
 kalyanpurmh.edu.bd
+kamalpurtm.edu.bd
 kamarkholaunionhighschool.edu.bd
 kansaths.edu.bd
 kanupurhs.edu.bd
@@ -512,6 +540,7 @@ mail.jasmm-ctg.edu.bd
 mail.jesc.edu.bd
 mail.jolshiricsc.edu.bd
 mail.kaliakairkhanhighschool.edu.bd
+mail.kamalpurtm.edu.bd
 mail.katakhaliham.edu.bd
 mail.kgmsc.edu.bd
 mail.ksc.edu.bd
@@ -534,7 +563,12 @@ mail.scbbhs.edu.bd
 mail.scpsc.edu.bd
 mail.senapalli.edu.bd
 mail.sghscdhaka.edu.bd
+mail.shcpsc.edu.bd
 mail.shspt.edu.bd
+mail.sipsc.edu.bd
+mail.spsc.edu.bd
+mail.spscsdohs.edu.bd
+mail.srcpsc.edu.bd
 mail.tangailinstitute.edu.bd
 mail.teknafpiloths.edu.bd
 mail.tpss.edu.bd
@@ -547,9 +581,11 @@ mci.edu.bd
 mcpsc.edu.bd
 mdss.edu.bd
 mirpurcollege.edu.bd
+mkhighschool.edu.bd
 mm.drmoshs.edu.bd
 mmsram.edu.bd
 modelhighschool.edu.bd
+monglagirls.edu.bd
 msmss.edu.bd
 mujibcollege.edu.bd
 mulgharghs.edu.bd
@@ -575,6 +611,7 @@ plscn.edu.bd
 pmths.edu.bd
 pop.kaluhatihighschool.edu.bd
 portal.daldalihs.edu.bd
+portal.padc.edu.bd
 portal.shspt.edu.bd
 portal.sjs.edu.bd
 primeasia.edu.bd
@@ -607,8 +644,11 @@ sghscdhaka.edu.bd
 shalikhabmcollege.edu.bd
 shalikhabmcollege.edu.bd.choumabe.edu.bd
 shalshirighs.edu.bd
+shcpsc.edu.bd
 shoulparamkhs.edu.bd
 shspt.edu.bd
+sipsc.edu.bd
+sitemap.bhsh.edu.bd
 skamanullahcollege.edu.bd
 sktsc.edu.bd
 sm.krghs.edu.bd
@@ -616,6 +656,10 @@ sms.monipurhighschool.edu.bd
 smtp.kaluhatihighschool.edu.bd
 sonamukhihighschool.edu.bd
 sphsn.edu.bd
+sppmhs.edu.bd
+spsc.edu.bd
+spscsdohs.edu.bd
+srcpsc.edu.bd
 srijaneebidyaniketan.edu.bd
 ssreerampurhighschool.edu.bd
 tafm.edu.bd
@@ -692,6 +736,7 @@ webdisk.jasmm-ctg.edu.bd
 webdisk.jesc.edu.bd
 webdisk.jolshiricsc.edu.bd
 webdisk.kaliakairkhanhighschool.edu.bd
+webdisk.kamalpurtm.edu.bd
 webdisk.katakhaliham.edu.bd
 webdisk.kgmsc.edu.bd
 webdisk.ksc.edu.bd
@@ -712,6 +757,11 @@ webdisk.scbbhs.edu.bd
 webdisk.scpsc.edu.bd
 webdisk.senapalli.edu.bd
 webdisk.sghscdhaka.edu.bd
+webdisk.shcpsc.edu.bd
+webdisk.sipsc.edu.bd
+webdisk.spsc.edu.bd
+webdisk.spscsdohs.edu.bd
+webdisk.srcpsc.edu.bd
 webdisk.tpss.edu.bd
 webdisk.ubss.edu.bd
 webdisk.udayanmats.edu.bd
@@ -769,6 +819,7 @@ webmail.jasmm-ctg.edu.bd
 webmail.jesc.edu.bd
 webmail.jolshiricsc.edu.bd
 webmail.kaliakairkhanhighschool.edu.bd
+webmail.kamalpurtm.edu.bd
 webmail.katakhaliham.edu.bd
 webmail.kdm120918.edu.bd
 webmail.kgmsc.edu.bd
@@ -790,6 +841,11 @@ webmail.scbbhs.edu.bd
 webmail.scpsc.edu.bd
 webmail.senapalli.edu.bd
 webmail.sghscdhaka.edu.bd
+webmail.shcpsc.edu.bd
+webmail.sipsc.edu.bd
+webmail.spsc.edu.bd
+webmail.spscsdohs.edu.bd
+webmail.srcpsc.edu.bd
 webmail.tpss.edu.bd
 webmail.ubss.edu.bd
 webmail.udayanmats.edu.bd
@@ -835,6 +891,7 @@ www.ccc.edu.bd
 www.chamtahighschool.edu.bd
 www.chandanpurdakhilmadrasah.edu.bd
 www.chat.bkdcl.edu.bd
+www.chrome.gccc.edu.bd
 www.cpa.cbmc.edu.bd
 www.cpscbusms.edu.bd
 www.cpscevjes.edu.bd
@@ -884,6 +941,7 @@ www.jolshiricsc.edu.bd
 www.kakrschool.com.shishupalliacademy.edu.bd
 www.kaliakairkhanhighschool.edu.bd
 www.kaluhatihighschool.edu.bd
+www.kamalpurtm.edu.bd
 www.kamarkholaunionhighschool.edu.bd
 www.katakhaliham.edu.bd
 www.kdm120918.edu.bd
@@ -935,10 +993,15 @@ www.senapalli.edu.bd
 www.sghscdhaka.edu.bd
 www.shalikhabmcollege.edu.bd.choumabe.edu.bd
 www.shalshirighs.edu.bd
+www.shcpsc.edu.bd
 www.shspt.edu.bd
+www.sipsc.edu.bd
 www.sms.monipurhighschool.edu.bd
 www.sonamukhihighschool.edu.bd
 www.sphsn.edu.bd
+www.spsc.edu.bd
+www.spscsdohs.edu.bd
+www.srcpsc.edu.bd
 www.student.primeasia.edu.bd
 www.taheranoorhighschoolandcollege.edu.bd
 www.tangailinstitute.edu.bd
