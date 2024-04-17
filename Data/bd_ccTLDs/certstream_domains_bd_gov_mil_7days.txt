@@ -2,13 +2,12 @@
 2020-21.onlinetc.comillaboard.gov.bd
 aaic.gov.bd
 abc.dsw.gov.bd
-accessibledictionary.gov.bd
 accounts.comillaboard.gov.bd
 admin.bmd.gov.bd
 admin.comillalg.gov.bd
-admin.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
+amcchuadanga.gov.bd
 app.bdhckl.gov.bd
 application.pmo.gov.bd
 appointment.bdhckl.gov.bd
@@ -22,12 +21,12 @@ autodiscover.railwayestate.gov.bd
 autodiscover.ttcraj.gov.bd
 bangladesh.gov.bd
 bangladeshfestival.gov.bd
-barisalboard.gov.bd
 barisalcity.gov.bd
 barishalcity.gov.bd
 basb.gov.bd
 bc.gov.bd
 bdhckl.gov.bd
+beta.barishalcity.gov.bd
 bhcl.itconnect.gov.bd
 billingtest.alaap.gov.bd
 bmp.gov.bd
@@ -51,7 +50,6 @@ case-moef.gov.bd
 cbs.gov.bd
 cbs.rdodterangpur.gov.bd
 center.bise-ctg.gov.bd
-centralup.comillalg.gov.bd
 certificate.bise-ctg.gov.bd
 cjmcourtjashore.gov.bd
 college.mymensingheducationboard.gov.bd
@@ -59,7 +57,6 @@ collegeiif.bise-ctg.gov.bd
 comch.gov.bd
 comillaboard.gov.bd
 comillalg.gov.bd
-corona.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bdhckl.gov.bd
@@ -72,6 +69,7 @@ cpanel.nins.gov.bd
 cpanel.ppi.gov.bd
 cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
+cpanel.rgccr.gov.bd
 cpanel.ttcraj.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
@@ -87,6 +85,7 @@ cpcalendars.pbi.gov.bd
 cpcalendars.ppi.gov.bd
 cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
+cpcalendars.rgccr.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
@@ -102,6 +101,7 @@ cpcontacts.pbi.gov.bd
 cpcontacts.ppi.gov.bd
 cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
+cpcontacts.rgccr.gov.bd
 cpcontacts.ttcraj.gov.bd
 cph.gov.bd
 cumilla.srdl.gov.bd
@@ -115,7 +115,6 @@ dinajpurboard.gov.bd
 dpg.grs.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
-edc.srdl.gov.bd
 edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
 effhsc.bise-ctg.gov.bd
@@ -142,13 +141,11 @@ gca.comillaboard.gov.bd
 ggmcg.gov.bd
 gis.bwdb.gov.bd
 gnc.gov.bd
-habiganjpourashava.gov.bd
-hosenabadtsc.gov.bd
+habiganjtsc.gov.bd
 hotels.gov.bd
 hris-training.mohfw.gov.bd
 hscadmission.comillaboard.gov.bd
 hsms.somch.gov.bd
-iisb.bidaevents.gov.bd
 ilab.gov.bd
 institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
@@ -162,6 +159,7 @@ jsc.mymensingheducationboard.gov.bd
 judiciary.gov.bd
 kaliakairpourashava.gov.bd
 katiadipourashava.gov.bd
+kcctl.gov.bd
 kr.itconnect.gov.bd
 kuliarcharpourashava.gov.bd
 labrepository.bfsa.gov.bd
@@ -197,6 +195,7 @@ mail.ppi.gov.bd
 mail.pwdta.gov.bd
 mail.railwayestate.gov.bd
 mail.regionalwildlife.gov.bd
+mail.rgccr.gov.bd
 mail.support.a2i.gov.bd
 mail.taxcertificate.comillaboard.gov.bd
 mail.ttcraj.gov.bd
@@ -213,16 +212,14 @@ nameletter.comillaboard.gov.bd
 narailtsc.gov.bd
 narsingdilg.gov.bd
 ncsa.gov.bd
+netrokonatsc.gov.bd
 new.cafomolwa.gov.bd
 new.chauddagramgovcollege.gov.bd
 new.name.bise-ctg.gov.bd
-newsclipping.banbeis.gov.bd
-ngwc.gov.bd
 nins.gov.bd
 nlas.dls.gov.bd
 noc.btcl.gov.bd
 noipunno.gov.bd
-nowhatamunicipality.gov.bd
 npi.gov.bd
 nsdi.gov.bd
 ntrc.gameapp.gov.bd
@@ -233,6 +230,7 @@ ossbhtpa.gov.bd
 patgrammunicipality.gov.bd
 patient-hsms.somch.gov.bd
 patiyapourashava.gov.bd
+payroll.btcl.gov.bd
 pbi.gov.bd
 pdb.mcishr.dghs.gov.bd
 ppi.gov.bd
@@ -250,6 +248,7 @@ register.gameapp.gov.bd
 rems.railwayestate.gov.bd
 result.fci.gov.bd
 result19.comillaboard.gov.bd
+rgccr.gov.bd
 rmp.gov.bd
 rndvm1.dghs.gov.bd
 rollsheet.comillaboard.gov.bd
@@ -264,11 +263,10 @@ sheikhrussel.gov.bd
 sherpurtsc.gov.bd
 shibpurpaurashava.gov.bd
 shift.gov.bd
-singramunicipality.gov.bd
 sjis.dgjute.gov.bd
+smartschoolbus.gov.bd
 smmamc.gov.bd
 soltrack.gov.bd
-sonaimuripaurashava.gov.bd
 spg.comillaboard.gov.bd
 sreda.gov.bd
 srngih.gov.bd
@@ -295,7 +293,6 @@ ucddigitalh.gov.bd
 uniontax.gov.bd
 us.itconnect.gov.bd
 useoishwarganj.gov.bd
-verification.dos.gov.bd
 visitormgt.beza.gov.bd
 vrmanagement.rmp.gov.bd
 web.comillaboard.gov.bd
@@ -313,6 +310,7 @@ webdisk.pbi.gov.bd
 webdisk.ppi.gov.bd
 webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
+webdisk.rgccr.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.bangladeshfestival.gov.bd
@@ -326,6 +324,7 @@ webmail.nins.gov.bd
 webmail.ppi.gov.bd
 webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
+webmail.rgccr.gov.bd
 webmail.ttcraj.gov.bd
 www.14upazilaudd.gov.bd
 www.2020-21.onlinetc.comillaboard.gov.bd
@@ -345,12 +344,12 @@ www.bakshimulup.comillalg.gov.bd
 www.bangarawestup.comillalg.gov.bd
 www.bangladesh.gov.bd
 www.bangladeshfestival.gov.bd
-www.barisalboard.gov.bd
 www.barishalcity.gov.bd
 www.barkamtaup.comillalg.gov.bd
 www.basb.gov.bd
 www.bdhckl.gov.bd
 www.belgornorthup.comillalg.gov.bd
+www.beta.barishalcity.gov.bd
 www.bhauksharup.comillalg.gov.bd
 www.bhuloinnorthup.comillalg.gov.bd
 www.bmp.gov.bd
@@ -365,7 +364,6 @@ www.burichangsadarup.comillalg.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.case-moef.gov.bd
 www.cbs.rdodterangpur.gov.bd
-www.centralup.comillalg.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.chitoddaup.comillalg.gov.bd
 www.college.mymensingheducationboard.gov.bd
@@ -382,8 +380,6 @@ www.durgapurnorthup.comillalg.gov.bd
 www.durgapursouthup.comillalg.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
-www.ecampus.hosenabadtsc.gov.bd
-www.edc.srdl.gov.bd
 www.eecpfp.sreda.gov.bd
 www.elahabadup.comillalg.gov.bd
 www.elibrary.sreda.gov.bd
@@ -399,7 +395,6 @@ www.gca.comillaboard.gov.bd
 www.ggmcg.gov.bd
 www.gnc.gov.bd
 www.gunaighorsouthup.comillalg.gov.bd
-www.home.habiganjpourashava.gov.bd
 www.hscadmission.comillaboard.gov.bd
 www.idcard.rpi.gov.bd
 www.ilab.gov.bd
@@ -437,11 +432,9 @@ www.ncsa.gov.bd
 www.nemcalc.sreda.gov.bd
 www.new.cafomolwa.gov.bd
 www.new.chauddagramgovcollege.gov.bd
-www.ngwc.gov.bd
 www.nins.gov.bd
 www.npi.gov.bd
 www.ntrc.gameapp.gov.bd
-www.old.hosenabadtsc.gov.bd
 www.onlinesonaliacc.comillaboard.gov.bd
 www.onlinetc.comillaboard.gov.bd
 www.panchthubiup.comillalg.gov.bd
@@ -462,6 +455,7 @@ www.regionalwildlife.gov.bd
 www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
 www.result.fci.gov.bd
+www.rgccr.gov.bd
 www.rmp.gov.bd
 www.salikandiup.comillalg.gov.bd
 www.scholarship.dsw.gov.bd
@@ -495,7 +489,6 @@ www.xii.onlinetc.comillaboard.gov.bd
 www3.bamis.gov.bd
 xi.onlinetc.comillaboard.gov.bd
 xii.onlinetc.comillaboard.gov.bd
-zpfaridpur.gov.bd
 zpfeni.gov.bd
 zphabiganj.gov.bd
 zpmunshiganj.gov.bd
