@@ -136,6 +136,7 @@ cpanel.scpsc.edu.bd
 cpanel.sdmp.edu.bd
 cpanel.sghscdhaka.edu.bd
 cpanel.shcpsc.edu.bd
+cpanel.shshsm.edu.bd
 cpanel.sipsc.edu.bd
 cpanel.soyedpursmhs.edu.bd
 cpanel.spscsdohs.edu.bd
@@ -180,6 +181,7 @@ cpcalendars.scbbhs.edu.bd
 cpcalendars.scpsc.edu.bd
 cpcalendars.sghscdhaka.edu.bd
 cpcalendars.shcpsc.edu.bd
+cpcalendars.shshsm.edu.bd
 cpcalendars.sipsc.edu.bd
 cpcalendars.spscsdohs.edu.bd
 cpcalendars.srcpsc.edu.bd
@@ -223,6 +225,7 @@ cpcontacts.scbbhs.edu.bd
 cpcontacts.scpsc.edu.bd
 cpcontacts.sghscdhaka.edu.bd
 cpcontacts.shcpsc.edu.bd
+cpcontacts.shshsm.edu.bd
 cpcontacts.sipsc.edu.bd
 cpcontacts.spscsdohs.edu.bd
 cpcontacts.srcpsc.edu.bd
@@ -289,6 +292,7 @@ gonokairhs.edu.bd
 gtchs.edu.bd
 hadm.edu.bd
 hamirkutsahs.edu.bd
+harkolibfdmadrasha.edu.bd
 heedintschool.edu.bd
 horipurhsbr.edu.bd
 hshs1985.edu.bd
@@ -393,6 +397,7 @@ mail.scpsc.edu.bd
 mail.sdmp.edu.bd
 mail.sghscdhaka.edu.bd
 mail.shcpsc.edu.bd
+mail.shshsm.edu.bd
 mail.shsrk.edu.bd
 mail.sipsc.edu.bd
 mail.soyedpursmhs.edu.bd
@@ -462,11 +467,14 @@ sdmp.edu.bd
 sghscdhaka.edu.bd
 shailansurmahs.edu.bd
 shcpsc.edu.bd
+shergmc.edu.bd
 shoulparamkhs.edu.bd
+shshsm.edu.bd
 shsrk.edu.bd
 sipsc.edu.bd
 sitemap.bhsh.edu.bd
 smtp.kaluhatihighschool.edu.bd
+snmapmhs.edu.bd
 southern.edu.bd
 soyedpursmhs.edu.bd
 spscsdohs.edu.bd
@@ -523,6 +531,7 @@ webdisk.scbbhs.edu.bd
 webdisk.scpsc.edu.bd
 webdisk.sghscdhaka.edu.bd
 webdisk.shcpsc.edu.bd
+webdisk.shshsm.edu.bd
 webdisk.sipsc.edu.bd
 webdisk.spscsdohs.edu.bd
 webdisk.srcpsc.edu.bd
@@ -597,6 +606,7 @@ webmail.scpsc.edu.bd
 webmail.sdmp.edu.bd
 webmail.sghscdhaka.edu.bd
 webmail.shcpsc.edu.bd
+webmail.shshsm.edu.bd
 webmail.sipsc.edu.bd
 webmail.soyedpursmhs.edu.bd
 webmail.spscsdohs.edu.bd
@@ -705,6 +715,8 @@ www.scpsc.edu.bd
 www.sdmp.edu.bd
 www.sghscdhaka.edu.bd
 www.shcpsc.edu.bd
+www.shergmc.edu.bd
+www.shshsm.edu.bd
 www.shsrk.edu.bd
 www.sipsc.edu.bd
 www.soyedpursmhs.edu.bd
