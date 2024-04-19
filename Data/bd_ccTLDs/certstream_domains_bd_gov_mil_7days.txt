@@ -14,6 +14,7 @@ assignmentmarks.comillaboard.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.caabhc.gov.bd
 autodiscover.iresppw-brdb.gov.bd
+autodiscover.keraniganjttc.gov.bd
 autodiscover.publichearing.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
@@ -33,6 +34,7 @@ barishalcity.gov.bd
 basb.gov.bd
 bc.gov.bd
 beta.barishalcity.gov.bd
+betarcommercialservice.gov.bd
 bhcl.itconnect.gov.bd
 bhola.gov.bd
 billingtest.alaap.gov.bd
@@ -80,6 +82,7 @@ cpanel.dfsrcaab.gov.bd
 cpanel.ifstbcsir.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.jmc.gov.bd
+cpanel.keraniganjttc.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.mymensingheducationboard.gov.bd
 cpanel.nins.gov.bd
@@ -96,6 +99,7 @@ cpcalendars.dfsrcaab.gov.bd
 cpcalendars.ifstbcsir.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.jmc.gov.bd
+cpcalendars.keraniganjttc.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.mymensingheducationboard.gov.bd
 cpcalendars.nins.gov.bd
@@ -113,6 +117,7 @@ cpcontacts.dfsrcaab.gov.bd
 cpcontacts.ifstbcsir.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.jmc.gov.bd
+cpcontacts.keraniganjttc.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.mymensingheducationboard.gov.bd
 cpcontacts.nins.gov.bd
@@ -166,6 +171,7 @@ etrade.barisalcity.gov.bd
 etrade.barishalcity.gov.bd
 everify.comillaboard.gov.bd
 faridpur.gov.bd
+farmbroadcast.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 finman.seip-fd.gov.bd
@@ -196,6 +202,7 @@ jobsbiwta.gov.bd
 joypurhat.gov.bd
 kcchatt.gov.bd
 kcctl.gov.bd
+keraniganjttc.gov.bd
 keshabpurpouroshava.gov.bd
 khagrachhari.gov.bd
 khulna.gov.bd
@@ -229,6 +236,7 @@ mail.ifstbcsir.gov.bd
 mail.institute.comillaboard.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.jmc.gov.bd
+mail.keraniganjttc.gov.bd
 mail.mspvaw.gov.bd
 mail.mymensingheducationboard.gov.bd
 mail.nins.gov.bd
@@ -340,6 +348,7 @@ soft.taxeszoneonedhaka.gov.bd
 spg.comillaboard.gov.bd
 sreda.gov.bd
 srngih.gov.bd
+srv3.cttcdmp.gov.bd
 sscadmit.bise-ctg.gov.bd
 sscadmitcard.comillaboard.gov.bd
 sso.gca.comillaboard.gov.bd
@@ -382,6 +391,7 @@ webdisk.caabhc.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.jmc.gov.bd
+webdisk.keraniganjttc.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.mymensingheducationboard.gov.bd
 webdisk.nins.gov.bd
@@ -397,6 +407,7 @@ webmail.bangladeshfestival.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.jmc.gov.bd
+webmail.keraniganjttc.gov.bd
 webmail.mspvaw.gov.bd
 webmail.mymensingheducationboard.gov.bd
 webmail.nins.gov.bd
@@ -494,6 +505,7 @@ www.jhalamup.comillalg.gov.bd
 www.jmc.gov.bd
 www.kalikapurup.comillalg.gov.bd
 www.kamallaup.comillalg.gov.bd
+www.keraniganjttc.gov.bd
 www.keronkhalup.comillalg.gov.bd
 www.keshabpurpouroshava.gov.bd
 www.khoshbasnorthup.comillalg.gov.bd
