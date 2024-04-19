@@ -9,6 +9,7 @@ auisc.edu.bd
 autodiscover.barnamalasc.edu.bd
 autodiscover.belkuchicollege.edu.bd
 autodiscover.futuretraining.edu.bd
+autodiscover.hasc.edu.bd
 autodiscover.hkm.edu.bd
 autodiscover.induriahs.edu.bd
 autodiscover.khiramhighschool.edu.bd
@@ -99,8 +100,11 @@ demo.recr.edu.bd
 diphs.edu.bd
 dmuapghs.edu.bd
 dugc.edu.bd
+edu.bd.raichahs.edu.bd
+epi.edu.bd
 erp.presidencybd.edu.bd
 f5test.daffodilvarsity.edu.bd
+fellows.bcps.edu.bd
 ftp.adventist.edu.bd
 ftp.auisc.edu.bd
 gac.edu.bd
@@ -112,6 +116,7 @@ harkolibfdmadrasha.edu.bd
 haziamzadaliacademy.edu.bd
 hazimdabulfazalhighschool.edu.bd
 hkm.edu.bd
+hsjrsc.edu.bd
 iems.eub.edu.bd
 imdo.malekaacademygopalganj.edu.bd
 imperialnursingcollege.edu.bd
@@ -150,6 +155,7 @@ mail.nhmdakhilmadrasah.edu.bd
 mail.nischintapurcollege.edu.bd
 mail.nischintapurhs.edu.bd
 mail.ohs.edu.bd
+mail.puradchs33.edu.bd
 mail.shshsm.edu.bd
 mail.sthsc.edu.bd
 mail.sugsmadrasah.edu.bd
@@ -158,6 +164,7 @@ mayamaritlbhs.edu.bd
 mbgwc.edu.bd
 medicalcollegeforwomen.edu.bd
 mhr.maphsctg.edu.bd
+mhspf.edu.bd
 modhupurhs.edu.bd
 mohalcharigirlshs.edu.bd
 mrh.laxmipurgovtmohilacollege.edu.bd
@@ -170,6 +177,7 @@ nhmdakhilmadrasah.edu.bd
 nischintapurcollege.edu.bd
 nischintapurhs.edu.bd
 nnnusfm.edu.bd
+ocv.fiu.edu.bd
 ohs.edu.bd
 ois.edu.bd
 old.iom.edu.bd
@@ -183,6 +191,7 @@ portal.jjgkhs.edu.bd
 portal.kumarulihs.edu.bd
 portal.nkmhighschoolandhomes.edu.bd
 psmpghs.edu.bd
+puradchs33.edu.bd
 puthiaarma.edu.bd
 rajnagartsc.edu.bd
 rcmats.edu.bd
@@ -275,6 +284,7 @@ www.knsss.edu.bd
 www.ldrasc.edu.bd
 www.maphsctg.edu.bd
 www.mhr.maphsctg.edu.bd
+www.mhspf.edu.bd.raichahs.edu.bd
 www.modhupurhs.edu.bd
 www.mohalcharigirlshs.edu.bd
 www.mrh.laxmipurgovtmohilacollege.edu.bd
@@ -283,8 +293,10 @@ www.neub.edu.bd
 www.nhmdakhilmadrasah.edu.bd
 www.nischintapurcollege.edu.bd
 www.nischintapurhs.edu.bd
+www.ocv.fiu.edu.bd
 www.ohs.edu.bd
 www.paragaon.kathoraidm.edu.bd
+www.puradchs33.edu.bd
 www.puthiaarma.edu.bd
 www.rghighschool.edu.bd.chargobindapur.edu.bd
 www.school.rcmats.edu.bd
