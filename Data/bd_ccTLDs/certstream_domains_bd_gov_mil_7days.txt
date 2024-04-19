@@ -33,7 +33,9 @@ beta.barishalcity.gov.bd
 bhcl.itconnect.gov.bd
 bhola.gov.bd
 billingtest.alaap.gov.bd
+birthdeath.dghs.gov.bd
 bmp.gov.bd
+bogra.gov.bd
 bot.mujibjigyasa.gov.bd
 bpdbivvr.gov.bd
 brahmanbaria.gov.bd
@@ -58,13 +60,16 @@ center.bise-ctg.gov.bd
 central.comillalg.gov.bd
 certificate.bise-ctg.gov.bd
 chandpur.gov.bd
+chapainawabganj.gov.bd
 cjmcourtjashore.gov.bd
 college.mymensingheducationboard.gov.bd
 collegeiif.bise-ctg.gov.bd
 comillaboard.gov.bd
 comillalg.gov.bd
+covid19reports.dghs.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bangladeshfestival.gov.bd
+cpanel.ifstbcsir.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.jmc.gov.bd
 cpanel.mspvaw.gov.bd
@@ -78,6 +83,7 @@ cpanel.ttcraj.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.caabhc.gov.bd
+cpcalendars.ifstbcsir.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.jmc.gov.bd
 cpcalendars.mspvaw.gov.bd
@@ -92,6 +98,7 @@ cpcalendars.ttcraj.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.caabhc.gov.bd
+cpcontacts.ifstbcsir.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.jmc.gov.bd
 cpcontacts.mspvaw.gov.bd
@@ -111,6 +118,7 @@ dbid.gov.bd
 denguereports.dghs.gov.bd
 dgme.gov.bd
 dhaka.gov.bd
+dhakadiv.gov.bd
 diagnostic.rmch.gov.bd
 digrajshahirange.gov.bd
 dinajpurboard.gov.bd
@@ -124,6 +132,7 @@ effhsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
 employee-hsms.somch.gov.bd
+en.ifstbcsir.gov.bd
 en.info.shr.dghs.gov.bd
 epietracker.dghs.gov.bd
 erp.seip-fd.gov.bd
@@ -131,9 +140,11 @@ eservices.boiler.gov.bd
 esifhsc.bise-ctg.gov.bd
 esifsix.bise-ctg.gov.bd
 esifsix.comillaboard.gov.bd
+estate.kda.gov.bd
 etds.gov.bd
 etender.bise-ctg.gov.bd
 etracker.dghs.gov.bd
+etrade.barishalcity.gov.bd
 everify.comillaboard.gov.bd
 feedback.karmasangsthanbank.gov.bd
 finman.seip-fd.gov.bd
@@ -179,6 +190,7 @@ mail.caabhc.gov.bd
 mail.cpatos.gov.bd
 mail.gca.comillaboard.gov.bd
 mail.ggmcg.gov.bd
+mail.ifstbcsir.gov.bd
 mail.institute.comillaboard.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.jmc.gov.bd
@@ -377,8 +389,10 @@ www.elahabadup.comillalg.gov.bd
 www.elibrary.sreda.gov.bd
 www.employee-server.rpi.gov.bd
 www.employee.rpi.gov.bd
+www.en.ifstbcsir.gov.bd
 www.esifsix.comillaboard.gov.bd
 www.etberpurup.comillalg.gov.bd
+www.etrade.barishalcity.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.galimpurup.comillalg.gov.bd
 www.gca.comillaboard.gov.bd
