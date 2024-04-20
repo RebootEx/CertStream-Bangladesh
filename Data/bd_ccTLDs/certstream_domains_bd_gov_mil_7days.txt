@@ -1,6 +1,7 @@
 2020-21.onlinetc.comillaboard.gov.bd
 accounts.comillaboard.gov.bd
 adgfinance.gov.bd
+admin.farmbroadcast.gov.bd
 adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
@@ -18,9 +19,11 @@ autodiscover.keraniganjttc.gov.bd
 autodiscover.publichearing.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
+autodiscover.taxeszonegazipur.gov.bd
 autodiscover.ttcraj.gov.bd
 award.imli.gov.bd
 bagerhat.gov.bd
+baghaicharipaurashava.gov.bd
 bakshimulup.gov.bd
 bandarban.gov.bd
 bangladesh.gov.bd
@@ -33,6 +36,7 @@ barisaldiv.gov.bd
 barishalcity.gov.bd
 basb.gov.bd
 bc.gov.bd
+belkuchipoura.gov.bd
 beta.barishalcity.gov.bd
 betarcommercialservice.gov.bd
 bhcl.itconnect.gov.bd
@@ -64,6 +68,7 @@ cbs.rdodterangpur.gov.bd
 center.bise-ctg.gov.bd
 central.comillalg.gov.bd
 certificate.bise-ctg.gov.bd
+chakariamunicipality.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
 chittagong.gov.bd
@@ -92,6 +97,7 @@ cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
 cpanel.rgccr.gov.bd
 cpanel.rtsc.gov.bd
+cpanel.taxeszonegazipur.gov.bd
 cpanel.ttcraj.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.caabhc.gov.bd
@@ -110,6 +116,7 @@ cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.rgccr.gov.bd
 cpcalendars.rtsc.gov.bd
+cpcalendars.taxeszonegazipur.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.caabhc.gov.bd
@@ -128,6 +135,7 @@ cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.rgccr.gov.bd
 cpcontacts.rtsc.gov.bd
+cpcontacts.taxeszonegazipur.gov.bd
 cpcontacts.ttcraj.gov.bd
 cph.gov.bd
 ctgcollege.gov.bd
@@ -136,6 +144,8 @@ cumilla.srdl.gov.bd
 cumillattc.gov.bd
 dbid.gov.bd
 denguereports.dghs.gov.bd
+deraipaurashava.gov.bd
+dev.knsikhagrachari.gov.bd
 dfsrcaab.gov.bd
 dhaka.gov.bd
 dhakadiv.gov.bd
@@ -144,12 +154,14 @@ digrajshahirange.gov.bd
 dinajpurboard.gov.bd
 dpg.grs.gov.bd
 dpl.gov.bd
+dsw.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
 effhsc.bise-ctg.gov.bd
+effhsc21.comillaboard.gov.bd
 effssc.bise-ctg.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
 elearning.gov.bd
@@ -175,6 +187,7 @@ farmbroadcast.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 finman.seip-fd.gov.bd
+gazipur.gov.bd
 gca.bise-ctg.gov.bd
 gca.comillaboard.gov.bd
 ggmcg.gov.bd
@@ -187,6 +200,7 @@ hris-training.mohfw.gov.bd
 hscadmission.comillaboard.gov.bd
 hscadmit.bise-ctg.gov.bd
 hsms.somch.gov.bd
+ifstbcsir.gov.bd
 institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
@@ -215,6 +229,7 @@ labourdata.dife.gov.bd
 lakshmipur.gov.bd
 land.btcl.gov.bd
 laraveltest.beza.gov.bd
+lasherpur.gov.bd
 ldtax.gov.bd
 lgcrrpmis.lged.gov.bd
 lgd.gov.bd
@@ -224,6 +239,7 @@ llv.mspvaw.gov.bd
 lms.seip-fd.gov.bd
 logistics.gov.bd
 madaripur.gov.bd
+madhukhalipaurashava.gov.bd
 magura.gov.bd
 mail.bangladeshfestival.gov.bd
 mail.barishalcity.gov.bd
@@ -250,6 +266,7 @@ mail.rgccr.gov.bd
 mail.rtsc.gov.bd
 mail.support.a2i.gov.bd
 mail.taxcertificate.comillaboard.gov.bd
+mail.taxeszonegazipur.gov.bd
 mail.ttcraj.gov.bd
 manikganj.gov.bd
 meghnacloud.gov.bd
@@ -258,6 +275,7 @@ mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 moedu.gov.bd
+mokamup.gov.bd
 mspvaw.gov.bd
 mspvawpre.mspvaw.gov.bd
 munshiganj.gov.bd
@@ -291,6 +309,8 @@ ntrc.gameapp.gov.bd
 old.barishalcity.gov.bd
 olt.btcl.gov.bd
 onlineapp.comillaboard.gov.bd
+onlinecollegeform.comillaboard.gov.bd
+onlineschoolform.comillaboard.gov.bd
 onlinesonaliacc.comillaboard.gov.bd
 onlinetc.comillaboard.gov.bd
 openid.dghs.gov.bd
@@ -310,8 +330,10 @@ proxy.shrlive.dghs.gov.bd
 publichearing.gov.bd
 pwdta.gov.bd
 railwayestate.gov.bd
+raipurpourashava.gov.bd
 rajshahi.gov.bd
 rajshahidiv.gov.bd
+ral.brri.gov.bd
 rangamati.gov.bd
 ranisankailpourashava.gov.bd
 reeep.sreda.gov.bd
@@ -326,6 +348,7 @@ rgccr.gov.bd
 rmp.gov.bd
 rollsheet.comillaboard.gov.bd
 rpi.gov.bd
+rrdhs.gov.bd
 rtsc.gov.bd
 satkhira.gov.bd
 scholarship.dsw.gov.bd
@@ -342,10 +365,13 @@ shift.gov.bd
 shr.mcishr.dghs.gov.bd
 sirajganj.gov.bd
 sjis.dgjute.gov.bd
+smartakubpurup.gov.bd
 smartschoolbus.gov.bd
 smmamc.gov.bd
 soft.taxeszoneonedhaka.gov.bd
+somch.gov.bd
 spg.comillaboard.gov.bd
+spisg.gov.bd
 sreda.gov.bd
 srngih.gov.bd
 srv3.cttcdmp.gov.bd
@@ -402,6 +428,7 @@ webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.rgccr.gov.bd
 webdisk.rtsc.gov.bd
+webdisk.taxeszonegazipur.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.bangladeshfestival.gov.bd
 webmail.dfsrcaab.gov.bd
@@ -417,9 +444,11 @@ webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
 webmail.rgccr.gov.bd
 webmail.rtsc.gov.bd
+webmail.taxeszonegazipur.gov.bd
 webmail.ttcraj.gov.bd
 www.2020-21.onlinetc.comillaboard.gov.bd
 www.adgfinance.gov.bd
+www.admin.farmbroadcast.gov.bd
 www.admins.rpi.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
@@ -468,6 +497,7 @@ www.cttcdmp.gov.bd
 www.cumilla.srdl.gov.bd
 www.damgarup.comillalg.gov.bd
 www.daruraup.comillalg.gov.bd
+www.dev.knsikhagrachari.gov.bd
 www.dfsrcaab.gov.bd
 www.dhamptiup.comillalg.gov.bd
 www.diagnostic.rmch.gov.bd
@@ -524,6 +554,7 @@ www.meherparaup.narsingdilg.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohichialup.comillalg.gov.bd
+www.mokamup.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
 www.mymensingheducationboard.gov.bd
@@ -556,6 +587,7 @@ www.register.gameapp.gov.bd
 www.rgc.gov.bd
 www.rgccr.gov.bd
 www.rmp.gov.bd
+www.rrdhs.gov.bd
 www.rtsc.gov.bd
 www.salikandiup.comillalg.gov.bd
 www.scholarship.dsw.gov.bd
@@ -564,7 +596,9 @@ www.shakpurup.comillalg.gov.bd
 www.shilmurinorthup.comillalg.gov.bd
 www.shilmurisouthup.comillalg.gov.bd
 www.shuhilpurup.comillalg.gov.bd
+www.smartakubpurup.gov.bd
 www.soft.taxeszoneonedhaka.gov.bd
+www.somch.gov.bd
 www.spg.comillaboard.gov.bd
 www.sscadmitcard.comillaboard.gov.bd
 www.sso.gca.comillaboard.gov.bd
@@ -574,6 +608,7 @@ www.subilup.comillalg.gov.bd
 www.sultanpurup.comillalg.gov.bd
 www.tankiup.comillalg.gov.bd
 www.taxcertificate.comillaboard.gov.bd
+www.taxeszonegazipur.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
 www.test.bvc.gov.bd
 www.test.dsw.gov.bd
