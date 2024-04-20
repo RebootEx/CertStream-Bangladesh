@@ -38,6 +38,9 @@ ajhsm.edu.bd
 ajucollege.edu.bd
 akijhec.edu.bd
 akmcc.edu.bd
+akmmc.edu.bd
+akmnc.edu.bd
+akmu.edu.bd
 akpi.edu.bd
 aksessbobetmobile.gccc.edu.bd
 aksmdm.edu.bd
@@ -88,6 +91,9 @@ auth.test.bhsh.edu.bd
 autodiscover.acps.edu.bd
 autodiscover.acpsc.edu.bd
 autodiscover.aisd.edu.bd
+autodiscover.akmmc.edu.bd
+autodiscover.akmnc.edu.bd
+autodiscover.akmu.edu.bd
 autodiscover.aksmdm.edu.bd
 autodiscover.amcb.edu.bd
 autodiscover.bafss.edu.bd
@@ -324,6 +330,7 @@ bjkhs1883.edu.bd
 bkdcl.edu.bd
 bkdmb.edu.bd
 bkhs.edu.bd
+bkifm.edu.bd
 bkkss.edu.bd
 bknghs.edu.bd
 bksppsc.edu.bd
@@ -439,6 +446,9 @@ cpanel.acpsc.edu.bd
 cpanel.adventist.edu.bd
 cpanel.aisd.edu.bd
 cpanel.ajchs.edu.bd
+cpanel.akmmc.edu.bd
+cpanel.akmnc.edu.bd
+cpanel.akmu.edu.bd
 cpanel.akpi.edu.bd
 cpanel.aksmdm.edu.bd
 cpanel.algibazarasm.edu.bd
@@ -670,6 +680,9 @@ cpcalendars.acps.edu.bd
 cpcalendars.acpsc.edu.bd
 cpcalendars.aisd.edu.bd
 cpcalendars.ajchs.edu.bd
+cpcalendars.akmmc.edu.bd
+cpcalendars.akmnc.edu.bd
+cpcalendars.akmu.edu.bd
 cpcalendars.akpi.edu.bd
 cpcalendars.aksmdm.edu.bd
 cpcalendars.algibazarasm.edu.bd
@@ -865,6 +878,9 @@ cpcontacts.acps.edu.bd
 cpcontacts.acpsc.edu.bd
 cpcontacts.aisd.edu.bd
 cpcontacts.ajchs.edu.bd
+cpcontacts.akmmc.edu.bd
+cpcontacts.akmnc.edu.bd
+cpcontacts.akmu.edu.bd
 cpcontacts.akpi.edu.bd
 cpcontacts.aksmdm.edu.bd
 cpcontacts.algibazarasm.edu.bd
@@ -1410,6 +1426,7 @@ kanupurhs.edu.bd
 kapastiahs.edu.bd
 karimpurkkbhs.edu.bd
 kashiabari.edu.bd
+kashimpurakfhhighschool.edu.bd
 kasn80.edu.bd
 kasrgdmadrasah.edu.bd
 katakhaliham.edu.bd
@@ -1517,6 +1534,9 @@ mail.acpsc.edu.bd
 mail.adventist.edu.bd
 mail.aisd.edu.bd
 mail.ajchs.edu.bd
+mail.akmmc.edu.bd
+mail.akmnc.edu.bd
+mail.akmu.edu.bd
 mail.akpi.edu.bd
 mail.aksmdm.edu.bd
 mail.algibazarasm.edu.bd
@@ -1564,6 +1584,7 @@ mail.bpscuepz.edu.bd
 mail.brahmandangahighschool.edu.bd
 mail.brghsr.edu.bd
 mail.bsgs.edu.bd
+mail.bsmrstu.edu.bd
 mail.casc.edu.bd
 mail.cbbhsc.edu.bd
 mail.cbnfm.edu.bd
@@ -1907,6 +1928,7 @@ nssdk.edu.bd
 nths.edu.bd
 nuc.edu.bd
 nuhssn.edu.bd
+nwfmadrasa.edu.bd
 ocv.fiu.edu.bd
 ohs.edu.bd
 ois.edu.bd
@@ -2073,6 +2095,7 @@ ruppurghs.edu.bd
 ruppurhs.edu.bd
 rupsaahs.edu.bd
 rusdwdc.edu.bd
+rwam.edu.bd
 s.binnabaidmlhighschool.edu.bd
 s.dhalirparhighschool.edu.bd
 s.madhusalhighschool.edu.bd
@@ -2280,6 +2303,9 @@ webdisk.acps.edu.bd
 webdisk.acpsc.edu.bd
 webdisk.aisd.edu.bd
 webdisk.ajchs.edu.bd
+webdisk.akmmc.edu.bd
+webdisk.akmnc.edu.bd
+webdisk.akmu.edu.bd
 webdisk.akpi.edu.bd
 webdisk.aksmdm.edu.bd
 webdisk.algibazarasm.edu.bd
@@ -2478,6 +2504,9 @@ webmail.acpsc.edu.bd
 webmail.adventist.edu.bd
 webmail.aisd.edu.bd
 webmail.ajchs.edu.bd
+webmail.akmmc.edu.bd
+webmail.akmnc.edu.bd
+webmail.akmu.edu.bd
 webmail.akpi.edu.bd
 webmail.aksmdm.edu.bd
 webmail.algibazarasm.edu.bd
@@ -2735,6 +2764,9 @@ www.agmc.edu.bd
 www.ahsbagmara.edu.bd
 www.aisd.edu.bd
 www.ajchs.edu.bd
+www.akmmc.edu.bd
+www.akmnc.edu.bd
+www.akmu.edu.bd
 www.akpi.edu.bd
 www.aksessbobetmobile.gccc.edu.bd
 www.aksmdm.edu.bd
@@ -2814,6 +2846,7 @@ www.bisc.edu.bd
 www.bjkhs1883.edu.bd
 www.bkdmb.edu.bd
 www.bkhs.edu.bd
+www.bkifm.edu.bd
 www.bksppsc.edu.bd
 www.bkuc.edu.bd
 www.bkzghs.edu.bd
