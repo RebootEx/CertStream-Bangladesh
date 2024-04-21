@@ -935,6 +935,7 @@ cpanel.sdmp.edu.bd
 cpanel.senapalli.edu.bd
 cpanel.sghscdhaka.edu.bd
 cpanel.sgsc.edu.bd
+cpanel.shaheedsmrity.edu.bd
 cpanel.shahidnagarimdm.edu.bd
 cpanel.shcpsc.edu.bd
 cpanel.shscn.edu.bd
@@ -1253,6 +1254,7 @@ cpcalendars.scpsc.edu.bd
 cpcalendars.senapalli.edu.bd
 cpcalendars.sghscdhaka.edu.bd
 cpcalendars.sgsc.edu.bd
+cpcalendars.shaheedsmrity.edu.bd
 cpcalendars.shahidnagarimdm.edu.bd
 cpcalendars.shcpsc.edu.bd
 cpcalendars.shscn.edu.bd
@@ -1571,6 +1573,7 @@ cpcontacts.scpsc.edu.bd
 cpcontacts.senapalli.edu.bd
 cpcontacts.sghscdhaka.edu.bd
 cpcontacts.sgsc.edu.bd
+cpcontacts.shaheedsmrity.edu.bd
 cpcontacts.shahidnagarimdm.edu.bd
 cpcontacts.shcpsc.edu.bd
 cpcontacts.shscn.edu.bd
@@ -2456,6 +2459,7 @@ mail.sdmp.edu.bd
 mail.senapalli.edu.bd
 mail.sghscdhaka.edu.bd
 mail.sgsc.edu.bd
+mail.shaheedsmrity.edu.bd
 mail.shahidnagarimdm.edu.bd
 mail.shankarkatisdm.edu.bd
 mail.shcpsc.edu.bd
@@ -2646,6 +2650,7 @@ nmkmc.edu.bd
 nnnusfm.edu.bd
 noaparahsctg.edu.bd
 nphahs.edu.bd
+npscnoakhali.edu.bd
 nrc.edu.bd
 nrnghs.edu.bd
 nsam.edu.bd
@@ -2883,8 +2888,10 @@ sggmm2.gccc.edu.bd
 sghs113507.edu.bd
 sghscdhaka.edu.bd
 sgsc.edu.bd
+shaheedsmrity.edu.bd
 shaheedziaurrahmancollege.edu.bd
 shahidnagarimdm.edu.bd
+shahidsmritygirlshighschool.edu.bd
 shailansurmahs.edu.bd
 shakhatihs.edu.bd
 shalikhabmcollege.edu.bd
@@ -3323,6 +3330,7 @@ webdisk.scpsc.edu.bd
 webdisk.senapalli.edu.bd
 webdisk.sghscdhaka.edu.bd
 webdisk.sgsc.edu.bd
+webdisk.shaheedsmrity.edu.bd
 webdisk.shahidnagarimdm.edu.bd
 webdisk.shcpsc.edu.bd
 webdisk.shscn.edu.bd
@@ -3674,6 +3682,7 @@ webmail.sdmp.edu.bd
 webmail.senapalli.edu.bd
 webmail.sghscdhaka.edu.bd
 webmail.sgsc.edu.bd
+webmail.shaheedsmrity.edu.bd
 webmail.shahidnagarimdm.edu.bd
 webmail.shcpsc.edu.bd
 webmail.shscn.edu.bd
@@ -4392,7 +4401,9 @@ www.senapalli.edu.bd
 www.serkolshimla.edu.bd
 www.sghscdhaka.edu.bd
 www.sgsc.edu.bd
+www.shaheedsmrity.edu.bd
 www.shahidnagarimdm.edu.bd
+www.shahidsmritygirlshighschool.edu.bd
 www.shakhatihs.edu.bd.bishnopurhighs.edu.bd
 www.shalikhabmcollege.edu.bd.choumabe.edu.bd
 www.shalshirighs.edu.bd
