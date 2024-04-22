@@ -93,6 +93,7 @@ cpanel.ifstbcsir.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.jmc.gov.bd
 cpanel.keraniganjttc.gov.bd
+cpanel.khagracharitsc.gov.bd
 cpanel.ppi.gov.bd
 cpanel.publichearing.gov.bd
 cpanel.pwdta.gov.bd
@@ -109,6 +110,7 @@ cpcalendars.ifstbcsir.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.jmc.gov.bd
 cpcalendars.keraniganjttc.gov.bd
+cpcalendars.khagracharitsc.gov.bd
 cpcalendars.ppi.gov.bd
 cpcalendars.publichearing.gov.bd
 cpcalendars.pwdta.gov.bd
@@ -125,6 +127,7 @@ cpcontacts.ifstbcsir.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.jmc.gov.bd
 cpcontacts.keraniganjttc.gov.bd
+cpcontacts.khagracharitsc.gov.bd
 cpcontacts.ppi.gov.bd
 cpcontacts.publichearing.gov.bd
 cpcontacts.pwdta.gov.bd
@@ -139,6 +142,7 @@ cumilla.gov.bd
 cumillattc.gov.bd
 dashboard.iedcr.gov.bd
 dbid.gov.bd
+dc-khagrachhari.gov.bd
 debendracollege.gov.bd
 denguereports.dghs.gov.bd
 deraipaurashava.gov.bd
@@ -223,6 +227,7 @@ kcchatt.gov.bd
 kcctl.gov.bd
 keraniganjttc.gov.bd
 keshabpurpouroshava.gov.bd
+khagracharitsc.gov.bd
 khagrachhari.gov.bd
 khulna.gov.bd
 khulnadiv.gov.bd
@@ -260,6 +265,7 @@ mail.iresppw-brdb.gov.bd
 mail.jamalpurtsc.gov.bd
 mail.jmc.gov.bd
 mail.keraniganjttc.gov.bd
+mail.khagracharitsc.gov.bd
 mail.onlinetc.comillaboard.gov.bd
 mail.ppi.gov.bd
 mail.publichearing.gov.bd
@@ -405,6 +411,7 @@ training.ec4j.gov.bd
 ttcbog.gov.bd
 ttcraj.gov.bd
 uacco.melandahbhata.gov.bd
+uat.dc-khagrachhari.gov.bd
 ucddigitalh.gov.bd
 upsonod.com.melandahbhata.gov.bd
 uzpseba.gov.bd
@@ -425,6 +432,7 @@ webdisk.hris.msdp.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.jmc.gov.bd
 webdisk.keraniganjttc.gov.bd
+webdisk.khagracharitsc.gov.bd
 webdisk.ppi.gov.bd
 webdisk.publichearing.gov.bd
 webdisk.pwdta.gov.bd
@@ -439,6 +447,7 @@ webmail.hris.msdp.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.jmc.gov.bd
 webmail.keraniganjttc.gov.bd
+webmail.khagracharitsc.gov.bd
 webmail.ppi.gov.bd
 webmail.publichearing.gov.bd
 webmail.pwdta.gov.bd
@@ -491,6 +500,7 @@ www.comillaboard.gov.bd
 www.cttcdmp.gov.bd
 www.damgarup.comillalg.gov.bd
 www.daruraup.comillalg.gov.bd
+www.dc-khagrachhari.gov.bd
 www.debendracollege.gov.bd
 www.dev.knsikhagrachari.gov.bd
 www.dev.rgc.gov.bd
@@ -532,6 +542,7 @@ www.kamallaup.comillalg.gov.bd
 www.keraniganjttc.gov.bd
 www.keronkhalup.comillalg.gov.bd
 www.keshabpurpouroshava.gov.bd
+www.khagracharitsc.gov.bd
 www.khoshbasnorthup.comillalg.gov.bd
 www.khoshbassouthup.comillalg.gov.bd
 www.khudrachaya.smmamc.gov.bd

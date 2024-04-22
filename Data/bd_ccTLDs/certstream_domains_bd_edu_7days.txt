@@ -9,6 +9,7 @@ abjs.edu.bd
 abmb.edu.bd
 abmb.edu.bd.aamc.edu.bd
 academic.diu.edu.bd
+academic.mlis.edu.bd
 achiawajedgss.edu.bd
 acps.edu.bd
 acpsc.edu.bd
@@ -18,6 +19,7 @@ adharahighschool.edu.bd
 admas.edu.bd
 admin.abmb.edu.bd
 admin.boliadaingahs.edu.bd
+admin.islampurcollege.edu.bd
 admin.jamunacollegemr.edu.bd
 admin.octal.edu.bd
 admin.primeasia.edu.bd
@@ -571,6 +573,7 @@ cei.edu.bd
 cgmc.edu.bd
 cgmphs.edu.bd
 cgwc.edu.bd
+chahutpurss.edu.bd
 chakpranhs.edu.bd
 chalancollege.edu.bd
 chalitaghatasgm.edu.bd
@@ -961,6 +964,7 @@ cpanel.soyedpursmhs.edu.bd
 cpanel.spsc.edu.bd
 cpanel.spscsdohs.edu.bd
 cpanel.srcpsc.edu.bd
+cpanel.ssdc.edu.bd
 cpanel.ssqcdc.edu.bd
 cpanel.sthsc.edu.bd
 cpanel.sualokhs.edu.bd
@@ -1282,6 +1286,7 @@ cpcalendars.smuct.edu.bd
 cpcalendars.spsc.edu.bd
 cpcalendars.spscsdohs.edu.bd
 cpcalendars.srcpsc.edu.bd
+cpcalendars.ssdc.edu.bd
 cpcalendars.ssqcdc.edu.bd
 cpcalendars.sthsc.edu.bd
 cpcalendars.sualokhs.edu.bd
@@ -1604,6 +1609,7 @@ cpcontacts.smuct.edu.bd
 cpcontacts.spsc.edu.bd
 cpcontacts.spscsdohs.edu.bd
 cpcontacts.srcpsc.edu.bd
+cpcontacts.ssdc.edu.bd
 cpcontacts.ssqcdc.edu.bd
 cpcontacts.sthsc.edu.bd
 cpcontacts.sualokhs.edu.bd
@@ -1654,6 +1660,7 @@ dakatiasmhschool.edu.bd.angargaraunitedhighschool.edu.bd
 daldalihs.edu.bd
 daliya.saic.edu.bd
 damdamhs.edu.bd
+danaramhsfenchu.edu.bd
 darogarhatakmadrasah.edu.bd
 darponpolytechnic.edu.bd
 dass.edu.bd
@@ -1935,6 +1942,7 @@ imdo.malekaacademygopalganj.edu.bd
 imperialnursingcollege.edu.bd
 imt.edu.bd
 induriahs.edu.bd
+infra.edu.bd
 ipjhighschool.edu.bd
 ipscctg.edu.bd
 ipv6.boliadaingahs.edu.bd
@@ -2507,6 +2515,7 @@ mail.spsc.edu.bd
 mail.spscsdohs.edu.bd
 mail.srcpsc.edu.bd
 mail.srnhs.edu.bd
+mail.ssdc.edu.bd
 mail.ssqcdc.edu.bd
 mail.sthsc.edu.bd
 mail.sualokhs.edu.bd
@@ -2660,6 +2669,7 @@ nfghs.edu.bd
 nfidm.edu.bd
 ngdc.edu.bd
 ngmlhsc.edu.bd
+ngsbhs.edu.bd
 nhc.edu.bd
 nhmdakhilmadrasah.edu.bd
 nhs1972.edu.bd
@@ -2988,6 +2998,7 @@ srijanyhs.edu.bd
 sristy.edu.bd
 srnhs.edu.bd
 srsam.edu.bd
+ssdc.edu.bd
 ssib.edu.bd
 ssmc.edu.bd
 ssmdm.edu.bd
@@ -3381,6 +3392,7 @@ webdisk.sipsc.edu.bd
 webdisk.spsc.edu.bd
 webdisk.spscsdohs.edu.bd
 webdisk.srcpsc.edu.bd
+webdisk.ssdc.edu.bd
 webdisk.ssqcdc.edu.bd
 webdisk.sthsc.edu.bd
 webdisk.sualokhs.edu.bd
@@ -3559,6 +3571,7 @@ webmail.gsamadrasha.edu.bd
 webmail.gssm.edu.bd
 webmail.gub.edu.bd
 webmail.hamirkutsahs.edu.bd
+webmail.hasc.edu.bd
 webmail.hazipurcollege.edu.bd
 webmail.hbhsm.edu.bd
 webmail.hdhfm.edu.bd
@@ -3738,6 +3751,7 @@ webmail.soyedpursmhs.edu.bd
 webmail.spsc.edu.bd
 webmail.spscsdohs.edu.bd
 webmail.srcpsc.edu.bd
+webmail.ssdc.edu.bd
 webmail.ssqcdc.edu.bd
 webmail.sthsc.edu.bd
 webmail.sualokhs.edu.bd
@@ -3827,6 +3841,7 @@ www.apidoc.ugv.edu.bd
 www.app.chargobindapur.edu.bd
 www.app.enc.edu.bd
 www.app.rghighschool.edu.bd
+www.apply.infra.edu.bd
 www.apps.proyashrangpur.edu.bd
 www.arjunamhs.edu.bd
 www.arnhs.edu.bd
@@ -3995,6 +4010,7 @@ www.daffodilvarsity.edu.bd
 www.dahsc.edu.bd
 www.dakatiasmhschool.edu.bd.angargaraunitedhighschool.edu.bd
 www.daldalihs.edu.bd
+www.danaramhsfenchu.edu.bd
 www.darogarhatakmadrasah.edu.bd
 www.darponpolytechnic.edu.bd
 www.dashboard.borishurschoolandcollege.edu.bd
@@ -4492,6 +4508,7 @@ www.srcpsc.edu.bd
 www.sristy.edu.bd
 www.srnhs.edu.bd
 www.srsam.edu.bd
+www.ssdc.edu.bd
 www.ssmc.edu.bd
 www.ssqcdc.edu.bd
 www.sssj.bghsm.edu.bd
@@ -4499,6 +4516,7 @@ www.stage.kushtiazillaschool.edu.bd
 www.stdid.hamdarduniversity.edu.bd
 www.sthsc.edu.bd
 www.student.primeasia.edu.bd
+www.studentportal.infra.edu.bd
 www.sualokhs.edu.bd
 www.sugsmadrasah.edu.bd
 www.suhssyl.edu.bd
