@@ -94,6 +94,7 @@ cpanel.rgccr.gov.bd
 cpanel.rtsc.gov.bd
 cpanel.taxeszonegazipur.gov.bd
 cpanel.ttcraj.gov.bd
+cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.caabhc.gov.bd
 cpcalendars.debendracollege.gov.bd
@@ -110,6 +111,7 @@ cpcalendars.rgccr.gov.bd
 cpcalendars.rtsc.gov.bd
 cpcalendars.taxeszonegazipur.gov.bd
 cpcalendars.ttcraj.gov.bd
+cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.caabhc.gov.bd
 cpcontacts.debendracollege.gov.bd
@@ -126,6 +128,7 @@ cpcontacts.rgccr.gov.bd
 cpcontacts.rtsc.gov.bd
 cpcontacts.taxeszonegazipur.gov.bd
 cpcontacts.ttcraj.gov.bd
+cpcontacts.zsorangpur.gov.bd
 cph.gov.bd
 ctgcollege.gov.bd
 cttcdmp.gov.bd
@@ -245,6 +248,7 @@ mail.cpatos.gov.bd
 mail.cttcdmp.gov.bd
 mail.debendracollege.gov.bd
 mail.dfsrcaab.gov.bd
+mail.egp.dghs.gov.bd
 mail.gca.comillaboard.gov.bd
 mail.ggmcg.gov.bd
 mail.hris.msdp.gov.bd
@@ -266,6 +270,7 @@ mail.taxcertificate.comillaboard.gov.bd
 mail.taxeszonegazipur.gov.bd
 mail.ttcraj.gov.bd
 mail.zprajshahi.gov.bd
+mail.zsorangpur.gov.bd
 manikganj.gov.bd
 mca.bise-ctg.gov.bd
 mchti.gov.bd
@@ -426,6 +431,7 @@ webdisk.rgccr.gov.bd
 webdisk.rtsc.gov.bd
 webdisk.taxeszonegazipur.gov.bd
 webdisk.ttcraj.gov.bd
+webdisk.zsorangpur.gov.bd
 webmail.admin.msdp.gov.bd
 webmail.debendracollege.gov.bd
 webmail.dfsrcaab.gov.bd
@@ -440,6 +446,7 @@ webmail.rgccr.gov.bd
 webmail.rtsc.gov.bd
 webmail.taxeszonegazipur.gov.bd
 webmail.ttcraj.gov.bd
+webmail.zsorangpur.gov.bd
 wp.kmpi.gov.bd
 www.2020-21.onlinetc.comillaboard.gov.bd
 www.academic.nilphamarittc.gov.bd
@@ -657,7 +664,9 @@ www.xii.onlinetc.comillaboard.gov.bd
 www.zearkandiup.comillalg.gov.bd
 www.zinglatoliup.comillalg.gov.bd
 www.zprajshahi.gov.bd
+www.zsorangpur.gov.bd
 xi.onlinetc.comillaboard.gov.bd
 xii.onlinetc.comillaboard.gov.bd
 zpmunshiganj.gov.bd
 zprajshahi.gov.bd
+zsorangpur.gov.bd
