@@ -159,6 +159,7 @@ autodiscover.birhalkahs.edu.bd
 autodiscover.birinchimadrasah.edu.bd
 autodiscover.bisc.edu.bd
 autodiscover.bksppsc.edu.bd
+autodiscover.bkuc.edu.bd
 autodiscover.bmd.edu.bd
 autodiscover.bmdss.edu.bd
 autodiscover.bmhsm.edu.bd
@@ -224,6 +225,7 @@ autodiscover.heedintschool.edu.bd
 autodiscover.hkm.edu.bd
 autodiscover.hogaldangahs.edu.bd
 autodiscover.hpc.edu.bd
+autodiscover.hsschool.edu.bd
 autodiscover.hsshighschool.edu.bd
 autodiscover.htdc.edu.bd
 autodiscover.htss.edu.bd
@@ -281,6 +283,7 @@ autodiscover.mdss.edu.bd
 autodiscover.meheraliamadrasah.edu.bd
 autodiscover.meherpurmdm.edu.bd
 autodiscover.mgschool.edu.bd
+autodiscover.mhahs.edu.bd
 autodiscover.mhs116465.edu.bd
 autodiscover.mirjapurhighschool.edu.bd
 autodiscover.mirpurcollege.edu.bd
@@ -565,6 +568,7 @@ charbhangadsdm.edu.bd
 charkhaihsbeani.edu.bd
 charks.edu.bd
 charmss.edu.bd
+chartec.bkdcl.edu.bd
 chatpion.bhssg.edu.bd
 chdm.edu.bd
 chhatnaicollege.edu.bd
@@ -752,6 +756,7 @@ cpanel.horipurhsbr.edu.bd
 cpanel.hpc.edu.bd
 cpanel.hsamc.edu.bd
 cpanel.hshs1985.edu.bd
+cpanel.hsschool.edu.bd
 cpanel.hsshighschool.edu.bd
 cpanel.htdc.edu.bd
 cpanel.htss.edu.bd
@@ -817,6 +822,7 @@ cpanel.mdss.edu.bd
 cpanel.meheraliamadrasah.edu.bd
 cpanel.meherpurmdm.edu.bd
 cpanel.mgschool.edu.bd
+cpanel.mhahs.edu.bd
 cpanel.mhs116465.edu.bd
 cpanel.mirjapurhighschool.edu.bd
 cpanel.mirpurcollege.edu.bd
@@ -1067,6 +1073,7 @@ cpcalendars.hkm.edu.bd
 cpcalendars.hogaldangahs.edu.bd
 cpcalendars.hpc.edu.bd
 cpcalendars.hsamc.edu.bd
+cpcalendars.hsschool.edu.bd
 cpcalendars.hsshighschool.edu.bd
 cpcalendars.htdc.edu.bd
 cpcalendars.htss.edu.bd
@@ -1127,6 +1134,7 @@ cpcalendars.mdss.edu.bd
 cpcalendars.meheraliamadrasah.edu.bd
 cpcalendars.meherpurmdm.edu.bd
 cpcalendars.mgschool.edu.bd
+cpcalendars.mhahs.edu.bd
 cpcalendars.mhs116465.edu.bd
 cpcalendars.mirjapurhighschool.edu.bd
 cpcalendars.mirpurcollege.edu.bd
@@ -1367,6 +1375,7 @@ cpcontacts.hkm.edu.bd
 cpcontacts.hogaldangahs.edu.bd
 cpcontacts.hpc.edu.bd
 cpcontacts.hsamc.edu.bd
+cpcontacts.hsschool.edu.bd
 cpcontacts.hsshighschool.edu.bd
 cpcontacts.htdc.edu.bd
 cpcontacts.htss.edu.bd
@@ -1427,6 +1436,7 @@ cpcontacts.mdss.edu.bd
 cpcontacts.meheraliamadrasah.edu.bd
 cpcontacts.meherpurmdm.edu.bd
 cpcontacts.mgschool.edu.bd
+cpcontacts.mhahs.edu.bd
 cpcontacts.mhs116465.edu.bd
 cpcontacts.mirjapurhighschool.edu.bd
 cpcontacts.mirpurcollege.edu.bd
@@ -1804,6 +1814,7 @@ hshs1985.edu.bd
 hsjhs.edu.bd
 hsjrsc.edu.bd
 hssc.edu.bd
+hsschool.edu.bd
 hsshighschool.edu.bd
 htbmc.edu.bd
 htdc.edu.bd
@@ -1951,6 +1962,7 @@ kdm120918.edu.bd
 kdmadrasah.edu.bd
 kdshs.edu.bd
 keshorhatghs.edu.bd
+kfm.edu.bd
 kgck.edu.bd
 kghfmoukhaliss.edu.bd
 kghs.edu.bd
@@ -1964,6 +1976,7 @@ khiramhighschool.edu.bd
 kholabarihs.edu.bd
 kholahaticollege.edu.bd
 khs124048.edu.bd
+khs1973.edu.bd
 khsm.edu.bd
 khulnamats.edu.bd
 khulnarsomoy.com.munshigonjcollege.edu.bd
@@ -1987,6 +2000,7 @@ knuhs.edu.bd
 kodc.edu.bd
 koha.iub.edu.bd
 kohinoorjutemillhighschool.edu.bd
+kolakopaalimmadrasha.edu.bd
 kotalihighschool.edu.bd
 kpbm.edu.bd
 kpcbd.edu.bd
@@ -2223,6 +2237,7 @@ mail.horipurhsbr.edu.bd
 mail.hpc.edu.bd
 mail.hsamc.edu.bd
 mail.hshs1985.edu.bd
+mail.hsschool.edu.bd
 mail.hsshighschool.edu.bd
 mail.htdc.edu.bd
 mail.htss.edu.bd
@@ -2261,6 +2276,7 @@ mail.kdmadrasah.edu.bd
 mail.kgmsc.edu.bd
 mail.khiramhighschool.edu.bd
 mail.kholabarihs.edu.bd
+mail.khs1973.edu.bd
 mail.khsm.edu.bd
 mail.kmifdm.edu.bd
 mail.knsm.edu.bd
@@ -2297,6 +2313,7 @@ mail.mdss.edu.bd
 mail.meheraliamadrasah.edu.bd
 mail.meherpurmdm.edu.bd
 mail.mgschool.edu.bd
+mail.mhahs.edu.bd
 mail.mhs116465.edu.bd
 mail.mirjapurhighschool.edu.bd
 mail.mirpurcollege.edu.bd
@@ -2430,6 +2447,7 @@ malekaacademygopalganj.edu.bd
 mamc.edu.bd
 mandamscollege.edu.bd
 manikgonjmohilacollege.edu.bd
+mansinghpurdm.edu.bd
 maohahighschool.edu.bd
 maphsctg.edu.bd
 marialasecondaryschool.edu.bd
@@ -2459,6 +2477,7 @@ mghssn.edu.bd.saahs.edu.bd
 mgs.edu.bd
 mgsc.edu.bd
 mgschool.edu.bd
+mhahs.edu.bd
 mhhsf.edu.bd
 mhr.maphsctg.edu.bd
 mhs116465.edu.bd
@@ -2778,6 +2797,7 @@ senapalli.edu.bd
 server1.ulab.edu.bd
 seu.edu.bd
 sfdm.edu.bd
+sfmhs.edu.bd
 sfmu.edu.bd
 sgcb.edu.bd
 sggmm2.gccc.edu.bd
@@ -2812,6 +2832,7 @@ singnagarschool.edu.bd
 sipsc.edu.bd
 sitakundatsc.edu.bd
 sitemap.bhsh.edu.bd
+sjfm.edu.bd
 sjmhhs.edu.bd
 skamanullahcollege.edu.bd
 skfmhs.edu.bd
@@ -3079,6 +3100,7 @@ webdisk.hkm.edu.bd
 webdisk.hogaldangahs.edu.bd
 webdisk.hpc.edu.bd
 webdisk.hsamc.edu.bd
+webdisk.hsschool.edu.bd
 webdisk.hsshighschool.edu.bd
 webdisk.htdc.edu.bd
 webdisk.htss.edu.bd
@@ -3139,6 +3161,7 @@ webdisk.mdss.edu.bd
 webdisk.meheraliamadrasah.edu.bd
 webdisk.meherpurmdm.edu.bd
 webdisk.mgschool.edu.bd
+webdisk.mhahs.edu.bd
 webdisk.mhs116465.edu.bd
 webdisk.mirjapurhighschool.edu.bd
 webdisk.mirpurcollege.edu.bd
@@ -3400,6 +3423,7 @@ webmail.horipurhsbr.edu.bd
 webmail.hpc.edu.bd
 webmail.hsamc.edu.bd
 webmail.hshs1985.edu.bd
+webmail.hsschool.edu.bd
 webmail.hsshighschool.edu.bd
 webmail.htdc.edu.bd
 webmail.htss.edu.bd
@@ -3465,6 +3489,7 @@ webmail.mdss.edu.bd
 webmail.meheraliamadrasah.edu.bd
 webmail.meherpurmdm.edu.bd
 webmail.mgschool.edu.bd
+webmail.mhahs.edu.bd
 webmail.mhs116465.edu.bd
 webmail.mirjapurhighschool.edu.bd
 webmail.mirpurcollege.edu.bd
@@ -3763,6 +3788,7 @@ www.charabagihs.edu.bd
 www.charbhangadsdm.edu.bd
 www.charkhaihsbeani.edu.bd
 www.charks.edu.bd
+www.chartec.bkdcl.edu.bd
 www.chat.bkdcl.edu.bd
 www.chatpion.bhssg.edu.bd
 www.chdm.edu.bd
@@ -3909,6 +3935,7 @@ www.hr.ugv.edu.bd
 www.hsamc.edu.bd
 www.hshs1985.edu.bd
 www.hsjhs.edu.bd
+www.hsschool.edu.bd
 www.hsshighschool.edu.bd
 www.htbmc.edu.bd.ihsh.edu.bd
 www.htdc.edu.bd
@@ -4010,6 +4037,7 @@ www.khalgramhs.edu.bd
 www.khaskhamaghs.edu.bd.panditsarhs.edu.bd
 www.khiramhighschool.edu.bd
 www.kholabarihs.edu.bd
+www.khs1973.edu.bd
 www.khsm.edu.bd
 www.khulnarsomoy.com.munshigonjcollege.edu.bd
 www.kjughs.edu.bd
@@ -4075,6 +4103,7 @@ www.meherpurmdm.edu.bd
 www.mgaahs.edu.bd
 www.mghssn.edu.bd.saahs.edu.bd
 www.mgschool.edu.bd
+www.mhahs.edu.bd
 www.mhr.maphsctg.edu.bd
 www.mhs116465.edu.bd
 www.mhsa.edu.bd
