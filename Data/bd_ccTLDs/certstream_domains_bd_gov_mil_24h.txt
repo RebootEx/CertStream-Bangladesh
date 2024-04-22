@@ -1,6 +1,7 @@
 autodiscover.dgfi.gov.bd
 bise-ctg.gov.bd
 bstieapp.gov.bd
+cbc.gov.bd
 ccapkhulna.gov.bd
 cltp.gov.bd
 cpanel.disability.wewb.gov.bd
@@ -8,6 +9,7 @@ cpanel.khagracharitsc.gov.bd
 cpcalendars.khagracharitsc.gov.bd
 cpcontacts.khagracharitsc.gov.bd
 dam.gov.bd
+dbas.cbc.gov.bd
 dc-khagrachhari.gov.bd
 disability.wewb.gov.bd
 dmp.gov.bd
@@ -25,14 +27,18 @@ mail.dgfi.gov.bd
 mail.disability.wewb.gov.bd
 mail.emergencynutrition.gov.bd
 mail.khagracharitsc.gov.bd
+mail.vatdhakawest.gov.bd
+npa.gov.bd
 ois.pgcb.gov.bd
 old.gzmcfeni.gov.bd
 pop.emergencynutrition.gov.bd
 postalacademy.gov.bd
 schoolform.bise-ctg.gov.bd
 smtp.emergencynutrition.gov.bd
+training.apams.cabinet.gov.bd
 uat.dc-khagrachhari.gov.bd
 useoishwarganj.gov.bd
+vatdhakawest.gov.bd
 webdisk.khagracharitsc.gov.bd
 webmail.disability.wewb.gov.bd
 webmail.khagracharitsc.gov.bd
@@ -43,4 +49,5 @@ www.emergencynutrition.gov.bd
 www.globe.com.ph.dhamraimunicipality.gov.bd
 www.khagracharitsc.gov.bd
 www.old.gzmcfeni.gov.bd
+www.vatdhakawest.gov.bd
 zpsylhet.gov.bd
