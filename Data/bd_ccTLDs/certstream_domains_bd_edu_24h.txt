@@ -1,3 +1,4 @@
+academic.diu.edu.bd
 academic.iscm.edu.bd
 academic.mlis.edu.bd
 admhs.edu.bd
@@ -44,6 +45,7 @@ bms.edu.bd
 bnbdm.edu.bd
 bphs.edu.bd
 brghs.edu.bd
+btclism.edu.bd
 bui.edu.bd
 chahutpurss.edu.bd
 chandipurmdm.edu.bd
@@ -59,6 +61,7 @@ cpanel.mbkhschool.edu.bd
 cpanel.mfsc.edu.bd
 cpanel.pbdmrk.edu.bd
 cpanel.ranashalhighschool.edu.bd
+cpanel.shaheedsmrity.edu.bd
 cpanel.siamacademy.edu.bd
 cpanel.ssdc.edu.bd
 cpanel.wpmykhs.edu.bd
@@ -72,6 +75,7 @@ cpcalendars.mbkhschool.edu.bd
 cpcalendars.mfsc.edu.bd
 cpcalendars.pbdmrk.edu.bd
 cpcalendars.ranashalhighschool.edu.bd
+cpcalendars.shaheedsmrity.edu.bd
 cpcalendars.siamacademy.edu.bd
 cpcalendars.ssdc.edu.bd
 cpcalendars.wpmykhs.edu.bd
@@ -85,10 +89,14 @@ cpcontacts.mbkhschool.edu.bd
 cpcontacts.mfsc.edu.bd
 cpcontacts.pbdmrk.edu.bd
 cpcontacts.ranashalhighschool.edu.bd
+cpcontacts.shaheedsmrity.edu.bd
 cpcontacts.siamacademy.edu.bd
 cpcontacts.ssdc.edu.bd
 cpcontacts.wpmykhs.edu.bd
 csmlhs.edu.bd
+demoadmissionapplicantportal.diu.edu.bd
+demoadmissionportal.diu.edu.bd
+demohrportal.diu.edu.bd
 dewshinhs.edu.bd
 dhanbarigovtcollege.edu.bd
 dramtdc.edu.bd
@@ -139,9 +147,11 @@ mail.mbkhschool.edu.bd
 mail.mfsc.edu.bd
 mail.pbdmrk.edu.bd
 mail.ranashalhighschool.edu.bd
+mail.shaheedsmrity.edu.bd
 mail.siamacademy.edu.bd
 mail.ssdc.edu.bd
 mail.wpmykhs.edu.bd
+marialasecondaryschool.edu.bd
 masdaihighschool.edu.bd
 mbkhschool.edu.bd
 mdcmodelinst.edu.bd
@@ -161,6 +171,7 @@ porabarihschool.edu.bd
 porabarihschool.edu.bd.poarbarihighschool.edu.bd
 portal.chhagalnaiyapgirls.edu.bd
 portal.saikatgovcollege.edu.bd
+raigonj.edu.bd
 ranashalhighschool.edu.bd
 rmu.edu.bd
 rsdm.edu.bd
@@ -172,6 +183,7 @@ s.uahsc.edu.bd
 sakhuahs.edu.bd
 scholarshomegsc.edu.bd
 seu.edu.bd
+shaheedsmrity.edu.bd
 shollahsc.edu.bd
 siamacademy.edu.bd
 skschoolandcollege.edu.bd
@@ -194,6 +206,7 @@ webdisk.mbkhschool.edu.bd
 webdisk.mfsc.edu.bd
 webdisk.pbdmrk.edu.bd
 webdisk.ranashalhighschool.edu.bd
+webdisk.shaheedsmrity.edu.bd
 webdisk.siamacademy.edu.bd
 webdisk.ssdc.edu.bd
 webdisk.wpmykhs.edu.bd
@@ -207,6 +220,7 @@ webmail.mbkhschool.edu.bd
 webmail.mfsc.edu.bd
 webmail.pbdmrk.edu.bd
 webmail.ranashalhighschool.edu.bd
+webmail.shaheedsmrity.edu.bd
 webmail.siamacademy.edu.bd
 webmail.ssdc.edu.bd
 webmail.wpmykhs.edu.bd
@@ -266,6 +280,7 @@ www.s.golkhalihs.edu.bd
 www.s.patulihs.edu.bd
 www.s.rohitpurhs.edu.bd
 www.s.uahsc.edu.bd
+www.shaheedsmrity.edu.bd
 www.shollahsc.edu.bd
 www.siamacademy.edu.bd
 www.ssdc.edu.bd
