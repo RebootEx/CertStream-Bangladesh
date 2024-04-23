@@ -272,6 +272,7 @@ autodiscover.jolshiricsc.edu.bd
 autodiscover.jsc.edu.bd
 autodiscover.jskssc.edu.bd
 autodiscover.kachiaraghs.edu.bd
+autodiscover.kadirpurhighschool.edu.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
 autodiscover.kalikapur-hs.edu.bd
 autodiscover.kamalpurtm.edu.bd
@@ -476,6 +477,7 @@ basukhalidakhilmadrasah.edu.bd
 batbuniaschool.edu.bd
 bauphalgc.edu.bd
 baurshs.edu.bd
+baust.edu.bd
 bazhs.edu.bd
 bazraparanhhs.edu.bd
 bbaedu.info.dhankorahighschool.edu.bd
@@ -866,6 +868,7 @@ cpanel.jolshiricsc.edu.bd
 cpanel.jsc.edu.bd
 cpanel.jskssc.edu.bd
 cpanel.kachiaraghs.edu.bd
+cpanel.kadirpurhighschool.edu.bd
 cpanel.kaliakairkhanhighschool.edu.bd
 cpanel.kalikapur-hs.edu.bd
 cpanel.kamalpurtm.edu.bd
@@ -1220,6 +1223,7 @@ cpcalendars.jolshiricsc.edu.bd
 cpcalendars.jsc.edu.bd
 cpcalendars.jskssc.edu.bd
 cpcalendars.kachiaraghs.edu.bd
+cpcalendars.kadirpurhighschool.edu.bd
 cpcalendars.kaliakairkhanhighschool.edu.bd
 cpcalendars.kalikapur-hs.edu.bd
 cpcalendars.kamalpurtm.edu.bd
@@ -1562,6 +1566,7 @@ cpcontacts.jolshiricsc.edu.bd
 cpcontacts.jsc.edu.bd
 cpcontacts.jskssc.edu.bd
 cpcontacts.kachiaraghs.edu.bd
+cpcontacts.kadirpurhighschool.edu.bd
 cpcontacts.kaliakairkhanhighschool.edu.bd
 cpcontacts.kalikapur-hs.edu.bd
 cpcontacts.kamalpurtm.edu.bd
@@ -1857,6 +1862,7 @@ elearning.infra.edu.bd
 elearning.ugv.edu.bd
 email.mgsc.edu.bd
 ems.dmrc.edu.bd
+ems.mci.edu.bd
 ems.mgsc.edu.bd
 ems.pmths.edu.bd
 enc.edu.bd
@@ -2116,6 +2122,7 @@ jesc.edu.bd
 jgc.edu.bd
 jgmphs.edu.bd
 jhacademy.edu.bd
+jhaudiabazarss.edu.bd
 jhinaiyahs.edu.bd
 jhinaiyahs.edu.bd.hmsrhs.edu.bd
 jhkm.edu.bd
@@ -2141,6 +2148,7 @@ kabirhatgovcollege.edu.bd
 kachiaraghs.edu.bd
 kachiaraghs.edu.bd.hmsrhs.edu.bd
 kachs106871.edu.bd
+kadirpurhighschool.edu.bd
 kahartaidm.edu.bd
 kailashmadrasah.edu.bd
 kaknimodel.edu.bd
@@ -2513,6 +2521,7 @@ mail.jsc.edu.bd
 mail.jskssc.edu.bd
 mail.kabirhatgovcollege.edu.bd
 mail.kachiaraghs.edu.bd
+mail.kadirpurhighschool.edu.bd
 mail.kaliakairkhanhighschool.edu.bd
 mail.kalikapur-hs.edu.bd
 mail.kamalpurtm.edu.bd
@@ -3027,6 +3036,7 @@ result-hsc.cust.edu.bd
 result.baratihighschool.edu.bd
 result.diploma.dinajpurpoly.edu.bd
 result.npscpt.edu.bd
+rgc.edu.bd
 rgchighschool.edu.bd
 rghighschool.edu.bd
 rghighschool.edu.bd.chargobindapur.edu.bd
@@ -3476,6 +3486,7 @@ webdisk.jolshiricsc.edu.bd
 webdisk.jsc.edu.bd
 webdisk.jskssc.edu.bd
 webdisk.kachiaraghs.edu.bd
+webdisk.kadirpurhighschool.edu.bd
 webdisk.kaliakairkhanhighschool.edu.bd
 webdisk.kalikapur-hs.edu.bd
 webdisk.kamalpurtm.edu.bd
@@ -3839,6 +3850,7 @@ webmail.jolshiricsc.edu.bd
 webmail.jsc.edu.bd
 webmail.jskssc.edu.bd
 webmail.kachiaraghs.edu.bd
+webmail.kadirpurhighschool.edu.bd
 webmail.kaliakairkhanhighschool.edu.bd
 webmail.kalikapur-hs.edu.bd
 webmail.kamalpurtm.edu.bd
@@ -4318,6 +4330,7 @@ www.elearning.dpsdu.edu.bd
 www.elearning.infra.edu.bd
 www.elearning.ugv.edu.bd
 www.ems.dmrc.edu.bd
+www.ems.mci.edu.bd
 www.ems.pmths.edu.bd
 www.enc.edu.bd
 www.english.cityuniversity.edu.bd
@@ -4475,6 +4488,7 @@ www.juumb.edu.bd
 www.kabirhatgovcollege.edu.bd
 www.kachiaraghs.edu.bd
 www.kachiaraghs.edu.bd.hmsrhs.edu.bd
+www.kadirpurhighschool.edu.bd
 www.kailashmadrasah.edu.bd
 www.kakrschool.com.shishupalliacademy.edu.bd
 www.kaliakairkhanhighschool.edu.bd
