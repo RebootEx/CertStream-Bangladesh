@@ -1,10 +1,14 @@
 autodiscover.tvib.gov.bd
 bsa.gov.bd
 caforural.gov.bd
+cafostict.gov.bd
 ccapkhulna.gov.bd
 cpanel.tvib.gov.bd
+cpanel.zsorangpur.gov.bd
 cpcalendars.tvib.gov.bd
+cpcalendars.zsorangpur.gov.bd
 cpcontacts.tvib.gov.bd
+cpcontacts.zsorangpur.gov.bd
 crelic-lged.gov.bd
 dgdp.gov.bd
 facilityregistry.dghs.gov.bd
@@ -17,6 +21,7 @@ linktogoods.xyz.kalihatipourashava.gov.bd
 mail.egp.dghs.gov.bd
 mail.rgdc.gov.bd
 mail.tvib.gov.bd
+mail.zsorangpur.gov.bd
 marriage.gov.bd
 mitra.nilphamarittc.gov.bd
 nabipurwestsmartup.gov.bd
@@ -32,7 +37,9 @@ training.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
 tvib.gov.bd
 webdisk.tvib.gov.bd
+webdisk.zsorangpur.gov.bd
 webmail.tvib.gov.bd
+webmail.zsorangpur.gov.bd
 wtmu.gov.bd
 www.artistdb.bsa.gov.bd
 www.booking.bsa.gov.bd
@@ -55,3 +62,5 @@ www.taxzone21dhaka.gov.bd
 www.training.gov.bd
 www.tvib.gov.bd
 www.wtmu.gov.bd
+www.zsorangpur.gov.bd
+zsorangpur.gov.bd
