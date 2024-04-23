@@ -420,6 +420,7 @@ baakhs.edu.bd.hmsrhs.edu.bd
 babarkhanass.edu.bd
 babulcharahs.edu.bd
 backend.jamunacollegemr.edu.bd
+backup.arambaghsc.edu.bd
 badar-ist.edu.bd
 badshahfaisal.edu.bd
 baduriahighschool.edu.bd
@@ -946,6 +947,7 @@ cpanel.nascc.edu.bd
 cpanel.natipotass.edu.bd
 cpanel.nbfm.edu.bd
 cpanel.ncmym.edu.bd
+cpanel.ncpsc.edu.bd
 cpanel.netpro.edu.bd
 cpanel.nhmdakhilmadrasah.edu.bd
 cpanel.nhs1972.edu.bd
@@ -1296,6 +1298,7 @@ cpcalendars.nascc.edu.bd
 cpcalendars.natipotass.edu.bd
 cpcalendars.nbfm.edu.bd
 cpcalendars.ncmym.edu.bd
+cpcalendars.ncpsc.edu.bd
 cpcalendars.netpro.edu.bd
 cpcalendars.nhmdakhilmadrasah.edu.bd
 cpcalendars.nhs1972.edu.bd
@@ -1637,6 +1640,7 @@ cpcontacts.nascc.edu.bd
 cpcontacts.natipotass.edu.bd
 cpcontacts.nbfm.edu.bd
 cpcontacts.ncmym.edu.bd
+cpcontacts.ncpsc.edu.bd
 cpcontacts.netpro.edu.bd
 cpcontacts.nhmdakhilmadrasah.edu.bd
 cpcontacts.nhs1972.edu.bd
@@ -1838,6 +1842,7 @@ eastdelta.edu.bd
 ecm.mhmbc.edu.bd
 edu.bd.bhagirathpursecondaryschool.edu.bd
 edu.bd.ihsh.edu.bd
+edu.bd.kni.edu.bd
 edu.bd.panditsarhs.edu.bd
 edu.bd.pmndm.edu.bd
 edu.bd.raichahs.edu.bd
@@ -1951,6 +1956,7 @@ gnibc.edu.bd
 goainghatgovtcollege.edu.bd
 goalimadrasah.edu.bd
 gobfm.edu.bd
+godagarihs.edu.bd
 gohailbarihs.edu.bd
 gohiracollege.edu.bd
 gollashangonhs.edu.bd
@@ -2198,6 +2204,7 @@ khawarcharhighschool.edu.bd
 kheruazanihs.edu.bd
 khiramhighschool.edu.bd
 kholabarihs.edu.bd
+kholpatuamam.edu.bd
 khs1973.edu.bd
 khsm.edu.bd
 khulnamats.edu.bd
@@ -2590,9 +2597,11 @@ mail.munsuralihs.edu.bd
 mail.nacholewomenscollege.edu.bd
 mail.najirpurtsc.edu.bd
 mail.nascc.edu.bd
+mail.nationalidealcollege.edu.bd
 mail.natipotass.edu.bd
 mail.nbfm.edu.bd
 mail.ncmym.edu.bd
+mail.ncpsc.edu.bd
 mail.netpro.edu.bd
 mail.nhmdakhilmadrasah.edu.bd
 mail.nhs1972.edu.bd
@@ -2824,14 +2833,17 @@ naohatagovthighschool.edu.bd
 nascc.edu.bd
 nasimosmanmodelhighschool.edu.bd
 nasratpurdegreecollege.edu.bd
+nationalidealcollege.edu.bd
 natipotass.edu.bd
 natunbazarhighschool.edu.bd
 navaronmam.edu.bd
 nayaparaalhajnobihossainhighschool.edu.bd
 naziburrahmangirlshighschool.edu.bd
+nazimkhanhsc.edu.bd
 nbfm.edu.bd
 nbradc.edu.bd
 ncmym.edu.bd
+ncpsc.edu.bd
 ndub.edu.bd
 netpro.edu.bd
 neub.edu.bd
@@ -3100,6 +3112,7 @@ sbfhss.edu.bd
 sbhschool.edu.bd
 sbhschoolch.edu.bd
 scbbhs.edu.bd
+scd.edu.bd
 scholarshomegsc.edu.bd
 school.bist.edu.bd
 sckeps.edu.bd
@@ -3157,6 +3170,7 @@ smlhs.edu.bd
 smra.edu.bd
 sms.monipurhighschool.edu.bd
 smtp.kaluhatihighschool.edu.bd
+smu.edu.bd
 smuct.edu.bd
 snam.edu.bd
 snhschool.edu.bd
@@ -3209,6 +3223,7 @@ sylgovpilothss.edu.bd
 sys.dhakaorientalcollege.edu.bd
 tafm.edu.bd
 taheranoorhighschoolandcollege.edu.bd
+talpukurhs.edu.bd
 tangailinstitute.edu.bd
 tangailmats.edu.bd
 tanorepilotmodelhs.edu.bd
@@ -3539,6 +3554,7 @@ webdisk.nascc.edu.bd
 webdisk.natipotass.edu.bd
 webdisk.nbfm.edu.bd
 webdisk.ncmym.edu.bd
+webdisk.ncpsc.edu.bd
 webdisk.netpro.edu.bd
 webdisk.nhmdakhilmadrasah.edu.bd
 webdisk.nhs1972.edu.bd
@@ -3904,6 +3920,7 @@ webmail.nascc.edu.bd
 webmail.natipotass.edu.bd
 webmail.nbfm.edu.bd
 webmail.ncmym.edu.bd
+webmail.ncpsc.edu.bd
 webmail.netpro.edu.bd
 webmail.nhmdakhilmadrasah.edu.bd
 webmail.nhs1972.edu.bd
@@ -4080,6 +4097,7 @@ www.baakhs.edu.bd.hmsrhs.edu.bd
 www.babulcharahs.edu.bd
 www.backend.jamunacollegemr.edu.bd
 www.backend.mcsadarpur.edu.bd
+www.backup.arambaghsc.edu.bd
 www.baduriahighschool.edu.bd
 www.bafsc.edu.bd
 www.bafss.edu.bd
@@ -4151,6 +4169,7 @@ www.bifmr.edu.bd
 www.bilsararcphs.edu.bd.shibganjhighschool.edu.bd
 www.binailhs.edu.bd
 www.binnakurihs.edu.bd
+www.biochemistry.primeasia.edu.bd
 www.biraldahcollege.edu.bd
 www.birampurgovtgirls.edu.bd
 www.birhalkahs.edu.bd
@@ -4231,6 +4250,7 @@ www.cpsk.edu.bd
 www.cqhm.edu.bd
 www.cscc.edu.bd
 www.cse.bsmrstu.edu.bd
+www.cse.primeasia.edu.bd
 www.cse.ugv.edu.bd
 www.csefest.bsmrstu.edu.bd
 www.csmdc.edu.bd
@@ -4491,6 +4511,7 @@ www.khaskhamaghs.edu.bd.panditsarhs.edu.bd
 www.khawarcharhighschool.edu.bd
 www.khiramhighschool.edu.bd
 www.kholabarihs.edu.bd
+www.kholpatuamam.edu.bd.kni.edu.bd
 www.khs1973.edu.bd
 www.khsm.edu.bd
 www.khulnarsomoy.com.munshigonjcollege.edu.bd
@@ -4519,6 +4540,7 @@ www.lahs.edu.bd
 www.lalitnagarsc.edu.bd
 www.laraveldemo.rpsu.edu.bd
 www.laskarpurhighschool.edu.bd.bakapurhighschool.edu.bd
+www.law.primeasia.edu.bd
 www.lbhs.edu.bd
 www.ldrasc.edu.bd
 www.leaders.edu.bd
@@ -4569,6 +4591,7 @@ www.mhs116465.edu.bd
 www.mhsa.edu.bd
 www.mhsp.edu.bd
 www.mhspf.edu.bd.raichahs.edu.bd
+www.microbiology.primeasia.edu.bd
 www.minhaz.smdcollege.edu.bd
 www.mirjapurhighschool.edu.bd
 www.mirpurcollege.edu.bd
@@ -4609,9 +4632,12 @@ www.nakoiladarshohs.edu.bd
 www.nambir.edu.bd
 www.nascc.edu.bd
 www.nasratpurdegreecollege.edu.bd
+www.nationalidealcollege.edu.bd
 www.natipotass.edu.bd
+www.nazimkhanghs.nazimkhanhsc.edu.bd
 www.nbfm.edu.bd
 www.ncmym.edu.bd
+www.ncpsc.edu.bd
 www.ndub.edu.bd
 www.netpro.edu.bd
 www.neub.edu.bd
@@ -4661,6 +4687,8 @@ www.pdhs67.edu.bd
 www.pdmg.edu.bd
 www.pfhs.edu.bd
 www.pg.bgeju.edu.bd
+www.pharmacy.primeasia.edu.bd
+www.phn.primeasia.edu.bd
 www.pimdcpr.edu.bd
 www.pimt.edu.bd
 www.pirganjcollege.edu.bd
@@ -4803,6 +4831,7 @@ www.test-website.green.edu.bd
 www.test.cub.edu.bd
 www.test.phss.edu.bd
 www.testing.jkkniu.edu.bd
+www.textile.primeasia.edu.bd
 www.thisatestok.ugv.edu.bd
 www.thsict.edu.bd
 www.time.hgc.edu.bd
