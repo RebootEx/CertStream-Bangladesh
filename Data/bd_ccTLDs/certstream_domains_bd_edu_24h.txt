@@ -1,5 +1,6 @@
 aamarpay.justsc.edu.bd
 aauhs.edu.bd
+addacollege.edu.bd
 aghs134534.edu.bd
 agss.edu.bd
 alumni.old.ulab.edu.bd
@@ -12,6 +13,7 @@ autodiscover.hpicss.edu.bd
 autodiscover.iddm.edu.bd
 autodiscover.kadirpurhighschool.edu.bd
 autodiscover.khsbd.edu.bd
+autodiscover.knhsm.edu.bd
 autodiscover.mphsk.edu.bd
 autodiscover.npamhs.edu.bd
 autodiscover.safama.edu.bd
@@ -27,6 +29,7 @@ bjs.edu.bd
 bkkhs.edu.bd
 blss.edu.bd
 brhs.edu.bd
+bsbhs.edu.bd
 bsdmm.bghsm.edu.bd
 bsdmm.edu.bd
 bsmrmu.edu.bd
@@ -43,6 +46,7 @@ ciu.edu.bd
 cjhsptk.edu.bd
 contact.rc.edu.bd
 contacts.rc.edu.bd
+cpanel.addacollege.edu.bd
 cpanel.balusairhighschool.edu.bd
 cpanel.bjs.edu.bd
 cpanel.cbhschool.edu.bd
@@ -52,9 +56,11 @@ cpanel.hpicss.edu.bd
 cpanel.iddm.edu.bd
 cpanel.kadirpurhighschool.edu.bd
 cpanel.khsbd.edu.bd
+cpanel.knhsm.edu.bd
 cpanel.mphsk.edu.bd
 cpanel.npamhs.edu.bd
 cpanel.safama.edu.bd
+cpcalendars.addacollege.edu.bd
 cpcalendars.balusairhighschool.edu.bd
 cpcalendars.bjs.edu.bd
 cpcalendars.cbhschool.edu.bd
@@ -64,9 +70,11 @@ cpcalendars.hpicss.edu.bd
 cpcalendars.iddm.edu.bd
 cpcalendars.kadirpurhighschool.edu.bd
 cpcalendars.khsbd.edu.bd
+cpcalendars.knhsm.edu.bd
 cpcalendars.mphsk.edu.bd
 cpcalendars.npamhs.edu.bd
 cpcalendars.safama.edu.bd
+cpcontacts.addacollege.edu.bd
 cpcontacts.balusairhighschool.edu.bd
 cpcontacts.bjs.edu.bd
 cpcontacts.cbhschool.edu.bd
@@ -76,10 +84,13 @@ cpcontacts.hpicss.edu.bd
 cpcontacts.iddm.edu.bd
 cpcontacts.kadirpurhighschool.edu.bd
 cpcontacts.khsbd.edu.bd
+cpcontacts.knhsm.edu.bd
 cpcontacts.mphsk.edu.bd
 cpcontacts.npamhs.edu.bd
 cpcontacts.safama.edu.bd
+dalniahighschool.edu.bd
 dbsm.edu.bd
+demo.azimcompany.azimhakimschool.edu.bd
 demo.jgschool.edu.bd
 dharmatalahs.edu.bd
 dhspabna.edu.bd
@@ -128,9 +139,11 @@ khadizaabubakarhighschool.edu.bd
 khashialislamiadm.edu.bd
 khc.edu.bd
 khsbd.edu.bd
+knhsm.edu.bd
 kurerparadarshahighschool.edu.bd
 lashs.edu.bd
 lnicollege.edu.bd
+mail.addacollege.edu.bd
 mail.balusairhighschool.edu.bd
 mail.bjs.edu.bd
 mail.cbcc.edu.bd
@@ -144,6 +157,7 @@ mail.iddm.edu.bd
 mail.kadirpurhighschool.edu.bd
 mail.kgpurhs.edu.bd
 mail.khsbd.edu.bd
+mail.knhsm.edu.bd
 mail.mkghsc.edu.bd
 mail.mphsk.edu.bd
 mail.npamhs.edu.bd
@@ -160,11 +174,13 @@ moinunnesagirlshs.edu.bd
 mphsk.edu.bd
 msphs.edu.bd
 mtabmc.edu.bd
+nasdm.edu.bd
 natmuraphs.edu.bd
 nawabganjcitycollege.edu.bd
 nizamuddintsc.edu.bd
 noaparadegreecollege.edu.bd
 npamhs.edu.bd
+papghs.edu.bd
 pec.edu.bd
 portal.mgsc.edu.bd
 pttbmc.edu.bd
@@ -190,6 +206,8 @@ tpsc.edu.bd
 uhscdhaka.edu.bd
 uset.ac.bd.uset.edu.bd
 voice.library.daffodilvarsity.edu.bd
+vps.metrouni.edu.bd
+webdisk.addacollege.edu.bd
 webdisk.balusairhighschool.edu.bd
 webdisk.bjs.edu.bd
 webdisk.cbhschool.edu.bd
@@ -199,9 +217,11 @@ webdisk.hpicss.edu.bd
 webdisk.iddm.edu.bd
 webdisk.kadirpurhighschool.edu.bd
 webdisk.khsbd.edu.bd
+webdisk.knhsm.edu.bd
 webdisk.mphsk.edu.bd
 webdisk.npamhs.edu.bd
 webdisk.safama.edu.bd
+webmail.addacollege.edu.bd
 webmail.balusairhighschool.edu.bd
 webmail.bjs.edu.bd
 webmail.cbhschool.edu.bd
@@ -211,11 +231,13 @@ webmail.hpicss.edu.bd
 webmail.iddm.edu.bd
 webmail.kadirpurhighschool.edu.bd
 webmail.khsbd.edu.bd
+webmail.knhsm.edu.bd
 webmail.mphsk.edu.bd
 webmail.npamhs.edu.bd
 webmail.safama.edu.bd
 wkksc.edu.bd
 www.aamarpay.justsc.edu.bd
+www.addacollege.edu.bd
 www.admin.dharmatalahs.edu.bd
 www.admin.jhs.edu.bd
 www.admin.jsgs.edu.bd
@@ -238,7 +260,9 @@ www.chapadahahs.edu.bd
 www.contact.rc.edu.bd
 www.contacts.rc.edu.bd
 www.cse.tejgaoncollege.edu.bd
+www.dalniahighschool.edu.bd
 www.dbsm.edu.bd
+www.demo.azimcompany.azimhakimschool.edu.bd
 www.demo.jgschool.edu.bd
 www.ekattorsangbad.snbghs.edu.bd
 www.gaburagopallaxmiss.edu.bd
@@ -262,8 +286,10 @@ www.kamarhatiblhs.edu.bd
 www.kgpurhs.edu.bd
 www.khadizaabubakarhighschool.edu.bd
 www.khsbd.edu.bd
+www.knhsm.edu.bd
 www.mkghsc.edu.bd
 www.mphsk.edu.bd
+www.nasdm.edu.bd
 www.npamhs.edu.bd
 www.safama.edu.bd
 www.solmaidschoolandcollege.edu.bd
@@ -271,3 +297,4 @@ www.store.shaheen.edu.bd
 www.tata.bkdcl.edu.bd
 www.thm.tejgaoncollege.edu.bd
 www.uset.ac.bd.uset.edu.bd
+www.vps.metrouni.edu.bd
