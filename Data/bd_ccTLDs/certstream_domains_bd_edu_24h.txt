@@ -12,6 +12,7 @@ autodiscover.hpicss.edu.bd
 autodiscover.iddm.edu.bd
 autodiscover.kadirpurhighschool.edu.bd
 autodiscover.khsbd.edu.bd
+autodiscover.mphsk.edu.bd
 autodiscover.npamhs.edu.bd
 autodiscover.safama.edu.bd
 baligaonhighschool.edu.bd
@@ -37,6 +38,8 @@ cdcmn.edu.bd
 chamagramhnhs.edu.bd
 chandkuthirdangabmcollege.edu.bd
 chapadahahs.edu.bd
+cimch.edu.bd
+ciu.edu.bd
 cjhsptk.edu.bd
 contact.rc.edu.bd
 contacts.rc.edu.bd
@@ -49,6 +52,7 @@ cpanel.hpicss.edu.bd
 cpanel.iddm.edu.bd
 cpanel.kadirpurhighschool.edu.bd
 cpanel.khsbd.edu.bd
+cpanel.mphsk.edu.bd
 cpanel.npamhs.edu.bd
 cpanel.safama.edu.bd
 cpcalendars.balusairhighschool.edu.bd
@@ -60,6 +64,7 @@ cpcalendars.hpicss.edu.bd
 cpcalendars.iddm.edu.bd
 cpcalendars.kadirpurhighschool.edu.bd
 cpcalendars.khsbd.edu.bd
+cpcalendars.mphsk.edu.bd
 cpcalendars.npamhs.edu.bd
 cpcalendars.safama.edu.bd
 cpcontacts.balusairhighschool.edu.bd
@@ -71,6 +76,7 @@ cpcontacts.hpicss.edu.bd
 cpcontacts.iddm.edu.bd
 cpcontacts.kadirpurhighschool.edu.bd
 cpcontacts.khsbd.edu.bd
+cpcontacts.mphsk.edu.bd
 cpcontacts.npamhs.edu.bd
 cpcontacts.safama.edu.bd
 dbsm.edu.bd
@@ -139,8 +145,10 @@ mail.kadirpurhighschool.edu.bd
 mail.kgpurhs.edu.bd
 mail.khsbd.edu.bd
 mail.mkghsc.edu.bd
+mail.mphsk.edu.bd
 mail.npamhs.edu.bd
 mail.safama.edu.bd
+mail.smwdc.edu.bd
 mandariiam.edu.bd
 mgchs.edu.bd
 mgsc.edu.bd
@@ -149,6 +157,7 @@ mis.edu.bd
 mkghsc.edu.bd
 mlhs.edu.bd
 moinunnesagirlshs.edu.bd
+mphsk.edu.bd
 msphs.edu.bd
 mtabmc.edu.bd
 natmuraphs.edu.bd
@@ -159,6 +168,7 @@ npamhs.edu.bd
 pec.edu.bd
 portal.mgsc.edu.bd
 pttbmc.edu.bd
+rajibpurgovtcollege.edu.bd
 rpspgdit.iitju.edu.bd
 rpspmit.iitju.edu.bd
 rtm-aktu.edu.bd
@@ -189,6 +199,7 @@ webdisk.hpicss.edu.bd
 webdisk.iddm.edu.bd
 webdisk.kadirpurhighschool.edu.bd
 webdisk.khsbd.edu.bd
+webdisk.mphsk.edu.bd
 webdisk.npamhs.edu.bd
 webdisk.safama.edu.bd
 webmail.balusairhighschool.edu.bd
@@ -200,6 +211,7 @@ webmail.hpicss.edu.bd
 webmail.iddm.edu.bd
 webmail.kadirpurhighschool.edu.bd
 webmail.khsbd.edu.bd
+webmail.mphsk.edu.bd
 webmail.npamhs.edu.bd
 webmail.safama.edu.bd
 wkksc.edu.bd
@@ -251,6 +263,7 @@ www.kgpurhs.edu.bd
 www.khadizaabubakarhighschool.edu.bd
 www.khsbd.edu.bd
 www.mkghsc.edu.bd
+www.mphsk.edu.bd
 www.npamhs.edu.bd
 www.safama.edu.bd
 www.solmaidschoolandcollege.edu.bd
