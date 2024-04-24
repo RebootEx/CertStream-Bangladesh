@@ -82,6 +82,7 @@ chittagongdiv.gov.bd
 chuadanga.gov.bd
 clbktoto.nilphamarittc.gov.bd
 cltp.gov.bd
+cocc.gov.bd
 collegeiif.bise-ctg.gov.bd
 comilla.gov.bd
 comillaboard.gov.bd
@@ -91,6 +92,7 @@ covid19reports.dghs.gov.bd
 coxsbazar.gov.bd
 cpanel.admin.msdp.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
+cpanel.cocc.gov.bd
 cpanel.debendracollege.gov.bd
 cpanel.dfsrcaab.gov.bd
 cpanel.disability.wewb.gov.bd
@@ -108,6 +110,7 @@ cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.caabhc.gov.bd
+cpcalendars.cocc.gov.bd
 cpcalendars.debendracollege.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.hris.msdp.gov.bd
@@ -124,6 +127,7 @@ cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.caabhc.gov.bd
+cpcontacts.cocc.gov.bd
 cpcontacts.debendracollege.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.hris.msdp.gov.bd
@@ -263,6 +267,7 @@ mail.a2iservices.gov.bd
 mail.admin.msdp.gov.bd
 mail.bakshiganjpourashava.gov.bd
 mail.caabhc.gov.bd
+mail.cocc.gov.bd
 mail.cpatos.gov.bd
 mail.cttcdmp.gov.bd
 mail.debendracollege.gov.bd
@@ -382,6 +387,7 @@ school.gov.bd
 schoolform.bise-ctg.gov.bd
 senbagmunicipality.gov.bd
 shariatpur.gov.bd
+shariatpurmunicipality.gov.bd
 sheikhrusselgastroliver.gov.bd
 sherpur.gov.bd
 sherpurpolice.gov.bd
@@ -433,6 +439,7 @@ vamanager.dghs.gov.bd
 vatdhakawest.gov.bd
 vaxepi.gov.bd
 vehikel.nationalmuseumticket.gov.bd
+vms.cocc.gov.bd
 vpland.munshiganjlg.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -441,6 +448,7 @@ web.comillaboard.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
 webdisk.caabhc.gov.bd
+webdisk.cocc.gov.bd
 webdisk.debendracollege.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.hris.msdp.gov.bd
@@ -455,6 +463,7 @@ webdisk.taxeszonegazipur.gov.bd
 webdisk.zsorangpur.gov.bd
 webmail.admin.msdp.gov.bd
 webmail.bakshiganjpourashava.gov.bd
+webmail.cocc.gov.bd
 webmail.debendracollege.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.disability.wewb.gov.bd
@@ -523,6 +532,7 @@ www.chanderchorup.comillalg.gov.bd
 www.chandlaup.comillalg.gov.bd
 www.chuwaraup.comillalg.gov.bd
 www.clbktoto.nilphamarittc.gov.bd
+www.cocc.gov.bd
 www.comillaboard.gov.bd
 www.cttcdmp.gov.bd
 www.daudkandinorthup.comillalg.gov.bd
@@ -685,6 +695,7 @@ www.uttarhowlaup.comillalg.gov.bd
 www.vashaniaup.comillalg.gov.bd
 www.vatdhakawest.gov.bd
 www.vitikandiup.comillalg.gov.bd
+www.vms.cocc.gov.bd
 www.vpland.munshiganjlg.gov.bd
 www.wp.kmpi.gov.bd
 www.wtmu.gov.bd
