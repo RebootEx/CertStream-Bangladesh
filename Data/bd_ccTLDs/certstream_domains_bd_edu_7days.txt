@@ -20,6 +20,7 @@ admhs.edu.bd
 admin.abmb.edu.bd
 admin.boliadaingahs.edu.bd
 admin.govtshcollege.edu.bd
+admin.gpi.edu.bd
 admin.islampurcollege.edu.bd
 admin.octal.edu.bd
 admin.primeasia.edu.bd
@@ -360,6 +361,7 @@ autodiscover.sipsc.edu.bd
 autodiscover.skahs.edu.bd
 autodiscover.smcollege.edu.bd
 autodiscover.smuct.edu.bd
+autodiscover.spinkughs.edu.bd
 autodiscover.spscsdohs.edu.bd
 autodiscover.srcpsc.edu.bd
 autodiscover.sthsc.edu.bd
@@ -529,6 +531,7 @@ boaliagirlshs.edu.bd
 boaliagirlshs.edu.bd.hmsrhs.edu.bd
 boaliahs.edu.bd
 boaliahs.edu.bd.hmsrhs.edu.bd
+bofhs.edu.bd
 bokshishahhighschool.edu.bd
 borgaonhs.edu.bd
 borhanuddingovthighschool.edu.bd
@@ -956,6 +959,7 @@ cpanel.skahs.edu.bd
 cpanel.smcollege.edu.bd
 cpanel.smuct.edu.bd
 cpanel.soyedpursmhs.edu.bd
+cpanel.spinkughs.edu.bd
 cpanel.spscsdohs.edu.bd
 cpanel.srcpsc.edu.bd
 cpanel.ssdc.edu.bd
@@ -1261,6 +1265,7 @@ cpcalendars.sipsc.edu.bd
 cpcalendars.skahs.edu.bd
 cpcalendars.smcollege.edu.bd
 cpcalendars.smuct.edu.bd
+cpcalendars.spinkughs.edu.bd
 cpcalendars.spscsdohs.edu.bd
 cpcalendars.srcpsc.edu.bd
 cpcalendars.ssdc.edu.bd
@@ -1568,6 +1573,7 @@ cpcontacts.sipsc.edu.bd
 cpcontacts.skahs.edu.bd
 cpcontacts.smcollege.edu.bd
 cpcontacts.smuct.edu.bd
+cpcontacts.spinkughs.edu.bd
 cpcontacts.spscsdohs.edu.bd
 cpcontacts.srcpsc.edu.bd
 cpcontacts.ssdc.edu.bd
@@ -1708,6 +1714,7 @@ dznc.edu.bd
 eastdelta.edu.bd
 ecm.mhmbc.edu.bd
 edu.bd.bhagirathpursecondaryschool.edu.bd
+edu.bd.dagma.edu.bd
 edu.bd.kanthalbariaaghs.edu.bd
 edu.bd.kni.edu.bd
 edu.bd.panditsarhs.edu.bd
@@ -1910,6 +1917,7 @@ hshs1985.edu.bd
 hsjhs.edu.bd
 hsjrsc.edu.bd
 hsnshs.edu.bd
+hspsctg.edu.bd
 hsrcollege.edu.bd
 hssc.edu.bd
 hsschool.edu.bd
@@ -1976,6 +1984,7 @@ itsc.edu.bd
 jadc.edu.bd
 jadhs.edu.bd
 jadurdc.edu.bd
+jagatpuradhfazilmadrasha.edu.bd
 jahanpurschs.edu.bd
 jainkatiss.edu.bd
 jaintiacollege.edu.bd
@@ -2052,6 +2061,7 @@ kanghs.edu.bd
 kanparakajlahs.edu.bd
 kansaths.edu.bd
 kanthalbariaaghs.edu.bd
+karimpurkkbhs.edu.bd
 kashimpurakfhhighschool.edu.bd
 kashipurss.edu.bd
 kasrgdmadrasah.edu.bd
@@ -2611,6 +2621,7 @@ mail.smuct.edu.bd
 mail.smwdc.edu.bd
 mail.snhschool.edu.bd
 mail.soyedpursmhs.edu.bd
+mail.spinkughs.edu.bd
 mail.spscsdohs.edu.bd
 mail.srcpsc.edu.bd
 mail.srnhs.edu.bd
@@ -2712,6 +2723,7 @@ mlphsc.edu.bd
 mlphsc.edu.bd.hmsrhs.edu.bd
 mmaraj.edu.bd
 mmcitycollege.edu.bd
+mmma.edu.bd
 mmmdc.edu.bd
 mmnr.edu.bd
 mmrdcollege.edu.bd
@@ -2893,6 +2905,7 @@ pfhs.edu.bd
 pfmr.edu.bd
 pgac.edu.bd
 pgd.bau.edu.bd
+pgmhs.edu.bd
 pgwc.edu.bd
 photo.dis.edu.bd
 piainguljameya.edu.bd
@@ -2959,6 +2972,7 @@ puthiaarma.edu.bd
 pwss.edu.bd
 qcps.edu.bd
 rahahisc.edu.bd
+rahimbakhshighschool.edu.bd
 rahimia.edu.bd
 raigonj.edu.bd
 raipurhs.edu.bd
@@ -3012,6 +3026,7 @@ rohitpurhs.edu.bd
 rosenberg.edu.bd
 rostomabadhs.edu.bd
 royal.edu.bd
+royalacademy.edu.bd
 rpspgdit.iitju.edu.bd
 rpspmit.iitju.edu.bd
 rrhsclamakazi.edu.bd
@@ -3165,6 +3180,7 @@ southern.edu.bd
 soyedpursmhs.edu.bd
 spghschool.edu.bd
 sphsn.edu.bd
+spinkughs.edu.bd
 splsc.edu.bd
 spscsdohs.edu.bd
 spsngn.edu.bd
@@ -3227,6 +3243,7 @@ tcmhs.edu.bd
 tdc.edu.bd
 tdskhs.edu.bd
 teknafgovtcollege.edu.bd
+teliparahs.edu.bd
 test.cub.edu.bd
 test.phss.edu.bd
 testing.jkkniu.edu.bd
@@ -3571,6 +3588,7 @@ webdisk.singnagarschool.edu.bd
 webdisk.sipsc.edu.bd
 webdisk.skahs.edu.bd
 webdisk.smcollege.edu.bd
+webdisk.spinkughs.edu.bd
 webdisk.spscsdohs.edu.bd
 webdisk.srcpsc.edu.bd
 webdisk.ssdc.edu.bd
@@ -3912,6 +3930,7 @@ webmail.skahs.edu.bd
 webmail.smcollege.edu.bd
 webmail.smuct.edu.bd
 webmail.soyedpursmhs.edu.bd
+webmail.spinkughs.edu.bd
 webmail.spscsdohs.edu.bd
 webmail.srcpsc.edu.bd
 webmail.ssdc.edu.bd
@@ -3954,6 +3973,7 @@ www.admhs.edu.bd
 www.admin.abmb.edu.bd
 www.admin.boliadaingahs.edu.bd
 www.admin.govtshcollege.edu.bd
+www.admin.gpi.edu.bd
 www.admin.mcsadarpur.edu.bd
 www.admin.octal.edu.bd
 www.admin.primeasia.edu.bd
@@ -4205,6 +4225,7 @@ www.diphs.edu.bd
 www.discounthutbd.com.hdgc.edu.bd
 www.djfm.edu.bd
 www.dkmhcollege.edu.bd
+www.dm.karimpurkkbhs.edu.bd
 www.dmdc.edu.bd
 www.dmhighschool.edu.bd
 www.dmhighschool.edu.bd.hmsrhs.edu.bd
@@ -4749,6 +4770,7 @@ www.sohelrit.com.hatgangoparahighschool.edu.bd
 www.solmaidschoolandcollege.edu.bd
 www.soyedpursmhs.edu.bd
 www.sphsn.edu.bd
+www.spinkughs.edu.bd
 www.spscsdohs.edu.bd
 www.srcpsc.edu.bd
 www.srdmp.edu.bd
@@ -4780,6 +4802,7 @@ www.tata.bkdcl.edu.bd
 www.tbgs.edu.bd
 www.tdc.edu.bd
 www.tdskhs.edu.bd
+www.teliparahs.edu.bd.dagma.edu.bd
 www.test-website.green.edu.bd
 www.test.cub.edu.bd
 www.test.phss.edu.bd
