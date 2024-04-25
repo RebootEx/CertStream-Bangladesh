@@ -1,4 +1,5 @@
 admin-control-secure-server-hash.bicsaa.gov.bd
+api.freelancers.gov.bd
 api.otms.nass.gov.bd
 application-review-asdhqemckqld.bicsaa.gov.bd
 autodiscover.bavs.gov.bd
@@ -43,7 +44,9 @@ ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
 eng.sarkaribanglacollege.gov.bd
 erequ.mowr.gov.bd
+freelancers.gov.bd
 gaibandha.gov.bd
+godagaricollege.gov.bd
 hpmdashboard.dghs.gov.bd
 ictd.gov.bd
 iedcr.gov.bd
@@ -91,6 +94,7 @@ pabna.gov.bd
 panchagarh.gov.bd
 panchgachhiawestup.gov.bd
 policy.gov.bd
+proinfo.lged.gov.bd
 rajshahi.gov.bd
 rajshahidiv.gov.bd
 rangpur.gov.bd
