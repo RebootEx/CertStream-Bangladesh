@@ -24,6 +24,7 @@ admin.govtshcollege.edu.bd
 admin.gpi.edu.bd
 admin.islampurcollege.edu.bd
 admin.octal.edu.bd
+admission.bau.edu.bd
 admission.rajcpsc.edu.bd
 admission.tangailinstitute.edu.bd
 admissions.eastdelta.edu.bd
@@ -75,6 +76,7 @@ amkmc.edu.bd
 amlhsp.edu.bd
 amnuragirlshs.edu.bd
 amragachhiaschool.edu.bd
+amtailhs.edu.bd
 amtoilpmdm.edu.bd
 anahs.edu.bd
 andercharhs.edu.bd
@@ -86,6 +88,7 @@ aparupa.edu.bd
 api.edenresidentialschool.edu.bd
 apidoc.ugv.edu.bd
 apitest.justsc.edu.bd
+app.royalschooldhaka.edu.bd
 app2.brghsr.edu.bd
 arc.edu.bd
 arjunamhs.edu.bd
@@ -585,6 +588,7 @@ cityuniversity.edu.bd
 ciu.edu.bd
 cjghs.edu.bd
 cjhsptk.edu.bd
+ckhuhs.edu.bd
 cknahs.edu.bd
 cls.old.ulab.edu.bd
 cms.khidirpurcollege.edu.bd
@@ -1411,6 +1415,7 @@ dadpurghs.edu.bd
 dagarpuraghs.edu.bd
 dagarpuraghs.edu.bd.hmsrhs.edu.bd
 dagonbhuiyangirls.edu.bd
+dakhinmandiadm.edu.bd
 dakshinahs.edu.bd
 dalniahighschool.edu.bd
 danaramhsfenchu.edu.bd
@@ -1487,6 +1492,7 @@ drbashirahmedcollege.edu.bd
 drdmnil.edu.bd
 drs.edu.bd
 drsidck.edu.bd
+dsfmadrasah.edu.bd
 dsgs.edu.bd
 dsk.edu.bd
 dsnc.edu.bd
@@ -2334,6 +2340,7 @@ mail.saihs.edu.bd
 mail.saikatgovcollege.edu.bd
 mail.samnfm.edu.bd
 mail.satpukuriahs.edu.bd
+mail.sbhschool.edu.bd
 mail.sbhschoolch.edu.bd
 mail.sfmu.edu.bd
 mail.sgsc.edu.bd
@@ -2389,6 +2396,7 @@ mail.ubss.edu.bd
 mail.ucn.edu.bd
 mail.ucsdm1984.edu.bd
 mail.ujss.edu.bd
+mail.ums.kyau.edu.bd
 mail.vbhs.edu.bd
 mail.vdm.edu.bd
 mail.verendihs.edu.bd
@@ -2405,6 +2413,7 @@ makm133839.edu.bd
 malatiffazilmadrasah.edu.bd
 mamc.edu.bd
 mandariiam.edu.bd
+mandarimlhighschool.edu.bd
 manderhs.edu.bd
 mansinghpurdm.edu.bd
 maohahighschool.edu.bd
@@ -2665,6 +2674,7 @@ portal.chhagalnaiyapgirls.edu.bd
 portal.dgrghs.edu.bd
 portal.gwdc.edu.bd
 portal.hsjrsc.edu.bd
+portal.infra.edu.bd
 portal.jjgkhs.edu.bd
 portal.kaundiasshs.edu.bd
 portal.kawaljanilsghs.edu.bd
@@ -2684,6 +2694,7 @@ ppmi.edu.bd
 prcinstitution.edu.bd
 primeasia.edu.bd
 prjgs.edu.bd
+proyashbogura.edu.bd
 prps.edu.bd
 psghighschool.edu.bd
 pshsdp.edu.bd
@@ -2846,6 +2857,7 @@ sis.edu.bd
 sitakundatsc.edu.bd
 sjdm.edu.bd
 sjfm.edu.bd
+sjiscsylhet.edu.bd
 sjmhhs.edu.bd
 skahs.edu.bd
 skahs.edu.bd.hmsrhs.edu.bd
@@ -2887,6 +2899,7 @@ srijanyhs.edu.bd
 srwc.edu.bd
 ssafghs.edu.bd
 ssbdm.edu.bd
+ssc15.smsgmphs.edu.bd
 ssdc.edu.bd
 ssesdpmhs.edu.bd
 ssfm.edu.bd
@@ -2972,6 +2985,7 @@ udayanadrshahighschool.edu.bd
 uhscdhaka.edu.bd
 ujss.edu.bd
 ukam.edu.bd
+ums.kyau.edu.bd
 unitedhs.edu.bd
 unsmv.edu.bd
 upumss.edu.bd
@@ -2984,6 +2998,7 @@ veemnagarhs.edu.bd
 verendihs.edu.bd
 vhs.edu.bd
 vib.edu.bd
+vidyamayee.edu.bd
 vikonerparahs.edu.bd
 vikumemorialcollege.edu.bd
 vjkhhs.edu.bd
@@ -3528,6 +3543,7 @@ webmail.walipurhs.edu.bd
 webmail.wpmykhs.edu.bd
 webmail.ywca.edu.bd
 wifi.uttarauniversity.edu.bd
+wins.edu.bd
 wisdomschoolandcollege.edu.bd
 wkksc.edu.bd
 wksbjgs.edu.bd
@@ -3788,6 +3804,7 @@ www.dabhsc.edu.bd
 www.dagarpuraghs.edu.bd
 www.dagarpuraghs.edu.bd.hmsrhs.edu.bd
 www.dagonbhuiyangirls.edu.bd
+www.dakhinmandiadm.edu.bd
 www.dakshinahs.edu.bd
 www.dalniahighschool.edu.bd
 www.danaramhsfenchu.edu.bd
@@ -4308,6 +4325,8 @@ www.sbhschool.edu.bd
 www.sbhschoolch.edu.bd
 www.school.bist.edu.bd
 www.school.rcmats.edu.bd
+www.server.amtailhs.edu.bd
+www.server.ckhuhs.edu.bd
 www.sfmu.edu.bd
 www.sgsc.edu.bd
 www.shahebnagar.edu.bd
@@ -4332,6 +4351,7 @@ www.siha.edu.bd
 www.sihs113503.edu.bd
 www.singnagarschool.edu.bd
 www.sjdm.edu.bd
+www.sjiscsylhet.edu.bd
 www.skahs.edu.bd
 www.skahs.edu.bd.hmsrhs.edu.bd
 www.skjgdmadrasah.edu.bd
@@ -4351,6 +4371,7 @@ www.sonatolapilotgirlshs.edu.bd
 www.spinkughs.edu.bd
 www.srdmp.edu.bd
 www.srwc.edu.bd
+www.ssc15.smsgmphs.edu.bd
 www.ssdc.edu.bd
 www.ssesdpmhs.edu.bd
 www.ssfm.edu.bd
@@ -4360,6 +4381,7 @@ www.sstactapobanhs.edu.bd
 www.stedu.hbhighschool.edu.bd
 www.sthsc.edu.bd
 www.store.shaheen.edu.bd
+www.student.ckhuhs.edu.bd
 www.studentportal.infra.edu.bd
 www.subratismhs.edu.bd
 www.sugsmadrasah.edu.bd
@@ -4405,6 +4427,7 @@ www.ucn.edu.bd
 www.ucsdm1984.edu.bd
 www.ugrad.bsmrstu.edu.bd
 www.ujss.edu.bd
+www.ums.kyau.edu.bd
 www.unitedhs.edu.bd
 www.uset.ac.bd.uset.edu.bd
 www.vbhs.edu.bd
@@ -4418,6 +4441,7 @@ www.vmdm.edu.bd
 www.vps.metrouni.edu.bd
 www.walipurhs.edu.bd
 www.walipurhs.edu.bd.hmsrhs.edu.bd
+www.webportal.ckhuhs.edu.bd
 www.wifi.uttarauniversity.edu.bd
 www.wpmykhs.edu.bd
 www.ywca.edu.bd

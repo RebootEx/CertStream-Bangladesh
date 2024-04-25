@@ -22,6 +22,7 @@ bakshiganjpourashava.gov.bd
 bakshimulup.gov.bd
 bandarban.gov.bd
 bangladesh.gov.bd
+barakandaup.gov.bd
 barguna.gov.bd
 bargunamunicipality.gov.bd
 bargunapoly.gov.bd
@@ -57,11 +58,13 @@ cafolabour.gov.bd
 cafopme.gov.bd
 caforural.gov.bd
 cafostict.gov.bd
+cams.gov.bd
 case.gov.bd
 cbc.gov.bd
 ccapkhulna.gov.bd
 certificatefuldin.gov.bd
 chakariamunicipality.gov.bd
+chalibhangaup.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
 chauddagrammunicipality.gov.bd
@@ -91,6 +94,7 @@ cpanel.ifstbcsir.gov.bd
 cpanel.keraniganjttc.gov.bd
 cpanel.khagracharitsc.gov.bd
 cpanel.mathbariapourashava.gov.bd
+cpanel.msdp.gov.bd
 cpanel.publichearing.gov.bd
 cpanel.taxeszonegazipur.gov.bd
 cpanel.tvib.gov.bd
@@ -109,6 +113,7 @@ cpcalendars.ifstbcsir.gov.bd
 cpcalendars.keraniganjttc.gov.bd
 cpcalendars.khagracharitsc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
+cpcalendars.msdp.gov.bd
 cpcalendars.publichearing.gov.bd
 cpcalendars.taxeszonegazipur.gov.bd
 cpcalendars.tvib.gov.bd
@@ -127,6 +132,7 @@ cpcontacts.ifstbcsir.gov.bd
 cpcontacts.keraniganjttc.gov.bd
 cpcontacts.khagracharitsc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
+cpcontacts.msdp.gov.bd
 cpcontacts.publichearing.gov.bd
 cpcontacts.taxeszonegazipur.gov.bd
 cpcontacts.tvib.gov.bd
@@ -204,6 +210,7 @@ herpower.gov.bd
 himb.bwdb.gov.bd
 hossainpurpourashava.gov.bd
 hp.habiganjpourashava.gov.bd
+hpmdashboard.dghs.gov.bd
 hris.mohfw.gov.bd
 hris.msdp.gov.bd
 hris1.msdp.gov.bd
@@ -261,6 +268,7 @@ mail.jamalpurtsc.gov.bd
 mail.keraniganjttc.gov.bd
 mail.khagracharitsc.gov.bd
 mail.mathbariapourashava.gov.bd
+mail.msdp.gov.bd
 mail.publichearing.gov.bd
 mail.register.gameapp.gov.bd
 mail.rgdc.gov.bd
@@ -282,6 +290,7 @@ mitra.nilphamarittc.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
 monohardipourashava.gov.bd
+msdp.gov.bd
 mtsc.gov.bd
 munshiganj.gov.bd
 my.gameapp.gov.bd
@@ -360,6 +369,7 @@ sherpurpolice.gov.bd
 shibganjpourashava.gov.bd
 sirajganj.gov.bd
 smartakubpurup.gov.bd
+smartbdsummit.gov.bd
 smartkrishi.gov.bd
 smtp.emergencynutrition.gov.bd
 soltrack.gov.bd
@@ -367,6 +377,7 @@ somch.gov.bd
 spisg.gov.bd
 srv3.cttcdmp.gov.bd
 startupsummit.gov.bd
+surokkha.gov.bd
 sylhettsc.gov.bd
 tangail.gov.bd
 taxeszone20dhaka.gov.bd
@@ -413,6 +424,7 @@ webdisk.hris1.msdp.gov.bd
 webdisk.keraniganjttc.gov.bd
 webdisk.khagracharitsc.gov.bd
 webdisk.mathbariapourashava.gov.bd
+webdisk.msdp.gov.bd
 webdisk.publichearing.gov.bd
 webdisk.taxeszonegazipur.gov.bd
 webdisk.tvib.gov.bd
@@ -431,6 +443,7 @@ webmail.hris1.msdp.gov.bd
 webmail.keraniganjttc.gov.bd
 webmail.khagracharitsc.gov.bd
 webmail.mathbariapourashava.gov.bd
+webmail.msdp.gov.bd
 webmail.publichearing.gov.bd
 webmail.taxeszonegazipur.gov.bd
 webmail.tvib.gov.bd
@@ -459,6 +472,7 @@ www.bakshiganjpourashava.gov.bd
 www.bakshimulup.gov.bd
 www.balorampurup.comillalg.gov.bd
 www.bangaddaup.comillalg.gov.bd
+www.barakandaup.gov.bd
 www.bargunamunicipality.gov.bd
 www.baroparaup.comillalg.gov.bd
 www.baroparaup1.comillalg.gov.bd
@@ -478,6 +492,7 @@ www.bsfmstu.gameapp.gov.bd
 www.bsmsn.beza.gov.bd
 www.btclwifihotspot.gov.bd
 www.certificatefuldin.gov.bd
+www.chalibhangaup.gov.bd
 www.chanderchorup.comillalg.gov.bd
 www.chandlaup.comillalg.gov.bd
 www.chuwaraup.comillalg.gov.bd
@@ -572,6 +587,7 @@ www.moishatuaup.comillalg.gov.bd
 www.mokamup.gov.bd
 www.mokaraup.comillalg.gov.bd
 www.moonshirhatup.comillalg.gov.bd
+www.msdp.gov.bd
 www.mudafargonjnorthup.comillalg.gov.bd
 www.mudafargonjsouthup.comillalg.gov.bd
 www.nabipurwestsmartup.gov.bd
@@ -616,6 +632,7 @@ www.shilpokola.bsa.gov.bd
 www.shoroshpurup.comillalg.gov.bd
 www.shuvapurup.comillalg.gov.bd
 www.smartakubpurup.gov.bd
+www.smartbdsummit.gov.bd
 www.soltrack.gov.bd
 www.somch.gov.bd
 www.sreepurup.comillalg.gov.bd
