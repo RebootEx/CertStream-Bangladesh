@@ -46,6 +46,7 @@ bpi.com.ph.dhamraimunicipality.gov.bd
 bsa.gov.bd
 bscic-emarket.gov.bd
 bsfmstu.gameapp.gov.bd
+bsiedu.gov.bd
 bsmsn.beza.gov.bd
 bstieapp.gov.bd
 btclwifihotspot.gov.bd
@@ -91,6 +92,7 @@ cpanel.dfsrcaab.gov.bd
 cpanel.disability.wewb.gov.bd
 cpanel.hris.msdp.gov.bd
 cpanel.hris1.msdp.gov.bd
+cpanel.ihtdhaka.gov.bd
 cpanel.keraniganjttc.gov.bd
 cpanel.khagracharitsc.gov.bd
 cpanel.mathbariapourashava.gov.bd
@@ -110,6 +112,7 @@ cpcalendars.debendracollege.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.hris.msdp.gov.bd
 cpcalendars.hris1.msdp.gov.bd
+cpcalendars.ihtdhaka.gov.bd
 cpcalendars.keraniganjttc.gov.bd
 cpcalendars.khagracharitsc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
@@ -129,6 +132,7 @@ cpcontacts.debendracollege.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.hris.msdp.gov.bd
 cpcontacts.hris1.msdp.gov.bd
+cpcontacts.ihtdhaka.gov.bd
 cpcontacts.keraniganjttc.gov.bd
 cpcontacts.khagracharitsc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
@@ -226,6 +230,7 @@ hrm.dghs.gov.bd
 ictd.gov.bd
 iedcr.gov.bd
 ifstbcsir.gov.bd
+ihtdhaka.gov.bd
 inlandcrew.dos.gov.bd
 jamalpur.gov.bd
 jamalpurtsc.gov.bd
@@ -279,6 +284,7 @@ mail.egp.dghs.gov.bd
 mail.emergencynutrition.gov.bd
 mail.hris.msdp.gov.bd
 mail.hris1.msdp.gov.bd
+mail.ihtdhaka.gov.bd
 mail.jamalpurtsc.gov.bd
 mail.keraniganjttc.gov.bd
 mail.khagracharitsc.gov.bd
@@ -385,6 +391,7 @@ schoolform.bise-ctg.gov.bd
 sdg.gov.bd
 secpass.gov.bd
 secretariatclinic.gov.bd
+share.pmo.gov.bd
 shariatpur.gov.bd
 shariatpurmunicipality.gov.bd
 sherpur.gov.bd
@@ -460,6 +467,7 @@ webdisk.debendracollege.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.hris.msdp.gov.bd
 webdisk.hris1.msdp.gov.bd
+webdisk.ihtdhaka.gov.bd
 webdisk.keraniganjttc.gov.bd
 webdisk.khagracharitsc.gov.bd
 webdisk.mathbariapourashava.gov.bd
@@ -481,6 +489,7 @@ webmail.disability.wewb.gov.bd
 webmail.harmonyprojectmora.gov.bd
 webmail.hris.msdp.gov.bd
 webmail.hris1.msdp.gov.bd
+webmail.ihtdhaka.gov.bd
 webmail.keraniganjttc.gov.bd
 webmail.khagracharitsc.gov.bd
 webmail.mathbariapourashava.gov.bd
@@ -501,6 +510,7 @@ www.adranorthup.comillalg.gov.bd
 www.adrasouthup.comillalg.gov.bd
 www.adraup.comillalg.gov.bd
 www.andikotup.comillalg.gov.bd
+www.api.bsiedu.gov.bd
 www.api.mymensingheducationboard.gov.bd
 www.application-review-asdhqemckqld.bicsaa.gov.bd
 www.appointment.srngih.gov.bd
@@ -594,6 +604,7 @@ www.heshakhalup.comillalg.gov.bd
 www.hp.habiganjpourashava.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
+www.ihtdhaka.gov.bd
 www.jagannatdighiup.comillalg.gov.bd
 www.jagatpurup.comillalg.gov.bd
 www.jamalpurtsc.gov.bd
@@ -668,6 +679,7 @@ www.raykotnorthup.comillalg.gov.bd
 www.raykotsouthup.comillalg.gov.bd
 www.register.gameapp.gov.bd
 www.reporting.uphcsdp.gov.bd
+www.result.bsiedu.gov.bd
 www.rgdc.gov.bd
 www.rpir.rdodterangpur.gov.bd
 www.rrdhs.gov.bd
