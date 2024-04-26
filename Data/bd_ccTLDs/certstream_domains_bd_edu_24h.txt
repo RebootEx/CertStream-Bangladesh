@@ -10,6 +10,7 @@ asgm.edu.bd
 autodiscover.bhandardahahs.edu.bd
 autodiscover.bishnopurhighs.edu.bd
 autodiscover.crim.edu.bd
+autodiscover.dsce.edu.bd
 autodiscover.jangalkhainhs.edu.bd
 autodiscover.kaam.edu.bd
 autodiscover.kjnbdm.edu.bd
@@ -59,6 +60,7 @@ cpanel.crim.edu.bd
 cpanel.dakshinbanglacollege.edu.bd
 cpanel.dhahs.edu.bd
 cpanel.digholiahighschool.edu.bd
+cpanel.dsce.edu.bd
 cpanel.govtbarcollege.edu.bd
 cpanel.jangalkhainhs.edu.bd
 cpanel.kaam.edu.bd
@@ -74,6 +76,7 @@ cpcalendars.crim.edu.bd
 cpcalendars.dakshinbanglacollege.edu.bd
 cpcalendars.dhahs.edu.bd
 cpcalendars.digholiahighschool.edu.bd
+cpcalendars.dsce.edu.bd
 cpcalendars.govtbarcollege.edu.bd
 cpcalendars.jangalkhainhs.edu.bd
 cpcalendars.kaam.edu.bd
@@ -89,6 +92,7 @@ cpcontacts.crim.edu.bd
 cpcontacts.dakshinbanglacollege.edu.bd
 cpcontacts.dhahs.edu.bd
 cpcontacts.digholiahighschool.edu.bd
+cpcontacts.dsce.edu.bd
 cpcontacts.govtbarcollege.edu.bd
 cpcontacts.jangalkhainhs.edu.bd
 cpcontacts.kaam.edu.bd
@@ -113,6 +117,7 @@ dimc.edu.bd
 dipshikhagirlsacademy.edu.bd
 doulatpurhoquebahadurhs.edu.bd
 dpshs.edu.bd
+dsce.edu.bd
 dsfmadrasah.edu.bd
 dssk.edu.bd
 duhighschool.edu.bd
@@ -132,8 +137,10 @@ hdaisdm.edu.bd
 hizlacollege.edu.bd
 hmhsc.edu.bd
 hmphs.edu.bd
+hvps.edu.bd
 icpc.daffodilvarsity.edu.bd
 ishwardimohilacollege.edu.bd
+ius.edu.bd
 jabedaliinstitution.edu.bd
 jamunahs.edu.bd
 jangalkhainhs.edu.bd
@@ -180,6 +187,7 @@ mail.delparahighschool.edu.bd
 mail.dhahs.edu.bd
 mail.digholiahighschool.edu.bd
 mail.dimc.edu.bd
+mail.dsce.edu.bd
 mail.gnsc.edu.bd
 mail.govtbarcollege.edu.bd
 mail.jangalkhainhs.edu.bd
@@ -240,11 +248,14 @@ proyashbogura.edu.bd
 psmpghs.edu.bd
 puijoreashurhatgolabarimuchidahhighschool.edu.bd
 purbabhs.edu.bd
+ramnagarhs.edu.bd
 razapurcollege.edu.bd
 reg.uoda.edu.bd
 rmuidm.edu.bd
 rrghs.edu.bd
 rtabmc.edu.bd
+s.jamirbariakhhs.edu.bd
+sabujbanglass.edu.bd
 sahaparasc.edu.bd
 samantasdm.edu.bd
 sasfm.edu.bd
@@ -264,10 +275,12 @@ ssdegreecollege.edu.bd
 sub.edu.bd
 subhs.edu.bd
 subhs.edu.bd.kskhs.edu.bd
+szrdc.edu.bd
 tarashgghs.edu.bd
 tcmhs.edu.bd
 tejgaoncollege.edu.bd
 tnanfazilmadrasah.edu.bd
+trgghs.edu.bd
 trmmghs.edu.bd
 tuca.edu.bd
 uas.cgs.edu.bd
@@ -281,6 +294,7 @@ webdisk.crim.edu.bd
 webdisk.dakshinbanglacollege.edu.bd
 webdisk.dhahs.edu.bd
 webdisk.digholiahighschool.edu.bd
+webdisk.dsce.edu.bd
 webdisk.govtbarcollege.edu.bd
 webdisk.jangalkhainhs.edu.bd
 webdisk.kaam.edu.bd
@@ -297,6 +311,7 @@ webmail.crim.edu.bd
 webmail.dakshinbanglacollege.edu.bd
 webmail.dhahs.edu.bd
 webmail.digholiahighschool.edu.bd
+webmail.dsce.edu.bd
 webmail.govtbarcollege.edu.bd
 webmail.jangalkhainhs.edu.bd
 webmail.kaam.edu.bd
@@ -328,6 +343,7 @@ www.dev.zums.edu.bd
 www.dhahs.edu.bd
 www.digholiahighschool.edu.bd
 www.dimc.edu.bd
+www.dsce.edu.bd
 www.ems.smsgmphs.edu.bd
 www.enterkey.nakgh.edu.bd
 www.geo.tejgaoncollege.edu.bd
@@ -358,6 +374,7 @@ www.pabnacollege.edu.bd
 www.paragaon.kathoraidm.edu.bd
 www.portal.rtm-aktu.edu.bd
 www.reg.uoda.edu.bd
+www.s.jamirbariakhhs.edu.bd
 www.sbobet88slot.gccc.edu.bd
 www.sduam.edu.bd
 www.shcollege.buhi.edu.bd
