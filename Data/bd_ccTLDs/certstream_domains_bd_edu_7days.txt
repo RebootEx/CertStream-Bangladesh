@@ -709,6 +709,7 @@ cpanel.dhankorahighschool.edu.bd
 cpanel.dhsg.edu.bd
 cpanel.dhsgm.edu.bd
 cpanel.digholiahighschool.edu.bd
+cpanel.dkisaac.edu.bd
 cpanel.dmhighschool.edu.bd
 cpanel.dmrc.edu.bd
 cpanel.dogachihs.edu.bd
@@ -773,6 +774,7 @@ cpanel.kashipurss.edu.bd
 cpanel.kathgarahs.edu.bd
 cpanel.kdmadrasah.edu.bd
 cpanel.keidm.edu.bd
+cpanel.kess.edu.bd
 cpanel.khawarcharhighschool.edu.bd
 cpanel.khiramhighschool.edu.bd
 cpanel.kholabarihs.edu.bd
@@ -971,6 +973,7 @@ cpcalendars.dhankorahighschool.edu.bd
 cpcalendars.dhsg.edu.bd
 cpcalendars.dhsgm.edu.bd
 cpcalendars.digholiahighschool.edu.bd
+cpcalendars.dkisaac.edu.bd
 cpcalendars.dmhighschool.edu.bd
 cpcalendars.dmrc.edu.bd
 cpcalendars.dogachihs.edu.bd
@@ -1035,6 +1038,7 @@ cpcalendars.kashipurss.edu.bd
 cpcalendars.kathgarahs.edu.bd
 cpcalendars.kdmadrasah.edu.bd
 cpcalendars.keidm.edu.bd
+cpcalendars.kess.edu.bd
 cpcalendars.khawarcharhighschool.edu.bd
 cpcalendars.khiramhighschool.edu.bd
 cpcalendars.kholabarihs.edu.bd
@@ -1232,6 +1236,7 @@ cpcontacts.dhankorahighschool.edu.bd
 cpcontacts.dhsg.edu.bd
 cpcontacts.dhsgm.edu.bd
 cpcontacts.digholiahighschool.edu.bd
+cpcontacts.dkisaac.edu.bd
 cpcontacts.dmhighschool.edu.bd
 cpcontacts.dmrc.edu.bd
 cpcontacts.dogachihs.edu.bd
@@ -1296,6 +1301,7 @@ cpcontacts.kashipurss.edu.bd
 cpcontacts.kathgarahs.edu.bd
 cpcontacts.kdmadrasah.edu.bd
 cpcontacts.keidm.edu.bd
+cpcontacts.kess.edu.bd
 cpcontacts.khawarcharhighschool.edu.bd
 cpcontacts.khiramhighschool.edu.bd
 cpcontacts.kholabarihs.edu.bd
@@ -1494,6 +1500,7 @@ dipshikhagirlsacademy.edu.bd
 discounthutbd.com.hdgc.edu.bd
 djfm.edu.bd
 dkb.edu.bd
+dkisaac.edu.bd
 dkmhcollege.edu.bd
 dmhighschool.edu.bd
 dmhighschool.edu.bd.hmsrhs.edu.bd
@@ -1522,6 +1529,7 @@ dssdc.edu.bd
 dssk.edu.bd
 dssmm.edu.bd
 dughs.edu.bd
+duhashuhamlhighschool.edu.bd
 dulaihighschool.edu.bd
 dumainramlalhighschool.edu.bd
 dumss.edu.bd
@@ -1879,6 +1887,7 @@ kdshs.edu.bd
 keidm.edu.bd
 keshablalsecondaryschool.edu.bd
 keshorhatghs.edu.bd
+kess.edu.bd
 kfghs.edu.bd
 kfm.edu.bd
 kgkdm.edu.bd
@@ -2145,6 +2154,7 @@ mail.dhsg.edu.bd
 mail.dhsgm.edu.bd
 mail.dighleermdm.edu.bd
 mail.digholiahighschool.edu.bd
+mail.dkisaac.edu.bd
 mail.dmhighschool.edu.bd
 mail.dmrc.edu.bd
 mail.dogachihs.edu.bd
@@ -2261,6 +2271,7 @@ mail.kbm.edu.bd
 mail.kbnkhs.edu.bd
 mail.kdmadrasah.edu.bd
 mail.keidm.edu.bd
+mail.kess.edu.bd
 mail.kgpurhs.edu.bd
 mail.khajurtalamc.edu.bd
 mail.khanepurhighschool.edu.bd
@@ -2712,6 +2723,7 @@ paliparahs.edu.bd
 pallabiahs.edu.bd
 palshahighschool.edu.bd
 panchgaondm.edu.bd
+paniharahighschool.edu.bd
 paniparassghs.edu.bd
 papghs.edu.bd
 paragaon.edu.bd
@@ -2760,24 +2772,32 @@ porabarihschool.edu.bd.poarbarihighschool.edu.bd
 porabaripfm.edu.bd
 portal.amidexit.edu.bd
 portal.bsdusc.edu.bd
+portal.btghs.edu.bd
 portal.ccsc.edu.bd
 portal.chhagalnaiyapgirls.edu.bd
 portal.cpmgc.edu.bd
 portal.dbnscr.edu.bd
 portal.dgrghs.edu.bd
+portal.ghsn.edu.bd
 portal.govtadiabadschoolcollege.edu.bd
 portal.gwdc.edu.bd
 portal.hsjrsc.edu.bd
 portal.infra.edu.bd
+portal.kalyanihighschool.edu.bd
+portal.lnicollege.edu.bd
 portal.markajctg.edu.bd
 portal.mgsc.edu.bd
+portal.mlhs.edu.bd
 portal.mujibcollege.edu.bd
+portal.nizampurcollege.edu.bd
 portal.nkmhighschoolandhomes.edu.bd
+portal.psmpghs.edu.bd
 portal.saikatgovcollege.edu.bd
 portal.samschool.edu.bd
 portal.snhschool.edu.bd
 portal.tarashgghs.edu.bd
 portal.tcmhs.edu.bd
+portal.ukam.edu.bd
 pos.djs.edu.bd
 potoraahs.edu.bd
 ppmam.edu.bd
@@ -3197,6 +3217,7 @@ webdisk.dhankorahighschool.edu.bd
 webdisk.dhsg.edu.bd
 webdisk.dhsgm.edu.bd
 webdisk.digholiahighschool.edu.bd
+webdisk.dkisaac.edu.bd
 webdisk.dmhighschool.edu.bd
 webdisk.dmrc.edu.bd
 webdisk.dogachihs.edu.bd
@@ -3262,6 +3283,7 @@ webdisk.kashipurss.edu.bd
 webdisk.kathgarahs.edu.bd
 webdisk.kdmadrasah.edu.bd
 webdisk.keidm.edu.bd
+webdisk.kess.edu.bd
 webdisk.khawarcharhighschool.edu.bd
 webdisk.khiramhighschool.edu.bd
 webdisk.kholabarihs.edu.bd
@@ -3461,6 +3483,7 @@ webmail.dhankorahighschool.edu.bd
 webmail.dhsg.edu.bd
 webmail.dhsgm.edu.bd
 webmail.digholiahighschool.edu.bd
+webmail.dkisaac.edu.bd
 webmail.dmhighschool.edu.bd
 webmail.dmrc.edu.bd
 webmail.dogachihs.edu.bd
@@ -3526,6 +3549,7 @@ webmail.kashipurss.edu.bd
 webmail.kathgarahs.edu.bd
 webmail.kdmadrasah.edu.bd
 webmail.keidm.edu.bd
+webmail.kess.edu.bd
 webmail.khawarcharhighschool.edu.bd
 webmail.khiramhighschool.edu.bd
 webmail.kholabarihs.edu.bd
@@ -3959,6 +3983,7 @@ www.dighleermdm.edu.bd
 www.digholiahighschool.edu.bd
 www.discounthutbd.com.hdgc.edu.bd
 www.djfm.edu.bd
+www.dkisaac.edu.bd
 www.dkmhcollege.edu.bd
 www.dm.karimpurkkbhs.edu.bd
 www.dmhighschool.edu.bd
@@ -4184,6 +4209,7 @@ www.kdmadrasah.edu.bd
 www.keidm.edu.bd
 www.keshablalsecondaryschool.edu.bd.bhagirathpursecondaryschool.edu.bd
 www.keshorhatghs.edu.bd
+www.kess.edu.bd
 www.kgpurhs.edu.bd
 www.kguasg.edu.bd
 www.khadizaabubakarhighschool.edu.bd
