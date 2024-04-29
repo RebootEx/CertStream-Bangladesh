@@ -125,6 +125,7 @@ autodiscover.khawarcharhighschool.edu.bd
 autodiscover.khsbd.edu.bd
 autodiscover.kjnbdm.edu.bd
 autodiscover.knhsm.edu.bd
+autodiscover.kushadangahs.edu.bd
 autodiscover.matlabcollege.edu.bd
 autodiscover.mhahs.edu.bd
 autodiscover.mlphsc.edu.bd
@@ -432,6 +433,7 @@ cpanel.khawarcharhighschool.edu.bd
 cpanel.khsbd.edu.bd
 cpanel.kjnbdm.edu.bd
 cpanel.knhsm.edu.bd
+cpanel.kushadangahs.edu.bd
 cpanel.matlabcollege.edu.bd
 cpanel.mhahs.edu.bd
 cpanel.mlphsc.edu.bd
@@ -535,6 +537,7 @@ cpcalendars.khawarcharhighschool.edu.bd
 cpcalendars.khsbd.edu.bd
 cpcalendars.kjnbdm.edu.bd
 cpcalendars.knhsm.edu.bd
+cpcalendars.kushadangahs.edu.bd
 cpcalendars.matlabcollege.edu.bd
 cpcalendars.mhahs.edu.bd
 cpcalendars.mlphsc.edu.bd
@@ -637,6 +640,7 @@ cpcontacts.khawarcharhighschool.edu.bd
 cpcontacts.khsbd.edu.bd
 cpcontacts.kjnbdm.edu.bd
 cpcontacts.knhsm.edu.bd
+cpcontacts.kushadangahs.edu.bd
 cpcontacts.matlabcollege.edu.bd
 cpcontacts.mhahs.edu.bd
 cpcontacts.mlphsc.edu.bd
@@ -742,6 +746,7 @@ dimc.edu.bd
 dipshikhagirlsacademy.edu.bd
 dkadm.edu.bd
 dkb.edu.bd
+dkdm.edu.bd
 dkisaac.edu.bd
 dkschool.edu.bd
 dmdmadrasah.edu.bd
@@ -840,6 +845,7 @@ giat.edu.bd
 gighs.edu.bd
 gilabaripanjugaziunitedacademy.edu.bd
 gkghs.edu.bd
+gkhsc.edu.bd
 glidm.edu.bd
 gmdm.edu.bd
 gmhs.edu.bd
@@ -890,6 +896,7 @@ hazradangashahidullahhs.edu.bd
 hbiam.edu.bd
 hcphs.edu.bd
 hdaisdm.edu.bd
+hdm.edu.bd
 heccc.edu.bd
 hedadangamsdmadrasah.edu.bd
 hfiam.edu.bd
@@ -1088,6 +1095,7 @@ kundanhs.edu.bd.nagargolahs.edu.bd
 kuraliagss.edu.bd
 kurerparadarshahighschool.edu.bd
 kurigramgghs.edu.bd
+kushadangahs.edu.bd
 kyanc.edu.bd
 lahirighs.edu.bd
 lalbagrahs.edu.bd
@@ -1343,6 +1351,7 @@ mail.kjnbdm.edu.bd
 mail.knhsm.edu.bd
 mail.kppi.edu.bd
 mail.krphs.edu.bd
+mail.kushadangahs.edu.bd
 mail.lalbagrahs.edu.bd
 mail.lalkuthigsc.edu.bd
 mail.lathigonjhsc.edu.bd
@@ -1957,6 +1966,7 @@ szrdc.edu.bd
 talbariacollege.edu.bd
 talpukurhs.edu.bd
 taltahs.edu.bd
+tamins.edu.bd
 taragonjpilotgirlshighschool.edu.bd
 tarashgghs.edu.bd
 tata.bkdcl.edu.bd
@@ -2085,6 +2095,7 @@ webdisk.khawarcharhighschool.edu.bd
 webdisk.khsbd.edu.bd
 webdisk.kjnbdm.edu.bd
 webdisk.knhsm.edu.bd
+webdisk.kushadangahs.edu.bd
 webdisk.matlabcollege.edu.bd
 webdisk.mhahs.edu.bd
 webdisk.mlphsc.edu.bd
@@ -2189,6 +2200,7 @@ webmail.khawarcharhighschool.edu.bd
 webmail.khsbd.edu.bd
 webmail.kjnbdm.edu.bd
 webmail.knhsm.edu.bd
+webmail.kushadangahs.edu.bd
 webmail.matlabcollege.edu.bd
 webmail.mhahs.edu.bd
 webmail.mlphsc.edu.bd
@@ -2614,6 +2626,7 @@ www.knhsm.edu.bd
 www.kppi.edu.bd
 www.krphs.edu.bd
 www.kundanhs.edu.bd.nagargolahs.edu.bd
+www.kushadangahs.edu.bd
 www.lalbagrahs.edu.bd
 www.lalkuthigsc.edu.bd
 www.langlahighschool.edu.bd
