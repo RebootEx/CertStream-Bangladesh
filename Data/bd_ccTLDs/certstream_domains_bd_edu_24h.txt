@@ -19,6 +19,7 @@ cdcn.edu.bd
 coe.uits.edu.bd
 cpanel.aladipurhighschool.edu.bd
 cpanel.baniajanhighschool.edu.bd
+cpanel.cwdc.edu.bd
 cpanel.ddsfm.edu.bd
 cpanel.drmsc.edu.bd
 cpanel.misiraaghs.edu.bd
@@ -26,6 +27,7 @@ cpanel.ppsmralimmadrasah.edu.bd
 cpanel.shsa.edu.bd
 cpcalendars.aladipurhighschool.edu.bd
 cpcalendars.baniajanhighschool.edu.bd
+cpcalendars.cwdc.edu.bd
 cpcalendars.ddsfm.edu.bd
 cpcalendars.drmsc.edu.bd
 cpcalendars.misiraaghs.edu.bd
@@ -33,6 +35,7 @@ cpcalendars.ppsmralimmadrasah.edu.bd
 cpcalendars.shsa.edu.bd
 cpcontacts.aladipurhighschool.edu.bd
 cpcontacts.baniajanhighschool.edu.bd
+cpcontacts.cwdc.edu.bd
 cpcontacts.ddsfm.edu.bd
 cpcontacts.drmsc.edu.bd
 cpcontacts.misiraaghs.edu.bd
@@ -40,12 +43,14 @@ cpcontacts.ppsmralimmadrasah.edu.bd
 cpcontacts.shsa.edu.bd
 cse.bu.edu.bd
 cssdm.edu.bd
+cwdc.edu.bd
 ddsfm.edu.bd
 dhkami.edu.bd
 drmsc.edu.bd
 epay.lokmanpurcollege.edu.bd
 eschool.lokmanpurcollege.edu.bd
 fakiruddinschoolcollege.edu.bd
+fatepurmhsac.edu.bd
 girmm.edu.bd
 govthiacmsc.edu.bd
 holyfamilyschool.edu.bd
@@ -60,6 +65,7 @@ lokman.edu.bd
 mail.aladipurhighschool.edu.bd
 mail.baniajanhighschool.edu.bd
 mail.bhelajanhs.edu.bd
+mail.cwdc.edu.bd
 mail.ddsfm.edu.bd
 mail.drmsc.edu.bd
 mail.girmm.edu.bd
@@ -85,11 +91,14 @@ safirunnesags.edu.bd.kanthalbariaaghs.edu.bd
 shsa.edu.bd
 skmh.edu.bd
 sports.mamannanmanikcollege.edu.bd
+sstc.edu.bd
+sukdebmodanmohansecondaryschool.edu.bd
 swmc.edu.bd
 test.diu.edu.bd
 ukkhs.edu.bd
 webdisk.aladipurhighschool.edu.bd
 webdisk.baniajanhighschool.edu.bd
+webdisk.cwdc.edu.bd
 webdisk.ddsfm.edu.bd
 webdisk.drmsc.edu.bd
 webdisk.misiraaghs.edu.bd
@@ -97,6 +106,7 @@ webdisk.ppsmralimmadrasah.edu.bd
 webdisk.shsa.edu.bd
 webmail.aladipurhighschool.edu.bd
 webmail.baniajanhighschool.edu.bd
+webmail.cwdc.edu.bd
 webmail.ddsfm.edu.bd
 webmail.drmsc.edu.bd
 webmail.misiraaghs.edu.bd
@@ -108,6 +118,7 @@ www.bhelajanhs.edu.bd
 www.career.uits.edu.bd
 www.coe.uits.edu.bd
 www.cse.bu.edu.bd
+www.cwdc.edu.bd
 www.ddsfm.edu.bd
 www.drmsc.edu.bd
 www.epay.lokmanpurcollege.edu.bd
