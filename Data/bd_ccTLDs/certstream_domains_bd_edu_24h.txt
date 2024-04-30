@@ -2,6 +2,7 @@ account.lbhsc.edu.bd
 autodiscover.cbbnj.edu.bd
 bdm.edu.bd
 bfmb.edu.bd
+bjghs.edu.bd
 bkmc.edu.bd
 bphsmj.edu.bd
 bsmkss.edu.bd
@@ -13,6 +14,7 @@ cdcmn.edu.bd
 champoknagarhighschool.edu.bd
 ciu.edu.bd
 cmos.ciu.edu.bd
+cpanel.bjghs.edu.bd
 cpanel.bkmc.edu.bd
 cpanel.cbbnj.edu.bd
 cpanel.dauam.edu.bd
@@ -26,6 +28,7 @@ cpanel.sarakerbazarhighschool.edu.bd
 cpanel.silamdm.edu.bd
 cpanel.somipuridm.edu.bd
 cpanel.surmahsc.edu.bd
+cpcalendars.bjghs.edu.bd
 cpcalendars.bkmc.edu.bd
 cpcalendars.cbbnj.edu.bd
 cpcalendars.dauam.edu.bd
@@ -39,6 +42,7 @@ cpcalendars.sarakerbazarhighschool.edu.bd
 cpcalendars.silamdm.edu.bd
 cpcalendars.somipuridm.edu.bd
 cpcalendars.surmahsc.edu.bd
+cpcontacts.bjghs.edu.bd
 cpcontacts.bkmc.edu.bd
 cpcontacts.cbbnj.edu.bd
 cpcontacts.dauam.edu.bd
@@ -73,6 +77,8 @@ jhitkaamhighschool.edu.bd
 kayempurmas.edu.bd
 kisdm.edu.bd
 kldm.edu.bd
+krc.edu.bd
+mail.bjghs.edu.bd
 mail.bkmc.edu.bd
 mail.cbbnj.edu.bd
 mail.dauam.edu.bd
@@ -97,7 +103,10 @@ mugmc.edu.bd
 muidmpalishara.edu.bd
 npurpghs.edu.bd
 old.abrmsc.edu.bd
+old.lsc.edu.bd
 paghs.edu.bd
+paragaon.edu.bd
+paragaon.kathoraidm.edu.bd
 pghsctg.edu.bd
 pgsss1957.edu.bd
 pkbmhs.edu.bd
@@ -114,6 +123,7 @@ portal.npurpghs.edu.bd
 portal.pkbmhs.edu.bd
 portal.sps.edu.bd
 raismahmudhighschool.edu.bd
+rameswarpurhs.edu.bd
 rdc.edu.bd
 rumhs.edu.bd
 sarakerbazarhighschool.edu.bd
@@ -127,6 +137,8 @@ sutrapurahs.edu.bd
 tajpurcollege.edu.bd
 tofelakonschool.edu.bd
 tsbhs.edu.bd
+unitedacademy.edu.bd
+webdisk.bjghs.edu.bd
 webdisk.bkmc.edu.bd
 webdisk.cbbnj.edu.bd
 webdisk.dauam.edu.bd
@@ -140,6 +152,7 @@ webdisk.sarakerbazarhighschool.edu.bd
 webdisk.silamdm.edu.bd
 webdisk.somipuridm.edu.bd
 webdisk.surmahsc.edu.bd
+webmail.bjghs.edu.bd
 webmail.bkmc.edu.bd
 webmail.cbbnj.edu.bd
 webmail.dauam.edu.bd
@@ -153,6 +166,7 @@ webmail.sarakerbazarhighschool.edu.bd
 webmail.silamdm.edu.bd
 webmail.somipuridm.edu.bd
 webmail.surmahsc.edu.bd
+www.bjghs.edu.bd
 www.bkmc.edu.bd
 www.calculator.bkdcl.edu.bd
 www.cbbnj.edu.bd
@@ -172,6 +186,8 @@ www.modify.nemc.edu.bd
 www.mostafapurmadrasah.edu.bd
 www.muidmpalishara.edu.bd
 www.old.abrmsc.edu.bd
+www.old.lsc.edu.bd
+www.paragaon.kathoraidm.edu.bd
 www.pgsss1957.edu.bd
 www.raismahmudhighschool.edu.bd
 www.rdc.edu.bd
