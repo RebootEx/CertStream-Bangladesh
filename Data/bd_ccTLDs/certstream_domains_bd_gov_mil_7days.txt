@@ -8,6 +8,7 @@ arjsc.roc.gov.bd
 autodiscover.bavs.gov.bd
 autodiscover.certificatefuldin.gov.bd
 autodiscover.mathbariapourashava.gov.bd
+autodiscover.nsi.gov.bd
 bagerhat.gov.bd
 bandarban.gov.bd
 barakandaup.gov.bd
@@ -123,6 +124,8 @@ eng.sarkaribanglacollege.gov.bd
 erequ.mowr.gov.bd
 erp.bcsadminacademy.gov.bd
 etender.comillaboard.gov.bd
+ex01.nsi.gov.bd
+ex02.nsi.gov.bd
 faridpur.gov.bd
 feni.gov.bd
 flora-bnh.gov.bd
@@ -183,6 +186,7 @@ mail.ihtdhaka.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.msdp.gov.bd
 mail.msw-soft.gov.bd
+mail.nsi.gov.bd
 mail.rgdc.gov.bd
 mail.satkhiratsc.gov.bd
 mail.shnibps.gov.bd
