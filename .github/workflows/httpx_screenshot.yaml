@@ -36,7 +36,7 @@ jobs:
           set -x ; set +e
           #--------------#
           # eget for bins
-          sudo wget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/eget" -O "/usr/local/bin/eget"
+          sudo wget "https://bin.ajam.dev/x86_64_Linux/eget" -O "/usr/local/bin/eget"
           sudo chmod +xwr "/usr/local/bin/eget"
         continue-on-error: false
 
@@ -46,33 +46,33 @@ jobs:
           set -x ; set +e
           #--------------#
           #anew
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/anew" --to "/usr/local/bin/anew"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/anew" --to "/usr/local/bin/anew"
           #asn
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asn" --to "/usr/local/bin/asn"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asn" --to "/usr/local/bin/asn"
           #asnmap
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/asnmap" --to "/usr/local/bin/asnmap"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/asnmap" --to "/usr/local/bin/asnmap"
           #cut-cdn
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/cut-cdn" --to "/usr/local/bin/cut-cdn"          
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/cut-cdn" --to "/usr/local/bin/cut-cdn"          
           # dirstat-rs for tree
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/ds" --to "/usr/local/bin/ds"          
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/ds" --to "/usr/local/bin/ds"          
           #dnsx
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/dnsx" --to "/usr/local/bin/dnsx"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/dnsx" --to "/usr/local/bin/dnsx"
           #HTTPx
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/httpx" --to "/usr/local/bin/httpx"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/httpx" --to "/usr/local/bin/httpx"
           #gowitness
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/gowitness" --to "/usr/local/bin/gowitness"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/gowitness" --to "/usr/local/bin/gowitness"
           #inscope
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/inscope" --to "/usr/local/bin/inscope"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/inscope" --to "/usr/local/bin/inscope"
           #mapcidr
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/mapcidr" --to "/usr/local/bin/mapcidr"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/mapcidr" --to "/usr/local/bin/mapcidr"
           #scopegen
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopegen" --to "/usr/local/bin/scopegen"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopegen" --to "/usr/local/bin/scopegen"
           #scopeview
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/scopeview" --to "/usr/local/bin/scopeview"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/scopeview" --to "/usr/local/bin/scopeview"
           #spk
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/spk" --to "/usr/local/bin/spk"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/spk" --to "/usr/local/bin/spk"
           #yq
-          sudo eget "https://raw.githubusercontent.com/Azathothas/Toolpacks/main/x86_64/yq" --to "/usr/local/bin/yq"
+          sudo eget "https://bin.ajam.dev/x86_64_Linux/yq" --to "/usr/local/bin/yq"
         continue-on-error: true
 
       - name: Run
