@@ -3,6 +3,7 @@ alutila-api.dc-khagrachhari.gov.bd
 api.freelancers.gov.bd
 api.otms.nass.gov.bd
 api.torjoni.gov.bd
+app.jhalokathimunicipality.gov.bd
 application-review-asdhqemckqld.bicsaa.gov.bd
 arjsc.roc.gov.bd
 autodiscover.bavs.gov.bd
@@ -46,6 +47,7 @@ case.gov.bd
 cbraj.gov.bd
 ccpc4teens.gov.bd
 certificatefuldin.gov.bd
+cevappealdhaka2.gov.bd
 chalibhangaup.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
@@ -123,6 +125,7 @@ emsserver.epb-exporttracker.gov.bd
 eng.sarkaribanglacollege.gov.bd
 erequ.mowr.gov.bd
 erp.bcsadminacademy.gov.bd
+etds.gov.bd
 etender.comillaboard.gov.bd
 ex01.nsi.gov.bd
 ex02.nsi.gov.bd
@@ -148,11 +151,13 @@ ictd.gov.bd
 iedcr.gov.bd
 ihtdhaka.gov.bd
 inheritance.gov.bd
+internal.startupsummit.gov.bd
 isec.gov.bd
 jaldhakamunicipality.gov.bd
 jamalpur.gov.bd
 jashore.gov.bd
 jessore.gov.bd
+jhalokathimunicipality.gov.bd
 jhenaidah.gov.bd
 jitsi.vc8.bcc.gov.bd
 jorkanoneastup.gov.bd
@@ -171,6 +176,7 @@ kodalkatihs.gov.bd
 krishibatighor.gov.bd
 kurigram.gov.bd
 kushtia.gov.bd
+lakshmipurpourashava.gov.bd
 lalmonirhat.gov.bd
 land.gov.bd
 lb.dotsim.gov.bd
@@ -221,11 +227,13 @@ narsingdi.gov.bd
 natore.gov.bd
 ncbelearning.fpmu.gov.bd
 ndc.gov.bd
+nesco.gov.bd
 netrokona.gov.bd
 nilphamari.gov.bd
 nilphamarittc.gov.bd
 nnsop.gov.bd
 noakhaligmc.gov.bd
+notarypublic.gov.bd
 nsdi.gov.bd
 nutritionprofile.gov.bd
 old.comillaboard.gov.bd
@@ -252,6 +260,7 @@ rajshahidiv.gov.bd
 rangamati.gov.bd
 rangpur.gov.bd
 rangpurdiv.gov.bd
+rfm.beza.gov.bd
 rgdc.gov.bd
 roc.gov.bd
 rpir.rdodterangpur.gov.bd
@@ -284,6 +293,7 @@ sscb.gov.bd
 st.dotsim.gov.bd
 startupbangladeshvc.gov.bd
 sunamganj.gov.bd
+sundalpurup.gov.bd
 surokkha.gov.bd
 sv.dotsim.gov.bd
 sylhet.gov.bd
@@ -299,6 +309,7 @@ tekpou.gov.bd
 thakurgaon.gov.bd
 torjoni.gov.bd
 totthoapa.gov.bd
+touristpolice.gov.bd
 training.gov.bd
 ttc-pabna.gov.bd
 turn.vc8.bcc.gov.bd
@@ -385,6 +396,7 @@ www.policy.gov.bd
 www.rajabariup.gov.bd
 www.reporting.uphcsdp.gov.bd
 www.result.bsiedu.gov.bd
+www.rfm.beza.gov.bd
 www.rgdc.gov.bd
 www.rpir.rdodterangpur.gov.bd
 www.satkhiratsc.gov.bd
@@ -394,6 +406,7 @@ www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
 www.sohayota.gov.bd.melandahbhata.gov.bd
 www.soltrack.gov.bd
+www.sundalpurup.gov.bd
 www.taxeszone3ctg.gov.bd
 www.taxzone21dhaka.gov.bd
 www.tds.taxeszone3ctg.gov.bd
