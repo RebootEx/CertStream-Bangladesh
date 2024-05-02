@@ -5,11 +5,14 @@ autodiscover.barapangashicollege.edu.bd
 autodiscover.rmc.edu.bd
 banihalahighschool.edu.bd
 barapangashicollege.edu.bd
+bjghs.edu.bd
 bkmc.edu.bd
 bmsb.edu.bd
+bsmkss.edu.bd
 buasc.edu.bd
 bukhainagarmadrasah.edu.bd
 cpanel.barapangashicollege.edu.bd
+cpanel.bjghs.edu.bd
 cpanel.bkmc.edu.bd
 cpanel.buasc.edu.bd
 cpanel.haahsc.edu.bd
@@ -20,6 +23,7 @@ cpanel.mmidm.edu.bd
 cpanel.mollarhathighschool.edu.bd
 cpanel.rmc.edu.bd
 cpcalendars.barapangashicollege.edu.bd
+cpcalendars.bjghs.edu.bd
 cpcalendars.bkmc.edu.bd
 cpcalendars.buasc.edu.bd
 cpcalendars.haahsc.edu.bd
@@ -30,6 +34,7 @@ cpcalendars.mmidm.edu.bd
 cpcalendars.mollarhathighschool.edu.bd
 cpcalendars.rmc.edu.bd
 cpcontacts.barapangashicollege.edu.bd
+cpcontacts.bjghs.edu.bd
 cpcontacts.bkmc.edu.bd
 cpcontacts.buasc.edu.bd
 cpcontacts.haahsc.edu.bd
@@ -41,9 +46,11 @@ cpcontacts.mollarhathighschool.edu.bd
 cpcontacts.rmc.edu.bd
 dbnscr.edu.bd
 dgbn.edu.bd
+dhalgramschool.edu.bd
 dharampurhs.edu.bd
 ems.mors.edu.bd
 fphs.edu.bd
+gnpghs.edu.bd
 govtadiabadschoolcollege.edu.bd
 grhs.edu.bd
 guzishaharhs.edu.bd
@@ -64,6 +71,7 @@ kmssdk.edu.bd
 kumarkhalifazilmadrasah.edu.bd
 mail.amhsc.edu.bd
 mail.barapangashicollege.edu.bd
+mail.bjghs.edu.bd
 mail.bkmc.edu.bd
 mail.buasc.edu.bd
 mail.dgbn.edu.bd
@@ -79,8 +87,11 @@ mail.mollarhathighschool.edu.bd
 mail.rmc.edu.bd
 mmidm.edu.bd
 mollarhathighschool.edu.bd
+muidmpalishara.edu.bd
 nababidhangirlsschool.edu.bd
 queensuniversity.edu.bd
+raismahmudhighschool.edu.bd
+rameswarpurhs.edu.bd
 rmc.edu.bd
 rumhs.edu.bd
 ssnghs.edu.bd
@@ -88,6 +99,7 @@ tajpurcollege.edu.bd
 ticket.just.edu.bd
 tuca.edu.bd
 webdisk.barapangashicollege.edu.bd
+webdisk.bjghs.edu.bd
 webdisk.bkmc.edu.bd
 webdisk.buasc.edu.bd
 webdisk.haahsc.edu.bd
@@ -98,6 +110,7 @@ webdisk.mmidm.edu.bd
 webdisk.mollarhathighschool.edu.bd
 webdisk.rmc.edu.bd
 webmail.barapangashicollege.edu.bd
+webmail.bjghs.edu.bd
 webmail.bkmc.edu.bd
 webmail.buasc.edu.bd
 webmail.haahsc.edu.bd
@@ -111,11 +124,13 @@ www.admission.butex.edu.bd
 www.amhsc.edu.bd
 www.arambag.arambaghsc.edu.bd
 www.barapangashicollege.edu.bd
+www.bjghs.edu.bd
 www.bkmc.edu.bd
 www.buasc.edu.bd
 www.dgbn.edu.bd
 www.ems.mors.edu.bd
 www.fphs.edu.bd
+www.gnpghs.edu.bd
 www.haahsc.edu.bd
 www.haziabdulhakimbhsc.edu.bd
 www.ikramnandaparahighschool.edu.bd
@@ -128,5 +143,6 @@ www.mmidm.edu.bd
 www.mollarhathighschool.edu.bd
 www.natunkurischool.holyfamilyschool.edu.bd
 www.queensuniversity.edu.bd
+www.raismahmudhighschool.edu.bd
 www.rmc.edu.bd
 www.ticket.just.edu.bd
