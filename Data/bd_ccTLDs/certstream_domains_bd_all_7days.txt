@@ -159,6 +159,7 @@ api.isle.com.bd
 api.jexca.org.bd
 api.jobsnetwork.com.bd
 api.kholabazaar.com.bd
+api.rdc.ewb.com.bd
 api.scba.org.bd
 api.shoppingkori.com.bd
 api.steadfast.com.bd
@@ -412,6 +413,7 @@ binailhs.edu.bd
 bingetravelers.com.bd
 binnafairhighschool.edu.bd
 binodpurcollege.edu.bd
+biocare.mastertech.com.bd
 biratlimited.com.bd
 bisc.com.bd
 bishnopurhighs.edu.bd
@@ -1298,6 +1300,7 @@ daugs.edu.bd
 dazzy.com.bd
 dbnscr.edu.bd
 dbs.com.bd
+dc-db.paymix.com.bd
 dcabarishal.gov.bd
 dcadhaka.gov.bd
 dcnds.iict.buet.ac.bd
@@ -1392,6 +1395,7 @@ dkbd.com.bd
 dkdm.edu.bd
 dkisaac.edu.bd
 dkmhc.edu.bd
+dkmhcollege.edu.bd
 dkschool.edu.bd
 dldchc-badas.org.bd
 dmdmadrasah.edu.bd
@@ -1794,6 +1798,7 @@ healthychoice.com.bd
 hearingstore.com.bd
 heccc.edu.bd
 hedadangamsdmadrasah.edu.bd
+hello.bkuc.edu.bd
 hellodoctor.com.bd
 helpline.com.bd
 heriken.com.bd
@@ -1929,6 +1934,7 @@ ius.edu.bd
 jabedaliinstitution.edu.bd
 jabhs.edu.bd
 jac.com.bd
+jackofw3.itpalace.com.bd
 jagoprotidin.com.bd
 jalalabadgas.org.bd
 jaldhakamunicipality.gov.bd
@@ -2148,6 +2154,7 @@ linkware.com.bd
 listify.com.bd
 livepublications.com.bd
 lms.andtech.com.bd
+localit.com.bd
 lofh.labone.org.bd
 loft.labone.org.bd
 lokman.edu.bd
@@ -2653,6 +2660,7 @@ mmdmb.edu.bd
 mmh.com.bd
 mmidm.edu.bd
 mminternational.com.bd
+mmsc.edu.bd
 mmss.edu.bd
 mnjhs.edu.bd
 mo.momagic.com.bd
@@ -2786,6 +2794,7 @@ neyamatpurhsc.edu.bd
 nggchapai.edu.bd
 ngodhaka.com.bd
 ngoms.citycomputers.com.bd
+ngosavar.gov.bd
 ngs.edu.bd
 nhdhs.edu.bd
 nhmsc.edu.bd
@@ -3381,6 +3390,7 @@ software.luxurymart.com.bd
 software.ncmym.edu.bd
 sokal.com.bd
 sol.com.bd
+solidcp.mdalamgir.com.bd
 solutionone.com.bd
 somipuridm.edu.bd
 sonali238.dinajpurboard.gov.bd
@@ -3406,6 +3416,7 @@ srf.com.bd
 srfashion.com.bd
 srrkit.com.maxit.com.bd
 srv1.sbit.com.bd
+ss.bkuc.edu.bd
 ss.brur.ac.bd
 ssc15.smsgmphs.edu.bd
 sscb.gov.bd
@@ -4151,6 +4162,7 @@ www.admin.kholabazaar.com.bd
 www.admin.lasertreat.com.bd
 www.admin.razapurcollege.edu.bd
 www.admission.bauet.ac.bd
+www.admission.mmsc.edu.bd
 www.admission.raozancollege.edu.bd
 www.admx.wecare.com.bd
 www.adroits.com.bd
@@ -4262,6 +4274,7 @@ www.bdcn24.retinasoft.com.bd
 www.bdhs.org.bd
 www.bdiamraj.edu.bd
 www.bdnewsnet.com.bd
+www.bdrcs.mmsc.edu.bd
 www.bdtax.com.bd
 www.bdtc.com.bd
 www.bdtex.bdtex.com.bd
@@ -4304,6 +4317,7 @@ www.bmlhs.edu.bd.azamc.edu.bd
 www.bmmadrasah.edu.bd
 www.bmscdhaka.edu.bd
 www.bnabshs.edu.bd
+www.bncc.mmsc.edu.bd
 www.bnchighschool.edu.bd
 www.bnz.rings3.com.bd
 www.bogurapoly.gov.bd
@@ -4409,6 +4423,7 @@ www.dekora.whitelabel.com.bd
 www.delparahighschool.edu.bd
 www.deltex.com.bd
 www.demo-pos.bigtech.com.bd
+www.demo.emc.com.bd
 www.demo.hillforts.com.bd
 www.demo.rabby.com.bd
 www.demo.rpsu.ac.bd
@@ -4585,6 +4600,7 @@ www.happypixels.com.bd
 www.harbar.com.bd
 www.hasan.info.bd
 www.haziabdulhakimbhsc.edu.bd
+www.hello.bkuc.edu.bd
 www.hellomen.beautyshop.com.bd
 www.himalaya.com.bd
 www.hire.arena.com.bd
@@ -4650,6 +4666,7 @@ www.ismail.bcb.edu.bd
 www.itnainvoice.com.bd
 www.itrading.bluerack.com.bd
 www.jac.com.bd
+www.jackofw3.itpalace.com.bd
 www.jagoprotidin.com.bd
 www.jamiafatehpur.edu.bd
 www.jamiah.nirf.org.bd
@@ -4814,6 +4831,7 @@ www.mitech.info.bd
 www.mmidm.edu.bd
 www.mminternational.com.bd
 www.mobilemall.com.bd
+www.model.mmsc.edu.bd
 www.modernpartex.com.bd
 www.modify.nemc.edu.bd
 www.mograparahggssmritigovtbiddyaton.edu.bd
@@ -4899,12 +4917,14 @@ www.oalid.retinasoft.com.bd
 www.obaadmin.goldeninfotech.com.bd
 www.oceanwave.com.bd
 www.odheek.com.bd
+www.office.mmsc.edu.bd
 www.old.abrmsc.edu.bd
 www.old.bjkhs1883.edu.bd
 www.old.gie.com.bd
 www.old.imc.ac.bd
 www.old.lsc.edu.bd
 www.old.mbrella.com.bd
+www.old.mmsc.edu.bd
 www.omicon.com.bd
 www.onecodesoft.com.bd
 www.onemartpro.onecodesoft.com.bd
@@ -5148,6 +5168,7 @@ www.sreerampurhs.edu.bd
 www.sreeraymam.edu.bd
 www.srrkit.com.maxit.com.bd
 www.srv1.sbit.com.bd
+www.ss.bkuc.edu.bd
 www.ss.brur.ac.bd
 www.ssc15.smsgmphs.edu.bd
 www.ssh.arifin.com.bd
