@@ -3,6 +3,7 @@ api.torjoni.gov.bd
 app.jhalokathimunicipality.gov.bd
 arjsc.roc.gov.bd
 asi.dfsrcaab.gov.bd
+autodiscover.cbb.gov.bd
 autodiscover.nsi.gov.bd
 az.dotsim.gov.bd
 bandarban.gov.bd
@@ -15,6 +16,7 @@ btebadmission.gov.bd
 cafoird.gov.bd
 cafomofl.gov.bd
 cafoparliament.gov.bd
+cbb.gov.bd
 ccpc4teens.gov.bd
 cevappealdhaka2.gov.bd
 chandpur.gov.bd
@@ -25,10 +27,13 @@ clone.sskmc.gov.bd
 cltp.gov.bd
 cmp.gov.bd
 cms.torjoni.gov.bd
+cpanel.cbb.gov.bd
 cpanel.circuithousegopalganj.gov.bd
 cpanel.ihtdhaka.gov.bd
+cpcalendars.cbb.gov.bd
 cpcalendars.circuithousegopalganj.gov.bd
 cpcalendars.ihtdhaka.gov.bd
+cpcontacts.cbb.gov.bd
 cpcontacts.circuithousegopalganj.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 ctgtaxeszone2.gov.bd
@@ -65,6 +70,7 @@ jorkanoneastup.gov.bd
 karimganjpourashava.gov.bd
 lakshmipurpourashava.gov.bd
 lb.dotsim.gov.bd
+mail.cbb.gov.bd
 mail.circuithousegopalganj.gov.bd
 mail.ihtdhaka.gov.bd
 mail.nsi.gov.bd
@@ -117,14 +123,17 @@ vcsavar.gov.bd
 vote.thakpoly.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
+webdisk.cbb.gov.bd
 webdisk.circuithousegopalganj.gov.bd
 webdisk.ihtdhaka.gov.bd
 webmail.ansarvdpbank.gov.bd
+webmail.cbb.gov.bd
 webmail.circuithousegopalganj.gov.bd
 webmail.ihtdhaka.gov.bd
 www.alutila-api.dc-khagrachhari.gov.bd
 www.api.bsiedu.gov.bd
 www.asi.dfsrcaab.gov.bd
+www.cbb.gov.bd
 www.circuithousegopalganj.gov.bd
 www.dcabarishal.gov.bd
 www.digrajshahirange.gov.bd
