@@ -7,6 +7,7 @@ application-review-asdhqemckqld.bicsaa.gov.bd
 arjsc.roc.gov.bd
 asi.dfsrcaab.gov.bd
 autodiscover.nsi.gov.bd
+az.dotsim.gov.bd
 bandarban.gov.bd
 barakandaup.gov.bd
 barishal.gov.bd
@@ -58,6 +59,7 @@ dhaka.gov.bd
 dhakadiv.gov.bd
 dhis2training.dghs.gov.bd
 digitalhaat.gov.bd
+digrajshahirange.gov.bd
 ebrc.mil.bd
 eff.comillaboard.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
@@ -65,14 +67,17 @@ ekpass.gov.bd
 emergencynutrition.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
+erp.bakshiganjpourashava.gov.bd
 erp.bcsadminacademy.gov.bd
 etds.gov.bd
 etender.comillaboard.gov.bd
 ex01.nsi.gov.bd
 ex02.nsi.gov.bd
+familycard.distgopalganj.gov.bd
 faridpur.gov.bd
 feni.gov.bd
 flora-bnh.gov.bd
+freelancer.gov.bd
 gazipur.gov.bd
 gis-titasgas.gov.bd
 gopalganj.gov.bd
@@ -91,6 +96,7 @@ jaldhakamunicipality.gov.bd
 jashore.gov.bd
 jhalokathimunicipality.gov.bd
 jitsi.vc8.bcc.gov.bd
+jmc.gov.bd
 jorkanoneastup.gov.bd
 judgement-panel-secure-server.bicsaa.gov.bd
 juryboard-secure-login.bicsaa.gov.bd
@@ -126,6 +132,7 @@ narayanganj.gov.bd
 narsingdi.gov.bd
 ndc.gov.bd
 nesco.gov.bd
+news.dcarangpur.gov.bd
 ngosavar.gov.bd
 nilphamarittc.gov.bd
 nnsop.gov.bd
@@ -133,12 +140,14 @@ noakhaligmc.gov.bd
 notarypublic.gov.bd
 nsdi.gov.bd
 nutritionprofile.gov.bd
+nwpgcl.gov.bd
 online.gbrcr.gov.bd
 onlineschoolform.bise-ctg.gov.bd
 ops.caab.gov.bd
 passenger.blpa.gov.bd
 payment.btebadmission.gov.bd
 portal.netrokonatsc.gov.bd
+practical.bise-ctg.gov.bd
 rajabariup.gov.bd
 rajbari.gov.bd
 rangamati.gov.bd
@@ -202,7 +211,10 @@ www.cbraj.gov.bd
 www.chalibhangaup.gov.bd
 www.circuithousegopalganj.gov.bd
 www.dcabarishal.gov.bd
+www.digrajshahirange.gov.bd
 www.ebrc.mil.bd
+www.erp.bakshiganjpourashava.gov.bd
+www.familycard.distgopalganj.gov.bd
 www.govindapurup1.gov.bd
 www.ihtdhaka.gov.bd
 www.jorkanoneastup.gov.bd
@@ -210,6 +222,7 @@ www.judgement-panel-secure-server.bicsaa.gov.bd
 www.juryboard-secure-login.bicsaa.gov.bd
 www.mfstc.mfstc.gov.bd
 www.msdp.gov.bd
+www.news.dcarangpur.gov.bd
 www.online.gbrcr.gov.bd
 www.ops.caab.gov.bd
 www.rajabariup.gov.bd
