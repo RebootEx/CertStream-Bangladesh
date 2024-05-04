@@ -5,6 +5,7 @@ apbncd.edu.bd
 arambag.arambaghsc.edu.bd
 autodiscover.barapangashicollege.edu.bd
 autodiscover.rmc.edu.bd
+autodiscover.snghs.edu.bd
 banihalahighschool.edu.bd
 barapangashicollege.edu.bd
 biswanathcollege.edu.bd
@@ -20,6 +21,7 @@ cpanel.jahidpurmadrasah.edu.bd
 cpanel.kmlhschool.edu.bd
 cpanel.pgmsc.edu.bd
 cpanel.rmc.edu.bd
+cpanel.snghs.edu.bd
 cpanel.surmahsc.edu.bd
 cpcalendars.barapangashicollege.edu.bd
 cpcalendars.biswanathcollege.edu.bd
@@ -29,6 +31,7 @@ cpcalendars.jahidpurmadrasah.edu.bd
 cpcalendars.kmlhschool.edu.bd
 cpcalendars.pgmsc.edu.bd
 cpcalendars.rmc.edu.bd
+cpcalendars.snghs.edu.bd
 cpcalendars.surmahsc.edu.bd
 cpcontacts.barapangashicollege.edu.bd
 cpcontacts.biswanathcollege.edu.bd
@@ -38,12 +41,15 @@ cpcontacts.jahidpurmadrasah.edu.bd
 cpcontacts.kmlhschool.edu.bd
 cpcontacts.pgmsc.edu.bd
 cpcontacts.rmc.edu.bd
+cpcontacts.snghs.edu.bd
 cpcontacts.surmahsc.edu.bd
 cvghs.edu.bd
 dakshinnagardndm.edu.bd
 dauss.edu.bd
 dbaighs.edu.bd
+dbdm.edu.bd
 dbhgdm.edu.bd
+dcdm.edu.bd
 demo.ssmcollege.edu.bd
 demo.sylhetcpsc.edu.bd
 dgmshs.edu.bd
@@ -52,6 +58,7 @@ dharampurhs.edu.bd
 dhuljurihighschool.edu.bd
 dmhs.edu.bd
 drmuic.edu.bd
+edu.bd.bhssabmc.edu.bd
 edu.bd.fulbarihs.edu.bd
 ems.mors.edu.bd
 fblhsc.edu.bd
@@ -91,6 +98,7 @@ mail.krishnercharhighschool.edu.bd
 mail.mhsp.edu.bd
 mail.pgmsc.edu.bd
 mail.rmc.edu.bd
+mail.snghs.edu.bd
 mail.surmahsc.edu.bd
 mail.tass.edu.bd
 masuahs.edu.bd
@@ -108,6 +116,7 @@ ram.edu.bd
 ramadrasha.edu.bd
 remamacollege.edu.bd
 research.uits.edu.bd
+results.bhssabmc.edu.bd
 rkdm.edu.bd
 rmc.edu.bd
 rwam.edu.bd
@@ -119,6 +128,7 @@ shomenagarblhs.edu.bd
 shomenagarblhs.edu.bd.dhakhs.edu.bd
 singerdabrisnc.edu.bd
 skjmhs.edu.bd
+snghs.edu.bd
 ssnghs.edu.bd
 suchs.edu.bd
 surmahsc.edu.bd
@@ -134,6 +144,7 @@ webdisk.jahidpurmadrasah.edu.bd
 webdisk.kmlhschool.edu.bd
 webdisk.pgmsc.edu.bd
 webdisk.rmc.edu.bd
+webdisk.snghs.edu.bd
 webdisk.surmahsc.edu.bd
 webmail.apbncd.edu.bd
 webmail.barapangashicollege.edu.bd
@@ -145,6 +156,7 @@ webmail.jahidpurmadrasah.edu.bd
 webmail.kmlhschool.edu.bd
 webmail.pgmsc.edu.bd
 webmail.rmc.edu.bd
+webmail.snghs.edu.bd
 webmail.surmahsc.edu.bd
 www.apbncd.edu.bd
 www.arambag.arambaghsc.edu.bd
@@ -153,6 +165,8 @@ www.biswanathcollege.edu.bd
 www.csbti.edu.bd
 www.dakshinnagardndm.edu.bd
 www.dauss.edu.bd
+www.dbdm.edu.bd.bhssabmc.edu.bd
+www.dcdm.edu.bd.bhssabmc.edu.bd
 www.demo.ssmcollege.edu.bd
 www.ems.mors.edu.bd
 www.fblhsc.edu.bd
@@ -174,11 +188,13 @@ www.pgmsc.edu.bd
 www.queensuniversity.edu.bd
 www.ramadrasha.edu.bd
 www.research.uits.edu.bd
+www.results.bhssabmc.edu.bd
 www.rmc.edu.bd
 www.rwam.edu.bd
 www.sdbeautyzone.xyz.mmanchs.edu.bd
 www.shomenagarblhs.edu.bd.dhakhs.edu.bd
 www.singerdabrisnc.edu.bd
 www.skjmhs.edu.bd
+www.snghs.edu.bd
 www.surmahsc.edu.bd
 www.tass.edu.bd
