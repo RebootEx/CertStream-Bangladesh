@@ -1,5 +1,6 @@
 abutorabfm.edu.bd
 ade.ehousing.com.bd
+admission.btc.edu.bd
 akd.com.bd
 alumniapi.cuet.ac.bd
 amadercity.tiller.com.bd
@@ -25,6 +26,7 @@ autodiscover.rmc.edu.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.uline.com.bd
 ayon.com.bd
+balance.com.bd
 banihalahighschool.edu.bd
 barapangashicollege.edu.bd
 bayan.com.bd
@@ -62,8 +64,10 @@ cpanel.factorynext.com.bd
 cpanel.generation.com.bd
 cpanel.instinctgroup.com.bd
 cpanel.itplus.com.bd
+cpanel.jahidpurmadrasah.edu.bd
 cpanel.kmlhschool.edu.bd
 cpanel.mmabdullah.com.bd
+cpanel.pgmsc.edu.bd
 cpanel.rmc.edu.bd
 cpanel.surmahsc.edu.bd
 cpanel.tarunsoft.com.bd
@@ -79,8 +83,10 @@ cpcalendars.factorynext.com.bd
 cpcalendars.generation.com.bd
 cpcalendars.instinctgroup.com.bd
 cpcalendars.itplus.com.bd
+cpcalendars.jahidpurmadrasah.edu.bd
 cpcalendars.kmlhschool.edu.bd
 cpcalendars.mmabdullah.com.bd
+cpcalendars.pgmsc.edu.bd
 cpcalendars.rmc.edu.bd
 cpcalendars.surmahsc.edu.bd
 cpcalendars.tseogulshan.gov.bd
@@ -95,8 +101,10 @@ cpcontacts.factorynext.com.bd
 cpcontacts.generation.com.bd
 cpcontacts.instinctgroup.com.bd
 cpcontacts.itplus.com.bd
+cpcontacts.jahidpurmadrasah.edu.bd
 cpcontacts.kmlhschool.edu.bd
 cpcontacts.mmabdullah.com.bd
+cpcontacts.pgmsc.edu.bd
 cpcontacts.rmc.edu.bd
 cpcontacts.surmahsc.edu.bd
 cpcontacts.tseogulshan.gov.bd
@@ -107,6 +115,8 @@ cyber.com.bd
 davinci.com.bd
 dbaighs.edu.bd
 dbhgdm.edu.bd
+dealbazaar.com.bd
+debbairagi.com.bd
 deltaint.com.bd
 demo.ssmcollege.edu.bd
 demo.sylhetcpsc.edu.bd
@@ -130,10 +140,12 @@ elitbuzz.com.bd
 ems.mors.edu.bd
 esrgear.com.bd
 estore.bsc.gov.bd
+extremeshop.com.bd
 factorynext.com.bd
 faisal.com.bd
 falguni.com.bd
 familymarket.com.bd
+fancybeauty.com.bd
 fareil.com.bd
 ftp.apollointl.com.bd
 ftp.dev.du.ac.bd
@@ -156,6 +168,9 @@ imt.edu.bd
 instalogic.com.bd
 instinctgroup.com.bd
 itplus.com.bd
+jackofw3.itpalace.com.bd
+jahidpurmadrasah.edu.bd
+jimart.com.bd
 jmc.gov.bd
 job.bsc.gov.bd
 jsd-iswr.du.ac.bd
@@ -204,11 +219,13 @@ mail.bmart.com.bd
 mail.cghsp.edu.bd
 mail.chhaya.com.bd
 mail.codecell.com.bd
+mail.dealbazaar.com.bd
 mail.dev.du.ac.bd
 mail.factorynext.com.bd
 mail.generation.com.bd
 mail.instinctgroup.com.bd
 mail.itplus.com.bd
+mail.jahidpurmadrasah.edu.bd
 mail.jhacademy.edu.bd
 mail.khamarbashahighschool.edu.bd
 mail.kmlhschool.edu.bd
@@ -219,6 +236,7 @@ mail.mpnews.com.bd
 mail.mram.com.bd
 mail.northbengalonline.com.bd
 mail.ornateinnovations.com.bd
+mail.pgmsc.edu.bd
 mail.rmc.edu.bd
 mail.schengen.com.bd
 mail.shokhin.com.bd
@@ -263,11 +281,13 @@ news.dcarangpur.gov.bd
 news.i-shop.com.bd
 news10.com.bd
 nextup.com.bd
+ngosavar.gov.bd
 northbengalonline.com.bd
 novus.com.bd
 nutanhatsafiuddinhighschool.edu.bd
 ohi.ac.bd
 ok.bayan.com.bd
+okynet.dreamsolution.com.bd
 onlineseedbankbd.com.bestdeal.com.bd
 ornateinnovations.com.bd
 osa.com.bd
@@ -275,6 +295,7 @@ pacificengineering.com.bd
 parfait.com.bd
 payout.com.bd
 peoplescar.com.bd
+pgmsc.edu.bd
 plhsc.edu.bd
 pop.apollointl.com.bd
 pop.northbengalonline.com.bd
@@ -302,6 +323,7 @@ service.hbri.gov.bd
 shaadi.com.bd
 shachindracollege.edu.bd
 shaistaganjdegreecollege.edu.bd
+shakti.net.bd
 shokhin.com.bd
 shomenagarblhs.edu.bd
 shomenagarblhs.edu.bd.dhakhs.edu.bd
@@ -341,8 +363,10 @@ webdisk.factorynext.com.bd
 webdisk.generation.com.bd
 webdisk.instinctgroup.com.bd
 webdisk.itplus.com.bd
+webdisk.jahidpurmadrasah.edu.bd
 webdisk.kmlhschool.edu.bd
 webdisk.mmabdullah.com.bd
+webdisk.pgmsc.edu.bd
 webdisk.rmc.edu.bd
 webdisk.surmahsc.edu.bd
 webdisk.tseogulshan.gov.bd
@@ -359,8 +383,10 @@ webmail.factorynext.com.bd
 webmail.generation.com.bd
 webmail.instinctgroup.com.bd
 webmail.itplus.com.bd
+webmail.jahidpurmadrasah.edu.bd
 webmail.kmlhschool.edu.bd
 webmail.mmabdullah.com.bd
+webmail.pgmsc.edu.bd
 webmail.rmc.edu.bd
 webmail.surmahsc.edu.bd
 webmail.tarunsoft.com.bd
@@ -386,6 +412,7 @@ www.barapangashicollege.edu.bd
 www.basicbanklimited.com.bd
 www.bayan.com.bd
 www.bcc.bdu.ac.bd
+www.beautebuffetgym.fancybeauty.com.bd
 www.beta.itplus.com.bd
 www.biswanathcollege.edu.bd
 www.bkttcdhaka.gov.bd
@@ -397,6 +424,8 @@ www.cityap.cpik.ac.bd
 www.codecell.com.bd
 www.csbti.edu.bd
 www.davinci.com.bd
+www.dealbazaar.com.bd
+www.debbairagi.com.bd
 www.demo.ssmcollege.edu.bd
 www.dev.betterpharmacy.com.bd
 www.dev.du.ac.bd
@@ -409,6 +438,7 @@ www.echain.com.bd
 www.eduvisors.com.bd
 www.ems.mors.edu.bd
 www.estore.bsc.gov.bd
+www.extremeshop.com.bd
 www.factorynext.com.bd
 www.falguni.com.bd
 www.generation.com.bd
@@ -416,6 +446,8 @@ www.generation.com.bd.mmh.com.bd
 www.goti.com.bd
 www.instinctgroup.com.bd
 www.itplus.com.bd
+www.jackofw3.itpalace.com.bd
+www.jahidpurmadrasah.edu.bd
 www.khamarbashahighschool.edu.bd
 www.kmlhschool.edu.bd
 www.kmssdk.edu.bd.bangladeshit.com.bd
@@ -438,8 +470,10 @@ www.nextup.com.bd
 www.nicc.bdu.ac.bd
 www.northbengalonline.com.bd
 www.ok.bayan.com.bd
+www.okynet.dreamsolution.com.bd
 www.onlineseedbankbd.com.bestdeal.com.bd
 www.ornateinnovations.com.bd
+www.pgmsc.edu.bd
 www.portal.bdu.ac.bd
 www.queensuniversity.edu.bd
 www.research.uits.edu.bd
