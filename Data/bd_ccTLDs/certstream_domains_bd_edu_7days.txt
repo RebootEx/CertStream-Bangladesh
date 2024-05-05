@@ -38,6 +38,8 @@ autodiscover.dkmhc.edu.bd
 autodiscover.josths.edu.bd
 autodiscover.kushadangahs.edu.bd
 autodiscover.misiraaghs.edu.bd
+autodiscover.nagrakura.edu.bd
+autodiscover.nhsc.edu.bd
 autodiscover.rmc.edu.bd
 autodiscover.snghs.edu.bd
 autodiscover.ssrm.edu.bd
@@ -169,6 +171,8 @@ cpanel.moshoriamadrasah.edu.bd
 cpanel.mostafapurmadrasah.edu.bd
 cpanel.mprekmatalihs.edu.bd
 cpanel.mrmshs.edu.bd
+cpanel.nagrakura.edu.bd
+cpanel.nhsc.edu.bd
 cpanel.pcpsc.edu.bd
 cpanel.pgmsc.edu.bd
 cpanel.ppsmralimmadrasah.edu.bd
@@ -189,6 +193,7 @@ cpanel.sscollegekhulna.edu.bd
 cpanel.ssrm.edu.bd
 cpanel.supc.edu.bd
 cpanel.surmahsc.edu.bd
+cpanel.sylgovaliamadrasa.edu.bd
 cpanel.ubaucollege.edu.bd
 cpcalendars.aladipurhighschool.edu.bd
 cpcalendars.arsb.edu.bd
@@ -238,6 +243,8 @@ cpcalendars.moshoriamadrasah.edu.bd
 cpcalendars.mostafapurmadrasah.edu.bd
 cpcalendars.mprekmatalihs.edu.bd
 cpcalendars.mrmshs.edu.bd
+cpcalendars.nagrakura.edu.bd
+cpcalendars.nhsc.edu.bd
 cpcalendars.pcpsc.edu.bd
 cpcalendars.pgmsc.edu.bd
 cpcalendars.ppsmralimmadrasah.edu.bd
@@ -258,6 +265,7 @@ cpcalendars.sscollegekhulna.edu.bd
 cpcalendars.ssrm.edu.bd
 cpcalendars.supc.edu.bd
 cpcalendars.surmahsc.edu.bd
+cpcalendars.sylgovaliamadrasa.edu.bd
 cpcalendars.ubaucollege.edu.bd
 cpcontacts.aladipurhighschool.edu.bd
 cpcontacts.arsb.edu.bd
@@ -307,6 +315,8 @@ cpcontacts.moshoriamadrasah.edu.bd
 cpcontacts.mostafapurmadrasah.edu.bd
 cpcontacts.mprekmatalihs.edu.bd
 cpcontacts.mrmshs.edu.bd
+cpcontacts.nagrakura.edu.bd
+cpcontacts.nhsc.edu.bd
 cpcontacts.pcpsc.edu.bd
 cpcontacts.pgmsc.edu.bd
 cpcontacts.ppsmralimmadrasah.edu.bd
@@ -327,6 +337,7 @@ cpcontacts.sscollegekhulna.edu.bd
 cpcontacts.ssrm.edu.bd
 cpcontacts.supc.edu.bd
 cpcontacts.surmahsc.edu.bd
+cpcontacts.sylgovaliamadrasa.edu.bd
 cpcontacts.ubaucollege.edu.bd
 csdc.edu.bd
 cse.bu.edu.bd
@@ -583,6 +594,8 @@ mail.mostafapurmadrasah.edu.bd
 mail.mprekmatalihs.edu.bd
 mail.mrmshs.edu.bd
 mail.muidmpalishara.edu.bd
+mail.nagrakura.edu.bd
+mail.nhsc.edu.bd
 mail.osmaniakamilmadrasah.edu.bd
 mail.pcpsc.edu.bd
 mail.pgmsc.edu.bd
@@ -611,6 +624,7 @@ mail.sscollegekhulna.edu.bd
 mail.ssrm.edu.bd
 mail.supc.edu.bd
 mail.surmahsc.edu.bd
+mail.sylgovaliamadrasa.edu.bd
 mail.tass.edu.bd
 mail.tsbhs.edu.bd
 mail.ubaucollege.edu.bd
@@ -624,6 +638,7 @@ mgh.edu.bd
 mgmgdc.edu.bd
 mighs.edu.bd
 mihs.edu.bd
+mikm.edu.bd
 misiraaghs.edu.bd
 mmidm.edu.bd
 mmoznumiahacademy.edu.bd
@@ -647,7 +662,9 @@ mugmc.edu.bd
 muidmpalishara.edu.bd
 mujibcollege.edu.bd
 nababidhangirlsschool.edu.bd
+nagrakura.edu.bd
 nahsk.edu.bd
+nhsc.edu.bd
 nnhdifm.edu.bd
 noakhalihighschool.edu.bd
 nowaparamadhyamikbidayalaya.edu.bd
@@ -793,6 +810,7 @@ supc.edu.bd
 surmahsc.edu.bd
 sutrapurahs.edu.bd
 swmc.edu.bd
+sylgovaliamadrasa.edu.bd
 t.mahhs.edu.bd
 tajpurcollege.edu.bd
 taltahs.edu.bd
@@ -808,6 +826,7 @@ tsbhs.edu.bd
 tscjhalokathi.edu.bd
 tuca.edu.bd
 ubaucollege.edu.bd
+ucbt.edu.bd
 uchakhilahss.edu.bd
 uhs.edu.bd
 ukkhs.edu.bd
@@ -864,6 +883,8 @@ webdisk.moshoriamadrasah.edu.bd
 webdisk.mostafapurmadrasah.edu.bd
 webdisk.mprekmatalihs.edu.bd
 webdisk.mrmshs.edu.bd
+webdisk.nagrakura.edu.bd
+webdisk.nhsc.edu.bd
 webdisk.pcpsc.edu.bd
 webdisk.pgmsc.edu.bd
 webdisk.ppsmralimmadrasah.edu.bd
@@ -885,6 +906,7 @@ webdisk.sscollegekhulna.edu.bd
 webdisk.ssrm.edu.bd
 webdisk.supc.edu.bd
 webdisk.surmahsc.edu.bd
+webdisk.sylgovaliamadrasa.edu.bd
 webdisk.ubaucollege.edu.bd
 webmail.aladipurhighschool.edu.bd
 webmail.apbncd.edu.bd
@@ -936,6 +958,8 @@ webmail.moshoriamadrasah.edu.bd
 webmail.mostafapurmadrasah.edu.bd
 webmail.mprekmatalihs.edu.bd
 webmail.mrmshs.edu.bd
+webmail.nagrakura.edu.bd
+webmail.nhsc.edu.bd
 webmail.pcpsc.edu.bd
 webmail.pgmsc.edu.bd
 webmail.ppsmralimmadrasah.edu.bd
@@ -956,6 +980,7 @@ webmail.sscollegekhulna.edu.bd
 webmail.ssrm.edu.bd
 webmail.supc.edu.bd
 webmail.surmahsc.edu.bd
+webmail.sylgovaliamadrasa.edu.bd
 webmail.ubaucollege.edu.bd
 www.academic.shuhilpurhs.edu.bd
 www.accounting.tejgaoncollege.edu.bd
@@ -1119,8 +1144,10 @@ www.mostafapurmadrasah.edu.bd
 www.mprekmatalihs.edu.bd
 www.mrmshs.edu.bd
 www.muidmpalishara.edu.bd
+www.nagrakura.edu.bd
 www.nahsk.edu.bd
 www.natunkurischool.holyfamilyschool.edu.bd
+www.nhsc.edu.bd
 www.nuhsk.edu.bd
 www.numlhs.edu.bd
 www.office.mmsc.edu.bd
@@ -1191,6 +1218,7 @@ www.sscollegekhulna.edu.bd
 www.ssrm.edu.bd
 www.supc.edu.bd
 www.surmahsc.edu.bd
+www.sylgovaliamadrasa.edu.bd
 www.tass.edu.bd
 www.test.bbch.edu.bd
 www.ticket.just.edu.bd
