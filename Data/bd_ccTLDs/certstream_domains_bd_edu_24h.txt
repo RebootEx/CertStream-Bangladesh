@@ -3,6 +3,7 @@ academic.ttuc.edu.bd
 acas.edu.bd
 admin.acas.edu.bd
 admin.sof.edu.bd
+admission.lftiam.edu.bd
 admission.lftiam.lftiam.edu.bd
 admission.mpsc.edu.bd
 akkddm.edu.bd
@@ -20,6 +21,7 @@ bhghs.edu.bd
 bjae.bau.edu.bd
 bskm.edu.bd
 bubn.edu.bd
+cambrian.edu.bd
 cdam.edu.bd
 chaderhathighschool.edu.bd
 chemidoluhs.edu.bd
@@ -29,6 +31,7 @@ cpanel.idc.edu.bd
 cpanel.jahidpurmadrasah.edu.bd
 cpanel.kdm.edu.bd
 cpanel.mors.edu.bd
+cpanel.nbiu.edu.bd
 cpanel.pbrhs.edu.bd
 cpanel.salimullahcollege.edu.bd
 cpay.sof.edu.bd
@@ -37,6 +40,7 @@ cpcalendars.idc.edu.bd
 cpcalendars.jahidpurmadrasah.edu.bd
 cpcalendars.kdm.edu.bd
 cpcalendars.mors.edu.bd
+cpcalendars.nbiu.edu.bd
 cpcalendars.pbrhs.edu.bd
 cpcalendars.salimullahcollege.edu.bd
 cpcontacts.dee.edu.bd
@@ -44,6 +48,7 @@ cpcontacts.idc.edu.bd
 cpcontacts.jahidpurmadrasah.edu.bd
 cpcontacts.kdm.edu.bd
 cpcontacts.mors.edu.bd
+cpcontacts.nbiu.edu.bd
 cpcontacts.pbrhs.edu.bd
 cpcontacts.salimullahcollege.edu.bd
 crac.edu.bd
@@ -57,6 +62,7 @@ dmashs.edu.bd
 doailhs.edu.bd
 drmuic.edu.bd
 edm.edu.bd
+ems.nhmsc.edu.bd
 esc.mrdhs.edu.bd
 eugsc.edu.bd
 ftp.nmjhsc.edu.bd
@@ -84,6 +90,7 @@ kkmdm.edu.bd
 kndm.edu.bd
 krishnapurkdm.edu.bd
 kutumbapurhs.edu.bd
+luxmischool.edu.bd
 mail.cambrian.edu.bd
 mail.cissmb.edu.bd
 mail.dee.edu.bd
@@ -92,6 +99,7 @@ mail.jahidpurmadrasah.edu.bd
 mail.jamunahs.edu.bd
 mail.kdm.edu.bd
 mail.mors.edu.bd
+mail.nbiu.edu.bd
 mail.nmjhsc.edu.bd
 mail.pbrhs.edu.bd
 mail.rameswarpurhs.edu.bd
@@ -106,6 +114,7 @@ mokaramadrasha.edu.bd
 mors.edu.bd
 mrdhs.edu.bd
 nayagolahs.edu.bd
+nbiu.edu.bd
 ndmkalimullah.edu.bd
 nhmgdc.edu.bd
 nhmsc.edu.bd
@@ -134,6 +143,7 @@ shhsp.edu.bd
 shsf.edu.bd
 sjughs.edu.bd
 skhsb.edu.bd
+smrh.just.edu.bd
 smssmagura.edu.bd
 smtsc.edu.bd
 sonapatilahs.edu.bd
@@ -153,6 +163,7 @@ webdisk.idc.edu.bd
 webdisk.jahidpurmadrasah.edu.bd
 webdisk.kdm.edu.bd
 webdisk.mors.edu.bd
+webdisk.nbiu.edu.bd
 webdisk.pbrhs.edu.bd
 webdisk.salimullahcollege.edu.bd
 webmail.dee.edu.bd
@@ -160,11 +171,13 @@ webmail.idc.edu.bd
 webmail.jahidpurmadrasah.edu.bd
 webmail.kdm.edu.bd
 webmail.mors.edu.bd
+webmail.nbiu.edu.bd
 webmail.pbrhs.edu.bd
 webmail.salimullahcollege.edu.bd
 wmahs.edu.bd
 www.abnv.edu.bd
 www.academic.ttuc.edu.bd
+www.admission.lftiam.edu.bd
 www.admission.lftiam.lftiam.edu.bd
 www.admission.mpsc.edu.bd
 www.akkddm.edu.bd
@@ -177,6 +190,7 @@ www.bbuhschool.edu.bd
 www.bcc.mhmbc.edu.bd
 www.bskm.edu.bd
 www.bubn.edu.bd
+www.cambrian.edu.bd
 www.cdam.edu.bd
 www.cissmb.edu.bd
 www.crbdm.edu.bd
@@ -199,6 +213,7 @@ www.maudm.edu.bd
 www.mhmbc.edu.bd
 www.mokaramadrasha.edu.bd
 www.mors.edu.bd
+www.nbiu.edu.bd
 www.ndmkalimullah.edu.bd
 www.nhmgdc.edu.bd
 www.nmjhsc.edu.bd
@@ -218,6 +233,7 @@ www.shhsp.edu.bd
 www.shsf.edu.bd
 www.sjughs.edu.bd
 www.skhsb.edu.bd
+www.smrh.just.edu.bd
 www.smssmagura.edu.bd
 www.smtsc.edu.bd
 www.sonapatilahs.edu.bd
