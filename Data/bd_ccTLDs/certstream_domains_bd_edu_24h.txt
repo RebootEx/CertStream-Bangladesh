@@ -40,6 +40,7 @@ cpanel.nmpuachs.edu.bd
 cpanel.pgmphs.edu.bd
 cpanel.pragotihsc.edu.bd
 cpanel.raachs.edu.bd
+cpanel.ric.edu.bd
 cpanel.safatullahhsb.edu.bd
 cpcalendars.bikm.edu.bd
 cpcalendars.bmhsfeni.edu.bd
@@ -55,6 +56,7 @@ cpcalendars.nmpuachs.edu.bd
 cpcalendars.pgmphs.edu.bd
 cpcalendars.pragotihsc.edu.bd
 cpcalendars.raachs.edu.bd
+cpcalendars.ric.edu.bd
 cpcalendars.safatullahhsb.edu.bd
 cpcontacts.bikm.edu.bd
 cpcontacts.bmhsfeni.edu.bd
@@ -70,10 +72,12 @@ cpcontacts.nmpuachs.edu.bd
 cpcontacts.pgmphs.edu.bd
 cpcontacts.pragotihsc.edu.bd
 cpcontacts.raachs.edu.bd
+cpcontacts.ric.edu.bd
 cpcontacts.safatullahhsb.edu.bd
 csahs.edu.bd
 cse.uits.edu.bd
 cybertech.edu.bd
+dhulatiardm.edu.bd
 dimc.edu.bd
 dinarpurdm.edu.bd
 drmsicollege.edu.bd
@@ -88,6 +92,7 @@ hphscs.edu.bd
 hss.edu.bd
 idp.sau.edu.bd
 iscm.edu.bd
+katniaakhs.edu.bd
 kbpchs.edu.bd
 ketrangahighschool.edu.bd
 kjahs.edu.bd
@@ -109,6 +114,7 @@ mail.paglahighschool.edu.bd
 mail.pgmphs.edu.bd
 mail.pragotihsc.edu.bd
 mail.raachs.edu.bd
+mail.ric.edu.bd
 mail.safatullahhsb.edu.bd
 manager.bghs104055.edu.bd
 mas.cgs.edu.bd
@@ -125,6 +131,7 @@ nmpuachs.edu.bd
 osc.edu.bd
 paglahighschool.edu.bd
 paruliasssecondaryschool.edu.bd
+patbmc.edu.bd
 pbdm1998.edu.bd
 pdhs.edu.bd
 pdhs.edu.bd.chalitaghatasgm.edu.bd
@@ -139,16 +146,19 @@ profile.rmc.edu.bd
 raachs.edu.bd
 rangiaghonamonsuriafazilmadrasah.edu.bd
 real.snbghs.edu.bd
+ric.edu.bd
 s.bardalhs.edu.bd
 s.bosonitolahs.edu.bd
 s.cbmb.edu.bd
 s.mjhs.edu.bd
 s.nkmins.edu.bd
 safatullahhsb.edu.bd
+salim.arambaghsc.edu.bd
 school.lalkuthigsc.edu.bd
 server-thailand.gccc.edu.bd
 shalbahanblghs.edu.bd
 singerdabrigirlhs.edu.bd
+smdmsat.edu.bd
 sonarparahighschool.edu.bd
 stamforduniversity.edu.bd
 tagirlshighschool.edu.bd
@@ -167,6 +177,7 @@ webdisk.nmpuachs.edu.bd
 webdisk.pgmphs.edu.bd
 webdisk.pragotihsc.edu.bd
 webdisk.raachs.edu.bd
+webdisk.ric.edu.bd
 webdisk.safatullahhsb.edu.bd
 webmail.bikm.edu.bd
 webmail.bmhsfeni.edu.bd
@@ -182,6 +193,7 @@ webmail.nmpuachs.edu.bd
 webmail.pgmphs.edu.bd
 webmail.pragotihsc.edu.bd
 webmail.raachs.edu.bd
+webmail.ric.edu.bd
 webmail.safatullahhsb.edu.bd
 www.admission.lftiam.edu.bd
 www.amirabadss.edu.bd
@@ -208,6 +220,7 @@ www.momchan.edu.bd
 www.msa130518.edu.bd
 www.nmpuachs.edu.bd
 www.paglahighschool.edu.bd
+www.patbmc.edu.bd
 www.pdhs.edu.bd.chalitaghatasgm.edu.bd
 www.pgmphs.edu.bd
 www.portal.rpmc.edu.bd
@@ -215,12 +228,14 @@ www.pragotihsc.edu.bd
 www.profile.rmc.edu.bd
 www.raachs.edu.bd
 www.real.snbghs.edu.bd
+www.ric.edu.bd
 www.s.bardalhs.edu.bd
 www.s.bosonitolahs.edu.bd
 www.s.cbmb.edu.bd
 www.s.mjhs.edu.bd
 www.s.nkmins.edu.bd
 www.safatullahhsb.edu.bd
+www.salim.arambaghsc.edu.bd
 www.shalbahanblghs.edu.bd
 www.singerdabrigirlhs.edu.bd
 www.tagirlshighschool.edu.bd.pmndm.edu.bd
