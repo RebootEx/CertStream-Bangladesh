@@ -5,7 +5,6 @@ alutila-api.dc-khagrachhari.gov.bd
 amr.cdc.gov.bd
 amtalimunicipality.gov.bd
 api.bfacf-ticket.gov.bd
-app.jhalokathimunicipality.gov.bd
 asi.dfsrcaab.gov.bd
 autodiscover.cbb.gov.bd
 autodiscover.nsi.gov.bd
@@ -26,7 +25,6 @@ cbb.gov.bd
 cbraj.gov.bd
 cevappealdhaka2.gov.bd
 chuadangacollege.gov.bd
-cltp.gov.bd
 cpanel.cbb.gov.bd
 cpanel.tseogulshan.gov.bd
 cpcalendars.cbb.gov.bd
@@ -47,7 +45,6 @@ emergencynutrition.gov.bd
 eregistration.gov.bd
 erp.bakshiganjpourashava.gov.bd
 estore.bsc.gov.bd
-etds.gov.bd
 etender.comillaboard.gov.bd
 ex01.nsi.gov.bd
 ex02.nsi.gov.bd
@@ -59,7 +56,6 @@ grsreport.karmasangsthanbank.gov.bd
 hajj.gov.bd
 home.gnc.gov.bd
 image.rdodterangpur.gov.bd
-internal.startupsummit.gov.bd
 jamalpurttc.gov.bd
 jhalokathimunicipality.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -85,16 +81,13 @@ ncc.gov.bd
 ndc.gov.bd
 nem.powerdivision.gov.bd
 nemoffice.powerdivision.gov.bd
-nesco.gov.bd
 news.dcarangpur.gov.bd
 ngosavar.gov.bd
-nilphamarittc.gov.bd
 nnsop.gov.bd
 notarypublic.gov.bd
 nsdi.gov.bd
 nttc.gov.bd
 nuralapurup.narsingdilg.gov.bd
-nutritionprofile.gov.bd
 nwpgcl.gov.bd
 old.dghs.gov.bd
 ops.caab.gov.bd
@@ -102,6 +95,7 @@ panchagarhmunicipality.gov.bd
 payment.ekshop.gov.bd
 practical.bise-ctg.gov.bd
 rajbaripourashava.gov.bd
+ranisankailpourashava.gov.bd
 rd.ictbdiasms.gov.bd
 rfm.beza.gov.bd
 rpi.gov.bd
@@ -117,6 +111,7 @@ smsgateway.comillaboard.gov.bd
 soms.gov.bd
 srdl.gov.bd
 ssf.gov.bd
+sujanagarmunicipality.gov.bd
 sundalpurup.gov.bd
 taloramunicipality.gov.bd
 taxeszone16dhaka.gov.bd
@@ -127,7 +122,6 @@ taxeszone4ctg.gov.bd
 taxeszonecumilla.gov.bd
 taxofficemanagement.gov.bd
 tca.cca.gov.bd
-touristpolice.gov.bd
 tphsbagmara.gov.bd
 tseogulshan.gov.bd
 ttc.gov.bd
