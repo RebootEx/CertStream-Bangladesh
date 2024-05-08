@@ -21,11 +21,13 @@ ahmadndm.edu.bd
 aiam.mbndm.edu.bd
 akhrailhs.edu.bd
 akkddm.edu.bd
+akkelpurghs.edu.bd
 akmahs.edu.bd
 aksfm.edu.bd
 aladipurhighschool.edu.bd
 aleyaazamcollege.edu.bd
 alhs.edu.bd
+alinagarghs.edu.bd
 amhsc.edu.bd
 amirabadss.edu.bd
 ammrhschool.edu.bd
@@ -211,6 +213,7 @@ cpanel.kdm.edu.bd
 cpanel.ketrangahighschool.edu.bd
 cpanel.kfm.edu.bd
 cpanel.kmlhschool.edu.bd
+cpanel.kumrikatajanghs.edu.bd
 cpanel.kushadangahs.edu.bd
 cpanel.lalabazarfm.edu.bd
 cpanel.ldm.edu.bd
@@ -301,6 +304,7 @@ cpcalendars.kdm.edu.bd
 cpcalendars.ketrangahighschool.edu.bd
 cpcalendars.kfm.edu.bd
 cpcalendars.kmlhschool.edu.bd
+cpcalendars.kumrikatajanghs.edu.bd
 cpcalendars.kushadangahs.edu.bd
 cpcalendars.lalabazarfm.edu.bd
 cpcalendars.ldm.edu.bd
@@ -390,6 +394,7 @@ cpcontacts.kdm.edu.bd
 cpcontacts.ketrangahighschool.edu.bd
 cpcontacts.kfm.edu.bd
 cpcontacts.kmlhschool.edu.bd
+cpcontacts.kumrikatajanghs.edu.bd
 cpcontacts.kushadangahs.edu.bd
 cpcontacts.lalabazarfm.edu.bd
 cpcontacts.ldm.edu.bd
@@ -471,6 +476,7 @@ demo.ssmcollege.edu.bd
 demo.sylhetcpsc.edu.bd
 demodepartmentportal.diu.edu.bd
 demoteacherportal.diu.edu.bd
+dev.asiannursing.edu.bd
 dev.sckeps.edu.bd
 dgbn.edu.bd
 dgmshs.edu.bd
@@ -660,6 +666,7 @@ krishnapurkdm.edu.bd
 krishnercharhighschool.edu.bd
 kthschool.edu.bd
 kumarkhalifazilmadrasah.edu.bd
+kumrikatajanghs.edu.bd
 kushadangahs.edu.bd
 kutumbapurhs.edu.bd
 kwamsc.edu.bd
@@ -707,11 +714,13 @@ mail.cmhss.edu.bd
 mail.cnuhs.edu.bd
 mail.csahs.edu.bd
 mail.dasadikamilmadrasha.edu.bd
+mail.dashuriammhighschool.edu.bd
 mail.dauss.edu.bd
 mail.dee.edu.bd
 mail.dgbn.edu.bd
 mail.dinarpurdm.edu.bd
 mail.dkmhc.edu.bd
+mail.doailhs.edu.bd
 mail.faiyazscr.edu.bd
 mail.fphs.edu.bd
 mail.garparahs.edu.bd
@@ -743,10 +752,12 @@ mail.kkmdm.edu.bd
 mail.kmlhschool.edu.bd
 mail.kpmhs.edu.bd
 mail.krishnercharhighschool.edu.bd
+mail.kumrikatajanghs.edu.bd
 mail.kushadangahs.edu.bd
 mail.lalabazarfm.edu.bd
 mail.ldm.edu.bd
 mail.lsc.edu.bd
+mail.luxmischool.edu.bd
 mail.mhsp.edu.bd
 mail.mihs.edu.bd
 mail.misiraaghs.edu.bd
@@ -1069,6 +1080,7 @@ talbariacollege.edu.bd
 tamins.edu.bd
 tarkandaghsk.edu.bd
 tass.edu.bd
+tasullahighschool.edu.bd
 tejgaoncollege.edu.bd
 tetarahighschool.edu.bd
 tgbhs.edu.bd
@@ -1135,6 +1147,7 @@ webdisk.kdm.edu.bd
 webdisk.ketrangahighschool.edu.bd
 webdisk.kfm.edu.bd
 webdisk.kmlhschool.edu.bd
+webdisk.kumrikatajanghs.edu.bd
 webdisk.kushadangahs.edu.bd
 webdisk.lalabazarfm.edu.bd
 webdisk.ldm.edu.bd
@@ -1227,6 +1240,7 @@ webmail.kdm.edu.bd
 webmail.ketrangahighschool.edu.bd
 webmail.kfm.edu.bd
 webmail.kmlhschool.edu.bd
+webmail.kumrikatajanghs.edu.bd
 webmail.kushadangahs.edu.bd
 webmail.lalabazarfm.edu.bd
 webmail.ldm.edu.bd
@@ -1362,18 +1376,21 @@ www.cse.uits.edu.bd
 www.cvghs.edu.bd
 www.dakshinnagardndm.edu.bd
 www.dasadikamilmadrasha.edu.bd
+www.dashuriammhighschool.edu.bd
 www.dauss.edu.bd
 www.dayamircollege.edu.bd
 www.dbdm.edu.bd.bhssabmc.edu.bd
 www.dcdm.edu.bd.bhssabmc.edu.bd
 www.dee.edu.bd
 www.demo.ssmcollege.edu.bd
+www.dev.asiannursing.edu.bd
 www.dev.sckeps.edu.bd
 www.dgbn.edu.bd
 www.dhc.edu.bd
 www.dinarpurdm.edu.bd
 www.dkmhc.edu.bd
 www.dmashs.edu.bd
+www.doailhs.edu.bd
 www.dtdm.edu.bd
 www.eastdelta.edu.bd
 www.ecrc.ist.edu.bd
@@ -1445,6 +1462,7 @@ www.kndm.edu.bd
 www.kpmhs.edu.bd
 www.krishnapurkdm.edu.bd
 www.krishnercharhighschool.edu.bd
+www.kumrikatajanghs.edu.bd
 www.kushadangahs.edu.bd
 www.kwdm.edu.bd.dcjidm.edu.bd
 www.lalabazarfm.edu.bd
@@ -1452,6 +1470,7 @@ www.laravel10.presidencybd.edu.bd
 www.ldm.edu.bd
 www.legacy.ist.edu.bd
 www.lsc.edu.bd
+www.luxmischool.edu.bd
 www.m.bisam.edu.bd
 www.m.opdm.edu.bd
 www.maadm.edu.bd

@@ -5,8 +5,10 @@ alutila-api.dc-khagrachhari.gov.bd
 amr.cdc.gov.bd
 amtalimunicipality.gov.bd
 api.bfacf-ticket.gov.bd
+api.bscl.gov.bd
 artisan.gov.bd
 asi.dfsrcaab.gov.bd
+autodiscover.bmdbwcsrp.gov.bd
 autodiscover.cbb.gov.bd
 autodiscover.nsi.gov.bd
 autodiscover.tseogulshan.gov.bd
@@ -18,6 +20,7 @@ belkuchipoura.gov.bd
 betagimunicipality.gov.bd
 bise-ctg.gov.bd
 bkttcdhaka.gov.bd
+bmdbwcsrp.gov.bd
 borhamganjcollege.gov.bd
 bpmis.bsc.gov.bd
 bsp.brta.gov.bd
@@ -26,10 +29,13 @@ cbb.gov.bd
 cbraj.gov.bd
 cevappealdhaka2.gov.bd
 chuadangacollege.gov.bd
+cpanel.bmdbwcsrp.gov.bd
 cpanel.cbb.gov.bd
 cpanel.tseogulshan.gov.bd
+cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.cbb.gov.bd
 cpcalendars.tseogulshan.gov.bd
+cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.cbb.gov.bd
 cpcontacts.tseogulshan.gov.bd
 crelic-lged.gov.bd
@@ -67,6 +73,7 @@ konnakotha.cca.gov.bd
 lakshmipurpourashava.gov.bd
 logistics.gov.bd
 lutercharup.gov.bd
+mail.bmdbwcsrp.gov.bd
 mail.cbb.gov.bd
 mail.nsi.gov.bd
 mail.tc.dghs.gov.bd
@@ -127,14 +134,17 @@ tphsbagmara.gov.bd
 tseogulshan.gov.bd
 ttc.gov.bd
 turn.vc8.bcc.gov.bd
+tvr.bscl.gov.bd
 useoishwarganj.gov.bd
 vcsavar.gov.bd
 virtualclass.gov.bd
 vmgttest.beza.gov.bd
 vote.thakpoly.gov.bd
 vtti.gov.bd
+webdisk.bmdbwcsrp.gov.bd
 webdisk.cbb.gov.bd
 webdisk.tseogulshan.gov.bd
+webmail.bmdbwcsrp.gov.bd
 webmail.cbb.gov.bd
 webmail.sskmc.gov.bd
 webmail.tseogulshan.gov.bd
@@ -146,6 +156,7 @@ www.artisan.gov.bd
 www.asi.dfsrcaab.gov.bd
 www.bcsi.gov.bd
 www.bkttcdhaka.gov.bd
+www.bmdbwcsrp.gov.bd
 www.bsp.brta.gov.bd
 www.burichangsadarup.gov.bd
 www.cbb.gov.bd
