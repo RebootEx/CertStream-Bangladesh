@@ -43,6 +43,7 @@ cmhsdinj.edu.bd
 cpanel.boutube.edu.bd
 cpanel.charbandarfm.edu.bd
 cpanel.dhamraigovtcollege.edu.bd
+cpanel.dhumghschool.edu.bd
 cpanel.dinajpurzillaschool.edu.bd
 cpanel.donboscocollege.edu.bd
 cpanel.hawchs.edu.bd
@@ -55,6 +56,7 @@ cpanel.rmdm.edu.bd
 cpcalendars.boutube.edu.bd
 cpcalendars.charbandarfm.edu.bd
 cpcalendars.dhamraigovtcollege.edu.bd
+cpcalendars.dhumghschool.edu.bd
 cpcalendars.dinajpurzillaschool.edu.bd
 cpcalendars.hawchs.edu.bd
 cpcalendars.hkhs.edu.bd
@@ -64,6 +66,7 @@ cpcalendars.rmdm.edu.bd
 cpcontacts.boutube.edu.bd
 cpcontacts.charbandarfm.edu.bd
 cpcontacts.dhamraigovtcollege.edu.bd
+cpcontacts.dhumghschool.edu.bd
 cpcontacts.dinajpurzillaschool.edu.bd
 cpcontacts.hawchs.edu.bd
 cpcontacts.hkhs.edu.bd
@@ -80,6 +83,7 @@ dgghs.edu.bd
 dhamraigovtcollege.edu.bd
 dhanjailhs.edu.bd
 dhobadangahs.edu.bd
+dhumghschool.edu.bd
 dias.dbuhs.edu.bd
 dinajpurzillaschool.edu.bd
 donboscocollege.edu.bd
@@ -133,6 +137,7 @@ joynandagirlshighschool.edu.bd
 jtmc.edu.bd
 juc.edu.bd
 kachugarifhs.edu.bd
+kbmhspc.edu.bd
 kbnhighschool.edu.bd
 khsc.edu.bd
 kkdm.edu.bd
@@ -160,6 +165,7 @@ mail.ctggghs.edu.bd
 mail.cufsc.edu.bd
 mail.daragramhs.edu.bd
 mail.dhamraigovtcollege.edu.bd
+mail.dhumghschool.edu.bd
 mail.dinajpurzillaschool.edu.bd
 mail.donboscocollege.edu.bd
 mail.gmhsctg.edu.bd
@@ -177,6 +183,7 @@ mail.jmsensc.edu.bd
 mail.jtmc.edu.bd
 mail.khsc.edu.bd
 mail.kpujhs2002.edu.bd
+mail.mangalkatahighschool.edu.bd
 mail.mstpsc.edu.bd
 mail.nghsctg.edu.bd
 mail.noghs.edu.bd
@@ -186,6 +193,7 @@ mail.rmdm.edu.bd
 mail.sibsc.edu.bd
 mail.tcti.edu.bd
 mail.tspschool.edu.bd
+mangalkatahighschool.edu.bd
 mba.primeasia.edu.bd
 meghaimmbpdm.edu.bd
 mhsp.edu.bd
@@ -219,6 +227,7 @@ s.dcahs.edu.bd
 s.harikhalihs.edu.bd
 s.lathigonjhsc.edu.bd
 s.mohicharonmlhighschool.edu.bd
+s.shaikhs.edu.bd
 s.sultanpurhs.edu.bd
 sadmkawkhali.edu.bd
 salthagovtcollege.edu.bd
@@ -252,6 +261,7 @@ uttarkethrangaidm.edu.bd
 webdisk.boutube.edu.bd
 webdisk.charbandarfm.edu.bd
 webdisk.dhamraigovtcollege.edu.bd
+webdisk.dhumghschool.edu.bd
 webdisk.dinajpurzillaschool.edu.bd
 webdisk.donboscocollege.edu.bd
 webdisk.hawchs.edu.bd
@@ -262,6 +272,7 @@ webdisk.rmdm.edu.bd
 webmail.boutube.edu.bd
 webmail.charbandarfm.edu.bd
 webmail.dhamraigovtcollege.edu.bd
+webmail.dhumghschool.edu.bd
 webmail.dinajpurzillaschool.edu.bd
 webmail.hawchs.edu.bd
 webmail.hkhs.edu.bd
@@ -298,6 +309,7 @@ www.cuc.edu.bd
 www.cufsc.edu.bd
 www.dhamraigovtcollege.edu.bd
 www.dhanjailhs.edu.bd.bakapurhighschool.edu.bd
+www.dhumghschool.edu.bd
 www.dias.dbuhs.edu.bd
 www.dinajpurzillaschool.edu.bd
 www.donboscocollege.edu.bd
@@ -344,6 +356,7 @@ www.jhrcdb.edu.bd
 www.jmsensc.edu.bd
 www.joynandagirlshighschool.edu.bd
 www.jtmc.edu.bd
+www.kbmhspc.edu.bd
 www.khsc.edu.bd
 www.kpujhs2002.edu.bd
 www.krishnakathi.edu.bd
@@ -353,6 +366,7 @@ www.mail.bdcip.edu.bd
 www.mail.hmjacc.edu.bd
 www.mail.iims.balokdiarhs.edu.bd
 www.mail.iims.bdcip.edu.bd
+www.mangalkatahighschool.edu.bd
 www.mba.primeasia.edu.bd
 www.mhsp.edu.bd
 www.midc.edu.bd
@@ -375,6 +389,7 @@ www.s.dcahs.edu.bd
 www.s.harikhalihs.edu.bd
 www.s.lathigonjhsc.edu.bd
 www.s.mohicharonmlhighschool.edu.bd
+www.s.shaikhs.edu.bd
 www.s.sultanpurhs.edu.bd
 www.sarghsp.edu.bd
 www.sarishabaricollege.edu.bd
