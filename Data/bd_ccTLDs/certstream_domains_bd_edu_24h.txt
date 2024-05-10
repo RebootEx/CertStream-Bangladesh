@@ -35,6 +35,7 @@ cpanel.dauhs.edu.bd
 cpanel.dhahs.edu.bd
 cpanel.digholiahighschool.edu.bd
 cpanel.gaburdiahighschool.edu.bd
+cpanel.goragramhs.edu.bd
 cpanel.govtbarcollege.edu.bd
 cpanel.kdum.edu.bd
 cpanel.khanjahanalihighschool.edu.bd
@@ -49,6 +50,7 @@ cpcalendars.dauhs.edu.bd
 cpcalendars.dhahs.edu.bd
 cpcalendars.digholiahighschool.edu.bd
 cpcalendars.gaburdiahighschool.edu.bd
+cpcalendars.goragramhs.edu.bd
 cpcalendars.govtbarcollege.edu.bd
 cpcalendars.kdum.edu.bd
 cpcalendars.khanjahanalihighschool.edu.bd
@@ -63,6 +65,7 @@ cpcontacts.dauhs.edu.bd
 cpcontacts.dhahs.edu.bd
 cpcontacts.digholiahighschool.edu.bd
 cpcontacts.gaburdiahighschool.edu.bd
+cpcontacts.goragramhs.edu.bd
 cpcontacts.govtbarcollege.edu.bd
 cpcontacts.kdum.edu.bd
 cpcontacts.khanjahanalihighschool.edu.bd
@@ -100,6 +103,7 @@ gaznapurnachandramlhighschool.edu.bd
 gbhighschool.edu.bd
 ghopghathighschool.edu.bd
 gobindaganjgc.edu.bd
+goragramhs.edu.bd
 govtbarcollege.edu.bd
 gphs1972.edu.bd
 gsc.edu.bd
@@ -134,6 +138,7 @@ mail.dauhs.edu.bd
 mail.dhahs.edu.bd
 mail.digholiahighschool.edu.bd
 mail.gaburdiahighschool.edu.bd
+mail.goragramhs.edu.bd
 mail.govtbarcollege.edu.bd
 mail.kdum.edu.bd
 mail.khanjahanalihighschool.edu.bd
@@ -145,6 +150,7 @@ mail.smcraj.edu.bd
 mangalkatahighschool.edu.bd
 mgsc.edu.bd
 mhsp.edu.bd
+mnkhs.edu.bd
 mssb.edu.bd
 nagarkandisaptapallisecondaryschool.edu.bd
 nasc.acc.edu.bd
@@ -154,8 +160,10 @@ old.itclub.acc.edu.bd
 old.ssmcollege.edu.bd
 oms.sau.edu.bd
 pancheyhighschool.edu.bd
+paradise.moniraazimacademy.edu.bd
 pd.daffodilvarsity.edu.bd
 pgcbschool.edu.bd
+pgmc.edu.bd
 playpen.edu.bd
 process.dauhs.edu.bd
 rcs.edu.bd
@@ -184,6 +192,7 @@ webdisk.dauhs.edu.bd
 webdisk.dhahs.edu.bd
 webdisk.digholiahighschool.edu.bd
 webdisk.gaburdiahighschool.edu.bd
+webdisk.goragramhs.edu.bd
 webdisk.govtbarcollege.edu.bd
 webdisk.kdum.edu.bd
 webdisk.mssb.edu.bd
@@ -197,6 +206,7 @@ webmail.dauhs.edu.bd
 webmail.dhahs.edu.bd
 webmail.digholiahighschool.edu.bd
 webmail.gaburdiahighschool.edu.bd
+webmail.goragramhs.edu.bd
 webmail.govtbarcollege.edu.bd
 webmail.kdum.edu.bd
 webmail.khanjahanalihighschool.edu.bd
@@ -225,6 +235,7 @@ www.ems.nayaparaalhajnobihossainhighschool.edu.bd
 www.epayment.primeasia.edu.bd
 www.gabukhalihs.gcdm.edu.bd
 www.gaburdiahighschool.edu.bd
+www.goragramhs.edu.bd
 www.govtbarcollege.edu.bd
 www.jobs.suchiparadegreecollege.edu.bd
 www.kalibarihs.edu.bd
@@ -238,6 +249,7 @@ www.mssb.edu.bd
 www.nagarkandisaptapallisecondaryschool.edu.bd
 www.old.itclub.acc.edu.bd
 www.old.ssmcollege.edu.bd
+www.paradise.moniraazimacademy.edu.bd
 www.playpen.edu.bd
 www.process.dauhs.edu.bd
 www.rcs.edu.bd
