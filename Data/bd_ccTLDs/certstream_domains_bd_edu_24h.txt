@@ -5,6 +5,7 @@ aiss.edu.bd
 api.edu.bd
 apps.dauhs.edu.bd
 autodiscover.dauhs.edu.bd
+bamuniadudm.edu.bd
 barakatalimlhighschool.edu.bd
 basdidakhilmadrasah.edu.bd
 betkatahighschool.edu.bd
@@ -20,6 +21,7 @@ convocation.gonouniversity.edu.bd
 convocation4.gonouniversity.edu.bd
 cpanel.api.edu.bd
 cpanel.blihighschool.edu.bd
+cpanel.damam.edu.bd
 cpanel.dauhs.edu.bd
 cpanel.dhahs.edu.bd
 cpanel.digholiahighschool.edu.bd
@@ -30,6 +32,7 @@ cpanel.khanjahanalihighschool.edu.bd
 cpanel.mssb.edu.bd
 cpcalendars.api.edu.bd
 cpcalendars.blihighschool.edu.bd
+cpcalendars.damam.edu.bd
 cpcalendars.dauhs.edu.bd
 cpcalendars.dhahs.edu.bd
 cpcalendars.digholiahighschool.edu.bd
@@ -40,6 +43,7 @@ cpcalendars.khanjahanalihighschool.edu.bd
 cpcalendars.mssb.edu.bd
 cpcontacts.api.edu.bd
 cpcontacts.blihighschool.edu.bd
+cpcontacts.damam.edu.bd
 cpcontacts.dauhs.edu.bd
 cpcontacts.dhahs.edu.bd
 cpcontacts.digholiahighschool.edu.bd
@@ -49,13 +53,16 @@ cpcontacts.kdum.edu.bd
 cpcontacts.khanjahanalihighschool.edu.bd
 cpcontacts.mssb.edu.bd
 dakshinbanglacollege.edu.bd
+damam.edu.bd
 dariapurdegreecollege.edu.bd
+darululoomdelduar.edu.bd
 datapulse.diu.edu.bd
 dauhs.edu.bd
 dhahs.edu.bd
 digholiahighschool.edu.bd
 distdinajpur.edu.bd
 dnrgc.edu.bd
+dpss.edu.bd
 dumainramlalhighschool.edu.bd
 ejms.daffodilvarsity.edu.bd
 epayment.primeasia.edu.bd
@@ -77,14 +84,17 @@ kalpohahighschool.edu.bd
 kanaipurhighschool.edu.bd
 kazifaridasirajhbn.edu.bd
 kdum.edu.bd
+kgc.edu.bd
 khanjahanalihighschool.edu.bd
 komorpurabdulazizinstitution.edu.bd
 krbhighschool.edu.bd
 ksigsc.edu.bd
 kssddm.edu.bd
+mahishmaracollege.edu.bd
 mail.api.edu.bd
 mail.blihighschool.edu.bd
 mail.bmekhs.edu.bd
+mail.damam.edu.bd
 mail.dauhs.edu.bd
 mail.dhahs.edu.bd
 mail.digholiahighschool.edu.bd
@@ -99,6 +109,8 @@ mgsc.edu.bd
 mhsp.edu.bd
 mssb.edu.bd
 nasc.acc.edu.bd
+neoit.edu.bd
+office.bau.edu.bd
 old.itclub.acc.edu.bd
 pancheyhighschool.edu.bd
 pd.daffodilvarsity.edu.bd
@@ -107,6 +119,7 @@ playpen.edu.bd
 process.dauhs.edu.bd
 rcs.edu.bd
 rhrush.edu.bd
+rrfdm.edu.bd
 s.aiss.edu.bd
 s.shaikhs.edu.bd
 sajuriamhs.edu.bd
@@ -118,6 +131,7 @@ tptbmc.edu.bd
 ubuhs.edu.bd
 webdisk.api.edu.bd
 webdisk.blihighschool.edu.bd
+webdisk.damam.edu.bd
 webdisk.dauhs.edu.bd
 webdisk.dhahs.edu.bd
 webdisk.digholiahighschool.edu.bd
@@ -127,6 +141,7 @@ webdisk.kdum.edu.bd
 webdisk.mssb.edu.bd
 webmail.api.edu.bd
 webmail.blihighschool.edu.bd
+webmail.damam.edu.bd
 webmail.dauhs.edu.bd
 webmail.dhahs.edu.bd
 webmail.digholiahighschool.edu.bd
@@ -141,6 +156,8 @@ www.blihighschool.edu.bd
 www.bmekhs.edu.bd
 www.convocation.bubt.edu.bd
 www.convocation.gonouniversity.edu.bd
+www.damam.edu.bd
+www.darululoomdelduar.edu.bd
 www.dauhs.edu.bd
 www.dhahs.edu.bd
 www.digholiahighschool.edu.bd
