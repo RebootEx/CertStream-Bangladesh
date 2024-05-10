@@ -278,6 +278,7 @@ autodiscover.gof.org.bd
 autodiscover.govtnacollege.edu.bd
 autodiscover.greentech.org.bd
 autodiscover.hkrhs.edu.bd
+autodiscover.ice.du.ac.bd
 autodiscover.iitb.edu.bd
 autodiscover.imax.com.bd
 autodiscover.inkmaster.com.bd
@@ -401,6 +402,7 @@ bbms.dghs.gov.bd
 bbsahc.edu.bd
 bbuhschool.edu.bd
 bcc.mhmbc.edu.bd
+bcdc.com.bd
 bcgs.edu.bd
 bcocollege.edu.bd
 bcoecopyright.gov.bd
@@ -778,6 +780,7 @@ cpanel.dsl.org.bd
 cpanel.dwrti-brur.ac.bd
 cpanel.ecs.org.bd
 cpanel.emergingtechnologies.com.bd
+cpanel.emmanuelles.com.bd
 cpanel.esab.org.bd
 cpanel.excellenttech.com.bd
 cpanel.exotic.com.bd
@@ -802,6 +805,7 @@ cpanel.hkhs.edu.bd
 cpanel.hkrhs.edu.bd
 cpanel.holy.com.bd
 cpanel.hphscs.edu.bd
+cpanel.ice.du.ac.bd
 cpanel.idc.edu.bd
 cpanel.igen.com.bd
 cpanel.iitb.edu.bd
@@ -992,6 +996,7 @@ cpcalendars.dwrti-brur.ac.bd
 cpcalendars.ecs.org.bd
 cpcalendars.edusoft.com.bd
 cpcalendars.emergingtechnologies.com.bd
+cpcalendars.emmanuelles.com.bd
 cpcalendars.esab.org.bd
 cpcalendars.excellenttech.com.bd
 cpcalendars.exotic.com.bd
@@ -1016,6 +1021,7 @@ cpcalendars.hkhs.edu.bd
 cpcalendars.hkrhs.edu.bd
 cpcalendars.holy.com.bd
 cpcalendars.hphscs.edu.bd
+cpcalendars.ice.du.ac.bd
 cpcalendars.idc.edu.bd
 cpcalendars.igen.com.bd
 cpcalendars.iitb.edu.bd
@@ -1193,6 +1199,7 @@ cpcontacts.dsl.org.bd
 cpcontacts.dwrti-brur.ac.bd
 cpcontacts.ecs.org.bd
 cpcontacts.emergingtechnologies.com.bd
+cpcontacts.emmanuelles.com.bd
 cpcontacts.esab.org.bd
 cpcontacts.excellenttech.com.bd
 cpcontacts.exotic.com.bd
@@ -1217,6 +1224,7 @@ cpcontacts.hkhs.edu.bd
 cpcontacts.hkrhs.edu.bd
 cpcontacts.holy.com.bd
 cpcontacts.hphscs.edu.bd
+cpcontacts.ice.du.ac.bd
 cpcontacts.idc.edu.bd
 cpcontacts.igen.com.bd
 cpcontacts.iitb.edu.bd
@@ -1613,6 +1621,7 @@ emc.com.bd
 emergingtechnologies.com.bd
 emiratespost.federalcustomsauth.haider.info.bd
 emiratespost.federalcustomsauthority.ae.haider.info.bd
+emmanuelles.com.bd
 employeeservice.biznify.com.bd
 employers.access.com.bd
 ems.amc.edu.bd
@@ -1684,6 +1693,7 @@ fdc.edu.bd
 feathersbd.com.championfamily.com.bd
 feedback.ekshop.gov.bd
 fem.org.bd
+feronas.com.bd
 ffs1.access.com.bd
 ffs2.access.com.bd
 ffsacc.access.com.bd
@@ -1891,6 +1901,7 @@ hycassociates.com.bd
 iasct.edu.bd
 ibank.com.bd
 ibhndm.edu.bd
+ice.du.ac.bd
 icesd.bdu.ac.bd
 ichchapuronportal.com.bd
 icml.com.bd
@@ -2383,6 +2394,7 @@ mail.edas.org.bd
 mail.edusoft.com.bd
 mail.eit.com.bd
 mail.emergingtechnologies.com.bd
+mail.emmanuelles.com.bd
 mail.esab.org.bd
 mail.excellenttech.com.bd
 mail.exotic.com.bd
@@ -2422,6 +2434,7 @@ mail.hmjacc.edu.bd
 mail.holy.com.bd
 mail.hphscs.edu.bd
 mail.humancare.com.bd
+mail.ice.du.ac.bd
 mail.icml.com.bd
 mail.icontravel.com.bd
 mail.idc.edu.bd
@@ -2694,6 +2707,7 @@ mdkamrulhasan.com.bd
 mdshafiulazam.buet.ac.bd
 mdsofttnt.com.bd
 mdzahurulislam.buet.ac.bd
+media.mke.com.bd
 mediatravels.com.bd
 medical.easyit.com.bd
 medilifehospital.com.bd
@@ -2744,6 +2758,7 @@ mkiddo.momagic.com.bd
 mkz.com.bd
 mmabdullah.com.bd
 mmh.com.bd
+mmnr.edu.bd
 mnkhsptk.edu.bd
 mob.com.bd
 mobile-lims.btrc.gov.bd
@@ -3275,6 +3290,7 @@ s.amirabadhs.edu.bd
 s.asshs.edu.bd
 s.bardalhs.edu.bd
 s.bosonitolahs.edu.bd
+s.burprisths.edu.bd
 s.cbmb.edu.bd
 s.cgsc.edu.bd
 s.dcahs.edu.bd
@@ -3566,10 +3582,12 @@ staging.ist.edu.bd
 staging.jp.arisaftech.com.bd
 stagingbd.arisaftech.com.bd
 stamforduniversity.edu.bd
+static.mke.com.bd
 steelsign.com.bd
 stocknow.com.bd
 stockphoto.com.bd
 stoptobacco.com.bd
+store.thinklabs.com.bd
 streams.moveon.com.bd
 stripe.com.bd
 studypoint.com.bd
@@ -3577,6 +3595,7 @@ stylesplash.com.bd
 stylishcollections.com.bd
 subscene.com.bd
 suchs.edu.bd
+sufians.com.bd
 sujacollege.edu.bd
 sujanagarmunicipality.gov.bd
 sukhomoyebhs.edu.bd
@@ -3688,6 +3707,7 @@ tigercart.com.bd
 tigers.com.bd
 tihdtcbproj.gov.bd
 tikrampurhs.edu.bd
+tiller.com.bd
 tithi.com.bd
 tmdc.edu.bd
 tmhsngn.edu.bd
@@ -3880,6 +3900,7 @@ webdisk.dwrti-brur.ac.bd
 webdisk.ecs.org.bd
 webdisk.edusoft.com.bd
 webdisk.emergingtechnologies.com.bd
+webdisk.emmanuelles.com.bd
 webdisk.esab.org.bd
 webdisk.excellenttech.com.bd
 webdisk.exotic.com.bd
@@ -3903,6 +3924,7 @@ webdisk.hkhs.edu.bd
 webdisk.hkrhs.edu.bd
 webdisk.holy.com.bd
 webdisk.hphscs.edu.bd
+webdisk.ice.du.ac.bd
 webdisk.idc.edu.bd
 webdisk.igen.com.bd
 webdisk.iitb.edu.bd
@@ -4090,6 +4112,7 @@ webmail.dwrti-brur.ac.bd
 webmail.ecs.org.bd
 webmail.edusoft.com.bd
 webmail.emergingtechnologies.com.bd
+webmail.emmanuelles.com.bd
 webmail.esab.org.bd
 webmail.excellenttech.com.bd
 webmail.exotic.com.bd
@@ -4116,6 +4139,7 @@ webmail.hkhs.edu.bd
 webmail.hkrhs.edu.bd
 webmail.holy.com.bd
 webmail.hphscs.edu.bd
+webmail.ice.du.ac.bd
 webmail.idc.edu.bd
 webmail.ideb.org.bd
 webmail.igen.com.bd
@@ -4709,6 +4733,7 @@ www.email.bkdcl.edu.bd
 www.emergingtechnologies.com.bd
 www.emiratespost.federalcustomsauth.haider.info.bd
 www.emiratespost.federalcustomsauthority.ae.haider.info.bd
+www.emmanuelles.com.bd
 www.employee-server.rpi.gov.bd
 www.employee.rpi.gov.bd
 www.employers.access.com.bd
@@ -4847,6 +4872,7 @@ www.humancare.com.bd
 www.humanities.primeasia.edu.bd
 www.huntington.com.biomed.com.bd
 www.icaar.sau.ac.bd
+www.ice.du.ac.bd
 www.icesd.bdu.ac.bd
 www.icml.com.bd
 www.icontravel.com.bd
@@ -5335,6 +5361,7 @@ www.s.amirabadhs.edu.bd
 www.s.asshs.edu.bd
 www.s.bardalhs.edu.bd
 www.s.bosonitolahs.edu.bd
+www.s.burprisths.edu.bd
 www.s.cbmb.edu.bd
 www.s.cgsc.edu.bd
 www.s.dcahs.edu.bd
@@ -5467,9 +5494,11 @@ www.sstactapobanhs.edu.bd
 www.staging.ist.edu.bd
 www.stipend.rpi.gov.bd
 www.stockphoto.com.bd
+www.store.thinklabs.com.bd
 www.stripe.com.bd
 www.student-portal.rpi.gov.bd
 www.stylishcollections.com.bd
+www.sufians.com.bd
 www.suitable.wesitely.com.bd
 www.sujacollege.edu.bd
 www.sukhomoyebhs.edu.bd
@@ -5618,6 +5647,7 @@ www.ydo.aitfb.com.bd
 www.zahidhasan.com.bd
 www.ziamuseum.bnm.org.bd
 www.ziamuseum.org.bd
+www.zigwheels.com.bd
 www.zihangroup.com.bd
 xen.com.bd
 xeontech.com.bd
