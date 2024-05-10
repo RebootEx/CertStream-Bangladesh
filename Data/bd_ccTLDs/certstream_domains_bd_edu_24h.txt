@@ -9,6 +9,7 @@ application.kyamc.edu.bd
 apps.dauhs.edu.bd
 archive-bus.green.edu.bd
 autodiscover.dauhs.edu.bd
+bahadurpurss.edu.bd
 bamuniadudm.edu.bd
 barakatalimlhighschool.edu.bd
 basdidakhilmadrasah.edu.bd
@@ -19,6 +20,7 @@ bish.edu.bd
 blihighschool.edu.bd
 bmekhs.edu.bd
 bograzillaschool.edu.bd
+bsksrhs.edu.bd
 cfmcollege.edu.bd
 chargoyeshpurhighschool.edu.bd
 convocation.bubt.edu.bd
@@ -35,6 +37,7 @@ cpanel.govtbarcollege.edu.bd
 cpanel.kdum.edu.bd
 cpanel.khanjahanalihighschool.edu.bd
 cpanel.mssb.edu.bd
+cpanel.nagarkandisaptapallisecondaryschool.edu.bd
 cpcalendars.api.edu.bd
 cpcalendars.blihighschool.edu.bd
 cpcalendars.damam.edu.bd
@@ -46,6 +49,7 @@ cpcalendars.govtbarcollege.edu.bd
 cpcalendars.kdum.edu.bd
 cpcalendars.khanjahanalihighschool.edu.bd
 cpcalendars.mssb.edu.bd
+cpcalendars.nagarkandisaptapallisecondaryschool.edu.bd
 cpcontacts.api.edu.bd
 cpcontacts.blihighschool.edu.bd
 cpcontacts.damam.edu.bd
@@ -57,6 +61,7 @@ cpcontacts.govtbarcollege.edu.bd
 cpcontacts.kdum.edu.bd
 cpcontacts.khanjahanalihighschool.edu.bd
 cpcontacts.mssb.edu.bd
+cpcontacts.nagarkandisaptapallisecondaryschool.edu.bd
 dakshinbanglacollege.edu.bd
 damam.edu.bd
 dariapurdegreecollege.edu.bd
@@ -71,7 +76,10 @@ dkhss.edu.bd
 dnrgc.edu.bd
 dpss.edu.bd
 dumainramlalhighschool.edu.bd
+dusc.diu.edu.bd
+earchive.rc.edu.bd
 ejms.daffodilvarsity.edu.bd
+ems.nayaparaalhajnobihossainhighschool.edu.bd
 epayment.primeasia.edu.bd
 faridpursugarmillshighschool.edu.bd
 fatehpurkghs.edu.bd
@@ -86,10 +94,12 @@ gobindaganjgc.edu.bd
 govtbarcollege.edu.bd
 gphs1972.edu.bd
 gsc.edu.bd
+hariharhs.edu.bd
 hatgangoparahighschool.edu.bd
 hifm.edu.bd
 jbdc.edu.bd
 jhanjhaniahighschool.edu.bd
+jobs.suchiparadegreecollege.edu.bd
 kajisirajulislamhighschool.edu.bd
 kalpohahighschool.edu.bd
 kanaipurhighschool.edu.bd
@@ -97,6 +107,7 @@ kazifaridasirajhbn.edu.bd
 kdum.edu.bd
 kgc.edu.bd
 khanjahanalihighschool.edu.bd
+kholoraadarshahs.edu.bd
 komorpurabdulazizinstitution.edu.bd
 krbhighschool.edu.bd
 ksigsc.edu.bd
@@ -115,14 +126,18 @@ mail.kdum.edu.bd
 mail.khanjahanalihighschool.edu.bd
 mail.mangalkatahighschool.edu.bd
 mail.mssb.edu.bd
+mail.nagarkandisaptapallisecondaryschool.edu.bd
 mangalkatahighschool.edu.bd
 mgsc.edu.bd
 mhsp.edu.bd
 mssb.edu.bd
+nagarkandisaptapallisecondaryschool.edu.bd
 nasc.acc.edu.bd
 neoit.edu.bd
 office.bau.edu.bd
 old.itclub.acc.edu.bd
+old.ssmcollege.edu.bd
+oms.sau.edu.bd
 pancheyhighschool.edu.bd
 pd.daffodilvarsity.edu.bd
 pgcbschool.edu.bd
@@ -152,6 +167,7 @@ webdisk.gaburdiahighschool.edu.bd
 webdisk.govtbarcollege.edu.bd
 webdisk.kdum.edu.bd
 webdisk.mssb.edu.bd
+webdisk.nagarkandisaptapallisecondaryschool.edu.bd
 webmail.api.edu.bd
 webmail.blihighschool.edu.bd
 webmail.damam.edu.bd
@@ -163,6 +179,7 @@ webmail.govtbarcollege.edu.bd
 webmail.kdum.edu.bd
 webmail.khanjahanalihighschool.edu.bd
 webmail.mssb.edu.bd
+webmail.nagarkandisaptapallisecondaryschool.edu.bd
 www.akakhs.edu.bd.ulipurmssc.edu.bd
 www.api.edu.bd
 www.application.kyamc.edu.bd
@@ -170,6 +187,7 @@ www.apps.dauhs.edu.bd
 www.archive-bus.green.edu.bd
 www.blihighschool.edu.bd
 www.bmekhs.edu.bd
+www.bsksrhs.edu.bd
 www.convocation.bubt.edu.bd
 www.convocation.gonouniversity.edu.bd
 www.damam.edu.bd
@@ -178,16 +196,22 @@ www.dauhs.edu.bd
 www.dhahs.edu.bd
 www.digholiahighschool.edu.bd
 www.dkhss.dsam.edu.bd
+www.earchive.rc.edu.bd
+www.ems.nayaparaalhajnobihossainhighschool.edu.bd
 www.epayment.primeasia.edu.bd
 www.gabukhalihs.gcdm.edu.bd
 www.gaburdiahighschool.edu.bd
 www.govtbarcollege.edu.bd
+www.jobs.suchiparadegreecollege.edu.bd
 www.kdum.edu.bd
 www.khanjahanalihighschool.edu.bd
+www.kholoraadarshahs.edu.bd
 www.mangalkatahighschool.edu.bd
 www.mhsp.edu.bd
 www.mssb.edu.bd
+www.nagarkandisaptapallisecondaryschool.edu.bd
 www.old.itclub.acc.edu.bd
+www.old.ssmcollege.edu.bd
 www.playpen.edu.bd
 www.process.dauhs.edu.bd
 www.rcs.edu.bd
