@@ -120,6 +120,7 @@ bids.gov.bd
 bienes.com.bd
 bihs.edu.bd
 biimt.edu.bd
+bijoymart.com.bd
 bijoynagorhighschool.edu.bd
 bim.gov.bd
 bimhs.edu.bd
@@ -133,6 +134,7 @@ bitid.gov.bd
 biwta.gov.bd
 biwtc.gov.bd
 bjc.gov.bd
+bjcsschool.edu.bd
 bjmc.gov.bd
 bjri.gov.bd
 bjwt.gov.bd
@@ -205,6 +207,7 @@ bwh.coralreef.com.bd
 cafodefence.portal.gov.bd
 cafomohfw.gov.bd
 capi.divine.com.bd
+cbhsm.edu.bd
 cbraj.gov.bd
 cca.gov.bd
 ccb.gov.bd
@@ -241,6 +244,8 @@ coxda.gov.bd
 cpanel.adm.edu.bd
 cpanel.ahdph.com.bd
 cpanel.associationofssc01.info.bd
+cpanel.cbhsm.edu.bd
+cpanel.dwipayan.com.bd
 cpanel.fstechnology.com.bd
 cpanel.gfphs.edu.bd
 cpanel.gulshanit.com.bd
@@ -261,6 +266,7 @@ cpanel.ws101.com.bd
 cpbackend.ncc.gov.bd
 cpcalendars.adm.edu.bd
 cpcalendars.ahdph.com.bd
+cpcalendars.dwipayan.com.bd
 cpcalendars.fstechnology.com.bd
 cpcalendars.gfphs.edu.bd
 cpcalendars.gulshanit.com.bd
@@ -280,6 +286,7 @@ cpcalendars.suhss.edu.bd
 cpcalendars.ws101.com.bd
 cpcontacts.adm.edu.bd
 cpcontacts.ahdph.com.bd
+cpcontacts.dwipayan.com.bd
 cpcontacts.fstechnology.com.bd
 cpcontacts.gfphs.edu.bd
 cpcontacts.gulshanit.com.bd
@@ -314,6 +321,7 @@ daulatkhanmohilacollege.edu.bd
 daulatpurup.gov.bd
 dcd.gov.bd
 ddhs.edu.bd
+demo.agrosal.com.bd
 demo.sunpac.com.bd
 demo.worldtrade.com.bd
 desco.gov.bd
@@ -349,7 +357,9 @@ dswl.gov.bd
 dtca.gov.bd
 dwa.gov.bd
 dwasa.org.bd
+dwipayan.com.bd
 dyd.gov.bd
+easyfashion.com.bd
 ebaub.ac.bd
 ebek-rdcd.gov.bd
 edlms.gov.bd
@@ -378,10 +388,12 @@ forestacademy.gov.bd
 frc.gov.bd
 fstechnology.com.bd
 ftp.associationofssc01.info.bd
+ftp.cbhsm.edu.bd
 fulhariss.edu.bd
 garaganjschool.edu.bd
 garagonjgirls.edu.bd
 gcb.gov.bd
+geomark.com.bd
 gfphs.edu.bd
 gi.gulshanit.com.bd
 girlguides.org.bd
@@ -454,6 +466,7 @@ jobs.nexuscommerce.com.bd
 jshs.edu.bd
 jurkhalidm.edu.bd
 justsc.edu.bd
+kahschool.edu.bd
 kalarhaths.edu.bd
 kam.edu.bd
 kamaluddinghs.edu.bd
@@ -474,6 +487,7 @@ khsj.jsfm.edu.bd
 khuhs.edu.bd
 khulnashishuhighschool.edu.bd
 kjusc.edu.bd
+kkgroup.com.bd
 knbgroup.com.bd
 kolapatgatisstk.edu.bd
 kornibarifazilmadrasah.edu.bd
@@ -510,7 +524,10 @@ mail.ahdph.com.bd
 mail.associationofssc01.info.bd
 mail.bdvat.com.bd
 mail.bnis.edu.bd
+mail.cbhsm.edu.bd
 mail.dev.com.bd
+mail.dwipayan.com.bd
+mail.easyfashion.com.bd
 mail.fstechnology.com.bd
 mail.gulshanit.com.bd
 mail.icravehcare.com.bd
@@ -527,6 +544,7 @@ mail.nusaiba.com.bd
 mail.oleole.com.bd
 mail.patgrammunicipality.gov.bd
 mail.prdm.edu.bd
+mail.raffinato.com.bd
 mail.rajcourtcollege.edu.bd
 mail.safetygpstracker.com.bd
 mail.schoolbus.com.bd
@@ -620,6 +638,8 @@ pjadm.edu.bd
 pjtc.com.bd
 pnhsn.edu.bd
 polytech.gov.bd
+portal.falconlink.net.bd
+portal.gobd.net.bd
 portal.nphs.edu.bd
 portal.pcsac.edu.bd
 portal.tambulpurdhs.edu.bd
@@ -644,6 +664,7 @@ rider.fastest.com.bd
 rkshop.com.bd
 rms.duet.ac.bd
 rmsgab.com.bd
+rnss.edu.bd
 rosegardenhs.edu.bd
 rsgt.com.bd
 rucert.ru.ac.bd
@@ -719,12 +740,14 @@ upms.ugc.gov.bd
 utl.com.bd
 vanplaza.com.bd
 vatoparaghs.edu.bd
+vitacan.com.bd
 wa.autonemo.com.bd
 wallet.blackfashion.com.bd
 walrus.com.bd
 webapi.bsmraau.edu.bd
 webdisk.adm.edu.bd
 webdisk.ahdph.com.bd
+webdisk.dwipayan.com.bd
 webdisk.fstechnology.com.bd
 webdisk.gfphs.edu.bd
 webdisk.gulshanit.com.bd
@@ -747,6 +770,7 @@ webmail.adm.edu.bd
 webmail.ahdph.com.bd
 webmail.associationofssc01.info.bd
 webmail.bdvat.com.bd
+webmail.dwipayan.com.bd
 webmail.fstechnology.com.bd
 webmail.gulshanit.com.bd
 webmail.icravehcare.com.bd
@@ -795,6 +819,7 @@ www.bravat.com.bd
 www.bttcl.com.bd.momtajtdpl.com.bd
 www.businessclub.iba-ju.edu.bd
 www.buyon.com.bd
+www.cbhsm.edu.bd
 www.cdn1.rrad.com.bd
 www.check.wmb.com.bd
 www.communic.iba-ju.edu.bd
@@ -808,6 +833,8 @@ www.dev.errorx.com.bd
 www.dev.globalpay.com.bd
 www.doighor.deshio.com.bd
 www.drdm.edu.bd
+www.dwipayan.com.bd
+www.easyfashion.com.bd
 www.enam-e-elahi.tribe.com.bd
 www.erp.thinkgroup.com.bd
 www.experiment.cerebrum.com.bd
@@ -910,6 +937,7 @@ www.taxadviser.com.bd
 www.tcb.melandahbhata.gov.bd
 www.techgadgetreview.xyz.rbub.edu.bd
 www.test.bmart.com.bd
+www.test.geomark.com.bd
 www.test.mahnoor.pinkfashion.com.bd
 www.test.maphsctg.edu.bd
 www.test1.ikitchen.com.bd
