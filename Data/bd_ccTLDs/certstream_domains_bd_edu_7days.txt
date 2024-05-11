@@ -206,6 +206,7 @@ cbhs.edu.bd
 cbhsm.edu.bd
 cbmagsraj.edu.bd
 cbss.edu.bd
+ccdm.edu.bd
 cdam.edu.bd
 cfmcollege.edu.bd
 cghsp.edu.bd
@@ -222,6 +223,8 @@ charbagdangahs.edu.bd
 charbandarfm.edu.bd
 chargoyeshpurhighschool.edu.bd
 charmastulmbahs.edu.bd
+charpouligsdmt.edu.bd
+chayrosiaihs.edu.bd
 chemidoluhs.edu.bd
 chgmc.edu.bd
 chhatiantalihighschool.edu.bd
@@ -279,6 +282,7 @@ cpanel.garparahs.edu.bd
 cpanel.goragramhs.edu.bd
 cpanel.govtbarcollege.edu.bd
 cpanel.govtnacollege.edu.bd
+cpanel.harparahsctg.edu.bd
 cpanel.hawchs.edu.bd
 cpanel.hkhs.edu.bd
 cpanel.hkrhs.edu.bd
@@ -303,6 +307,7 @@ cpanel.miam.edu.bd
 cpanel.midc.edu.bd
 cpanel.momchan.edu.bd
 cpanel.mors.edu.bd
+cpanel.mpmhs113629.edu.bd
 cpanel.msa130518.edu.bd
 cpanel.mssb.edu.bd
 cpanel.mstpsc.edu.bd
@@ -371,6 +376,7 @@ cpcalendars.garparahs.edu.bd
 cpcalendars.goragramhs.edu.bd
 cpcalendars.govtbarcollege.edu.bd
 cpcalendars.govtnacollege.edu.bd
+cpcalendars.harparahsctg.edu.bd
 cpcalendars.hawchs.edu.bd
 cpcalendars.hkhs.edu.bd
 cpcalendars.hkrhs.edu.bd
@@ -393,6 +399,7 @@ cpcalendars.meags.edu.bd
 cpcalendars.miam.edu.bd
 cpcalendars.momchan.edu.bd
 cpcalendars.mors.edu.bd
+cpcalendars.mpmhs113629.edu.bd
 cpcalendars.msa130518.edu.bd
 cpcalendars.mssb.edu.bd
 cpcalendars.mstpsc.edu.bd
@@ -461,6 +468,7 @@ cpcontacts.garparahs.edu.bd
 cpcontacts.goragramhs.edu.bd
 cpcontacts.govtbarcollege.edu.bd
 cpcontacts.govtnacollege.edu.bd
+cpcontacts.harparahsctg.edu.bd
 cpcontacts.hawchs.edu.bd
 cpcontacts.hkhs.edu.bd
 cpcontacts.hkrhs.edu.bd
@@ -483,6 +491,7 @@ cpcontacts.meags.edu.bd
 cpcontacts.miam.edu.bd
 cpcontacts.momchan.edu.bd
 cpcontacts.mors.edu.bd
+cpcontacts.mpmhs113629.edu.bd
 cpcontacts.msa130518.edu.bd
 cpcontacts.mssb.edu.bd
 cpcontacts.mstpsc.edu.bd
@@ -690,6 +699,7 @@ hchs.edu.bd
 hchs.edu.bd.shibganjhighschool.edu.bd
 heakmam.edu.bd
 heedttc.edu.bd
+hhghsbt.edu.bd
 hifm.edu.bd
 hkhs.edu.bd
 hkmm.edu.bd
@@ -944,6 +954,7 @@ mail.gopalpurhs.edu.bd
 mail.goragramhs.edu.bd
 mail.govtbarcollege.edu.bd
 mail.govtnacollege.edu.bd
+mail.harparahsctg.edu.bd
 mail.hawchs.edu.bd
 mail.hkhs.edu.bd
 mail.hkmm.edu.bd
@@ -986,6 +997,7 @@ mail.mihs.edu.bd
 mail.misam.edu.bd
 mail.momchan.edu.bd
 mail.mors.edu.bd
+mail.mpmhs113629.edu.bd
 mail.msa130518.edu.bd
 mail.mssb.edu.bd
 mail.mstpsc.edu.bd
@@ -1060,6 +1072,7 @@ miam.edu.bd
 midc.edu.bd
 mihs.edu.bd
 mikm.edu.bd
+milis.edu.bd
 mirzakandiaruakandihighschool.edu.bd
 misam.edu.bd
 mism.edu.bd
@@ -1078,10 +1091,12 @@ monikananhighschool.edu.bd
 mors.edu.bd
 mountviewnursingcollege.edu.bd
 mpgsk.edu.bd
+mpmhs113629.edu.bd
 mrdhs.edu.bd
 mrmb.edu.bd
 msa130518.edu.bd
 msataurrahmansschool.edu.bd
+mscollege.edu.bd
 msndm.edu.bd
 mssb.edu.bd
 mstpsc.edu.bd
@@ -1401,6 +1416,7 @@ tejgaoncollege.edu.bd
 tengrahs.edu.bd
 test.gsshs129875.edu.bd
 test.hgc.edu.bd
+test.jhalakatiislamiafm.edu.bd
 tetarahighschool.edu.bd
 tgbhs.edu.bd
 tgghs.edu.bd
@@ -1480,6 +1496,7 @@ webdisk.garparahs.edu.bd
 webdisk.goragramhs.edu.bd
 webdisk.govtbarcollege.edu.bd
 webdisk.govtnacollege.edu.bd
+webdisk.harparahsctg.edu.bd
 webdisk.hawchs.edu.bd
 webdisk.hkhs.edu.bd
 webdisk.hkrhs.edu.bd
@@ -1501,6 +1518,7 @@ webdisk.meags.edu.bd
 webdisk.miam.edu.bd
 webdisk.momchan.edu.bd
 webdisk.mors.edu.bd
+webdisk.mpmhs113629.edu.bd
 webdisk.msa130518.edu.bd
 webdisk.mssb.edu.bd
 webdisk.mstpsc.edu.bd
@@ -1572,6 +1590,7 @@ webmail.garparahs.edu.bd
 webmail.goragramhs.edu.bd
 webmail.govtbarcollege.edu.bd
 webmail.govtnacollege.edu.bd
+webmail.harparahsctg.edu.bd
 webmail.hawchs.edu.bd
 webmail.hkhs.edu.bd
 webmail.hkrhs.edu.bd
@@ -1596,6 +1615,7 @@ webmail.miam.edu.bd
 webmail.midc.edu.bd
 webmail.momchan.edu.bd
 webmail.mors.edu.bd
+webmail.mpmhs113629.edu.bd
 webmail.msa130518.edu.bd
 webmail.mssb.edu.bd
 webmail.mstpsc.edu.bd
@@ -1717,6 +1737,7 @@ www.cambrian.edu.bd
 www.carkm.edu.bd
 www.cbhsm.edu.bd
 www.cbss.edu.bd
+www.ccdm.edu.bd
 www.cdam.edu.bd
 www.cghsp.edu.bd
 www.chandanahighschool.edu.bd
@@ -1796,6 +1817,7 @@ www.gses.edu.bd
 www.gskgss.edu.bd
 www.gtu.edu.bd
 www.hamirdipiloths.abdulabadhighschool.edu.bd
+www.harparahsctg.edu.bd
 www.hashimpurmphs.edu.bd
 www.hawchs.edu.bd
 www.hchs.edu.bd.shibganjhighschool.edu.bd
@@ -1908,6 +1930,7 @@ www.misam.edu.bd
 www.mokaramadrasha.edu.bd
 www.momchan.edu.bd
 www.mors.edu.bd
+www.mpmhs113629.edu.bd
 www.msa130518.edu.bd
 www.mssb.edu.bd
 www.mstpsc.edu.bd
@@ -2058,6 +2081,7 @@ www.tcti.edu.bd
 www.tengrahs.edu.bd
 www.test.gsshs129875.edu.bd
 www.test.hgc.edu.bd
+www.test.jhalakatiislamiafm.edu.bd
 www.tetarahighschool.edu.bd
 www.thikana.bist.edu.bd
 www.tmksgs.edu.bd
