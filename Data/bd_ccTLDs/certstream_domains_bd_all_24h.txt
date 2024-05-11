@@ -2,6 +2,7 @@ academic.addacollege.edu.bd
 academy.intertest.com.bd
 acc.org.bd
 acdm.edu.bd
+admin.mbgc.gov.bd
 advert.com.bd
 agb.com.bd
 agiahs.edu.bd
@@ -15,6 +16,7 @@ anutech.com.bd.syedgroup.com.bd
 apscl.gov.bd
 archaeology.gov.bd
 architecture.gov.bd
+artinterior.entrust.com.bd
 ashrayanpmo.gov.bd
 attorneygeneral.gov.bd
 autoconfig.mahi.com.bd
@@ -172,6 +174,7 @@ cpanel.ahdph.com.bd
 cpanel.gulshanit.com.bd
 cpanel.icravehcare.com.bd
 cpanel.infratech.com.bd
+cpanel.jalkuriidm.edu.bd
 cpanel.knbgroup.com.bd
 cpanel.serviceon.com.bd
 cpbackend.ncc.gov.bd
@@ -179,6 +182,7 @@ cpcalendars.ahdph.com.bd
 cpcalendars.gulshanit.com.bd
 cpcalendars.icravehcare.com.bd
 cpcalendars.infratech.com.bd
+cpcalendars.jalkuriidm.edu.bd
 cpcalendars.knbgroup.com.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.serviceon.com.bd
@@ -186,6 +190,7 @@ cpcontacts.ahdph.com.bd
 cpcontacts.gulshanit.com.bd
 cpcontacts.icravehcare.com.bd
 cpcontacts.infratech.com.bd
+cpcontacts.jalkuriidm.edu.bd
 cpcontacts.knbgroup.com.bd
 cpcontacts.manly.com.bd
 cpcontacts.patgrammunicipality.gov.bd
@@ -196,6 +201,7 @@ crd.org.bd
 csbt.gov.bd
 ctg-wasa.org.bd
 cushyscl.com.bd
+dailyreport.com.bd
 datalab.com.bd
 dcd.gov.bd
 desco.gov.bd
@@ -227,6 +233,7 @@ edlms.gov.bd
 edtech.com.bd
 egcb.gov.bd
 elbl.gov.bd
+entrust.com.bd
 eurolift.com.bd
 farah.com.bd
 faridpurmunicipality.gov.bd
@@ -246,6 +253,7 @@ green.edu.bd
 gtcl.org.bd
 gulshanit.com.bd
 gwcr.edu.bd
+hadiya.com.bd
 hajoffice.gov.bd
 hasan.info.bd
 haziamaleksalehiadsdm.edu.bd
@@ -263,8 +271,10 @@ imtchandpur.gov.bd
 indev.com.bd
 infocom.gov.bd
 infratech.com.bd
+inventory.backend.syssolution.com.bd
 ipv6.knbgroup.com.bd
 jalalpur.upsylhetholdingtax.gov.bd
+jalkuriidm.edu.bd
 jatirkhantha.com.bd
 jobs.nexuscommerce.com.bd
 justsc.edu.bd
@@ -277,6 +287,7 @@ kornibarifazilmadrasah.edu.bd
 landzoning.gov.bd
 lged.gov.bd
 library.acc.edu.bd
+lms.triangletech.com.bd
 lttc.gov.bd
 ltu.gov.bd
 m.mailing.horlicks.com.bd
@@ -295,7 +306,9 @@ mail.prdm.edu.bd
 mail.securemetrics.com.bd
 mail.serviceon.com.bd
 mail.shuvrojaya.com.bd
+mail.tambulpurdhs.edu.bd
 mail.zplakshmipur.gov.bd
+manage.xeonhost.com.bd
 mango.mangolover.com.bd
 mcb.gov.bd
 mcc.gov.bd
@@ -306,8 +319,10 @@ meoc.gov.bd
 mfacademy.gov.bd
 mgc.edu.bd
 minaltech.edu.bd
+mmnr.edu.bd
 moissanitebd.rightclick.com.bd
 msg2.elitbuzz.com.bd
+msjlhs.edu.bd
 msndm.edu.bd
 musaphah.com.bd
 napd.gov.bd
@@ -316,14 +331,18 @@ narinda.sjs.edu.bd
 netpharma.com.bd
 niport.gov.bd
 nphs.edu.bd
+ns1.inc.com.bd
+nsmi.edu.bd
 omcmc.edu.bd
 orangesoft.com.bd
 pabnapourashava.gov.bd
+padmarcharhighschool.edu.bd
 password.russell.com.bd
 pjtc.com.bd
 polytech.gov.bd
 portal.nphs.edu.bd
 portal.pcsac.edu.bd
+portal.tambulpurdhs.edu.bd
 prdm.edu.bd
 proauto.com.bd
 qcybangladesh.com.bd
@@ -331,6 +350,7 @@ raha.com.bd
 raihan.gulshanit.com.bd
 rashed.com.bd
 redshoes.com.bd.xiejiang.com.bd
+rider.fastest.com.bd
 saddm.edu.bd
 schedule.brri.gov.bd
 securemetrics.com.bd
@@ -341,6 +361,7 @@ softwareit.com.bd
 srps.hstu.ac.bd
 sscoch.edu.bd
 sscoch.edu.bd.sgpmhs.edu.bd
+syssolution.com.bd
 tally.bd24.com.bd
 tambulpurdhs.edu.bd
 tariqul.ugv.edu.bd
@@ -349,6 +370,7 @@ techgadgetreview.xyz.rbub.edu.bd
 test.mahnoor.pinkfashion.com.bd
 test.maphsctg.edu.bd
 test1.ikitchen.com.bd
+tiller.com.bd
 touristpolice.gov.bd
 tvi.gov.bd
 uat.saleslead.com.bd
@@ -358,6 +380,7 @@ webdisk.ahdph.com.bd
 webdisk.gulshanit.com.bd
 webdisk.icravehcare.com.bd
 webdisk.infratech.com.bd
+webdisk.jalkuriidm.edu.bd
 webdisk.knbgroup.com.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.serviceon.com.bd
@@ -365,6 +388,7 @@ webmail.ahdph.com.bd
 webmail.gulshanit.com.bd
 webmail.icravehcare.com.bd
 webmail.infratech.com.bd
+webmail.jalkuriidm.edu.bd
 webmail.knbgroup.com.bd
 webmail.manly.com.bd
 webmail.serviceon.com.bd
@@ -391,12 +415,16 @@ www.datalab.com.bd
 www.finder.com.bd
 www.gi.gulshanit.com.bd
 www.gulshanit.com.bd
+www.hadiya.com.bd
 www.healthposts.xyz.rbub.edu.bd
 www.icravehcare.com.bd
 www.infratech.com.bd
+www.inventory.syssolution.com.bd
 www.jalalpur.upsylhetholdingtax.gov.bd
 www.knbgroup.com.bd
 www.kornibarifazilmadrasah.edu.bd
+www.lms.triangletech.com.bd
+www.manage.xeonhost.com.bd
 www.mango.mangolover.com.bd
 www.manly.com.bd
 www.marketitor.com.bipss.org.bd
@@ -408,13 +436,17 @@ www.musaphah.com.bd
 www.narinda.sjs.edu.bd
 www.netpharma.com.bd
 www.prdm.edu.bd
+www.quiz.dailyreport.com.bd
+www.quizapi.dailyreport.com.bd
 www.raihan.gulshanit.com.bd
 www.redshoes.com.bd.xiejiang.com.bd
+www.rider.fastest.com.bd
 www.securemetrics.com.bd
 www.serviceon.com.bd
 www.shuvrojaya.com.bd
 www.slip.wefly.com.bd
 www.sscoch.edu.bd.sgpmhs.edu.bd
+www.tambulpurdhs.edu.bd
 www.tariqul.ugv.edu.bd
 www.tcb.melandahbhata.gov.bd
 www.techgadgetreview.xyz.rbub.edu.bd
