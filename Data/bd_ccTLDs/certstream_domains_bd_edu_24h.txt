@@ -25,8 +25,10 @@ cpanel.aamc.edu.bd
 cpanel.beltolighs.edu.bd
 cpanel.bhcs.edu.bd
 cpanel.dauc.edu.bd
+cpanel.dorsonparahs.edu.bd
 cpanel.fakam.edu.bd
 cpanel.ishakha.edu.bd
+cpanel.kashimalahighschool.edu.bd
 cpanel.mmghs.edu.bd
 cpanel.palpurhs.edu.bd
 cpanel.sabujkanan.edu.bd
@@ -55,6 +57,7 @@ dauc.edu.bd
 ddam.edu.bd
 demo.jashaihighschool.edu.bd
 digrajcollege.edu.bd
+dorsonparahs.edu.bd
 dphs129870.edu.bd
 dshst.edu.bd
 dudmollikgirlsschool.edu.bd
@@ -63,6 +66,8 @@ edu.bd.dwc.edu.bd
 faculty.ugv.edu.bd
 fakam.edu.bd
 fatemahaiss.edu.bd
+ftp.dorsonparahs.edu.bd
+ftp.kashimalahighschool.edu.bd
 gafurgonjss.edu.bd
 gdsdmadrasah.edu.bd
 hmaikm.edu.bd
@@ -74,6 +79,7 @@ jahanarahighschool.edu.bd
 jahanarahighschool.edu.bd.dhakhs.edu.bd
 jangalbadhalhs.edu.bd
 kakdangamadrasah.edu.bd
+kashimalahighschool.edu.bd
 kulbariadm.edu.bd
 m.aadmadrasah.edu.bd
 magazine.bcc.edu.bd
@@ -81,8 +87,10 @@ mail.aamc.edu.bd
 mail.beltolighs.edu.bd
 mail.bhcs.edu.bd
 mail.dauc.edu.bd
+mail.dorsonparahs.edu.bd
 mail.fakam.edu.bd
 mail.ishakha.edu.bd
+mail.kashimalahighschool.edu.bd
 mail.mmghs.edu.bd
 mail.palpurhs.edu.bd
 mail.sabujkanan.edu.bd
@@ -96,6 +104,7 @@ palpurhs.edu.bd
 parghorapakhiasbs.edu.bd
 pbmschool.edu.bd
 s.bknphs.edu.bd
+s.kawalidhs.edu.bd
 sabujkanan.edu.bd
 sadapurkghs.edu.bd
 shibpashahs.edu.bd
@@ -121,8 +130,10 @@ webmail.aamc.edu.bd
 webmail.beltolighs.edu.bd
 webmail.bhcs.edu.bd
 webmail.dauc.edu.bd
+webmail.dorsonparahs.edu.bd
 webmail.fakam.edu.bd
 webmail.ishakha.edu.bd
+webmail.kashimalahighschool.edu.bd
 webmail.mmghs.edu.bd
 webmail.palpurhs.edu.bd
 webmail.sabujkanan.edu.bd
@@ -152,6 +163,7 @@ www.caahs113682.edu.bd.dwc.edu.bd
 www.chandnimukhammsschool.edu.bd
 www.dauc.edu.bd
 www.demo.jashaihighschool.edu.bd
+www.dorsonparahs.edu.bd
 www.dudmollikgirlsschool.edu.bd
 www.faculty.ugv.edu.bd
 www.fakam.edu.bd
@@ -159,11 +171,13 @@ www.ishakha.edu.bd
 www.jadunath.edu.bd
 www.jahanarahighschool.edu.bd.dhakhs.edu.bd
 www.jangalbadhalhs.edu.bd
+www.kashimalahighschool.edu.bd
 www.m.aadmadrasah.edu.bd
 www.magazine.bcc.edu.bd
 www.mmghs.edu.bd
 www.palpurhs.edu.bd
 www.s.bknphs.edu.bd
+www.s.kawalidhs.edu.bd
 www.sabujkanan.edu.bd
 www.shibpashahs.edu.bd
 www.shyamnagarhs.nkdm.edu.bd
