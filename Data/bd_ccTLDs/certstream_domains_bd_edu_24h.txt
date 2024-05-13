@@ -12,6 +12,7 @@ autodiscover.dssmm.edu.bd
 autodiscover.eklashpurhighschool.edu.bd
 autodiscover.htidc.edu.bd
 autodiscover.ishakha.edu.bd
+autodiscover.kdmrajarhat.edu.bd
 autodiscover.sabujkanan.edu.bd
 back.ywca.edu.bd
 backend.aamc.edu.bd
@@ -20,6 +21,8 @@ backend.kdedm110238.edu.bd
 backend.sabujkanan.edu.bd
 backend.ywca.edu.bd
 bagairmsc.edu.bd
+bagharparapmhs.edu.bd
+bairagirchar.edu.bd
 bawanysac.edu.bd
 bazlurrahmanfgs.edu.bd
 beltolighs.edu.bd
@@ -53,6 +56,7 @@ cpanel.fakam.edu.bd
 cpanel.htidc.edu.bd
 cpanel.ishakha.edu.bd
 cpanel.kashimalahighschool.edu.bd
+cpanel.kdmrajarhat.edu.bd
 cpanel.mmghs.edu.bd
 cpanel.palpurhs.edu.bd
 cpanel.ppgrhs.edu.bd
@@ -71,6 +75,7 @@ cpcalendars.eklashpurhighschool.edu.bd
 cpcalendars.fakam.edu.bd
 cpcalendars.htidc.edu.bd
 cpcalendars.ishakha.edu.bd
+cpcalendars.kdmrajarhat.edu.bd
 cpcalendars.mmghs.edu.bd
 cpcalendars.palpurhs.edu.bd
 cpcalendars.ppgrhs.edu.bd
@@ -89,6 +94,7 @@ cpcontacts.eklashpurhighschool.edu.bd
 cpcontacts.fakam.edu.bd
 cpcontacts.htidc.edu.bd
 cpcontacts.ishakha.edu.bd
+cpcontacts.kdmrajarhat.edu.bd
 cpcontacts.mmghs.edu.bd
 cpcontacts.palpurhs.edu.bd
 cpcontacts.ppgrhs.edu.bd
@@ -145,6 +151,7 @@ kakdangamadrasah.edu.bd
 kalikacchapathshalahs.edu.bd
 kasbatalicollege.edu.bd
 kashimalahighschool.edu.bd
+kdmrajarhat.edu.bd
 khalifarhaths.edu.bd
 khansahebkomoruddincollege.edu.bd
 krjrinstitution.edu.bd
@@ -167,6 +174,7 @@ mail.fakam.edu.bd
 mail.htidc.edu.bd
 mail.ishakha.edu.bd
 mail.kashimalahighschool.edu.bd
+mail.kdmrajarhat.edu.bd
 mail.mmghs.edu.bd
 mail.nbksmadrasah.edu.bd
 mail.palpurhs.edu.bd
@@ -188,12 +196,14 @@ mmghs.edu.bd
 mmim.edu.bd
 monigghs.edu.bd
 mpcn.edu.bd
+namghsc.edu.bd
 narichamhs.edu.bd
 nbksmadrasah.edu.bd
 ncc.edu.bd
 nhskaw.edu.bd
 niistpolytechnic.com.lgc.edu.bd
 njkdm.edu.bd
+noticeboard.diu.edu.bd
 old.adinacollege.edu.bd
 palpurhs.edu.bd
 parghorapakhiasbs.edu.bd
@@ -251,6 +261,7 @@ webdisk.eklashpurhighschool.edu.bd
 webdisk.fakam.edu.bd
 webdisk.htidc.edu.bd
 webdisk.ishakha.edu.bd
+webdisk.kdmrajarhat.edu.bd
 webdisk.mmghs.edu.bd
 webdisk.palpurhs.edu.bd
 webdisk.ppgrhs.edu.bd
@@ -271,6 +282,7 @@ webmail.fakam.edu.bd
 webmail.htidc.edu.bd
 webmail.ishakha.edu.bd
 webmail.kashimalahighschool.edu.bd
+webmail.kdmrajarhat.edu.bd
 webmail.mmghs.edu.bd
 webmail.palpurhs.edu.bd
 webmail.ppgrhs.edu.bd
@@ -310,6 +322,8 @@ www.backend.mcscranigaon.edu.bd
 www.backend.sabujkanan.edu.bd
 www.backend.shimrailhs.edu.bd
 www.backend.ywca.edu.bd
+www.bagharparapmhs.edu.bd
+www.bairagirchar.edu.bd
 www.beltolighs.edu.bd
 www.bhcs.edu.bd
 www.bkash.rcit.edu.bd
@@ -336,6 +350,7 @@ www.jangalbadhalhs.edu.bd
 www.jhs65.edu.bd.jhs.edu.bd
 www.jkschoolandcollege.edu.bd.dwc.edu.bd
 www.kashimalahighschool.edu.bd
+www.kdmrajarhat.edu.bd
 www.library.greenlife.edu.bd
 www.m.aadmadrasah.edu.bd
 www.m.nddm.edu.bd
