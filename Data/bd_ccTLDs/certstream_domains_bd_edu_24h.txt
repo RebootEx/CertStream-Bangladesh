@@ -46,6 +46,7 @@ cpanel.ishakha.edu.bd
 cpanel.kashimalahighschool.edu.bd
 cpanel.mmghs.edu.bd
 cpanel.palpurhs.edu.bd
+cpanel.rajnagarrfm.edu.bd
 cpanel.sabujkanan.edu.bd
 cpanel.shibpashahs.edu.bd
 cpanel.singherkathimlhs.edu.bd
@@ -58,6 +59,7 @@ cpcalendars.fakam.edu.bd
 cpcalendars.ishakha.edu.bd
 cpcalendars.mmghs.edu.bd
 cpcalendars.palpurhs.edu.bd
+cpcalendars.rajnagarrfm.edu.bd
 cpcalendars.sabujkanan.edu.bd
 cpcalendars.shibpashahs.edu.bd
 cpcalendars.singherkathimlhs.edu.bd
@@ -70,6 +72,7 @@ cpcontacts.fakam.edu.bd
 cpcontacts.ishakha.edu.bd
 cpcontacts.mmghs.edu.bd
 cpcontacts.palpurhs.edu.bd
+cpcontacts.rajnagarrfm.edu.bd
 cpcontacts.sabujkanan.edu.bd
 cpcontacts.shibpashahs.edu.bd
 cpcontacts.singherkathimlhs.edu.bd
@@ -94,6 +97,7 @@ ftp.kashimalahighschool.edu.bd
 gafurgonjss.edu.bd
 gdsdmadrasah.edu.bd
 giss.edu.bd
+gopalpur-highschool.edu.bd
 haripurhspr.edu.bd
 hgsc.edu.bd
 hmaikm.edu.bd
@@ -131,14 +135,18 @@ mail.ishakha.edu.bd
 mail.kashimalahighschool.edu.bd
 mail.mmghs.edu.bd
 mail.palpurhs.edu.bd
+mail.rajnagarrfm.edu.bd
 mail.sabujkanan.edu.bd
 mail.shibpashahs.edu.bd
 mail.singherkathimlhs.edu.bd
 mcscranigaon.edu.bd
 mkdta.edu.bd
 mmghs.edu.bd
+mmim.edu.bd
+monigghs.edu.bd
 mpcn.edu.bd
 narichamhs.edu.bd
+ncc.edu.bd
 nhskaw.edu.bd
 niistpolytechnic.com.lgc.edu.bd
 old.adinacollege.edu.bd
@@ -146,6 +154,9 @@ palpurhs.edu.bd
 parghorapakhiasbs.edu.bd
 pbmschool.edu.bd
 phs1920.edu.bd
+piipiip.manikgonjmohilacollege.edu.bd
+rajnagarrfm.edu.bd
+ramchandrapuram.edu.bd
 ramgonjhighschool.edu.bd
 reliance.edu.bd
 rged.bsmrau.edu.bd
@@ -162,11 +173,13 @@ shibpashahs.edu.bd
 shyamnagarhs.edu.bd
 shyamnagarhs.nkdm.edu.bd
 singherkathimlhs.edu.bd
+smc69.edu.bd
 smghs.edu.bd
 smhabibpdc.edu.bd
 sundarbangirlshighschool.edu.bd
 sunnydale.edu.bd
 tajpurcollege.edu.bd
+tec.edu.bd
 tenthuliahighschool.edu.bd
 tscdurgapur.edu.bd
 ubuhs.edu.bd
@@ -181,6 +194,7 @@ webdisk.fakam.edu.bd
 webdisk.ishakha.edu.bd
 webdisk.mmghs.edu.bd
 webdisk.palpurhs.edu.bd
+webdisk.rajnagarrfm.edu.bd
 webdisk.sabujkanan.edu.bd
 webdisk.shibpashahs.edu.bd
 webdisk.singherkathimlhs.edu.bd
@@ -195,6 +209,7 @@ webmail.ishakha.edu.bd
 webmail.kashimalahighschool.edu.bd
 webmail.mmghs.edu.bd
 webmail.palpurhs.edu.bd
+webmail.rajnagarrfm.edu.bd
 webmail.sabujkanan.edu.bd
 webmail.shibpashahs.edu.bd
 webmail.singherkathimlhs.edu.bd
@@ -245,6 +260,8 @@ www.magazine.bcc.edu.bd
 www.mmghs.edu.bd
 www.niistpolytechnic.com.lgc.edu.bd
 www.palpurhs.edu.bd
+www.piipiip.manikgonjmohilacollege.edu.bd
+www.rajnagarrfm.edu.bd
 www.s.bknphs.edu.bd
 www.s.kawalidhs.edu.bd
 www.sabujkanan.edu.bd
