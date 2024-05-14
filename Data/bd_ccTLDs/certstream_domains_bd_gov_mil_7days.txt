@@ -25,6 +25,7 @@ autodiscover.iras.bamis.gov.bd
 autodiscover.meon.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.satkhirademo.gov.bd
+autodiscover.urp.gov.bd
 avacademy.gov.bd
 bab.gov.bd
 back.socialprotection.gov.bd
@@ -183,6 +184,7 @@ cpanel.meon.gov.bd
 cpanel.satkhirademo.gov.bd
 cpanel.sesip.gov.bd
 cpanel.upmymensinghholdingtax.gov.bd
+cpanel.urp.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpbackend.ncc.gov.bd
 cpcalendars.bcoecopyright.gov.bd
@@ -194,6 +196,7 @@ cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.satkhirademo.gov.bd
 cpcalendars.sesip.gov.bd
 cpcalendars.upmymensinghholdingtax.gov.bd
+cpcalendars.urp.gov.bd
 cpcontacts.bcoecopyright.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.ccr.gov.bd
@@ -203,6 +206,7 @@ cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.satkhirademo.gov.bd
 cpcontacts.sesip.gov.bd
 cpcontacts.upmymensinghholdingtax.gov.bd
+cpcontacts.urp.gov.bd
 cpgcbl.gov.bd
 csbt.gov.bd
 customer.bgdcl.gov.bd
@@ -223,12 +227,14 @@ dgda.gov.bd
 dghs.gov.bd
 dgnm.gov.bd
 dhakabrt.gov.bd
+distgopalganj.gov.bd
 dmc.gov.bd
 dmch.gov.bd
 dmco.gov.bd
 dmlc.gov.bd
 dmpwsid.gov.bd
 dnc.gov.bd
+dncc-dch.gov.bd
 dncc.gov.bd
 dns.ekshop.gov.bd
 dob.ekshop.gov.bd
@@ -319,6 +325,7 @@ mail.pbrlp.gov.bd
 mail.satkhirademo.gov.bd
 mail.sesip.gov.bd
 mail.upmymensinghholdingtax.gov.bd
+mail.urp.gov.bd
 mail.zplakshmipur.gov.bd
 manirampurmunicipality.gov.bd
 manos.mofa.gov.bd
@@ -399,6 +406,7 @@ tvi.gov.bd
 tvr.bscl.gov.bd
 upms.ugc.gov.bd
 upmymensinghholdingtax.gov.bd
+urp.gov.bd
 vaxepi.gov.bd
 verify-network.ekshop.gov.bd
 vr.bangabhaban.gov.bd
@@ -413,6 +421,7 @@ webdisk.patgrammunicipality.gov.bd
 webdisk.satkhirademo.gov.bd
 webdisk.sesip.gov.bd
 webdisk.upmymensinghholdingtax.gov.bd
+webdisk.urp.gov.bd
 webmail.bcoecopyright.gov.bd
 webmail.bmdbwcsrp.gov.bd
 webmail.ccr.gov.bd
@@ -422,6 +431,7 @@ webmail.satkhirademo.gov.bd
 webmail.sesip.gov.bd
 webmail.sskmc.gov.bd
 webmail.upmymensinghholdingtax.gov.bd
+webmail.urp.gov.bd
 webmail.zpdinajpur.gov.bd
 www.academy.ekshop.gov.bd
 www.admins.rpi.gov.bd
@@ -501,6 +511,7 @@ www.test.rpi.gov.bd
 www.training.distgopalganj.gov.bd
 www.trishal.upmymensinghholdingtax.gov.bd
 www.upmymensinghholdingtax.gov.bd
+www.urp.gov.bd
 www.verify-network.ekshop.gov.bd
 www.zplakshmipur.gov.bd
 zpdinajpur.gov.bd
