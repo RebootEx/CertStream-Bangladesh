@@ -36,6 +36,7 @@ aghsk.edu.bd
 agiahs.edu.bd
 agms.edu.bd
 agrabadbalikabidyalay.edu.bd
+agranihighschoolsavar.edu.bd
 ahladipurdm.edu.bd
 ahsctg.edu.bd
 aidm.edu.bd
@@ -90,6 +91,7 @@ autodiscover.dauc.edu.bd
 autodiscover.dauhs.edu.bd
 autodiscover.dssmm.edu.bd
 autodiscover.eklashpurhighschool.edu.bd
+autodiscover.gmsmhs.edu.bd
 autodiscover.govtnacollege.edu.bd
 autodiscover.hkrhs.edu.bd
 autodiscover.htidc.edu.bd
@@ -340,6 +342,7 @@ cpanel.eklashpurhighschool.edu.bd
 cpanel.fakam.edu.bd
 cpanel.gaburdiahighschool.edu.bd
 cpanel.gfphs.edu.bd
+cpanel.gmsmhs.edu.bd
 cpanel.goragramhs.edu.bd
 cpanel.govtbarcollege.edu.bd
 cpanel.govtnacollege.edu.bd
@@ -428,6 +431,7 @@ cpcalendars.eklashpurhighschool.edu.bd
 cpcalendars.fakam.edu.bd
 cpcalendars.gaburdiahighschool.edu.bd
 cpcalendars.gfphs.edu.bd
+cpcalendars.gmsmhs.edu.bd
 cpcalendars.goragramhs.edu.bd
 cpcalendars.govtbarcollege.edu.bd
 cpcalendars.govtnacollege.edu.bd
@@ -514,6 +518,7 @@ cpcontacts.eklashpurhighschool.edu.bd
 cpcontacts.fakam.edu.bd
 cpcontacts.gaburdiahighschool.edu.bd
 cpcontacts.gfphs.edu.bd
+cpcontacts.gmsmhs.edu.bd
 cpcontacts.goragramhs.edu.bd
 cpcontacts.govtbarcollege.edu.bd
 cpcontacts.govtnacollege.edu.bd
@@ -746,6 +751,7 @@ gsmghsc.edu.bd
 gsmmhs.edu.bd
 gsudm.edu.bd
 gtu.edu.bd
+gub.edu.bd
 gusschool.edu.bd
 gwcollegepab.edu.bd
 gwcr.edu.bd
@@ -781,6 +787,7 @@ hgsc.edu.bd
 hhghsbt.edu.bd
 hhs.edu.bd
 hifm.edu.bd
+hiranpphs.edu.bd
 hkhs.edu.bd
 hkmhs.edu.bd
 hkmhs.gcdm.edu.bd
@@ -792,6 +799,7 @@ hmidm.edu.bd
 hmuhs.edu.bd
 hnhnpmc.edu.bd
 hnuahs.edu.bd
+hrmmhs.edu.bd
 hsgghs.edu.bd
 hsjhs.edu.bd
 hssm.edu.bd
@@ -1009,6 +1017,7 @@ m.kamgdm.edu.bd
 m.mrdsdm.edu.bd
 m.nddm.edu.bd
 m.ssfm.edu.bd
+m.sultanabaddm.edu.bd
 m.vdm.edu.bd
 m.vmdm.edu.bd
 madhupurkazirhaths.edu.bd
@@ -1079,6 +1088,7 @@ mail.fakam.edu.bd
 mail.fatehpurkghs.edu.bd
 mail.gaburdiahighschool.edu.bd
 mail.gmhsctg.edu.bd
+mail.gmsmhs.edu.bd
 mail.gobindaganjgc.edu.bd
 mail.gopalpurhs.edu.bd
 mail.goragramhs.edu.bd
@@ -1087,6 +1097,7 @@ mail.govtnacollege.edu.bd
 mail.harparahsctg.edu.bd
 mail.hawchs.edu.bd
 mail.hbuc.edu.bd
+mail.hiranpphs.edu.bd
 mail.hkhs.edu.bd
 mail.hkmm.edu.bd
 mail.hkrhs.edu.bd
@@ -1188,6 +1199,7 @@ mba.primeasia.edu.bd
 mbga.edu.bd
 mbga.khdmm.edu.bd
 mbrm.edu.bd
+mbshs.edu.bd
 mbtc.edu.bd
 mbtsc.edu.bd
 mc.edu.bd
@@ -1554,6 +1566,7 @@ smhabibpdc.edu.bd
 smmodelgovt.edu.bd
 sndmtangail.edu.bd
 socialpolytechnic.edu.bd
+sonaichandihs.edu.bd
 sonarayhs.edu.bd
 spbdakhilmadrasha.edu.bd
 spghs.edu.bd
@@ -1652,6 +1665,7 @@ ukidm.edu.bd
 umdc.edu.bd
 umidm.edu.bd
 unkilahighschool.edu.bd
+utrailhighschool.edu.bd
 uttarbahs.edu.bd
 uttarkethrangaidm.edu.bd
 vatoparaghs.edu.bd
@@ -1694,6 +1708,7 @@ webdisk.eklashpurhighschool.edu.bd
 webdisk.fakam.edu.bd
 webdisk.gaburdiahighschool.edu.bd
 webdisk.gfphs.edu.bd
+webdisk.gmsmhs.edu.bd
 webdisk.goragramhs.edu.bd
 webdisk.govtbarcollege.edu.bd
 webdisk.govtnacollege.edu.bd
@@ -1783,6 +1798,7 @@ webmail.dssmm.edu.bd
 webmail.eklashpurhighschool.edu.bd
 webmail.fakam.edu.bd
 webmail.gaburdiahighschool.edu.bd
+webmail.gmsmhs.edu.bd
 webmail.goragramhs.edu.bd
 webmail.govtbarcollege.edu.bd
 webmail.govtnacollege.edu.bd
@@ -2050,6 +2066,7 @@ www.gazipurmuslimhs.edu.bd.dwc.edu.bd
 www.gcia.green.edu.bd
 www.gfphs.edu.bd
 www.gmhsctg.edu.bd
+www.gmsmhs.edu.bd
 www.gobindaganjgc.edu.bd
 www.gomnatihs.mirzagonjmlhs.edu.bd
 www.goragramhs.edu.bd
@@ -2063,6 +2080,7 @@ www.hawchs.edu.bd
 www.hbuc.edu.bd
 www.heakmam.edu.bd
 www.healthposts.xyz.rbub.edu.bd
+www.hiranpphs.edu.bd
 www.hkhs.edu.bd
 www.hkmhs.gcdm.edu.bd
 www.hkmm.edu.bd
@@ -2159,6 +2177,7 @@ www.m.kamgdm.edu.bd
 www.m.mrdsdm.edu.bd
 www.m.nddm.edu.bd
 www.m.ssfm.edu.bd
+www.m.sultanabaddm.edu.bd
 www.m.vdm.edu.bd
 www.m.vmdm.edu.bd
 www.magazine.bcc.edu.bd
