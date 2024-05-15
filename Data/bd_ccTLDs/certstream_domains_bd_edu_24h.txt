@@ -1,5 +1,6 @@
 aaksac.edu.bd
 abdullapurhighschool.edu.bd
+accounts.butex.edu.bd
 aghdm.edu.bd
 alinagarghs.edu.bd
 alumni.ugv.edu.bd
@@ -36,6 +37,7 @@ beta.system.admission.sust.edu.bd
 bhatkhalihs.edu.bd
 bhawaldigitaltechnicalinstitute.edu.bd
 bhsschool.edu.bd
+bmddm.edu.bd
 boropilakjuniorhighschool.edu.bd
 bpmgmhs.edu.bd
 buhschool.edu.bd
@@ -73,6 +75,7 @@ cpanel.kmfgcmhs.edu.bd
 cpanel.laluajanata.edu.bd
 cpanel.lasdm110483.edu.bd
 cpanel.mbucollege.edu.bd
+cpanel.mkc.edu.bd
 cpanel.nmdm.edu.bd
 cpanel.nurulihs.edu.bd
 cpanel.saghspabna.edu.bd
@@ -105,6 +108,7 @@ cpcalendars.kmfgcmhs.edu.bd
 cpcalendars.laluajanata.edu.bd
 cpcalendars.lasdm110483.edu.bd
 cpcalendars.mbucollege.edu.bd
+cpcalendars.mkc.edu.bd
 cpcalendars.nmdm.edu.bd
 cpcalendars.nurulihs.edu.bd
 cpcalendars.saghspabna.edu.bd
@@ -137,6 +141,7 @@ cpcontacts.kmfgcmhs.edu.bd
 cpcontacts.laluajanata.edu.bd
 cpcontacts.lasdm110483.edu.bd
 cpcontacts.mbucollege.edu.bd
+cpcontacts.mkc.edu.bd
 cpcontacts.nmdm.edu.bd
 cpcontacts.nurulihs.edu.bd
 cpcontacts.saghspabna.edu.bd
@@ -207,6 +212,7 @@ khs100244.edu.bd
 kimdurdm.edu.bd
 kisamatchbhs.edu.bd
 kmfgcmhs.edu.bd
+kshsc.edu.bd
 kundeswaribv.edu.bd
 laluajanata.edu.bd
 laluajanata.shishupalliacademy.edu.bd
@@ -214,6 +220,7 @@ lasdm110483.edu.bd
 laujanaiudm.edu.bd
 lchsb.edu.bd
 library.cityuniversity.edu.bd
+link.amcc.edu.bd
 lutfunnesa.edu.bd
 machkholass.edu.bd
 mahishmariidm.edu.bd
@@ -251,6 +258,7 @@ mail.lasdm110483.edu.bd
 mail.lutfunnesa.edu.bd
 mail.mbucollege.edu.bd
 mail.mdpdm.edu.bd
+mail.mkc.edu.bd
 mail.nmdm.edu.bd
 mail.nurulihs.edu.bd
 mail.oxbridgecollege.edu.bd
@@ -266,7 +274,9 @@ mathurapurblhs.edu.bd
 mbucollege.edu.bd
 mdpdm.edu.bd
 mghs1918.edu.bd
+mhrhs.edu.bd
 mirpurimt.edu.bd
+mkc.edu.bd
 mmdowbarihs.edu.bd
 motherteresacpi.edu.bd
 motherteresacpi.edu.bd.tangailinstitute.edu.bd
@@ -282,6 +292,7 @@ oxbridgecollege.edu.bd
 pamdm.edu.bd
 pbmumadrasah.edu.bd
 perkarfajdm.edu.bd
+pmehahs.edu.bd
 pndhs.edu.bd
 portal.bakdm.edu.bd
 portal.dhulatiardm.edu.bd
@@ -317,6 +328,7 @@ shilkhurigirlshs.edu.bd
 shishupalliacademy.edu.bd
 shkm.edu.bd
 shridharpurdm.edu.bd
+slotgacor.amcc.edu.bd
 sndmtangail.edu.bd
 suhschool.edu.bd
 sujaulhs.edu.bd
@@ -325,6 +337,7 @@ sundarpurss.edu.bd
 truhschool.edu.bd
 tsphs.edu.bd
 ugck.dugc.edu.bd
+ukrmhs.edu.bd
 uwkdm.edu.bd
 vcard.daffodilvarsity.edu.bd
 webdisk.ambhschool.edu.bd
@@ -353,6 +366,7 @@ webdisk.kmfgcmhs.edu.bd
 webdisk.laluajanata.edu.bd
 webdisk.lasdm110483.edu.bd
 webdisk.mbucollege.edu.bd
+webdisk.mkc.edu.bd
 webdisk.nmdm.edu.bd
 webdisk.nurulihs.edu.bd
 webdisk.saghspabna.edu.bd
@@ -385,6 +399,7 @@ webmail.kmfgcmhs.edu.bd
 webmail.laluajanata.edu.bd
 webmail.lasdm110483.edu.bd
 webmail.mbucollege.edu.bd
+webmail.mkc.edu.bd
 webmail.nmdm.edu.bd
 webmail.nurulihs.edu.bd
 webmail.saghspabna.edu.bd
@@ -392,7 +407,9 @@ webmail.shishupalliacademy.edu.bd
 webmail.tsphs.edu.bd
 webmail.uwkdm.edu.bd
 webportal.easternuni.edu.bd
+wkui.edu.bd
 www.abdullapurhighschool.edu.bd
+www.accounts.butex.edu.bd
 www.admin.bangrambdm.edu.bd
 www.aghdm.edu.bd.jrmb.edu.bd
 www.alumni.ugv.edu.bd
@@ -451,12 +468,14 @@ www.laluajanata.edu.bd
 www.laluajanata.shishupalliacademy.edu.bd
 www.lasdm110483.edu.bd
 www.library.cityuniversity.edu.bd
+www.link.amcc.edu.bd
 www.lutfunnesa.edu.bd
 www.mahishmariidm.edu.bd
 www.majormannanhs.edu.bd.jrmb.edu.bd
 www.mbucollege.edu.bd
 www.mdpdm.edu.bd
 www.mirpurimt.edu.bd.traumainstitute.edu.bd
+www.mkc.edu.bd
 www.motherteresacpi.edu.bd.tangailinstitute.edu.bd
 www.nawkhairihs.edu.bd
 www.nmdm.edu.bd
@@ -472,6 +491,7 @@ www.ruakhs.edu.bd
 www.saghspabna.edu.bd
 www.salangafazilmadrasah.edu.bd.dhubilafhighschool.edu.bd
 www.shishupalliacademy.edu.bd
+www.slotgacor.amcc.edu.bd
 www.tsphs.edu.bd
 www.ugck.dugc.edu.bd
 www.uwkdm.edu.bd
