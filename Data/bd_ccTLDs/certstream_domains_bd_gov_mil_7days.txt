@@ -18,6 +18,7 @@ autodiscover.cptu.gov.bd
 autodiscover.eprocure.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.satkhirademo.gov.bd
+autodiscover.taxappealkhulna.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
@@ -179,6 +180,7 @@ cpanel.ccr.gov.bd
 cpanel.cmch.gov.bd
 cpanel.disability.wewb.gov.bd
 cpanel.satkhirademo.gov.bd
+cpanel.taxappealkhulna.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
 cpanel.taxeszone13dhaka.gov.bd
@@ -194,6 +196,7 @@ cpcalendars.ccr.gov.bd
 cpcalendars.cmch.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.satkhirademo.gov.bd
+cpcalendars.taxappealkhulna.gov.bd
 cpcalendars.taxappealzone3dhaka.gov.bd
 cpcalendars.taxesinspection.gov.bd
 cpcalendars.taxeszone13dhaka.gov.bd
@@ -208,6 +211,7 @@ cpcontacts.ccr.gov.bd
 cpcontacts.cmch.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.satkhirademo.gov.bd
+cpcontacts.taxappealkhulna.gov.bd
 cpcontacts.taxappealzone3dhaka.gov.bd
 cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
@@ -328,6 +332,7 @@ mail.ntrc.gameapp.gov.bd
 mail.patgrammunicipality.gov.bd
 mail.pbrlp.gov.bd
 mail.satkhirademo.gov.bd
+mail.taxappealkhulna.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
@@ -405,6 +410,7 @@ supervision.dghs.gov.bd
 surgeryrpmc.gov.bd
 systems.brri.gov.bd
 taherpurpourashava.gov.bd
+taxappealkhulna.gov.bd
 taxappealzone3dhaka.gov.bd
 taxappealzone4dhaka.gov.bd
 taxesinspection.gov.bd
@@ -435,6 +441,7 @@ webdisk.ccr.gov.bd
 webdisk.cmch.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.satkhirademo.gov.bd
+webdisk.taxappealkhulna.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
 webdisk.taxeszone13dhaka.gov.bd
@@ -449,6 +456,7 @@ webmail.ccr.gov.bd
 webmail.cmch.gov.bd
 webmail.disability.wewb.gov.bd
 webmail.satkhirademo.gov.bd
+webmail.taxappealkhulna.gov.bd
 webmail.taxappealzone3dhaka.gov.bd
 webmail.taxesinspection.gov.bd
 webmail.taxeszone13dhaka.gov.bd
@@ -515,6 +523,7 @@ www.smartramchandrapursouthup.gov.bd
 www.soft.taxesinspection.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
+www.taxappealkhulna.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxappealzone4dhaka.gov.bd
 www.taxesinspection.gov.bd
