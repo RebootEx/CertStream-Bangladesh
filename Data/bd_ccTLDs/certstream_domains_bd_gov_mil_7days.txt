@@ -6,6 +6,7 @@ airportarmedpolice.gov.bd
 alnahyantrust.gov.bd
 ansarvdp.gov.bd
 api-ictpolicy.ictd.gov.bd
+app.mymensingheducationboard.gov.bd
 apps.training.grs.gov.bd
 apscl.gov.bd
 archaeology.gov.bd
@@ -128,6 +129,7 @@ bscplc.gov.bd
 bsec.gov.bd
 bsfic.gov.bd
 bsfmstu.gameapp.gov.bd
+bsiedu.gov.bd
 bsmriith.gov.bd
 bsri.gov.bd
 bsrti.gov.bd
@@ -185,6 +187,7 @@ cpanel.bcoecopyright.gov.bd
 cpanel.bta.gov.bd
 cpanel.ccr.gov.bd
 cpanel.cmch.gov.bd
+cpanel.disability.wewb.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.satkhirademo.gov.bd
 cpanel.sesip.gov.bd
@@ -249,6 +252,7 @@ dgnm.gov.bd
 dhakabrt.gov.bd
 digitalcontent.gov.bd
 digrajshahirange.gov.bd
+disability.wewb.gov.bd
 distgopalganj.gov.bd
 dmc.gov.bd
 dmch.gov.bd
@@ -263,6 +267,7 @@ doict.gov.bd
 dos.gov.bd
 dpdc.gov.bd
 dphe.gov.bd
+dpp.gov.bd
 dsa.gov.bd
 dscc.gov.bd
 dss.gov.bd
@@ -303,6 +308,7 @@ ggc.gov.bd
 ghk.gov.bd
 gisfs.bpc.gov.bd
 giupmo.gov.bd
+grs.gov.bd
 gtbb.gov.bd
 hajoffice.gov.bd
 hbri.gov.bd
@@ -316,6 +322,7 @@ it.iifc.gov.bd
 jalalpur.upsylhetholdingtax.gov.bd
 jobfair.awt.mil.bd
 jscadmitcard.bise-ctg.gov.bd
+kanthaliaup.narsingdilg.gov.bd
 kda.gov.bd
 kgdcl.gov.bd
 kgmc.gov.bd
@@ -337,10 +344,12 @@ macademysylhet.gov.bd
 madhukhalipaurashava.gov.bd
 mail.bcoecopyright.gov.bd
 mail.bppa.gov.bd
+mail.bsiedu.gov.bd
 mail.bta.gov.bd
 mail.ccr.gov.bd
 mail.cmch.gov.bd
 mail.cptu.gov.bd
+mail.disability.wewb.gov.bd
 mail.eprocure.gov.bd
 mail.gtbb.gov.bd
 mail.iras.bamis.gov.bd
@@ -383,6 +392,7 @@ nlp.gov.bd
 ntrc.gameapp.gov.bd
 ocei.gov.bd
 old.bise-ctg.gov.bd
+old.iedcr.gov.bd
 pabnapourashava.gov.bd
 patharghatapourashava.gov.bd
 patuakhalimunicipality.gov.bd
@@ -433,6 +443,7 @@ stagepayroll.titasgas.gov.bd
 stageportal.titasgas.gov.bd
 stagereports.titasgas.gov.bd
 stagewww.titasgas.gov.bd
+supervision.dghs.gov.bd
 surgeryrpmc.gov.bd
 systems.brri.gov.bd
 taherpurpourashava.gov.bd
@@ -446,7 +457,9 @@ taxeszone3dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszoneonedhaka.gov.bd
 tcb.melandahbhata.gov.bd
+tele-medicine.dghs.gov.bd
 test.gameapp.gov.bd
+thedp.gov.bd
 tk.coxpoly.gov.bd
 touristpolice.gov.bd
 training.distgopalganj.gov.bd
@@ -481,6 +494,7 @@ webmail.bcoecopyright.gov.bd
 webmail.bta.gov.bd
 webmail.ccr.gov.bd
 webmail.cmch.gov.bd
+webmail.disability.wewb.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.satkhirademo.gov.bd
 webmail.sesip.gov.bd
@@ -503,6 +517,7 @@ www.bharellasouthup.gov.bd
 www.bise-ctg.gov.bd
 www.booking.bbcfec.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.bsiedu.gov.bd
 www.bta.gov.bd
 www.cafocat.gov.bd
 www.cafochta.gov.bd
@@ -525,16 +540,20 @@ www.demo.kabinazrulcollege.gov.bd
 www.demo.taxeszone2.gov.bd
 www.digitalcontent.gov.bd
 www.digrajshahirange.gov.bd
+www.disability.wewb.gov.bd
+www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.ekpass.gov.bd
 www.erecruitment.bcc.gov.bd
 www.esheba.sylhetboard.gov.bd
 www.gisfs.bpc.gov.bd
+www.grs.gov.bd
 www.gtbb.gov.bd
 www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.iras.bamis.gov.bd
 www.it.iifc.gov.bd
 www.jalalpur.upsylhetholdingtax.gov.bd
+www.kanthaliaup.narsingdilg.gov.bd
 www.lakshmipurpourashava.gov.bd
 www.laravel.sfcair.gov.bd
 www.lms.parbatipurtsc.gov.bd
@@ -544,6 +563,7 @@ www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.nicvd.gov.bd
 www.nlp.gov.bd
 www.ntrc.gameapp.gov.bd
+www.old.iedcr.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.profile.rmch.gov.bd
