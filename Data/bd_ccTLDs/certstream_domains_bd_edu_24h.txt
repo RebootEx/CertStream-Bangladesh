@@ -44,6 +44,7 @@ baonarahighschool.edu.bd
 basandc.edu.bd
 basantapurschool.edu.bd
 basgghs.edu.bd
+bmndm.edu.bd
 bnsacg.edu.bd
 cpanel.baonarahighschool.edu.bd
 cpanel.basantapurschool.edu.bd
@@ -54,6 +55,7 @@ cpanel.gazirhat.edu.bd
 cpanel.gsam.edu.bd
 cpanel.hmhvghs.edu.bd
 cpanel.jdsdm.edu.bd
+cpanel.katigramhighschool.edu.bd
 cpanel.kdudm.edu.bd
 cpanel.kmgadmj.edu.bd
 cpanel.kphsm.edu.bd
@@ -92,6 +94,7 @@ cpcalendars.gazirhat.edu.bd
 cpcalendars.gsam.edu.bd
 cpcalendars.hmhvghs.edu.bd
 cpcalendars.jdsdm.edu.bd
+cpcalendars.katigramhighschool.edu.bd
 cpcalendars.kdudm.edu.bd
 cpcalendars.kmgadmj.edu.bd
 cpcalendars.kphsm.edu.bd
@@ -130,6 +133,7 @@ cpcontacts.gazirhat.edu.bd
 cpcontacts.gsam.edu.bd
 cpcontacts.hmhvghs.edu.bd
 cpcontacts.jdsdm.edu.bd
+cpcontacts.katigramhighschool.edu.bd
 cpcontacts.kdudm.edu.bd
 cpcontacts.kmgadmj.edu.bd
 cpcontacts.kphsm.edu.bd
@@ -174,6 +178,7 @@ hhacdm.edu.bd
 hmhvghs.edu.bd
 hscollege.edu.bd
 jdsdm.edu.bd
+katigramhighschool.edu.bd
 kawaljaninhs.edu.bd
 kdudm.edu.bd
 kmgadmj.edu.bd
@@ -195,6 +200,7 @@ mail.gazirhat.edu.bd
 mail.gsam.edu.bd
 mail.hmhvghs.edu.bd
 mail.jdsdm.edu.bd
+mail.katigramhighschool.edu.bd
 mail.kdudm.edu.bd
 mail.kmgadmj.edu.bd
 mail.kphsm.edu.bd
@@ -239,9 +245,13 @@ nddmm.edu.bd
 newsoft.hgc.edu.bd
 nizam.edu.bd
 nssdc.edu.bd
+paragaon.edu.bd
+paragaon.kathoraidm.edu.bd
 plhs.edu.bd
 raipurhs.edu.bd
+ranguniamhs.edu.bd
 s.bsahhs.edu.bd
+saths.edu.bd
 sbssc.edu.bd
 scssg.edu.bd
 sdqdm.edu.bd
@@ -267,6 +277,7 @@ webdisk.gazirhat.edu.bd
 webdisk.gsam.edu.bd
 webdisk.hmhvghs.edu.bd
 webdisk.jdsdm.edu.bd
+webdisk.katigramhighschool.edu.bd
 webdisk.kdudm.edu.bd
 webdisk.kmgadmj.edu.bd
 webdisk.kphsm.edu.bd
@@ -305,6 +316,7 @@ webmail.gazirhat.edu.bd
 webmail.gsam.edu.bd
 webmail.hmhvghs.edu.bd
 webmail.jdsdm.edu.bd
+webmail.katigramhighschool.edu.bd
 webmail.kdudm.edu.bd
 webmail.kmgadmj.edu.bd
 webmail.kphsm.edu.bd
@@ -337,6 +349,7 @@ webmail.tsphs.edu.bd
 www.abcdcollege.edu.bd
 www.baonarahighschool.edu.bd
 www.basantapurschool.edu.bd
+www.bmndm.edu.bd
 www.bnsacg.edu.bd
 www.ddhs68.edu.bd
 www.dogachihs.edu.bd
@@ -347,6 +360,7 @@ www.gsam.edu.bd
 www.hmhvghs.edu.bd
 www.hscollege.edu.bd
 www.jdsdm.edu.bd
+www.katigramhighschool.edu.bd
 www.kdudm.edu.bd
 www.kmgadmj.edu.bd
 www.kphsm.edu.bd
@@ -369,8 +383,10 @@ www.nddmm.edu.bd
 www.newsoft.hgc.edu.bd
 www.nizam.edu.bd
 www.nssdc.edu.bd
+www.paragaon.kathoraidm.edu.bd
 www.raipurhs.edu.bd
 www.s.bsahhs.edu.bd
+www.saths.edu.bd
 www.sbssc.edu.bd
 www.scssg.edu.bd
 www.sdqdm.edu.bd
