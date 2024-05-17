@@ -145,6 +145,7 @@ cafolaw.gov.bd
 cafomohfw.gov.bd
 cafopme.gov.bd
 cafotnt.gov.bd
+cbc.dnbc.gov.bd
 cbraj.gov.bd
 cca.gov.bd
 ccb.gov.bd
@@ -159,6 +160,7 @@ ceccr.gov.bd
 centraldhis.mohfw.gov.bd
 centralfund.gov.bd
 certificate.comillaboard.gov.bd
+cevchandina.gov.bd
 cgdf.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
 chowmuhanimunicipality.gov.bd
@@ -239,6 +241,7 @@ dmch.gov.bd
 dmco.gov.bd
 dmlc.gov.bd
 dmpwsid.gov.bd
+dnbc.gov.bd
 dnc.gov.bd
 dncc-dch.gov.bd
 dncc.gov.bd
@@ -298,6 +301,7 @@ imtchandpur.gov.bd
 infocom.gov.bd
 it.iifc.gov.bd
 jalalpur.upsylhetholdingtax.gov.bd
+jessorecustoms.gov.bd
 jscadmitcard.bise-ctg.gov.bd
 kanthaliaup.narsingdilg.gov.bd
 kda.gov.bd
@@ -309,11 +313,13 @@ lalmonirhatmunicipality.gov.bd
 land.btcl.gov.bd
 landzoning.gov.bd
 laravel.sfcair.gov.bd
+lcsakhaura.gov.bd
 learning.dgme.gov.bd
 lged.gov.bd
 lms.parbatipurtsc.gov.bd
 lttc.gov.bd
 ltu.gov.bd
+ltuvat.gov.bd
 lvs.ansarvdpbank.gov.bd
 macademypabna.gov.bd
 macademysylhet.gov.bd
@@ -326,9 +332,14 @@ mail.chowmuhanimunicipality.gov.bd
 mail.cmch.gov.bd
 mail.cptu.gov.bd
 mail.disability.wewb.gov.bd
+mail.dnbc.gov.bd
 mail.eprocure.gov.bd
 mail.gtbb.gov.bd
+mail.jessorecustoms.gov.bd
+mail.lcsakhaura.gov.bd
+mail.ltuvat.gov.bd
 mail.patgrammunicipality.gov.bd
+mail.pch.gov.bd
 mail.taxappealkhulna.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
@@ -355,6 +366,7 @@ napd.gov.bd
 nariamunicipality.gov.bd
 nazipurpourashava.gov.bd
 nccrfhd.gov.bd
+new.vatdhkeast.gov.bd
 niport.gov.bd
 nlp.gov.bd
 old.bise-ctg.gov.bd
@@ -362,6 +374,7 @@ old.iedcr.gov.bd
 pabnapourashava.gov.bd
 patharghatapourashava.gov.bd
 patuakhalimunicipality.gov.bd
+pch.gov.bd
 phulpur.upmymensinghholdingtax.gov.bd
 polytech.gov.bd
 pv.dgda.gov.bd
@@ -377,6 +390,7 @@ smms.fid.gov.bd
 soft.taxesinspection.gov.bd
 sonod.gov.bd
 sresult.bise-ctg.gov.bd
+sribordicollege.gov.bd
 stageaccounting.titasgas.gov.bd
 stageadmin.titasgas.gov.bd
 stageauth.titasgas.gov.bd
@@ -411,6 +425,7 @@ taxeszone3dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszoneonedhaka.gov.bd
 tcb.melandahbhata.gov.bd
+tealicense.gov.bd
 tele-medicine.dghs.gov.bd
 thedp.gov.bd
 tk.coxpoly.gov.bd
@@ -486,6 +501,7 @@ www.dhobaura.upmymensinghholdingtax.gov.bd
 www.digitalcontent.gov.bd
 www.digrajshahirange.gov.bd
 www.disability.wewb.gov.bd
+www.dnbc.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.ekpass.gov.bd
@@ -498,16 +514,21 @@ www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.it.iifc.gov.bd
 www.jalalpur.upsylhetholdingtax.gov.bd
+www.jessorecustoms.gov.bd
 www.kanthaliaup.narsingdilg.gov.bd
 www.lakshmipurpourashava.gov.bd
 www.laravel.sfcair.gov.bd
+www.lcsakhaura.gov.bd
 www.lms.parbatipurtsc.gov.bd
+www.ltuvat.gov.bd
 www.lvs.ansarvdpbank.gov.bd
 www.muktagacha.upmymensinghholdingtax.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
+www.new.vatdhkeast.gov.bd
 www.nlp.gov.bd
 www.nokshipolli.melandahbhata.gov.bd
 www.old.iedcr.gov.bd
+www.pch.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.radhanagarup.gov.bd
 www.soft.taxesinspection.gov.bd
