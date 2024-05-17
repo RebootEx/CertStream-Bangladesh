@@ -1,6 +1,8 @@
 api.ipemis.training.dpe.gov.bd
 bbms.dghs.gov.bd
 billing.a2i.gov.bd
+cafocommerce.gov.bd
+caforeligious.gov.bd
 chatulup.faridpurlg.gov.bd
 cltp.gov.bd
 dashboard.ipemis.training.dpe.gov.bd
@@ -15,6 +17,8 @@ login.ipemis.training.dpe.gov.bd
 maijdeetsc.gov.bd
 ops.ipemis.training.dpe.gov.bd
 sarswp.gnc.gov.bd
+www.cafocommerce.gov.bd
+www.caforeligious.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.cltp.gov.bd
 www.ems.taxeszone3ctg.gov.bd
