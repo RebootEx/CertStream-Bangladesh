@@ -7,6 +7,7 @@ airamaryghs.edu.bd
 alumni.butex.edu.bd
 amairhs.edu.bd
 aranagarhighschool.edu.bd
+athakarahs.edu.bd
 autodiscover.baonarahighschool.edu.bd
 autodiscover.basantapurschool.edu.bd
 autodiscover.bass.edu.bd
@@ -15,6 +16,7 @@ autodiscover.dargrammadrasah.edu.bd
 autodiscover.ddhs68.edu.bd
 autodiscover.dogachihs.edu.bd
 autodiscover.gazirhat.edu.bd
+autodiscover.gkbahs.edu.bd
 autodiscover.gsam.edu.bd
 autodiscover.hmhvghs.edu.bd
 autodiscover.jdsdm.edu.bd
@@ -50,6 +52,7 @@ autodiscover.tsphs.edu.bd
 babuganjass.edu.bd
 bafsj.edu.bd
 bahadurpurhssarsa.edu.bd
+balatoirhs.edu.bd
 baonarahighschool.edu.bd
 baradalgirlsschool.edu.bd
 basandc.edu.bd
@@ -57,11 +60,13 @@ basantapurschool.edu.bd
 basgghs.edu.bd
 bass.edu.bd
 bhayadangaam.edu.bd
+bidyaganjhighschoolmym.edu.bd
 bmndm.edu.bd
 bnsacg.edu.bd
 bsmrau.edu.bd
 bwumhs.edu.bd
 chariakandahighschool.edu.bd
+chhatrahs.edu.bd
 cnmrmhs.edu.bd
 cpanel.baonarahighschool.edu.bd
 cpanel.basantapurschool.edu.bd
@@ -72,6 +77,7 @@ cpanel.dargrammadrasah.edu.bd
 cpanel.ddhs68.edu.bd
 cpanel.dogachihs.edu.bd
 cpanel.gazirhat.edu.bd
+cpanel.gkbahs.edu.bd
 cpanel.gsam.edu.bd
 cpanel.hmhvghs.edu.bd
 cpanel.jdsdm.edu.bd
@@ -114,6 +120,7 @@ cpcalendars.dargrammadrasah.edu.bd
 cpcalendars.ddhs68.edu.bd
 cpcalendars.dogachihs.edu.bd
 cpcalendars.gazirhat.edu.bd
+cpcalendars.gkbahs.edu.bd
 cpcalendars.gsam.edu.bd
 cpcalendars.hmhvghs.edu.bd
 cpcalendars.jdsdm.edu.bd
@@ -156,6 +163,7 @@ cpcontacts.dargrammadrasah.edu.bd
 cpcontacts.ddhs68.edu.bd
 cpcontacts.dogachihs.edu.bd
 cpcontacts.gazirhat.edu.bd
+cpcontacts.gkbahs.edu.bd
 cpcontacts.gsam.edu.bd
 cpcontacts.hmhvghs.edu.bd
 cpcontacts.jdsdm.edu.bd
@@ -193,15 +201,22 @@ cse.butex.edu.bd
 dargrammadrasah.edu.bd
 dchss131121.edu.bd
 ddhs68.edu.bd
+dharerbarimuslimhsc.edu.bd
 diardhainagarhs.edu.bd
 dogachihs.edu.bd
 ebsesdpmhs.edu.bd
+ecampus.sapahartsc.edu.bd
+ecampus.tscdurgapur.edu.bd
 edu.bd.traumainstitute.edu.bd
 eduroam.just.edu.bd
+fibhs.edu.bd
 frozenkebab.bkdcl.edu.bd
 fulkuricsc.edu.bd
 gabrakhalihighschool.edu.bd
 gazirhat.edu.bd
+gdmgr.edu.bd
+gkbahs.edu.bd
+gobindaganjgc.edu.bd
 gobratalaghs.edu.bd
 gongaharihighschool.edu.bd
 gsam.edu.bd
@@ -211,9 +226,11 @@ hscollege.edu.bd
 ibge.bsmrau.edu.bd
 islampurmlhs.edu.bd
 jdsdm.edu.bd
+jnca.edu.bd
 jobs.just.edu.bd
 kalidaskuhs.edu.bd
 kandirhatsc.edu.bd
+kargaonhighschool.edu.bd
 katigramhighschool.edu.bd
 kawaljaninhs.edu.bd
 kdudm.edu.bd
@@ -241,6 +258,7 @@ mail.dogachihs.edu.bd
 mail.fulkuricsc.edu.bd
 mail.gabrakhalihighschool.edu.bd
 mail.gazirhat.edu.bd
+mail.gkbahs.edu.bd
 mail.gsam.edu.bd
 mail.hmhvghs.edu.bd
 mail.jdsdm.edu.bd
@@ -285,9 +303,12 @@ mhschool.edu.bd
 mirpurnursing.edu.bd
 mlsnbghs.edu.bd
 mmhsac.edu.bd
+mmsac.edu.bd
 mohishadangahs.edu.bd
+monshaschoolandcollege.edu.bd
 msghsac.edu.bd
 munsuralihs.edu.bd
+narayanpurmmhs.edu.bd
 nddmm.edu.bd
 newmodelhighschool.edu.bd
 newsoft.hgc.edu.bd
@@ -305,6 +326,7 @@ ranguniamhs.edu.bd
 rcit.edu.bd
 rwam.edu.bd
 s.bsahhs.edu.bd
+sahighschool.edu.bd
 samiruddincollege.edu.bd
 saptibaricollege.edu.bd
 saths.edu.bd
@@ -314,6 +336,7 @@ scssg.edu.bd
 sdqdm.edu.bd
 sdsdm.edu.bd
 serp.azimhakimschool.edu.bd
+server.ckhuhs.edu.bd
 sgovtphs.edu.bd
 shakerahs.edu.bd
 shatadalgirlshs.edu.bd
@@ -343,6 +366,7 @@ webdisk.dargrammadrasah.edu.bd
 webdisk.ddhs68.edu.bd
 webdisk.dogachihs.edu.bd
 webdisk.gazirhat.edu.bd
+webdisk.gkbahs.edu.bd
 webdisk.gsam.edu.bd
 webdisk.hmhvghs.edu.bd
 webdisk.jdsdm.edu.bd
@@ -385,6 +409,7 @@ webmail.dargrammadrasah.edu.bd
 webmail.ddhs68.edu.bd
 webmail.dogachihs.edu.bd
 webmail.gazirhat.edu.bd
+webmail.gkbahs.edu.bd
 webmail.gsam.edu.bd
 webmail.hmhvghs.edu.bd
 webmail.jdsdm.edu.bd
@@ -437,10 +462,14 @@ www.dargrammadrasah.edu.bd
 www.ddhs68.edu.bd
 www.dogachihs.edu.bd
 www.ebsesdpmhs.edu.bd
+www.ecampus.sapahartsc.edu.bd
+www.ecampus.tscdurgapur.edu.bd
 www.frozenkebab.bkdcl.edu.bd
 www.fulkuricsc.edu.bd
 www.gabrakhalihighschool.edu.bd
 www.gazirhat.edu.bd
+www.gdmgr.edu.bd
+www.gkbahs.edu.bd
 www.gsam.edu.bd
 www.hmhvghs.edu.bd
 www.hscollege.edu.bd
@@ -449,6 +478,7 @@ www.islampurmlhs.edu.bd
 www.jdsdm.edu.bd
 www.jobs.just.edu.bd
 www.kandirhatsc.edu.bd
+www.kargaonhighschool.edu.bd
 www.katigramhighschool.edu.bd
 www.kdudm.edu.bd
 www.kmgadmj.edu.bd
@@ -467,6 +497,7 @@ www.meheraliamadrasah.edu.bd
 www.mhschool.edu.bd
 www.mirpurnursing.edu.bd.traumainstitute.edu.bd
 www.mmhsac.edu.bd
+www.mmsac.edu.bd
 www.msghsac.edu.bd
 www.munsuralihs.edu.bd
 www.nddmm.edu.bd
@@ -490,6 +521,7 @@ www.scssg.edu.bd
 www.sdqdm.edu.bd
 www.sdsdm.edu.bd
 www.serp.azimhakimschool.edu.bd
+www.server.ckhuhs.edu.bd
 www.shatadalgirlshs.edu.bd
 www.shibpurhighschool.edu.bd.aranagarhighschool.edu.bd
 www.shshsm.edu.bd
@@ -499,5 +531,6 @@ www.smghschool.edu.bd.ihsh.edu.bd
 www.ssdcb.edu.bd
 www.tfd.butex.edu.bd
 www.tsphs.edu.bd
+www.ubhschool.edu.bd
 www.updatecollege.edu.bd
 www.webmail.kyamc.edu.bd
