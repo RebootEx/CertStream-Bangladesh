@@ -372,6 +372,7 @@ cpanel.dorsonparahs.edu.bd
 cpanel.dssmm.edu.bd
 cpanel.eklashpurhighschool.edu.bd
 cpanel.eub.edu.bd
+cpanel.fafm.edu.bd
 cpanel.fakam.edu.bd
 cpanel.gaburdiahighschool.edu.bd
 cpanel.gfm54.edu.bd
@@ -481,6 +482,7 @@ cpcalendars.dncollege.edu.bd
 cpcalendars.dssmm.edu.bd
 cpcalendars.eklashpurhighschool.edu.bd
 cpcalendars.eub.edu.bd
+cpcalendars.fafm.edu.bd
 cpcalendars.fakam.edu.bd
 cpcalendars.gaburdiahighschool.edu.bd
 cpcalendars.gfm54.edu.bd
@@ -590,6 +592,7 @@ cpcontacts.dncollege.edu.bd
 cpcontacts.dssmm.edu.bd
 cpcontacts.eklashpurhighschool.edu.bd
 cpcontacts.eub.edu.bd
+cpcontacts.fafm.edu.bd
 cpcontacts.fakam.edu.bd
 cpcontacts.gaburdiahighschool.edu.bd
 cpcontacts.gfm54.edu.bd
@@ -783,6 +786,7 @@ eng.rpsu.edu.bd
 epayment.primeasia.edu.bd
 eub.edu.bd
 faculty.ugv.edu.bd
+fafm.edu.bd
 fakam.edu.bd
 fakhs.edu.bd
 faliasss.edu.bd
@@ -903,6 +907,7 @@ hkmhs.edu.bd
 hkmhs.gcdm.edu.bd
 hkmm.edu.bd
 hkrhs.edu.bd
+hlmcc.edu.bd
 hlphs.edu.bd
 hmachs.edu.bd
 hmaikm.edu.bd
@@ -1201,6 +1206,7 @@ mail.dorsonparahs.edu.bd
 mail.dssmm.edu.bd
 mail.eklashpurhighschool.edu.bd
 mail.eub.edu.bd
+mail.fafm.edu.bd
 mail.fakam.edu.bd
 mail.fatehpurkghs.edu.bd
 mail.gaburdiahighschool.edu.bd
@@ -1505,6 +1511,7 @@ paitharahighschool.edu.bd
 pakccmc.edu.bd
 palpurhs.edu.bd
 pamdm.edu.bd
+pancharghs.edu.bd
 pancheyhighschool.edu.bd
 paradise.moniraazimacademy.edu.bd
 paragaon.edu.bd
@@ -1717,6 +1724,7 @@ shuktarabidyaniketan.edu.bd
 shyamnagarhs.edu.bd
 shyamnagarhs.nkdm.edu.bd
 shyampurhmdcollege.edu.bd
+siam.edu.bd
 sibacs.edu.bd
 sictjhs.edu.bd
 siddiqunnesamdm.edu.bd
@@ -1748,6 +1756,7 @@ socialpolytechnic.edu.bd
 sonaborhs.edu.bd
 sonaichandihs.edu.bd
 sonarayhs.edu.bd
+sonargaongri.edu.bd
 spbdakhilmadrasha.edu.bd
 spcchs.edu.bd
 spghs.edu.bd
@@ -1777,6 +1786,7 @@ sujaulhs.edu.bd
 sukhanpukurgirlshighschool.edu.bd
 sukhanpukurhighschool1914.edu.bd
 sunarhaths.edu.bd
+sunbeams.edu.bd
 sundarbangirlshighschool.edu.bd
 sundarbansgs.edu.bd
 sundarpursrhs.edu.bd
@@ -1824,6 +1834,7 @@ ubuhs.edu.bd
 ucbsc.edu.bd
 uchs.edu.bd
 udhuniamjhs.edu.bd
+udm.edu.bd
 ugck.dugc.edu.bd
 ujalkurhighschool.edu.bd
 ujanicollege.edu.bd
@@ -1883,6 +1894,7 @@ webdisk.dncollege.edu.bd
 webdisk.dssmm.edu.bd
 webdisk.eklashpurhighschool.edu.bd
 webdisk.eub.edu.bd
+webdisk.fafm.edu.bd
 webdisk.fakam.edu.bd
 webdisk.gaburdiahighschool.edu.bd
 webdisk.gfm54.edu.bd
@@ -1995,6 +2007,7 @@ webmail.dorsonparahs.edu.bd
 webmail.dssmm.edu.bd
 webmail.eklashpurhighschool.edu.bd
 webmail.eub.edu.bd
+webmail.fafm.edu.bd
 webmail.fakam.edu.bd
 webmail.gaburdiahighschool.edu.bd
 webmail.gfm54.edu.bd
@@ -2274,6 +2287,7 @@ www.eng.rpsu.edu.bd
 www.epayment.primeasia.edu.bd
 www.eub.edu.bd
 www.faculty.ugv.edu.bd
+www.fafm.edu.bd
 www.fakam.edu.bd
 www.fatehpurkghs.edu.bd
 www.fse.green.edu.bd
