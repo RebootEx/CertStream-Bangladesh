@@ -4,6 +4,7 @@ airportarmedpolice.gov.bd
 alnahyantrust.gov.bd
 ansarvdp.gov.bd
 api-ictpolicy.ictd.gov.bd
+api.ipemis.training.dpe.gov.bd
 app.mymensingheducationboard.gov.bd
 apscl.gov.bd
 archaeology.gov.bd
@@ -42,6 +43,7 @@ bard.gov.bd
 bari.gov.bd
 barishalpoly.gov.bd
 bba.gov.bd
+bbms.dghs.gov.bd
 bbs.gov.bd
 bca.gov.bd
 bcct.gov.bd
@@ -73,6 +75,7 @@ bhtpa.gov.bd
 bia.gov.bd
 bids.gov.bd
 bill.dphe.gov.bd
+billing.a2i.gov.bd
 bim.gov.bd
 bina.gov.bd
 birtan.gov.bd
@@ -144,6 +147,7 @@ cafoland.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
 cafopme.gov.bd
+caforeligious.gov.bd
 cafotnt.gov.bd
 cbc.dnbc.gov.bd
 cbraj.gov.bd
@@ -163,10 +167,12 @@ certificate.comillaboard.gov.bd
 cevchandina.gov.bd
 cgdf.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
+chatulup.faridpurlg.gov.bd
 chowmuhanimunicipality.gov.bd
 chrdc.gov.bd
 chtdb.gov.bd
 chtrc.gov.bd
+cltp.gov.bd
 cmch.gov.bd
 cms.cpadigital.gov.bd
 cmsd.gov.bd
@@ -225,6 +231,7 @@ cpgcbl.gov.bd
 csbt.gov.bd
 culmination.comillaboard.gov.bd
 dac.gov.bd
+dashboard.ipemis.training.dpe.gov.bd
 daulatpurup.gov.bd
 dcd.gov.bd
 demand.taxeszone13dhaka.gov.bd
@@ -266,10 +273,12 @@ ecptest.uru.gov.bd
 ecptrain.uru.gov.bd
 edlms.gov.bd
 edu.bd.gbrcr.gov.bd
+edutech.gov.bd
 effjsc.comillaboard.gov.bd
 egcb.gov.bd
 ekpass.gov.bd
 elbl.gov.bd
+ems.taxeszone3ctg.gov.bd
 eocgeoportal.dncc.gov.bd
 erecruitment.bcc.gov.bd
 esales.banglaacademy.gov.bd
@@ -286,11 +295,14 @@ flid.gov.bd
 forestacademy.gov.bd
 frc.gov.bd
 freelancers.gov.bd
+gatepass.chc.gov.bd
+gazirtekup.faridpurlg.gov.bd
 gcb.gov.bd
 ghorashalpourashava.gov.bd
 giupmo.gov.bd
 grs.gov.bd
 gtbb.gov.bd
+gunbahaup.faridpurlg.gov.bd
 hajoffice.gov.bd
 hbri.gov.bd
 hlp.gov.bd
@@ -301,6 +313,8 @@ icb.gov.bd
 ictbdinvestigation.gov.bd
 imtchandpur.gov.bd
 infocom.gov.bd
+ipemis.training.dpe.gov.bd
+iptv.totthoapa.gov.bd
 it.iifc.gov.bd
 jalalpur.upsylhetholdingtax.gov.bd
 jessorecustoms.gov.bd
@@ -319,6 +333,7 @@ lcsakhaura.gov.bd
 learning.dgme.gov.bd
 lged.gov.bd
 lms.parbatipurtsc.gov.bd
+login.ipemis.training.dpe.gov.bd
 lttc.gov.bd
 ltu.gov.bd
 ltuvat.gov.bd
@@ -326,6 +341,7 @@ lvs.ansarvdpbank.gov.bd
 macademypabna.gov.bd
 macademysylhet.gov.bd
 madhukhalipaurashava.gov.bd
+maijdeetsc.gov.bd
 mail.bcoecopyright.gov.bd
 mail.bppa.gov.bd
 mail.bsiedu.gov.bd
@@ -373,6 +389,7 @@ niport.gov.bd
 nlp.gov.bd
 old.bise-ctg.gov.bd
 old.iedcr.gov.bd
+ops.ipemis.training.dpe.gov.bd
 pabnapourashava.gov.bd
 patharghatapourashava.gov.bd
 patuakhalimunicipality.gov.bd
@@ -387,6 +404,7 @@ rhd.gov.bd
 rpmp.gov.bd
 saejp.gov.bd
 sariakandipourashava.gov.bd
+sarswp.gnc.gov.bd
 schedule.brri.gov.bd
 shaistaganjmunicipality.gov.bd
 smms.fid.gov.bd
@@ -434,6 +452,7 @@ tealicense.gov.bd
 tele-medicine.dghs.gov.bd
 thedp.gov.bd
 tk.coxpoly.gov.bd
+totthoapa.gov.bd
 touristpolice.gov.bd
 training.distgopalganj.gov.bd
 trainingbi.apamsv3.cabinet.gov.bd
@@ -488,11 +507,16 @@ www.bta.gov.bd
 www.bvcdatabase.bvc.gov.bd
 www.cafocat.gov.bd
 www.cafochta.gov.bd
+www.cafocommerce.gov.bd
+www.cafoland.gov.bd
 www.cafolaw.gov.bd
 www.cafopme.gov.bd
+www.caforeligious.gov.bd
 www.cafotnt.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
+www.chatulup.faridpurlg.gov.bd
 www.chowmuhanimunicipality.gov.bd
+www.cltp.gov.bd
 www.cmch.gov.bd
 www.cms.cpadigital.gov.bd
 www.collegemanagement.thakpoly.gov.bd
@@ -510,11 +534,15 @@ www.dnbc.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.ekpass.gov.bd
+www.ems.taxeszone3ctg.gov.bd
 www.erecruitment.bcc.gov.bd
 www.esheba.sylhetboard.gov.bd
+www.gazirtekup.faridpurlg.gov.bd
+www.gongaharihighschool.edu.bd.gbrcr.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
 www.grs.gov.bd
 www.gtbb.gov.bd
+www.gunbahaup.faridpurlg.gov.bd
 www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.it.iifc.gov.bd
@@ -536,6 +564,7 @@ www.old.iedcr.gov.bd
 www.pch.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.radhanagarup.gov.bd
+www.sarswp.gnc.gov.bd
 www.soft.taxesinspection.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
