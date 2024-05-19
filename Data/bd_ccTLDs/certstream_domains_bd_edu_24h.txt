@@ -13,6 +13,7 @@ ashampoo.hamdarduniversity.edu.bd
 ashampoocommander.hamdarduniversity.edu.bd
 ashampoophoto.hamdarduniversity.edu.bd
 asrahs.edu.bd
+autodiscover.hadmadrasah.edu.bd
 autodiscover.legend.edu.bd
 bafsb.edu.bd
 bashs.edu.bd
@@ -34,6 +35,7 @@ chhotoshs.edu.bd
 cityuniversity.edu.bd
 cpanel.abusharaftsc.edu.bd
 cpanel.dnasc.edu.bd
+cpanel.hadmadrasah.edu.bd
 cpanel.jalilpur.edu.bd
 cpanel.jkkniu.edu.bd
 cpanel.jmudm.edu.bd
@@ -41,9 +43,11 @@ cpanel.legend.edu.bd
 cpanel.maubdm.edu.bd
 cpanel.nauddm.edu.bd
 cpanel.newmodelcollege.edu.bd
+cpanel.waggahighschool.edu.bd
 cpanel.wahidunnesa.edu.bd
 cpcalendars.abusharaftsc.edu.bd
 cpcalendars.dnasc.edu.bd
+cpcalendars.hadmadrasah.edu.bd
 cpcalendars.jalilpur.edu.bd
 cpcalendars.jkkniu.edu.bd
 cpcalendars.jmudm.edu.bd
@@ -52,9 +56,11 @@ cpcalendars.legend.edu.bd
 cpcalendars.maubdm.edu.bd
 cpcalendars.nauddm.edu.bd
 cpcalendars.newmodelcollege.edu.bd
+cpcalendars.waggahighschool.edu.bd
 cpcalendars.wahidunnesa.edu.bd
 cpcontacts.abusharaftsc.edu.bd
 cpcontacts.dnasc.edu.bd
+cpcontacts.hadmadrasah.edu.bd
 cpcontacts.jalilpur.edu.bd
 cpcontacts.jkkniu.edu.bd
 cpcontacts.jmudm.edu.bd
@@ -63,10 +69,12 @@ cpcontacts.legend.edu.bd
 cpcontacts.maubdm.edu.bd
 cpcontacts.nauddm.edu.bd
 cpcontacts.newmodelcollege.edu.bd
+cpcontacts.waggahighschool.edu.bd
 cpcontacts.wahidunnesa.edu.bd
 crs.edu.bd
 daluacharahs.edu.bd
 darulhadithsalafiyahmadrasa.edu.bd
+deopurahs.edu.bd
 dmacademy.edu.bd
 dnasc.edu.bd
 dobilahs.edu.bd
@@ -81,12 +89,14 @@ ghoshbilahighschool.edu.bd
 govssc.edu.bd
 gsac.edu.bd
 haddahis.edu.bd
+hadmadrasah.edu.bd
 hajiabdulbarihs.edu.bd
 hamkuriahs.edu.bd
 hkgs.edu.bd
 icsb.edu.bd
 icsb.icsb.edu.bd
 igdc.edu.bd
+iisac.edu.bd
 iqac.hamdarduniversity.edu.bd
 jalilpur.edu.bd
 jigataladm.edu.bd
@@ -111,6 +121,7 @@ mail.ammfmj.edu.bd
 mail.btuhs.edu.bd
 mail.dnasc.edu.bd
 mail.ghoshbilahighschool.edu.bd
+mail.hadmadrasah.edu.bd
 mail.jalilpur.edu.bd
 mail.jkkniu.edu.bd
 mail.jmudm.edu.bd
@@ -120,6 +131,7 @@ mail.maubdm.edu.bd
 mail.myasac.edu.bd
 mail.nauddm.edu.bd
 mail.newmodelcollege.edu.bd
+mail.waggahighschool.edu.bd
 mail.wahidunnesa.edu.bd
 malahargirlshighschool.edu.bd
 mamc.edu.bd
@@ -156,10 +168,12 @@ portal.glenrich.edu.bd
 portal.igdc.edu.bd
 portal.myasac.edu.bd
 portal.sskrhs.edu.bd
+premnolhs.edu.bd
 qaumijutemillshighschool.edu.bd
 rajbarigovtcollege.edu.bd
 raninagarblhighs.edu.bd
 s.bpahs.edu.bd
+sabujpaharhonscollege.edu.bd
 sagsm.edu.bd
 sakinaacademy.edu.bd
 samsc.edu.bd
@@ -181,9 +195,11 @@ subarnagatihs.edu.bd
 suratiaseniormadrasah.edu.bd
 tatdc.edu.bd
 ukzps.edu.bd
+waggahighschool.edu.bd
 wahidunnesa.edu.bd
 webdisk.abusharaftsc.edu.bd
 webdisk.dnasc.edu.bd
+webdisk.hadmadrasah.edu.bd
 webdisk.jalilpur.edu.bd
 webdisk.jkkniu.edu.bd
 webdisk.jmudm.edu.bd
@@ -191,9 +207,11 @@ webdisk.legend.edu.bd
 webdisk.maubdm.edu.bd
 webdisk.nauddm.edu.bd
 webdisk.newmodelcollege.edu.bd
+webdisk.waggahighschool.edu.bd
 webdisk.wahidunnesa.edu.bd
 webmail.abusharaftsc.edu.bd
 webmail.dnasc.edu.bd
+webmail.hadmadrasah.edu.bd
 webmail.jalilpur.edu.bd
 webmail.jkkniu.edu.bd
 webmail.jmudm.edu.bd
@@ -201,7 +219,9 @@ webmail.legend.edu.bd
 webmail.maubdm.edu.bd
 webmail.nauddm.edu.bd
 webmail.newmodelcollege.edu.bd
+webmail.waggahighschool.edu.bd
 webmail.wahidunnesa.edu.bd
+whm.waggahighschool.edu.bd
 www.abmc.edu.bd
 www.abmt.edu.bd
 www.abusharaftsc.edu.bd
@@ -226,7 +246,9 @@ www.dssjhenaidah.edu.bd
 www.fees.ugv.edu.bd
 www.ghoshbilahighschool.edu.bd
 www.goziumalimmadrasah.naghs.edu.bd
+www.hadmadrasah.edu.bd
 www.handiyalhighschool.naghs.edu.bd
+www.iisac.edu.bd
 www.iqac.hamdarduniversity.edu.bd
 www.jalilpur.edu.bd
 www.janatamhs.naghs.edu.bd
@@ -263,5 +285,6 @@ www.skgirlshs.edu.bd
 www.srdm.naghs.edu.bd
 www.subarnagatihs.edu.bd
 www.textile.cityuniversity.edu.bd
+www.waggahighschool.edu.bd
 www.wahidunnesa.edu.bd
 zmc.edu.bd
