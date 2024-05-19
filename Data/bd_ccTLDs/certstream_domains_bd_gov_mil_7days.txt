@@ -1,5 +1,9 @@
 a1.tecn.gov.bd
+aclanddemracircle.gov.bd
+aclandkotowalicircle.gov.bd
+ansarvdpbank.gov.bd
 api-ictpolicy.ictd.gov.bd
+api.bdansarerp.gov.bd
 api.ipemis.training.dpe.gov.bd
 app.mymensingheducationboard.gov.bd
 attendance.gov.bd
@@ -34,13 +38,16 @@ bvcdatabase.bvc.gov.bd
 cafocat.gov.bd
 cafochta.gov.bd
 cafocommerce.gov.bd
+cafocultural.gov.bd
 cafoexpatriates.gov.bd
 cafoland.gov.bd
 cafolaw.gov.bd
 cafopme.gov.bd
 caforeligious.gov.bd
 cafotnt.gov.bd
+cafowomenchild.gov.bd
 cbc.dnbc.gov.bd
+cbcctg.gov.bd
 ccms.gov.bd
 certificate.comillaboard.gov.bd
 cevchandina.gov.bd
@@ -119,12 +126,14 @@ esifjsc.bise-ctg.gov.bd
 esifssc.bise-ctg.gov.bd
 esifssc2017.bise-ctg.gov.bd
 etif.bise-ctg.gov.bd
+facilityregistry.dghs.gov.bd
 frc.gov.bd
 freelancers.gov.bd
 gatepass.chc.gov.bd
 gazirtekup.faridpurlg.gov.bd
 ghorashalpourashava.gov.bd
 gobindagonjpourashava.gov.bd
+grp.gov.bd
 grs.gov.bd
 gtbb.gov.bd
 gunbahaup.faridpurlg.gov.bd
@@ -140,9 +149,11 @@ kanthaliaup.narsingdilg.gov.bd
 kjtsc.gov.bd
 lalmonirhatmunicipality.gov.bd
 land.btcl.gov.bd
+land.gov.bd
 laravel.sfcair.gov.bd
 lcsakhaura.gov.bd
 learning.dgme.gov.bd
+licence.gov.bd
 lms.parbatipurtsc.gov.bd
 login.ipemis.training.dpe.gov.bd
 ltuvat.gov.bd
@@ -176,6 +187,7 @@ matelehealth.gov.bd
 mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 merchant.ekshop.gov.bd
+mmch.gov.bd
 mymensinghsadar.upmymensinghholdingtax.gov.bd
 name.bise-ctg.gov.bd
 nazipurpourashava.gov.bd
@@ -187,8 +199,10 @@ ops.ipemis.training.dpe.gov.bd
 patharghatapourashava.gov.bd
 patuakhalimunicipality.gov.bd
 pch.gov.bd
+pfms.brri.gov.bd
 phulpur.upmymensinghholdingtax.gov.bd
 pidms.ansarvdp.gov.bd
+program.betarcommercialservice.gov.bd
 pv.dgda.gov.bd
 radhanagarup.gov.bd
 recruitment.bdansarerp.gov.bd
@@ -198,6 +212,9 @@ rpmp.gov.bd
 saejp.gov.bd
 sariakandipourashava.gov.bd
 sarswp.gnc.gov.bd
+secpass.gov.bd
+service.cirt.gov.bd
+sggsc.gov.bd
 shaistaganjmunicipality.gov.bd
 smms.fid.gov.bd
 soft.taxesinspection.gov.bd
@@ -295,6 +312,7 @@ www.cafolaw.gov.bd
 www.cafopme.gov.bd
 www.caforeligious.gov.bd
 www.cafotnt.gov.bd
+www.cafowomenchild.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.chowmuhanimunicipality.gov.bd
@@ -318,6 +336,7 @@ www.esheba.sylhetboard.gov.bd
 www.gazirtekup.faridpurlg.gov.bd
 www.gongaharihighschool.edu.bd.gbrcr.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
+www.grp.gov.bd
 www.grs.gov.bd
 www.gtbb.gov.bd
 www.gunbahaup.faridpurlg.gov.bd
@@ -339,6 +358,7 @@ www.nokshipolli.melandahbhata.gov.bd
 www.old.iedcr.gov.bd
 www.pch.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
+www.program.betarcommercialservice.gov.bd
 www.radhanagarup.gov.bd
 www.sarswp.gnc.gov.bd
 www.soft.taxesinspection.gov.bd
