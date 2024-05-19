@@ -13,8 +13,10 @@ asrahs.edu.bd
 autodiscover.legend.edu.bd
 bafsb.edu.bd
 belnagarhs.edu.bd
+betrobotyschool.edu.bd
 bgcbogura.edu.bd
 bheramaramc.edu.bd
+bhimphs.edu.bd
 binodpurhs.edu.bd
 bjb.edu.bd
 bnsc.edu.bd
@@ -24,7 +26,9 @@ bsnmahs.edu.bd
 btuhs.edu.bd
 charsubuddifdm.edu.bd
 chhotoshs.edu.bd
+cityuniversity.edu.bd
 cpanel.abusharaftsc.edu.bd
+cpanel.dnasc.edu.bd
 cpanel.jalilpur.edu.bd
 cpanel.jkkniu.edu.bd
 cpanel.jmudm.edu.bd
@@ -33,6 +37,7 @@ cpanel.maubdm.edu.bd
 cpanel.nauddm.edu.bd
 cpanel.newmodelcollege.edu.bd
 cpcalendars.abusharaftsc.edu.bd
+cpcalendars.dnasc.edu.bd
 cpcalendars.jalilpur.edu.bd
 cpcalendars.jkkniu.edu.bd
 cpcalendars.jmudm.edu.bd
@@ -42,6 +47,7 @@ cpcalendars.maubdm.edu.bd
 cpcalendars.nauddm.edu.bd
 cpcalendars.newmodelcollege.edu.bd
 cpcontacts.abusharaftsc.edu.bd
+cpcontacts.dnasc.edu.bd
 cpcontacts.jalilpur.edu.bd
 cpcontacts.jkkniu.edu.bd
 cpcontacts.jmudm.edu.bd
@@ -54,8 +60,10 @@ crs.edu.bd
 daluacharahs.edu.bd
 darulhadithsalafiyahmadrasa.edu.bd
 dmacademy.edu.bd
+dnasc.edu.bd
 dssjhenaidah.edu.bd
 edu.bd.mlahs.edu.bd
+emc.edu.bd
 fkmhs.edu.bd
 garangiahs.edu.bd
 govssc.edu.bd
@@ -67,6 +75,7 @@ jalilpur.edu.bd
 jkkniu.edu.bd
 jmudm.edu.bd
 kasbaghs.edu.bd
+kduidm.edu.bd
 kgpbss.edu.bd
 khidirpurcollege.edu.bd
 khutakhalimhs.edu.bd
@@ -75,6 +84,7 @@ legend.edu.bd
 lohajuriunionhighschoolandcollege.edu.bd
 mail.abusharaftsc.edu.bd
 mail.btuhs.edu.bd
+mail.dnasc.edu.bd
 mail.jalilpur.edu.bd
 mail.jkkniu.edu.bd
 mail.jmudm.edu.bd
@@ -88,6 +98,7 @@ malahargirlshighschool.edu.bd
 mamc.edu.bd
 manage.khidirpurcollege.edu.bd
 maubdm.edu.bd
+mbhschool.edu.bd
 mdcb.naghs.edu.bd
 metrouni.edu.bd
 mithachara.snfm.edu.bd
@@ -96,9 +107,11 @@ mmsihs.edu.bd
 mpfmadrasah.edu.bd
 munshigonjss.edu.bd
 myasac.edu.bd
+naam.edu.bd
 naghs.edu.bd
 nauddm.edu.bd
 newmodelcollege.edu.bd
+ngdc.edu.bd
 nordvpn.hamdarduniversity.edu.bd
 pg.butex.edu.bd
 portal.bpmgmhs.edu.bd
@@ -111,6 +124,7 @@ portal.sskrhs.edu.bd
 qaumijutemillshighschool.edu.bd
 raninagarblhighs.edu.bd
 s.bpahs.edu.bd
+sagsm.edu.bd
 sardahcollege.edu.bd
 server.frii.edu.bd
 sfahs.edu.bd
@@ -126,6 +140,7 @@ subarnagatihs.edu.bd
 tatdc.edu.bd
 ukzps.edu.bd
 webdisk.abusharaftsc.edu.bd
+webdisk.dnasc.edu.bd
 webdisk.jalilpur.edu.bd
 webdisk.jkkniu.edu.bd
 webdisk.jmudm.edu.bd
@@ -134,6 +149,7 @@ webdisk.maubdm.edu.bd
 webdisk.nauddm.edu.bd
 webdisk.newmodelcollege.edu.bd
 webmail.abusharaftsc.edu.bd
+webmail.dnasc.edu.bd
 webmail.jalilpur.edu.bd
 webmail.jkkniu.edu.bd
 webmail.jmudm.edu.bd
@@ -157,6 +173,7 @@ www.btuhs.edu.bd
 www.chiknaihighschool.naghs.edu.bd
 www.darulhadithsalafiyahmadrasa.edu.bd
 www.dmacademy.edu.bd
+www.dnasc.edu.bd
 www.dssjhenaidah.edu.bd
 www.goziumalimmadrasah.naghs.edu.bd
 www.handiyalhighschool.naghs.edu.bd
@@ -165,12 +182,15 @@ www.jalilpur.edu.bd
 www.janatamhs.naghs.edu.bd
 www.jkkniu.edu.bd
 www.jmudm.edu.bd
+www.kduidm.edu.bd
 www.kgpbss.edu.bd
+www.law.cityuniversity.edu.bd
 www.lbhighschool.edu.bd
 www.legend.edu.bd
 www.lohajuriunionhighschoolandcollege.edu.bd
 www.mamc.edu.bd
 www.maubdm.edu.bd
+www.mbhschool.edu.bd
 www.mdcb.naghs.edu.bd
 www.memchs.naghs.edu.bd
 www.mithachara.snfm.edu.bd
@@ -185,3 +205,4 @@ www.server.frii.edu.bd
 www.skgirlshs.edu.bd
 www.srdm.naghs.edu.bd
 www.subarnagatihs.edu.bd
+www.textile.cityuniversity.edu.bd
