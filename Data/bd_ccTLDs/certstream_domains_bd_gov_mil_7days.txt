@@ -62,6 +62,7 @@ cpanel.taxeszone13dhaka.gov.bd
 cpanel.taxeszone2.gov.bd
 cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
+cpanel.tds.taxeszone5dhaka.gov.bd
 cpanel.urp.gov.bd
 cpcalendars.bta.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
@@ -73,6 +74,7 @@ cpcalendars.taxeszone13dhaka.gov.bd
 cpcalendars.taxeszone2.gov.bd
 cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
+cpcalendars.tds.taxeszone5dhaka.gov.bd
 cpcalendars.urp.gov.bd
 cpcontacts.bta.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
@@ -84,6 +86,7 @@ cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone2.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
+cpcontacts.tds.taxeszone5dhaka.gov.bd
 cpcontacts.urp.gov.bd
 culmination.comillaboard.gov.bd
 dac.gov.bd
@@ -156,6 +159,7 @@ mail.taxeszone13dhaka.gov.bd
 mail.taxeszone2.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
+mail.tds.taxeszone5dhaka.gov.bd
 mail.tscchuadanga.gov.bd
 mail.urp.gov.bd
 mehendiganjpourashava.gov.bd
@@ -219,6 +223,7 @@ taxeszone2.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
+tds.taxeszone5dhaka.gov.bd
 tealicense.gov.bd
 tele-medicine.dghs.gov.bd
 thedp.gov.bd
@@ -238,6 +243,7 @@ webdisk.taxeszone13dhaka.gov.bd
 webdisk.taxeszone2.gov.bd
 webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
+webdisk.tds.taxeszone5dhaka.gov.bd
 webdisk.urp.gov.bd
 webmail.bta.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
@@ -250,6 +256,7 @@ webmail.taxeszone13dhaka.gov.bd
 webmail.taxeszone2.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
+webmail.tds.taxeszone5dhaka.gov.bd
 webmail.urp.gov.bd
 www.a1.tecn.gov.bd
 www.admin.jhenaidahtsc.gov.bd
@@ -322,6 +329,7 @@ www.taxeszone2.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone3dhaka.gov.bd
 www.taxeszoneonedhaka.gov.bd
+www.tds.taxeszone5dhaka.gov.bd
 www.tscchuadanga.gov.bd
 www.urp.gov.bd
 zpnarayanganj.gov.bd
