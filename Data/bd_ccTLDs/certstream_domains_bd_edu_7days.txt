@@ -136,6 +136,7 @@ autodiscover.shshsm.edu.bd
 autodiscover.skamidm.edu.bd
 autodiscover.skass.edu.bd
 autodiscover.ssdcb.edu.bd
+autodiscover.tidm.edu.bd
 autodiscover.tsphs.edu.bd
 ayeshaalihighschool.edu.bd
 azamc.edu.bd
@@ -421,6 +422,7 @@ cpanel.singherkathimlhs.edu.bd
 cpanel.skamidm.edu.bd
 cpanel.skass.edu.bd
 cpanel.ssdcb.edu.bd
+cpanel.tidm.edu.bd
 cpanel.tsphs.edu.bd
 cpanel.uwkdm.edu.bd
 cpanel.waggahighschool.edu.bd
@@ -542,6 +544,7 @@ cpcalendars.singherkathimlhs.edu.bd
 cpcalendars.skamidm.edu.bd
 cpcalendars.skass.edu.bd
 cpcalendars.ssdcb.edu.bd
+cpcalendars.tidm.edu.bd
 cpcalendars.tsphs.edu.bd
 cpcalendars.uwkdm.edu.bd
 cpcalendars.waggahighschool.edu.bd
@@ -663,6 +666,7 @@ cpcontacts.singherkathimlhs.edu.bd
 cpcontacts.skamidm.edu.bd
 cpcontacts.skass.edu.bd
 cpcontacts.ssdcb.edu.bd
+cpcontacts.tidm.edu.bd
 cpcontacts.tsphs.edu.bd
 cpcontacts.uwkdm.edu.bd
 cpcontacts.waggahighschool.edu.bd
@@ -1158,6 +1162,7 @@ mail.mdsaam.edu.bd
 mail.meheraliamadrasah.edu.bd
 mail.mhschool.edu.bd
 mail.mirzapurgirlshighschool.edu.bd
+mail.mjbc.edu.bd
 mail.mkc.edu.bd
 mail.mmhsac.edu.bd
 mail.msghsac.edu.bd
@@ -1204,6 +1209,7 @@ mail.singherkathimlhs.edu.bd
 mail.skamidm.edu.bd
 mail.skass.edu.bd
 mail.ssdcb.edu.bd
+mail.tidm.edu.bd
 mail.tolaramcollege.edu.bd
 mail.tsphs.edu.bd
 mail.uwkdm.edu.bd
@@ -1251,6 +1257,7 @@ mirpurnursing.edu.bd
 mirzapurgirlshighschool.edu.bd
 mistte.edu.bd
 mithachara.snfm.edu.bd
+mjbc.edu.bd
 mjshs.edu.bd
 mkc.edu.bd
 mkhsc.edu.bd
@@ -1514,6 +1521,7 @@ setarasmritigovt.edu.bd
 sfahs.edu.bd
 sfmadrasah.edu.bd
 sfnhs.edu.bd
+sftsc.edu.bd
 sgghsc.edu.bd
 sgmc.edu.bd
 sgovtphs.edu.bd
@@ -1613,6 +1621,7 @@ test.ugv.edu.bd
 tfd.butex.edu.bd
 tgchschool.edu.bd
 thetraigs.edu.bd
+tidm.edu.bd
 tnkgc.edu.bd
 tolaramcollege.edu.bd
 tripanibidyapith.edu.bd
@@ -1758,6 +1767,7 @@ webdisk.singherkathimlhs.edu.bd
 webdisk.skamidm.edu.bd
 webdisk.skass.edu.bd
 webdisk.ssdcb.edu.bd
+webdisk.tidm.edu.bd
 webdisk.tsphs.edu.bd
 webdisk.uwkdm.edu.bd
 webdisk.waggahighschool.edu.bd
@@ -1881,6 +1891,7 @@ webmail.singherkathimlhs.edu.bd
 webmail.skamidm.edu.bd
 webmail.skass.edu.bd
 webmail.ssdcb.edu.bd
+webmail.tidm.edu.bd
 webmail.tsphs.edu.bd
 webmail.uwkdm.edu.bd
 webmail.waggahighschool.edu.bd
@@ -2187,6 +2198,7 @@ www.mirpurimt.edu.bd.traumainstitute.edu.bd
 www.mirpurnursing.edu.bd.traumainstitute.edu.bd
 www.mirzapurgirlshighschool.edu.bd
 www.mithachara.snfm.edu.bd
+www.mjbc.edu.bd
 www.mkc.edu.bd
 www.mmhsac.edu.bd
 www.mmsac.edu.bd
@@ -2329,6 +2341,7 @@ www.test.ugv.edu.bd
 www.textile.cityuniversity.edu.bd
 www.tfd.butex.edu.bd
 www.tfd.rpsu.edu.bd
+www.tidm.edu.bd
 www.tripanibidyapith.edu.bd.nbksmadrasah.edu.bd
 www.tsphs.edu.bd
 www.tumcharmadrasha.edu.bd
