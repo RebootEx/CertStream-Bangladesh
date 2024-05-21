@@ -235,6 +235,7 @@ bjoymonihs.edu.bd
 bkhs.edu.bd
 bkhsl.edu.bd
 blscngn.edu.bd
+bma.edu.bd
 bmc138775.edu.bd
 bmddm.edu.bd
 bmndm.edu.bd
@@ -242,6 +243,7 @@ bnghs.edu.bd
 bnghsraj.edu.bd
 bnsacg.edu.bd
 bnsc.edu.bd
+bnsghs.edu.bd
 boailmaryhighschool.naghs.edu.bd
 boaliaghs.edu.bd
 bodhalhs.edu.bd
@@ -268,9 +270,11 @@ bti.edu.bd
 btuhs.edu.bd
 bubhsctg.edu.bd
 buhschool.edu.bd
+bup.edu.bd
 burigoalinidsdm.edu.bd
 bwumhs.edu.bd
 cadc.edu.bd
+career.just.edu.bd
 cbhsgt.edu.bd
 cbmc.edu.bd
 cbyamhs.edu.bd
@@ -326,6 +330,7 @@ cpanel.benguraseniormadrasah.edu.bd
 cpanel.bgpsk.edu.bd
 cpanel.bnsacg.edu.bd
 cpanel.bsmrau.edu.bd
+cpanel.bup.edu.bd
 cpanel.cbmc.edu.bd
 cpanel.cduam118513.edu.bd
 cpanel.chilauraddm.edu.bd
@@ -449,6 +454,7 @@ cpcalendars.benguraseniormadrasah.edu.bd
 cpcalendars.bgpsk.edu.bd
 cpcalendars.bnsacg.edu.bd
 cpcalendars.bsmrau.edu.bd
+cpcalendars.bup.edu.bd
 cpcalendars.cbmc.edu.bd
 cpcalendars.cduam118513.edu.bd
 cpcalendars.chilauraddm.edu.bd
@@ -572,6 +578,7 @@ cpcontacts.benguraseniormadrasah.edu.bd
 cpcontacts.bgpsk.edu.bd
 cpcontacts.bnsacg.edu.bd
 cpcontacts.bsmrau.edu.bd
+cpcontacts.bup.edu.bd
 cpcontacts.cbmc.edu.bd
 cpcontacts.cduam118513.edu.bd
 cpcontacts.chilauraddm.edu.bd
@@ -716,6 +723,7 @@ dev.atghoriagovhighschool.edu.bd
 dev.ulab.edu.bd
 dgatihs.edu.bd
 dhakamats.edu.bd
+dhakaudyanpublicschool.edu.bd
 dhanbaricollegiateschool.edu.bd
 dhankhalisheacademy.edu.bd
 dhankhalisheacademy.shishupalliacademy.edu.bd
@@ -809,6 +817,7 @@ gateway.easternuni.edu.bd
 gatiaahhs.edu.bd
 gavasschool.edu.bd
 gayhattasihighschool.edu.bd
+gazaria.edu.bd
 gazirhat.edu.bd
 gdmgr.edu.bd
 gfm54.edu.bd
@@ -991,6 +1000,7 @@ khutakhalimhs.edu.bd
 kiam.edu.bd
 kimdurdm.edu.bd
 kisamatchbhs.edu.bd
+kjmhighschool.edu.bd
 kkc.edu.bd
 kkephighschool.edu.bd
 kkgdm.edu.bd
@@ -1082,6 +1092,7 @@ mail.boropilakjuniorhighschool.edu.bd
 mail.bsmhs.edu.bd
 mail.bsmrau.edu.bd
 mail.btuhs.edu.bd
+mail.bup.edu.bd
 mail.cbmc.edu.bd
 mail.cduam118513.edu.bd
 mail.chariakandahighschool.edu.bd
@@ -1193,7 +1204,9 @@ mail.nmdm.edu.bd
 mail.nssdc.edu.bd
 mail.nurulihs.edu.bd
 mail.oxbridgecollege.edu.bd
+mail.pakhimarapvss.edu.bd
 mail.pamdm.edu.bd
+mail.panchjuniadss.edu.bd
 mail.pbmumadrasah.edu.bd
 mail.phsdk.edu.bd
 mail.picnic.hamdarduniversity.edu.bd
@@ -1224,6 +1237,7 @@ mail.skass.edu.bd
 mail.ssdcb.edu.bd
 mail.tidm.edu.bd
 mail.tolaramcollege.edu.bd
+mail.tsbghs.edu.bd
 mail.tsphs.edu.bd
 mail.uwkdm.edu.bd
 mail.waggahighschool.edu.bd
@@ -1376,9 +1390,11 @@ online.hamdarduniversity.edu.bd
 oxbridgecollege.edu.bd
 pabnagopalchandrainstitution.edu.bd
 pags.edu.bd
+pakhimarapvss.edu.bd
 pakshailihs.edu.bd
 pamdm.edu.bd
 pancharghs.edu.bd
+panchjuniadss.edu.bd
 paragaon.edu.bd
 paragaon.kathoraidm.edu.bd
 parpugihighschool.edu.bd
@@ -1397,6 +1413,7 @@ perkarfajdm.edu.bd
 pg.butex.edu.bd
 pghschool.edu.bd
 phsdk.edu.bd
+phulressc.edu.bd
 picnic.hamdarduniversity.edu.bd
 pihschool.edu.bd
 pkmmgss.edu.bd
@@ -1622,6 +1639,7 @@ stamfordcollege.edu.bd
 sti.green.edu.bd
 stijhenidah.edu.bd
 student.nstu.edu.bd
+studentportal.nbiu.edu.bd
 subarnagatihs.edu.bd
 suhschool.edu.bd
 sujaulhs.edu.bd
@@ -1646,6 +1664,7 @@ tnkgc.edu.bd
 tolaramcollege.edu.bd
 tripanibidyapith.edu.bd
 truhschool.edu.bd
+tsbghs.edu.bd
 tsphs.edu.bd
 tulabanhs.edu.bd
 tumcharmadrasha.edu.bd
@@ -1687,6 +1706,7 @@ webdisk.benguraseniormadrasah.edu.bd
 webdisk.bgpsk.edu.bd
 webdisk.bnsacg.edu.bd
 webdisk.bsmrau.edu.bd
+webdisk.bup.edu.bd
 webdisk.cbmc.edu.bd
 webdisk.cduam118513.edu.bd
 webdisk.chilauraddm.edu.bd
@@ -1811,6 +1831,7 @@ webmail.bgpsk.edu.bd
 webmail.birampurcollege.edu.bd
 webmail.bnsacg.edu.bd
 webmail.bsmrau.edu.bd
+webmail.bup.edu.bd
 webmail.cbmc.edu.bd
 webmail.cduam118513.edu.bd
 webmail.chilauraddm.edu.bd
@@ -2013,8 +2034,10 @@ www.bsmhs.edu.bd
 www.bsmrau.edu.bd
 www.bsss.edu.bd
 www.btuhs.edu.bd
+www.bup.edu.bd
 www.burigoalinidsdm.edu.bd.aaksac.edu.bd
 www.bwumhs.edu.bd
+www.career.just.edu.bd
 www.cbmc.edu.bd
 www.cduam118513.edu.bd
 www.cghschool.edu.bd
@@ -2269,8 +2292,10 @@ www.old.sfmwhc.edu.bd
 www.old.ugv.edu.bd
 www.omhs.edu.bd.jrmb.edu.bd
 www.oxbridgecollege.edu.bd
+www.pakhimarapvss.edu.bd
 www.pamdm.edu.bd
 www.pamdm.edu.bd.aaksac.edu.bd
+www.panchjuniadss.edu.bd
 www.paragaon.kathoraidm.edu.bd
 www.parpugihighschool.edu.bd
 www.patondm.kmdm.edu.bd
@@ -2279,6 +2304,7 @@ www.perkarfajdm.edu.bd.jrmb.edu.bd
 www.pg.butex.edu.bd
 www.phr.rpsu.edu.bd
 www.phsdk.edu.bd
+www.phulressc.edu.bd
 www.picnic.hamdarduniversity.edu.bd
 www.pirercharhs.abdulabadhighschool.edu.bd
 www.pkmmgss.edu.bd.mlahs.edu.bd
@@ -2360,6 +2386,7 @@ www.ssdcb.edu.bd
 www.ssrschool.edu.bd
 www.sti.green.edu.bd
 www.student.nstu.edu.bd
+www.studentportal.nbiu.edu.bd
 www.subarnagatihs.edu.bd
 www.tech.ghiorgovtcollege.edu.bd
 www.technebula2k23.primeasia.edu.bd
@@ -2370,6 +2397,7 @@ www.tfd.butex.edu.bd
 www.tfd.rpsu.edu.bd
 www.tidm.edu.bd
 www.tripanibidyapith.edu.bd.nbksmadrasah.edu.bd
+www.tsbghs.edu.bd
 www.tsphs.edu.bd
 www.tumcharmadrasha.edu.bd
 www.ubhschool.edu.bd
