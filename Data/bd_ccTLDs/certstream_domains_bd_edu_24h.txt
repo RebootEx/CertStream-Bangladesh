@@ -7,6 +7,7 @@ admin.smmacollege.edu.bd
 admin.tdikm102971.edu.bd
 admission.cgwc.edu.bd
 adthsb.edu.bd
+agamc.edu.bd
 ajidmadrasah.edu.bd
 alfadangacollege.edu.bd
 alzaber.edu.bd
@@ -21,6 +22,7 @@ autodiscover.bvdsdmadrasah.edu.bd
 autodiscover.cmnmdm.edu.bd
 autodiscover.dajadmadrasah.edu.bd
 autodiscover.gaac.edu.bd
+autodiscover.gmis.edu.bd
 autodiscover.gobindopurhs.edu.bd
 autodiscover.hazerasultanhighschool.edu.bd
 autodiscover.kanchanpurhaorhighschool.edu.bd
@@ -39,6 +41,7 @@ baraiacollege.edu.bd
 basths.edu.bd
 bbsc.edu.bd
 bdmhs.edu.bd
+bhs119920.edu.bd
 bhs1985.edu.bd
 bishnupurimhs.edu.bd
 bkamhs.edu.bd
@@ -69,6 +72,7 @@ cpanel.cmnmdm.edu.bd
 cpanel.dajadmadrasah.edu.bd
 cpanel.fulhatahighschool.edu.bd
 cpanel.gaac.edu.bd
+cpanel.gmis.edu.bd
 cpanel.gobindopurhs.edu.bd
 cpanel.hazerasultanhighschool.edu.bd
 cpanel.kanchanpurhaorhighschool.edu.bd
@@ -85,6 +89,7 @@ cpcalendars.bvdsdmadrasah.edu.bd
 cpcalendars.cmnmdm.edu.bd
 cpcalendars.dajadmadrasah.edu.bd
 cpcalendars.gaac.edu.bd
+cpcalendars.gmis.edu.bd
 cpcalendars.gobindopurhs.edu.bd
 cpcalendars.hazerasultanhighschool.edu.bd
 cpcalendars.kanchanpurhaorhighschool.edu.bd
@@ -101,6 +106,7 @@ cpcontacts.bvdsdmadrasah.edu.bd
 cpcontacts.cmnmdm.edu.bd
 cpcontacts.dajadmadrasah.edu.bd
 cpcontacts.gaac.edu.bd
+cpcontacts.gmis.edu.bd
 cpcontacts.gobindopurhs.edu.bd
 cpcontacts.hazerasultanhighschool.edu.bd
 cpcontacts.kanchanpurhaorhighschool.edu.bd
@@ -110,6 +116,7 @@ cpcontacts.snudmad.edu.bd
 cpcontacts.tdikm102971.edu.bd
 cpcontacts.test6.bsmrau.edu.bd
 cpcontacts.thaneswarsc.edu.bd
+csbmc.edu.bd
 dajadmadrasah.edu.bd
 dayarampurhighschool.edu.bd
 department.diu.edu.bd
@@ -130,12 +137,15 @@ gazaria.edu.bd
 gbccmghs.edu.bd
 gkschool.edu.bd
 gmdcraj.edu.bd
+gmis.edu.bd
 gmsc.edu.bd
+gnggmhs.edu.bd
 gobindopurhs.edu.bd
 govgphs.edu.bd
 gpjhs.edu.bd
 hazerasultanhighschool.edu.bd
 iisd.edu.bd
+iitju.edu.bd
 ims.cppi.edu.bd
 islampurmlhs.edu.bd
 iub.edu.bd
@@ -144,6 +154,7 @@ jlhs.edu.bd
 jobaidahs68.edu.bd
 jobportal.bist.edu.bd
 kanchanpurhaorhighschool.edu.bd
+kawkhaligirlshighschool.edu.bd
 kcamhst.edu.bd
 kcgs.edu.bd
 kch1970.edu.bd
@@ -175,6 +186,7 @@ mail.cmnmdm.edu.bd
 mail.dajadmadrasah.edu.bd
 mail.fulhatahighschool.edu.bd
 mail.gaac.edu.bd
+mail.gmis.edu.bd
 mail.gobindopurhs.edu.bd
 mail.hazerasultanhighschool.edu.bd
 mail.heakmam.edu.bd
@@ -203,6 +215,7 @@ muhurigonjhs.edu.bd
 my.abduljabber.edu.bd
 n.istdiploma.edu.bd
 nandalalpurshs.edu.bd
+nazirhatcollege104466.edu.bd
 nhgdmadrasha.edu.bd
 nkhs.edu.bd
 nkmhighschoolandhomes.edu.bd
@@ -211,6 +224,8 @@ provat24.sujatpurcollege.edu.bd
 proyash.edu.bd
 raichahs.edu.bd
 rajshahihabhit.edu.bd
+ranguniacollege.edu.bd
+ranidayamoyeehs.edu.bd
 rhbdmadrasah.edu.bd
 rnss.edu.bd
 s.rnahs.edu.bd
@@ -247,6 +262,7 @@ webdisk.bvdsdmadrasah.edu.bd
 webdisk.cmnmdm.edu.bd
 webdisk.dajadmadrasah.edu.bd
 webdisk.gaac.edu.bd
+webdisk.gmis.edu.bd
 webdisk.gobindopurhs.edu.bd
 webdisk.hazerasultanhighschool.edu.bd
 webdisk.kanchanpurhaorhighschool.edu.bd
@@ -265,6 +281,7 @@ webmail.cmnmdm.edu.bd
 webmail.dajadmadrasah.edu.bd
 webmail.fulhatahighschool.edu.bd
 webmail.gaac.edu.bd
+webmail.gmis.edu.bd
 webmail.gobindopurhs.edu.bd
 webmail.hazerasultanhighschool.edu.bd
 webmail.kanchanpurhaorhighschool.edu.bd
@@ -304,12 +321,15 @@ www.charpouligsdmt.edu.bd
 www.cmnmdm.edu.bd
 www.cmnmdm.edu.bd.jsgs.edu.bd
 www.court.pbsc.edu.bd
+www.csbmc.edu.bd
 www.dajadmadrasah.edu.bd
 www.dariapurhighschoolpabna.edu.bd.raichahs.edu.bd
 www.fulhatahighschool.edu.bd
 www.gaac.edu.bd
+www.gmis.edu.bd
 www.gobindopurhs.edu.bd
 www.hazerasultanhighschool.edu.bd
+www.iitju.edu.bd
 www.ims.cppi.edu.bd
 www.jobportal.bist.edu.bd
 www.kanchanpurhaorhighschool.edu.bd
