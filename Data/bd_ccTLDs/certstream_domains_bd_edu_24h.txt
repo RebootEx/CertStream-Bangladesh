@@ -62,6 +62,7 @@ cpanel.gaac.edu.bd
 cpanel.gobindopurhs.edu.bd
 cpanel.hazerasultanhighschool.edu.bd
 cpanel.kanchanpurhaorhighschool.edu.bd
+cpanel.my.abduljabber.edu.bd
 cpanel.rhbdmadrasah.edu.bd
 cpanel.snudmad.edu.bd
 cpanel.tdikm102971.edu.bd
@@ -76,6 +77,7 @@ cpcalendars.gaac.edu.bd
 cpcalendars.gobindopurhs.edu.bd
 cpcalendars.hazerasultanhighschool.edu.bd
 cpcalendars.kanchanpurhaorhighschool.edu.bd
+cpcalendars.my.abduljabber.edu.bd
 cpcalendars.rhbdmadrasah.edu.bd
 cpcalendars.snudmad.edu.bd
 cpcalendars.tdikm102971.edu.bd
@@ -90,6 +92,7 @@ cpcontacts.gaac.edu.bd
 cpcontacts.gobindopurhs.edu.bd
 cpcontacts.hazerasultanhighschool.edu.bd
 cpcontacts.kanchanpurhaorhighschool.edu.bd
+cpcontacts.my.abduljabber.edu.bd
 cpcontacts.rhbdmadrasah.edu.bd
 cpcontacts.snudmad.edu.bd
 cpcontacts.tdikm102971.edu.bd
@@ -111,9 +114,11 @@ gbccmghs.edu.bd
 gkschool.edu.bd
 gmsc.edu.bd
 gobindopurhs.edu.bd
+govgphs.edu.bd
 gpjhs.edu.bd
 hazerasultanhighschool.edu.bd
 iisd.edu.bd
+ims.cppi.edu.bd
 islampurmlhs.edu.bd
 iub.edu.bd
 jamm.edu.bd
@@ -129,7 +134,10 @@ kdpgps.edu.bd
 kfkhs.edu.bd
 kghsb.edu.bd
 kharataiyahighschool.edu.bd
+khilbisaubb.edu.bd
+kkghs.edu.bd
 ksdkdm.edu.bd
+library.bup.edu.bd
 macbi.edu.bd
 mail.adthsb.edu.bd
 mail.ajidmadrasah.edu.bd
@@ -160,8 +168,10 @@ mnidm.edu.bd
 mohishmarahighschool.edu.bd
 moliaishhs.edu.bd
 muhurigonjhs.edu.bd
+my.abduljabber.edu.bd
 n.istdiploma.edu.bd
 nandalalpurshs.edu.bd
+nhgdmadrasha.edu.bd
 nkmhighschoolandhomes.edu.bd
 provat24.sujatpurcollege.edu.bd
 proyash.edu.bd
@@ -195,6 +205,7 @@ webdisk.gaac.edu.bd
 webdisk.gobindopurhs.edu.bd
 webdisk.hazerasultanhighschool.edu.bd
 webdisk.kanchanpurhaorhighschool.edu.bd
+webdisk.my.abduljabber.edu.bd
 webdisk.rhbdmadrasah.edu.bd
 webdisk.snudmad.edu.bd
 webdisk.ssschool.edu.bd
@@ -210,6 +221,7 @@ webmail.gaac.edu.bd
 webmail.gobindopurhs.edu.bd
 webmail.hazerasultanhighschool.edu.bd
 webmail.kanchanpurhaorhighschool.edu.bd
+webmail.my.abduljabber.edu.bd
 webmail.rhbdmadrasah.edu.bd
 webmail.snudmad.edu.bd
 webmail.tdikm102971.edu.bd
@@ -243,9 +255,11 @@ www.dariapurhighschoolpabna.edu.bd.raichahs.edu.bd
 www.gaac.edu.bd
 www.gobindopurhs.edu.bd
 www.hazerasultanhighschool.edu.bd
+www.ims.cppi.edu.bd
 www.jobportal.bist.edu.bd
 www.kanchanpurhaorhighschool.edu.bd
 www.mnidm.edu.bd
+www.my.abduljabber.edu.bd
 www.n.istdiploma.edu.bd
 www.pkjs.edu.bd.raichahs.edu.bd
 www.prottoy.proyash.edu.bd
