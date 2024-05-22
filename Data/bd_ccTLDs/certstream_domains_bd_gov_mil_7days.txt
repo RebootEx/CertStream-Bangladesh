@@ -12,6 +12,7 @@ autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.taxappealkhulna.gov.bd
 bakshiganjbhata.gov.bd
+bazarmonitoring.digrajshahirange.gov.bd
 bbms.dghs.gov.bd
 bcms.gov.bd
 bhpi.gov.bd
@@ -19,6 +20,7 @@ billing.a2i.gov.bd
 booking.bbcfec.gov.bd
 bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
+btbregistration.gov.bd
 btebadmission.gov.bd
 bvcdatabase.bvc.gov.bd
 bwc.gov.bd
@@ -60,11 +62,13 @@ damspsd.gov.bd
 dashboard.blri.gov.bd
 dashboard.ipemis.training.dpe.gov.bd
 dcadhaka.gov.bd
+demo.certificatefuldin.gov.bd
 digitalcontent.gov.bd
 disability.wewb.gov.bd
 dnbc.gov.bd
 dpp.gov.bd
 du.gameapp.gov.bd
+ecampus.tsc-kurigram.gov.bd
 ecptest.uru.gov.bd
 edge.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -73,6 +77,7 @@ egppplus.ddm.gov.bd
 ems.taxeszone3ctg.gov.bd
 facilityregistry.dghs.gov.bd
 frc.gov.bd
+fulsutiup.faridpurlg.gov.bd
 gatepass.chc.gov.bd
 gattiup.faridpurlg.gov.bd
 gazirtekup.faridpurlg.gov.bd
@@ -90,13 +95,16 @@ ideas.nwpgcl.gov.bd
 ipemis.training.dpe.gov.bd
 ipfeature.alaap.gov.bd
 iptv.totthoapa.gov.bd
+ishangopalpurup.faridpurlg.gov.bd
 jamalpurtsc.gov.bd
 jessorecustoms.gov.bd
 jhenaidahtsc.gov.bd
 journal.dhakadental.gov.bd
 kaichailup.faridpurlg.gov.bd
+kanaipurup.faridpurlg.gov.bd
 kanthaliaup.narsingdilg.gov.bd
 kgh.gov.bd
+korakdi.faridpurlg.gov.bd
 krishokerjanala.gov.bd
 land.gov.bd
 lcsakhaura.gov.bd
@@ -124,6 +132,7 @@ mail.tpi.gov.bd
 mail.tscchuadanga.gov.bd
 mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
+mfcib-mra.gov.bd
 mmch.gov.bd
 new.nins.gov.bd
 new.vatdhkeast.gov.bd
@@ -134,6 +143,7 @@ ntrc.gameapp.gov.bd
 old.iedcr.gov.bd
 old.warpo.gov.bd
 ops.ipemis.training.dpe.gov.bd
+pallisanchaybank.gov.bd
 payment.btebadmission.gov.bd
 pch.gov.bd
 pfms.brri.gov.bd
@@ -147,6 +157,7 @@ resultmanagement.comillaboard.gov.bd
 rmet.dae.gov.bd
 rollcheck.bise-ctg.gov.bd
 sarswp.gnc.gov.bd
+schoolform.comillaboard.gov.bd
 secpass.gov.bd
 server.bise-ctg.gov.bd
 service.cirt.gov.bd
@@ -165,14 +176,17 @@ systems.brri.gov.bd
 taxappealkhulna.gov.bd
 taxappealzone4dhaka.gov.bd
 taxeszone23dhaka.gov.bd
+taxeszone4dhaka.gov.bd
 tds.taxeszone5dhaka.gov.bd
 tealicense.gov.bd
+tecn.gov.bd
 tele-medicine.dghs.gov.bd
 test.gameapp.gov.bd
 thedp.gov.bd
 totthoapa.gov.bd
 tpi.gov.bd
 tscchuadanga.gov.bd
+unosullah.gov.bd
 upmymensinghholdingtax.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -188,6 +202,7 @@ webmail.sfmmttc.gov.bd
 webmail.taxappealkhulna.gov.bd
 webmail.tds.taxeszone5dhaka.gov.bd
 whm.nilmrcbd.gov.bd
+workshop.fireservice.gov.bd
 www.a1.tecn.gov.bd
 www.admin.jhenaidahtsc.gov.bd
 www.ahcollege.gov.bd
@@ -209,6 +224,7 @@ www.chowmuhanimunicipality.gov.bd
 www.cltp.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.dcadhaka.gov.bd
+www.demo.certificatefuldin.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.digitalcontent.gov.bd
@@ -216,8 +232,10 @@ www.disability.wewb.gov.bd
 www.dnbc.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
+www.ecampus.tsc-kurigram.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
+www.fulsutiup.faridpurlg.gov.bd
 www.gattiup.faridpurlg.gov.bd
 www.gazirtekup.faridpurlg.gov.bd
 www.gongaharihighschool.edu.bd.gbrcr.gov.bd
@@ -227,10 +245,13 @@ www.grs.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
 www.gunbahaup.faridpurlg.gov.bd
 www.hmis.uphcsdp.gov.bd
+www.ishangopalpurup.faridpurlg.gov.bd
 www.jessorecustoms.gov.bd
 www.journal.dhakadental.gov.bd
 www.kaichailup.faridpurlg.gov.bd
+www.kanaipurup.faridpurlg.gov.bd
 www.kanthaliaup.narsingdilg.gov.bd
+www.korakdi.faridpurlg.gov.bd
 www.kurigrampls.edu.bd.gbrcr.gov.bd
 www.lcsakhaura.gov.bd
 www.lms.parbatipurtsc.gov.bd
@@ -255,6 +276,7 @@ www.tarakanda.upmymensinghholdingtax.gov.bd
 www.taxappealkhulna.gov.bd
 www.taxappealzone4dhaka.gov.bd
 www.taxeszone23dhaka.gov.bd
+www.taxeszone4dhaka.gov.bd
 www.tds.taxeszone5dhaka.gov.bd
 www.test.gameapp.gov.bd
 www.tpi.gov.bd
