@@ -149,6 +149,7 @@ autodiscover.shshsm.edu.bd
 autodiscover.skamidm.edu.bd
 autodiscover.skass.edu.bd
 autodiscover.snudmad.edu.bd
+autodiscover.srsc.edu.bd
 autodiscover.ssdcb.edu.bd
 autodiscover.tdikm102971.edu.bd
 autodiscover.thaneswarsc.edu.bd
@@ -423,6 +424,7 @@ cpanel.shshsm.edu.bd
 cpanel.skamidm.edu.bd
 cpanel.skass.edu.bd
 cpanel.snudmad.edu.bd
+cpanel.srsc.edu.bd
 cpanel.ssdcb.edu.bd
 cpanel.tdikm102971.edu.bd
 cpanel.test6.bsmrau.edu.bd
@@ -525,6 +527,7 @@ cpcalendars.shshsm.edu.bd
 cpcalendars.skamidm.edu.bd
 cpcalendars.skass.edu.bd
 cpcalendars.snudmad.edu.bd
+cpcalendars.srsc.edu.bd
 cpcalendars.ssdcb.edu.bd
 cpcalendars.tdikm102971.edu.bd
 cpcalendars.test6.bsmrau.edu.bd
@@ -627,6 +630,7 @@ cpcontacts.shshsm.edu.bd
 cpcontacts.skamidm.edu.bd
 cpcontacts.skass.edu.bd
 cpcontacts.snudmad.edu.bd
+cpcontacts.srsc.edu.bd
 cpcontacts.ssdcb.edu.bd
 cpcontacts.tdikm102971.edu.bd
 cpcontacts.test6.bsmrau.edu.bd
@@ -680,6 +684,7 @@ dhanyakholahs.edu.bd.dihsc.edu.bd
 dharerbarimuslimhsc.edu.bd
 dhfm.edu.bd
 dhirasramgirlshighschool.edu.bd
+dhkgovmalia.edu.bd
 dhopadihighschool.edu.bd
 dhsbirampur.edu.bd
 dhsnil.edu.bd
@@ -831,6 +836,7 @@ hmhvghs.edu.bd
 hmjacc.edu.bd
 hnhnpmc.edu.bd
 hormahs.edu.bd
+host.mangrove.edu.bd
 hostelaccounts.ugv.edu.bd
 hsbcollege.edu.bd
 hscollege.edu.bd
@@ -1174,6 +1180,7 @@ mail.sijghs.edu.bd
 mail.skamidm.edu.bd
 mail.skass.edu.bd
 mail.snudmad.edu.bd
+mail.srsc.edu.bd
 mail.ssdcb.edu.bd
 mail.stfxs.edu.bd
 mail.tdikm102971.edu.bd
@@ -1215,6 +1222,7 @@ meritbangladesh.edu.bd
 mernsun.edu.bd
 metropoliceline.edu.bd
 metrouni.edu.bd
+meufm.edu.bd
 mgmhhs.edu.bd
 mhighschool.edu.bd
 mhs.edu.bd
@@ -1563,6 +1571,7 @@ srdmp.edu.bd
 sreegovtcollege.edu.bd
 sreepurhighschool.edu.bd
 srsac.edu.bd
+srsc.edu.bd
 ssdcb.edu.bd
 sshs119932.edu.bd
 sshschool.edu.bd
@@ -1607,6 +1616,7 @@ tolaramcollege.edu.bd
 tsbghs.edu.bd
 tsc.edu.bd
 tsphs.edu.bd
+ttqam.edu.bd
 tulabanhs.edu.bd
 tumcharmadrasha.edu.bd
 u.mahhs.edu.bd
@@ -1626,6 +1636,7 @@ w.bkdcl.edu.bd
 wafw.old.ulab.edu.bd
 waggahighschool.edu.bd
 wahidunnesa.edu.bd
+wbbdm.edu.bd
 wdbhs.edu.bd
 webdisk.aamctg.edu.bd
 webdisk.abusharaftsc.edu.bd
@@ -1720,6 +1731,7 @@ webdisk.shshsm.edu.bd
 webdisk.skamidm.edu.bd
 webdisk.skass.edu.bd
 webdisk.snudmad.edu.bd
+webdisk.srsc.edu.bd
 webdisk.ssdcb.edu.bd
 webdisk.ssschool.edu.bd
 webdisk.tdikm102971.edu.bd
@@ -1826,6 +1838,7 @@ webmail.shshsm.edu.bd
 webmail.skamidm.edu.bd
 webmail.skass.edu.bd
 webmail.snudmad.edu.bd
+webmail.srsc.edu.bd
 webmail.ssdcb.edu.bd
 webmail.tdikm102971.edu.bd
 webmail.test6.bsmrau.edu.bd
@@ -2094,6 +2107,7 @@ www.kkpahs.edu.bd
 www.kmgadmj.edu.bd
 www.kmhdc.edu.bd
 www.knadc.edu.bd
+www.koha.uttarauniversity.edu.bd
 www.kotaliparanews24.snbghs.edu.bd
 www.kphsm.edu.bd
 www.kpmb.edu.bd
@@ -2191,6 +2205,7 @@ www.old.bharateswarihomes.edu.bd
 www.old.sfmwhc.edu.bd
 www.old.ugv.edu.bd
 www.omhs.edu.bd.jrmb.edu.bd
+www.opac.uttarauniversity.edu.bd
 www.pakhimarapvss.edu.bd
 www.panchjuniadss.edu.bd
 www.paragaon.kathoraidm.edu.bd
@@ -2276,6 +2291,7 @@ www.soft.mti.edu.bd
 www.soft.rahmatpuraghs.edu.bd
 www.srdm.naghs.edu.bd
 www.srdmp.edu.bd
+www.srsc.edu.bd
 www.ssdcb.edu.bd
 www.ssrschool.edu.bd
 www.stfxs.edu.bd
