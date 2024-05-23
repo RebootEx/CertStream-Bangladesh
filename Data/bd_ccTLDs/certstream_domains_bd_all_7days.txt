@@ -298,8 +298,10 @@ autodiscover.baonarahighschool.edu.bd
 autodiscover.basantapurschool.edu.bd
 autodiscover.bass.edu.bd
 autodiscover.bbf.org.bd
+autodiscover.bgpmsc.edu.bd
 autodiscover.binodonbichitra.com.bd
 autodiscover.bnsacg.edu.bd
+autodiscover.boahs.edu.bd
 autodiscover.broa.com.bd
 autodiscover.bvdsdmadrasah.edu.bd
 autodiscover.cmnmdm.edu.bd
@@ -388,6 +390,7 @@ autodiscover.skass.edu.bd
 autodiscover.smart.com.bd
 autodiscover.sms-dupl.com.bd
 autodiscover.snudmad.edu.bd
+autodiscover.spghighschool.edu.bd
 autodiscover.srfurniture.com.bd
 autodiscover.srsc.edu.bd
 autodiscover.ssdcb.edu.bd
@@ -519,6 +522,7 @@ bgcbogura.edu.bd
 bghs84.edu.bd
 bghschool.edu.bd
 bgp.com.bd
+bgpmsc.edu.bd
 bgpsk.edu.bd
 bhahs.edu.bd
 bhajanpurblhs.edu.bd
@@ -593,6 +597,7 @@ bnghsraj.edu.bd
 bnsacg.edu.bd
 bnsc.edu.bd
 bnsghs.edu.bd
+boahs.edu.bd
 boailmaryhighschool.naghs.edu.bd
 boaliaghs.edu.bd
 bodawomencollege.edu.bd.dhakhs.edu.bd
@@ -847,11 +852,13 @@ cpanel.basantapurschool.edu.bd
 cpanel.bass.edu.bd
 cpanel.bbf.org.bd
 cpanel.bdm116671.edu.bd
+cpanel.bgpmsc.edu.bd
 cpanel.bgpsk.edu.bd
 cpanel.binodonbichitra.com.bd
 cpanel.biswasit.com.bd
 cpanel.bja.com.bd
 cpanel.bnsacg.edu.bd
+cpanel.boahs.edu.bd
 cpanel.borennoshop.com.bd
 cpanel.broa.com.bd
 cpanel.bsmrau.edu.bd
@@ -1021,6 +1028,7 @@ cpanel.smart.com.bd
 cpanel.sms-dupl.com.bd
 cpanel.snudmad.edu.bd
 cpanel.spcreation.com.bd
+cpanel.spghighschool.edu.bd
 cpanel.srfurniture.com.bd
 cpanel.sromik-jigyasha.blast.org.bd
 cpanel.srsc.edu.bd
@@ -1089,10 +1097,12 @@ cpcalendars.basantapurschool.edu.bd
 cpcalendars.bass.edu.bd
 cpcalendars.bbf.org.bd
 cpcalendars.bdm116671.edu.bd
+cpcalendars.bgpmsc.edu.bd
 cpcalendars.bgpsk.edu.bd
 cpcalendars.binodonbichitra.com.bd
 cpcalendars.bja.com.bd
 cpcalendars.bnsacg.edu.bd
+cpcalendars.boahs.edu.bd
 cpcalendars.borennoshop.com.bd
 cpcalendars.broa.com.bd
 cpcalendars.bsmrau.edu.bd
@@ -1258,6 +1268,7 @@ cpcalendars.skcommunication.net.bd
 cpcalendars.smart.com.bd
 cpcalendars.sms-dupl.com.bd
 cpcalendars.snudmad.edu.bd
+cpcalendars.spghighschool.edu.bd
 cpcalendars.srfurniture.com.bd
 cpcalendars.srsc.edu.bd
 cpcalendars.ssdcb.edu.bd
@@ -1321,10 +1332,12 @@ cpcontacts.basantapurschool.edu.bd
 cpcontacts.bass.edu.bd
 cpcontacts.bbf.org.bd
 cpcontacts.bdm116671.edu.bd
+cpcontacts.bgpmsc.edu.bd
 cpcontacts.bgpsk.edu.bd
 cpcontacts.binodonbichitra.com.bd
 cpcontacts.bja.com.bd
 cpcontacts.bnsacg.edu.bd
+cpcontacts.boahs.edu.bd
 cpcontacts.borennoshop.com.bd
 cpcontacts.broa.com.bd
 cpcontacts.bsmrau.edu.bd
@@ -1487,6 +1500,7 @@ cpcontacts.skcommunication.net.bd
 cpcontacts.smart.com.bd
 cpcontacts.sms-dupl.com.bd
 cpcontacts.snudmad.edu.bd
+cpcontacts.spghighschool.edu.bd
 cpcontacts.srfurniture.com.bd
 cpcontacts.srsc.edu.bd
 cpcontacts.ssdcb.edu.bd
@@ -2054,6 +2068,7 @@ grameenmarket.com.bd
 grassophy-backend.coderslab.com.bd
 grassophy.coderslab.com.bd
 green-gliders.com.ayattrade.com.bd
+green.edu.bd
 greenb.com.bd
 greenbiotechnology.com.bd
 greenbuildingacademy.com.bd
@@ -2471,7 +2486,9 @@ kutubpurarunnesasc.edu.bd
 kyamc.edu.bd
 kylife.com.bd
 kzpsc.edu.bd
+l.codeware.com.bd
 laajhs.edu.bd
+labtex.com.bd
 ladiesfashion.com.bd
 lagbe.com.bd
 lajiachy.com.bd
@@ -2534,6 +2551,7 @@ lvs.ansarvdpbank.gov.bd
 m.monohardididm.edu.bd
 m16.3rnet.com.bd
 maam.edu.bd
+maammibd.com.shareez.com.bd
 macbi.edu.bd
 macbook.com.bd
 macomputer.com.bd
@@ -2596,13 +2614,16 @@ mail.best-one.com.bd
 mail.bfel.com.bd
 mail.bfl.com.bd
 mail.bgp.com.bd
+mail.bgpmsc.edu.bd
 mail.bgpsk.edu.bd
 mail.binodonbichitra.com.bd
 mail.bishnupurimhs.edu.bd
 mail.biswasit.com.bd
 mail.bja.com.bd
 mail.bmba.com.bd
+mail.bmdf.gov.bd
 mail.bnsacg.edu.bd
+mail.boahs.edu.bd
 mail.boaliaghs.edu.bd
 mail.borabor.com.bd
 mail.borennoshop.com.bd
@@ -2889,6 +2910,7 @@ mail.smart.com.bd
 mail.sms-dupl.com.bd
 mail.snudmad.edu.bd
 mail.spcreation.com.bd
+mail.spghighschool.edu.bd
 mail.spring.com.bd
 mail.srfurniture.com.bd
 mail.srsc.edu.bd
@@ -3888,6 +3910,7 @@ sonarbanglahs.edu.bd
 sonargaongri.edu.bd
 sondailhighschool.edu.bd
 sopnilit.com.bd
+souljar.com.bd
 southnazirpursecondaryschool.edu.bd
 spcreation.com.bd
 spds.brdb.org.bd
@@ -3895,6 +3918,7 @@ spectra.net.bd
 speedlinks.com.bd
 spf.org.bd
 spgh.edu.bd
+spghighschool.edu.bd
 spharma.sopnilit.com.bd
 sphhs.edu.bd
 spinternational.com.bd
@@ -3987,6 +4011,7 @@ talibpurahsaniahs.edu.bd
 talkpanda.com.bd
 tally.bd24.com.bd
 talon.com.bd
+tamreen.com.bd
 taqwasoft.com.bd
 taqwastore.com.bd
 taskan.com.bd
@@ -3998,6 +4023,7 @@ taxeszone4dhaka.gov.bd
 tazkia.com.bd
 tbphs.edu.bd
 tc.com.bd
+tcel.com.bd
 tdcnil.edu.bd
 tdikm102971.edu.bd
 tdikm102971.edu.bd.jsgs.edu.bd
@@ -4223,10 +4249,12 @@ webdisk.basantapurschool.edu.bd
 webdisk.bass.edu.bd
 webdisk.bbf.org.bd
 webdisk.bdm116671.edu.bd
+webdisk.bgpmsc.edu.bd
 webdisk.bgpsk.edu.bd
 webdisk.binodonbichitra.com.bd
 webdisk.bja.com.bd
 webdisk.bnsacg.edu.bd
+webdisk.boahs.edu.bd
 webdisk.borennoshop.com.bd
 webdisk.broa.com.bd
 webdisk.bsmrau.edu.bd
@@ -4388,6 +4416,7 @@ webdisk.skcommunication.net.bd
 webdisk.smart.com.bd
 webdisk.sms-dupl.com.bd
 webdisk.snudmad.edu.bd
+webdisk.spghighschool.edu.bd
 webdisk.srfurniture.com.bd
 webdisk.srsc.edu.bd
 webdisk.ssdcb.edu.bd
@@ -4452,11 +4481,13 @@ webmail.basantapurschool.edu.bd
 webmail.bass.edu.bd
 webmail.bbf.org.bd
 webmail.bdm116671.edu.bd
+webmail.bgpmsc.edu.bd
 webmail.bgpsk.edu.bd
 webmail.binodonbichitra.com.bd
 webmail.biswasit.com.bd
 webmail.bja.com.bd
 webmail.bnsacg.edu.bd
+webmail.boahs.edu.bd
 webmail.borennoshop.com.bd
 webmail.broa.com.bd
 webmail.bsmrau.edu.bd
@@ -4635,6 +4666,7 @@ webmail.smart.com.bd
 webmail.sms-dupl.com.bd
 webmail.snudmad.edu.bd
 webmail.spcreation.com.bd
+webmail.spghighschool.edu.bd
 webmail.srfurniture.com.bd
 webmail.srsc.edu.bd
 webmail.ssdcb.edu.bd
@@ -4836,6 +4868,8 @@ www.aqualife.com.bd
 www.arafat.com.bd
 www.arafatconstruction.nativedigital.com.bd
 www.arassociates.com.bd
+www.archive-jmc.green.edu.bd
+www.archive-soc.green.edu.bd
 www.arif.wicon.com.bd
 www.arifhosen.com.bd
 www.armor-iimak.com.bd
@@ -4906,6 +4940,7 @@ www.bfl.com.bd
 www.bghs84.edu.bd
 www.bghschool.edu.bd
 www.bgp.com.bd
+www.bgpmsc.edu.bd
 www.bgpsk.edu.bd
 www.bhahs.edu.bd
 www.bhajanpurblhs.edu.bd
@@ -4934,6 +4969,7 @@ www.bmndm.edu.bd
 www.bmw.com.bd
 www.bnfm.edu.bd
 www.bnsacg.edu.bd
+www.boahs.edu.bd
 www.boailmaryhighschool.naghs.edu.bd
 www.boaliaghs.edu.bd
 www.bodawomencollege.edu.bd.dhakhs.edu.bd
@@ -5502,6 +5538,7 @@ www.kurianaghs.edu.bd
 www.kurigrampls.edu.bd.gbrcr.gov.bd
 www.kutubdiagghs.edu.bd
 www.kyamc.edu.bd
+www.labtex.com.bd
 www.lakshmanpurcollegiate.edu.bd.piam.edu.bd
 www.lalitnagarsc.edu.bd
 www.lama.edu.bd
@@ -5546,6 +5583,7 @@ www.lvs.ansarvdpbank.gov.bd
 www.m.bpidm.edu.bd
 www.m.monohardididm.edu.bd
 www.maam.edu.bd
+www.maammibd.com.shareez.com.bd
 www.macbook.com.bd
 www.madhobpurhs.edu.bd
 www.madm.edu.bd
@@ -6025,6 +6063,7 @@ www.sonargaongri.edu.bd.momtajtdpl.com.bd
 www.spcreation.com.bd
 www.spds.brdb.org.bd
 www.spgh.edu.bd.umfm.edu.bd
+www.spghighschool.edu.bd
 www.srdm.naghs.edu.bd
 www.srdmp.edu.bd
 www.sreenagargovtcollege.edu.bd
@@ -6077,6 +6116,7 @@ www.tawhid.com.bd
 www.taxappealkhulna.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
+www.tcel.com.bd
 www.tdikm102971.edu.bd
 www.tdikm102971.edu.bd.jsgs.edu.bd
 www.tds.taxeszone5dhaka.gov.bd
@@ -6225,6 +6265,7 @@ www.zm.harnest.com.bd
 x.diana.com.bd
 xcontrol.mtvit.com.bd
 xiclassadmission.com.bd
+xn--65bp7a3a6ab.xn--54b7fta0cc
 xnet.com.bd
 xpertitbd.com.kena.com.bd
 xpressmart.com.bd
