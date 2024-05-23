@@ -10,6 +10,7 @@ finance.ec4j.gov.bd
 grs.ec4j.gov.bd
 huamc.gov.bd
 ilab.gov.bd
+kenduagc.gov.bd
 mne.ec4j.gov.bd
 pirganjmunicipality.gov.bd
 sadarpurup.faridpurlg.gov.bd
@@ -18,6 +19,7 @@ smarttraffic.dncc.gov.bd
 task.ec4j.gov.bd
 taxeszone9dhaka.gov.bd
 tekpou.gov.bd
+test.habiganjpourashava.gov.bd
 tms.seip-fd.gov.bd
 uppabnaholdingtax.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
@@ -29,4 +31,5 @@ www.grs.ec4j.gov.bd
 www.mne.ec4j.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.task.ec4j.gov.bd
+www.test.habiganjpourashava.gov.bd
 zpsirajganj.gov.bd
