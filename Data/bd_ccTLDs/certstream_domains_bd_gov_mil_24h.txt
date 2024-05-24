@@ -22,6 +22,7 @@ finance.ec4j.gov.bd
 gps.gov.bd
 ilab.gov.bd
 jitsi.vc8.bcc.gov.bd
+laravel.sfcarmy.gov.bd
 mail.dnbc.gov.bd
 mail.ec4j.gov.bd
 mne.ec4j.gov.bd
@@ -50,6 +51,7 @@ www.dnbc.gov.bd
 www.ec4j.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.finance.ec4j.gov.bd
+www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.pti.ueopat.gov.bd
 www.task.ec4j.gov.bd
