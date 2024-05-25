@@ -36,6 +36,7 @@ autodiscover.adcomm.com.bd
 autodiscover.beco.com.bd
 autodiscover.chankhola.com.bd
 autodiscover.ebfashion.com.bd
+autodiscover.gsghs.edu.bd
 autodiscover.nrg.com.bd
 autodiscover.pickndrop.com.bd
 autodiscover.smithit.com.bd
@@ -54,6 +55,7 @@ bhengridm.edu.bd
 bi.apamsv3.cabinet.gov.bd
 biet.edu.bd
 bitm.org.bd
+bkash.greenbytes.net.bd
 bkashbank.com.bd
 blacks.com.bd
 blingzoit.com.bd
@@ -79,6 +81,7 @@ chatbot.adwise.com.bd
 chawmuhanischool.edu.bd
 chaya.com.bd
 chem.mbstu.ac.bd
+chsm.edu.bd
 cie.com.bd
 cloudcake.com.bd
 cmdck.edu.bd
@@ -93,6 +96,7 @@ cpanel.crpnc.edu.bd
 cpanel.datazoinfotech.com.bd
 cpanel.ebfashion.com.bd
 cpanel.gbdl.com.bd
+cpanel.gsghs.edu.bd
 cpanel.jorepukuriass.edu.bd
 cpanel.kanaighatcollege.edu.bd
 cpanel.kewatomiruddinalimmadrasha.edu.bd
@@ -109,6 +113,7 @@ cpcalendars.crpnc.edu.bd
 cpcalendars.datazoinfotech.com.bd
 cpcalendars.ebfashion.com.bd
 cpcalendars.gbdl.com.bd
+cpcalendars.gsghs.edu.bd
 cpcalendars.jorepukuriass.edu.bd
 cpcalendars.kanaighatcollege.edu.bd
 cpcalendars.kewatomiruddinalimmadrasha.edu.bd
@@ -125,6 +130,7 @@ cpcontacts.crpnc.edu.bd
 cpcontacts.datazoinfotech.com.bd
 cpcontacts.ebfashion.com.bd
 cpcontacts.gbdl.com.bd
+cpcontacts.gsghs.edu.bd
 cpcontacts.jorepukuriass.edu.bd
 cpcontacts.kanaighatcollege.edu.bd
 cpcontacts.kewatomiruddinalimmadrasha.edu.bd
@@ -198,9 +204,11 @@ git.env.com.bd
 goggles.apico.com.bd
 grameenfashions.com.bd
 growever.com.bd
+gsghs.edu.bd
 gtamam.edu.bd
 gtamam.ppss.edu.bd
 hajimaggss.edu.bd
+hamd.edu.bd
 hbilling.sbonline.com.bd
 helal.com.bd
 helper.com.bd
@@ -262,6 +270,7 @@ mail.dhakirkandahrhighschool.edu.bd
 mail.ebfashion.com.bd
 mail.gbdl.com.bd
 mail.global.com.bd
+mail.gsghs.edu.bd
 mail.jnu.ac.bd
 mail.jorepukuriass.edu.bd
 mail.kanaighatcollege.edu.bd
@@ -296,11 +305,15 @@ natdm.edu.bd
 net-it.jnu.ac.bd
 newetif.bise-ctg.gov.bd
 next.autodrive.com.bd
+noorbazar.com.bd
 nrg.com.bd
 ns2.plexus.com.bd
 ns30.reddata.com.bd
+nurulkabir.com.bd
 okwallet.com.bd
+old.barakahhousing.com.bd
 open.ecdl.com.bd
+padmanews.com.bd
 pajama.com.bd
 panchliabahs.edu.bd
 partner.foodpanda.com.bd
@@ -345,6 +358,7 @@ romancia.com.bd
 romoni.com.bd
 runup.com.bd
 rupapatup.faridpurlg.gov.bd
+safwanfoils.com.bd
 sahimart.growever.com.bd
 saikat.mndmbera.edu.bd
 sbilling.sbonline.com.bd
@@ -363,6 +377,7 @@ shop.beargear.com.bd
 shop.glowstar.com.bd
 shopcart.com.bd
 sijghs.edu.bd
+silkelevators.com.bd
 singherkathimlhs.edu.bd
 sisalapparel.com.bd
 sk-km.com.bd
@@ -378,6 +393,7 @@ somoy24.com.bd
 sonaichandihs.edu.bd
 sotraders.com.bd
 srl.com.bd
+ssgsac.edu.bd
 sskrhs.edu.bd
 staging.award.smartbangladesh.gov.bd
 static.romoni.com.bd
@@ -387,6 +403,7 @@ study.cpabangladesh.com.bd
 sub-map.rmg.org.bd
 supermart.com.bd
 supermart.rangberang.com.bd
+suresale.com.bd
 synapse.com.bd
 t-tech.com.bd
 tagarbandaup.faridpurlg.gov.bd
@@ -421,6 +438,7 @@ webdisk.crpnc.edu.bd
 webdisk.datazoinfotech.com.bd
 webdisk.ebfashion.com.bd
 webdisk.gbdl.com.bd
+webdisk.gsghs.edu.bd
 webdisk.jorepukuriass.edu.bd
 webdisk.kanaighatcollege.edu.bd
 webdisk.kewatomiruddinalimmadrasha.edu.bd
@@ -437,6 +455,7 @@ webmail.crpnc.edu.bd
 webmail.datazoinfotech.com.bd
 webmail.ebfashion.com.bd
 webmail.gbdl.com.bd
+webmail.gsghs.edu.bd
 webmail.jorepukuriass.edu.bd
 webmail.kanaighatcollege.edu.bd
 webmail.kewatomiruddinalimmadrasha.edu.bd
@@ -446,6 +465,7 @@ webmail.supermart.com.bd
 webmail.zpsatkhira.gov.bd
 webtoapp.mddl.com.bd
 work.klassy.com.bd
+work.theworld.com.bd
 www.ab.aranya.com.bd
 www.adcomm.com.bd
 www.admin.hkmvssgschool.edu.bd
@@ -468,6 +488,7 @@ www.beco.com.bd
 www.bhalukgpdm.edu.bd
 www.bhengridm.edu.bd.momtajtdpl.com.bd
 www.bitm.org.bd
+www.bkash.greenbytes.net.bd
 www.blood.jnu.ac.bd
 www.blueskyhealth.com.bd
 www.bongramdrahs.edu.bd
@@ -505,6 +526,7 @@ www.gbdl.com.bd
 www.glowandlovelycareers.com.bd
 www.goggles.apico.com.bd
 www.growever.com.bd
+www.gsghs.edu.bd
 www.gtamam.ppss.edu.bd
 www.hasan.skrp.com.bd
 www.hstower.smithit.com.bd
@@ -534,7 +556,9 @@ www.net-it.jnu.ac.bd
 www.new.kkfoundation.org.bd
 www.next.autodrive.com.bd
 www.nrg.com.bd
+www.nurulkabir.com.bd
 www.okwallet.com.bd
+www.old.barakahhousing.com.bd
 www.old.joypurhattsc.gov.bd
 www.open.ecdl.com.bd
 www.phy.mbstu.ac.bd
@@ -556,6 +580,7 @@ www.smithit.com.bd
 www.sms.mac.org.bd
 www.somoy24.com.bd
 www.sotraders.com.bd
+www.ssgsac.edu.bd
 www.study.cpabangladesh.com.bd
 www.sunsilk.com.bd
 www.supermart.com.bd
@@ -577,6 +602,7 @@ www.visiontechnologiesltd.visiontech.com.bd
 www.voteradda.dnet.org.bd
 www.vpn.srl.com.bd
 www.web.kkfoundation.org.bd
+www.work.theworld.com.bd
 www.zpsatkhira.gov.bd
 zadm.edu.bd
 zpsatkhira.gov.bd
