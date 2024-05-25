@@ -12,6 +12,7 @@ abighs.edu.bd.dihsc.edu.bd
 abmc.edu.bd
 abmhschool.edu.bd
 abmt.edu.bd
+abnk.edu.bd
 absdm.edu.bd
 abusharaftsc.edu.bd
 academic.sbsc1933.edu.bd
@@ -352,6 +353,7 @@ cpanel.jgdc.edu.bd
 cpanel.jkkniu.edu.bd
 cpanel.jmudm.edu.bd
 cpanel.kadm103826.edu.bd
+cpanel.kanaighatcollege.edu.bd
 cpanel.kanchanpurhaorhighschool.edu.bd
 cpanel.karnafulicollege.edu.bd
 cpanel.katirhaths.edu.bd
@@ -427,6 +429,7 @@ cpcalendars.jgdc.edu.bd
 cpcalendars.jkkniu.edu.bd
 cpcalendars.jmudm.edu.bd
 cpcalendars.kadm103826.edu.bd
+cpcalendars.kanaighatcollege.edu.bd
 cpcalendars.kanchanpurhaorhighschool.edu.bd
 cpcalendars.karnafulicollege.edu.bd
 cpcalendars.katirhaths.edu.bd
@@ -501,6 +504,7 @@ cpcontacts.jgdc.edu.bd
 cpcontacts.jkkniu.edu.bd
 cpcontacts.jmudm.edu.bd
 cpcontacts.kadm103826.edu.bd
+cpcontacts.kanaighatcollege.edu.bd
 cpcontacts.kanchanpurhaorhighschool.edu.bd
 cpcontacts.karnafulicollege.edu.bd
 cpcontacts.katirhaths.edu.bd
@@ -540,6 +544,7 @@ crs.edu.bd
 csbmc.edu.bd
 csfmadrasah.edu.bd
 cskdm.edu.bd
+csnp.just.edu.bd
 ctbmi.edu.bd
 cumc.edu.bd
 cumillagwc.edu.bd
@@ -650,6 +655,7 @@ faridpurcitycollege.edu.bd
 faridpurhighschool.edu.bd
 fbudm.edu.bd
 fees.ugv.edu.bd
+fenigaacademy.edu.bd
 fidm.edu.bd
 fkfmadrasha.edu.bd
 fkfmadrasha.edu.bd.satcfakirhat.edu.bd
@@ -757,6 +763,7 @@ icsb.edu.bd
 icsb.icsb.edu.bd
 ict.bsmraau.edu.bd
 idhs.edu.bd
+ifsp.bsmrau.edu.bd
 igdc.edu.bd
 ighsp.edu.bd
 igmis.edu.bd
@@ -828,6 +835,7 @@ kalidaskuhs.edu.bd
 kalmeghaehs.edu.bd
 kamdiaghs.edu.bd
 kamhsc.edu.bd
+kanaighatcollege.edu.bd
 kanchanpurhaorhighschool.edu.bd
 kantabarihs.edu.bd
 karnafulicollege.edu.bd
@@ -996,6 +1004,7 @@ mail.jkkniu.edu.bd
 mail.jmudm.edu.bd
 mail.kadm103826.edu.bd
 mail.kamdiaghs.edu.bd
+mail.kanaighatcollege.edu.bd
 mail.kanchanpurhaorhighschool.edu.bd
 mail.karnafulicollege.edu.bd
 mail.katirhaths.edu.bd
@@ -1085,6 +1094,7 @@ mcchsr.edu.bd
 mcdm.edu.bd
 mcs.edu.bd
 mdcb.naghs.edu.bd
+merit.edu.bd
 meritbangladesh.edu.bd
 mernsun.edu.bd
 metropoliceline.edu.bd
@@ -1105,6 +1115,7 @@ mirzapurkchs.edu.bd
 mistte.edu.bd
 mithachara.snfm.edu.bd
 mithilapurhighschool.edu.bd
+mitunursingcollege.edu.bd
 mjbc.edu.bd
 mjdm.edu.bd
 mjnnmdcollege.edu.bd
@@ -1230,23 +1241,32 @@ polsairtphs.edu.bd
 polytechnichighschool.edu.bd
 porbapoulihs.edu.bd
 portal.abmhschool.edu.bd
+portal.afi.edu.bd
+portal.ayeshbamadrasah.edu.bd
 portal.bark.edu.bd
 portal.basths.edu.bd
 portal.bbsc.edu.bd
 portal.bdmhs.edu.bd
+portal.bhs119920.edu.bd
+portal.bongpurhs.edu.bd
 portal.bpmgmhs.edu.bd
 portal.cmaghs.edu.bd
 portal.cshssarishabari.edu.bd
 portal.damgarihs.edu.bd
 portal.dhukundihighschool.edu.bd
 portal.domnibarihighschool.edu.bd
+portal.earpurhighschool.edu.bd
 portal.fmshs.edu.bd
 portal.glenrich.edu.bd
 portal.gsfm.edu.bd
 portal.htabhs.edu.bd
 portal.igdc.edu.bd
+portal.jobaidahs68.edu.bd
+portal.joshoilhs.edu.bd
 portal.kalabadhaghs.edu.bd
+portal.kbi.edu.bd
 portal.kurianaghs.edu.bd
+portal.mmukm.edu.bd
 portal.myasac.edu.bd
 portal.naogaonghs.edu.bd
 portal.psac.edu.bd
@@ -1359,6 +1379,7 @@ sfnhs.edu.bd
 sftsc.edu.bd
 sfxgsc.edu.bd
 sgbajgs.edu.bd
+sgcdn.edu.bd
 sgghs.edu.bd
 sgghsc.edu.bd
 sghsptk.edu.bd
@@ -1531,6 +1552,7 @@ webdisk.jgdc.edu.bd
 webdisk.jkkniu.edu.bd
 webdisk.jmudm.edu.bd
 webdisk.kadm103826.edu.bd
+webdisk.kanaighatcollege.edu.bd
 webdisk.kanchanpurhaorhighschool.edu.bd
 webdisk.karnafulicollege.edu.bd
 webdisk.katirhaths.edu.bd
@@ -1608,6 +1630,7 @@ webmail.jgdc.edu.bd
 webmail.jkkniu.edu.bd
 webmail.jmudm.edu.bd
 webmail.kadm103826.edu.bd
+webmail.kanaighatcollege.edu.bd
 webmail.kanchanpurhaorhighschool.edu.bd
 webmail.karnafulicollege.edu.bd
 webmail.katirhaths.edu.bd
@@ -1783,6 +1806,7 @@ www.coearchive.daffodilvarsity.edu.bd
 www.court.pbsc.edu.bd
 www.csbmc.edu.bd
 www.cse.rpsu.edu.bd
+www.csnp.just.edu.bd
 www.cumc.edu.bd
 www.dahss.edu.bd
 www.dajadmadrasah.edu.bd
@@ -1865,6 +1889,7 @@ www.hostelaccounts.ugv.edu.bd
 www.hsbcollege.edu.bd
 www.humanityfoundation.org.bd.kss1919.edu.bd
 www.ichmodelschool.edu.bd
+www.ifsp.bsmrau.edu.bd
 www.ighsp.edu.bd
 www.igmaslaravel.igmis.edu.bd
 www.ihsb.edu.bd
@@ -1910,6 +1935,7 @@ www.juniv.edu.bd
 www.kabhs.aabchs.edu.bd
 www.kadm103826.edu.bd
 www.kamdiaghs.edu.bd
+www.kanaighatcollege.edu.bd
 www.kanchanpurhaorhighschool.edu.bd
 www.karnafulicollege.edu.bd
 www.kathaliahs.edu.bd.piam.edu.bd
@@ -1972,6 +1998,7 @@ www.mhsp.edu.bd
 www.miakundughs.edu.bd
 www.mirzapurgirlshighschool.edu.bd
 www.mithachara.snfm.edu.bd
+www.mitunursingcollege.edu.bd
 www.mjbc.edu.bd
 www.mjdm.edu.bd
 www.mjnnmdcollege.aabchs.edu.bd
