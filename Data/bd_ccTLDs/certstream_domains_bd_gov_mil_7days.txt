@@ -1,7 +1,5 @@
 accounts.bise-ctg.gov.bd
 acland-siddhirganjcircle.gov.bd
-aclandkotowalicircle.gov.bd
-ahcollege.gov.bd
 alfadangaup.faridpurlg.gov.bd
 apamsv3.cabinet.gov.bd
 api.ipemis.dpe.gov.bd
@@ -16,7 +14,6 @@ autodiscover.zpsatkhira.gov.bd
 barcouncil.gov.bd
 bazarmonitoring.digrajshahirange.gov.bd
 bbggc.gov.bd
-bcms.gov.bd
 bee.seip-fd.gov.bd
 bgcf.gov.bd
 bhpi.gov.bd
@@ -30,12 +27,10 @@ bwc.gov.bd
 cafoagriculture.gov.bd
 cafomofl.gov.bd
 caforoads.gov.bd
-cafowomenchild.gov.bd
 cedp.gbrcr.gov.bd
 certification.bdskills.gov.bd
 cgwc.gov.bd
 chandpurup.faridpurlg.gov.bd
-college.gov.bd
 coxsbazarpolice.gov.bd
 cpadigital.gov.bd
 cpanel.ec4j.gov.bd
@@ -62,7 +57,6 @@ damspsd.gov.bd
 dashboard.blri.gov.bd
 dashboard.iedcr.gov.bd
 dashboard.ipemis.dpe.gov.bd
-dcadhaka.gov.bd
 ddpr.gov.bd
 decreercharup.faridpurlg.gov.bd
 demo.certificatefuldin.gov.bd
@@ -84,8 +78,6 @@ faridpurlg.gov.bd
 finance.ec4j.gov.bd
 fulsutiup.faridpurlg.gov.bd
 gattiup.faridpurlg.gov.bd
-gems.gov.bd
-gobindagonjpourashava.gov.bd
 gps.gov.bd
 grs.ec4j.gov.bd
 gunaigachha.uppabnaholdingtax.gov.bd
@@ -100,7 +92,6 @@ iph.gov.bd
 iptv.totthoapa.gov.bd
 ishangopalpurup.faridpurlg.gov.bd
 jamalpurtsc.gov.bd
-jhenaidahtsc.gov.bd
 jitsi.vc8.bcc.gov.bd
 journal.dhakadental.gov.bd
 joypurhattsc.gov.bd
@@ -111,7 +102,6 @@ kgh.gov.bd
 kms.bamis.gov.bd
 korakdi.faridpurlg.gov.bd
 kpik.gov.bd
-krishokerjanala.gov.bd
 laravel.cafolgd.gov.bd
 laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
@@ -120,7 +110,6 @@ lawjusticediv.gov.bd
 login.ipemis.dpe.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 mail.bmdf.gov.bd
-mail.bwc.gov.bd
 mail.dnbc.gov.bd
 mail.ec4j.gov.bd
 mail.faridpurlg.gov.bd
@@ -128,7 +117,6 @@ mail.nilmrcbd.gov.bd
 mail.sfmmttc.gov.bd
 mail.tds.taxeszone5dhaka.gov.bd
 mail.tpi.gov.bd
-mail.tscchuadanga.gov.bd
 mail.zpsatkhira.gov.bd
 majcharup.faridpurlg.gov.bd
 manikdhaup.faridpurlg.gov.bd
@@ -152,7 +140,7 @@ patharghatapourashava.gov.bd
 payment.btebadmission.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 phghs.gov.bd
-pidms.ansarvdp.gov.bd
+pims.dgfood.gov.bd
 pirganjmunicipality.gov.bd
 pouroseba.gov.bd
 rajabariup.gov.bd
@@ -170,13 +158,10 @@ server.bise-ctg.gov.bd
 sfmmttc.gov.bd
 sheikhhasina.gov.bd
 shsmc.gov.bd
-smartbangladesh.gov.bd
 smarttraffic-api.dncc.gov.bd
 smarttraffic-owner.dncc.gov.bd
 smarttraffic.dncc.gov.bd
 smbogra.gov.bd
-smmamc.gov.bd
-ssndebidwar.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 storein.gnc.gov.bd
@@ -207,11 +192,8 @@ tvi.gov.bd
 ueopat.gov.bd
 uniontax.gov.bd
 unosullah.gov.bd
-upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 uzparaihazar.gov.bd
-vr.bangabhaban.gov.bd
-vr.gameapp.gov.bd
 web.jamalpurttc.gov.bd
 webdisk.ec4j.gov.bd
 webdisk.faridpurlg.gov.bd
@@ -229,10 +211,7 @@ whm.faridpurlg.gov.bd
 whm.nilmrcbd.gov.bd
 wms.ansarvdp.gov.bd
 workshop.fireservice.gov.bd
-www.admin.jhenaidahtsc.gov.bd
-www.ahcollege.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
-www.api.jhenaidahtsc.gov.bd
 www.api.mudp.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.arparaup.faridpurlg.gov.bd
@@ -240,16 +219,13 @@ www.assetgate.karmasangsthanbank.gov.bd
 www.atghoria.uppabnaholdingtax.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
 www.bsfmstu.gameapp.gov.bd
-www.bwc.gov.bd
 www.caforoads.gov.bd
-www.cafowomenchild.gov.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
 www.chandpurup.faridpurlg.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
 www.coxsbazarpolice.gov.bd
-www.dcadhaka.gov.bd
 www.decreercharup.faridpurlg.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.dnbc.gov.bd
@@ -260,7 +236,6 @@ www.ecertificate.fisheries.gov.bd
 www.elab.fisheries.gov.bd
 www.faridpurlg.gov.bd
 www.finance.ec4j.gov.bd
-www.fulbaria.upmymensinghholdingtax.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.gattiup.faridpurlg.gov.bd
 www.grs.ec4j.gov.bd
@@ -297,7 +272,6 @@ www.register.gameapp.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sfmmttc.gov.bd
-www.skbbscr.edu.bd.gbrcr.gov.bd
 www.storein.gnc.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.task.ec4j.gov.bd
@@ -307,7 +281,6 @@ www.test.gameapp.gov.bd
 www.test.habiganjpourashava.gov.bd
 www.tpi.gov.bd
 www.trademark.bsc.gov.bd
-www.tscchuadanga.gov.bd
 www.ttcrangpur.edu.bd.rdodterangpur.gov.bd
 www.web.jamalpurttc.gov.bd
 www.zpsatkhira.gov.bd
