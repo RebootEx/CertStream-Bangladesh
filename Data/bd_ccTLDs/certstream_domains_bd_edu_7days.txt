@@ -264,6 +264,7 @@ bsndm.edu.bd
 bsohs.edu.bd
 bssc.edu.bd
 bssgc.edu.bd
+btaa.edu.bd
 btgrss.edu.bd
 bthschool.edu.bd
 bti.edu.bd
@@ -362,6 +363,7 @@ cpanel.gobariahighschool.edu.bd
 cpanel.gobindopurhs.edu.bd
 cpanel.gsghs.edu.bd
 cpanel.hazerasultanhighschool.edu.bd
+cpanel.hgmphc.edu.bd
 cpanel.ihsb.edu.bd
 cpanel.iiscmymensingh.edu.bd
 cpanel.jgdc.edu.bd
@@ -378,6 +380,7 @@ cpanel.mlhschool.edu.bd
 cpanel.mmdc.edu.bd
 cpanel.mushuddiafazuddinhighschool.edu.bd
 cpanel.my.abduljabber.edu.bd
+cpanel.nowparasandc.edu.bd
 cpanel.peuhs.edu.bd
 cpanel.ppahs.edu.bd
 cpanel.rhbdmadrasah.edu.bd
@@ -420,6 +423,7 @@ cpcalendars.gobariahighschool.edu.bd
 cpcalendars.gobindopurhs.edu.bd
 cpcalendars.gsghs.edu.bd
 cpcalendars.hazerasultanhighschool.edu.bd
+cpcalendars.hgmphc.edu.bd
 cpcalendars.ihsb.edu.bd
 cpcalendars.iiscmymensingh.edu.bd
 cpcalendars.jgdc.edu.bd
@@ -434,6 +438,7 @@ cpcalendars.legend.edu.bd
 cpcalendars.mifm103814.edu.bd
 cpcalendars.mlhschool.edu.bd
 cpcalendars.my.abduljabber.edu.bd
+cpcalendars.nowparasandc.edu.bd
 cpcalendars.peuhs.edu.bd
 cpcalendars.ppahs.edu.bd
 cpcalendars.rhbdmadrasah.edu.bd
@@ -476,6 +481,7 @@ cpcontacts.gobariahighschool.edu.bd
 cpcontacts.gobindopurhs.edu.bd
 cpcontacts.gsghs.edu.bd
 cpcontacts.hazerasultanhighschool.edu.bd
+cpcontacts.hgmphc.edu.bd
 cpcontacts.ihsb.edu.bd
 cpcontacts.iiscmymensingh.edu.bd
 cpcontacts.jgdc.edu.bd
@@ -490,6 +496,7 @@ cpcontacts.legend.edu.bd
 cpcontacts.mifm103814.edu.bd
 cpcontacts.mlhschool.edu.bd
 cpcontacts.my.abduljabber.edu.bd
+cpcontacts.nowparasandc.edu.bd
 cpcontacts.peuhs.edu.bd
 cpcontacts.ppahs.edu.bd
 cpcontacts.rhbdmadrasah.edu.bd
@@ -712,6 +719,7 @@ hdnrhs.edu.bd
 hdumam.dsam.edu.bd
 hdumam.edu.bd
 heakmam.edu.bd
+hgmphc.edu.bd
 hhghsbt.edu.bd
 hhs1926.edu.bd
 hkahs.edu.bd
@@ -826,6 +834,7 @@ kanchanpurhaorhighschool.edu.bd
 kanchanpurkgrkhighschool.edu.bd
 karimass.edu.bd
 karnoshutimadrasha.edu.bd
+kashiabarihs.edu.bd
 kathaliahs.edu.bd
 katirhaths.edu.bd
 kau.edu.bd
@@ -984,6 +993,7 @@ mail.gsfm.edu.bd
 mail.gsghs.edu.bd
 mail.hazerasultanhighschool.edu.bd
 mail.heakmam.edu.bd
+mail.hgmphc.edu.bd
 mail.hmidm.edu.bd
 mail.hmjacc.edu.bd
 mail.hmmkhs.edu.bd
@@ -1038,6 +1048,7 @@ mail.ncgmhs.edu.bd
 mail.nhskaw.edu.bd
 mail.nhssingra.edu.bd
 mail.nkhs.edu.bd
+mail.nowparasandc.edu.bd
 mail.nphs.edu.bd
 mail.nvsschool.edu.bd
 mail.pakhimarapvss.edu.bd
@@ -1192,6 +1203,7 @@ njss.edu.bd
 nkhs.edu.bd
 nkmhighschoolandhomes.edu.bd
 nmkmodelhighschool.edu.bd
+nowparasandc.edu.bd
 nphs.edu.bd
 nsbkhs.edu.bd
 nugghs.edu.bd
@@ -1564,6 +1576,7 @@ webdisk.gobariahighschool.edu.bd
 webdisk.gobindopurhs.edu.bd
 webdisk.gsghs.edu.bd
 webdisk.hazerasultanhighschool.edu.bd
+webdisk.hgmphc.edu.bd
 webdisk.ihsb.edu.bd
 webdisk.iiscmymensingh.edu.bd
 webdisk.jgdc.edu.bd
@@ -1579,6 +1592,7 @@ webdisk.mifm103814.edu.bd
 webdisk.mlhschool.edu.bd
 webdisk.mmdc.edu.bd
 webdisk.my.abduljabber.edu.bd
+webdisk.nowparasandc.edu.bd
 webdisk.peuhs.edu.bd
 webdisk.ppahs.edu.bd
 webdisk.rhbdmadrasah.edu.bd
@@ -1624,6 +1638,7 @@ webmail.gobariahighschool.edu.bd
 webmail.gobindopurhs.edu.bd
 webmail.gsghs.edu.bd
 webmail.hazerasultanhighschool.edu.bd
+webmail.hgmphc.edu.bd
 webmail.ihsb.edu.bd
 webmail.iiscmymensingh.edu.bd
 webmail.jgdc.edu.bd
@@ -1639,6 +1654,7 @@ webmail.mifm103814.edu.bd
 webmail.mlhschool.edu.bd
 webmail.mushuddiafazuddinhighschool.edu.bd
 webmail.my.abduljabber.edu.bd
+webmail.nowparasandc.edu.bd
 webmail.peuhs.edu.bd
 webmail.ppahs.edu.bd
 webmail.rhbdmadrasah.edu.bd
@@ -1885,6 +1901,7 @@ www.hac.edu.bd
 www.hazerasultanhighschool.edu.bd
 www.hdumam.dsam.edu.bd
 www.heakmam.edu.bd
+www.hgmphc.edu.bd
 www.history.cvgc.edu.bd
 www.hkupam.edu.bd
 www.hmidm.edu.bd
@@ -2029,6 +2046,7 @@ www.nhskaw.edu.bd
 www.nhssingra.edu.bd
 www.nimaidighihs.edu.bd
 www.nkhs.edu.bd
+www.nowparasandc.edu.bd
 www.nphs.edu.bd
 www.nugghs.edu.bd
 www.nvsschool.edu.bd
