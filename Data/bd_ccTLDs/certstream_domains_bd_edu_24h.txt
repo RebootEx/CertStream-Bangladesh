@@ -21,14 +21,18 @@ bpgss.edu.bd
 bsadarshaseniormadrasah.edu.bd
 bsnmmjdc.edu.bd
 bssb.edu.bd
+cgskdm.edu.bd
 chadpurblhs.edu.bd
 charbamundiyadmadrasha.edu.bd
+chatalparjamea.edu.bd
+choumabe.edu.bd
 classlog.bubt.edu.bd
 cpanel.adcollege.edu.bd
 cpanel.ahsraj.edu.bd
 cpanel.bsadarshaseniormadrasah.edu.bd
 cpanel.jmdm.edu.bd
 cpanel.kushtiagovcollege.edu.bd
+cpanel.nmmhs.edu.bd
 cpanel.pn.edu.bd
 cpanel.tdcollege.edu.bd
 cpanel.udayannursingcollege.edu.bd
@@ -37,6 +41,7 @@ cpcalendars.ahsraj.edu.bd
 cpcalendars.bsadarshaseniormadrasah.edu.bd
 cpcalendars.jmdm.edu.bd
 cpcalendars.kushtiagovcollege.edu.bd
+cpcalendars.nmmhs.edu.bd
 cpcalendars.pn.edu.bd
 cpcalendars.tdcollege.edu.bd
 cpcalendars.udayannursingcollege.edu.bd
@@ -45,6 +50,7 @@ cpcontacts.ahsraj.edu.bd
 cpcontacts.bsadarshaseniormadrasah.edu.bd
 cpcontacts.jmdm.edu.bd
 cpcontacts.kushtiagovcollege.edu.bd
+cpcontacts.nmmhs.edu.bd
 cpcontacts.pn.edu.bd
 cpcontacts.tdcollege.edu.bd
 cpcontacts.udayannursingcollege.edu.bd
@@ -64,10 +70,12 @@ edu.bd.piam.edu.bd
 fchs.edu.bd
 gabnahs.edu.bd
 gabtaliam.edu.bd
+gangghs.edu.bd
 ghoshnagarhs.edu.bd
 ghoshnagarhs.edu.bd.kskhs.edu.bd
 gkghs.edu.bd
 gobratalaghs.edu.bd
+gopalghatahighschool.edu.bd
 govbikrampurkbcollege.edu.bd
 haldiagovhs.edu.bd
 hhighschool.edu.bd
@@ -99,6 +107,7 @@ mail.deutyhsandc.edu.bd
 mail.dssm.edu.bd
 mail.jmdm.edu.bd
 mail.kushtiagovcollege.edu.bd
+mail.nmmhs.edu.bd
 mail.pn.edu.bd
 mail.rcbm.edu.bd
 mail.tdcollege.edu.bd
@@ -109,6 +118,7 @@ malivitaghs.edu.bd.hducghs.edu.bd
 maluharwazediasecondaryschool.edu.bd
 mbanat.edu.bd
 mjss.edu.bd
+moythajanatahighschool.edu.bd
 mphs.edu.bd
 mukundiahighschool.edu.bd
 nadirhossaingirlshighschool.edu.bd
@@ -118,6 +128,7 @@ news.zums.edu.bd
 newtest.chandpurcollege.edu.bd
 nghscmym.edu.bd
 nievs.bnis.edu.bd
+nmmhs.edu.bd
 old.adust.edu.bd
 panboridm113707.edu.bd
 pbmhhs.edu.bd
@@ -145,12 +156,14 @@ tkbfazilmadrasah.edu.bd
 udayannursingcollege.edu.bd
 urma.edu.bd
 verify.iitju.edu.bd
+vm1.iom.edu.bd
 wcimt.edu.bd
 webdisk.adcollege.edu.bd
 webdisk.ahsraj.edu.bd
 webdisk.bsadarshaseniormadrasah.edu.bd
 webdisk.jmdm.edu.bd
 webdisk.kushtiagovcollege.edu.bd
+webdisk.nmmhs.edu.bd
 webdisk.pn.edu.bd
 webdisk.tdcollege.edu.bd
 webdisk.udayannursingcollege.edu.bd
@@ -159,6 +172,7 @@ webmail.ahsraj.edu.bd
 webmail.bsadarshaseniormadrasah.edu.bd
 webmail.jmdm.edu.bd
 webmail.kushtiagovcollege.edu.bd
+webmail.nmmhs.edu.bd
 webmail.pn.edu.bd
 webmail.tdcollege.edu.bd
 webmail.udayannursingcollege.edu.bd
@@ -168,6 +182,7 @@ www.battalijhs.edu.bd.mlahs.edu.bd
 www.bpgss.edu.bd.piam.edu.bd
 www.bsadarshaseniormadrasah.edu.bd
 www.charbamundiyadmadrasha.edu.bd
+www.chatalparjamea.edu.bd
 www.demo.agrasara.edu.bd
 www.demo.udayannursingcollege.edu.bd
 www.deutyhsandc.edu.bd
@@ -191,6 +206,7 @@ www.mukundiahighschool.edu.bd.baratvakla.edu.bd
 www.news.zums.edu.bd
 www.newtest.chandpurcollege.edu.bd
 www.nievs.bnis.edu.bd
+www.nmmhs.edu.bd
 www.pbmhhs.edu.bd.hgc.edu.bd
 www.pilkunjafm.edu.bd.ksfdm.edu.bd
 www.pn.edu.bd
