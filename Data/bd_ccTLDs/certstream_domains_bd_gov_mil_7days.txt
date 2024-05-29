@@ -10,6 +10,7 @@ assetgate.karmasangsthanbank.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.ec4j.gov.bd
 autodiscover.mushroomproject.gov.bd
+autodiscover.rangpurdivhrm.gov.bd
 autodiscover.zpsatkhira.gov.bd
 baghaicharipaurashava.gov.bd
 bangabandhushilpanagar.gov.bd
@@ -40,14 +41,17 @@ coxsbazarpolice.gov.bd
 cpadigital.gov.bd
 cpanel.ec4j.gov.bd
 cpanel.mushroomproject.gov.bd
+cpanel.rangpurdivhrm.gov.bd
 cpanel.zpmoulvibazar.gov.bd
 cpanel.zpsatkhira.gov.bd
 cpcalendars.ec4j.gov.bd
 cpcalendars.mushroomproject.gov.bd
+cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
 cpcalendars.zpsatkhira.gov.bd
 cpcontacts.ec4j.gov.bd
 cpcontacts.mushroomproject.gov.bd
+cpcontacts.rangpurdivhrm.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 cpcontacts.zpsatkhira.gov.bd
 cusbond.gov.bd
@@ -69,6 +73,7 @@ ehealthcertificate.bfsa.gov.bd
 eksheba.gov.bd
 elicense.fireservice.gov.bd
 emergencynutrition.gov.bd
+emrddashboard.gov.bd
 faridganjmunicipality.gov.bd
 finance.ec4j.gov.bd
 gazipurtsc.gov.bd
@@ -82,6 +87,7 @@ huamc.gov.bd
 icsetep.ugc.gov.bd
 ilab.gov.bd
 iph.gov.bd
+iptv.totthoapa.gov.bd
 jitsi.vc8.bcc.gov.bd
 jobportal.sfmmttc.gov.bd
 joypurhattsc.gov.bd
@@ -100,6 +106,7 @@ mail.dnbc.gov.bd
 mail.ec4j.gov.bd
 mail.mushroomproject.gov.bd
 mail.ntp.gov.bd
+mail.rangpurdivhrm.gov.bd
 mail.vatdhkeast.gov.bd
 mail.zpmoulvibazar.gov.bd
 mail.zpsatkhira.gov.bd
@@ -132,6 +139,7 @@ pouroseba.gov.bd
 puraparaup.faridpurlg.gov.bd
 raise.wewb.gov.bd
 ramnagarup.faridpurlg.gov.bd
+rangpurdivhrm.gov.bd
 rdodtekhulna.gov.bd
 report.gov.bd
 roc.gov.bd
@@ -168,6 +176,7 @@ test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
 thakurgaontsc.gov.bd
 tms.seip-fd.gov.bd
+totthoapa.gov.bd
 track.bpodms.gov.bd
 trademark.bsc.gov.bd
 training.grs.gov.bd
@@ -181,9 +190,11 @@ uzparaihazar.gov.bd
 vatdhkeast.gov.bd
 webdisk.ec4j.gov.bd
 webdisk.mushroomproject.gov.bd
+webdisk.rangpurdivhrm.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webdisk.zpsatkhira.gov.bd
 webmail.ec4j.gov.bd
+webmail.rangpurdivhrm.gov.bd
 webmail.zpmoulvibazar.gov.bd
 webmail.zpsatkhira.gov.bd
 wms.ansarvdp.gov.bd
@@ -246,6 +257,7 @@ www.panchuriaup.faridpurlg.gov.bd
 www.pti.ueopat.gov.bd
 www.puraparaup.faridpurlg.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
+www.rangpurdivhrm.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.somotoler.btriapps.gov.bd
