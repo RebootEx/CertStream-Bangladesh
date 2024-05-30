@@ -2,6 +2,7 @@ adachakihs.edu.bd
 anandamoyeeghs.edu.bd
 autodiscover.azimhakimschool.edu.bd
 autodiscover.fatepurjbdakhilmadrasah.edu.bd
+autodiscover.kcszrc.edu.bd
 autodiscover.mkadegreecollege.edu.bd
 autodiscover.sfawmm.edu.bd
 autodiscover.sram.edu.bd
@@ -11,8 +12,10 @@ azimhakimschool.edu.bd
 bbariahs.edu.bd
 bcsirscd.edu.bd
 bhti.edu.bd
+btvs.edu.bd
 cpanel.azimhakimschool.edu.bd
 cpanel.fatepurjbdakhilmadrasah.edu.bd
+cpanel.kcszrc.edu.bd
 cpanel.mkadegreecollege.edu.bd
 cpanel.sfawmm.edu.bd
 cpanel.sram.edu.bd
@@ -20,6 +23,7 @@ cpanel.sumhs.edu.bd
 cpanel.ubhs.edu.bd
 cpcalendars.azimhakimschool.edu.bd
 cpcalendars.fatepurjbdakhilmadrasah.edu.bd
+cpcalendars.kcszrc.edu.bd
 cpcalendars.mkadegreecollege.edu.bd
 cpcalendars.sfawmm.edu.bd
 cpcalendars.sram.edu.bd
@@ -27,6 +31,7 @@ cpcalendars.sumhs.edu.bd
 cpcalendars.ubhs.edu.bd
 cpcontacts.azimhakimschool.edu.bd
 cpcontacts.fatepurjbdakhilmadrasah.edu.bd
+cpcontacts.kcszrc.edu.bd
 cpcontacts.mkadegreecollege.edu.bd
 cpcontacts.sfawmm.edu.bd
 cpcontacts.sram.edu.bd
@@ -36,12 +41,17 @@ crp.daffodilvarsity.edu.bd
 ddmadrasah.edu.bd
 demo.npcctg.edu.bd
 dhpc.edu.bd
+dsa.daffodilvarsity.edu.bd
 fatepurjbdakhilmadrasah.edu.bd
 gafargaonmohilacollege.edu.bd
 jtmhs.edu.bd
+kcszrc.edu.bd
+konabariahs.edu.bd
+madhabpurhs.edu.bd
 mail.adachakihs.edu.bd
 mail.azimhakimschool.edu.bd
 mail.fatepurjbdakhilmadrasah.edu.bd
+mail.kcszrc.edu.bd
 mail.mkadegreecollege.edu.bd
 mail.sfawmm.edu.bd
 mail.sram.edu.bd
@@ -49,6 +59,8 @@ mail.sumhs.edu.bd
 mail.ubhs.edu.bd
 metrouni.edu.bd
 mkadegreecollege.edu.bd
+ncs.edu.bd
+old.rahimbakhshighschool.edu.bd
 pgc.edu.bd
 reunion.rgwcollege.edu.bd
 satirparakkinstitution.edu.bd
@@ -63,6 +75,7 @@ tripuracharajhs.edu.bd
 ubhs.edu.bd
 webdisk.azimhakimschool.edu.bd
 webdisk.fatepurjbdakhilmadrasah.edu.bd
+webdisk.kcszrc.edu.bd
 webdisk.mkadegreecollege.edu.bd
 webdisk.sfawmm.edu.bd
 webdisk.sram.edu.bd
@@ -73,6 +86,7 @@ webmail.azimhakimschool.edu.bd
 webmail.bbariahs.edu.bd
 webmail.bcsirscd.edu.bd
 webmail.fatepurjbdakhilmadrasah.edu.bd
+webmail.kcszrc.edu.bd
 webmail.mkadegreecollege.edu.bd
 webmail.sfawmm.edu.bd
 webmail.sram.edu.bd
@@ -87,7 +101,11 @@ www.bbariahs.edu.bd
 www.bcsirscd.edu.bd
 www.demo.npcctg.edu.bd
 www.fatepurjbdakhilmadrasah.edu.bd
+www.kcszrc.edu.bd
+www.konabariahs.edu.bd
+www.madhabpurhs.edu.bd
 www.mkadegreecollege.edu.bd
+www.old.rahimbakhshighschool.edu.bd
 www.reunion.rgwcollege.edu.bd
 www.sfawmm.edu.bd
 www.soshgskhulna.edu.bd
