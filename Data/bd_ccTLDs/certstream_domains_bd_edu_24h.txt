@@ -7,6 +7,7 @@ autodiscover.azimhakimschool.edu.bd
 autodiscover.fatepurjbdakhilmadrasah.edu.bd
 autodiscover.kcszrc.edu.bd
 autodiscover.mkadegreecollege.edu.bd
+autodiscover.punchgachigirls.edu.bd
 autodiscover.sfawmm.edu.bd
 autodiscover.sram.edu.bd
 autodiscover.sumhs.edu.bd
@@ -25,6 +26,7 @@ cpanel.azimhakimschool.edu.bd
 cpanel.fatepurjbdakhilmadrasah.edu.bd
 cpanel.kcszrc.edu.bd
 cpanel.mkadegreecollege.edu.bd
+cpanel.punchgachigirls.edu.bd
 cpanel.sfawmm.edu.bd
 cpanel.sram.edu.bd
 cpanel.sumhs.edu.bd
@@ -33,6 +35,7 @@ cpcalendars.azimhakimschool.edu.bd
 cpcalendars.fatepurjbdakhilmadrasah.edu.bd
 cpcalendars.kcszrc.edu.bd
 cpcalendars.mkadegreecollege.edu.bd
+cpcalendars.punchgachigirls.edu.bd
 cpcalendars.sfawmm.edu.bd
 cpcalendars.sram.edu.bd
 cpcalendars.sumhs.edu.bd
@@ -41,6 +44,7 @@ cpcontacts.azimhakimschool.edu.bd
 cpcontacts.fatepurjbdakhilmadrasah.edu.bd
 cpcontacts.kcszrc.edu.bd
 cpcontacts.mkadegreecollege.edu.bd
+cpcontacts.punchgachigirls.edu.bd
 cpcontacts.sfawmm.edu.bd
 cpcontacts.sram.edu.bd
 cpcontacts.sumhs.edu.bd
@@ -68,6 +72,7 @@ mail.fatepurjbdakhilmadrasah.edu.bd
 mail.kcszrc.edu.bd
 mail.kgsckalindi.edu.bd
 mail.mkadegreecollege.edu.bd
+mail.punchgachigirls.edu.bd
 mail.sfawmm.edu.bd
 mail.sram.edu.bd
 mail.sumhs.edu.bd
@@ -84,6 +89,7 @@ old.rahimbakhshighschool.edu.bd
 padhss.edu.bd
 patgudamgirlshighschool.edu.bd
 pgc.edu.bd
+punchgachigirls.edu.bd
 rcshibganj.edu.bd
 redbhs.edu.bd
 reunion.rgwcollege.edu.bd
@@ -98,6 +104,7 @@ soshgskhulna.edu.bd
 sram.edu.bd
 sscnet.edu.bd
 sumhs.edu.bd
+taranibarisc.edu.bd
 teotaacademy.edu.bd
 thsbir.edu.bd
 tripuracharajhs.edu.bd
@@ -106,6 +113,7 @@ webdisk.azimhakimschool.edu.bd
 webdisk.fatepurjbdakhilmadrasah.edu.bd
 webdisk.kcszrc.edu.bd
 webdisk.mkadegreecollege.edu.bd
+webdisk.punchgachigirls.edu.bd
 webdisk.sfawmm.edu.bd
 webdisk.sram.edu.bd
 webdisk.sumhs.edu.bd
@@ -118,6 +126,7 @@ webmail.fatepurjbdakhilmadrasah.edu.bd
 webmail.kcszrc.edu.bd
 webmail.kgsckalindi.edu.bd
 webmail.mkadegreecollege.edu.bd
+webmail.punchgachigirls.edu.bd
 webmail.sfawmm.edu.bd
 webmail.sram.edu.bd
 webmail.sumhs.edu.bd
@@ -143,6 +152,7 @@ www.madhabpurhs.edu.bd
 www.mghs1996.edu.bd
 www.mkadegreecollege.edu.bd
 www.old.rahimbakhshighschool.edu.bd
+www.punchgachigirls.edu.bd
 www.reunion.rgwcollege.edu.bd
 www.s.kbbdm.edu.bd
 www.school.nandalalpurshs.edu.bd
@@ -154,3 +164,4 @@ www.student.metrouni.edu.bd
 www.sumhs.edu.bd
 www.thsbir.edu.bd
 www.ubhs.edu.bd
+zangaliaschool.edu.bd
