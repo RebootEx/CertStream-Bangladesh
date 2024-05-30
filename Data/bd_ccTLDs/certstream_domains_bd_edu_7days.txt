@@ -111,8 +111,10 @@ autodiscover.dnuam.edu.bd
 autodiscover.dsm.edu.bd
 autodiscover.garparaabhs.edu.bd
 autodiscover.gidm.edu.bd
+autodiscover.gkghs.edu.bd
 autodiscover.gsghs.edu.bd
 autodiscover.halimunnessa.edu.bd
+autodiscover.hhnc.edu.bd
 autodiscover.hksm.edu.bd
 autodiscover.ibncb.edu.bd
 autodiscover.iiscmymensingh.edu.bd
@@ -376,9 +378,11 @@ cpanel.dnuam.edu.bd
 cpanel.dsm.edu.bd
 cpanel.garparaabhs.edu.bd
 cpanel.gidm.edu.bd
+cpanel.gkghs.edu.bd
 cpanel.gsghs.edu.bd
 cpanel.halimunnessa.edu.bd
 cpanel.hgmphc.edu.bd
+cpanel.hhnc.edu.bd
 cpanel.hkks.edu.bd
 cpanel.hksm.edu.bd
 cpanel.ibncb.edu.bd
@@ -464,9 +468,11 @@ cpcalendars.dnuam.edu.bd
 cpcalendars.dsm.edu.bd
 cpcalendars.garparaabhs.edu.bd
 cpcalendars.gidm.edu.bd
+cpcalendars.gkghs.edu.bd
 cpcalendars.gsghs.edu.bd
 cpcalendars.halimunnessa.edu.bd
 cpcalendars.hgmphc.edu.bd
+cpcalendars.hhnc.edu.bd
 cpcalendars.hkks.edu.bd
 cpcalendars.hksm.edu.bd
 cpcalendars.ibncb.edu.bd
@@ -553,9 +559,11 @@ cpcontacts.dnuam.edu.bd
 cpcontacts.dsm.edu.bd
 cpcontacts.garparaabhs.edu.bd
 cpcontacts.gidm.edu.bd
+cpcontacts.gkghs.edu.bd
 cpcontacts.gsghs.edu.bd
 cpcontacts.halimunnessa.edu.bd
 cpcontacts.hgmphc.edu.bd
+cpcontacts.hhnc.edu.bd
 cpcontacts.hkks.edu.bd
 cpcontacts.hksm.edu.bd
 cpcontacts.ibncb.edu.bd
@@ -832,6 +840,7 @@ heylinkbonusnewmember.gccc.edu.bd
 hfrcmc.edu.bd
 hgmphc.edu.bd
 hhighschool.edu.bd
+hhnc.edu.bd
 hhs1926.edu.bd
 hhsc.edu.bd
 hhsk.edu.bd
@@ -1094,6 +1103,7 @@ mail.fayezrdm.edu.bd
 mail.garparaabhs.edu.bd
 mail.gazirhatdeco.edu.bd
 mail.gidm.edu.bd
+mail.gkghs.edu.bd
 mail.gsfm.edu.bd
 mail.gsghs.edu.bd
 mail.hacccsc.edu.bd
@@ -1101,6 +1111,7 @@ mail.hadudm.edu.bd
 mail.halimunnessa.edu.bd
 mail.ham.edu.bd
 mail.hgmphc.edu.bd
+mail.hhnc.edu.bd
 mail.hkks.edu.bd
 mail.hksm.edu.bd
 mail.hmidm.edu.bd
@@ -1328,6 +1339,7 @@ nuhsk.edu.bd
 old.adust.edu.bd
 omsc.edu.bd
 osmanpurhs.edu.bd
+padamsreeaukhanhighschool.edu.bd
 pakutiacollege.edu.bd
 palashtolikudm.edu.bd
 palisharahs.edu.bd
@@ -1538,6 +1550,7 @@ sguhs.edu.bd
 shaherkhalihighschool.edu.bd
 shahwaliullahinstitute.edu.bd
 shakerahs.edu.bd
+shampuridm.edu.bd
 sharifabadcollege.edu.bd
 shashikarhighschool.edu.bd
 shdc.edu.bd
@@ -1617,6 +1630,7 @@ tarass.edu.bd
 taruhansbobet88.gccc.edu.bd
 tawfika.edu.bd
 tbydm.edu.bd
+tcce.iitju.edu.bd
 tdcollege.edu.bd
 tebariasherkandigirlsschool.edu.bd
 teguriahs.edu.bd
@@ -1695,9 +1709,11 @@ webdisk.dnuam.edu.bd
 webdisk.dsm.edu.bd
 webdisk.garparaabhs.edu.bd
 webdisk.gidm.edu.bd
+webdisk.gkghs.edu.bd
 webdisk.gsghs.edu.bd
 webdisk.halimunnessa.edu.bd
 webdisk.hgmphc.edu.bd
+webdisk.hhnc.edu.bd
 webdisk.hkks.edu.bd
 webdisk.hksm.edu.bd
 webdisk.ibncb.edu.bd
@@ -1782,9 +1798,11 @@ webmail.dnuam.edu.bd
 webmail.dsm.edu.bd
 webmail.garparaabhs.edu.bd
 webmail.gidm.edu.bd
+webmail.gkghs.edu.bd
 webmail.gsghs.edu.bd
 webmail.halimunnessa.edu.bd
 webmail.hgmphc.edu.bd
+webmail.hhnc.edu.bd
 webmail.hkks.edu.bd
 webmail.hksm.edu.bd
 webmail.ibncb.edu.bd
@@ -2041,6 +2059,7 @@ www.gazirhatdeco.edu.bd
 www.gcbdmdm.edu.bd.dagma.edu.bd
 www.ghoshnagarhs.edu.bd.kskhs.edu.bd
 www.gidm.edu.bd
+www.gkghs.edu.bd
 www.gkrc.edu.bd
 www.gmudm.edu.bd
 www.goalbathanhs.edu.bd
@@ -2059,6 +2078,7 @@ www.ham.edu.bd
 www.hamhschool.edu.bd
 www.heylinkbonusnewmember.gccc.edu.bd
 www.hgmphc.edu.bd
+www.hhnc.edu.bd
 www.hkks.edu.bd
 www.hkks.kdbbhs.edu.bd
 www.hksm.edu.bd
