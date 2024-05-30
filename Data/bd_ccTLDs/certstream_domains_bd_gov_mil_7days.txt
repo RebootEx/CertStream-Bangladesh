@@ -1,6 +1,5 @@
 accounts.bise-ctg.gov.bd
 ai.gameapp.gov.bd
-alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 apamsv3.cabinet.gov.bd
 api.mudp.gov.bd
@@ -17,7 +16,6 @@ autodiscover.zpsatkhira.gov.bd
 baghaicharipaurashava.gov.bd
 bangabandhushilpanagar.gov.bd
 barcouncil.gov.bd
-bbggc.gov.bd
 bdris.dscc.gov.bd
 bdsomotolerchasilpo.btriapps.gov.bd
 bee.seip-fd.gov.bd
@@ -34,7 +32,6 @@ cedp.gbrcr.gov.bd
 census2021icms.gov.bd
 certification.bdskills.gov.bd
 cevappealctg.gov.bd
-cgwc.gov.bd
 chakariamunicipality.gov.bd
 chandpurup.faridpurlg.gov.bd
 chittagongzoo.gov.bd
@@ -66,7 +63,6 @@ doptor.gov.bd
 doptor.seip-fd.gov.bd
 dpeojhenaidah.gov.bd
 dscsc.mil.bd
-e-templeedu.gov.bd
 ec4j.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -82,11 +78,9 @@ finance.ec4j.gov.bd
 gazipurtsc.gov.bd
 gjkagc.gov.bd
 gps.gov.bd
-grs.ec4j.gov.bd
 gsfy.brri.gov.bd
 hematology.rmch.gov.bd
 his.bcc.gov.bd
-huamc.gov.bd
 icsetep.ugc.gov.bd
 ilab.gov.bd
 inventory.rmch.gov.bd
@@ -97,10 +91,8 @@ jitsi.vc8.bcc.gov.bd
 jobportal.sfmmttc.gov.bd
 joypurhattsc.gov.bd
 jscmark.comillaboard.gov.bd
-kenduagc.gov.bd
 kpik.gov.bd
 la.ictbdiasms.gov.bd
-laravel.cafolgd.gov.bd
 laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
 laskardiaup.faridpurlg.gov.bd
@@ -142,7 +134,6 @@ patharghatapourashava.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 phghs.gov.bd
 pims.dgfood.gov.bd
-pirganjmunicipality.gov.bd
 pirojpurtsc.gov.bd
 polytech.gov.bd
 pouroseba.gov.bd
@@ -157,15 +148,12 @@ rohanpurpourashava.gov.bd
 rpi.gov.bd
 rsojessore.gov.bd
 rupapatup.faridpurlg.gov.bd
-sadarpurup.faridpurlg.gov.bd
 saejp.gov.bd
 seminar.afd.gov.bd
 smartbangladesh.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smarthaat.gov.bd
 smarttraffic-api.dncc.gov.bd
-smarttraffic-owner.dncc.gov.bd
-smarttraffic.dncc.gov.bd
 smbogra.gov.bd
 somotoler.btriapps.gov.bd
 somotolerchasilpo.btriapps.gov.bd
@@ -178,14 +166,12 @@ sunamgonjtsc.gov.bd
 tagarbandaup.faridpurlg.gov.bd
 task.ec4j.gov.bd
 taskmapp.nwpgcl.gov.bd
-taxeszone9dhaka.gov.bd
 taxeszonerajshahi.gov.bd
 taxsurvey.gov.bd
 teachers.gov.bd
 tealicense.gov.bd
 tekpou.gov.bd
 test-api.bfacf-ticket.gov.bd
-test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
 thakurgaontsc.gov.bd
 tms.seip-fd.gov.bd
@@ -212,7 +198,6 @@ webmail.zpmoulvibazar.gov.bd
 webmail.zpsatkhira.gov.bd
 wms.ansarvdp.gov.bd
 www.admin.saejp.gov.bd
-www.alfadangaup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.api.mudp.gov.bd
 www.app.dhakaeducationboard.gov.bd
@@ -232,7 +217,6 @@ www.census2021icms.gov.bd
 www.chakariamunicipality.gov.bd
 www.chandpurup.faridpurlg.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
-www.chhaikola.uppabnaholdingtax.gov.bd
 www.control.rpi.gov.bd
 www.coxsbazarpolice.gov.bd
 www.dch.gov.bd
@@ -243,7 +227,6 @@ www.ecampus.gazipurtsc.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.elab.fisheries.gov.bd
 www.finance.ec4j.gov.bd
-www.grs.ec4j.gov.bd
 www.hematology.rmch.gov.bd
 www.icsetep.ugc.gov.bd
 www.inventory.rmch.gov.bd
@@ -251,7 +234,6 @@ www.jagannathpurup.comillalg.gov.bd
 www.jobportal.sfmmttc.gov.bd
 www.kpik.gov.bd
 www.la.ictbdiasms.gov.bd
-www.laravel.cafolgd.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.laskardiaup.faridpurlg.gov.bd
@@ -276,14 +258,12 @@ www.puraparaup.faridpurlg.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rupapatup.faridpurlg.gov.bd
-www.sadarpurup.faridpurlg.gov.bd
 www.somotoler.btriapps.gov.bd
 www.somotolerchasilpo.btriapps.gov.bd
 www.sonapurup.faridpurlg.gov.bd
 www.storein.gnc.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.task.ec4j.gov.bd
-www.test.habiganjpourashava.gov.bd
 www.trademark.bsc.gov.bd
 www.vatdhkeast.gov.bd
 www.zpmoulvibazar.gov.bd
@@ -293,4 +273,3 @@ zpmoulvibazar.gov.bd
 zpnarail.gov.bd
 zpnetrokona.gov.bd
 zpsatkhira.gov.bd
-zpsirajganj.gov.bd
