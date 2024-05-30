@@ -13,6 +13,7 @@ autodiscover.ec4j.gov.bd
 autodiscover.mushroomproject.gov.bd
 autodiscover.rangpurdivhrm.gov.bd
 autodiscover.zpsatkhira.gov.bd
+award.gov.bd
 baghaicharipaurashava.gov.bd
 bangabandhushilpanagar.gov.bd
 barcouncil.gov.bd
@@ -38,16 +39,19 @@ chittagongzoo.gov.bd
 comillalg.gov.bd
 coxsbazarpolice.gov.bd
 cpadigital.gov.bd
+cpanel.award.gov.bd
 cpanel.ec4j.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.rangpurdivhrm.gov.bd
 cpanel.zpmoulvibazar.gov.bd
 cpanel.zpsatkhira.gov.bd
+cpcalendars.award.gov.bd
 cpcalendars.ec4j.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
 cpcalendars.zpsatkhira.gov.bd
+cpcontacts.award.gov.bd
 cpcontacts.ec4j.gov.bd
 cpcontacts.mushroomproject.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
@@ -100,6 +104,7 @@ lawjusticediv.gov.bd
 lmis.nmcp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 madhukhalipaurashava.gov.bd
+mail.award.gov.bd
 mail.bmdf.gov.bd
 mail.dch.gov.bd
 mail.dnbc.gov.bd
@@ -188,11 +193,13 @@ uniontax.gov.bd
 uppabnaholdingtax.gov.bd
 uzparaihazar.gov.bd
 vatdhkeast.gov.bd
+webdisk.award.gov.bd
 webdisk.ec4j.gov.bd
 webdisk.mushroomproject.gov.bd
 webdisk.rangpurdivhrm.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webdisk.zpsatkhira.gov.bd
+webmail.award.gov.bd
 webmail.ec4j.gov.bd
 webmail.rangpurdivhrm.gov.bd
 webmail.zpmoulvibazar.gov.bd
@@ -206,6 +213,7 @@ www.arparaup.faridpurlg.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.atghoria.uppabnaholdingtax.gov.bd
 www.attendance.rdodtekhulna.gov.bd
+www.award.gov.bd
 www.baghaicharipaurashava.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
 www.belkuchipoura.gov.bd
@@ -262,6 +270,7 @@ www.rupapatup.faridpurlg.gov.bd
 www.somotoler.btriapps.gov.bd
 www.somotolerchasilpo.btriapps.gov.bd
 www.sonapurup.faridpurlg.gov.bd
+www.staging.zprajbari.gov.bd
 www.storein.gnc.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.task.ec4j.gov.bd
@@ -273,4 +282,5 @@ www.zpsatkhira.gov.bd
 zpmoulvibazar.gov.bd
 zpnarail.gov.bd
 zpnetrokona.gov.bd
+zprajbari.gov.bd
 zpsatkhira.gov.bd
