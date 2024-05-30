@@ -105,6 +105,7 @@ autodiscover.bgpmsc.edu.bd
 autodiscover.boahs.edu.bd
 autodiscover.bsadarshaseniormadrasah.edu.bd
 autodiscover.cahsn.edu.bd
+autodiscover.chakendakhs.edu.bd
 autodiscover.ddam.edu.bd
 autodiscover.dnuam.edu.bd
 autodiscover.dsm.edu.bd
@@ -233,6 +234,7 @@ bhengridm.edu.bd
 bhhschool.edu.bd
 bholabosshs.edu.bd
 bhs139096.edu.bd
+bhsch.edu.bd
 bhsl.edu.bd
 bhsrgt.edu.bd
 bhurdishs.edu.bd
@@ -315,6 +317,7 @@ cgsd.edu.bd
 cgskdm.edu.bd
 chadpurblhs.edu.bd
 chaitanyamlhighschool.edu.bd
+chakendakhs.edu.bd
 chalnakc.edu.bd
 chammhs.edu.bd
 chandanahighschoolandcollege.edu.bd
@@ -345,6 +348,7 @@ cmahs.edu.bd
 cmdck.edu.bd
 cmhschool.edu.bd
 cmis.mugmc.edu.bd
+cms.gbgc.edu.bd
 cmu.edu.bd
 corpuschristihighschool.edu.bd
 courseable.edu.bd
@@ -363,6 +367,7 @@ cpanel.bgpmsc.edu.bd
 cpanel.boahs.edu.bd
 cpanel.bsadarshaseniormadrasah.edu.bd
 cpanel.cahsn.edu.bd
+cpanel.chakendakhs.edu.bd
 cpanel.chsjsr.edu.bd
 cpanel.crpnc.edu.bd
 cpanel.cumc.edu.bd
@@ -450,6 +455,7 @@ cpcalendars.bgpmsc.edu.bd
 cpcalendars.boahs.edu.bd
 cpcalendars.bsadarshaseniormadrasah.edu.bd
 cpcalendars.cahsn.edu.bd
+cpcalendars.chakendakhs.edu.bd
 cpcalendars.chsjsr.edu.bd
 cpcalendars.crpnc.edu.bd
 cpcalendars.cumc.edu.bd
@@ -538,6 +544,7 @@ cpcontacts.bgpmsc.edu.bd
 cpcontacts.boahs.edu.bd
 cpcontacts.bsadarshaseniormadrasah.edu.bd
 cpcontacts.cahsn.edu.bd
+cpcontacts.chakendakhs.edu.bd
 cpcontacts.chsjsr.edu.bd
 cpcontacts.crpnc.edu.bd
 cpcontacts.cumc.edu.bd
@@ -693,6 +700,7 @@ ecbtjwbjekwebmail.ssschool.edu.bd
 edu.bd.baratvakla.edu.bd
 edu.bd.bodawomencollege.edu.bd
 edu.bd.dagma.edu.bd
+edu.bd.dangahighschool.edu.bd
 edu.bd.dihsc.edu.bd
 edu.bd.hgc.edu.bd
 edu.bd.jsgs.edu.bd
@@ -861,6 +869,7 @@ iom.edu.bd
 ipcs.edu.bd
 ipi.edu.bd
 ipv6.jghs.edu.bd
+iqra.sffazilmadrasa.edu.bd
 isac.edu.bd
 isdairrhhs.edu.bd
 ishibpurhighschool.edu.bd
@@ -969,6 +978,7 @@ khs112310.edu.bd
 khs1998.edu.bd
 khs1998.edu.bd.aranagarhighschool.edu.bd
 khsahs.edu.bd
+khsb.edu.bd
 khsp.edu.bd
 khurshed-ellinorbidyaniketon.edu.bd
 kifm.edu.bd
@@ -1065,6 +1075,7 @@ mail.boahs.edu.bd
 mail.bpmgmhs.edu.bd
 mail.bsadarshaseniormadrasah.edu.bd
 mail.cahsn.edu.bd
+mail.chakendakhs.edu.bd
 mail.charbamundiyadmadrasha.edu.bd
 mail.chsjsr.edu.bd
 mail.crpnc.edu.bd
@@ -1253,6 +1264,7 @@ mkadegreecollege.edu.bd
 mlhschool.edu.bd
 mmdudm.edu.bd
 mmsss.edu.bd
+mmsuc.edu.bd
 mndm.edu.bd
 mniam.edu.bd
 mniss.edu.bd
@@ -1367,6 +1379,7 @@ plugins.proyashrangpur.edu.bd
 pmahs.edu.bd
 pn.edu.bd
 pomrajufm.edu.bd
+ponairchakhighschool.edu.bd
 pop.bargunagovcollege.edu.bd
 portal.afi.edu.bd
 portal.alinagarghs.edu.bd
@@ -1530,6 +1543,7 @@ shashikarhighschool.edu.bd
 shdc.edu.bd
 sheikherhaths.edu.bd
 shhhschool.edu.bd
+shibdebcharhighschool.edu.bd
 shibganjhs.edu.bd
 shibpurblhs.edu.bd
 shibpurschool.edu.bd
@@ -1672,6 +1686,7 @@ webdisk.bgpmsc.edu.bd
 webdisk.boahs.edu.bd
 webdisk.bsadarshaseniormadrasah.edu.bd
 webdisk.cahsn.edu.bd
+webdisk.chakendakhs.edu.bd
 webdisk.chsjsr.edu.bd
 webdisk.crpnc.edu.bd
 webdisk.cumc.edu.bd
@@ -1758,6 +1773,7 @@ webmail.bgpmsc.edu.bd
 webmail.boahs.edu.bd
 webmail.bsadarshaseniormadrasah.edu.bd
 webmail.cahsn.edu.bd
+webmail.chakendakhs.edu.bd
 webmail.chsjsr.edu.bd
 webmail.crpnc.edu.bd
 webmail.cumc.edu.bd
@@ -1949,6 +1965,7 @@ www.bus.vu.edu.bd
 www.cahsn.edu.bd
 www.cghs122397.edu.bd
 www.cgsd.edu.bd
+www.chakendakhs.edu.bd
 www.chalnakc.edu.bd
 www.chandipurhs.edu.bd.saracollege.edu.bd
 www.chandkuthirdangabmcollege.edu.bd
@@ -1960,6 +1977,7 @@ www.chsjsr.edu.bd
 www.chuchulibattalihaths.edu.bd
 www.cibldm.edu.bd
 www.cmahs.edu.bd
+www.cms.gbgc.edu.bd
 www.crhsbk.edu.bd
 www.crpnc.edu.bd
 www.csmhs.edu.bd
@@ -2056,6 +2074,7 @@ www.idp.green.edu.bd
 www.ifsp.bsmrau.edu.bd
 www.iiscmymensingh.edu.bd
 www.international.sjs.edu.bd
+www.iqra.sffazilmadrasa.edu.bd
 www.itclub.kalakopakpschool.edu.bd
 www.itify.tech.dmc.edu.bd
 www.jaydm.edu.bd.kni.edu.bd
@@ -2184,6 +2203,7 @@ www.pim-ctg.edu.bd
 www.pksghscc.edu.bd
 www.plugins.proyashrangpur.edu.bd
 www.pn.edu.bd
+www.ponairchakhighschool.edu.bd.dangahighschool.edu.bd
 www.prodipti.fatimahighschoolkhulna.edu.bd
 www.ptccghs.edu.bd
 www.rac.edu.bd
