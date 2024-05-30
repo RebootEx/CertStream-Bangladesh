@@ -1,4 +1,5 @@
 accounts.bise-ctg.gov.bd
+ai.gameapp.gov.bd
 alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 apamsv3.cabinet.gov.bd
@@ -7,6 +8,7 @@ app.dhakaeducationboard.gov.bd
 apps.training.grs.gov.bd
 arparaup.faridpurlg.gov.bd
 assetgate.karmasangsthanbank.gov.bd
+assignment.bise-ctg.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.ec4j.gov.bd
 autodiscover.mushroomproject.gov.bd
@@ -75,6 +77,7 @@ elicense.fireservice.gov.bd
 emergencynutrition.gov.bd
 emrddashboard.gov.bd
 faridganjmunicipality.gov.bd
+fgc.gov.bd
 finance.ec4j.gov.bd
 gazipurtsc.gov.bd
 gjkagc.gov.bd
@@ -86,13 +89,17 @@ his.bcc.gov.bd
 huamc.gov.bd
 icsetep.ugc.gov.bd
 ilab.gov.bd
+inventory.rmch.gov.bd
 iph.gov.bd
 iptv.totthoapa.gov.bd
+jgmc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jobportal.sfmmttc.gov.bd
 joypurhattsc.gov.bd
+jscmark.comillaboard.gov.bd
 kenduagc.gov.bd
 kpik.gov.bd
+la.ictbdiasms.gov.bd
 laravel.cafolgd.gov.bd
 laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
@@ -100,6 +107,7 @@ laskardiaup.faridpurlg.gov.bd
 lawjusticediv.gov.bd
 lmis.nmcp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
+madhukhalipaurashava.gov.bd
 mail.bmdf.gov.bd
 mail.dch.gov.bd
 mail.dnbc.gov.bd
@@ -120,6 +128,7 @@ mushroomproject.gov.bd
 my.ngosherpur.gov.bd
 mymensingheducationboard.gov.bd
 nasirabadup.faridpurlg.gov.bd
+nbr.gov.bd
 newetif.bise-ctg.gov.bd
 ngosherpur.gov.bd
 nhrdf.gov.bd
@@ -151,6 +160,7 @@ rupapatup.faridpurlg.gov.bd
 sadarpurup.faridpurlg.gov.bd
 saejp.gov.bd
 seminar.afd.gov.bd
+smartbangladesh.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smarthaat.gov.bd
 smarttraffic-api.dncc.gov.bd
@@ -160,6 +170,7 @@ smbogra.gov.bd
 somotoler.btriapps.gov.bd
 somotolerchasilpo.btriapps.gov.bd
 sonapurup.faridpurlg.gov.bd
+specialbranch.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 storein.gnc.gov.bd
@@ -173,6 +184,7 @@ taxsurvey.gov.bd
 teachers.gov.bd
 tealicense.gov.bd
 tekpou.gov.bd
+test-api.bfacf-ticket.gov.bd
 test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
 thakurgaontsc.gov.bd
@@ -213,6 +225,7 @@ www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
 www.belkuchipoura.gov.bd
 www.betagimunicipality.gov.bd
 www.buraichup.faridpurlg.gov.bd
+www.cafoagriculture.gov.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
 www.census2021icms.gov.bd
@@ -233,15 +246,18 @@ www.finance.ec4j.gov.bd
 www.grs.ec4j.gov.bd
 www.hematology.rmch.gov.bd
 www.icsetep.ugc.gov.bd
+www.inventory.rmch.gov.bd
 www.jagannathpurup.comillalg.gov.bd
 www.jobportal.sfmmttc.gov.bd
 www.kpik.gov.bd
+www.la.ictbdiasms.gov.bd
 www.laravel.cafolgd.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.laskardiaup.faridpurlg.gov.bd
 www.lms.joypurhattsc.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
+www.madhukhalipaurashava.gov.bd
 www.majcharup.faridpurlg.gov.bd
 www.meal.pwdta.gov.bd
 www.megchamiup.faridpurlg.gov.bd
@@ -274,6 +290,7 @@ www.zpmoulvibazar.gov.bd
 www.zpnetrokona.gov.bd
 www.zpsatkhira.gov.bd
 zpmoulvibazar.gov.bd
+zpnarail.gov.bd
 zpnetrokona.gov.bd
 zpsatkhira.gov.bd
 zpsirajganj.gov.bd
