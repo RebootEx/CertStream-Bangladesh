@@ -1,5 +1,7 @@
+4tdcndsa.a2i.gov.bd
 accounts.bise-ctg.gov.bd
 ai.gameapp.gov.bd
+akkelpurmunicipality.gov.bd
 aliabadup.faridpurlg.gov.bd
 apamsv3.cabinet.gov.bd
 api.mudp.gov.bd
@@ -76,10 +78,13 @@ eksheba.gov.bd
 elicense.fireservice.gov.bd
 emergencynutrition.gov.bd
 emrddashboard.gov.bd
+erp.bfacf-ticket.gov.bd
+ewars.dghs.gov.bd
 faridganjmunicipality.gov.bd
 fgc.gov.bd
 finance.ec4j.gov.bd
 gazipurtsc.gov.bd
+ghoraghatmunicipality.gov.bd
 gjkagc.gov.bd
 gps.gov.bd
 gsfy.brri.gov.bd
@@ -88,6 +93,7 @@ his.bcc.gov.bd
 icsetep.ugc.gov.bd
 ilab.gov.bd
 inventory.rmch.gov.bd
+ipcams.cdc.gov.bd
 iph.gov.bd
 iptv.totthoapa.gov.bd
 jgmc.gov.bd
@@ -101,6 +107,7 @@ laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
 laskardiaup.faridpurlg.gov.bd
 lawjusticediv.gov.bd
+leprosytracker.dghs.gov.bd
 lmis.nmcp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 madhukhalipaurashava.gov.bd
@@ -119,13 +126,18 @@ majcharup.faridpurlg.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
 megchamiup.faridpurlg.gov.bd
+memis.gov.bd
 mne.ec4j.gov.bd
+monglaportmunicipality.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
+muladimunicipality.gov.bd
 mushroomproject.gov.bd
 my.ngosherpur.gov.bd
 mygov.gov.bd
 mymensingheducationboard.gov.bd
+nacholemunicipality.gov.bd
 nasirabadup.faridpurlg.gov.bd
+nazipurpourashava.gov.bd
 nbr.gov.bd
 newetif.bise-ctg.gov.bd
 ngosherpur.gov.bd
@@ -145,6 +157,7 @@ polytech.gov.bd
 pouroseba.gov.bd
 puraparaup.faridpurlg.gov.bd
 raise.wewb.gov.bd
+rajbaripourashava.gov.bd
 ramnagarup.faridpurlg.gov.bd
 rangpurdivhrm.gov.bd
 rdodtekhulna.gov.bd
@@ -155,6 +168,7 @@ rpi.gov.bd
 rsojessore.gov.bd
 rupapatup.faridpurlg.gov.bd
 saejp.gov.bd
+sdg.gov.bd
 seminar.afd.gov.bd
 smartbangladesh.gov.bd
 smartbangladeshrun.ekpay.gov.bd
@@ -184,6 +198,7 @@ tms.seip-fd.gov.bd
 totthoapa.gov.bd
 track.bpodms.gov.bd
 trademark.bsc.gov.bd
+training.cirt.gov.bd
 training.grs.gov.bd
 tscnatore.gov.bd
 turn.vc8.bcc.gov.bd
@@ -191,6 +206,7 @@ tvi.gov.bd
 ueopat.gov.bd
 uniontax.gov.bd
 uppabnaholdingtax.gov.bd
+uttoradhikar.gov.bd
 uzparaihazar.gov.bd
 vatdhkeast.gov.bd
 webdisk.award.gov.bd
@@ -216,6 +232,7 @@ www.attendance.rdodtekhulna.gov.bd
 www.award.gov.bd
 www.baghaicharipaurashava.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
+www.bdansarerp.gov.bd
 www.belkuchipoura.gov.bd
 www.betagimunicipality.gov.bd
 www.buraichup.faridpurlg.gov.bd
@@ -236,6 +253,7 @@ www.ecampus.gazipurtsc.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.elab.fisheries.gov.bd
 www.finance.ec4j.gov.bd
+www.ghoraghatmunicipality.gov.bd
 www.hematology.rmch.gov.bd
 www.icsetep.ugc.gov.bd
 www.inventory.rmch.gov.bd
@@ -253,9 +271,12 @@ www.majcharup.faridpurlg.gov.bd
 www.meal.pwdta.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mne.ec4j.gov.bd
+www.monglaportmunicipality.gov.bd
 www.moynamotiup.comillalg.gov.bd
+www.muladimunicipality.gov.bd
 www.mushroomproject.gov.bd
 www.my.ngosherpur.gov.bd
+www.nacholemunicipality.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
 www.ntp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
@@ -264,6 +285,7 @@ www.openmrs.secretariatclinic.gov.bd
 www.panchuriaup.faridpurlg.gov.bd
 www.pti.ueopat.gov.bd
 www.puraparaup.faridpurlg.gov.bd
+www.rajbaripourashava.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.rupapatup.faridpurlg.gov.bd
