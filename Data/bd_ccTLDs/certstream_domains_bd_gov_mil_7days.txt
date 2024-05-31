@@ -89,6 +89,7 @@ lmis.nmcp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 madhukhalipaurashava.gov.bd
 mail.award.gov.bd
+mail.bepza.gov.bd
 mail.dch.gov.bd
 mail.mushroomproject.gov.bd
 mail.ntp.gov.bd
@@ -103,6 +104,7 @@ megchamiup.faridpurlg.gov.bd
 memis.gov.bd
 monglaportmunicipality.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
+motjdigitalstore.gov.bd
 muladimunicipality.gov.bd
 mushroomproject.gov.bd
 my.ngosherpur.gov.bd
@@ -151,7 +153,9 @@ staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 storein.gnc.gov.bd
 sunamgonjtsc.gov.bd
+swh.bwdb.gov.bd
 tagarbandaup.faridpurlg.gov.bd
+taloramunicipality.gov.bd
 taxeszonerajshahi.gov.bd
 teachers.gov.bd
 tealicense.gov.bd
@@ -174,9 +178,11 @@ webdisk.rangpurdivhrm.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webdisk.zpsatkhira.gov.bd
 webmail.award.gov.bd
+webmail.oss.bepza.gov.bd
 webmail.rangpurdivhrm.gov.bd
 webmail.zpmoulvibazar.gov.bd
 webmail.zpsatkhira.gov.bd
+whm.oss.bepza.gov.bd
 www.admin.saejp.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.api.mudp.gov.bd
