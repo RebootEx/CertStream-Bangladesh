@@ -43,12 +43,14 @@ cpanel.rangpurdivhrm.gov.bd
 cpanel.zpmoulvibazar.gov.bd
 cpanel.zpsatkhira.gov.bd
 cpcalendars.award.gov.bd
+cpcalendars.bepza.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
 cpcalendars.zpsatkhira.gov.bd
 cpcontacts.award.gov.bd
 cpcontacts.mushroomproject.gov.bd
+cpcontacts.oss.bepza.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 cpcontacts.zpsatkhira.gov.bd
@@ -73,6 +75,7 @@ gsfy.brri.gov.bd
 hematology.rmch.gov.bd
 his.bcc.gov.bd
 icsetep.ugc.gov.bd
+ictpolicy.ictd.gov.bd
 inventory.rmch.gov.bd
 ipcams.cdc.gov.bd
 iph.gov.bd
@@ -117,6 +120,7 @@ mygov.gov.bd
 mymensingheducationboard.gov.bd
 nacholemunicipality.gov.bd
 nasirabadup.faridpurlg.gov.bd
+nationalmuseumticket.gov.bd
 nazipurpourashava.gov.bd
 nbr.gov.bd
 newetif.bise-ctg.gov.bd
@@ -181,6 +185,7 @@ vatdhkeast.gov.bd
 webdisk.award.gov.bd
 webdisk.bepza.gov.bd
 webdisk.mushroomproject.gov.bd
+webdisk.oss.bepza.gov.bd
 webdisk.rangpurdivhrm.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webdisk.zpsatkhira.gov.bd
@@ -241,6 +246,7 @@ www.mushroomproject.gov.bd
 www.my.ngosherpur.gov.bd
 www.nacholemunicipality.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
+www.nationalmuseumticket.gov.bd
 www.ntp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.joypurhattsc.gov.bd
