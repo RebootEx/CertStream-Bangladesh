@@ -1,4 +1,7 @@
 admission.akcc.gov.bd
+api.padmamuseum.gov.bd
+autodiscover.bepza.gov.bd
+bpo.farmbroadcast.gov.bd
 bteb-dev.niseee.gov.bd
 cafohome.gov.bd
 course.bsiedu.gov.bd
@@ -8,6 +11,7 @@ dashboard-backoffice-dev.niseee.gov.bd
 demo.krishibatighor.gov.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
+ebook.cmmc.gov.bd
 email.ops.a2i.gov.bd
 fci.gov.bd
 industry-dev.niseee.gov.bd
@@ -37,6 +41,8 @@ ullaparapaurashava.gov.bd
 webdisk.bepza.gov.bd
 whm.oss.bepza.gov.bd
 www.admission.akcc.gov.bd
+www.api.padmamuseum.gov.bd
+www.bpo.farmbroadcast.gov.bd
 www.cafohome.gov.bd
 www.course.bsiedu.gov.bd
 www.db.padmamuseum.gov.bd
