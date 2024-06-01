@@ -65,6 +65,7 @@ cpcontacts.rangpurdivhrm.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
 cyberteens.gov.bd
+dashboard-backoffice-dev.niseee.gov.bd
 dashboard.nilmrc.gov.bd
 dashboard.training.grs.gov.bd
 dashboardapi.training.grs.gov.bd
@@ -73,6 +74,8 @@ dev.digitalliteracy.gov.bd
 dms.basbmed.gov.bd
 doptor.gov.bd
 dscsc.mil.bd
+dss-dev.niseee.gov.bd
+dyd-dev.niseee.gov.bd
 edu.bd.gbrcr.gov.bd
 edutech.gov.bd
 eff-hsc.dinajpurboard.gov.bd
@@ -95,6 +98,7 @@ gsfy.brri.gov.bd
 hematology.rmch.gov.bd
 icsetep.ugc.gov.bd
 ictpolicy.ictd.gov.bd
+industry-dev.niseee.gov.bd
 inventory.rmch.gov.bd
 ipcams.cdc.gov.bd
 iph.gov.bd
@@ -129,6 +133,7 @@ manirampurmunicipality.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
 megchamiup.faridpurlg.gov.bd
+melandahbhata.gov.bd
 memis.gov.bd
 minatools.dgfp.gov.bd
 mohakaliup.munshiganjlg.gov.bd
@@ -149,10 +154,13 @@ nbr.gov.bd
 newetif.bise-ctg.gov.bd
 ngosherpur.gov.bd
 nhrdf.gov.bd
+nise-dev.niseee.gov.bd
 ntp.gov.bd
+nu-dev.niseee.gov.bd
 nurullagonjup.faridpurlg.gov.bd
 onlinetc.dinajpurboard.gov.bd
 openmrs.secretariatclinic.gov.bd
+padmamuseum.gov.bd
 panchuriaup.faridpurlg.gov.bd
 pcb-doe.gov.bd
 phghs.gov.bd
@@ -170,8 +178,10 @@ roc.gov.bd
 rohanpurpourashava.gov.bd
 ror.dc-rangamati.gov.bd
 rpi.gov.bd
+rpl-dev.niseee.gov.bd
 sadai.gov.bd
 saejp.gov.bd
+saidpurcollege.gov.bd
 satairup.faridpurlg.gov.bd
 sdg.gov.bd
 sfcarmy.gov.bd
@@ -221,6 +231,9 @@ webmail.srijon.gov.bd
 webmail.zpmoulvibazar.gov.bd
 whm.bepza.gov.bd
 whm.oss.bepza.gov.bd
+www.1234.melandahbhata.gov.bd
+www.5678.melandahbhata.gov.bd
+www.91011.melandahbhata.gov.bd
 www.adharaup.munshiganjlg.gov.bd
 www.admin.saejp.gov.bd
 www.aliabadup.faridpurlg.gov.bd
@@ -242,6 +255,7 @@ www.chakariamunicipality.gov.bd
 www.chumurdiup.faridpurlg.gov.bd
 www.control.rpi.gov.bd
 www.course.bsiedu.gov.bd
+www.db.padmamuseum.gov.bd
 www.dch.gov.bd
 www.dev-sp-server.rpi.gov.bd
 www.dms.basbmed.gov.bd
@@ -297,6 +311,7 @@ www.vatdhkeast.gov.bd
 www.vaxepi.gov.bd
 www.zpmoulvibazar.gov.bd
 www.zpnetrokona.gov.bd
+youth-dev.niseee.gov.bd
 zpmoulvibazar.gov.bd
 zpnarail.gov.bd
 zpnetrokona.gov.bd
