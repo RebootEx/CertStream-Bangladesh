@@ -1,6 +1,7 @@
 4tdcndsa.a2i.gov.bd
 adharaup.munshiganjlg.gov.bd
 admission.sttc.gov.bd
+agecorrection.dinajpurboard.gov.bd
 ai.gameapp.gov.bd
 akkelpurmunicipality.gov.bd
 aliabadup.faridpurlg.gov.bd
@@ -74,12 +75,14 @@ doptor.gov.bd
 dscsc.mil.bd
 edu.bd.gbrcr.gov.bd
 edutech.gov.bd
+eff-hsc.dinajpurboard.gov.bd
 eksheba.gov.bd
 email.ops.a2i.gov.bd
 emergencynutrition.gov.bd
 emrddashboard.gov.bd
 erp.bfacf-ticket.gov.bd
 ewars.dghs.gov.bd
+exam-management.dinajpurboard.gov.bd
 faridganjmunicipality.gov.bd
 fgc.gov.bd
 foodfornation.gov.bd
@@ -138,6 +141,7 @@ my.ngosherpur.gov.bd
 mygov.gov.bd
 mymensingheducationboard.gov.bd
 nacholemunicipality.gov.bd
+nameandage.dinajpurboard.gov.bd
 nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
 nazipurpourashava.gov.bd
@@ -147,6 +151,7 @@ ngosherpur.gov.bd
 nhrdf.gov.bd
 ntp.gov.bd
 nurullagonjup.faridpurlg.gov.bd
+onlinetc.dinajpurboard.gov.bd
 openmrs.secretariatclinic.gov.bd
 panchuriaup.faridpurlg.gov.bd
 pcb-doe.gov.bd
@@ -165,6 +170,7 @@ roc.gov.bd
 rohanpurpourashava.gov.bd
 ror.dc-rangamati.gov.bd
 rpi.gov.bd
+sadai.gov.bd
 saejp.gov.bd
 satairup.faridpurlg.gov.bd
 sdg.gov.bd
@@ -198,6 +204,9 @@ tvi.gov.bd
 ullaparapaurashava.gov.bd
 uttoradhikar.gov.bd
 vatdhkeast.gov.bd
+vaxepi.gov.bd
+vr.bangabhaban.gov.bd
+vr.gameapp.gov.bd
 webdisk.award.gov.bd
 webdisk.bepza.gov.bd
 webdisk.mushroomproject.gov.bd
@@ -274,6 +283,7 @@ www.puraparaup.faridpurlg.gov.bd
 www.rajbaripourashava.gov.bd
 www.rampalup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
+www.sadai.gov.bd
 www.satairup.faridpurlg.gov.bd
 www.somotoler.btriapps.gov.bd
 www.somotolerchasilpo.btriapps.gov.bd
@@ -284,6 +294,7 @@ www.storein.gnc.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.ullaparapaurashava.gov.bd
 www.vatdhkeast.gov.bd
+www.vaxepi.gov.bd
 www.zpmoulvibazar.gov.bd
 www.zpnetrokona.gov.bd
 zpmoulvibazar.gov.bd
