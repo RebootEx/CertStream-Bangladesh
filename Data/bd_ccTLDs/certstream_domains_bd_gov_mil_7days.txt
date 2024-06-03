@@ -1,6 +1,7 @@
 4tdcndsa.a2i.gov.bd
 adharaup.munshiganjlg.gov.bd
 admin.adolnutrireporting.nnsop.gov.bd
+admin.tds.taxeszone3ctg.gov.bd
 admission.akcc.gov.bd
 admission.sttc.gov.bd
 adolnutrireporting.nnsop.gov.bd
@@ -13,8 +14,10 @@ apps.training.grs.gov.bd
 assignment.bise-ctg.gov.bd
 atgharup.faridpurlg.gov.bd
 autoconfig.bepza.gov.bd
+autoconfig.server.melandahbhata.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.rangpurdivhrm.gov.bd
+autodiscover.server.melandahbhata.gov.bd
 autodiscover.tscgopal.gov.bd
 automationtest.bepza.gov.bd
 award.gov.bd
@@ -54,8 +57,10 @@ course.bsiedu.gov.bd
 cpanel.award.gov.bd
 cpanel.bepza.gov.bd
 cpanel.cgpoura.gov.bd
+cpanel.moulvibazartsc.gov.bd
 cpanel.oss.bepza.gov.bd
 cpanel.rangpurdivhrm.gov.bd
+cpanel.server.melandahbhata.gov.bd
 cpanel.srijon.gov.bd
 cpanel.tscgopal.gov.bd
 cpanel.zpmoulvibazar.gov.bd
@@ -64,6 +69,7 @@ cpcalendars.bepza.gov.bd
 cpcalendars.cgpoura.gov.bd
 cpcalendars.oss.bepza.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
+cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.srijon.gov.bd
 cpcalendars.tscgopal.gov.bd
 cpcalendars.zpmoulvibazar.gov.bd
@@ -72,6 +78,7 @@ cpcontacts.bepza.gov.bd
 cpcontacts.cgpoura.gov.bd
 cpcontacts.oss.bepza.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
+cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.tscgopal.gov.bd
 cpcontacts.zpmoulvibazar.gov.bd
@@ -108,6 +115,7 @@ fgc.gov.bd
 foodfornation.gov.bd
 fsa.gov.bd
 ftp.bepza.gov.bd
+ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gazipurtsc.gov.bd
 ghoraghatmunicipality.gov.bd
@@ -122,6 +130,7 @@ industry-dev.niseee.gov.bd
 inventory.rmch.gov.bd
 ipcams.cdc.gov.bd
 iptv.totthoapa.gov.bd
+ipv6.server.melandahbhata.gov.bd
 jashore.gov.bd
 jgmc.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -131,6 +140,7 @@ jobportal.shmrmi.gov.bd
 jscmark.comillaboard.gov.bd
 jury.ric.gov.bd
 kalamridhaup.faridpurlg.gov.bd
+katigramhighschool.gnc.gov.bd
 kpi.gov.bd
 krishnanagarup.faridpurlg.gov.bd
 la.ictbdiasms.gov.bd
@@ -142,7 +152,9 @@ mail.ar.gameapp.gov.bd
 mail.award.gov.bd
 mail.bepza.gov.bd
 mail.cgpoura.gov.bd
+mail.moulvibazartsc.gov.bd
 mail.rangpurdivhrm.gov.bd
+mail.server.melandahbhata.gov.bd
 mail.srijon.gov.bd
 mail.tscgopal.gov.bd
 mail.zpmoulvibazar.gov.bd
@@ -160,6 +172,7 @@ mirzapurpourashava.gov.bd
 mohakaliup.munshiganjlg.gov.bd
 monglaportmunicipality.gov.bd
 motjdigitalstore.gov.bd
+moulvibazartsc.gov.bd
 mujib100sfc.gov.bd
 muladimunicipality.gov.bd
 mygov.gov.bd
@@ -191,6 +204,7 @@ rampalup.munshiganjlg.gov.bd
 rangamatigmc.gov.bd
 rangpurdivhrm.gov.bd
 rdodtekhulna.gov.bd
+reg.dc-rangamati.gov.bd
 register.gameapp.gov.bd
 report.ec4j.gov.bd
 rims.dgda.gov.bd
@@ -205,6 +219,7 @@ satairup.faridpurlg.gov.bd
 sdg.gov.bd
 seip-fd.gov.bd
 server.kpik.gov.bd
+server.melandahbhata.gov.bd
 service.gov.bd
 sfcarmy.gov.bd
 shekharup.faridpurlg.gov.bd
@@ -262,18 +277,22 @@ webdisk.bepza.gov.bd
 webdisk.cgpoura.gov.bd
 webdisk.oss.bepza.gov.bd
 webdisk.rangpurdivhrm.gov.bd
+webdisk.server.melandahbhata.gov.bd
 webdisk.srijon.gov.bd
 webdisk.tscgopal.gov.bd
 webdisk.zpmoulvibazar.gov.bd
 webmail.award.gov.bd
 webmail.cgpoura.gov.bd
+webmail.moulvibazartsc.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.rangpurdivhrm.gov.bd
+webmail.server.melandahbhata.gov.bd
 webmail.srijon.gov.bd
 webmail.tscgopal.gov.bd
 webmail.zpmoulvibazar.gov.bd
 whm.bepza.gov.bd
 whm.oss.bepza.gov.bd
+whm.server.melandahbhata.gov.bd
 www.1234.melandahbhata.gov.bd
 www.5678.melandahbhata.gov.bd
 www.91011.melandahbhata.gov.bd
@@ -316,6 +335,7 @@ www.hematology.rmch.gov.bd
 www.inventory.rmch.gov.bd
 www.jobportal.sfmmttc.gov.bd
 www.kalamridhaup.faridpurlg.gov.bd
+www.katigramhighschool.gnc.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.madhukhalipaurashava.gov.bd
@@ -328,6 +348,7 @@ www.meal.pwdta.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mohakaliup.munshiganjlg.gov.bd
 www.monglaportmunicipality.gov.bd
+www.moulvibazartsc.gov.bd
 www.muladimunicipality.gov.bd
 www.nacholemunicipality.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
@@ -350,6 +371,7 @@ www.report.ec4j.gov.bd
 www.sadai.gov.bd
 www.satairup.faridpurlg.gov.bd
 www.seip-fd.gov.bd
+www.server.melandahbhata.gov.bd
 www.shekharup.faridpurlg.gov.bd
 www.sicip.gov.bd
 www.smartandikot.gov.bd
