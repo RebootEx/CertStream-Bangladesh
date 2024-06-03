@@ -3,6 +3,7 @@ admin.janatarsarkar.gov.bd
 adolnutrireporting.nnsop.gov.bd
 api.edp.gov.bd
 autoconfig.server.melandahbhata.gov.bd
+autodiscover.kishoreganjtsc.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 barishal.gov.bd
 biwtahydrographicdata.gov.bd
@@ -11,8 +12,11 @@ chattogram.gov.bd
 chittagongzoo.gov.bd
 cicd.most.gov.bd
 coxsbazarpolice.gov.bd
+cpanel.kishoreganjtsc.gov.bd
 cpanel.server.melandahbhata.gov.bd
+cpcalendars.kishoreganjtsc.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
+cpcontacts.kishoreganjtsc.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cumilla.gov.bd
 disability.wewb.gov.bd
@@ -26,7 +30,10 @@ ipv6.server.melandahbhata.gov.bd
 isdp.gov.bd
 isec.gov.bd
 janatarsarkar.gov.bd
+kishoreganjtsc.gov.bd
+lms.ipemis.dpe.gov.bd
 logo.smartbangladesh.gov.bd
+mail.kishoreganjtsc.gov.bd
 mail.server.melandahbhata.gov.bd
 migration.gov.bd
 mmcm.gov.bd
@@ -63,11 +70,14 @@ tr-support.most.gov.bd
 tr-test-service.most.gov.bd
 tr-training.most.gov.bd
 uniontax.gov.bd
+webdisk.kishoreganjtsc.gov.bd
 webdisk.server.melandahbhata.gov.bd
+webmail.kishoreganjtsc.gov.bd
 webmail.server.melandahbhata.gov.bd
 whm.server.melandahbhata.gov.bd
 www.api.edp.gov.bd
 www.erl.gov.bd
+www.kishoreganjtsc.gov.bd
 www.new.rgamc.gov.bd
 www.server.melandahbhata.gov.bd
 www.server1.beza.gov.bd
