@@ -25,6 +25,7 @@ autodiscover.tscgopal.gov.bd
 automationtest.bepza.gov.bd
 award.gov.bd
 award.sheikhrussel.gov.bd
+bajrajoginiup.munshiganjlg.gov.bd
 bangladesh.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
@@ -65,6 +66,7 @@ coxsbazarpolice.gov.bd
 cpanel.award.gov.bd
 cpanel.bepza.gov.bd
 cpanel.cgpoura.gov.bd
+cpanel.jamalpurttc.gov.bd
 cpanel.kishoreganjtsc.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.oss.bepza.gov.bd
@@ -75,6 +77,7 @@ cpanel.tscgopal.gov.bd
 cpcalendars.award.gov.bd
 cpcalendars.bepza.gov.bd
 cpcalendars.cgpoura.gov.bd
+cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
 cpcalendars.oss.bepza.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
@@ -84,6 +87,7 @@ cpcalendars.tscgopal.gov.bd
 cpcontacts.award.gov.bd
 cpcontacts.bepza.gov.bd
 cpcontacts.cgpoura.gov.bd
+cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
 cpcontacts.oss.bepza.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
@@ -98,6 +102,7 @@ dashboard.nilmrc.gov.bd
 dashboard.training.grs.gov.bd
 dashboardapi.training.grs.gov.bd
 demo.krishibatighor.gov.bd
+demo.rmch.gov.bd
 dev.digitalliteracy.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
@@ -132,6 +137,7 @@ ftp.oss.bepza.gov.bd
 gazipurtsc.gov.bd
 ghoraghatmunicipality.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
+gopalpurup.faridpurlg.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
 hscprivate.comillaboard.gov.bd
@@ -145,6 +151,7 @@ iptv.totthoapa.gov.bd
 ipv6.server.melandahbhata.gov.bd
 isdp.gov.bd
 isec.gov.bd
+jamalpurttc.gov.bd
 janatarsarkar.gov.bd
 jashore.gov.bd
 jgmc.gov.bd
@@ -171,6 +178,7 @@ mail.ar.gameapp.gov.bd
 mail.award.gov.bd
 mail.bepza.gov.bd
 mail.cgpoura.gov.bd
+mail.jamalpurttc.gov.bd
 mail.kishoreganjtsc.gov.bd
 mail.moulvibazartsc.gov.bd
 mail.rangpurdivhrm.gov.bd
@@ -277,6 +285,7 @@ thakurgaonttc.gov.bd
 tms.brri.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
 totthoapa.gov.bd
+tourismctg.gov.bd
 tr-accomodation.most.gov.bd
 tr-accounts.most.gov.bd
 tr-cdn.most.gov.bd
@@ -310,6 +319,7 @@ webcon.bcc.gov.bd
 webdisk.award.gov.bd
 webdisk.bepza.gov.bd
 webdisk.cgpoura.gov.bd
+webdisk.jamalpurttc.gov.bd
 webdisk.kishoreganjtsc.gov.bd
 webdisk.oss.bepza.gov.bd
 webdisk.rangpurdivhrm.gov.bd
@@ -319,6 +329,7 @@ webdisk.tscgopal.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.award.gov.bd
 webmail.cgpoura.gov.bd
+webmail.jamalpurttc.gov.bd
 webmail.kishoreganjtsc.gov.bd
 webmail.moulvibazartsc.gov.bd
 webmail.oss.bepza.gov.bd
@@ -339,6 +350,7 @@ www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.atgharup.faridpurlg.gov.bd
 www.award.gov.bd
+www.bajrajoginiup.munshiganjlg.gov.bd
 www.barlekhamunicipality.gov.bd
 www.bdansarerp.gov.bd
 www.beeer.sreda.gov.bd
@@ -357,6 +369,7 @@ www.course.bsiedu.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.db.padmamuseum.gov.bd
 www.demo.krishibatighor.gov.bd
+www.demo.rmch.gov.bd
 www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
 www.dms.basbmed.gov.bd
 www.du.gameapp.gov.bd
@@ -366,8 +379,10 @@ www.erp.sreda.gov.bd
 www.exam.akcc.gov.bd
 www.ghoraghatmunicipality.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
+www.gopalpurup.faridpurlg.gov.bd
 www.ihtbogura.gov.bd
 www.inventory.rmch.gov.bd
+www.jamalpurttc.gov.bd
 www.kalamridhaup.faridpurlg.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
