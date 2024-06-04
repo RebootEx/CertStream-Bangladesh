@@ -4,7 +4,9 @@ autodiscover.railwaypolice.gov.bd
 billing-service.bscl.gov.bd
 billing.bscl.gov.bd
 bscic-emarket.gov.bd
+caabhc.gov.bd
 covid19reports.dghs.gov.bd
+cpanel.caabhc.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.railwaypolice.gov.bd
 cpcalendars.railwaypolice.gov.bd
@@ -12,6 +14,7 @@ cpcontacts.railwaypolice.gov.bd
 dis.btrc.gov.bd
 disability.wewb.gov.bd
 dpg.gov.bd
+estore.fireservice.gov.bd
 ftp.moulvibazartsc.gov.bd
 hrm-service.bscl.gov.bd
 hrm.bscl.gov.bd
@@ -26,6 +29,7 @@ ncc.gov.bd
 panchagarhmunicipality.gov.bd
 provisioning.alaap.gov.bd
 railwaypolice.gov.bd
+rajshahiboard.gov.bd
 reg.dc-rangamati.gov.bd
 sadai.gov.bd
 smartkrishimarket.gov.bd
@@ -37,15 +41,18 @@ tms.brri.gov.bd
 tourismctg.gov.bd
 volunteer.ekshop.gov.bd
 webdisk.railwaypolice.gov.bd
+webmail.caabhc.gov.bd
 webmail.moulvibazartsc.gov.bd
 webmail.railwaypolice.gov.bd
 www.akkelpurmunicipality.gov.bd
 www.apps.jamalpurttc.gov.bd
+www.caabhc.gov.bd
 www.ihtbogura.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.moulvibazartsc.gov.bd
 www.panchagarhmunicipality.gov.bd
 www.railwaypolice.gov.bd
+www.rajshahiboard.gov.bd
 www.taloramunicipality.gov.bd
 www.volunteer.ekshop.gov.bd
 www.zpkurigram.gov.bd
