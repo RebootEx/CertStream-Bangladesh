@@ -26,6 +26,7 @@ autodiscover.hakjm.edu.bd
 autodiscover.igfm.edu.bd
 autodiscover.krsdm.edu.bd
 autodiscover.nsmpghs.edu.bd
+autodiscover.wsmhs.edu.bd
 azimuddinhs.edu.bd
 baaimm.edu.bd
 badchs.edu.bd
@@ -90,6 +91,7 @@ cpanel.krsdm.edu.bd
 cpanel.nsmpghs.edu.bd
 cpanel.pcuarss.edu.bd
 cpanel.renesa.edu.bd
+cpanel.wsmhs.edu.bd
 cpcalendars.aam.edu.bd
 cpcalendars.arsc.edu.bd
 cpcalendars.asahs.edu.bd
@@ -108,6 +110,7 @@ cpcalendars.kccghsc.edu.bd
 cpcalendars.krsdm.edu.bd
 cpcalendars.nsmpghs.edu.bd
 cpcalendars.renesa.edu.bd
+cpcalendars.wsmhs.edu.bd
 cpcontacts.aam.edu.bd
 cpcontacts.arsc.edu.bd
 cpcontacts.asahs.edu.bd
@@ -126,6 +129,7 @@ cpcontacts.kccghsc.edu.bd
 cpcontacts.krsdm.edu.bd
 cpcontacts.nsmpghs.edu.bd
 cpcontacts.renesa.edu.bd
+cpcontacts.wsmhs.edu.bd
 cvghs.edu.bd
 dagss.edu.bd
 dakshinnagardndm.edu.bd
@@ -256,6 +260,7 @@ mail.pcuarss.edu.bd
 mail.phaghsc.edu.bd
 mail.radhapurhs.edu.bd
 mail.renesa.edu.bd
+mail.wsmhs.edu.bd
 mayasc.edu.bd
 mhhs.edu.bd
 mhsku.edu.bd
@@ -364,6 +369,7 @@ webdisk.kccghsc.edu.bd
 webdisk.krsdm.edu.bd
 webdisk.nsmpghs.edu.bd
 webdisk.renesa.edu.bd
+webdisk.wsmhs.edu.bd
 webmail.aam.edu.bd
 webmail.asahs.edu.bd
 webmail.baaimm.edu.bd
@@ -380,6 +386,8 @@ webmail.kccghsc.edu.bd
 webmail.krsdm.edu.bd
 webmail.nsmpghs.edu.bd
 webmail.renesa.edu.bd
+webmail.wsmhs.edu.bd
+wsmhs.edu.bd
 www.aam.edu.bd
 www.aambc.edu.bd.raichahs.edu.bd
 www.abc.edu.bd.hgc.edu.bd
@@ -478,4 +486,5 @@ www.trhighschool.edu.bd.abjmhs.edu.bd
 www.tts.edu.bd.pekuahs.edu.bd
 www.v2.aib.edu.bd
 www.v29.cub.edu.bd
+www.wsmhs.edu.bd
 zums.edu.bd
