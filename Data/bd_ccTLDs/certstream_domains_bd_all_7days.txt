@@ -72,6 +72,7 @@ admin.mobileinfo.com.bd
 admin.needly.com.bd
 admin.nstyle.com.bd
 admin.psrglobal.com.bd
+admin.rapido.com.bd
 admin.reliance.com.bd
 admin.shadowtech.com.bd
 admin.sicb.edu.bd
@@ -218,6 +219,7 @@ api.drugx.com.bd
 api.esms.com.bd
 api.factorynext.com.bd
 api.foodano.com.bd
+api.foodapps.com.bd
 api.kyalsc.edu.bd
 api.lawlab.com.bd
 api.magnoliaproperties.com.bd
@@ -731,6 +733,7 @@ boilerinsulation.com.bd
 bolo.com.bd
 bonbariaphs.edu.bd
 bond.com.bd
+bookleaf.com.bd
 bookmark.com.bd
 bookriver.com.bd
 booksfactory.com.bd
@@ -1169,6 +1172,7 @@ cpanel.newsbangla24.com.bd
 cpanel.ngdc.ac.bd
 cpanel.nmmhs.edu.bd
 cpanel.novation.edu.bd
+cpanel.novoza.com.bd
 cpanel.nstyle.com.bd
 cpanel.nurrice.com.bd
 cpanel.nwc.com.bd
@@ -1409,6 +1413,7 @@ cpcalendars.newsbangla24.com.bd
 cpcalendars.ngdc.ac.bd
 cpcalendars.nmmhs.edu.bd
 cpcalendars.novation.edu.bd
+cpcalendars.novoza.com.bd
 cpcalendars.nu.ac.bd
 cpcalendars.nurrice.com.bd
 cpcalendars.nwc.com.bd
@@ -1645,6 +1650,7 @@ cpcontacts.newsbangla24.com.bd
 cpcontacts.ngdc.ac.bd
 cpcontacts.nmmhs.edu.bd
 cpcontacts.novation.edu.bd
+cpcontacts.novoza.com.bd
 cpcontacts.nu.ac.bd
 cpcontacts.nurrice.com.bd
 cpcontacts.nwc.com.bd
@@ -1943,6 +1949,7 @@ doubtmind.com.bd
 dourbroadband.com.bd
 dpc.edu.bd
 dpfdm.edu.bd
+dpg.gov.bd
 dpks.org.bd
 dpks.org.bd.arpa.org.bd
 dpm.com.bd
@@ -2187,6 +2194,7 @@ fibertechnology.com.bd
 fiemart.com.bd
 fifthgears.com.bd
 fihschool.edu.bd
+file.info.bd
 files.gmrwc.edu.bd
 filmmate.com.bd
 fima.com.bd
@@ -2397,6 +2405,7 @@ happyali.com.bd
 happyali.com.bd.alihossain.com.bd
 happymart.com.bd
 hariswarhs.edu.bd
+hartagirlshs.edu.bd
 hasancomputer.com.bd
 hatathgonjgirlshs.edu.bd
 hattimatim.com.bd
@@ -3245,6 +3254,7 @@ mail.ngodhaka.com.bd
 mail.nightbreeze.com.bd
 mail.nmmhs.edu.bd
 mail.novation.edu.bd
+mail.novoza.com.bd
 mail.nstyle.com.bd
 mail.nurrice.com.bd
 mail.nwc.com.bd
@@ -3715,6 +3725,7 @@ noman.info.bd
 nooraniagro.com.bd
 notice.egcb.com.bd
 novation.edu.bd
+novoza.com.bd
 now.com.bd
 nowtikahs.edu.bd
 npa.edu.bd
@@ -3858,6 +3869,7 @@ pca.edu.bd
 pcb-doe.gov.bd
 pcbapps.com.bd
 pccghs.edu.bd
+pccl.com.bd
 pchs.edu.bd
 pcl.com.bd
 pcsb.com.bd
@@ -3901,6 +3913,7 @@ piprikandihs.edu.bd
 pirganjtsc.edu.bd
 piser.edu.bd
 pitambarpara.edu.bd
+pkfsc.edu.bd
 pkghs.edu.bd
 pksghscc.edu.bd
 planet.com.bd
@@ -4520,6 +4533,7 @@ srijaneebidyaniketan.edu.bd
 srijon.gov.bd
 srl.biswas.info.bd
 srv.wearnsmile.com.bd
+srv65.smartsoftware.com.bd
 ss.ancova.com.bd
 sscnet.edu.bd
 sscollection.com.bd
@@ -4682,6 +4696,7 @@ test.pantum.com.bd
 test.playon24.com.bd
 test.porchex.com.bd
 test.sathivision.com.bd
+test.sbil.com.bd
 test.smarttechnology.com.bd
 test.smcommunication.com.bd
 test.tpsc.edu.bd
@@ -4778,6 +4793,7 @@ travelmentor.travel.edumentor.com.bd
 travelsolution.com.bd
 travesia.com.bd
 trendcart.com.bd
+triangletech.com.bd
 trig.com.bd
 tripfly.com.bd
 tripsntours.com.bd
@@ -5080,6 +5096,7 @@ webdisk.newsbangla24.com.bd
 webdisk.ngdc.ac.bd
 webdisk.nmmhs.edu.bd
 webdisk.novation.edu.bd
+webdisk.novoza.com.bd
 webdisk.nu.ac.bd
 webdisk.nurrice.com.bd
 webdisk.nwc.com.bd
@@ -5346,6 +5363,7 @@ webmail.newsbangla24.com.bd
 webmail.ngdc.ac.bd
 webmail.nmmhs.edu.bd
 webmail.novation.edu.bd
+webmail.novoza.com.bd
 webmail.nstyle.com.bd
 webmail.nurrice.com.bd
 webmail.nwc.com.bd
@@ -6368,6 +6386,7 @@ www.klpshs.edu.bd
 www.kmc.kushtiagovcollege.edu.bd
 www.kmcchs.edu.bd
 www.kmhasan.com.bd
+www.koha.cu.ac.bd
 www.konabariahs.edu.bd
 www.krishanagro.one2one.com.bd
 www.krishnanagarup.faridpurlg.gov.bd
@@ -6546,6 +6565,7 @@ www.mkadegreecollege.edu.bd
 www.mm.hellotech.com.bd
 www.mmhs.techshore.com.bd
 www.mmreza.com.krishimela.com.bd
+www.mms.edu.bd
 www.mobile-price.halaal.com.bd
 www.mobileinfo.com.bd
 www.mobilepoint.com.bd
@@ -6623,6 +6643,7 @@ www.noakhali5.bmit.com.bd
 www.notice.egcb.com.bd
 www.novation.edu.bd
 www.novonordisk.com.bd
+www.novoza.com.bd
 www.nowtikahs.edu.bd
 www.npif.edu.bd
 www.npis.presidencybd.edu.bd
@@ -6690,6 +6711,7 @@ www.pbrlp.gov.bd
 www.pc.cueclub.com.bd
 www.pcbapps.com.bd
 www.pccghs.edu.bd
+www.pccl.com.bd
 www.pcl.com.bd
 www.pcuarss.edu.bd
 www.pdsm.brdb.org.bd
@@ -7096,6 +7118,7 @@ www.test.globalaffairs.com.bd
 www.test.lend.com.bd
 www.test.playon24.com.bd
 www.test.sathivision.com.bd
+www.test.sbil.com.bd
 www.test.smarttechnology.com.bd
 www.test.smcommunication.com.bd
 www.testing.bme.com.bd
