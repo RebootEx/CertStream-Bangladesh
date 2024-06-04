@@ -396,6 +396,7 @@ cpanel.halimunnessa.edu.bd
 cpanel.hhnc.edu.bd
 cpanel.hkks.edu.bd
 cpanel.igfm.edu.bd
+cpanel.irmsc.edu.bd
 cpanel.jghs.edu.bd
 cpanel.kalhs.edu.bd
 cpanel.kamb.edu.bd
@@ -486,6 +487,7 @@ cpcalendars.halimunnessa.edu.bd
 cpcalendars.hhnc.edu.bd
 cpcalendars.hkks.edu.bd
 cpcalendars.igfm.edu.bd
+cpcalendars.irmsc.edu.bd
 cpcalendars.jghs.edu.bd
 cpcalendars.kamb.edu.bd
 cpcalendars.kazisdm.edu.bd
@@ -573,6 +575,7 @@ cpcontacts.halimunnessa.edu.bd
 cpcontacts.hhnc.edu.bd
 cpcontacts.hkks.edu.bd
 cpcontacts.igfm.edu.bd
+cpcontacts.irmsc.edu.bd
 cpcontacts.jghs.edu.bd
 cpcontacts.kamb.edu.bd
 cpcontacts.kazisdm.edu.bd
@@ -880,6 +883,7 @@ ims.babulcharahs.edu.bd
 ipe.just.edu.bd
 ipv6.jghs.edu.bd
 iqra.sffazilmadrasa.edu.bd
+irmsc.edu.bd
 is.tejgaoncollege.edu.bd
 isdairrhhs.edu.bd
 ishsc.edu.bd
@@ -1131,6 +1135,7 @@ mail.hkks.edu.bd
 mail.hmjacc.edu.bd
 mail.ibhssantosh.edu.bd
 mail.igfm.edu.bd
+mail.irmsc.edu.bd
 mail.itte.edu.bd
 mail.jamilajoynalss.edu.bd
 mail.jghs.edu.bd
@@ -1587,6 +1592,8 @@ snc.edu.bd
 sob.eastdelta.edu.bd
 sofama.edu.bd
 soft.iiscmymensingh.edu.bd
+soft.ldmadrasah.edu.bd
+soft.pkghs.edu.bd
 software.alhajaliachiyahighschool.edu.bd
 software.bub.edu.bd
 software.kmfgcmhs.edu.bd
@@ -1760,6 +1767,7 @@ webdisk.halimunnessa.edu.bd
 webdisk.hhnc.edu.bd
 webdisk.hkks.edu.bd
 webdisk.igfm.edu.bd
+webdisk.irmsc.edu.bd
 webdisk.jghs.edu.bd
 webdisk.kamb.edu.bd
 webdisk.kazisdm.edu.bd
@@ -1858,6 +1866,7 @@ webmail.hhnc.edu.bd
 webmail.hkks.edu.bd
 webmail.igfm.edu.bd
 webmail.imamgazzalisc.edu.bd
+webmail.irmsc.edu.bd
 webmail.ist.edu.bd
 webmail.jghs.edu.bd
 webmail.kalhs.edu.bd
@@ -2170,6 +2179,7 @@ www.imamgazzalisc.edu.bd
 www.ims.babulcharahs.edu.bd
 www.ipe.just.edu.bd
 www.iqra.sffazilmadrasa.edu.bd
+www.irmsc.edu.bd
 www.is.tejgaoncollege.edu.bd
 www.itify.tech.dmc.edu.bd
 www.itte.edu.bd
@@ -2388,6 +2398,8 @@ www.sms.bmusc.edu.bd
 www.snc.edu.bd
 www.soft.bmusc.edu.bd
 www.soft.iiscmymensingh.edu.bd
+www.soft.ldmadrasah.edu.bd
+www.soft.pkghs.edu.bd
 www.software.alhajaliachiyahighschool.edu.bd
 www.software.bub.edu.bd
 www.software.kmfgcmhs.edu.bd
