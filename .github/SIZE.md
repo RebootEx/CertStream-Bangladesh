@@ -1,15 +1,15 @@
 ```mathematica
-452K └─┬ main
-444K   ├─┬ Data
-440K   │ └─┬ bd_ccTLDs
-180K   │   ├── certstream_domains_bd_all_24h_httpx.txt
-172K   │   ├── certstream_domains_bd_all_7days.txt
- 56K   │   ├── certstream_domains_bd_edu_7days.txt
+588K └─┬ main
+580K   ├─┬ Data
+576K   │ └─┬ bd_ccTLDs
+268K   │   ├── certstream_domains_bd_all_24h_httpx.txt
+192K   │   ├── certstream_domains_bd_all_7days.txt
+ 68K   │   ├── certstream_domains_bd_edu_7days.txt
+ 16K   │   ├── certstream_domains_bd_all_24h.txt
  12K   │   ├── certstream_domains_bd_gov_mil_7days.txt
+8.0K   │   ├── certstream_domains_bd_edu_24h.txt
 4.0K   │   ├── certstream_domains_bd_isp_7days.txt
 4.0K   │   ├── certstream_domains_bd_gov_mil_24h.txt
-4.0K   │   ├── certstream_domains_bd_edu_24h.txt
-4.0K   │   ├── certstream_domains_bd_all_24h.txt
   0B   │   └── certstream_domains_bd_isp_24h.txt
 4.0K   └── README.md
 ```
