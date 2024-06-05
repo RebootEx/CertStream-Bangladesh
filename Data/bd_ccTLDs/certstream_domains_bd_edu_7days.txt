@@ -25,6 +25,7 @@ admin.acas.edu.bd
 admin.kgsckalindi.edu.bd
 admission.bmgc.edu.bd
 admission.iom.edu.bd
+admission.simt.edu.bd
 admission.surjamukhi.edu.bd
 admissiontest.green.edu.bd
 advanced.edu.bd
@@ -193,6 +194,7 @@ badarpursesdp.edu.bd
 badchs.edu.bd
 bafsemc.edu.bd
 baghilfhs.edu.bd
+bagmaraidm.edu.bd
 bagss.edu.bd
 bahaddarkatahighschool.edu.bd
 bahaddarkataimdm.edu.bd
@@ -256,6 +258,7 @@ behulaghs.edu.bd
 belfuliaschool.edu.bd
 bemdm.edu.bd
 beragirlspiloths.edu.bd
+beta.amcb.edu.bd
 bfkc.edu.bd
 bgmhs.edu.bd
 bgmphs.edu.bd
@@ -419,6 +422,7 @@ chs1964.edu.bd
 chsbagmara.edu.bd
 chunakhalieam.edu.bd
 cica.cambrian.edu.bd
+cisc.cambrian.edu.bd
 cjhscim.edu.bd
 claim-unitokens.kamkgc.edu.bd
 clubs.daffodilvarsity.edu.bd
@@ -756,6 +760,7 @@ damannanschool111087.edu.bd
 damudyapilotgirls.edu.bd
 daragramhs.edu.bd
 dariapuramanullahhs.edu.bd
+dashboard.engine.hasc.edu.bd
 daudkandipiloths.edu.bd
 daulatpuram.edu.bd
 daulatpurgirlshighschool.edu.bd
@@ -793,6 +798,7 @@ dhankoragirishinstitution1917.edu.bd
 dhansagarunited.edu.bd
 dhanurahs.edu.bd
 dharampurhs.edu.bd
+dharmapurhighschool.edu.bd
 dhobaurabghs.edu.bd
 dhobaurabghs.edu.bd.khamarbashahighschool.edu.bd
 dhopaghatadegreecollege.edu.bd
@@ -815,6 +821,7 @@ dnkdm.edu.bd
 dohokuladm.edu.bd
 domnibarihighschool.edu.bd
 doulatpurhoquebahadurhs.edu.bd
+doulatpurskhs.edu.bd
 dpc.edu.bd
 dpmssuk.edu.bd
 dpshs.edu.bd
@@ -895,6 +902,7 @@ gadaipurjeheralihs.edu.bd
 gafargaonmohilacollege.edu.bd
 gahhs.edu.bd
 gajailsam.edu.bd
+gallakadarshadegreecollege.edu.bd
 gangarampurhs.edu.bd
 gangarampurhs.edu.bd.shibganjhighschool.edu.bd
 garbhangasgschool.edu.bd
@@ -933,6 +941,7 @@ gopalpursc.edu.bd
 gouripurpghs.edu.bd
 govmmalicollege.edu.bd
 govscbog.edu.bd
+govsmc.edu.bd
 govtsantoshiughs.edu.bd
 greenviewchapai.edu.bd
 grkmhs.edu.bd
@@ -1046,6 +1055,7 @@ incubator.daffodilvarsity.edu.bd
 indropurhighschool.edu.bd
 investasitradingrtpslot.gccc.edu.bd
 ipe.just.edu.bd
+iphsc.edu.bd
 ipv6.jghs.edu.bd
 iqac.butex.edu.bd
 iqra.sffazilmadrasa.edu.bd
@@ -1065,6 +1075,7 @@ jahanarahs.edu.bd
 jahanaraschool.edu.bd
 jaintapurgovths.edu.bd
 jaldhuphs.edu.bd
+jam.edu.bd
 jamilajoynalss.edu.bd
 jamshedahmedhs.edu.bd
 jamuahighschool.edu.bd
@@ -1116,6 +1127,7 @@ kanaipurschoolandcollege.edu.bd
 kanthalischs.edu.bd
 karmadhahsc.edu.bd
 kasfm118582.edu.bd
+kashimpurphs.edu.bd
 kashipurbdm.edu.bd
 kashipurhighschool.edu.bd
 kashs.edu.bd
@@ -1157,6 +1169,7 @@ khopatihs.edu.bd
 khsb.edu.bd
 khsbir.edu.bd
 khsmyn.edu.bd
+khsschool.edu.bd
 kia.edu.bd
 kjghs.edu.bd
 kkccghs.edu.bd
@@ -1166,6 +1179,7 @@ kkub.edu.bd
 klghs1966.edu.bd
 klpshs.edu.bd
 kmcchs.edu.bd
+kmdcollege.edu.bd
 kmmainuddin.edu.bd
 kmmainuddin.edu.bd.paroilhs.edu.bd
 kmmdm.edu.bd
@@ -1181,6 +1195,7 @@ konnect.edu.bd
 krishnercharhighschool.edu.bd
 krsdm.edu.bd
 krshs.edu.bd
+kscpk.edu.bd
 ksfm1961.edu.bd
 ksnhsb.edu.bd
 ktbmcollege.edu.bd
@@ -1323,6 +1338,7 @@ mail.ibitsylhet.edu.bd
 mail.igfm.edu.bd
 mail.irmsc.edu.bd
 mail.itte.edu.bd
+mail.jam.edu.bd
 mail.jamilajoynalss.edu.bd
 mail.jduidm.edu.bd
 mail.jghs.edu.bd
@@ -1444,6 +1460,7 @@ metrouni.edu.bd
 mfrsc.edu.bd
 mghs1996.edu.bd
 mghsc.edu.bd
+mgili.edu.bd
 mgmh.edu.bd
 mgs.edu.bd
 mhhs.edu.bd
@@ -1462,6 +1479,7 @@ mitalibidyapith.edu.bd
 mjghs.edu.bd
 mjgs.edu.bd
 mkadegreecollege.edu.bd
+mkgsc.edu.bd.ambikaganjcollege.edu.bd
 mkmadrasah.edu.bd
 mkmss.edu.bd
 mkt.just.edu.bd
@@ -1537,6 +1555,7 @@ new.mhrms.edu.bd
 nfchs.edu.bd
 nft.just.edu.bd
 ngdc.edu.bd
+nghcpmhs.edu.bd
 nghscollege.edu.bd
 ngpc.daffodilvarsity.edu.bd
 nhskaw.edu.bd
@@ -1650,12 +1669,14 @@ pos.dcci-dbi.edu.bd
 poshapets.dmc.edu.bd
 pphsnil.edu.bd
 prfm.edu.bd
+primary.dsti.edu.bd
 profile.mkadegreecollege.edu.bd
 prokasnath.edu.bd
 protapdm.edu.bd
 psac.edu.bd
 psnsadc.edu.bd
 psr.bsmrstu.edu.bd
+pssdm.edu.bd
 pssm.edu.bd
 ptccghs.edu.bd
 ptr.just.edu.bd
@@ -1736,6 +1757,7 @@ sabjealihighschool.edu.bd.shankhchurahs.edu.bd
 sacollegebogura.edu.bd
 sadakat-hs.edu.bd
 sadapurkghs.edu.bd
+sadekpuridm.edu.bd
 sadipurahs.edu.bd
 saf.image.edu.bd
 safdm.edu.bd
@@ -1796,6 +1818,7 @@ sgh.edu.bd
 shahatahighschool.edu.bd
 shaheedjahangirhs.edu.bd
 shahwaliullahinstitute.edu.bd
+shailkupagovtcollege.edu.bd
 shalbarihs123344.edu.bd
 shalmaradakhilmadrasah.edu.bd
 shamaschurahs.edu.bd
@@ -1852,6 +1875,7 @@ sram.edu.bd
 srdmp.edu.bd
 sreepoddimodelhs.edu.bd
 sreerchs.edu.bd
+sreeulasecondaryschool.edu.bd
 sscnet.edu.bd
 ssgchs.edu.bd
 ssmc.edu.bd
@@ -2238,6 +2262,7 @@ www.backend.nababganjdakhilmadrasah.edu.bd
 www.badarpursesdp.edu.bd
 www.badchs.edu.bd
 www.baghilfhs.edu.bd
+www.bagmaraidm.edu.bd
 www.bahs123369.edu.bd.shibganjhighschool.edu.bd
 www.baikunthapurhs.edu.bd
 www.bairatidakhilmadrasha.edu.bd.raichahs.edu.bd
@@ -2258,6 +2283,7 @@ www.bcsirscd.edu.bd
 www.bdcip.edu.bd
 www.bdmm.edu.bd
 www.bdsm.edu.bd
+www.beta.amcb.edu.bd
 www.bfkc.edu.bd
 www.bhaturiaschoolandcollege.edu.bd
 www.bhimpurgirls.edu.bd
@@ -2319,6 +2345,7 @@ www.chpei.edu.bd
 www.chsbagmara.edu.bd
 www.chsc.kdbbhs.edu.bd
 www.cica.cambrian.edu.bd
+www.cisc.cambrian.edu.bd
 www.civil.bubt.edu.bd
 www.cjhscim.edu.bd
 www.claim-unitokens.kamkgc.edu.bd
@@ -2364,6 +2391,7 @@ www.dklgdmad.edu.bd
 www.dmaghs.edu.bd
 www.dmmc.edu.bd
 www.doulatpurhoquebahadurhs.edu.bd
+www.doulatpurskhs.edu.bd
 www.dpshs.edu.bd
 www.dpti.edu.bd
 www.drbashirahmedcollege.edu.bd
@@ -2400,6 +2428,7 @@ www.fmb.just.edu.bd
 www.formanpurhighschool.edu.bd.shibganjhighschool.edu.bd
 www.ftzdm.edu.bd.piam.edu.bd
 www.futuretraining.edu.bd
+www.gallakadarshadegreecollege.edu.bd
 www.gallery.cub.edu.bd
 www.gangarampurhs.edu.bd.shibganjhighschool.edu.bd
 www.garbhangasgschool.edu.bd
@@ -2483,6 +2512,7 @@ www.is.tejgaoncollege.edu.bd
 www.it.bcps.edu.bd
 www.itte.edu.bd
 www.jaintapurgovths.edu.bd
+www.jam.edu.bd
 www.jamilajoynalss.edu.bd
 www.jamuahighschool.edu.bd
 www.jbsschool.edu.bd
@@ -2527,6 +2557,7 @@ www.konabariahs.edu.bd
 www.krishnercharhighschool.edu.bd
 www.krsdm.edu.bd
 www.krshs.edu.bd
+www.kscpk.edu.bd
 www.kumarulihs.edu.bd
 www.kuriparahighschool.edu.bd
 www.kwamsc.edu.bd
@@ -2565,6 +2596,7 @@ www.mengenalsbobet.gccc.edu.bd
 www.mfrsc.edu.bd
 www.mghs1996.edu.bd
 www.mghsc.edu.bd
+www.mgili.edu.bd
 www.mhhs.edu.bd
 www.mhsp.edu.bd
 www.microbiology.nstu.edu.bd
@@ -2574,6 +2606,7 @@ www.misterislotgacor.gccc.edu.bd
 www.mitalibidyapith.edu.bd.fulbarihs.edu.bd
 www.mjghs.edu.bd
 www.mkadegreecollege.edu.bd
+www.mkgsc.edu.bd.ambikaganjcollege.edu.bd
 www.mkhs113658.edu.bd.pekuahs.edu.bd
 www.mkmadrasah.edu.bd
 www.mkmss.edu.bd
@@ -2647,9 +2680,11 @@ www.ponairchakhighschool.edu.bd.dangahighschool.edu.bd
 www.portal.eugsc.edu.bd
 www.pos.dbicollege.edu.bd
 www.poshapets.dmc.edu.bd
+www.primary.dsti.edu.bd
 www.primary.holycrescentschool.edu.bd
 www.profile.mkadegreecollege.edu.bd
 www.psr.bsmrstu.edu.bd
+www.pssdm.edu.bd
 www.ptr.just.edu.bd
 www.punchgachigirls.edu.bd
 www.purbajurainadarshahs.edu.bd.dihsc.edu.bd
@@ -2690,6 +2725,7 @@ www.s.bmmrhs.edu.bd
 www.s.burailahs.edu.bd
 www.s.kbbdm.edu.bd
 www.sabjealihighschool.edu.bd.shankhchurahs.edu.bd
+www.sadekpuridm.edu.bd
 www.saf.image.edu.bd
 www.safdm.edu.bd
 www.safeni.edu.bd
