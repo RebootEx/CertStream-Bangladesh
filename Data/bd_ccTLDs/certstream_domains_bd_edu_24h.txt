@@ -47,6 +47,7 @@ autodiscover.gikm.edu.bd
 autodiscover.haahfahs.edu.bd
 autodiscover.hbmc.edu.bd
 autodiscover.krsdm.edu.bd
+autodiscover.mghsc.edu.bd
 autodiscover.noaparambmhs.edu.bd
 autodiscover.nsmpghs.edu.bd
 autodiscover.pirganjmohilacollegerangpur.edu.bd
@@ -80,6 +81,7 @@ bcps.edu.bd
 bhabnaidm.edu.bd
 bhadeswarnuhsc.edu.bd
 bhadurhighschool.edu.bd
+bhaighathighschool.edu.bd
 bhandariavehariinstitute.edu.bd
 bhmdm.edu.bd
 bholaghs.edu.bd
@@ -91,6 +93,7 @@ biess.edu.bd
 birgramhs.edu.bd
 birolyadarshahighschool.edu.bd
 biscj.edu.bd
+bisharpashahchs.edu.bd
 bishiahs.edu.bd
 bist.edu.bd
 bkss.edu.bd
@@ -151,6 +154,7 @@ cpanel.haahfahs.edu.bd
 cpanel.hbmc.edu.bd
 cpanel.irmsc.edu.bd
 cpanel.krsdm.edu.bd
+cpanel.mghsc.edu.bd
 cpanel.mrdhs.edu.bd
 cpanel.noaparambmhs.edu.bd
 cpanel.nsmpghs.edu.bd
@@ -180,6 +184,7 @@ cpcalendars.haahfahs.edu.bd
 cpcalendars.hbmc.edu.bd
 cpcalendars.irmsc.edu.bd
 cpcalendars.krsdm.edu.bd
+cpcalendars.mghsc.edu.bd
 cpcalendars.mrdhs.edu.bd
 cpcalendars.noaparambmhs.edu.bd
 cpcalendars.nsmpghs.edu.bd
@@ -208,6 +213,7 @@ cpcontacts.haahfahs.edu.bd
 cpcontacts.hbmc.edu.bd
 cpcontacts.irmsc.edu.bd
 cpcontacts.krsdm.edu.bd
+cpcontacts.mghsc.edu.bd
 cpcontacts.mrdhs.edu.bd
 cpcontacts.noaparambmhs.edu.bd
 cpcontacts.nsmpghs.edu.bd
@@ -247,6 +253,7 @@ edu.bd.dihsc.edu.bd
 edu.bd.pekuahs.edu.bd
 edu.bd.vdmc.edu.bd
 eifmad.edu.bd
+ems.dhakaboysandgirlscollege.edu.bd
 ems.hukhs.edu.bd
 ems.palonghighschool.edu.bd
 faakhs.edu.bd
@@ -263,6 +270,7 @@ gikm.edu.bd
 gima.edu.bd
 gist.edu.bd
 globe.proyashrangpur.edu.bd
+gobindapurhsgbc.edu.bd
 gourshs.edu.bd
 govmmalicollege.edu.bd
 grkmhs.edu.bd
@@ -278,9 +286,12 @@ hbmc.edu.bd
 hceihs.edu.bd
 hhscollege.edu.bd
 hmkm.edu.bd
+ibitsylhet.edu.bd
+ibmcr.edu.bd
 icstfeni.edu.bd
 idealschool.edu.bd
 igkmc.edu.bd
+imperial.edu.bd
 inderzaniphs.edu.bd
 indropurhighschool.edu.bd
 investasitradingrtpslot.gccc.edu.bd
@@ -317,6 +328,7 @@ khaskandihighschool.edu.bd
 khidm.edu.bd
 khsrt.edu.bd
 kkhhs.edu.bd
+kksschool.edu.bd
 kmmainuddin.edu.bd
 kmmainuddin.edu.bd.paroilhs.edu.bd
 kmmemorialschoolandcollege.edu.bd
@@ -347,8 +359,10 @@ mail.fdhs.edu.bd
 mail.gikm.edu.bd
 mail.haahfahs.edu.bd
 mail.hbmc.edu.bd
+mail.ibitsylhet.edu.bd
 mail.irmsc.edu.bd
 mail.krsdm.edu.bd
+mail.mghsc.edu.bd
 mail.mrdhs.edu.bd
 mail.noaparambmhs.edu.bd
 mail.nsmpghs.edu.bd
@@ -361,8 +375,10 @@ mail.tinnandinahs.edu.bd
 mail.trimohanihs.edu.bd
 mail.urphs.edu.bd
 mail.wsmhs.edu.bd
+mangrove.edu.bd
 mayasc.edu.bd
 mechanical.cityuniversity.edu.bd
+mghsc.edu.bd
 mgmh.edu.bd
 mhsku.edu.bd
 mirzarcharhs.edu.bd
@@ -372,7 +388,9 @@ mkgsc.edu.bd.ambikaganjcollege.edu.bd
 mkt.just.edu.bd
 mlfm.edu.bd
 mohsincollege.edu.bd
+monati.edu.bd
 mordahgdm.edu.bd
+mpss.edu.bd
 mrdhs.edu.bd
 n.mahhs.edu.bd
 nababganjdakhilmadrasah.edu.bd
@@ -415,6 +433,7 @@ rdidm.edu.bd
 rdskm.edu.bd
 rebmsc.edu.bd
 rggs-edu.empo.edu.bd
+rmdmadrasah.edu.bd
 rodoilbmc.edu.bd
 rpahsb.edu.bd
 rplsc.edu.bd
@@ -458,9 +477,11 @@ smarthasch.edu.bd
 soshgcdhaka.edu.bd
 stpadmadrasah.edu.bd
 susc.edu.bd
+tamaihighschool.edu.bd
 tanamccteam.com.pmehahs.edu.bd
 test.daffodilvarsity.edu.bd
 test.kus.edu.bd
+test.sfxgsc.edu.bd
 tinnandinahs.edu.bd
 tonaiam.edu.bd
 trimohanihs.edu.bd
@@ -496,6 +517,7 @@ webdisk.haahfahs.edu.bd
 webdisk.hbmc.edu.bd
 webdisk.irmsc.edu.bd
 webdisk.krsdm.edu.bd
+webdisk.mghsc.edu.bd
 webdisk.mrdhs.edu.bd
 webdisk.noaparambmhs.edu.bd
 webdisk.nsmpghs.edu.bd
@@ -523,6 +545,7 @@ webmail.haahfahs.edu.bd
 webmail.hbmc.edu.bd
 webmail.irmsc.edu.bd
 webmail.krsdm.edu.bd
+webmail.mghsc.edu.bd
 webmail.mrdhs.edu.bd
 webmail.noaparambmhs.edu.bd
 webmail.nsmpghs.edu.bd
@@ -608,6 +631,8 @@ www.hafijakhatunghs.edu.bd
 www.hatbakoilhs.edu.bd
 www.hbmc.edu.bd
 www.hmkm.edu.bd.dagma.edu.bd
+www.ibitsylhet.edu.bd
+www.imperial.edu.bd
 www.inderzaniphs.edu.bd
 www.indropurhighschool.edu.bd
 www.investasitradingrtpslot.gccc.edu.bd
@@ -624,7 +649,9 @@ www.krsdm.edu.bd
 www.law.sgcdn.edu.bd
 www.linksbobet.gccc.edu.bd
 www.madrasah.al-ihsanhighschool.edu.bd
+www.mangrove.edu.bd
 www.mechanical.cityuniversity.edu.bd
+www.mghsc.edu.bd
 www.mirzarcharhs.edu.bd
 www.misterislotgacor.gccc.edu.bd
 www.mkgsc.edu.bd.ambikaganjcollege.edu.bd
@@ -663,6 +690,7 @@ www.soshgcdhaka.edu.bd
 www.stpadmadrasah.edu.bd
 www.susc.edu.bd
 www.tanamccteam.com.pmehahs.edu.bd
+www.test.sfxgsc.edu.bd
 www.tinnandinahs.edu.bd
 www.trimohanihs.edu.bd
 www.tts.edu.bd.pekuahs.edu.bd
