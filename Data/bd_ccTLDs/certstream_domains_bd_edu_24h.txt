@@ -9,7 +9,9 @@ aucm.edu.bd
 auth.just.edu.bd
 autodiscover.aucm.edu.bd
 autodiscover.chandigarhighschool.edu.bd
+autodiscover.jannahighschool.edu.bd
 autodiscover.mbc.edu.bd
+ayeshbamadrasah.edu.bd
 baghilfhs.edu.bd
 bakshimulghs.edu.bd
 baraikandihs.edu.bd
@@ -22,10 +24,13 @@ beta.amcb.edu.bd
 bfma.edu.bd
 bfpi.edu.bd
 bhartrahs.edu.bd
+bhatparancguptahighschool.edu.bd
 bhaturiaschoolandcollege.edu.bd
+bhsch.edu.bd
 bhurdishs.edu.bd
 bisharpashahchs.edu.bd
 bkphs.edu.bd
+bsmhschool.edu.bd
 bsschoolandcollege.edu.bd
 campus-bw.mcsk.edu.bd
 career.ibmcr.edu.bd
@@ -41,6 +46,7 @@ cpanel.aucm.edu.bd
 cpanel.bhsch.edu.bd
 cpanel.chandigarhighschool.edu.bd
 cpanel.dlmch.edu.bd
+cpanel.jannahighschool.edu.bd
 cpanel.jmlmss.edu.bd
 cpanel.kharoilhighschool.edu.bd
 cpanel.mbc.edu.bd
@@ -50,6 +56,7 @@ cpcalendars.aucm.edu.bd
 cpcalendars.bhsch.edu.bd
 cpcalendars.chandigarhighschool.edu.bd
 cpcalendars.dlmch.edu.bd
+cpcalendars.jannahighschool.edu.bd
 cpcalendars.kharoilhighschool.edu.bd
 cpcalendars.mbc.edu.bd
 cpcalendars.mpwdc.edu.bd
@@ -57,6 +64,7 @@ cpcontacts.aucm.edu.bd
 cpcontacts.bhsch.edu.bd
 cpcontacts.chandigarhighschool.edu.bd
 cpcontacts.dlmch.edu.bd
+cpcontacts.jannahighschool.edu.bd
 cpcontacts.kharoilhighschool.edu.bd
 cpcontacts.mbc.edu.bd
 cpcontacts.mpwdc.edu.bd
@@ -79,6 +87,7 @@ ems.dhakaboysandgirlscollege.edu.bd
 eschool.ekdhs.edu.bd
 fakirparahighschool.edu.bd
 faridpurgghs.edu.bd
+fhighschool.edu.bd
 fnc.edu.bd
 fss.edu.bd
 ftp.jmlmss.edu.bd
@@ -88,6 +97,7 @@ ganapaddyhs.edu.bd
 ganaughsc.edu.bd
 garjaripaadsdm.edu.bd
 gebt.just.edu.bd
+gipi.edu.bd
 gobindapurhsgbc.edu.bd
 gsnsc.edu.bd
 ham107347.edu.bd
@@ -98,6 +108,7 @@ imperial.edu.bd
 iqac.butex.edu.bd
 islampurcollege.edu.bd
 jam.edu.bd
+jannahighschool.edu.bd
 jhedm.edu.bd
 jisc.edu.bd
 jmlmss.edu.bd
@@ -121,10 +132,12 @@ madrasah.al-ihsanhighschool.edu.bd
 mail.aucm.edu.bd
 mail.baznabogirlshighschool.edu.bd
 mail.bhsch.edu.bd
+mail.bsmhschool.edu.bd
 mail.chandigarhighschool.edu.bd
 mail.dlmch.edu.bd
 mail.ibitsylhet.edu.bd
 mail.jam.edu.bd
+mail.jannahighschool.edu.bd
 mail.jmlmss.edu.bd
 mail.kharoilhighschool.edu.bd
 mail.mbc.edu.bd
@@ -176,6 +189,7 @@ rpsu.edu.bd
 s.baznabogirlshighschool.edu.bd
 saahhs.edu.bd
 sadekpuridm.edu.bd
+saitaliadakhilmadrasha.edu.bd
 salamatiafeni.edu.bd
 sarmhs.edu.bd
 school.aiscag.edu.bd
@@ -202,6 +216,7 @@ webdisk.aucm.edu.bd
 webdisk.bhsch.edu.bd
 webdisk.chandigarhighschool.edu.bd
 webdisk.dlmch.edu.bd
+webdisk.jannahighschool.edu.bd
 webdisk.kharoilhighschool.edu.bd
 webdisk.mbc.edu.bd
 webdisk.mpwdc.edu.bd
@@ -210,6 +225,7 @@ webmail.bhsch.edu.bd
 webmail.chandigarhighschool.edu.bd
 webmail.dlmch.edu.bd
 webmail.islampurcollege.edu.bd
+webmail.jannahighschool.edu.bd
 webmail.jmlmss.edu.bd
 webmail.kharoilhighschool.edu.bd
 webmail.mbc.edu.bd
@@ -225,8 +241,10 @@ www.aucm.edu.bd
 www.auth.just.edu.bd
 www.baznabogirlshighschool.edu.bd
 www.beta.amcb.edu.bd
+www.bhatparancguptahighschool.edu.bd
 www.bhaturiaschoolandcollege.edu.bd
 www.bhsch.edu.bd
+www.bsmhschool.edu.bd
 www.bsschoolandcollege.edu.bd
 www.campus-bw.mcsk.edu.bd
 www.career.ibmcr.edu.bd
@@ -247,6 +265,7 @@ www.iqac.butex.edu.bd
 www.islampurcollege.edu.bd
 www.it.bcps.edu.bd
 www.jam.edu.bd
+www.jannahighschool.edu.bd
 www.jmlmss.edu.bd
 www.kharoilhighschool.edu.bd
 www.lobjancghsc.edu.bd
@@ -275,6 +294,7 @@ www.result.bcps.edu.bd
 www.rtm-admin.bcps.edu.bd
 www.s.baznabogirlshighschool.edu.bd
 www.sadekpuridm.edu.bd
+www.saitaliadakhilmadrasha.edu.bd
 www.sfmsj.edu.bd
 www.shailottytbmc.edu.bd
 www.slotterpercaya88.gccc.edu.bd
