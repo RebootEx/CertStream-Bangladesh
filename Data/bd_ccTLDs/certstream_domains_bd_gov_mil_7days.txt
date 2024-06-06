@@ -26,6 +26,7 @@ automationtest.bepza.gov.bd
 award.gov.bd
 award.sheikhrussel.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
+ballabhdiup.faridpurlg.gov.bd
 bangladesh.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
@@ -120,6 +121,7 @@ demo.rmch.gov.bd
 dev.digitalliteracy.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
+dghs.gov.bd
 dhakalabsbcsir.gov.bd
 dhamraitsc.gov.bd
 dis.btrc.gov.bd
@@ -133,6 +135,7 @@ dyd-dev.niseee.gov.bd
 e-tax-nbr.gov.bd
 ebook.cmmc.gov.bd
 ebook.land.gov.bd
+edu.bd.gbrcr.gov.bd
 eff-hsc.dinajpurboard.gov.bd
 elearning.ec4j.gov.bd
 email.ops.a2i.gov.bd
@@ -182,6 +185,7 @@ kalamridhaup.faridpurlg.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
 kishoreganjtsc.gov.bd
+korakdiup.faridpurlg.gov.bd
 kpi.gov.bd
 krishnanagarup.faridpurlg.gov.bd
 lms.ipemis.dpe.gov.bd
@@ -200,6 +204,7 @@ mail.moulvibazartsc.gov.bd
 mail.mrccdhk.dos.gov.bd
 mail.railwaypolice.gov.bd
 mail.server.melandahbhata.gov.bd
+mail.shmrmi.gov.bd
 mail.srijon.gov.bd
 mail.tscgopal.gov.bd
 mail.usc.dghs.gov.bd
@@ -280,6 +285,8 @@ sgtc.gov.bd
 sheikhrussel.gov.bd
 shekharup.faridpurlg.gov.bd
 shiprecycling.gov.bd
+shmcj.gov.bd
+shmrmi.gov.bd
 shsmch.gov.bd
 sicip.gov.bd
 smartandikot.gov.bd
@@ -361,6 +368,7 @@ webmail.moulvibazartsc.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.railwaypolice.gov.bd
 webmail.server.melandahbhata.gov.bd
+webmail.shmrmi.gov.bd
 webmail.srijon.gov.bd
 webmail.tscgopal.gov.bd
 whm.bepza.gov.bd
@@ -379,6 +387,7 @@ www.atgharup.faridpurlg.gov.bd
 www.award.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
+www.ballabhdiup.faridpurlg.gov.bd
 www.ban-fima-web.fima.gov.bd
 www.barlekhamunicipality.gov.bd
 www.bck.beza.gov.bd
@@ -428,6 +437,7 @@ www.kalamridhaup.faridpurlg.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
 www.kishoreganjtsc.gov.bd
+www.korakdiup.faridpurlg.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.madhukhaliup.faridpurlg.gov.bd
 www.mail.ar.gameapp.gov.bd
@@ -436,6 +446,7 @@ www.manirampurmunicipality.gov.bd
 www.mazadiaup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.mohakaliup.munshiganjlg.gov.bd
+www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moulvibazartsc.gov.bd
 www.nationalmuseumticket.gov.bd
 www.new.rgamc.gov.bd
@@ -463,6 +474,7 @@ www.server1.beza.gov.bd
 www.server2.beza.gov.bd
 www.sheikhrussel.gov.bd
 www.shekharup.faridpurlg.gov.bd
+www.shmrmi.gov.bd
 www.sicip.gov.bd
 www.smartandikot.gov.bd
 www.smartbangladesh.gov.bd
