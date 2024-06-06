@@ -1,6 +1,7 @@
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
 autodiscover.bpemc.gov.bd
+backup.fima.gov.bd
 bdp.gov.bd
 beta.nicrh.gov.bd
 bpemc.gov.bd
@@ -45,6 +46,7 @@ uniontax.gov.bd
 upmymensinghholdingtax.gov.bd
 webdisk.bpemc.gov.bd
 webmail.bpemc.gov.bd
+www.backup.fima.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.beta.nicrh.gov.bd
 www.bpemc.gov.bd
