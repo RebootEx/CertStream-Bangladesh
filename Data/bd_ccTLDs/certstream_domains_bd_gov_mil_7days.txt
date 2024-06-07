@@ -27,6 +27,7 @@ autodiscover.tscgopal.gov.bd
 automationtest.bepza.gov.bd
 award.gov.bd
 award.sheikhrussel.gov.bd
+backup.fima.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bangladesh.gov.bd
@@ -34,6 +35,7 @@ barishal.gov.bd
 barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
 bck.beza.gov.bd
+bdp.gov.bd
 bdrisnotification.dghs.gov.bd
 beeer.sreda.gov.bd
 bepza.gov.bd
@@ -53,9 +55,11 @@ bsfmstu.gameapp.gov.bd
 bteb-dev.niseee.gov.bd
 btriapps.gov.bd
 caabhc.gov.bd
+cafocommerce.gov.bd
 cafocultural.gov.bd
 cafohome.gov.bd
 cafolaw.gov.bd
+cafolgd.gov.bd
 cafomefcc.gov.bd
 cafomofl.gov.bd
 cafomolwa.gov.bd
@@ -201,6 +205,7 @@ kmch.gov.bd
 kmpi.gov.bd
 korakdiup.faridpurlg.gov.bd
 kpi.gov.bd
+kranti.bamis.gov.bd
 krishnanagarup.faridpurlg.gov.bd
 lms.ipemis.dpe.gov.bd
 logo.smartbangladesh.gov.bd
@@ -211,8 +216,10 @@ mail.ar.gameapp.gov.bd
 mail.award.gov.bd
 mail.bepza.gov.bd
 mail.bpemc.gov.bd
+mail.bsfmstu.gameapp.gov.bd
 mail.cgpoura.gov.bd
 mail.drodhaka.gov.bd
+mail.du.gameapp.gov.bd
 mail.jamalpurttc.gov.bd
 mail.kishoreganjtsc.gov.bd
 mail.kmpi.gov.bd
@@ -245,6 +252,7 @@ mujib100sfc.gov.bd
 munshiganjtsc.gov.bd
 myconstituency.gov.bd
 mygov.gov.bd
+mymail.ssnimc.gov.bd
 nameandage.dinajpurboard.gov.bd
 nascib-dev.niseee.gov.bd
 nationalmuseumticket.gov.bd
@@ -262,8 +270,10 @@ panel.adolnutrireporting.nnsop.gov.bd
 patharghatapourashava.gov.bd
 pbrlp.gov.bd
 pcb-doe.gov.bd
+pdb.shrlive.dghs.gov.bd
 photo.pmo.gov.bd
 pibstore.gnc.gov.bd
+plandiv.gov.bd
 play.betarcommercialservice.gov.bd
 portal.coop.gov.bd
 previous.bajitpurpaurashava.gov.bd
@@ -287,6 +297,7 @@ rpclorg2.bpemc.gov.bd
 rpi.gov.bd
 rpl-dev.niseee.gov.bd
 rrfrangpur.gov.bd
+saadatcollege.gov.bd
 sadai.gov.bd
 saidpurcollege.gov.bd
 sam.nnsop.gov.bd
@@ -302,6 +313,7 @@ server2.beza.gov.bd
 service.gov.bd
 services.nha.gov.bd
 sfcarmy.gov.bd
+sfcnavy.gov.bd
 sgtc.gov.bd
 sheikhrussel.gov.bd
 shekharup.faridpurlg.gov.bd
@@ -321,6 +333,7 @@ sp.sicip.gov.bd
 spst.gov.bd
 sreda.gov.bd
 srijon.gov.bd
+srishtitetulia.gov.bd
 ssnimc.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
@@ -411,6 +424,7 @@ www.api.padmamuseum.gov.bd
 www.apps.jamalpurttc.gov.bd
 www.atgharup.faridpurlg.gov.bd
 www.award.gov.bd
+www.backup.fima.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
@@ -464,14 +478,18 @@ www.innovation.ansarvdpbank.gov.bd
 www.itasset.ansarvdpbank.gov.bd
 www.jamalpurttc.gov.bd
 www.kalamridhaup.faridpurlg.gov.bd
+www.kamargaon.upmymensinghholdingtax.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
 www.kishoreganjtsc.gov.bd
 www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
+www.kranti.bamis.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.madhukhaliup.faridpurlg.gov.bd
 www.mail.ar.gameapp.gov.bd
+www.mail.bsfmstu.gameapp.gov.bd
+www.mail.du.gameapp.gov.bd
 www.mail.sreda.gov.bd
 www.manirampurmunicipality.gov.bd
 www.mazadiaup.faridpurlg.gov.bd
@@ -479,6 +497,7 @@ www.mehendiganjpourashava.gov.bd
 www.mohakaliup.munshiganjlg.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moulvibazartsc.gov.bd
+www.mymail.ssnimc.gov.bd
 www.nationalmuseumticket.gov.bd
 www.new.rgamc.gov.bd
 www.ntrc.gameapp.gov.bd
@@ -500,6 +519,7 @@ www.report.ec4j.gov.bd
 www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
+www.saadatcollege.gov.bd
 www.sadai.gov.bd
 www.satairup.faridpurlg.gov.bd
 www.seip-fd.gov.bd
@@ -534,5 +554,6 @@ www.vwb.melandahbhata.gov.bd
 www.zpkurigram.gov.bd
 youth-dev.niseee.gov.bd
 zpdinajpur.gov.bd
+zpjashore.gov.bd
 zpkurigram.gov.bd
 zprajbari.gov.bd
