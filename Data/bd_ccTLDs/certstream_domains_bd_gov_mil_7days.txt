@@ -18,6 +18,7 @@ atgharup.faridpurlg.gov.bd
 autoconfig.bepza.gov.bd
 autoconfig.server.melandahbhata.gov.bd
 autodiscover.bepza.gov.bd
+autodiscover.bpemc.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
 autodiscover.mrccdhk.dos.gov.bd
 autodiscover.railwaypolice.gov.bd
@@ -45,6 +46,7 @@ billing.bscl.gov.bd
 biwtahydrographicdata.gov.bd
 bogura.gov.bd
 bpdbivvr.gov.bd
+bpemc.gov.bd
 bpo.farmbroadcast.gov.bd
 bscic-emarket.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -57,6 +59,7 @@ cafolaw.gov.bd
 cafomefcc.gov.bd
 cafomofl.gov.bd
 cafomolwa.gov.bd
+cafoparliament.gov.bd
 caforeligious.gov.bd
 card.shrlive.dghs.gov.bd
 career.nilmrcbd.gov.bd
@@ -78,11 +81,13 @@ covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpanel.award.gov.bd
 cpanel.bepza.gov.bd
+cpanel.bpemc.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.cgpoura.gov.bd
 cpanel.drodhaka.gov.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.kishoreganjtsc.gov.bd
+cpanel.kmpi.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.oss.bepza.gov.bd
 cpanel.railwaypolice.gov.bd
@@ -91,10 +96,12 @@ cpanel.srijon.gov.bd
 cpanel.tscgopal.gov.bd
 cpcalendars.award.gov.bd
 cpcalendars.bepza.gov.bd
+cpcalendars.bpemc.gov.bd
 cpcalendars.cgpoura.gov.bd
 cpcalendars.drodhaka.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
+cpcalendars.kmpi.gov.bd
 cpcalendars.oss.bepza.gov.bd
 cpcalendars.railwaypolice.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
@@ -102,10 +109,12 @@ cpcalendars.srijon.gov.bd
 cpcalendars.tscgopal.gov.bd
 cpcontacts.award.gov.bd
 cpcontacts.bepza.gov.bd
+cpcontacts.bpemc.gov.bd
 cpcontacts.cgpoura.gov.bd
 cpcontacts.drodhaka.gov.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
+cpcontacts.kmpi.gov.bd
 cpcontacts.oss.bepza.gov.bd
 cpcontacts.railwaypolice.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
@@ -141,6 +150,7 @@ edu.bd.gbrcr.gov.bd
 eff-hsc.dinajpurboard.gov.bd
 elearning.ec4j.gov.bd
 email.ops.a2i.gov.bd
+enoc.fireservice.gov.bd
 eprocure.gov.bd
 erl.gov.bd
 erp.icmab.gov.bd
@@ -187,6 +197,8 @@ kalamridhaup.faridpurlg.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
 kishoreganjtsc.gov.bd
+kmch.gov.bd
+kmpi.gov.bd
 korakdiup.faridpurlg.gov.bd
 kpi.gov.bd
 krishnanagarup.faridpurlg.gov.bd
@@ -198,10 +210,12 @@ mail.akkelpurmunicipality.gov.bd
 mail.ar.gameapp.gov.bd
 mail.award.gov.bd
 mail.bepza.gov.bd
+mail.bpemc.gov.bd
 mail.cgpoura.gov.bd
 mail.drodhaka.gov.bd
 mail.jamalpurttc.gov.bd
 mail.kishoreganjtsc.gov.bd
+mail.kmpi.gov.bd
 mail.moulvibazartsc.gov.bd
 mail.mrccdhk.dos.gov.bd
 mail.railwaypolice.gov.bd
@@ -237,6 +251,7 @@ nationalmuseumticket.gov.bd
 ncc.gov.bd
 new.rgamc.gov.bd
 nise-dev.niseee.gov.bd
+ntp.gov.bd
 ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
 onlinetc.dinajpurboard.gov.bd
@@ -266,6 +281,9 @@ report.ec4j.gov.bd
 report.gov.bd
 rims.dgda.gov.bd
 ror.dc-rangamati.gov.bd
+rpcl-org-bd.bpemc.gov.bd
+rpclorg.bpemc.gov.bd
+rpclorg2.bpemc.gov.bd
 rpi.gov.bd
 rpl-dev.niseee.gov.bd
 rrfrangpur.gov.bd
@@ -300,6 +318,7 @@ soltrack.gov.bd
 sonalibank.gov.bd
 sp.seip-fd.gov.bd
 sp.sicip.gov.bd
+spst.gov.bd
 sreda.gov.bd
 srijon.gov.bd
 ssnimc.gov.bd
@@ -351,10 +370,12 @@ web.jamalpurttc.gov.bd
 webcon.bcc.gov.bd
 webdisk.award.gov.bd
 webdisk.bepza.gov.bd
+webdisk.bpemc.gov.bd
 webdisk.cgpoura.gov.bd
 webdisk.drodhaka.gov.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.kishoreganjtsc.gov.bd
+webdisk.kmpi.gov.bd
 webdisk.oss.bepza.gov.bd
 webdisk.railwaypolice.gov.bd
 webdisk.server.melandahbhata.gov.bd
@@ -362,11 +383,13 @@ webdisk.srijon.gov.bd
 webdisk.tscgopal.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.award.gov.bd
+webmail.bpemc.gov.bd
 webmail.caabhc.gov.bd
 webmail.cgpoura.gov.bd
 webmail.drodhaka.gov.bd
 webmail.jamalpurttc.gov.bd
 webmail.kishoreganjtsc.gov.bd
+webmail.kmpi.gov.bd
 webmail.moulvibazartsc.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.railwaypolice.gov.bd
@@ -398,6 +421,7 @@ www.beeer.sreda.gov.bd
 www.bepza.gov.bd
 www.beta.nicrh.gov.bd
 www.bhawalup.faridpurlg.gov.bd
+www.bpemc.gov.bd
 www.bpo.farmbroadcast.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.btbkschools.btriapps.gov.bd
@@ -427,8 +451,10 @@ www.du.gameapp.gov.bd
 www.dutipata.btriapps.gov.bd
 www.ebongobondhu.ansarvdpbank.gov.bd
 www.elearning.ec4j.gov.bd
+www.elmis.ntp.gov.bd
 www.erl.gov.bd
 www.erp.sreda.gov.bd
+www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
@@ -441,6 +467,7 @@ www.kalamridhaup.faridpurlg.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
 www.kishoreganjtsc.gov.bd
+www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.krishnanagarup.faridpurlg.gov.bd
 www.madhukhaliup.faridpurlg.gov.bd
@@ -470,6 +497,9 @@ www.rampalup.munshiganjlg.gov.bd
 www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
+www.rpcl-org-bd.bpemc.gov.bd
+www.rpclorg.bpemc.gov.bd
+www.rpclorg2.bpemc.gov.bd
 www.sadai.gov.bd
 www.satairup.faridpurlg.gov.bd
 www.seip-fd.gov.bd
