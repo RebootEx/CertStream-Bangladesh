@@ -19,6 +19,7 @@ autodiscover.basacfulkuri.edu.bd
 autodiscover.birholyhs.edu.bd
 autodiscover.bmssc.edu.bd
 autodiscover.chakrashalakhs.edu.bd
+autodiscover.chaksimlahighschool.edu.bd
 autodiscover.chuniagarihighschool.edu.bd
 autodiscover.kaikurirmhs.edu.bd
 autodiscover.rammohanhs.edu.bd
@@ -59,6 +60,7 @@ cddm1.edu.bd
 cgs.edu.bd
 chakrashalakhs.edu.bd
 chakri.top.ptgdm.edu.bd
+chaksimlahighschool.edu.bd
 chapatalilfmadrasah.edu.bd
 chourait.edu.bd
 chuniagarihighschool.edu.bd
@@ -72,6 +74,7 @@ cpanel.birholyhs.edu.bd
 cpanel.bmssc.edu.bd
 cpanel.cddm1.edu.bd
 cpanel.chakrashalakhs.edu.bd
+cpanel.chaksimlahighschool.edu.bd
 cpanel.chapatalilfmadrasah.edu.bd
 cpanel.chuniagarihighschool.edu.bd
 cpanel.kaikurirmhs.edu.bd
@@ -88,6 +91,7 @@ cpcalendars.birholyhs.edu.bd
 cpcalendars.bmssc.edu.bd
 cpcalendars.cddm1.edu.bd
 cpcalendars.chakrashalakhs.edu.bd
+cpcalendars.chaksimlahighschool.edu.bd
 cpcalendars.chapatalilfmadrasah.edu.bd
 cpcalendars.chuniagarihighschool.edu.bd
 cpcalendars.kaikurirmhs.edu.bd
@@ -105,6 +109,7 @@ cpcontacts.birholyhs.edu.bd
 cpcontacts.bmssc.edu.bd
 cpcontacts.cddm1.edu.bd
 cpcontacts.chakrashalakhs.edu.bd
+cpcontacts.chaksimlahighschool.edu.bd
 cpcontacts.chapatalilfmadrasah.edu.bd
 cpcontacts.chuniagarihighschool.edu.bd
 cpcontacts.kaikurirmhs.edu.bd
@@ -181,6 +186,7 @@ jhedm.edu.bd
 jis.edu.bd
 jobs.smuct.edu.bd
 jogardiahs.edu.bd
+jpss.edu.bd
 kaikurirmhs.edu.bd
 kajrghs.edu.bd
 kalabagisss1992.edu.bd
@@ -195,6 +201,7 @@ kewatomiruddinalimmadrasha.edu.bd
 khanbahadurahcollege.edu.bd
 kkim.edu.bd
 kmm118600.edu.bd
+kochikantha.edu.bd
 kpbhs.edu.bd
 kscbmt.edu.bd
 ksimohilacollege.edu.bd
@@ -218,12 +225,14 @@ mail.birholyhs.edu.bd
 mail.bmssc.edu.bd
 mail.cddm1.edu.bd
 mail.chakrashalakhs.edu.bd
+mail.chaksimlahighschool.edu.bd
 mail.chapatalilfmadrasah.edu.bd
 mail.chuniagarihighschool.edu.bd
 mail.dighirparacb.edu.bd
 mail.kaikurirmhs.edu.bd
 mail.kewatomiruddinalimmadrasha.edu.bd
 mail.kkim.edu.bd
+mail.kochikantha.edu.bd
 mail.latifpuralimmadrasah.edu.bd
 mail.nbhschool.edu.bd
 mail.rammohanhs.edu.bd
@@ -250,6 +259,7 @@ morakorihsc.edu.bd
 msidm.edu.bd
 msmc.edu.bd
 msnsc.edu.bd
+muahs.edu.bd
 mufm118584.edu.bd
 mumiam.edu.bd
 narsingdizpbpaschool.edu.bd
@@ -286,12 +296,14 @@ sdco.edu.bd
 shaheedsmrity.edu.bd
 shaistaganjhighschool.edu.bd
 shalikhaschool.edu.bd
+shasc.edu.bd
 shuhilpurabsfm.edu.bd
 shyamolimats.edu.bd
 shyamolinursing.edu.bd
 singarolhs.edu.bd
 singherkathimlhs.edu.bd
 sjgss.edu.bd
+slotgacorgampangmaxwin.gccc.edu.bd
 smcr.edu.bd
 sms.lmbhs.edu.bd
 smsc.edu.bd
@@ -314,6 +326,7 @@ tazekprodhanschool.edu.bd
 teestakrkhs.edu.bd
 teghoriamodelhighschool.edu.bd
 terosreecollege.edu.bd
+test.bubt.edu.bd
 trailokyanathghs.edu.bd
 traumaimt.edu.bd
 traumainstitute.edu.bd
@@ -322,6 +335,7 @@ traumanursing.edu.bd
 traumawomensmats.edu.bd
 traumawomensmats.edu.bd.traumainstitute.edu.bd
 ubc.edu.bd
+ucimt.edu.bd
 uttardahighschool.edu.bd
 visitors.green.edu.bd
 voiceofsydney.khkhsm.edu.bd
@@ -336,6 +350,7 @@ webdisk.birholyhs.edu.bd
 webdisk.bmssc.edu.bd
 webdisk.cddm1.edu.bd
 webdisk.chakrashalakhs.edu.bd
+webdisk.chaksimlahighschool.edu.bd
 webdisk.chapatalilfmadrasah.edu.bd
 webdisk.chuniagarihighschool.edu.bd
 webdisk.kaikurirmhs.edu.bd
@@ -353,6 +368,7 @@ webmail.birholyhs.edu.bd
 webmail.bmssc.edu.bd
 webmail.cddm1.edu.bd
 webmail.chakrashalakhs.edu.bd
+webmail.chaksimlahighschool.edu.bd
 webmail.chapatalilfmadrasah.edu.bd
 webmail.chuniagarihighschool.edu.bd
 webmail.kaikurirmhs.edu.bd
@@ -384,6 +400,7 @@ www.cddm1.edu.bd
 www.cgs.edu.bd
 www.chakrashalakhs.edu.bd
 www.chakri.top.ptgdm.edu.bd
+www.chaksimlahighschool.edu.bd
 www.chapatalilfmadrasah.edu.bd
 www.chourait.edu.bd
 www.chuniagarihighschool.edu.bd
@@ -412,6 +429,7 @@ www.kandischool.edu.bd
 www.kayanizparahs.edu.bd
 www.kewatomiruddinalimmadrasha.edu.bd
 www.kkim.edu.bd
+www.kochikantha.edu.bd
 www.kphighschool.kalakopakpschool.edu.bd
 www.latifpuralimmadrasah.edu.bd
 www.lawfair.amhc.edu.bd
