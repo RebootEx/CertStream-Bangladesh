@@ -1,16 +1,21 @@
 amumc.gov.bd
+autodiscover.pabnatsc.gov.bd
 backup.fima.gov.bd
 ballabhdiup.faridpurlg.gov.bd
+bcms.gov.bd
 beta.nicrh.gov.bd
 cafoeducation.gov.bd
 cafoptd.gov.bd
 cmmc.gov.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.kmpi.gov.bd
+cpanel.pabnatsc.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kmpi.gov.bd
+cpcalendars.pabnatsc.gov.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kmpi.gov.bd
+cpcontacts.pabnatsc.gov.bd
 customs.gov.bd
 dgf.gov.bd
 dhakala.gov.bd
@@ -30,6 +35,7 @@ korakdiup.faridpurlg.gov.bd
 kranti.bamis.gov.bd
 mail.jamalpurttc.gov.bd
 mail.kmpi.gov.bd
+mail.pabnatsc.gov.bd
 mail.shmrmi.gov.bd
 mail.usc.dghs.gov.bd
 narailpourashava.gov.bd
@@ -40,6 +46,7 @@ nnsop.gov.bd
 notice.bavs.gov.bd
 ntp.gov.bd
 nutritionprofile.gov.bd
+pabnatsc.gov.bd
 rpi.gov.bd
 shmrmi.gov.bd
 singramunicipality.gov.bd
@@ -50,8 +57,10 @@ unomagurasadar.gov.bd
 upmymensinghholdingtax.gov.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.kmpi.gov.bd
+webdisk.pabnatsc.gov.bd
 webmail.jamalpurttc.gov.bd
 webmail.kmpi.gov.bd
+webmail.pabnatsc.gov.bd
 webmail.shmrmi.gov.bd
 www.backup.fima.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
@@ -67,6 +76,7 @@ www.kranti.bamis.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.new.bhtpa.gov.bd
 www.notice.bavs.gov.bd
+www.pabnatsc.gov.bd
 www.shmrmi.gov.bd
 www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
