@@ -10,6 +10,7 @@ amumc.gov.bd
 ansarvdpbank.gov.bd
 api.edp.gov.bd
 api.padmamuseum.gov.bd
+app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
 apps.jamalpurttc.gov.bd
@@ -26,6 +27,7 @@ backup.fima.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bangladesh.gov.bd
+bargunamunicipality.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
@@ -109,6 +111,7 @@ cpcontacts.tscgopal.gov.bd
 cptu.gov.bd
 ct.taxeszoneonedhaka.gov.bd
 cumilla.gov.bd
+customs.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dbwctp64.gov.bd
 demo.krishibatighor.gov.bd
@@ -116,6 +119,7 @@ demo.rmch.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
 dghs.gov.bd
+dhakala.gov.bd
 dhakalabsbcsir.gov.bd
 dhamraitsc.gov.bd
 dis.btrc.gov.bd
@@ -133,6 +137,7 @@ eff-hsc.dinajpurboard.gov.bd
 elearning.ec4j.gov.bd
 email.ops.a2i.gov.bd
 enoc.fireservice.gov.bd
+epassport1.bpodms.gov.bd
 eprocure.gov.bd
 erl.gov.bd
 erp.icmab.gov.bd
@@ -177,6 +182,7 @@ judiciary.gov.bd
 jury.ric.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
+khaac.gov.bd
 kishoreganjtsc.gov.bd
 kmch.gov.bd
 kmpi.gov.bd
@@ -188,6 +194,7 @@ madhukhaliup.faridpurlg.gov.bd
 maheshpurpourashava.gov.bd
 mail.akkelpurmunicipality.gov.bd
 mail.ar.gameapp.gov.bd
+mail.bargunamunicipality.gov.bd
 mail.bepza.gov.bd
 mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
@@ -230,6 +237,7 @@ nationalmuseumticket.gov.bd
 ncc.gov.bd
 new.bhtpa.gov.bd
 new.rgamc.gov.bd
+news.cid.gov.bd
 nis.cabinet.gov.bd
 nise-dev.niseee.gov.bd
 ntp.gov.bd
@@ -293,6 +301,7 @@ shmcj.gov.bd
 shmrmi.gov.bd
 shsmch.gov.bd
 sicip.gov.bd
+singramunicipality.gov.bd
 smartandikot.gov.bd
 smartbangladesh.gov.bd
 smartkrishimarket.gov.bd
@@ -347,6 +356,7 @@ uniontax.gov.bd
 unomagurasadar.gov.bd
 upmymensinghholdingtax.gov.bd
 vaxepi.gov.bd
+verification.dos.gov.bd
 volunteer.ekshop.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
@@ -395,6 +405,7 @@ www.bajrajoginiup.munshiganjlg.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
 www.ban-fima-web.fima.gov.bd
+www.bargunamunicipality.gov.bd
 www.barlekhamunicipality.gov.bd
 www.bck.beza.gov.bd
 www.beeer.sreda.gov.bd
@@ -434,6 +445,7 @@ www.erl.gov.bd
 www.erp.sreda.gov.bd
 www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
+www.faridganjmunicipality.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.group.ansarvdpbank.gov.bd
 www.ihtbogura.gov.bd
@@ -461,6 +473,7 @@ www.mymail.ssnimc.gov.bd
 www.nationalmuseumticket.gov.bd
 www.new.bhtpa.gov.bd
 www.new.rgamc.gov.bd
+www.news.cid.gov.bd
 www.ntrc.gameapp.gov.bd
 www.outsp.kmch.gov.bd
 www.panchagarhmunicipality.gov.bd
@@ -497,6 +510,7 @@ www.smartteasolutions.btriapps.gov.bd
 www.software.dbwctp64.gov.bd
 www.somotolercha.btriapps.gov.bd
 www.sujanagarmunicipality.gov.bd
+www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
 www.taloramunicipality.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
@@ -507,6 +521,7 @@ www.tscgopal.gov.bd
 www.tujerpurup.faridpurlg.gov.bd
 www.ullaparapaurashava.gov.bd
 www.vaxepi.gov.bd
+www.verification.dos.gov.bd
 www.volunteer.ekshop.gov.bd
 www.vwb.melandahbhata.gov.bd
 www.zpkurigram.gov.bd
