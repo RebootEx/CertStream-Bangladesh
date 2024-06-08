@@ -42,7 +42,9 @@ gameapp.gov.bd
 gdc.gov.bd
 gis.bwdb.gov.bd
 gobindagonjpourashava.gov.bd
+hmis.dghs.gov.bd
 hosenabadtsc.gov.bd
+ilab.gov.bd
 info.shr.dghs.gov.bd
 ipam.dghs.gov.bd
 ispr.gov.bd
@@ -61,6 +63,7 @@ noakhalicoll.gov.bd
 nogorapp.scc.gov.bd
 nohs.navy.mil.bd
 omsdebidwar.gov.bd
+onlineexam.gbrcr.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 pallisanchaybank.gov.bd
@@ -77,6 +80,8 @@ tphsbagmara.gov.bd
 tradelicence.scc.gov.bd
 turn.vc8.bcc.gov.bd
 verification.dos.gov.bd
+vr.bangabhaban.gov.bd
+vr.gameapp.gov.bd
 water.scc.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
@@ -98,8 +103,10 @@ www.citizen.scc.gov.bd
 www.cpadmin.scc.gov.bd
 www.faridganjmunicipality.gov.bd
 www.gobindagonjpourashava.gov.bd
+www.ilab.gov.bd
 www.ispr.gov.bd
 www.nogorapp.scc.gov.bd
+www.onlineexam.gbrcr.gov.bd
 www.sfcworks.gov.bd
 www.smartlgd.dcsherpurinfo.gov.bd
 www.tangailtsc.gov.bd
