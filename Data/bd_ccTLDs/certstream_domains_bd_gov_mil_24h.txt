@@ -5,6 +5,7 @@ app.jhalokathimunicipality.gov.bd
 autodiscover.cafoemrd.gov.bd
 autodiscover.cafoshipping.gov.bd
 autodiscover.sfcworks.gov.bd
+autodiscover.tangailtsc.gov.bd
 aviation.bmd.gov.bd
 bargunamunicipality.gov.bd
 bcms.gov.bd
@@ -19,15 +20,18 @@ cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.gobindagonjpourashava.gov.bd
 cpanel.sfcworks.gov.bd
+cpanel.tangailtsc.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.gobindagonjpourashava.gov.bd
 cpcalendars.sfcworks.gov.bd
+cpcalendars.tangailtsc.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.gobindagonjpourashava.gov.bd
 cpcontacts.sfcworks.gov.bd
+cpcontacts.tangailtsc.gov.bd
 durjog.gov.bd
 epassport1.bpodms.gov.bd
 faridganjmunicipality.gov.bd
@@ -45,6 +49,7 @@ mail.cafoemrd.gov.bd
 mail.cafoshipping.gov.bd
 mail.gobindagonjpourashava.gov.bd
 mail.sfcworks.gov.bd
+mail.tangailtsc.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mta-sts.nothi.gov.bd
 nogorapp.scc.gov.bd
@@ -57,6 +62,7 @@ pibelearning.gov.bd
 rpi.gov.bd
 sfcworks.gov.bd
 sonaimuripaurashava.gov.bd
+tangailtsc.gov.bd
 taxeszone5dhaka.gov.bd
 testingapp.srngih.gov.bd
 tphsbagmara.gov.bd
@@ -68,10 +74,12 @@ webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.gobindagonjpourashava.gov.bd
 webdisk.sfcworks.gov.bd
+webdisk.tangailtsc.gov.bd
 webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.gobindagonjpourashava.gov.bd
 webmail.sfcworks.gov.bd
+webmail.tangailtsc.gov.bd
 www.admin-server.rpi.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.bargunamunicipality.gov.bd
@@ -85,6 +93,7 @@ www.gobindagonjpourashava.gov.bd
 www.ispr.gov.bd
 www.nogorapp.scc.gov.bd
 www.sfcworks.gov.bd
+www.tangailtsc.gov.bd
 www.taxeszone5dhaka.gov.bd
 www.test.omsdebidwar.gov.bd
 www.testingapp.srngih.gov.bd
