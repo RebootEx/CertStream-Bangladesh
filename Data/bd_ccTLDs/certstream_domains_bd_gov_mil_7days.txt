@@ -3,6 +3,7 @@ admin.janatarsarkar.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 adolnutrireporting.nnsop.gov.bd
 agecorrection.dinajpurboard.gov.bd
+akcc.gov.bd
 akkelpurmunicipality.gov.bd
 akotercharup.faridpurlg.gov.bd
 amumc.gov.bd
@@ -20,6 +21,7 @@ autodiscover.mrccdhk.dos.gov.bd
 autodiscover.pabnatsc.gov.bd
 autodiscover.railwaypolice.gov.bd
 autodiscover.server.melandahbhata.gov.bd
+autodiscover.tangailtsc.gov.bd
 autodiscover.tscgopal.gov.bd
 award.moysports.gov.bd
 backup.fima.gov.bd
@@ -56,6 +58,7 @@ cafoeducation.gov.bd
 cafolgd.gov.bd
 cafomolwa.gov.bd
 cafoparliament.gov.bd
+cafopower.gov.bd
 cafoptd.gov.bd
 career.nilmrcbd.gov.bd
 ccpc4teens.gov.bd
@@ -87,6 +90,8 @@ cpanel.moulvibazartsc.gov.bd
 cpanel.pabnatsc.gov.bd
 cpanel.railwaypolice.gov.bd
 cpanel.server.melandahbhata.gov.bd
+cpanel.syedpurtsc.gov.bd
+cpanel.tangailtsc.gov.bd
 cpanel.tscgopal.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bpemc.gov.bd
@@ -99,6 +104,8 @@ cpcalendars.kmpi.gov.bd
 cpcalendars.pabnatsc.gov.bd
 cpcalendars.railwaypolice.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
+cpcalendars.syedpurtsc.gov.bd
+cpcalendars.tangailtsc.gov.bd
 cpcalendars.tscgopal.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.cgpoura.gov.bd
@@ -110,6 +117,8 @@ cpcontacts.kmpi.gov.bd
 cpcontacts.pabnatsc.gov.bd
 cpcontacts.railwaypolice.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
+cpcontacts.syedpurtsc.gov.bd
+cpcontacts.tangailtsc.gov.bd
 cpcontacts.tscgopal.gov.bd
 cptu.gov.bd
 ct.taxeszoneonedhaka.gov.bd
@@ -117,6 +126,7 @@ cumilla.gov.bd
 customs.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 dbwctp64.gov.bd
+dcsherpurinfo.gov.bd
 demo.rmch.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
@@ -140,6 +150,7 @@ eff-hsc.dinajpurboard.gov.bd
 elearning.ec4j.gov.bd
 enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
+episurveillance.dghs.gov.bd
 eprocure.gov.bd
 erl.gov.bd
 erp.icmab.gov.bd
@@ -155,6 +166,7 @@ fsc.fireservice.gov.bd
 ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gameapp.gov.bd
+gdc.gov.bd
 gobindagonjpourashava.gov.bd
 golapganjpourashava.gov.bd
 gopalganjpoly.gov.bd
@@ -185,6 +197,7 @@ jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jobportal.shmrmi.gov.bd
 judiciary.gov.bd
+k86sport.fpmu.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
 khaac.gov.bd
@@ -193,6 +206,7 @@ kmch.gov.bd
 kmpi.gov.bd
 korakdiup.faridpurlg.gov.bd
 kranti.bamis.gov.bd
+lgservice.gov.bd
 lms.ipemis.dpe.gov.bd
 logo.smartbangladesh.gov.bd
 madhukhaliup.faridpurlg.gov.bd
@@ -215,6 +229,8 @@ mail.pabnatsc.gov.bd
 mail.railwaypolice.gov.bd
 mail.server.melandahbhata.gov.bd
 mail.shmrmi.gov.bd
+mail.syedpurtsc.gov.bd
+mail.tangailtsc.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.tscgopal.gov.bd
 mail.usc.dghs.gov.bd
@@ -244,6 +260,7 @@ news.police.gov.bd
 nis.cabinet.gov.bd
 nise-dev.niseee.gov.bd
 nnsop.gov.bd
+noakhalicoll.gov.bd
 nogorapp.scc.gov.bd
 nohs.navy.mil.bd
 notice.bavs.gov.bd
@@ -251,6 +268,7 @@ ntp.gov.bd
 ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
 nutritionprofile.gov.bd
+omsdebidwar.gov.bd
 onlineexam.gbrcr.gov.bd
 onlinetc.dinajpurboard.gov.bd
 origin-01.epassport.gov.bd
@@ -272,6 +290,7 @@ profile.nins.gov.bd
 provisioning.alaap.gov.bd
 railwaypolice.gov.bd
 rajshahiboard.gov.bd
+rangamaticollege.gov.bd
 rangamatigmc.gov.bd
 rangamatimunicipality.gov.bd
 reg.dc-rangamati.gov.bd
@@ -322,7 +341,9 @@ stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
 startupbangladesh.gov.bd
 sundarbantourism.bforest.gov.bd
+syedpurtsc.gov.bd
 taloramunicipality.gov.bd
+tangailtsc.gov.bd
 taxappealkhulna.gov.bd
 taxappealzone4dhaka.gov.bd
 taxeszone18dhaka.gov.bd
@@ -375,6 +396,8 @@ webdisk.kmpi.gov.bd
 webdisk.pabnatsc.gov.bd
 webdisk.railwaypolice.gov.bd
 webdisk.server.melandahbhata.gov.bd
+webdisk.syedpurtsc.gov.bd
+webdisk.tangailtsc.gov.bd
 webdisk.tscgopal.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.bpemc.gov.bd
@@ -390,6 +413,8 @@ webmail.pabnatsc.gov.bd
 webmail.railwaypolice.gov.bd
 webmail.server.melandahbhata.gov.bd
 webmail.shmrmi.gov.bd
+webmail.syedpurtsc.gov.bd
+webmail.tangailtsc.gov.bd
 webmail.tscgopal.gov.bd
 whm.server.melandahbhata.gov.bd
 www.1234.melandahbhata.gov.bd
@@ -508,16 +533,20 @@ www.shekharup.faridpurlg.gov.bd
 www.shmrmi.gov.bd
 www.sicip.gov.bd
 www.smartbangladesh.gov.bd
+www.smartlgd.dcsherpurinfo.gov.bd
 www.smartteasolutions.btriapps.gov.bd
 www.software.dbwctp64.gov.bd
 www.somotolercha.btriapps.gov.bd
 www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
+www.syedpurtsc.gov.bd
 www.taloramunicipality.gov.bd
+www.tangailtsc.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.taxeszone5dhaka.gov.bd
 www.teasoft.btriapps.gov.bd
 www.test.gameapp.gov.bd
+www.test.omsdebidwar.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
 www.tscgopal.gov.bd
