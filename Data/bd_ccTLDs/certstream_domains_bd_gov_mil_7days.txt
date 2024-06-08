@@ -21,6 +21,7 @@ autodiscover.bepza.gov.bd
 autodiscover.bpemc.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
 autodiscover.mrccdhk.dos.gov.bd
+autodiscover.pabnatsc.gov.bd
 autodiscover.railwaypolice.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 autodiscover.tscgopal.gov.bd
@@ -33,6 +34,7 @@ barishal.gov.bd
 barishaldiv.gov.bd
 barlekhamunicipality.gov.bd
 bck.beza.gov.bd
+bcms.gov.bd
 bdp.gov.bd
 bdrisnotification.dghs.gov.bd
 beeer.sreda.gov.bd
@@ -86,6 +88,7 @@ cpanel.kishoreganjtsc.gov.bd
 cpanel.kmpi.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.oss.bepza.gov.bd
+cpanel.pabnatsc.gov.bd
 cpanel.railwaypolice.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.tscgopal.gov.bd
@@ -96,6 +99,7 @@ cpcalendars.drodhaka.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kishoreganjtsc.gov.bd
 cpcalendars.kmpi.gov.bd
+cpcalendars.pabnatsc.gov.bd
 cpcalendars.railwaypolice.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.tscgopal.gov.bd
@@ -107,6 +111,7 @@ cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
 cpcontacts.kmpi.gov.bd
 cpcontacts.oss.bepza.gov.bd
+cpcontacts.pabnatsc.gov.bd
 cpcontacts.railwaypolice.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.tscgopal.gov.bd
@@ -209,6 +214,7 @@ mail.kishoreganjtsc.gov.bd
 mail.kmpi.gov.bd
 mail.moulvibazartsc.gov.bd
 mail.mrccdhk.dos.gov.bd
+mail.pabnatsc.gov.bd
 mail.railwaypolice.gov.bd
 mail.server.melandahbhata.gov.bd
 mail.shmrmi.gov.bd
@@ -251,6 +257,7 @@ onlinetc.dinajpurboard.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 outsp.kmch.gov.bd
+pabnatsc.gov.bd
 padmamuseum.gov.bd
 panchagarhmunicipality.gov.bd
 panel.adolnutrireporting.nnsop.gov.bd
@@ -375,6 +382,7 @@ webdisk.jamalpurttc.gov.bd
 webdisk.kishoreganjtsc.gov.bd
 webdisk.kmpi.gov.bd
 webdisk.oss.bepza.gov.bd
+webdisk.pabnatsc.gov.bd
 webdisk.railwaypolice.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webdisk.tscgopal.gov.bd
@@ -388,6 +396,7 @@ webmail.kishoreganjtsc.gov.bd
 webmail.kmpi.gov.bd
 webmail.moulvibazartsc.gov.bd
 webmail.oss.bepza.gov.bd
+webmail.pabnatsc.gov.bd
 webmail.railwaypolice.gov.bd
 webmail.server.melandahbhata.gov.bd
 webmail.shmrmi.gov.bd
@@ -483,6 +492,7 @@ www.new.rgamc.gov.bd
 www.news.cid.gov.bd
 www.ntrc.gameapp.gov.bd
 www.outsp.kmch.gov.bd
+www.pabnatsc.gov.bd
 www.panchagarhmunicipality.gov.bd
 www.patharghatapourashava.gov.bd
 www.pbrlp.gov.bd
