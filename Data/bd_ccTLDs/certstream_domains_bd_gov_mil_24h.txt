@@ -1,5 +1,6 @@
 admin.vaxepi.gov.bd
 ar.gameapp.gov.bd
+autodiscover.rmch.gov.bd
 award.moysports.gov.bd
 bancharampurtsc.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -7,10 +8,13 @@ cafopower.gov.bd
 chhataktsc.gov.bd
 comillaboard.gov.bd
 cpanel.psb.gov.bd
+cpanel.rmch.gov.bd
 cpanel.syedpurtsc.gov.bd
 cpcalendars.psb.gov.bd
+cpcalendars.rmch.gov.bd
 cpcalendars.syedpurtsc.gov.bd
 cpcontacts.psb.gov.bd
+cpcontacts.rmch.gov.bd
 cpcontacts.syedpurtsc.gov.bd
 du.gameapp.gov.bd
 feedback.dos.gov.bd
@@ -24,6 +28,7 @@ indoortracker.mohfw.gov.bd
 k86sport.fpmu.gov.bd
 kaizen88.fpmu.gov.bd
 mail.psb.gov.bd
+mail.rmch.gov.bd
 mail.syedpurtsc.gov.bd
 nabinagarpourashava.gov.bd
 nohs.navy.mil.bd
@@ -33,6 +38,7 @@ pibelearning.gov.bd
 promise.gov.bd
 psb.gov.bd
 register.gameapp.gov.bd
+rmch.gov.bd
 server2.beza.gov.bd
 server3.beza.gov.bd
 syedpurtsc.gov.bd
@@ -42,8 +48,10 @@ verification.dos.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.psb.gov.bd
+webdisk.rmch.gov.bd
 webdisk.syedpurtsc.gov.bd
 webmail.psb.gov.bd
+webmail.rmch.gov.bd
 webmail.syedpurtsc.gov.bd
 wp.tscpatuakhali.gov.bd
 www.ar.gameapp.gov.bd
@@ -57,6 +65,7 @@ www.ntrc.gameapp.gov.bd
 www.onlineexam.gbrcr.gov.bd
 www.psb.gov.bd
 www.register.gameapp.gov.bd
+www.rmch.gov.bd
 www.server2.beza.gov.bd
 www.server3.beza.gov.bd
 www.syedpurtsc.gov.bd
