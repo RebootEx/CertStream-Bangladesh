@@ -18,6 +18,7 @@ autodiscover.baniajanhighschool.edu.bd
 autodiscover.bhartentuliahighschool.edu.bd
 autodiscover.brhighschool.edu.bd
 autodiscover.chhanharasbhighschool.edu.bd
+autodiscover.cmhs.edu.bd
 autodiscover.cuhs.edu.bd
 autodiscover.dharmapurkkgirlshighschool.edu.bd
 autodiscover.drhoqueacademy.edu.bd
@@ -52,10 +53,13 @@ babulcharahs.edu.bd
 backend.abmb.aamc.edu.bd
 backend.bhartentuliahighschool.edu.bd
 backend.sdmlhs.edu.bd
+baghutiaam.edu.bd
+bakarerhaths.edu.bd
 balokdiarhs.edu.bd
 bandhucomputer.edu.bd
 baniajanhighschool.edu.bd
 bashs.edu.bd
+baures.bau.edu.bd
 bdcip.edu.bd
 beta.pirganjcollege.edu.bd
 bhartentuliahighschool.edu.bd
@@ -71,6 +75,7 @@ cghsp.edu.bd
 cgsacollege.edu.bd
 charjagonathpurgirls.edu.bd
 chhanharasbhighschool.edu.bd
+cmhs.edu.bd
 continentalbd.com.legend.edu.bd
 cpanel.aikm.edu.bd
 cpanel.akbariacollege.edu.bd
@@ -79,6 +84,7 @@ cpanel.baniajanhighschool.edu.bd
 cpanel.bhartentuliahighschool.edu.bd
 cpanel.brhighschool.edu.bd
 cpanel.chhanharasbhighschool.edu.bd
+cpanel.cmhs.edu.bd
 cpanel.cuhs.edu.bd
 cpanel.dharmapurkkgirlshighschool.edu.bd
 cpanel.drhoqueacademy.edu.bd
@@ -117,6 +123,7 @@ cpcalendars.baniajanhighschool.edu.bd
 cpcalendars.bhartentuliahighschool.edu.bd
 cpcalendars.brhighschool.edu.bd
 cpcalendars.chhanharasbhighschool.edu.bd
+cpcalendars.cmhs.edu.bd
 cpcalendars.cuhs.edu.bd
 cpcalendars.dharmapurkkgirlshighschool.edu.bd
 cpcalendars.drhoqueacademy.edu.bd
@@ -155,6 +162,7 @@ cpcontacts.baniajanhighschool.edu.bd
 cpcontacts.bhartentuliahighschool.edu.bd
 cpcontacts.brhighschool.edu.bd
 cpcontacts.chhanharasbhighschool.edu.bd
+cpcontacts.cmhs.edu.bd
 cpcontacts.cuhs.edu.bd
 cpcontacts.dharmapurkkgirlshighschool.edu.bd
 cpcontacts.drhoqueacademy.edu.bd
@@ -201,6 +209,7 @@ drshahidullahacademy.edu.bd
 dwc.edu.bd
 dzhc.edu.bd
 eastjgss.edu.bd
+edu.bd.ulipurmssc.edu.bd
 eduroam.bau.edu.bd
 egis.edu.bd
 fatikchharigphighschool.edu.bd
@@ -243,6 +252,7 @@ ims.babulcharahs.edu.bd
 ipv6.bhartentuliahighschool.edu.bd
 ipv6.sdmlhs.edu.bd
 jadm.edu.bd
+jagannathpurscghs.edu.bd
 jahanpurahinstitution.edu.bd
 jamunabadhs.edu.bd
 janarddanpurhighschool.edu.bd
@@ -256,6 +266,7 @@ kelishaharhighschool.edu.bd
 kic.edu.bd
 klidm.edu.bd
 knmlhighschool.edu.bd
+kurchaimpmhs.edu.bd
 law.cub.edu.bd
 lghsraj.edu.bd
 library.ist.edu.bd
@@ -269,6 +280,7 @@ mail.bhartentuliahighschool.edu.bd
 mail.brhighschool.edu.bd
 mail.bwdc.edu.bd
 mail.chhanharasbhighschool.edu.bd
+mail.cmhs.edu.bd
 mail.cuhs.edu.bd
 mail.dharmapurkkgirlshighschool.edu.bd
 mail.drhoqueacademy.edu.bd
@@ -381,6 +393,7 @@ soft.rcit.edu.bd
 sonapatilahs.edu.bd
 srdmp.edu.bd
 ssaac.edu.bd
+sssgirlsschool.edu.bd
 sstactapobanhs.edu.bd
 staging5.ois.edu.bd
 student.mahhs.edu.bd
@@ -395,6 +408,7 @@ tsbghs.edu.bd
 uamghs.edu.bd
 uca.edu.bd
 ucbsschool.edu.bd
+ulipuraghs.edu.bd
 ums.edu.bd
 umskaharol.edu.bd
 vcr.edu.bd
@@ -406,6 +420,7 @@ webdisk.baniajanhighschool.edu.bd
 webdisk.bhartentuliahighschool.edu.bd
 webdisk.brhighschool.edu.bd
 webdisk.chhanharasbhighschool.edu.bd
+webdisk.cmhs.edu.bd
 webdisk.cuhs.edu.bd
 webdisk.dharmapurkkgirlshighschool.edu.bd
 webdisk.drhoqueacademy.edu.bd
@@ -444,6 +459,7 @@ webmail.baniajanhighschool.edu.bd
 webmail.bhartentuliahighschool.edu.bd
 webmail.brhighschool.edu.bd
 webmail.chhanharasbhighschool.edu.bd
+webmail.cmhs.edu.bd
 webmail.cuhs.edu.bd
 webmail.dharmapurkkgirlshighschool.edu.bd
 webmail.drhoqueacademy.edu.bd
@@ -496,6 +512,7 @@ www.backend.birgghs.edu.bd
 www.backend.dwc.edu.bd
 www.backend.rahamaniahighschool.edu.bd
 www.backend.sdmlhs.edu.bd
+www.bakarerhaths.edu.bd.ulipurmssc.edu.bd
 www.balokdiarhs.edu.bd
 www.baniajanhighschool.edu.bd
 www.bashs.edu.bd
@@ -508,6 +525,7 @@ www.bwdc.edu.bd
 www.c.bwc.edu.bd
 www.cghsp.edu.bd
 www.chhanharasbhighschool.edu.bd
+www.cmhs.edu.bd
 www.continentalbd.com.legend.edu.bd
 www.cse.green.edu.bd
 www.cuhs.edu.bd
@@ -546,6 +564,7 @@ www.iims.srdmp.edu.bd
 www.iims.sstactapobanhs.edu.bd
 www.ims.babulcharahs.edu.bd
 www.jadm.edu.bd
+www.jagannathpurscghs.edu.bd
 www.jahanpurahinstitution.edu.bd
 www.jamunabadhs.edu.bd
 www.jhacademy.edu.bd
@@ -615,6 +634,7 @@ www.tarkandaghsk.edu.bd
 www.test.primeasia.edu.bd
 www.tetarahighschool.edu.bd
 www.uamghs.edu.bd
+www.ulipuraghs.edu.bd.ulipurmssc.edu.bd
 www.ums.edu.bd
 www.umskaharol.edu.bd
 www.vcr.edu.bd
