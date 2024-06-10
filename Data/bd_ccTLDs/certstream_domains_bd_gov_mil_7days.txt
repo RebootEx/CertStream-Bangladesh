@@ -32,6 +32,7 @@ backup.fima.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bancharampurtsc.gov.bd
+bandarbantsc.gov.bd
 bangladesh.gov.bd
 bargunamunicipality.gov.bd
 barishal.gov.bd
@@ -85,6 +86,7 @@ corona.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpadmin.scc.gov.bd
+cpanel.bandarbantsc.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.cafoemrd.gov.bd
@@ -103,6 +105,7 @@ cpanel.sfcworks.gov.bd
 cpanel.syedpurtsc.gov.bd
 cpanel.tangailtsc.gov.bd
 cpbackend.scc.gov.bd
+cpcalendars.bandarbantsc.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
@@ -118,6 +121,7 @@ cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
+cpcontacts.bandarbantsc.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
@@ -220,6 +224,7 @@ lms.ipemis.dpe.gov.bd
 logo.smartbangladesh.gov.bd
 maheshpurpourashava.gov.bd
 mail.akkelpurmunicipality.gov.bd
+mail.bandarbantsc.gov.bd
 mail.bargunamunicipality.gov.bd
 mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
@@ -381,6 +386,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 water.scc.gov.bd
 web.jamalpurttc.gov.bd
+webdisk.bandarbantsc.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
@@ -397,6 +403,7 @@ webdisk.sfcworks.gov.bd
 webdisk.syedpurtsc.gov.bd
 webdisk.tangailtsc.gov.bd
 webmail.akkelpurmunicipality.gov.bd
+webmail.bandarbantsc.gov.bd
 webmail.bpemc.gov.bd
 webmail.caabhc.gov.bd
 webmail.cafoemrd.gov.bd
@@ -426,6 +433,7 @@ www.bajrajoginiup.munshiganjlg.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
 www.ban-fima-web.fima.gov.bd
+www.bandarbantsc.gov.bd
 www.bargunamunicipality.gov.bd
 www.barlekhamunicipality.gov.bd
 www.bck.beza.gov.bd
@@ -448,6 +456,7 @@ www.cpadmin.scc.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.database.melandahbhata.gov.bd
 www.demo.rmch.gov.bd
+www.dhakua.upmymensinghholdingtax.gov.bd
 www.dids.btriapps.gov.bd
 www.dividend.ansarvdpbank.gov.bd
 www.documents.ansarvdpbank.gov.bd
