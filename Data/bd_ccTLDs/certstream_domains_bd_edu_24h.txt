@@ -18,6 +18,7 @@ autodiscover.azimnagararhighschool.edu.bd
 autodiscover.bhengulamlhs.edu.bd
 autodiscover.bkghs.edu.bd
 autodiscover.chatutiahs.edu.bd
+autodiscover.ctc.edu.bd
 autodiscover.fkmrhighschool.edu.bd
 autodiscover.fnwadudiahighschool.edu.bd
 autodiscover.fulgcf.edu.bd
@@ -55,11 +56,13 @@ bkghs.edu.bd
 bndewhs.edu.bd
 boguratech.edu.bd
 bsghs-lakhai.edu.bd
+bsm.edu.bd
 cdn.bau.edu.bd
 cgmc.edu.bd
 chakborkhodati.edu.bd
 chapraadm.edu.bd
 chatraghs.edu.bd
+chatulhighschool.edu.bd
 chatutiahs.edu.bd
 chhaterpaiyaschool.edu.bd
 chowdhuranihighschool.edu.bd
@@ -70,8 +73,10 @@ cpanel.azimnagararhighschool.edu.bd
 cpanel.bhengulamlhs.edu.bd
 cpanel.bidmm.edu.bd
 cpanel.bkghs.edu.bd
+cpanel.bsm.edu.bd
 cpanel.chatutiahs.edu.bd
 cpanel.cpscl.edu.bd
+cpanel.ctc.edu.bd
 cpanel.drkajalilhs.edu.bd
 cpanel.fkmrhighschool.edu.bd
 cpanel.fnwadudiahighschool.edu.bd
@@ -98,8 +103,10 @@ cpcalendars.azimnagararhighschool.edu.bd
 cpcalendars.bhengulamlhs.edu.bd
 cpcalendars.bidmm.edu.bd
 cpcalendars.bkghs.edu.bd
+cpcalendars.bsm.edu.bd
 cpcalendars.chatutiahs.edu.bd
 cpcalendars.cpscl.edu.bd
+cpcalendars.ctc.edu.bd
 cpcalendars.drkajalilhs.edu.bd
 cpcalendars.fkmrhighschool.edu.bd
 cpcalendars.fnwadudiahighschool.edu.bd
@@ -126,8 +133,10 @@ cpcontacts.azimnagararhighschool.edu.bd
 cpcontacts.bhengulamlhs.edu.bd
 cpcontacts.bidmm.edu.bd
 cpcontacts.bkghs.edu.bd
+cpcontacts.bsm.edu.bd
 cpcontacts.chatutiahs.edu.bd
 cpcontacts.cpscl.edu.bd
+cpcontacts.ctc.edu.bd
 cpcontacts.drkajalilhs.edu.bd
 cpcontacts.fkmrhighschool.edu.bd
 cpcontacts.fnwadudiahighschool.edu.bd
@@ -153,10 +162,13 @@ cpscl.edu.bd
 cscc.edu.bd
 csdhdm.edu.bd
 csjidm.edu.bd
+csmdmm.edu.bd
+ctc.edu.bd
 cumillaidealcollege.edu.bd
 dadulchakiaparahighschool.edu.bd
 darulhadithsalafiyahmadrasa.edu.bd
 dghst.edu.bd
+dhonparadm.edu.bd
 drkajalilhs.edu.bd
 edu.bd.aamc.edu.bd
 edu.bd.pekuahs.edu.bd
@@ -205,6 +217,8 @@ jlmc.edu.bd
 journal.bau.edu.bd
 kachalongdm.edu.bd
 kadalpuridealhighschool.edu.bd
+kadmiazssm.edu.bd
+kadmiazssm.edu.bd.paroilhs.edu.bd
 kakm.edu.bd
 kaliagonjnhs.edu.bd
 kartikpurhighschool.edu.bd
@@ -231,8 +245,10 @@ mail.azimnagararhighschool.edu.bd
 mail.bhengulamlhs.edu.bd
 mail.bidmm.edu.bd
 mail.bkghs.edu.bd
+mail.bsm.edu.bd
 mail.chatutiahs.edu.bd
 mail.cpscl.edu.bd
+mail.ctc.edu.bd
 mail.drkajalilhs.edu.bd
 mail.fkmrhighschool.edu.bd
 mail.fnwadudiahighschool.edu.bd
@@ -241,6 +257,7 @@ mail.gbaraghonahighschool.edu.bd
 mail.hfrcmc.edu.bd
 mail.inihs.edu.bd
 mail.kadalpuridealhighschool.edu.bd
+mail.kakm.edu.bd
 mail.kmts.edu.bd
 mail.koittahighschool.edu.bd
 mail.lemubaribinodasundaryhighschool.edu.bd
@@ -276,6 +293,7 @@ narayanganjpreparatoryschool.edu.bd
 nawkhairihs.edu.bd
 new.ibrahimkhangovcollege.edu.bd
 office.bau.edu.bd
+old.medicalcollegeforwomen.edu.bd
 oldapp.krghs.edu.bd
 pallabimohiladegreecollege.edu.bd
 pgd.bau.edu.bd
@@ -336,8 +354,10 @@ webdisk.azimnagararhighschool.edu.bd
 webdisk.bhengulamlhs.edu.bd
 webdisk.bidmm.edu.bd
 webdisk.bkghs.edu.bd
+webdisk.bsm.edu.bd
 webdisk.chatutiahs.edu.bd
 webdisk.cpscl.edu.bd
+webdisk.ctc.edu.bd
 webdisk.drkajalilhs.edu.bd
 webdisk.fkmrhighschool.edu.bd
 webdisk.fnwadudiahighschool.edu.bd
@@ -366,6 +386,7 @@ webmail.bidmm.edu.bd
 webmail.bkghs.edu.bd
 webmail.chatutiahs.edu.bd
 webmail.cpscl.edu.bd
+webmail.ctc.edu.bd
 webmail.drkajalilhs.edu.bd
 webmail.fkmrhighschool.edu.bd
 webmail.fnwadudiahighschool.edu.bd
@@ -410,13 +431,16 @@ www.bidmm.edu.bd
 www.bkghs.edu.bd
 www.boguratech.edu.bd
 www.bsghs-lakhai.edu.bd
+www.bsm.edu.bd
 www.chakborkhodati.edu.bd
 www.chapraadm.edu.bd
 www.chatraghs.edu.bd
 www.chatutiahs.edu.bd
+www.chowdhuranihighschool.edu.bd
 www.cpghs.edu.bd
 www.cpscl.edu.bd
 www.csdhdm.edu.bd
+www.ctc.edu.bd
 www.dadulchakiaparahighschool.edu.bd
 www.darulhadithsalafiyahmadrasa.edu.bd
 www.dghst.edu.bd
@@ -439,6 +463,8 @@ www.jalalpurcollege.edu.bd
 www.jhaljhaliahs.edu.bd
 www.kachalongdm.edu.bd.tma.edu.bd
 www.kadalpuridealhighschool.edu.bd
+www.kadmiazssm.edu.bd.paroilhs.edu.bd
+www.kakm.edu.bd
 www.kaliagonjnhs.edu.bd
 www.kawadihighschool.edu.bd.pekuahs.edu.bd
 www.kisamatchbhs.edu.bd
@@ -462,6 +488,7 @@ www.moniramhs.edu.bd
 www.nawkhairihs.edu.bd
 www.new.ibrahimkhangovcollege.edu.bd
 www.old.hamdarduniversity.edu.bd
+www.old.medicalcollegeforwomen.edu.bd
 www.pmch.edu.bd
 www.pollymarihs.edu.bd
 www.portcity.edu.bd
