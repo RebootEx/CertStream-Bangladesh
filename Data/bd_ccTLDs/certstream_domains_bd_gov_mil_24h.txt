@@ -2,6 +2,7 @@ admin.vaxepi.gov.bd
 bandarbantsc.gov.bd
 barisalboard.gov.bd
 bpdbivvr.gov.bd
+cafomof.gov.bd
 cafopmo.gov.bd
 ccdfpfm.gov.bd
 centralup.comillalg.gov.bd
@@ -12,8 +13,10 @@ cpcalendars.bandarbantsc.gov.bd
 cpcalendars.ccdfpfm.gov.bd
 cpcontacts.bandarbantsc.gov.bd
 cpcontacts.ccdfpfm.gov.bd
+dev-backend.tourismctg.gov.bd
 dppseba.gov.bd
 edc.srdl.gov.bd
+gmp.gov.bd
 icml.gov.bd
 mail.bandarbantsc.gov.bd
 mail.ccdfpfm.gov.bd
@@ -35,6 +38,7 @@ www.centralup.comillalg.gov.bd
 www.dhakua.upmymensinghholdingtax.gov.bd
 www.dppseba.gov.bd
 www.edc.srdl.gov.bd
+www.gmp.gov.bd
 www.icml.gov.bd
 www.test.jamalpurttc.gov.bd
 zpfaridpur.gov.bd
