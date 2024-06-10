@@ -1,4 +1,5 @@
 accessibledictionary.gov.bd
+admin.comillalg.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 admin.vaxepi.gov.bd
 adolnutrireporting.nnsop.gov.bd
@@ -96,6 +97,7 @@ cpanel.server.melandahbhata.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.syedpurtsc.gov.bd
 cpanel.tangailtsc.gov.bd
+cpanel.ulipurmunicipality.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bandarbantsc.gov.bd
 cpcalendars.bpemc.gov.bd
@@ -114,6 +116,7 @@ cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
+cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.bandarbantsc.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.cafoemrd.gov.bd
@@ -131,6 +134,7 @@ cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.syedpurtsc.gov.bd
 cpcontacts.tangailtsc.gov.bd
+cpcontacts.ulipurmunicipality.gov.bd
 cptu.gov.bd
 customs.gov.bd
 dbwctp64.gov.bd
@@ -239,6 +243,7 @@ mail.shmrmi.gov.bd
 mail.syedpurtsc.gov.bd
 mail.tangailtsc.gov.bd
 mail.taxeszone5dhaka.gov.bd
+mail.ulipurmunicipality.gov.bd
 mail.usc.dghs.gov.bd
 management.bogurapolice.gov.bd
 mbgc.gov.bd
@@ -353,6 +358,7 @@ tscmeherpur.gov.bd
 tujerpurup.faridpurlg.gov.bd
 turn.vc7.bcc.gov.bd
 turn.vc8.bcc.gov.bd
+ulipurmunicipality.gov.bd
 uniontax.gov.bd
 unomagurasadar.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -381,6 +387,7 @@ webdisk.server.melandahbhata.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.syedpurtsc.gov.bd
 webdisk.tangailtsc.gov.bd
+webdisk.ulipurmunicipality.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.bandarbantsc.gov.bd
 webmail.bpemc.gov.bd
@@ -405,6 +412,7 @@ webmail.tangailtsc.gov.bd
 whm.server.melandahbhata.gov.bd
 wp.tscpatuakhali.gov.bd
 www.admin-server.rpi.gov.bd
+www.admin.comillalg.gov.bd
 www.akkelpurmunicipality.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.apps.jamalpurttc.gov.bd
@@ -524,6 +532,7 @@ www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
 www.tradelicence.scc.gov.bd
 www.tujerpurup.faridpurlg.gov.bd
+www.ulipurmunicipality.gov.bd
 www.verification.dos.gov.bd
 www.volunteer.ekshop.gov.bd
 www.vwb.melandahbhata.gov.bd
