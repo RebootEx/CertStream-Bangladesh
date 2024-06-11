@@ -6,6 +6,7 @@ application.pmo.gov.bd
 appointment.bdhckl.gov.bd
 autodiscover.pict.gov.bd
 bdhckl.gov.bd
+case-moef.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.pict.gov.bd
 cpcalendars.bdhckl.gov.bd
@@ -21,7 +22,9 @@ gazette.railwayestate.gov.bd
 kaliakairpourashava.gov.bd
 macro.finance.gov.bd
 mail.bdhckl.gov.bd
+mail.case-moef.gov.bd
 mail.pict.gov.bd
+mail.regionalwildlife.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
 nazipurpourashava.gov.bd
@@ -37,6 +40,7 @@ pts.bcc.gov.bd
 rajbaripourashava.gov.bd
 ranisankailpourashava.gov.bd
 rca-lged.gov.bd
+regionalwildlife.gov.bd
 rems.railwayestate.gov.bd
 result.fci.gov.bd
 rndvm1.dghs.gov.bd
@@ -54,6 +58,7 @@ webdisk.pict.gov.bd
 webmail.bdhckl.gov.bd
 webmail.pict.gov.bd
 www.bdhckl.gov.bd
+www.case-moef.gov.bd
 www.demo.railwayestate.gov.bd
 www.fc.distgopalganj.gov.bd
 www.gazette.railwayestate.gov.bd
@@ -66,6 +71,7 @@ www.patharghatapourashava.gov.bd
 www.pict.gov.bd
 www.rajbaripourashava.gov.bd
 www.ranisankailpourashava.gov.bd
+www.regionalwildlife.gov.bd
 www.rems.railwayestate.gov.bd
 www.result.fci.gov.bd
 www.shariatpurmunicipality.gov.bd
