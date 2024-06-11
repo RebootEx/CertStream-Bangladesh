@@ -17,6 +17,7 @@ autodiscover.gangjoarhs.edu.bd
 autodiscover.gpdmnageswari.edu.bd
 autodiscover.hasnabadajbhs.edu.bd
 autodiscover.katiadicollege.edu.bd
+autodiscover.mukm.edu.bd
 autodiscover.nahsfatickctg.edu.bd
 autodiscover.nandanpur.edu.bd
 autodiscover.nangalmorahighschool.edu.bd
@@ -29,6 +30,7 @@ bararoutahs.edu.bd
 bcc.edu.bd
 beanibazargirls.edu.bd
 beragirlspiloths.edu.bd
+beta.blscg.edu.bd
 beta.idealcollegedhanmondi.edu.bd
 betalbohumukhihighschool.edu.bd
 bhs.edu.bd
@@ -53,6 +55,7 @@ cpanel.katiadicollege.edu.bd
 cpanel.kpcbd.edu.bd
 cpanel.mbariahs.edu.bd
 cpanel.mmacademy.edu.bd
+cpanel.mukm.edu.bd
 cpanel.nahsfatickctg.edu.bd
 cpanel.nandanpur.edu.bd
 cpanel.nangalmorahighschool.edu.bd
@@ -70,6 +73,7 @@ cpcalendars.katiadicollege.edu.bd
 cpcalendars.kpcbd.edu.bd
 cpcalendars.mbariahs.edu.bd
 cpcalendars.mmacademy.edu.bd
+cpcalendars.mukm.edu.bd
 cpcalendars.nahsfatickctg.edu.bd
 cpcalendars.nandanpur.edu.bd
 cpcalendars.nangalmorahighschool.edu.bd
@@ -87,6 +91,7 @@ cpcontacts.katiadicollege.edu.bd
 cpcontacts.kpcbd.edu.bd
 cpcontacts.mbariahs.edu.bd
 cpcontacts.mmacademy.edu.bd
+cpcontacts.mukm.edu.bd
 cpcontacts.nahsfatickctg.edu.bd
 cpcontacts.nandanpur.edu.bd
 cpcontacts.nangalmorahighschool.edu.bd
@@ -125,6 +130,7 @@ jalalabadcollege.edu.bd
 jathaliaashs.edu.bd
 jjbbsmrgc.edu.bd
 jmccc.edu.bd
+jmsdm.edu.bd
 jps.edu.bd
 kalekharberschool.edu.bd
 kandigaonhsc.edu.bd
@@ -147,6 +153,7 @@ mail.katiadicollege.edu.bd
 mail.kpcbd.edu.bd
 mail.mbariahs.edu.bd
 mail.mmacademy.edu.bd
+mail.mukm.edu.bd
 mail.nahsfatickctg.edu.bd
 mail.nandanpur.edu.bd
 mail.nangalmorahighschool.edu.bd
@@ -157,6 +164,7 @@ mail.paduaaudskmadrasah.edu.bd
 mail.rsub.edu.bd
 mail.uttarpaduahighschool.edu.bd
 management.jghs.edu.bd
+mantalahs.edu.bd
 mbariahs.edu.bd
 mdhs.edu.bd
 mjmabp.edu.bd
@@ -165,6 +173,7 @@ mmacademy.edu.bd
 mohanpurphschool.edu.bd
 monirahmedacademy.edu.bd
 mpghighschool.edu.bd
+mukm.edu.bd
 mybill.kpmb.edu.bd
 nagarhighschool.edu.bd
 nahsfatickctg.edu.bd
@@ -178,6 +187,7 @@ paduaaudskmadrasah.edu.bd
 paikgachaalimmadrasah.edu.bd
 payroll.sau.edu.bd
 pencilbox.edu.bd
+pgh.edu.bd
 portal.boragarighs.edu.bd
 pundrauniversity.edu.bd
 qbcollege.edu.bd
@@ -215,6 +225,7 @@ webdisk.katiadicollege.edu.bd
 webdisk.kpcbd.edu.bd
 webdisk.mbariahs.edu.bd
 webdisk.mmacademy.edu.bd
+webdisk.mukm.edu.bd
 webdisk.nahsfatickctg.edu.bd
 webdisk.nandanpur.edu.bd
 webdisk.nangalmorahighschool.edu.bd
@@ -232,6 +243,7 @@ webmail.katiadicollege.edu.bd
 webmail.kpcbd.edu.bd
 webmail.mbariahs.edu.bd
 webmail.mmacademy.edu.bd
+webmail.mukm.edu.bd
 webmail.nahsfatickctg.edu.bd
 webmail.nandanpur.edu.bd
 webmail.nangalmorahighschool.edu.bd
@@ -250,6 +262,7 @@ www.alumni.jnuenglish.edu.bd
 www.ascr.edu.bd
 www.backend.bmmmadrasha.edu.bd
 www.baiam.edu.bd
+www.beta.blscg.edu.bd
 www.beta.idealcollegedhanmondi.edu.bd
 www.betalbohumukhihighschool.edu.bd
 www.boldiimhsdakshinsurma.edu.bd
@@ -275,11 +288,13 @@ www.kpcbd.edu.bd
 www.maheshpurhs.edu.bd
 www.maiacademy.edu.bd
 www.management.jghs.edu.bd
+www.mantalahs.edu.bd
 www.mbariahs.edu.bd
 www.mcq.gachhbariidealcollege.edu.bd
 www.mmacademy.edu.bd
 www.mohanpurphschool.edu.bd
 www.monirahmedacademy.edu.bd
+www.mukm.edu.bd
 www.mybill.kpmb.edu.bd
 www.nahsfatickctg.edu.bd
 www.nandanpur.edu.bd

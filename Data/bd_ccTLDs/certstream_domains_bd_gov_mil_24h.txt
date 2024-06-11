@@ -1,4 +1,5 @@
 aclandsadarpur.gov.bd
+admin.bmd.gov.bd
 app.bdhckl.gov.bd
 application.pmo.gov.bd
 appointment.bdhckl.gov.bd
@@ -19,6 +20,8 @@ kaliakairpourashava.gov.bd
 macro.finance.gov.bd
 mail.bdhckl.gov.bd
 mail.pict.gov.bd
+naldangamunicipality.gov.bd
+nazipurpourashava.gov.bd
 new.chauddagramgovcollege.gov.bd
 patgrammunicipality.gov.bd
 pdb.mcishr.dghs.gov.bd
@@ -30,9 +33,11 @@ rca-lged.gov.bd
 rems.railwayestate.gov.bd
 result.fci.gov.bd
 rndvm1.dghs.gov.bd
+shariatpurmunicipality.gov.bd
 shibpurpaurashava.gov.bd
 sonaimuripaurashava.gov.bd
 sujanagarmunicipality.gov.bd
+szmc.gov.bd
 taxsurvey.gov.bd
 tdmtraining.finance.gov.bd
 tds.taxeszone9dhaka.gov.bd
@@ -45,12 +50,15 @@ www.bdhckl.gov.bd
 www.demo.railwayestate.gov.bd
 www.fc.distgopalganj.gov.bd
 www.gazette.railwayestate.gov.bd
+www.naldangamunicipality.gov.bd
+www.nazipurpourashava.gov.bd
 www.new.chauddagramgovcollege.gov.bd
 www.patgrammunicipality.gov.bd
 www.pict.gov.bd
 www.ranisankailpourashava.gov.bd
 www.rems.railwayestate.gov.bd
 www.result.fci.gov.bd
+www.shariatpurmunicipality.gov.bd
 www.sonaimuripaurashava.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.tds.taxeszone9dhaka.gov.bd
