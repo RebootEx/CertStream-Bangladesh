@@ -50,6 +50,7 @@ cafocultural.gov.bd
 cafoeducation.gov.bd
 cafoemrd.gov.bd
 cafoexpatriates.gov.bd
+cafoforeign.gov.bd
 cafolgd.gov.bd
 cafomefcc.gov.bd
 cafomof.gov.bd
@@ -58,6 +59,7 @@ cafopmo.gov.bd
 cafopower.gov.bd
 cafoptd.gov.bd
 cafoshipping.gov.bd
+cafoworks.gov.bd
 cafoyouthandsports.gov.bd
 career.nilmrcbd.gov.bd
 case-moef.gov.bd
@@ -91,6 +93,7 @@ cpanel.pabnatsc.gov.bd
 cpanel.pict.gov.bd
 cpanel.psb.gov.bd
 cpanel.rmch.gov.bd
+cpanel.sac.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.syedpurtsc.gov.bd
 cpanel.tangailtsc.gov.bd
@@ -111,6 +114,7 @@ cpcalendars.pabnatsc.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psb.gov.bd
 cpcalendars.rmch.gov.bd
+cpcalendars.sac.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
@@ -130,6 +134,7 @@ cpcontacts.pabnatsc.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psb.gov.bd
 cpcontacts.rmch.gov.bd
+cpcontacts.sac.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.syedpurtsc.gov.bd
 cpcontacts.tangailtsc.gov.bd
@@ -231,6 +236,7 @@ mail.pict.gov.bd
 mail.psb.gov.bd
 mail.regionalwildlife.gov.bd
 mail.rmch.gov.bd
+mail.sac.gov.bd
 mail.sfcworks.gov.bd
 mail.shmrmi.gov.bd
 mail.support.a2i.gov.bd
@@ -307,6 +313,8 @@ rpclorg2.bpemc.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 saadatcollege.gov.bd
+sac.gov.bd
+sacgov.sac.gov.bd
 sanboard.gov.bd
 scms.gov.bd
 sells.mushroomproject.gov.bd
@@ -347,6 +355,7 @@ tscmeherpur.gov.bd
 ttc.gov.bd
 turn.vc7.bcc.gov.bd
 turn.vc8.bcc.gov.bd
+ucddigitalh.gov.bd
 ulipurmunicipality.gov.bd
 uniontax.gov.bd
 unomagurasadar.gov.bd
@@ -372,6 +381,7 @@ webdisk.pabnatsc.gov.bd
 webdisk.pict.gov.bd
 webdisk.psb.gov.bd
 webdisk.rmch.gov.bd
+webdisk.sac.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.syedpurtsc.gov.bd
 webdisk.tangailtsc.gov.bd
@@ -391,6 +401,7 @@ webmail.pabnatsc.gov.bd
 webmail.pict.gov.bd
 webmail.psb.gov.bd
 webmail.rmch.gov.bd
+webmail.sac.gov.bd
 webmail.sfcworks.gov.bd
 webmail.shmrmi.gov.bd
 webmail.syedpurtsc.gov.bd
@@ -486,6 +497,8 @@ www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
 www.saadatcollege.gov.bd
+www.sac.gov.bd
+www.sacgov.sac.gov.bd
 www.sells.mushroomproject.gov.bd
 www.server2.beza.gov.bd
 www.server3.beza.gov.bd
