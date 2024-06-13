@@ -46,6 +46,7 @@ bppa.gov.bd
 bsfmstu.gameapp.gov.bd
 cafocabinet.gov.bd
 cafocagpscec.gov.bd
+cafochta.gov.bd
 cafocommerce.gov.bd
 cafocultural.gov.bd
 cafoeducation.gov.bd
@@ -89,6 +90,7 @@ cpanel.bpemc.gov.bd
 cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.ccdfpfm.gov.bd
+cpanel.eregistration.gov.bd
 cpanel.gobindagonjpourashava.gov.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.kmpi.gov.bd
@@ -110,6 +112,7 @@ cpcalendars.bpemc.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.ccdfpfm.gov.bd
+cpcalendars.eregistration.gov.bd
 cpcalendars.gobindagonjpourashava.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kmpi.gov.bd
@@ -130,6 +133,7 @@ cpcontacts.bpemc.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.ccdfpfm.gov.bd
+cpcontacts.eregistration.gov.bd
 cpcontacts.gobindagonjpourashava.gov.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kmpi.gov.bd
@@ -166,6 +170,7 @@ enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
 episurveillance.dghs.gov.bd
 eprocure.gov.bd
+eregistration.gov.bd
 erp.icmab.gov.bd
 etds.gov.bd
 faridganjmunicipality.gov.bd
@@ -231,6 +236,7 @@ mail.case-moef.gov.bd
 mail.ccdfpfm.gov.bd
 mail.dppseba.gov.bd
 mail.du.gameapp.gov.bd
+mail.eregistration.gov.bd
 mail.gobindagonjpourashava.gov.bd
 mail.icml.gov.bd
 mail.jamalpurttc.gov.bd
@@ -381,6 +387,7 @@ webdisk.bpemc.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.ccdfpfm.gov.bd
+webdisk.eregistration.gov.bd
 webdisk.gobindagonjpourashava.gov.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.kmpi.gov.bd
@@ -401,6 +408,7 @@ webmail.bpemc.gov.bd
 webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.ccdfpfm.gov.bd
+webmail.eregistration.gov.bd
 webmail.gobindagonjpourashava.gov.bd
 webmail.jamalpurttc.gov.bd
 webmail.kmpi.gov.bd
@@ -452,6 +460,7 @@ www.ecampus.bancharampurtsc.gov.bd
 www.ecampus.chhataktsc.gov.bd
 www.edc.srdl.gov.bd
 www.elmis.ntp.gov.bd
+www.eregistration.gov.bd
 www.etbmanager.ntp.gov.bd
 www.faridganjmunicipality.gov.bd
 www.fc.distgopalganj.gov.bd
