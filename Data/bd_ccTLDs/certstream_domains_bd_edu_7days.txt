@@ -502,6 +502,7 @@ cpanel.chuniagarihighschool.edu.bd
 cpanel.cidch.edu.bd
 cpanel.cmhs.edu.bd
 cpanel.cpscl.edu.bd
+cpanel.csjs.edu.bd
 cpanel.ctc.edu.bd
 cpanel.cuhs.edu.bd
 cpanel.darulhikma.edu.bd
@@ -659,6 +660,7 @@ cpcalendars.chuniagarihighschool.edu.bd
 cpcalendars.cidch.edu.bd
 cpcalendars.cmhs.edu.bd
 cpcalendars.cpscl.edu.bd
+cpcalendars.csjs.edu.bd
 cpcalendars.ctc.edu.bd
 cpcalendars.cuhs.edu.bd
 cpcalendars.darulhikma.edu.bd
@@ -815,6 +817,7 @@ cpcontacts.chuniagarihighschool.edu.bd
 cpcontacts.cidch.edu.bd
 cpcontacts.cmhs.edu.bd
 cpcontacts.cpscl.edu.bd
+cpcontacts.csjs.edu.bd
 cpcontacts.ctc.edu.bd
 cpcontacts.cuhs.edu.bd
 cpcontacts.darulhikma.edu.bd
@@ -939,6 +942,7 @@ cse.green.edu.bd
 cse.vu.edu.bd
 csesociety.sust.edu.bd
 csjidm.edu.bd
+csjs.edu.bd
 csmdmm.edu.bd
 ctc.edu.bd
 ctghs.edu.bd
@@ -1515,6 +1519,7 @@ mail.cidch.edu.bd
 mail.cmhs.edu.bd
 mail.conference.daffodilvarsity.edu.bd
 mail.cpscl.edu.bd
+mail.csjs.edu.bd
 mail.ctc.edu.bd
 mail.cuhs.edu.bd
 mail.darulhikma.edu.bd
@@ -1867,6 +1872,7 @@ phultalammcollege.edu.bd
 phy.butex.edu.bd
 pigsc.edu.bd
 pihscox.edu.bd
+pinjuriuhs.edu.bd
 piprikandihs.edu.bd
 pkhighschool.edu.bd
 pkphs.edu.bd
@@ -1902,6 +1908,7 @@ primeasia.edu.bd
 primeasia.primeasia.edu.bd
 prmc.edu.bd
 progotihs.edu.bd
+prohs.edu.bd
 pruahs.edu.bd
 pshsc.edu.bd
 psjsam.edu.bd
@@ -2062,6 +2069,7 @@ shyamolimats.edu.bd
 shyamolinursing.edu.bd
 sigm.edu.bd
 sihsnil.edu.bd
+sindurpurkahb.edu.bd
 singarolhs.edu.bd
 singherkathimlhs.edu.bd
 singragovttsc.edu.bd
@@ -2121,6 +2129,7 @@ sphs1962.edu.bd
 sphsc.edu.bd
 spipalash.edu.bd
 spscdnj.edu.bd
+srbhaahschool.edu.bd
 srdmp.edu.bd
 sreepurmwss.edu.bd
 sreeramshihsc.edu.bd
@@ -2208,6 +2217,7 @@ traumanursing.edu.bd
 traumawomensmats.edu.bd
 traumawomensmats.edu.bd.traumainstitute.edu.bd
 trimohonisecondaryschool.edu.bd
+trsc.edu.bd
 tsbghs.edu.bd
 ttcs.butex.edu.bd
 tuca.edu.bd
@@ -2299,6 +2309,7 @@ webdisk.chuniagarihighschool.edu.bd
 webdisk.cidch.edu.bd
 webdisk.cmhs.edu.bd
 webdisk.cpscl.edu.bd
+webdisk.csjs.edu.bd
 webdisk.ctc.edu.bd
 webdisk.cuhs.edu.bd
 webdisk.darulhikma.edu.bd
@@ -2456,6 +2467,7 @@ webmail.cidch.edu.bd
 webmail.cmhs.edu.bd
 webmail.cpifeni.edu.bd
 webmail.cpscl.edu.bd
+webmail.csjs.edu.bd
 webmail.ctc.edu.bd
 webmail.cuhs.edu.bd
 webmail.dharmapurkkgirlshighschool.edu.bd
@@ -2766,6 +2778,7 @@ www.csdhdm.edu.bd
 www.cse.green.edu.bd
 www.cse.uoda.edu.bd
 www.cse.vu.edu.bd
+www.csjs.edu.bd
 www.ctc.edu.bd
 www.cuhs.edu.bd
 www.dacopegirls.edu.bd
