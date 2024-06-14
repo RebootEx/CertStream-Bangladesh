@@ -39,6 +39,9 @@ beta.nicrh.gov.bd
 beza.gov.bd
 bgb.gov.bd
 bhpi.gov.bd
+bikiron2021.sreda.gov.bd
+blog.ekshop.gov.bd
+bmp.gov.bd
 bpdbivvr.gov.bd
 bpemc.gov.bd
 bppa.gov.bd
@@ -87,6 +90,7 @@ chhataktsc.gov.bd
 cims.dmp.gov.bd
 citizen.scc.gov.bd
 cmmc.gov.bd
+college.gov.bd
 comch.gov.bd
 comillaboard.gov.bd
 communitydhis.mohfw.gov.bd
@@ -107,6 +111,7 @@ cpanel.nins.gov.bd
 cpanel.pabnatsc.gov.bd
 cpanel.pict.gov.bd
 cpanel.psb.gov.bd
+cpanel.psdsms.gov.bd
 cpanel.rmch.gov.bd
 cpanel.sac.gov.bd
 cpanel.sfcworks.gov.bd
@@ -129,6 +134,7 @@ cpcalendars.nins.gov.bd
 cpcalendars.pabnatsc.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psb.gov.bd
+cpcalendars.psdsms.gov.bd
 cpcalendars.rmch.gov.bd
 cpcalendars.sac.gov.bd
 cpcalendars.sfcworks.gov.bd
@@ -150,6 +156,7 @@ cpcontacts.nins.gov.bd
 cpcontacts.pabnatsc.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psb.gov.bd
+cpcontacts.psdsms.gov.bd
 cpcontacts.rmch.gov.bd
 cpcontacts.sac.gov.bd
 cpcontacts.sfcworks.gov.bd
@@ -167,6 +174,8 @@ dgf.gov.bd
 dghs.gov.bd
 dgme.gov.bd
 dhakala.gov.bd
+dhamraimunicipality.gov.bd
+dinajpurboard.gov.bd
 dppseba.gov.bd
 dtesylhet.gov.bd
 du.gameapp.gov.bd
@@ -180,9 +189,11 @@ enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
 epietracker.dghs.gov.bd
 episurveillance.dghs.gov.bd
+epoas.ddm.gov.bd
 eprocure.gov.bd
 eregistration.gov.bd
 eservices.boiler.gov.bd
+esifsix.bise-ctg.gov.bd
 etds.gov.bd
 etracker.dghs.gov.bd
 faridganjmunicipality.gov.bd
@@ -214,6 +225,7 @@ indoortracker.mohfw.gov.bd
 info.shr.dghs.gov.bd
 ipam.dghs.gov.bd
 ir.brri.gov.bd
+isdp.gov.bd
 ispr.gov.bd
 jamalpurttc.gov.bd
 jhikargachamunicipality.gov.bd
@@ -262,6 +274,7 @@ mail.pabnatsc.gov.bd
 mail.pbi.gov.bd
 mail.pict.gov.bd
 mail.psb.gov.bd
+mail.psdsms.gov.bd
 mail.regionalwildlife.gov.bd
 mail.rmch.gov.bd
 mail.sac.gov.bd
@@ -324,14 +337,18 @@ pirjatrapurup.gov.bd
 promise.gov.bd
 proxy.mcishr.dghs.gov.bd
 psb.gov.bd
+psdsms.gov.bd
 pts.bcc.gov.bd
 rajbaripourashava.gov.bd
 rangamaticollege.gov.bd
 ranisankailpourashava.gov.bd
 rca-lged.gov.bd
+reeep.sreda.gov.bd
 regionalwildlife.gov.bd
 register.gameapp.gov.bd
 rems.railwayestate.gov.bd
+renewableenergy.gov.bd
+renewableenergy.gov.bd.sreda.gov.bd
 report.gov.bd
 result.fci.gov.bd
 revenueshare.btcl.gov.bd
@@ -345,10 +362,12 @@ rpi.gov.bd
 rrdhs.gov.bd
 sac.gov.bd
 sacgov.sac.gov.bd
+scholarship.dsw.gov.bd
 scms.gov.bd
 server2.beza.gov.bd
 server3.beza.gov.bd
 sfcworks.gov.bd
+sgc.gov.bd
 shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
 shibpurpaurashava.gov.bd
@@ -359,6 +378,7 @@ singramunicipality.gov.bd
 smtp.dghs.gov.bd
 sonaimuripaurashava.gov.bd
 spst.gov.bd
+sreda.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 sujanagarmunicipality.gov.bd
 svrs.bbs.gov.bd
@@ -366,6 +386,7 @@ syedpurtsc.gov.bd
 szmc.gov.bd
 tangailtsc.gov.bd
 tangerine.dpe.gov.bd
+taxappealzone4dhaka.gov.bd
 taxeszone16dhaka.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszone5dhaka.gov.bd
@@ -411,6 +432,7 @@ webdisk.nins.gov.bd
 webdisk.pabnatsc.gov.bd
 webdisk.pict.gov.bd
 webdisk.psb.gov.bd
+webdisk.psdsms.gov.bd
 webdisk.rmch.gov.bd
 webdisk.sac.gov.bd
 webdisk.sfcworks.gov.bd
@@ -432,6 +454,7 @@ webmail.nins.gov.bd
 webmail.pabnatsc.gov.bd
 webmail.pict.gov.bd
 webmail.psb.gov.bd
+webmail.psdsms.gov.bd
 webmail.rmch.gov.bd
 webmail.sac.gov.bd
 webmail.sfcworks.gov.bd
@@ -455,6 +478,9 @@ www.bargunamunicipality.gov.bd
 www.barisalboard.gov.bd
 www.bdhckl.gov.bd
 www.beta.nicrh.gov.bd
+www.bikiron2021.sreda.gov.bd
+www.blog.ekshop.gov.bd
+www.bmp.gov.bd
 www.bpemc.gov.bd
 www.bscic-emarket.gov.bd
 www.bscicemarket.gov.bd
@@ -489,7 +515,9 @@ www.gazette.railwayestate.gov.bd
 www.ggmcg.gov.bd
 www.gmp.gov.bd
 www.gobindagonjpourashava.gov.bd
+www.hep.sreda.gov.bd
 www.home.habiganjpourashava.gov.bd
+www.iceeca2019.sreda.gov.bd
 www.icml.gov.bd
 www.idcard.rpi.gov.bd
 www.ilab.gov.bd
@@ -509,6 +537,7 @@ www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.muladimunicipality.gov.bd
 www.naldangamunicipality.gov.bd
 www.nazipurpourashava.gov.bd
+www.ndre.sreda.gov.bd
 www.new.bhtpa.gov.bd
 www.new.chauddagramgovcollege.gov.bd
 www.news.cid.gov.bd
@@ -527,11 +556,15 @@ www.pelx.dfsrcaab.gov.bd
 www.pict.gov.bd
 www.pirjatrapurup.gov.bd
 www.psb.gov.bd
+www.psdsms.gov.bd
 www.rajbaripourashava.gov.bd
 www.ranisankailpourashava.gov.bd
+www.reeep.sreda.gov.bd
+www.reeep2.sreda.gov.bd
 www.regionalwildlife.gov.bd
 www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
+www.renewableenergy.gov.bd.sreda.gov.bd
 www.result.fci.gov.bd
 www.rmch.gov.bd
 www.rmp.gov.bd
@@ -540,14 +573,19 @@ www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
 www.sac.gov.bd
 www.sacgov.sac.gov.bd
+www.scholarship.dsw.gov.bd
 www.seat.rpi.gov.bd
 www.server2.beza.gov.bd
 www.server3.beza.gov.bd
 www.sfcworks.gov.bd
 www.shariatpurmunicipality.gov.bd
+www.shd.sreda.gov.bd
 www.shmrmi.gov.bd
 www.smartlgd.dcsherpurinfo.gov.bd
+www.solar.sreda.gov.bd
 www.sonaimuripaurashava.gov.bd
+www.srepgen.sreda.gov.bd
+www.stdb.sreda.gov.bd
 www.stipend.rpi.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.sums-server.rpi.gov.bd
@@ -566,6 +604,7 @@ www.tradelicence.scc.gov.bd
 www.ulipurmunicipality.gov.bd
 www.ullaparapaurashava.gov.bd
 www.verification.dos.gov.bd
+www.vrmanagement.rmp.gov.bd
 www.water.scc.gov.bd
 www.wp.tscpatuakhali.gov.bd
 zpdhaka.gov.bd
