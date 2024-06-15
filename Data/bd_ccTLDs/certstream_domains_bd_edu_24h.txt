@@ -29,6 +29,7 @@ autodiscover.krisnardangihighschool.edu.bd
 autodiscover.laskardiaarhs.edu.bd
 autodiscover.mohiminstitution.edu.bd
 autodiscover.munshirbazarhighschool.edu.bd
+autodiscover.nagarnursing.edu.bd
 autodiscover.nrnghs.edu.bd
 autodiscover.pkthhs.edu.bd
 autodiscover.poradiahighschool.edu.bd
@@ -37,6 +38,8 @@ autodiscover.ramnagarhighschool.edu.bd
 autodiscover.rusdwdc.edu.bd
 autodiscover.sharifbagikm.edu.bd
 autodiscover.sjs.edu.bd
+autodiscover.sreeramdiahighschool.edu.bd
+autodiscover.srscf.edu.bd
 autodiscover.talmanhs.edu.bd
 autodiscover.uttara.edu.bd
 autodiscover.zcbmc.edu.bd
@@ -108,9 +111,11 @@ cpanel.krisnardangihighschool.edu.bd
 cpanel.laskardiaarhs.edu.bd
 cpanel.mohiminstitution.edu.bd
 cpanel.munshirbazarhighschool.edu.bd
+cpanel.nagarnursing.edu.bd
 cpanel.nrnghs.edu.bd
 cpanel.pkthhs.edu.bd
 cpanel.poradiahighschool.edu.bd
+cpanel.queens.edu.bd
 cpanel.rakm.edu.bd
 cpanel.ramnagarhighschool.edu.bd
 cpanel.rumdo.edu.bd
@@ -120,6 +125,8 @@ cpanel.saicmedical.edu.bd
 cpanel.sharifbagikm.edu.bd
 cpanel.simt.edu.bd
 cpanel.sjs.edu.bd
+cpanel.sreeramdiahighschool.edu.bd
+cpanel.srscf.edu.bd
 cpanel.talmanhs.edu.bd
 cpanel.uttara.edu.bd
 cpanel.zcbmc.edu.bd
@@ -147,9 +154,11 @@ cpcalendars.krisnardangihighschool.edu.bd
 cpcalendars.laskardiaarhs.edu.bd
 cpcalendars.mohiminstitution.edu.bd
 cpcalendars.munshirbazarhighschool.edu.bd
+cpcalendars.nagarnursing.edu.bd
 cpcalendars.nrnghs.edu.bd
 cpcalendars.pkthhs.edu.bd
 cpcalendars.poradiahighschool.edu.bd
+cpcalendars.queens.edu.bd
 cpcalendars.rakm.edu.bd
 cpcalendars.ramnagarhighschool.edu.bd
 cpcalendars.rumdo.edu.bd
@@ -160,6 +169,8 @@ cpcalendars.sharifbagikm.edu.bd
 cpcalendars.simt.edu.bd
 cpcalendars.sjs.edu.bd
 cpcalendars.spdm1985.edu.bd
+cpcalendars.sreeramdiahighschool.edu.bd
+cpcalendars.srscf.edu.bd
 cpcalendars.talmanhs.edu.bd
 cpcalendars.uttara.edu.bd
 cpcalendars.zcbmc.edu.bd
@@ -187,9 +198,11 @@ cpcontacts.krisnardangihighschool.edu.bd
 cpcontacts.laskardiaarhs.edu.bd
 cpcontacts.mohiminstitution.edu.bd
 cpcontacts.munshirbazarhighschool.edu.bd
+cpcontacts.nagarnursing.edu.bd
 cpcontacts.nrnghs.edu.bd
 cpcontacts.pkthhs.edu.bd
 cpcontacts.poradiahighschool.edu.bd
+cpcontacts.queens.edu.bd
 cpcontacts.rakm.edu.bd
 cpcontacts.ramnagarhighschool.edu.bd
 cpcontacts.rumdo.edu.bd
@@ -199,10 +212,13 @@ cpcontacts.saicmedical.edu.bd
 cpcontacts.sharifbagikm.edu.bd
 cpcontacts.simt.edu.bd
 cpcontacts.sjs.edu.bd
+cpcontacts.sreeramdiahighschool.edu.bd
+cpcontacts.srscf.edu.bd
 cpcontacts.talmanhs.edu.bd
 cpcontacts.uttara.edu.bd
 cpcontacts.zcbmc.edu.bd
 crud.khkhsm.edu.bd
+cse.bubt.edu.bd
 ctti.edu.bd
 dabhsc.edu.bd
 dakatiasmhschool.edu.bd
@@ -268,11 +284,13 @@ kansaths.edu.bd
 karimpurkkbhs.edu.bd
 katakhaliham.edu.bd
 kathalparahs.edu.bd
+kayempurhs.edu.bd
 keshorhatghs.edu.bd
 kfhn.edu.bd
 kgck.edu.bd
 kghs.edu.bd
 khalgramhs.edu.bd
+khanepurhs.edu.bd
 khariatmdm.edu.bd
 khashhashil.edu.bd
 kmb.edu.bd
@@ -315,9 +333,11 @@ mail.laskardiaarhs.edu.bd
 mail.mavenwood.edu.bd
 mail.mohiminstitution.edu.bd
 mail.munshirbazarhighschool.edu.bd
+mail.nagarnursing.edu.bd
 mail.nrnghs.edu.bd
 mail.pkthhs.edu.bd
 mail.poradiahighschool.edu.bd
+mail.queens.edu.bd
 mail.rakm.edu.bd
 mail.ramnagarhighschool.edu.bd
 mail.rumdo.edu.bd
@@ -328,7 +348,9 @@ mail.sharifbagikm.edu.bd
 mail.shspt.edu.bd
 mail.simt.edu.bd
 mail.sjs.edu.bd
+mail.sreeramdiahighschool.edu.bd
 mail.srnhs.edu.bd
+mail.srscf.edu.bd
 mail.talmanhs.edu.bd
 mail.uttara.edu.bd
 mail.zcbmc.edu.bd
@@ -348,6 +370,7 @@ mstpsc.edu.bd
 munshirbazarhighschool.edu.bd
 murarikatiuhe.edu.bd
 nabinagarghs.edu.bd
+nagarnursing.edu.bd
 nakoiladarshohs.edu.bd
 nambir.edu.bd
 naogc.edu.bd
@@ -378,6 +401,7 @@ ppsmralimmadrasah.edu.bd
 profile.asiannursing.edu.bd
 putiahighschool.edu.bd
 qcsc.edu.bd
+queens.edu.bd
 rakm.edu.bd
 ramnagarhighschool.edu.bd
 ramnagarhs.edu.bd
@@ -401,11 +425,14 @@ simt.edu.bd
 singherkathimlhs.edu.bd
 sjs.edu.bd
 skamanullahcollege.edu.bd
+smmplscr.edu.bd
 sms.katirhaths.edu.bd
 smuct.edu.bd
 snmapmhs.edu.bd
+sreeramdiahighschool.edu.bd
 sristy.edu.bd
 srnhs.edu.bd
+srscf.edu.bd
 ssmc.edu.bd
 status.iom.edu.bd
 talmanhs.edu.bd
@@ -417,6 +444,8 @@ tcmhs.edu.bd
 thsc.edu.bd
 tphs.edu.bd
 tulabariahs.edu.bd
+ua.ois.edu.bd
+ucmhighschool.edu.bd
 usc.edu.bd
 uttara-edu-bd.uttarauniversity.edu.bd
 uttara.edu.bd
@@ -447,9 +476,11 @@ webdisk.krisnardangihighschool.edu.bd
 webdisk.laskardiaarhs.edu.bd
 webdisk.mohiminstitution.edu.bd
 webdisk.munshirbazarhighschool.edu.bd
+webdisk.nagarnursing.edu.bd
 webdisk.nrnghs.edu.bd
 webdisk.pkthhs.edu.bd
 webdisk.poradiahighschool.edu.bd
+webdisk.queens.edu.bd
 webdisk.rakm.edu.bd
 webdisk.ramnagarhighschool.edu.bd
 webdisk.rumdo.edu.bd
@@ -459,6 +490,8 @@ webdisk.saicmedical.edu.bd
 webdisk.sharifbagikm.edu.bd
 webdisk.simt.edu.bd
 webdisk.sjs.edu.bd
+webdisk.sreeramdiahighschool.edu.bd
+webdisk.srscf.edu.bd
 webdisk.talmanhs.edu.bd
 webdisk.uttara.edu.bd
 webdisk.zcbmc.edu.bd
@@ -486,9 +519,11 @@ webmail.krisnardangihighschool.edu.bd
 webmail.laskardiaarhs.edu.bd
 webmail.mohiminstitution.edu.bd
 webmail.munshirbazarhighschool.edu.bd
+webmail.nagarnursing.edu.bd
 webmail.nrnghs.edu.bd
 webmail.pkthhs.edu.bd
 webmail.poradiahighschool.edu.bd
+webmail.queens.edu.bd
 webmail.rakm.edu.bd
 webmail.ramnagarhighschool.edu.bd
 webmail.rumdo.edu.bd
@@ -499,6 +534,8 @@ webmail.sharifbagikm.edu.bd
 webmail.simt.edu.bd
 webmail.sjs.edu.bd
 webmail.spdm1985.edu.bd
+webmail.sreeramdiahighschool.edu.bd
+webmail.srscf.edu.bd
 webmail.talmanhs.edu.bd
 webmail.uttara.edu.bd
 webmail.zcbmc.edu.bd
@@ -539,6 +576,7 @@ www.codeseba.xyz.gangghs.edu.bd
 www.convocation.uits.edu.bd
 www.convocation.vu.edu.bd
 www.crud.khkhsm.edu.bd
+www.cse.bubt.edu.bd
 www.dabhsc.edu.bd
 www.dakatiasmhschool.edu.bd.angargaraunitedhighschool.edu.bd
 www.daldalihs.edu.bd
@@ -585,6 +623,7 @@ www.mobilesbobet.gccc.edu.bd
 www.mohiminstitution.edu.bd
 www.msmfm.edu.bd
 www.munshirbazarhighschool.edu.bd
+www.nagarnursing.edu.bd
 www.nakoiladarshohs.edu.bd
 www.nambir.edu.bd
 www.nhsbir.edu.bd
@@ -598,6 +637,7 @@ www.poradiahighschool.edu.bd
 www.portal.hbuc.edu.bd
 www.portal.recr.edu.bd
 www.profile.asiannursing.edu.bd
+www.queens.edu.bd
 www.rakm.edu.bd
 www.ramnagarhighschool.edu.bd
 www.ramnagarhs.edu.bd
@@ -606,6 +646,7 @@ www.rusdwdc.edu.bd
 www.s.binnabaidmlhighschool.edu.bd
 www.saic.edu.bd
 www.saicmedical.edu.bd
+www.sapnilbd.smmplscr.edu.bd
 www.sdmadrasah.edu.bd.ihsh.edu.bd
 www.shakhatihs.edu.bd.bishnopurhighs.edu.bd
 www.sharifbagikm.edu.bd
@@ -614,8 +655,10 @@ www.simt.edu.bd
 www.sjs.edu.bd
 www.sms.katirhaths.edu.bd
 www.snmapmhs.edu.bd
+www.sreeramdiahighschool.edu.bd
 www.sristy.edu.bd
 www.srnhs.edu.bd
+www.srscf.edu.bd
 www.talmanhs.edu.bd
 www.tanorepilotmodelhs.edu.bd
 www.tarapashahsc.edu.bd
