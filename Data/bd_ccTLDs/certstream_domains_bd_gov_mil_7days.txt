@@ -14,6 +14,7 @@ app.jhalokathimunicipality.gov.bd
 application.pmo.gov.bd
 appointment.bdhckl.gov.bd
 ar.gameapp.gov.bd
+autodiscover.bangladeshfestival.gov.bd
 autodiscover.cafoemrd.gov.bd
 autodiscover.cafoshipping.gov.bd
 autodiscover.laxmipurtsc.gov.bd
@@ -27,6 +28,7 @@ aviation.bmd.gov.bd
 award.moysports.gov.bd
 bancharampurtsc.gov.bd
 bandarbantsc.gov.bd
+bangladeshfestival.gov.bd
 bard.idsdp.rdcd.gov.bd
 bargunamunicipality.gov.bd
 barisalboard.gov.bd
@@ -81,6 +83,7 @@ chapaipoura.gov.bd
 chhataktsc.gov.bd
 cims.dmp.gov.bd
 citizen.scc.gov.bd
+cjmcourtjashore.gov.bd
 college.gov.bd
 comch.gov.bd
 comillaboard.gov.bd
@@ -89,12 +92,14 @@ communitydhis.mohfw.gov.bd
 covid19pv.dgda.gov.bd
 cpadmin.scc.gov.bd
 cpanel.bandarbantsc.gov.bd
+cpanel.bangladeshfestival.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.ccdfpfm.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.gobindagonjpourashava.gov.bd
+cpanel.kanaighatmunicipality.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.nins.gov.bd
 cpanel.pabnatsc.gov.bd
@@ -102,6 +107,7 @@ cpanel.pict.gov.bd
 cpanel.psb.gov.bd
 cpanel.psdsms.gov.bd
 cpanel.railwayestate.gov.bd
+cpanel.rgccr.gov.bd
 cpanel.rmch.gov.bd
 cpanel.sac.gov.bd
 cpanel.sfcworks.gov.bd
@@ -110,12 +116,14 @@ cpanel.tangailtsc.gov.bd
 cpanel.ulipurmunicipality.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bandarbantsc.gov.bd
+cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.bdhckl.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.ccdfpfm.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.gobindagonjpourashava.gov.bd
+cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.nins.gov.bd
 cpcalendars.pabnatsc.gov.bd
@@ -123,6 +131,7 @@ cpcalendars.pict.gov.bd
 cpcalendars.psb.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcalendars.railwayestate.gov.bd
+cpcalendars.rgccr.gov.bd
 cpcalendars.rmch.gov.bd
 cpcalendars.sac.gov.bd
 cpcalendars.sfcworks.gov.bd
@@ -130,12 +139,14 @@ cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
 cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.bandarbantsc.gov.bd
+cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.bdhckl.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.ccdfpfm.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.gobindagonjpourashava.gov.bd
+cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.nins.gov.bd
 cpcontacts.pabnatsc.gov.bd
@@ -143,12 +154,14 @@ cpcontacts.pict.gov.bd
 cpcontacts.psb.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.railwayestate.gov.bd
+cpcontacts.rgccr.gov.bd
 cpcontacts.rmch.gov.bd
 cpcontacts.sac.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.syedpurtsc.gov.bd
 cpcontacts.tangailtsc.gov.bd
 cpcontacts.ulipurmunicipality.gov.bd
+cumilla.srdl.gov.bd
 customs.gov.bd
 dcadhaka.gov.bd
 dcsherpurinfo.gov.bd
@@ -159,12 +172,15 @@ dgme.gov.bd
 dhakala.gov.bd
 dhamraimunicipality.gov.bd
 dinajpurboard.gov.bd
+dp.distgopalganj.gov.bd
 dppseba.gov.bd
 du.gameapp.gov.bd
 durjog.gov.bd
 edc.srdl.gov.bd
+edu.bd.gbrcr.gov.bd
 ekpass.gov.bd
 employee-hsms.somch.gov.bd
+en.info.shr.dghs.gov.bd
 epassport1.bpodms.gov.bd
 epietracker.dghs.gov.bd
 episurveillance.dghs.gov.bd
@@ -194,6 +210,7 @@ gobindagonjpourashava.gov.bd
 habiganjpourashava.gov.bd
 hmis.dghs.gov.bd
 hosenabadtsc.gov.bd
+hotels.gov.bd
 hris-training.mohfw.gov.bd
 hsms.somch.gov.bd
 icml.gov.bd
@@ -209,6 +226,7 @@ journal.bcsadminacademy.gov.bd
 k86sport.fpmu.gov.bd
 kaizen88.fpmu.gov.bd
 kaliakairpourashava.gov.bd
+kanaighatmunicipality.gov.bd
 katiadipourashava.gov.bd
 kgmc.gov.bd
 khaac.gov.bd
@@ -224,6 +242,7 @@ logistics.gov.bd
 macro.finance.gov.bd
 magurapaurashava.gov.bd
 mail.bandarbantsc.gov.bd
+mail.bangladeshfestival.gov.bd
 mail.bargunamunicipality.gov.bd
 mail.bdhckl.gov.bd
 mail.cafoemrd.gov.bd
@@ -235,6 +254,7 @@ mail.eregistration.gov.bd
 mail.ggmcg.gov.bd
 mail.gobindagonjpourashava.gov.bd
 mail.icml.gov.bd
+mail.kanaighatmunicipality.gov.bd
 mail.laxmipurtsc.gov.bd
 mail.nilmrc.gov.bd
 mail.nins.gov.bd
@@ -245,6 +265,7 @@ mail.psb.gov.bd
 mail.psdsms.gov.bd
 mail.railwayestate.gov.bd
 mail.regionalwildlife.gov.bd
+mail.rgccr.gov.bd
 mail.rmch.gov.bd
 mail.sac.gov.bd
 mail.sfcworks.gov.bd
@@ -285,6 +306,7 @@ omsdebidwar.gov.bd
 onlineexam.gbrcr.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
+ossbhtpa.gov.bd
 pabnatsc.gov.bd
 pallisanchaybank.gov.bd
 panchagarhmunicipality.gov.bd
@@ -315,6 +337,7 @@ renewableenergy.gov.bd.sreda.gov.bd
 report.gov.bd
 result.fci.gov.bd
 revenueshare.btcl.gov.bd
+rgccr.gov.bd
 rmch.gov.bd
 rmp.gov.bd
 rndvm1.dghs.gov.bd
@@ -373,12 +396,14 @@ vr.gameapp.gov.bd
 vrmanagement.rmp.gov.bd
 water.scc.gov.bd
 webdisk.bandarbantsc.gov.bd
+webdisk.bangladeshfestival.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.ccdfpfm.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.gobindagonjpourashava.gov.bd
+webdisk.kanaighatmunicipality.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.nins.gov.bd
 webdisk.pabnatsc.gov.bd
@@ -386,6 +411,7 @@ webdisk.pict.gov.bd
 webdisk.psb.gov.bd
 webdisk.psdsms.gov.bd
 webdisk.railwayestate.gov.bd
+webdisk.rgccr.gov.bd
 webdisk.rmch.gov.bd
 webdisk.sac.gov.bd
 webdisk.sfcworks.gov.bd
@@ -393,12 +419,14 @@ webdisk.syedpurtsc.gov.bd
 webdisk.tangailtsc.gov.bd
 webdisk.ulipurmunicipality.gov.bd
 webmail.bandarbantsc.gov.bd
+webmail.bangladeshfestival.gov.bd
 webmail.bdhckl.gov.bd
 webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.ccdfpfm.gov.bd
 webmail.eregistration.gov.bd
 webmail.gobindagonjpourashava.gov.bd
+webmail.kanaighatmunicipality.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.nins.gov.bd
 webmail.pabnatsc.gov.bd
@@ -406,6 +434,7 @@ webmail.pict.gov.bd
 webmail.psb.gov.bd
 webmail.psdsms.gov.bd
 webmail.railwayestate.gov.bd
+webmail.rgccr.gov.bd
 webmail.rmch.gov.bd
 webmail.sac.gov.bd
 webmail.sfcworks.gov.bd
@@ -428,6 +457,7 @@ www.bagmarasouthup.comillalg.gov.bd
 www.bakoinorthup.comillalg.gov.bd
 www.bandarbantsc.gov.bd
 www.bangaraeastup.comillalg.gov.bd
+www.bangladeshfestival.gov.bd
 www.banihala.upmymensinghholdingtax.gov.bd
 www.bard.idsdp.rdcd.gov.bd
 www.bareraup.comillalg.gov.bd
@@ -463,11 +493,13 @@ www.cheoraup.comillalg.gov.bd
 www.chitoddaup.comillalg.gov.bd
 www.citizen.scc.gov.bd
 www.cpadmin.scc.gov.bd
+www.cumilla.srdl.gov.bd
 www.damgarup.comillalg.gov.bd
 www.demo.railwayestate.gov.bd
 www.dhakua.upmymensinghholdingtax.gov.bd
 www.dhamptiup.comillalg.gov.bd
 www.dollainowabpurup.comillalg.gov.bd
+www.dp.distgopalganj.gov.bd
 www.dppseba.gov.bd
 www.du.gameapp.gov.bd
 www.durgapurnorthup.comillalg.gov.bd
@@ -502,9 +534,11 @@ www.ispr.gov.bd
 www.jafargonjup.comillalg.gov.bd
 www.jahapurup.comillalg.gov.bd
 www.jatrapurup.comillalg.gov.bd
+www.jhalamup.comillalg.gov.bd
 www.joagup.comillalg.gov.bd
 www.kalikapurup.comillalg.gov.bd
 www.kamallaup.comillalg.gov.bd
+www.kanaighatmunicipality.gov.bd
 www.keronkhalup.comillalg.gov.bd
 www.khoshbasnorthup.comillalg.gov.bd
 www.khoshbassouthup.comillalg.gov.bd
@@ -542,6 +576,7 @@ www.perulnorthup.comillalg.gov.bd
 www.perulsouthup.comillalg.gov.bd
 www.pict.gov.bd
 www.pirjatrapurup.gov.bd
+www.pmhsr.edu.bd.gbrcr.gov.bd
 www.psb.gov.bd
 www.psdsms.gov.bd
 www.railwayestate.gov.bd
@@ -558,6 +593,7 @@ www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
 www.renewableenergy.gov.bd.sreda.gov.bd
 www.result.fci.gov.bd
+www.rgccr.gov.bd
 www.rmch.gov.bd
 www.rmp.gov.bd
 www.sac.gov.bd
