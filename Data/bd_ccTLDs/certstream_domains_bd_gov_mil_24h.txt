@@ -2,6 +2,7 @@ autodiscover.bangladeshfestival.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
 bangladeshfestival.gov.bd
+barishalcity.gov.bd
 comillalg.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.pwdta.gov.bd
@@ -14,13 +15,16 @@ cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 eappeal.taxappealctg.gov.bd
 edu.bd.gbrcr.gov.bd
+hotels.gov.bd
 institute.bise-ctg.gov.bd
+jmc.gov.bd
 mail.bangladeshfestival.gov.bd
 mail.pwdta.gov.bd
 mail.railwayestate.gov.bd
 munshiganjtsc.gov.bd
 npi.gov.bd
 ossbhtpa.gov.bd
+ppi.gov.bd
 pwdta.gov.bd
 railwayestate.gov.bd
 taxappealctg.gov.bd
@@ -49,4 +53,5 @@ www.railwayestate.gov.bd
 www.shakpurup.comillalg.gov.bd
 www.taxsurvey.gov.bd
 www.test.dsw.gov.bd
+www3.bamis.gov.bd
 zphabiganj.gov.bd
