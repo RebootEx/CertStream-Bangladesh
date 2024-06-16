@@ -181,6 +181,8 @@ autodiscover.psths.edu.bd
 autodiscover.purboguzaramsm.edu.bd
 autodiscover.rakm.edu.bd
 autodiscover.ramnagarhighschool.edu.bd
+autodiscover.rc.edu.bd
+autodiscover.ribt.edu.bd
 autodiscover.ronit.edu.bd
 autodiscover.roshangirigirlshighschool.edu.bd
 autodiscover.royalnursingcollege.edu.bd
@@ -198,6 +200,7 @@ autodiscover.suabilgirlshighschool.edu.bd
 autodiscover.sylgovaliamadrasa.edu.bd
 autodiscover.talmanhs.edu.bd
 autodiscover.tdudm.edu.bd
+autodiscover.udayanmats.edu.bd
 autodiscover.uttara.edu.bd
 autodiscover.uttarpaduahighschool.edu.bd
 autodiscover.vidm.edu.bd
@@ -355,6 +358,7 @@ cfhi.edu.bd
 cgbmhs.edu.bd
 cghighschool.edu.bd
 cgmc.edu.bd
+cgsbc.cgsnc.edu.bd
 chahutpurss.edu.bd
 chakborkhodati.edu.bd
 chalitaghatasgm.edu.bd
@@ -525,6 +529,7 @@ cpanel.northmadarshahighschool.edu.bd
 cpanel.nrnghs.edu.bd
 cpanel.paduaaudskmadrasah.edu.bd
 cpanel.panchbhulatdakhilmadrasah.edu.bd
+cpanel.pirganjgc.edu.bd
 cpanel.pkthhs.edu.bd
 cpanel.poradiahighschool.edu.bd
 cpanel.psths.edu.bd
@@ -533,6 +538,8 @@ cpanel.queens.edu.bd
 cpanel.rajapuridm.edu.bd
 cpanel.rakm.edu.bd
 cpanel.ramnagarhighschool.edu.bd
+cpanel.rc.edu.bd
+cpanel.ribt.edu.bd
 cpanel.ronit.edu.bd
 cpanel.roshangirigirlshighschool.edu.bd
 cpanel.royalnursingcollege.edu.bd
@@ -559,6 +566,7 @@ cpanel.talmanhs.edu.bd
 cpanel.tamc.edu.bd
 cpanel.tdudm.edu.bd
 cpanel.thsm.edu.bd
+cpanel.udayanmats.edu.bd
 cpanel.uttara.edu.bd
 cpanel.uttarpaduahighschool.edu.bd
 cpanel.vidm.edu.bd
@@ -684,6 +692,8 @@ cpcalendars.queens.edu.bd
 cpcalendars.rajapuridm.edu.bd
 cpcalendars.rakm.edu.bd
 cpcalendars.ramnagarhighschool.edu.bd
+cpcalendars.rc.edu.bd
+cpcalendars.ribt.edu.bd
 cpcalendars.ronit.edu.bd
 cpcalendars.roshangirigirlshighschool.edu.bd
 cpcalendars.royalnursingcollege.edu.bd
@@ -711,6 +721,7 @@ cpcalendars.talmanhs.edu.bd
 cpcalendars.tamc.edu.bd
 cpcalendars.tdudm.edu.bd
 cpcalendars.thsm.edu.bd
+cpcalendars.udayanmats.edu.bd
 cpcalendars.uttara.edu.bd
 cpcalendars.uttarpaduahighschool.edu.bd
 cpcalendars.vidm.edu.bd
@@ -837,6 +848,8 @@ cpcontacts.queens.edu.bd
 cpcontacts.rajapuridm.edu.bd
 cpcontacts.rakm.edu.bd
 cpcontacts.ramnagarhighschool.edu.bd
+cpcontacts.rc.edu.bd
+cpcontacts.ribt.edu.bd
 cpcontacts.ronit.edu.bd
 cpcontacts.roshangirigirlshighschool.edu.bd
 cpcontacts.royalnursingcollege.edu.bd
@@ -863,6 +876,7 @@ cpcontacts.talmanhs.edu.bd
 cpcontacts.tamc.edu.bd
 cpcontacts.tdudm.edu.bd
 cpcontacts.thsm.edu.bd
+cpcontacts.udayanmats.edu.bd
 cpcontacts.uttara.edu.bd
 cpcontacts.uttarpaduahighschool.edu.bd
 cpcontacts.vidm.edu.bd
@@ -1103,6 +1117,7 @@ hasnabadajbhs.edu.bd
 hasnabadhighschool.edu.bd
 hatphs.edu.bd
 hazirashidalihighschool.edu.bd
+hazirhatgovtmillatacademy.edu.bd
 hbh.edu.bd
 hblhs.edu.bd
 hbuc.edu.bd
@@ -1488,6 +1503,8 @@ mail.queens.edu.bd
 mail.rajapuridm.edu.bd
 mail.rakm.edu.bd
 mail.ramnagarhighschool.edu.bd
+mail.rc.edu.bd
+mail.ribt.edu.bd
 mail.ronit.edu.bd
 mail.roshangirigirlshighschool.edu.bd
 mail.royalnursingcollege.edu.bd
@@ -1518,6 +1535,7 @@ mail.talmanhs.edu.bd
 mail.tamc.edu.bd
 mail.tdudm.edu.bd
 mail.thsm.edu.bd
+mail.udayanmats.edu.bd
 mail.uttara.edu.bd
 mail.uttarpaduahighschool.edu.bd
 mail.vidm.edu.bd
@@ -1546,6 +1564,7 @@ mazrakuraschoolandcollege.edu.bd
 mbariahs.edu.bd
 mbcollege.edu.bd
 mbhec.edu.bd
+mci.edu.bd
 mcq.hfrcmc.edu.bd
 mcs.edu.bd
 mcshs.edu.bd
@@ -1727,6 +1746,7 @@ pigsc.edu.bd
 pihscox.edu.bd
 pinjuriuhs.edu.bd
 pioneer.edu.bd
+pirganjgc.edu.bd
 pirgasamodelhs.edu.bd
 pkhighschool.edu.bd
 pkphs.edu.bd
@@ -1797,6 +1817,7 @@ rasulphs.edu.bd
 rbbghs.edu.bd
 rbghschool.edu.bd
 rbhhs.edu.bd
+rc.edu.bd
 rckhs.edu.bd
 rcs.edu.bd
 rdct.edu.bd
@@ -1810,6 +1831,7 @@ rgghsr.edu.bd
 rgpghs.edu.bd
 rgs118681.edu.bd
 rhrush.edu.bd
+ribt.edu.bd
 riddhy.edu.bd
 rishikulgirlshs.edu.bd
 rkmhs.edu.bd
@@ -2030,6 +2052,7 @@ uchakhilahss.edu.bd
 ucham.edu.bd
 ucmhighschool.edu.bd
 udayanadrshahighschool.edu.bd
+udayanmats.edu.bd
 udayansecondaryschool.edu.bd
 uighs.edu.bd
 ulipuraghs.edu.bd
@@ -2060,6 +2083,7 @@ virtualhub.eastdelta.edu.bd
 vm3.iom.edu.bd
 vps.ndc.edu.bd
 wahs.edu.bd
+web.cgsnc.edu.bd
 webdisk.abdullapursschool.edu.bd
 webdisk.adarshahighkmhatfeni.edu.bd
 webdisk.ajchs.edu.bd
@@ -2180,6 +2204,8 @@ webdisk.queens.edu.bd
 webdisk.rajapuridm.edu.bd
 webdisk.rakm.edu.bd
 webdisk.ramnagarhighschool.edu.bd
+webdisk.rc.edu.bd
+webdisk.ribt.edu.bd
 webdisk.ronit.edu.bd
 webdisk.roshangirigirlshighschool.edu.bd
 webdisk.royalnursingcollege.edu.bd
@@ -2206,6 +2232,7 @@ webdisk.talmanhs.edu.bd
 webdisk.tamc.edu.bd
 webdisk.tdudm.edu.bd
 webdisk.thsm.edu.bd
+webdisk.udayanmats.edu.bd
 webdisk.uttara.edu.bd
 webdisk.uttarpaduahighschool.edu.bd
 webdisk.vidm.edu.bd
@@ -2321,6 +2348,7 @@ webmail.northmadarshahighschool.edu.bd
 webmail.nrnghs.edu.bd
 webmail.paduaaudskmadrasah.edu.bd
 webmail.panchbhulatdakhilmadrasah.edu.bd
+webmail.pirganjgc.edu.bd
 webmail.pkthhs.edu.bd
 webmail.poradiahighschool.edu.bd
 webmail.psths.edu.bd
@@ -2329,6 +2357,8 @@ webmail.queens.edu.bd
 webmail.rajapuridm.edu.bd
 webmail.rakm.edu.bd
 webmail.ramnagarhighschool.edu.bd
+webmail.rc.edu.bd
+webmail.ribt.edu.bd
 webmail.riddhy.edu.bd
 webmail.ronit.edu.bd
 webmail.roshangirigirlshighschool.edu.bd
@@ -2357,6 +2387,7 @@ webmail.talmanhs.edu.bd
 webmail.tamc.edu.bd
 webmail.tdudm.edu.bd
 webmail.thsm.edu.bd
+webmail.udayanmats.edu.bd
 webmail.uttara.edu.bd
 webmail.uttarpaduahighschool.edu.bd
 webmail.vidm.edu.bd
@@ -2495,6 +2526,7 @@ www.cdbgirlshighschool.edu.bd
 www.cdhddm.edu.bd
 www.cdhs1993.edu.bd
 www.cgbmhs.edu.bd
+www.cgsbc.cgsnc.edu.bd
 www.chakborkhodati.edu.bd
 www.chalitaghatasgm.edu.bd
 www.chalkbazarjhs.edu.bd
@@ -2753,6 +2785,7 @@ www.mazamnagarsecondaryschool.edu.bd
 www.mazrakuraschoolandcollege.edu.bd.ihsh.edu.bd
 www.mbariahs.edu.bd
 www.mbhec.edu.bd
+www.mci.edu.bd
 www.mcq.gachhbariidealcollege.edu.bd
 www.medhabikash.edu.bd
 www.medinipurhs.edu.bd.tma.edu.bd
@@ -2826,6 +2859,7 @@ www.pes.just.edu.bd
 www.pharmacy.uoda.edu.bd
 www.phy.butex.edu.bd
 www.pihscox.edu.bd.bpphs.edu.bd
+www.pirganjgc.edu.bd
 www.pirgasamodelhs.edu.bd
 www.pkthhs.edu.bd
 www.pmch.edu.bd
@@ -2857,9 +2891,11 @@ www.ramnagarhs.edu.bd
 www.ranibghschool.edu.bd
 www.rbghschool.edu.bd
 www.rbhhs.edu.bd
+www.rc.edu.bd
 www.rcs.edu.bd
 www.results.ahskbera.edu.bd
 www.rgpghs.edu.bd
+www.ribt.edu.bd
 www.riddhy.edu.bd
 www.rishikulgirlshs.edu.bd
 www.rmhschool.edu.bd
@@ -2974,6 +3010,7 @@ www.training.gpi.edu.bd
 www.tssbb.edu.bd
 www.uasam.edu.bd
 www.ucham.edu.bd
+www.udayanmats.edu.bd
 www.ulipuraghs.edu.bd.ulipurmssc.edu.bd
 www.ulipurmscollege.djs.edu.bd
 www.ums.krc.edu.bd
@@ -2988,6 +3025,7 @@ www.vbhsmn.edu.bd.tma.edu.bd
 www.vcr.edu.bd
 www.veemnagarhs.edu.bd
 www.vidm.edu.bd
+www.web.cgsnc.edu.bd
 www.web.infra.edu.bd
 www.westghs.edu.bd.bpphs.edu.bd
 www.whatsapp.gachhbariidealcollege.edu.bd
