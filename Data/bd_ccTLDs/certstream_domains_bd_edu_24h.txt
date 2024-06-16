@@ -6,6 +6,7 @@ admission.vu.edu.bd
 aehs.edu.bd
 ajchs.edu.bd
 akijhec.edu.bd
+alinagorhs.edu.bd
 amschaluaghat.edu.bd
 angargaraunitedhighschool.edu.bd
 annex.bubt.edu.bd
@@ -22,6 +23,7 @@ autodiscover.chakpranhs.edu.bd
 autodiscover.hkm.edu.bd
 autodiscover.kucghighschool.edu.bd
 autodiscover.machparacollege.edu.bd
+autodiscover.nfidm.edu.bd
 autodiscover.noaparahsctg.edu.bd
 autodiscover.pkthhs.edu.bd
 autodiscover.rakm.edu.bd
@@ -78,6 +80,7 @@ cpanel.khashhashil.edu.bd
 cpanel.kucghighschool.edu.bd
 cpanel.machparacollege.edu.bd
 cpanel.nationalcollege.edu.bd
+cpanel.nfidm.edu.bd
 cpanel.noaparahsctg.edu.bd
 cpanel.pkthhs.edu.bd
 cpanel.rajcpsc.edu.bd
@@ -102,6 +105,7 @@ cpcalendars.khashhashil.edu.bd
 cpcalendars.kucghighschool.edu.bd
 cpcalendars.machparacollege.edu.bd
 cpcalendars.nationalcollege.edu.bd
+cpcalendars.nfidm.edu.bd
 cpcalendars.noaparahsctg.edu.bd
 cpcalendars.pkthhs.edu.bd
 cpcalendars.rajcpsc.edu.bd
@@ -127,6 +131,7 @@ cpcontacts.khashhashil.edu.bd
 cpcontacts.kucghighschool.edu.bd
 cpcontacts.machparacollege.edu.bd
 cpcontacts.nationalcollege.edu.bd
+cpcontacts.nfidm.edu.bd
 cpcontacts.noaparahsctg.edu.bd
 cpcontacts.pkthhs.edu.bd
 cpcontacts.rajcpsc.edu.bd
@@ -185,6 +190,7 @@ harinathpurgss.edu.bd
 hazikhaliss.edu.bd
 heakmam.edu.bd
 hkm.edu.bd
+hmrchs.edu.bd
 iems.traumainstitute.edu.bd
 ighsp.edu.bd
 iims.aaushs.edu.bd
@@ -257,7 +263,9 @@ mail.kucghighschool.edu.bd
 mail.machparacollege.edu.bd
 mail.mavenwood.edu.bd
 mail.nationalcollege.edu.bd
+mail.nfidm.edu.bd
 mail.noaparahsctg.edu.bd
+mail.nsmhhs.edu.bd
 mail.padc.edu.bd
 mail.pkthhs.edu.bd
 mail.puradchs33.edu.bd
@@ -280,6 +288,7 @@ mavenwood.edu.bd
 mci.edu.bd
 mhsp.edu.bd
 milonpurhs.edu.bd
+mlhs.mlhschool.edu.bd
 modelhighschool.edu.bd
 monowara.anowara.edu.bd
 moodle.sub.edu.bd
@@ -289,9 +298,11 @@ nakgh.edu.bd
 nakoiladarshohs.edu.bd
 nasc.edu.bd
 nationalcollege.edu.bd
+naziburrahmangirlshighschool.edu.bd
 ndsc.edu.bd
 nekjahan.edu.bd
 nfgc.edu.bd
+nfidm.edu.bd
 ngmlhsc.edu.bd
 nhschool.edu.bd
 nidmadrasah.edu.bd
@@ -299,6 +310,7 @@ niist.edu.bd
 nkdmmc.edu.bd
 nnnusfm.edu.bd
 noaparahsctg.edu.bd
+nsmhhs.edu.bd
 nss1990.edu.bd
 nuc.edu.bd
 ois.edu.bd
@@ -325,6 +337,8 @@ rajcpsc.edu.bd
 rakm.edu.bd
 ramgaonschool.edu.bd
 ramms.edu.bd
+ranibghschool.edu.bd
+rbhhs.edu.bd
 rgchighschool.edu.bd
 rgpghs.edu.bd
 rgss.edu.bd
@@ -394,6 +408,7 @@ webdisk.khashhashil.edu.bd
 webdisk.kucghighschool.edu.bd
 webdisk.machparacollege.edu.bd
 webdisk.nationalcollege.edu.bd
+webdisk.nfidm.edu.bd
 webdisk.noaparahsctg.edu.bd
 webdisk.pkthhs.edu.bd
 webdisk.rajcpsc.edu.bd
@@ -418,6 +433,7 @@ webmail.khashhashil.edu.bd
 webmail.kucghighschool.edu.bd
 webmail.machparacollege.edu.bd
 webmail.nationalcollege.edu.bd
+webmail.nfidm.edu.bd
 webmail.noaparahsctg.edu.bd
 webmail.pkthhs.edu.bd
 webmail.rajcpsc.edu.bd
@@ -444,6 +460,7 @@ www.admin.jamunacollegemr.edu.bd
 www.admission.vu.edu.bd
 www.aehs.edu.bd
 www.ajchs.edu.bd
+www.alinagorhs.edu.bd
 www.amschaluaghat.edu.bd.ihsh.edu.bd
 www.annex.bubt.edu.bd
 www.anowara.edu.bd
@@ -533,13 +550,16 @@ www.mail.hmjacc.edu.bd
 www.mavenwood.edu.bd
 www.mci.edu.bd
 www.mhsp.edu.bd
+www.mlhs.mlhschool.edu.bd
 www.modelhighschool.edu.bd
 www.nakoiladarshohs.edu.bd
 www.nasc.edu.bd
 www.nationalcollege.edu.bd
+www.nfidm.edu.bd
 www.ngmlhsc.edu.bd
 www.nkdmmc.edu.bd
 www.noaparahsctg.edu.bd
+www.nsmhhs.edu.bd
 www.ois.edu.bd
 www.padc.edu.bd
 www.pakuriahs.edu.bd
@@ -553,6 +573,8 @@ www.puradchs33.edu.bd
 www.rajcpsc.edu.bd
 www.rakm.edu.bd
 www.ramms.edu.bd
+www.ranibghschool.edu.bd
+www.rbhhs.edu.bd
 www.rgchighschool.edu.bd
 www.rgpghs.edu.bd
 www.rmhschool.edu.bd
