@@ -14,6 +14,7 @@ ar.gameapp.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.laxmipurtsc.gov.bd
 autodiscover.pict.gov.bd
+autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
 autodiscover.rmch.gov.bd
 autodiscover.tangailtsc.gov.bd
@@ -89,6 +90,7 @@ cpanel.nins.gov.bd
 cpanel.pict.gov.bd
 cpanel.psb.gov.bd
 cpanel.psdsms.gov.bd
+cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
 cpanel.rgccr.gov.bd
 cpanel.rmch.gov.bd
@@ -109,6 +111,7 @@ cpcalendars.nins.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psb.gov.bd
 cpcalendars.psdsms.gov.bd
+cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.rgccr.gov.bd
 cpcalendars.rmch.gov.bd
@@ -128,6 +131,7 @@ cpcontacts.nins.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psb.gov.bd
 cpcontacts.psdsms.gov.bd
+cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.rgccr.gov.bd
 cpcontacts.rmch.gov.bd
@@ -224,6 +228,7 @@ mail.pbi.gov.bd
 mail.pict.gov.bd
 mail.psb.gov.bd
 mail.psdsms.gov.bd
+mail.pwdta.gov.bd
 mail.railwayestate.gov.bd
 mail.regionalwildlife.gov.bd
 mail.rgccr.gov.bd
@@ -276,6 +281,7 @@ proxy.mcishr.dghs.gov.bd
 psb.gov.bd
 psdsms.gov.bd
 pts.bcc.gov.bd
+pwdta.gov.bd
 railwayestate.gov.bd
 rajbaripourashava.gov.bd
 rangamaticollege.gov.bd
@@ -323,6 +329,7 @@ taxeszone16dhaka.gov.bd
 taxsurvey.gov.bd
 tdmtraining.finance.gov.bd
 tds.taxeszone9dhaka.gov.bd
+test.dsw.gov.bd
 test.gameapp.gov.bd
 test.jaldhakamunicipality.gov.bd
 test.jamalpurttc.gov.bd
@@ -353,6 +360,7 @@ webdisk.nins.gov.bd
 webdisk.pict.gov.bd
 webdisk.psb.gov.bd
 webdisk.psdsms.gov.bd
+webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.rgccr.gov.bd
 webdisk.rmch.gov.bd
@@ -372,6 +380,7 @@ webmail.nins.gov.bd
 webmail.pict.gov.bd
 webmail.psb.gov.bd
 webmail.psdsms.gov.bd
+webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
 webmail.rgccr.gov.bd
 webmail.rmch.gov.bd
@@ -509,6 +518,7 @@ www.pmhsr.edu.bd.gbrcr.gov.bd
 www.portal.taxappealctg.gov.bd
 www.psb.gov.bd
 www.psdsms.gov.bd
+www.pwdta.gov.bd
 www.railwayestate.gov.bd
 www.rajameherup.comillalg.gov.bd
 www.rajapurup.comillalg.gov.bd
@@ -552,6 +562,7 @@ www.syedpurtsc.gov.bd
 www.tangailtsc.gov.bd
 www.taxsurvey.gov.bd
 www.tds.taxeszone9dhaka.gov.bd
+www.test.dsw.gov.bd
 www.test.gameapp.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.test.jamalpurttc.gov.bd
