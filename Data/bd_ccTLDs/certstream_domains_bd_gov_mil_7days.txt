@@ -75,6 +75,7 @@ cjmcourtjashore.gov.bd
 college.gov.bd
 collegeiif.bise-ctg.gov.bd
 comch.gov.bd
+comilla.gov.bd
 comillaboard.gov.bd
 comillalg.gov.bd
 cpanel.bangladeshfestival.gov.bd
@@ -84,6 +85,7 @@ cpanel.ictbdiasms.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.jmc.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
+cpanel.mspvaw109.gov.bd
 cpanel.pict.gov.bd
 cpanel.psdsms.gov.bd
 cpanel.pwdta.gov.bd
@@ -101,6 +103,7 @@ cpcalendars.ictbdiasms.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.jmc.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
+cpcalendars.mspvaw109.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcalendars.pwdta.gov.bd
@@ -118,6 +121,7 @@ cpcontacts.ictbdiasms.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.jmc.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
+cpcontacts.mspvaw109.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.pwdta.gov.bd
@@ -163,6 +167,7 @@ etds.gov.bd
 etender.bise-ctg.gov.bd
 etracker.dghs.gov.bd
 everify.comillaboard.gov.bd
+faridpur.gov.bd
 fc.distgopalganj.gov.bd
 fdr.btcl.gov.bd
 feedback.karmasangsthanbank.gov.bd
@@ -194,6 +199,8 @@ katiadipourashava.gov.bd
 kcchatt.gov.bd
 kcctl.gov.bd
 keshorhatpourashava.gov.bd
+khagrachhari.gov.bd
+khulna.gov.bd
 kuliarcharpourashava.gov.bd
 ladhaka.gov.bd
 lb.ictbdiasms.gov.bd
@@ -202,6 +209,8 @@ ldtax.gov.bd
 lis.bwdb.gov.bd
 logistics.gov.bd
 macro.finance.gov.bd
+madaripur.gov.bd
+magura.gov.bd
 magurapaurashava.gov.bd
 mail.bangladeshfestival.gov.bd
 mail.bdhckl.gov.bd
@@ -217,6 +226,7 @@ mail.institute.comillaboard.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.jmc.gov.bd
 mail.kanaighatmunicipality.gov.bd
+mail.mspvaw109.gov.bd
 mail.nilmrc.gov.bd
 mail.onlinepayment.comillaboard.gov.bd
 mail.onlineschooltc.comillaboard.gov.bd
@@ -242,14 +252,20 @@ milkvita.idsdp.rdcd.gov.bd
 mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
+mspvaw109.gov.bd
 muladimunicipality.gov.bd
 munshiganjtsc.gov.bd
 mylocker.gov.bd
+mymensinghdiv.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
 nameletter.comillaboard.gov.bd
+naogaon.gov.bd
+narail.gov.bd
 narailtsc.gov.bd
+narsingdi.gov.bd
 narsingdilg.gov.bd
+natore.gov.bd
 nazipurpourashava.gov.bd
 netrokonatsc.gov.bd
 new.cafomolwa.gov.bd
@@ -283,6 +299,8 @@ pwdta.gov.bd
 qb.comillaboard.gov.bd
 railwayestate.gov.bd
 rajbaripourashava.gov.bd
+rajshahi.gov.bd
+rajshahidiv.gov.bd
 ranisankailpourashava.gov.bd
 rca-lged.gov.bd
 reeep.sreda.gov.bd
@@ -310,8 +328,10 @@ sac.gov.bd
 sacgov.sac.gov.bd
 scholarship.dsw.gov.bd
 sgc.gov.bd
+shariatpur.gov.bd
 shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
+sherpur.gov.bd
 sherpurpolice.gov.bd
 shibpurpaurashava.gov.bd
 shift.gov.bd
@@ -344,6 +364,7 @@ test.bfacf-ticket.gov.bd
 test.dsw.gov.bd
 test.gameapp.gov.bd
 test.jaldhakamunicipality.gov.bd
+training-adp.plancomm.gov.bd
 transmission.btcl.gov.bd
 ttc.gov.bd
 ttcraj.gov.bd
@@ -366,6 +387,7 @@ webdisk.ictbdiasms.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.jmc.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
+webdisk.mspvaw109.gov.bd
 webdisk.pict.gov.bd
 webdisk.psdsms.gov.bd
 webdisk.pwdta.gov.bd
@@ -382,6 +404,7 @@ webmail.ictbdiasms.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.jmc.gov.bd
 webmail.kanaighatmunicipality.gov.bd
+webmail.mspvaw109.gov.bd
 webmail.pict.gov.bd
 webmail.psdsms.gov.bd
 webmail.pwdta.gov.bd
@@ -501,6 +524,7 @@ www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mohanpurup.comillalg.gov.bd
 www.mohichialup.comillalg.gov.bd
+www.mspvaw109.gov.bd
 www.muladimunicipality.gov.bd
 www.muradnagarsadarup.comillalg.gov.bd
 www.naldangamunicipality.gov.bd
