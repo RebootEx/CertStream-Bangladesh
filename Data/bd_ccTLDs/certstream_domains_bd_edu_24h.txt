@@ -23,6 +23,7 @@ autodiscover.hkm.edu.bd
 autodiscover.htdc.edu.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
 autodiscover.kucghighschool.edu.bd
+autodiscover.noaparahsctg.edu.bd
 autodiscover.rglhs.edu.bd
 autodiscover.rimcollege.edu.bd
 autodiscover.sualokhs.edu.bd
@@ -92,6 +93,7 @@ cpanel.kucghighschool.edu.bd
 cpanel.machhmarahs.edu.bd
 cpanel.machmailghs.edu.bd
 cpanel.nationalcollege.edu.bd
+cpanel.noaparahsctg.edu.bd
 cpanel.nssdk.edu.bd
 cpanel.palshahs.edu.bd
 cpanel.panishailhs.edu.bd
@@ -121,6 +123,7 @@ cpcalendars.htdc.edu.bd
 cpcalendars.kaliakairkhanhighschool.edu.bd
 cpcalendars.kucghighschool.edu.bd
 cpcalendars.nationalcollege.edu.bd
+cpcalendars.noaparahsctg.edu.bd
 cpcalendars.pirganjcollege.edu.bd
 cpcalendars.primeuniversity.edu.bd
 cpcalendars.rajcpsc.edu.bd
@@ -141,6 +144,7 @@ cpcontacts.htdc.edu.bd
 cpcontacts.kaliakairkhanhighschool.edu.bd
 cpcontacts.kucghighschool.edu.bd
 cpcontacts.nationalcollege.edu.bd
+cpcontacts.noaparahsctg.edu.bd
 cpcontacts.pirganjcollege.edu.bd
 cpcontacts.primeuniversity.edu.bd
 cpcontacts.rajcpsc.edu.bd
@@ -153,6 +157,7 @@ cpcontacts.surjyakana.edu.bd
 cpcontacts.udayandentalcollege.edu.bd
 cpcontacts.udayanmats.edu.bd
 daffodilvarsity.edu.bd
+dbsc.edu.bd
 delta.edu.bd
 dmdc.edu.bd
 dmuapghs.edu.bd
@@ -195,6 +200,7 @@ gareyacollege.edu.bd
 gauss.edu.bd
 gbahs.edu.bd
 gbpsgschool.edu.bd
+gccc.edu.bd
 ghkamc.edu.bd
 glenrich.edu.bd
 globaluniversity.edu.bd
@@ -211,6 +217,7 @@ hkm.edu.bd
 hnhskm.edu.bd
 horipurhsbr.edu.bd
 hshs1985.edu.bd
+hsjrsc.edu.bd
 htbmc.edu.bd
 htdc.edu.bd
 idm.edu.bd
@@ -218,6 +225,7 @@ iems.traumainstitute.edu.bd
 iqac.bubt.edu.bd
 ishs1999.edu.bd
 itbariauck.edu.bd
+ithm.primeasia.edu.bd
 jaintiacollege.edu.bd
 jamunacollegemr.edu.bd
 jbdc.edu.bd
@@ -283,6 +291,7 @@ mail.kucghighschool.edu.bd
 mail.machhmarahs.edu.bd
 mail.machmailghs.edu.bd
 mail.nationalcollege.edu.bd
+mail.noaparahsctg.edu.bd
 mail.nssdk.edu.bd
 mail.padc.edu.bd
 mail.palshahs.edu.bd
@@ -320,8 +329,10 @@ new.kharkhoriadm.edu.bd
 nfgc.edu.bd
 nidmadrasah.edu.bd
 nnnusfm.edu.bd
+noaparahsctg.edu.bd
 nssdk.edu.bd
 old.daffodilvarsity.edu.bd
+otsghs.edu.bd
 padc.edu.bd
 palpurhs.edu.bd
 palshahs.edu.bd
@@ -403,6 +414,7 @@ webdisk.htdc.edu.bd
 webdisk.kaliakairkhanhighschool.edu.bd
 webdisk.kucghighschool.edu.bd
 webdisk.nationalcollege.edu.bd
+webdisk.noaparahsctg.edu.bd
 webdisk.pirganjcollege.edu.bd
 webdisk.primeuniversity.edu.bd
 webdisk.rajcpsc.edu.bd
@@ -443,6 +455,7 @@ webmail.kucghighschool.edu.bd
 webmail.machhmarahs.edu.bd
 webmail.machmailghs.edu.bd
 webmail.nationalcollege.edu.bd
+webmail.noaparahsctg.edu.bd
 webmail.nssdk.edu.bd
 webmail.palshahs.edu.bd
 webmail.panishailhs.edu.bd
@@ -513,6 +526,7 @@ www.htbmc.edu.bd.ihsh.edu.bd
 www.htdc.edu.bd
 www.idm.edu.bd
 www.iqac.bubt.edu.bd
+www.ithm.primeasia.edu.bd
 www.jaintiacollege.edu.bd
 www.joypurdhs.edu.bd.bakapurhighschool.edu.bd
 www.kakrschool.com.shishupalliacademy.edu.bd
@@ -533,6 +547,7 @@ www.nasc.edu.bd
 www.nationalcollege.edu.bd
 www.ndub.edu.bd
 www.new.kharkhoriadm.edu.bd
+www.noaparahsctg.edu.bd
 www.nssdk.edu.bd
 www.padc.edu.bd
 www.palshahs.edu.bd
