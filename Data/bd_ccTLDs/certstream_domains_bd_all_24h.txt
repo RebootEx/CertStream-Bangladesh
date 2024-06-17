@@ -99,6 +99,7 @@ autodiscover.hellodhaka.com.bd
 autodiscover.hkm.edu.bd
 autodiscover.htdc.edu.bd
 autodiscover.intellexis.com.bd
+autodiscover.invento.com.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.itnawork.com.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
@@ -296,6 +297,7 @@ cpanel.htdc.edu.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.idm.edu.bd
 cpanel.intellexis.com.bd
+cpanel.invento.com.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.itnawork.com.bd
 cpanel.jmc.gov.bd
@@ -368,6 +370,7 @@ cpcalendars.hkm.edu.bd
 cpcalendars.htdc.edu.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.intellexis.com.bd
+cpcalendars.invento.com.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.itnawork.com.bd
 cpcalendars.jmc.gov.bd
@@ -423,6 +426,7 @@ cpcontacts.hkm.edu.bd
 cpcontacts.htdc.edu.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.intellexis.com.bd
+cpcontacts.invento.com.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.itnawork.com.bd
 cpcontacts.jmc.gov.bd
@@ -561,6 +565,7 @@ fantasy.com.bd
 fantasy.legendary.com.bd
 fantech.com.bd
 fashionpark.com.bd
+fastrackcargo.com.bd
 fasttextile.com.bd
 fdr.bdren.net.bd
 ferdous.com.bd
@@ -682,6 +687,7 @@ idm.edu.bd
 iems.traumainstitute.edu.bd
 ilim.edu.bd
 ilmshare.com.bd
+imax.com.bd
 ims.btcn.com.bd
 infinitech.com.bd
 infolinktech.com.bd
@@ -692,6 +698,7 @@ institution.comillaboard.gov.bd
 intellexis.com.bd
 interface.com.bd
 interiordesign.com.bd
+invento.com.bd
 inventory.dbwctp64.gov.bd
 inventos.bluenoise.com.bd
 invitation.galaxyholidays.com.bd
@@ -851,6 +858,7 @@ mail.ictbdiasms.gov.bd
 mail.idm.edu.bd
 mail.institute.comillaboard.gov.bd
 mail.intellexis.com.bd
+mail.invento.com.bd
 mail.iresppw-brdb.gov.bd
 mail.itnawork.com.bd
 mail.jmc.gov.bd
@@ -1017,6 +1025,8 @@ otsghs.edu.bd
 ownfood.com.bd
 padc.edu.bd
 palgaonmhs.edu.bd
+palke.com.bd
+palok.risho.org.bd
 palpurhs.edu.bd
 palshahs.edu.bd
 panchagarhmunicipality.gov.bd
@@ -1027,6 +1037,7 @@ pay.projukti.net.bd
 pay.saikat.com.bd
 pb-admin.tolpar.com.bd
 pb.tolpar.com.bd
+pbbdm.edu.bd
 pddbuidm.edu.bd
 pension.comillaboard.gov.bd
 perfumebangladesh.com.bd
@@ -1177,6 +1188,7 @@ sktsc.edu.bd
 skynet.com.bd
 sm.krghs.edu.bd
 smartdeal.com.bd
+smartgarden.com.bd
 smartisp.com.bd
 smartmom.com.bd
 smartpanjabishop.com.bd
@@ -1236,6 +1248,7 @@ teacher.bise-ctg.gov.bd
 team.cashbook.com.bd
 techway.com.bd
 tekatiass.edu.bd
+tekline.net.bd
 telezen.sil.com.bd
 teslapower.com.bd
 test.a4admission.com.bd
@@ -1280,6 +1293,7 @@ ukhiyacollege.edu.bd
 umart.com.bd
 unicart.com.bd
 uniqueconsultancy.com.bd
+unitedshipping.com.bd
 uoda.edu.bd
 upakuliahs.edu.bd
 ups.deshishop.com.bd
@@ -1324,6 +1338,7 @@ webdisk.hkm.edu.bd
 webdisk.htdc.edu.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.intellexis.com.bd
+webdisk.invento.com.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.itnawork.com.bd
 webdisk.jmc.gov.bd
@@ -1404,6 +1419,7 @@ webmail.htdc.edu.bd
 webmail.ictbdiasms.gov.bd
 webmail.idm.edu.bd
 webmail.intellexis.com.bd
+webmail.invento.com.bd
 webmail.iresppw-brdb.gov.bd
 webmail.itnawork.com.bd
 webmail.jmc.gov.bd
@@ -1666,6 +1682,7 @@ www.innovative.com.bd
 www.institute.comillaboard.gov.bd
 www.intellexis.com.bd
 www.interiordesign.com.bd
+www.invento.com.bd
 www.inventory.dbwctp64.gov.bd
 www.iqac.bdu.ac.bd
 www.iqac.bubt.edu.bd
