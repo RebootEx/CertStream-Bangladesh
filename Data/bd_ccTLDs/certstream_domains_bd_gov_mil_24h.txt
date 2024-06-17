@@ -7,6 +7,7 @@ admitcard.comillaboard.gov.bd
 ams.distgopalganj.gov.bd
 api.vaxepi.gov.bd
 assignmentmarks.comillaboard.gov.bd
+autodiscover.caabhc.gov.bd
 autodiscover.cumillattc.gov.bd
 bandarban.gov.bd
 barguna.gov.bd
@@ -24,9 +25,11 @@ comillaboard.gov.bd
 cpanel.cumillattc.gov.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.jmc.gov.bd
+cpcalendars.caabhc.gov.bd
 cpcalendars.cumillattc.gov.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.jmc.gov.bd
+cpcontacts.caabhc.gov.bd
 cpcontacts.cumillattc.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.jmc.gov.bd
@@ -52,11 +55,13 @@ hscadmit.bise-ctg.gov.bd
 ictbdiasms.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
+inventory.dbwctp64.gov.bd
 jmc.gov.bd
 jobsbiwta.gov.bd
 jresult.bise-ctg.gov.bd
 keshorhatpourashava.gov.bd
 lb.ictbdiasms.gov.bd
+mail.caabhc.gov.bd
 mail.cpatos.gov.bd
 mail.cumillattc.gov.bd
 mail.gca.comillaboard.gov.bd
@@ -90,6 +95,7 @@ result19.comillaboard.gov.bd
 rollsheet.comillaboard.gov.bd
 senbagmunicipality.gov.bd
 shr.mcishr.dghs.gov.bd
+smartschoolbus.gov.bd
 sonalipayment.comillaboard.gov.bd
 spg.comillaboard.gov.bd
 srngih.gov.bd
@@ -101,8 +107,10 @@ sunamganjpourashava.gov.bd
 taxcertificate.comillaboard.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
+test.bfacf-ticket.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 web.comillaboard.gov.bd
+webdisk.caabhc.gov.bd
 webdisk.cumillattc.gov.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.jmc.gov.bd
@@ -115,6 +123,7 @@ www.amdiaup.narsingdilg.gov.bd
 www.ams.distgopalganj.gov.bd
 www.assignmentmarks.comillaboard.gov.bd
 www.basb.gov.bd
+www.bvcdoctor.bvc.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.comillaboard.gov.bd
 www.cumillattc.gov.bd
@@ -124,6 +133,7 @@ www.gca.comillaboard.gov.bd
 www.hscadmission.comillaboard.gov.bd
 www.ictbdiasms.gov.bd
 www.institute.comillaboard.gov.bd
+www.inventory.dbwctp64.gov.bd
 www.jmc.gov.bd
 www.keshorhatpourashava.gov.bd
 www.lb.ictbdiasms.gov.bd
