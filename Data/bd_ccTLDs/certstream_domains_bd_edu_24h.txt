@@ -1,5 +1,7 @@
 2023.baurshs.edu.bd
 adamdighi-rudc.edu.bd
+admission.uob.edu.bd
+admission.vu.edu.bd
 ahamc.edu.bd
 akijhec.edu.bd
 akmcc.edu.bd
@@ -11,6 +13,7 @@ app.chargobindapur.edu.bd
 app.rghighschool.edu.bd
 arc.edu.bd
 asset.cub.edu.bd
+atidashraghugaildakhilmadrasha.edu.bd
 autodiscover.aksmdm.edu.bd
 autodiscover.bdahs.edu.bd
 autodiscover.chakpranhs.edu.bd
@@ -20,6 +23,8 @@ autodiscover.kaliakairkhanhighschool.edu.bd
 autodiscover.kucghighschool.edu.bd
 autodiscover.rimcollege.edu.bd
 autodiscover.sualokhs.edu.bd
+autodiscover.udayanmats.edu.bd
+badar-ist.edu.bd
 bafsc.edu.bd
 baigachahs.edu.bd
 banalataghs.edu.bd
@@ -79,6 +84,7 @@ cpanel.nssdk.edu.bd
 cpanel.palshahs.edu.bd
 cpanel.panishailhs.edu.bd
 cpanel.pimdcpr.edu.bd
+cpanel.pirganjcollege.edu.bd
 cpanel.primeuniversity.edu.bd
 cpanel.rajabarihatghs.edu.bd
 cpanel.rajcpsc.edu.bd
@@ -89,6 +95,7 @@ cpanel.satarihs.edu.bd
 cpanel.sdmp.edu.bd
 cpanel.soyedpursmhs.edu.bd
 cpanel.sualokhs.edu.bd
+cpanel.udayanmats.edu.bd
 cpcalendars.aksmdm.edu.bd
 cpcalendars.bdahs.edu.bd
 cpcalendars.chakpranhs.edu.bd
@@ -98,11 +105,13 @@ cpcalendars.htdc.edu.bd
 cpcalendars.kaliakairkhanhighschool.edu.bd
 cpcalendars.kucghighschool.edu.bd
 cpcalendars.nationalcollege.edu.bd
+cpcalendars.pirganjcollege.edu.bd
 cpcalendars.primeuniversity.edu.bd
 cpcalendars.rajcpsc.edu.bd
 cpcalendars.rimcollege.edu.bd
 cpcalendars.rkgdm.edu.bd
 cpcalendars.sualokhs.edu.bd
+cpcalendars.udayanmats.edu.bd
 cpcontacts.aksmdm.edu.bd
 cpcontacts.bdahs.edu.bd
 cpcontacts.chakpranhs.edu.bd
@@ -112,11 +121,13 @@ cpcontacts.htdc.edu.bd
 cpcontacts.kaliakairkhanhighschool.edu.bd
 cpcontacts.kucghighschool.edu.bd
 cpcontacts.nationalcollege.edu.bd
+cpcontacts.pirganjcollege.edu.bd
 cpcontacts.primeuniversity.edu.bd
 cpcontacts.rajcpsc.edu.bd
 cpcontacts.rimcollege.edu.bd
 cpcontacts.rkgdm.edu.bd
 cpcontacts.sualokhs.edu.bd
+cpcontacts.udayanmats.edu.bd
 dmdc.edu.bd
 dmuapghs.edu.bd
 dwipnagarhs.edu.bd
@@ -167,6 +178,7 @@ halimahs.edu.bd
 hamirkutsahs.edu.bd
 haziamzadaliacademy.edu.bd
 hazikhaliss.edu.bd
+hazirhatgovtmillatacademy.edu.bd
 hkm.edu.bd
 horipurhsbr.edu.bd
 hshs1985.edu.bd
@@ -179,6 +191,7 @@ itbariauck.edu.bd
 jaintiacollege.edu.bd
 jamunacollegemr.edu.bd
 jbdc.edu.bd
+jlmc.edu.bd
 jnhs.edu.bd
 jubgalli.edu.bd
 kaass.edu.bd
@@ -198,6 +211,7 @@ lokmanpurcollege.edu.bd
 machhmarahs.edu.bd
 machmailghs.edu.bd
 mahmudabadrarhsc.edu.bd
+mahmudpurblhighschool.edu.bd
 mail.aksmdm.edu.bd
 mail.alhajershadaliwomenscollege.edu.bd
 mail.bafsc.edu.bd
@@ -234,6 +248,7 @@ mail.padc.edu.bd
 mail.palshahs.edu.bd
 mail.panishailhs.edu.bd
 mail.pimdcpr.edu.bd
+mail.pirganjcollege.edu.bd
 mail.primeuniversity.edu.bd
 mail.rajabarihatghs.edu.bd
 mail.rajcpsc.edu.bd
@@ -246,6 +261,7 @@ mail.sihs113503.edu.bd
 mail.soyedpursmhs.edu.bd
 mail.sualokhs.edu.bd
 mail.sutariahs.edu.bd
+mail.udayanmats.edu.bd
 manikgonjmohilacollege.edu.bd
 mci.edu.bd
 modelhighschool.edu.bd
@@ -264,8 +280,10 @@ padc.edu.bd
 palpurhs.edu.bd
 palshahs.edu.bd
 panishailhs.edu.bd
+pddbuidm.edu.bd
 pgmfm.edu.bd
 pimdcpr.edu.bd
+pirganjcollege.edu.bd
 pmths.edu.bd
 pochamariacollege.edu.bd
 portal.padc.edu.bd
@@ -281,6 +299,7 @@ rhrush.edu.bd
 rimcollege.edu.bd
 rkgdm.edu.bd
 rtcollege.edu.bd
+rumhs.edu.bd
 s.sutariahs.edu.bd
 saahs.edu.bd
 sacollegebogura.edu.bd
@@ -300,12 +319,14 @@ ssreerampurhighschool.edu.bd
 sualokhs.edu.bd
 sutariahs.edu.bd
 tafm.edu.bd
+taheranoorhighschoolandcollege.edu.bd
 tarashgovtghs.edu.bd
 tekatiass.edu.bd
 test.ibncb.edu.bd
 tilaijhs.edu.bd
 tintaharyhs.edu.bd
 trust.vu.edu.bd
+udayanmats.edu.bd
 uoda.edu.bd
 v3.aib.edu.bd
 webdisk.aksmdm.edu.bd
@@ -318,11 +339,13 @@ webdisk.htdc.edu.bd
 webdisk.kaliakairkhanhighschool.edu.bd
 webdisk.kucghighschool.edu.bd
 webdisk.nationalcollege.edu.bd
+webdisk.pirganjcollege.edu.bd
 webdisk.primeuniversity.edu.bd
 webdisk.rajcpsc.edu.bd
 webdisk.rimcollege.edu.bd
 webdisk.rkgdm.edu.bd
 webdisk.sualokhs.edu.bd
+webdisk.udayanmats.edu.bd
 webmail.aksmdm.edu.bd
 webmail.alhajershadaliwomenscollege.edu.bd
 webmail.baigachahs.edu.bd
@@ -356,6 +379,7 @@ webmail.nssdk.edu.bd
 webmail.palshahs.edu.bd
 webmail.panishailhs.edu.bd
 webmail.pimdcpr.edu.bd
+webmail.pirganjcollege.edu.bd
 webmail.rajabarihatghs.edu.bd
 webmail.rajcpsc.edu.bd
 webmail.raniriverviewhs.edu.bd
@@ -365,10 +389,12 @@ webmail.satarihs.edu.bd
 webmail.sdmp.edu.bd
 webmail.soyedpursmhs.edu.bd
 webmail.sualokhs.edu.bd
+webmail.udayanmats.edu.bd
 wohabidealpsc.edu.bd
 www.2023.baurshs.edu.bd
 www.adamdighi-rudc.edu.bd
 www.admin.jamunacollegemr.edu.bd
+www.admission.vu.edu.bd
 www.aksmdm.edu.bd
 www.alhajershadaliwomenscollege.edu.bd
 www.app.chargobindapur.edu.bd
@@ -426,6 +452,7 @@ www.padc.edu.bd
 www.palshahs.edu.bd
 www.panishailhs.edu.bd
 www.pimdcpr.edu.bd
+www.pirganjcollege.edu.bd
 www.portal.sjs.edu.bd
 www.primeuniversity.edu.bd
 www.rajabarihatghs.edu.bd
@@ -444,6 +471,8 @@ www.sihs113503.edu.bd
 www.soyedpursmhs.edu.bd
 www.sualokhs.edu.bd
 www.sutariahs.edu.bd
+www.taheranoorhighschoolandcollege.edu.bd
 www.test.ibncb.edu.bd
 www.trust.vu.edu.bd
+www.udayanmats.edu.bd
 www.v3.aib.edu.bd
