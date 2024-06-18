@@ -8,6 +8,7 @@ admin.comillalg.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 amcchuadanga.gov.bd
+ams.distgopalganj.gov.bd
 api-milkvita.idsdp.rdcd.gov.bd
 app.bdhckl.gov.bd
 application.pmo.gov.bd
@@ -170,6 +171,7 @@ epietracker.dghs.gov.bd
 epoas.ddm.gov.bd
 eregistration.gov.bd
 eservices.boiler.gov.bd
+esifhsc.bise-ctg.gov.bd
 esifsix.bise-ctg.gov.bd
 esifsix.comillaboard.gov.bd
 etds.gov.bd
@@ -193,6 +195,7 @@ herpower.gov.bd
 hotels.gov.bd
 hris-training.mohfw.gov.bd
 hscadmission.comillaboard.gov.bd
+hscadmit.bise-ctg.gov.bd
 hsms.somch.gov.bd
 ictbdiasms.gov.bd
 institute.bise-ctg.gov.bd
@@ -268,6 +271,7 @@ mail.ttcraj.gov.bd
 mail.ulipurmunicipality.gov.bd
 majidpurup.gov.bd
 manikganj.gov.bd
+meghnacloud.gov.bd
 meherpur.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 mis.iresppw-brdb.gov.bd
@@ -282,6 +286,7 @@ mymensingh.gov.bd
 mymensinghdiv.gov.bd
 nacholemunicipality.gov.bd
 naldangamunicipality.gov.bd
+nameage.comillaboard.gov.bd
 nameletter.comillaboard.gov.bd
 naogaon.gov.bd
 narail.gov.bd
@@ -341,6 +346,7 @@ rems.railwayestate.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
 report.gov.bd
+rescrutiny.comillaboard.gov.bd
 result.fci.gov.bd
 result19.comillaboard.gov.bd
 revenueshare.btcl.gov.bd
@@ -379,6 +385,7 @@ sscadmitcard.comillaboard.gov.bd
 sso.gca.comillaboard.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 startupsummit.gov.bd
+student.cmc.gov.bd
 sujanagarmunicipality.gov.bd
 svrs.bbs.gov.bd
 szmc.gov.bd
@@ -453,6 +460,7 @@ www.admins.rpi.gov.bd
 www.aganagarup.comillalg.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.amratoliup.comillalg.gov.bd
+www.ams.distgopalganj.gov.bd
 www.api-milkvita.idsdp.rdcd.gov.bd
 www.api.rpi.gov.bd
 www.apis.rpi.gov.bd
@@ -554,6 +562,7 @@ www.maijkharup.comillalg.gov.bd
 www.mail.pbi.gov.bd
 www.majidpurup.gov.bd
 www.masterapi.rpi.gov.bd
+www.meghnacloud.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
 www.mis.iresppw-brdb.gov.bd
@@ -629,6 +638,7 @@ www.sscadmitcard.comillaboard.gov.bd
 www.sso.gca.comillaboard.gov.bd
 www.stdb.sreda.gov.bd
 www.stipend.rpi.gov.bd
+www.student.cmc.gov.bd
 www.subilup.comillalg.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.sultanpurup.comillalg.gov.bd
