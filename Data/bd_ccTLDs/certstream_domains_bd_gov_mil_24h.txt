@@ -18,6 +18,8 @@ ems.epb.gov.bd
 en.ifstbcsir.gov.bd
 epb-exporttracker.gov.bd
 estate.kda.gov.bd
+exportdb.epb-exporttracker.gov.bd
+exportdbapi.epb-exporttracker.gov.bd
 hajj.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
@@ -40,6 +42,7 @@ netrokonatsc.gov.bd
 onlinecollegeform.comillaboard.gov.bd
 onlineschoolform.comillaboard.gov.bd
 proxy.shrlive.dghs.gov.bd
+qcb.gov.bd
 rangamati.gov.bd
 sathi.gov.bd
 somch.gov.bd
@@ -66,5 +69,6 @@ www.etrade.barishalcity.gov.bd
 www.jamalpurtsc.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mokamup.gov.bd
+www.qcb.gov.bd
 www.somch.gov.bd
 www.testimonial.noakhalicoll.gov.bd
