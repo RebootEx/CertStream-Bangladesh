@@ -40,6 +40,7 @@ beneficiary.idsdp.rdcd.gov.bd
 betagimunicipality.gov.bd
 betarcommercialservice.gov.bd
 bgb.gov.bd
+bhangapourashava.gov.bd
 bhola.gov.bd
 big.gov.bd
 bikiron2021.sreda.gov.bd
@@ -62,6 +63,7 @@ center.dgfood.gov.bd
 central.comillalg.gov.bd
 certificate.bise-ctg.gov.bd
 chakariamunicipality.gov.bd
+champs.iedcr.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
 chittagong.gov.bd
@@ -86,6 +88,7 @@ cpanel.jmc.gov.bd
 cpanel.kanaighatmunicipality.gov.bd
 cpanel.keraniganjttc.gov.bd
 cpanel.mspvaw109.gov.bd
+cpanel.mudp.gov.bd
 cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
 cpanel.rgccr.gov.bd
@@ -101,6 +104,7 @@ cpcalendars.jmc.gov.bd
 cpcalendars.kanaighatmunicipality.gov.bd
 cpcalendars.keraniganjttc.gov.bd
 cpcalendars.mspvaw109.gov.bd
+cpcalendars.mudp.gov.bd
 cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.rgccr.gov.bd
@@ -116,6 +120,7 @@ cpcontacts.jmc.gov.bd
 cpcontacts.kanaighatmunicipality.gov.bd
 cpcontacts.keraniganjttc.gov.bd
 cpcontacts.mspvaw109.gov.bd
+cpcontacts.mudp.gov.bd
 cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.rgccr.gov.bd
@@ -145,6 +150,7 @@ dsw.gov.bd
 du.gameapp.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
+ecertificate.sreda.gov.bd
 ecommerce.idsdp.rdcd.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -225,6 +231,7 @@ lb.ictbdiasms.gov.bd
 ldtax.gov.bd
 lis.bwdb.gov.bd
 logistics.gov.bd
+lv.mspvaw.gov.bd
 madaripur.gov.bd
 madhukhalipaurashava.gov.bd
 magura.gov.bd
@@ -245,6 +252,7 @@ mail.jmc.gov.bd
 mail.kanaighatmunicipality.gov.bd
 mail.keraniganjttc.gov.bd
 mail.mspvaw109.gov.bd
+mail.mudp.gov.bd
 mail.nilmrc.gov.bd
 mail.onlinepayment.comillaboard.gov.bd
 mail.onlineschooltc.comillaboard.gov.bd
@@ -270,6 +278,7 @@ mis.iresppw-brdb.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
 mspvaw109.gov.bd
+mudp.gov.bd
 munshiganj.gov.bd
 munshiganjtsc.gov.bd
 myconstituency.gov.bd
@@ -409,6 +418,7 @@ webdisk.jmc.gov.bd
 webdisk.kanaighatmunicipality.gov.bd
 webdisk.keraniganjttc.gov.bd
 webdisk.mspvaw109.gov.bd
+webdisk.mudp.gov.bd
 webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.rgccr.gov.bd
@@ -423,6 +433,7 @@ webmail.jmc.gov.bd
 webmail.kanaighatmunicipality.gov.bd
 webmail.keraniganjttc.gov.bd
 webmail.mspvaw109.gov.bd
+webmail.mudp.gov.bd
 webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
 webmail.rgccr.gov.bd
@@ -495,6 +506,7 @@ www.durgapurnorthup.comillalg.gov.bd
 www.durgapursouthup.comillalg.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
+www.ecertificate.sreda.gov.bd
 www.ecommerce.idsdp.rdcd.gov.bd
 www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
@@ -536,6 +548,7 @@ www.khoshbassouthup.comillalg.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.lb.ictbdiasms.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
+www.lv.mspvaw.gov.bd
 www.madhaiyaup.comillalg.gov.bd
 www.maijkharup.comillalg.gov.bd
 www.mail.register.gameapp.gov.bd
@@ -547,6 +560,7 @@ www.mohanpurup.comillalg.gov.bd
 www.mohichialup.comillalg.gov.bd
 www.mokamup.gov.bd
 www.mspvaw109.gov.bd
+www.mudp.gov.bd
 www.muradnagarsadarup.comillalg.gov.bd
 www.ndre.sreda.gov.bd
 www.nemcalc.sreda.gov.bd
