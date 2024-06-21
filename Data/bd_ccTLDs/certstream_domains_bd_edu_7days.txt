@@ -168,6 +168,7 @@ autodiscover.khiramhighschool.edu.bd
 autodiscover.kholabarihs.edu.bd
 autodiscover.kmb.edu.bd
 autodiscover.kotkamilmadrasah.edu.bd
+autodiscover.kpahs.edu.bd
 autodiscover.krisnardangihighschool.edu.bd
 autodiscover.ksc.edu.bd
 autodiscover.kucghighschool.edu.bd
@@ -566,6 +567,7 @@ cpanel.khiramhighschool.edu.bd
 cpanel.kholabarihs.edu.bd
 cpanel.kmb.edu.bd
 cpanel.kotkamilmadrasah.edu.bd
+cpanel.kpahs.edu.bd
 cpanel.krisnardangihighschool.edu.bd
 cpanel.ksc.edu.bd
 cpanel.kucghighschool.edu.bd
@@ -773,6 +775,7 @@ cpcalendars.khiramhighschool.edu.bd
 cpcalendars.kholabarihs.edu.bd
 cpcalendars.kmb.edu.bd
 cpcalendars.kotkamilmadrasah.edu.bd
+cpcalendars.kpahs.edu.bd
 cpcalendars.krisnardangihighschool.edu.bd
 cpcalendars.ksc.edu.bd
 cpcalendars.kucghighschool.edu.bd
@@ -859,6 +862,7 @@ cpcalendars.tis.edu.bd
 cpcalendars.tmt.edu.bd
 cpcalendars.udayandentalcollege.edu.bd
 cpcalendars.udayanmats.edu.bd
+cpcalendars.uphs.edu.bd
 cpcalendars.uttara.edu.bd
 cpcalendars.uttardharmapurhighschool.edu.bd
 cpcalendars.ywca.edu.bd
@@ -968,6 +972,7 @@ cpcontacts.khiramhighschool.edu.bd
 cpcontacts.kholabarihs.edu.bd
 cpcontacts.kmb.edu.bd
 cpcontacts.kotkamilmadrasah.edu.bd
+cpcontacts.kpahs.edu.bd
 cpcontacts.krisnardangihighschool.edu.bd
 cpcontacts.ksc.edu.bd
 cpcontacts.kucghighschool.edu.bd
@@ -1055,6 +1060,7 @@ cpcontacts.tis.edu.bd
 cpcontacts.tmt.edu.bd
 cpcontacts.udayandentalcollege.edu.bd
 cpcontacts.udayanmats.edu.bd
+cpcontacts.uphs.edu.bd
 cpcontacts.uttara.edu.bd
 cpcontacts.uttardharmapurhighschool.edu.bd
 cpcontacts.ywca.edu.bd
@@ -1179,6 +1185,7 @@ faridpurgovtcollege.edu.bd
 fatepurjuniorghs.edu.bd
 fatepurjuniorghs.edu.bd.rangdiaschoolandcollege.edu.bd
 fbic.edu.bd
+fcdm.edu.bd
 fd.daffodilvarsity.edu.bd
 fdasc.edu.bd
 feedback.sust.edu.bd
@@ -1242,6 +1249,7 @@ gffm.edu.bd
 gghs.edu.bd
 ghkamc.edu.bd
 ghsg.edu.bd
+giat.edu.bd
 gjcss.edu.bd
 gkhsc.edu.bd
 gkpcollege.edu.bd
@@ -1274,6 +1282,8 @@ gpi.edu.bd
 gshs.edu.bd
 gtchs.edu.bd
 guagachhijoylahs.edu.bd
+guatalaghs.edu.bd
+guatalaghs.edu.bd.khamarbashahighschool.edu.bd
 gub.edu.bd
 guiidm.edu.bd
 guimaracollege.edu.bd
@@ -1455,6 +1465,7 @@ kgmb.edu.bd
 kgmsc.edu.bd
 khalarparmadrasah.edu.bd
 khalgramhs.edu.bd
+khamarbashahighschool.edu.bd
 khanepurhs.edu.bd
 khariatmdm.edu.bd
 khashhashil.edu.bd
@@ -1486,6 +1497,7 @@ kohinoorjutemillhighschool.edu.bd
 kolakopaalimmadrasha.edu.bd
 kotkamilmadrasah.edu.bd
 koyelhs.edu.bd
+kpahs.edu.bd
 kpbm.edu.bd
 kphighschool.edu.bd
 kplhs.edu.bd
@@ -1518,6 +1530,7 @@ lasn.edu.bd
 lasn.edu.bd.fulbarihs.edu.bd
 latumondolhs.edu.bd
 laxmipurgovtmohilacollege.edu.bd
+lchs.edu.bd
 ldrasc.edu.bd
 leaders.edu.bd
 learnpdf.xyz.dhankorahighschool.edu.bd
@@ -1647,6 +1660,7 @@ mail.gourinathpurdm.edu.bd
 mail.gpcpsc.edu.bd
 mail.gshs.edu.bd
 mail.guagachhijoylahs.edu.bd
+mail.guatalaghs.edu.bd
 mail.gub.edu.bd
 mail.guimaracollege.edu.bd
 mail.hagakhs.edu.bd
@@ -1688,6 +1702,7 @@ mail.kist.edu.bd
 mail.kmb.edu.bd
 mail.kodc.edu.bd
 mail.kotkamilmadrasah.edu.bd
+mail.kpahs.edu.bd
 mail.krisnardangihighschool.edu.bd
 mail.ksc.edu.bd
 mail.kucghighschool.edu.bd
@@ -2044,6 +2059,7 @@ rainbowinteriorsbd.com.kscanwara.edu.bd
 rajabarihatghs.edu.bd
 rajapurhighschool.edu.bd
 rajcpsc.edu.bd
+rajphs.edu.bd
 rakhs.edu.bd
 rakm.edu.bd
 ramgaonschool.edu.bd
@@ -2245,6 +2261,8 @@ talentmine.crpvti.edu.bd
 talmanhs.edu.bd
 talpukurhs.edu.bd
 tangailinstitute.edu.bd
+tangailmats.edu.bd
+tangailmats.edu.bd.tangailinstitute.edu.bd
 tanorepilotmodelhs.edu.bd
 tapobansecondaryschool.edu.bd
 tarapashahsc.edu.bd
@@ -2408,6 +2426,7 @@ webdisk.khiramhighschool.edu.bd
 webdisk.kholabarihs.edu.bd
 webdisk.kmb.edu.bd
 webdisk.kotkamilmadrasah.edu.bd
+webdisk.kpahs.edu.bd
 webdisk.krisnardangihighschool.edu.bd
 webdisk.ksc.edu.bd
 webdisk.kucghighschool.edu.bd
@@ -2625,6 +2644,7 @@ webmail.khiramhighschool.edu.bd
 webmail.kholabarihs.edu.bd
 webmail.kmb.edu.bd
 webmail.kotkamilmadrasah.edu.bd
+webmail.kpahs.edu.bd
 webmail.krisnardangihighschool.edu.bd
 webmail.ksc.edu.bd
 webmail.kucghighschool.edu.bd
@@ -2704,6 +2724,7 @@ webmail.shcpsc.edu.bd
 webmail.simt.edu.bd
 webmail.sipsc.edu.bd
 webmail.sjs.edu.bd
+webmail.skphs.edu.bd
 webmail.smuct.edu.bd
 webmail.soyedpursmhs.edu.bd
 webmail.spdm1985.edu.bd
@@ -3004,6 +3025,8 @@ www.gourinathpurdm.edu.bd
 www.gpcpsc.edu.bd
 www.gshs.edu.bd
 www.guagachhijoylahs.edu.bd
+www.guatalaghs.edu.bd
+www.guatalaghs.edu.bd.khamarbashahighschool.edu.bd
 www.gub.edu.bd
 www.guimaracollege.edu.bd
 www.hagakhs.edu.bd
@@ -3118,6 +3141,7 @@ www.kmdc.edu.bd
 www.kodc.edu.bd
 www.kohinoorjutemillhighschool.edu.bd
 www.kotkamilmadrasah.edu.bd
+www.kpahs.edu.bd
 www.kpss.edu.bd
 www.kqiss.edu.bd
 www.krghs.edu.bd
@@ -3380,6 +3404,7 @@ www.taheranoorhighschoolandcollege.edu.bd
 www.talentmine.crpvti.edu.bd
 www.talmanhs.edu.bd
 www.talukshakhatihighschool.edu.bd
+www.tangailmats.edu.bd.tangailinstitute.edu.bd
 www.tanorepilotmodelhs.edu.bd
 www.tarapashahsc.edu.bd
 www.tcdm.edu.bd
