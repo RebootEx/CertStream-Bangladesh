@@ -1,5 +1,7 @@
 ara-bd.org.zpkhulna.gov.bd
+autodiscover.bhairabtsc.gov.bd
 autodiscover.keraniganjttc.gov.bd
+bhairabtsc.gov.bd
 boithok.bcc.gov.bd
 cafostict.gov.bd
 cbs.gov.bd
@@ -8,8 +10,11 @@ com.melandahbhata.gov.bd
 comillalg.gov.bd
 conference.dghs.gov.bd
 corona.gov.bd
+cpanel.bhairabtsc.gov.bd
 cpanel.keraniganjttc.gov.bd
+cpcalendars.bhairabtsc.gov.bd
 cpcalendars.keraniganjttc.gov.bd
+cpcontacts.bhairabtsc.gov.bd
 cpcontacts.keraniganjttc.gov.bd
 crelic-lged.gov.bd
 dashboard.idsdp.rdcd.gov.bd
@@ -24,10 +29,13 @@ guchhogram.gov.bd
 judiciary.gov.bd
 keraniganjttc.gov.bd
 kjml.gov.bd
+mail.bhairabtsc.gov.bd
 mail.emergencynutrition.gov.bd
 mail.keraniganjttc.gov.bd
 marriage.gov.bd
+nmv.dscc.gov.bd
 notarypublic.gov.bd
+nowaparapourashava.gov.bd
 nwpgcl.gov.bd
 pop.emergencynutrition.gov.bd
 postalacademy.gov.bd
@@ -37,7 +45,9 @@ smtp.emergencynutrition.gov.bd
 startupsummit.gov.bd
 titumircollege.gov.bd
 unofulbari.certificatefuldin.gov.bd
+webdisk.bhairabtsc.gov.bd
 webdisk.keraniganjttc.gov.bd
+webmail.bhairabtsc.gov.bd
 webmail.keraniganjttc.gov.bd
 www.addaup.comillalg.gov.bd
 www.adranorthup.comillalg.gov.bd
@@ -56,6 +66,7 @@ www.baroparaup1.comillalg.gov.bd
 www.bataghashiup.comillalg.gov.bd
 www.batishaup.comillalg.gov.bd
 www.battaliup.comillalg.gov.bd
+www.bhairabtsc.gov.bd
 www.bijoypurup.comillalg.gov.bd
 www.bipulasharup.comillalg.gov.bd
 www.boxgonjup.comillalg.gov.bd
