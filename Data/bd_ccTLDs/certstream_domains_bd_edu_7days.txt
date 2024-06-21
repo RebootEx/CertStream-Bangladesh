@@ -181,6 +181,7 @@ autodiscover.machparacollege.edu.bd
 autodiscover.maphsctg.edu.bd
 autodiscover.mcpsc.edu.bd
 autodiscover.mcsadarpur.edu.bd
+autodiscover.mgs.edu.bd
 autodiscover.mirpurcollege.edu.bd
 autodiscover.misc.edu.bd
 autodiscover.mismyn.edu.bd
@@ -583,6 +584,7 @@ cpanel.maphsctg.edu.bd
 cpanel.mcpsc.edu.bd
 cpanel.mcsadarpur.edu.bd
 cpanel.mgghs.edu.bd
+cpanel.mgs.edu.bd
 cpanel.mirpurcollege.edu.bd
 cpanel.misc.edu.bd
 cpanel.mismyn.edu.bd
@@ -789,6 +791,7 @@ cpcalendars.maphsctg.edu.bd
 cpcalendars.mcpsc.edu.bd
 cpcalendars.mcsadarpur.edu.bd
 cpcalendars.mgghs.edu.bd
+cpcalendars.mgs.edu.bd
 cpcalendars.mirpurcollege.edu.bd
 cpcalendars.misc.edu.bd
 cpcalendars.mismyn.edu.bd
@@ -986,6 +989,7 @@ cpcontacts.maphsctg.edu.bd
 cpcontacts.mcpsc.edu.bd
 cpcontacts.mcsadarpur.edu.bd
 cpcontacts.mgghs.edu.bd
+cpcontacts.mgs.edu.bd
 cpcontacts.mirpurcollege.edu.bd
 cpcontacts.misc.edu.bd
 cpcontacts.mismyn.edu.bd
@@ -1364,6 +1368,7 @@ imkm.edu.bd
 imperialnursingcollege.edu.bd
 ims.babulcharahs.edu.bd
 induriahs.edu.bd
+infra.edu.bd
 ipscctg.edu.bd
 ipv6.mcsadarpur.edu.bd
 iqac.bubt.edu.bd
@@ -1719,6 +1724,7 @@ mail.mavenwood.edu.bd
 mail.mcpsc.edu.bd
 mail.mcsadarpur.edu.bd
 mail.mgghs.edu.bd
+mail.mgs.edu.bd
 mail.mirpurcollege.edu.bd
 mail.misc.edu.bd
 mail.mismyn.edu.bd
@@ -2292,6 +2298,7 @@ tis.edu.bd
 tmt.edu.bd
 tnanfazilmadrasah.edu.bd
 tolass.edu.bd
+towakulcollege.edu.bd
 tphs.edu.bd
 trust.vu.edu.bd
 tulabariahs.edu.bd
@@ -2440,6 +2447,7 @@ webdisk.maphsctg.edu.bd
 webdisk.mcpsc.edu.bd
 webdisk.mcsadarpur.edu.bd
 webdisk.mgghs.edu.bd
+webdisk.mgs.edu.bd
 webdisk.mirpurcollege.edu.bd
 webdisk.misc.edu.bd
 webdisk.mismyn.edu.bd
@@ -2660,6 +2668,7 @@ webmail.maphsctg.edu.bd
 webmail.mcpsc.edu.bd
 webmail.mcsadarpur.edu.bd
 webmail.mgghs.edu.bd
+webmail.mgs.edu.bd
 webmail.mirpurcollege.edu.bd
 webmail.misc.edu.bd
 webmail.mismyn.edu.bd
@@ -2809,6 +2818,7 @@ www.apidoc.ugv.edu.bd
 www.app.chargobindapur.edu.bd
 www.app.enc.edu.bd
 www.app.rghighschool.edu.bd
+www.apply.infra.edu.bd
 www.apps.proyashrangpur.edu.bd
 www.arjunamhs.edu.bd
 www.arnhs.edu.bd
@@ -3187,6 +3197,7 @@ www.meahs.edu.bd
 www.mgaahs.edu.bd
 www.mgghs.edu.bd
 www.mghssn.edu.bd.saahs.edu.bd
+www.mgs.edu.bd
 www.mhr.maphsctg.edu.bd
 www.mhsp.edu.bd
 www.mhspf.edu.bd.raichahs.edu.bd
@@ -3390,6 +3401,7 @@ www.sthsc.edu.bd
 www.student.butex.edu.bd
 www.student.ckhuhs.edu.bd
 www.student.primeasia.edu.bd
+www.studentportal.infra.edu.bd
 www.studentportal.ugv.edu.bd
 www.sualokhs.edu.bd
 www.subratismhs.edu.bd
