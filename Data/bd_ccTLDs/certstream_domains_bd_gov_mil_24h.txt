@@ -12,6 +12,8 @@ cpanel.keraniganjttc.gov.bd
 cpcalendars.keraniganjttc.gov.bd
 cpcontacts.keraniganjttc.gov.bd
 crelic-lged.gov.bd
+dashboard.idsdp.rdcd.gov.bd
+dc-khagrachhari.gov.bd
 dev.knsikhagrachari.gov.bd
 dhis2dev.dghs.gov.bd
 emergencynutrition.gov.bd
@@ -19,6 +21,7 @@ esmmssadar.gov.bd
 ftp.emergencynutrition.gov.bd
 globe.dhamraimunicipality.gov.bd
 guchhogram.gov.bd
+judiciary.gov.bd
 keraniganjttc.gov.bd
 kjml.gov.bd
 mail.emergencynutrition.gov.bd
@@ -29,6 +32,7 @@ nwpgcl.gov.bd
 pop.emergencynutrition.gov.bd
 postalacademy.gov.bd
 scc.gov.bd
+shariatpurmunicipality.gov.bd
 smtp.emergencynutrition.gov.bd
 startupsummit.gov.bd
 titumircollege.gov.bd
@@ -58,6 +62,8 @@ www.boxgonjup.comillalg.gov.bd
 www.chanderchorup.comillalg.gov.bd
 www.chandlaup.comillalg.gov.bd
 www.chuwaraup.comillalg.gov.bd
+www.dashboard.idsdp.rdcd.gov.bd
+www.dc-khagrachhari.gov.bd
 www.dept.titumircollege.gov.bd
 www.dev.knsikhagrachari.gov.bd
 www.dhaluaup.comillalg.gov.bd
