@@ -58,6 +58,7 @@ bvc.gov.bd
 cafoimed.gov.bd
 caforural.gov.bd
 cafostict.gov.bd
+case.gov.bd
 cbs.gov.bd
 cdn.epb-exporttracker.gov.bd
 center.bise-ctg.gov.bd
@@ -96,6 +97,7 @@ cpanel.pwdta.gov.bd
 cpanel.rtsc.gov.bd
 cpanel.shariatpurtsc.gov.bd
 cpanel.ttcraj.gov.bd
+cpanel.ugc-hemis.gov.bd
 cpcalendars.bhairabtsc.gov.bd
 cpcalendars.caabhc.gov.bd
 cpcalendars.cumillattc.gov.bd
@@ -111,6 +113,7 @@ cpcalendars.pwdta.gov.bd
 cpcalendars.rtsc.gov.bd
 cpcalendars.shariatpurtsc.gov.bd
 cpcalendars.ttcraj.gov.bd
+cpcalendars.ugc-hemis.gov.bd
 cpcontacts.bhairabtsc.gov.bd
 cpcontacts.caabhc.gov.bd
 cpcontacts.cumillattc.gov.bd
@@ -126,6 +129,7 @@ cpcontacts.pwdta.gov.bd
 cpcontacts.rtsc.gov.bd
 cpcontacts.shariatpurtsc.gov.bd
 cpcontacts.ttcraj.gov.bd
+cpcontacts.ugc-hemis.gov.bd
 cph.gov.bd
 crelic-lged.gov.bd
 cttcdmp.gov.bd
@@ -269,6 +273,7 @@ mail.shariatpurtsc.gov.bd
 mail.sonalipayment.comillaboard.gov.bd
 mail.taxcertificate.comillaboard.gov.bd
 mail.ttcraj.gov.bd
+mail.ugc-hemis.gov.bd
 mail.vatdhakawest.gov.bd
 mail.zprajshahi.gov.bd
 manikganj.gov.bd
@@ -409,6 +414,7 @@ ttcraj.gov.bd
 uacco.melandahbhata.gov.bd
 uat.dc-khagrachhari.gov.bd
 ucddigitalh.gov.bd
+ugc-hemis.gov.bd
 uniontax.gov.bd
 unofulbari.certificatefuldin.gov.bd
 uttoradhikar.gov.bd
@@ -434,6 +440,7 @@ webdisk.pwdta.gov.bd
 webdisk.rtsc.gov.bd
 webdisk.shariatpurtsc.gov.bd
 webdisk.ttcraj.gov.bd
+webdisk.ugc-hemis.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.cumillattc.gov.bd
 webmail.diaautomation.gov.bd
@@ -448,6 +455,7 @@ webmail.pwdta.gov.bd
 webmail.rtsc.gov.bd
 webmail.shariatpurtsc.gov.bd
 webmail.ttcraj.gov.bd
+webmail.ugc-hemis.gov.bd
 workshop.mspvaw109.gov.bd
 www.2020-21.onlinetc.comillaboard.gov.bd
 www.addaup.comillalg.gov.bd
@@ -507,6 +515,7 @@ www.dev.rgc.gov.bd
 www.dhaluaup.comillalg.gov.bd
 www.diaautomation.gov.bd
 www.diagnostic.rmch.gov.bd
+www.doctor.bvc.gov.bd
 www.doulkhaup.comillalg.gov.bd
 www.du.gameapp.gov.bd
 www.dulalpurup.comillalg.gov.bd
@@ -654,6 +663,7 @@ www.training.gov.bd
 www.training.sreda.gov.bd
 www.ttcraj.gov.bd
 www.uacco.melandahbhata.gov.bd
+www.ugc-hemis.gov.bd
 www.ujirpurup.comillalg.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
 www.uttardaup.comillalg.gov.bd
