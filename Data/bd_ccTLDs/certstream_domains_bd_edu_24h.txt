@@ -96,10 +96,12 @@ bjs.edu.bd
 bjswam.edu.bd
 bkgps.edu.bd
 bkuc.edu.bd
+blscngn.edu.bd
 bmhighschool.edu.bd
 bmsc.edu.bd
 bmskc.edu.bd
 bofhs.edu.bd
+boidm.edu.bd
 brkkm.edu.bd
 bsmmc.edu.bd
 cahs.edu.bd
@@ -264,12 +266,17 @@ ctudm.edu.bd
 ctudm.edu.bd.cmdsdm.edu.bd
 cudc.edu.bd
 dabarbhangahighschool.edu.bd
+dalniahighschool.edu.bd
 darogarhatakmadrasah.edu.bd
 dba.cityuniversity.edu.bd
+ddm.edu.bd
 delparahighschool.edu.bd
 demo.diitctg.edu.bd
 demoadmission.diu.edu.bd
+demoadmissionapplicantportal.diu.edu.bd
+demoadmissionportal.diu.edu.bd
 demoapplicant.diu.edu.bd
+demohrportal.diu.edu.bd
 depo10k.gccc.edu.bd
 dgmmc.edu.bd
 dgpmhs.edu.bd
@@ -328,6 +335,7 @@ hghsc.edu.bd
 hkphs.edu.bd
 holynursing.edu.bd
 hpc.edu.bd
+hshstanki.edu.bd
 hsjrsc.edu.bd
 hspsctg.edu.bd
 hsschool.edu.bd
@@ -404,6 +412,7 @@ krohs.edu.bd
 kshuhs.edu.bd
 kughs.edu.bd
 kyanc.edu.bd
+lgghs.edu.bd
 library.easternuni.edu.bd
 m.joker123.gccc.edu.bd
 maahs.edu.bd
@@ -474,6 +483,7 @@ mail.ucn.edu.bd
 mail.vib.edu.bd
 majhiparawdc.edu.bd
 makgovtgirlsschool.edu.bd
+mandariiam.edu.bd
 mansinghpurdm.edu.bd
 maohahighschool.edu.bd
 mauv.edu.bd
@@ -504,6 +514,7 @@ mushulihighschool.edu.bd
 nags.edu.bd
 naipunno.com.bgiam.edu.bd
 nasdm.edu.bd
+nenc.edu.bd
 nhs1972.edu.bd
 nisudm.edu.bd
 nizampurcollege.edu.bd
@@ -574,6 +585,7 @@ snhspabna.edu.bd
 snsc.edu.bd
 sonarayfjhs.edu.bd
 sonarayhs.edu.bd
+sonarparahighschool.edu.bd
 srdmp.edu.bd
 srwc.edu.bd
 sstactapobanhs.edu.bd
@@ -581,13 +593,16 @@ sunfloweridealhighschool.edu.bd
 suspace.su.edu.bd
 tangailmats.edu.bd
 tangailmats.edu.bd.tangailinstitute.edu.bd
+tbhs.edu.bd
 tdcnil.edu.bd
 tgmss.edu.bd
 thm.tejgaoncollege.edu.bd
+tneam.edu.bd
 tnsdm.edu.bd
 toponeli.com.rangamatiahighschool.edu.bd
 trmmghs.edu.bd
 tscakkelpur.edu.bd
+tsdm.edu.bd
 tungibariaschool.edu.bd
 ucn.edu.bd
 unsmv.edu.bd
@@ -724,6 +739,7 @@ www.bkgps.edu.bd
 www.bkuc.edu.bd
 www.bmhighschool.edu.bd
 www.bmhighschool.edu.bd.khamarbashahighschool.edu.bd
+www.boidm.edu.bd
 www.cahs.edu.bd
 www.cghsp.edu.bd
 www.chs1914.edu.bd
@@ -732,8 +748,10 @@ www.cse.primeasia.edu.bd
 www.ctudm.edu.bd.cmdsdm.edu.bd
 www.cudc.edu.bd.kni.edu.bd
 www.dabarbhangahighschool.edu.bd
+www.dalniahighschool.edu.bd
 www.darogarhatakmadrasah.edu.bd
 www.dba.cityuniversity.edu.bd
+www.ddm.edu.bd
 www.delparahighschool.edu.bd
 www.demo.sheikhhelaluddincollege.edu.bd
 www.dgmmc.edu.bd
@@ -759,6 +777,7 @@ www.heakmam.edu.bd
 www.history.dgpmhs.edu.bd
 www.hkphs.edu.bd
 www.hpc.edu.bd
+www.hshstanki.edu.bd
 www.hsjrsc.edu.bd
 www.hspsctg.edu.bd
 www.hsschool.edu.bd
@@ -814,6 +833,7 @@ www.kughs.edu.bd
 www.laravel.sheikhhelaluddincollege.edu.bd
 www.law.primeasia.edu.bd
 www.learn.eastdelta.edu.bd
+www.lgghs.edu.bd
 www.library.eastdelta.edu.bd
 www.m.joker123.gccc.edu.bd
 www.maahs.edu.bd.yusufpurkhs.edu.bd
@@ -875,9 +895,11 @@ www.suspace.su.edu.bd
 www.tangailmats.edu.bd.tangailinstitute.edu.bd
 www.textile.primeasia.edu.bd
 www.thm.tejgaoncollege.edu.bd
+www.tneam.edu.bd
 www.tnsdm.edu.bd.pmndm.edu.bd
 www.toponeli.com.rangamatiahighschool.edu.bd
 www.trmmghs.edu.bd
+www.tsdm.edu.bd
 www.ucn.edu.bd
 www.uset.ac.bd.uset.edu.bd
 www.vib.edu.bd
