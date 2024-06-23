@@ -198,6 +198,7 @@ autodiscover.jhinaiyahs.edu.bd
 autodiscover.jhs1963.edu.bd
 autodiscover.jolshiricsc.edu.bd
 autodiscover.kachiaraghs.edu.bd
+autodiscover.kadalpurhamidiafazilmadrasah.edu.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
 autodiscover.kalikapur-hs.edu.bd
 autodiscover.kamalpurtm.edu.bd
@@ -269,6 +270,7 @@ autodiscover.rnmdc.edu.bd
 autodiscover.sbbrcs.edu.bd
 autodiscover.scbbhs.edu.bd
 autodiscover.scpsc.edu.bd
+autodiscover.sduam.edu.bd
 autodiscover.senapalli.edu.bd
 autodiscover.sghscdhaka.edu.bd
 autodiscover.shcpsc.edu.bd
@@ -667,6 +669,7 @@ cpanel.jhinaiyahs.edu.bd
 cpanel.jhs1963.edu.bd
 cpanel.jolshiricsc.edu.bd
 cpanel.kachiaraghs.edu.bd
+cpanel.kadalpurhamidiafazilmadrasah.edu.bd
 cpanel.kahighs.edu.bd
 cpanel.kakhs.edu.bd
 cpanel.kaliakairkhanhighschool.edu.bd
@@ -767,6 +770,7 @@ cpanel.scbbhs.edu.bd
 cpanel.scpsc.edu.bd
 cpanel.sdch.edu.bd
 cpanel.sdmp.edu.bd
+cpanel.sduam.edu.bd
 cpanel.senapalli.edu.bd
 cpanel.sghscdhaka.edu.bd
 cpanel.sgmsc.edu.bd
@@ -902,6 +906,7 @@ cpcalendars.jhinaiyahs.edu.bd
 cpcalendars.jhs1963.edu.bd
 cpcalendars.jolshiricsc.edu.bd
 cpcalendars.kachiaraghs.edu.bd
+cpcalendars.kadalpurhamidiafazilmadrasah.edu.bd
 cpcalendars.kahighs.edu.bd
 cpcalendars.kakhs.edu.bd
 cpcalendars.kaliakairkhanhighschool.edu.bd
@@ -988,6 +993,7 @@ cpcalendars.rnmdc.edu.bd
 cpcalendars.sbbrcs.edu.bd
 cpcalendars.scbbhs.edu.bd
 cpcalendars.scpsc.edu.bd
+cpcalendars.sduam.edu.bd
 cpcalendars.senapalli.edu.bd
 cpcalendars.sghscdhaka.edu.bd
 cpcalendars.sgmsc.edu.bd
@@ -1123,6 +1129,7 @@ cpcontacts.jhinaiyahs.edu.bd
 cpcontacts.jhs1963.edu.bd
 cpcontacts.jolshiricsc.edu.bd
 cpcontacts.kachiaraghs.edu.bd
+cpcontacts.kadalpurhamidiafazilmadrasah.edu.bd
 cpcontacts.kahighs.edu.bd
 cpcontacts.kakhs.edu.bd
 cpcontacts.kaliakairkhanhighschool.edu.bd
@@ -1211,6 +1218,7 @@ cpcontacts.sbbrcs.edu.bd
 cpcontacts.scbbhs.edu.bd
 cpcontacts.scpsc.edu.bd
 cpcontacts.sdch.edu.bd
+cpcontacts.sduam.edu.bd
 cpcontacts.senapalli.edu.bd
 cpcontacts.sghscdhaka.edu.bd
 cpcontacts.sgmsc.edu.bd
@@ -1344,6 +1352,7 @@ dumss.edu.bd
 dwcuttara.edu.bd
 dwipnagarhs.edu.bd
 dwippuraghs.edu.bd
+dznc.edu.bd
 eastdelta.edu.bd
 eastkadhurkhil.edu.bd
 edu.bd.aamc.edu.bd
@@ -1655,6 +1664,7 @@ kaass.edu.bd
 kachiaraghs.edu.bd
 kachiaraghs.edu.bd.hmsrhs.edu.bd
 kachs106871.edu.bd
+kadalpurhamidiafazilmadrasah.edu.bd
 kahartaidm.edu.bd
 kahighs.edu.bd
 kailashmadrasah.edu.bd
@@ -2044,6 +2054,7 @@ mail.jolshiricsc.edu.bd
 mail.jpdm.edu.bd
 mail.jrshs.edu.bd
 mail.kachiaraghs.edu.bd
+mail.kadalpurhamidiafazilmadrasah.edu.bd
 mail.kahighs.edu.bd
 mail.kakhs.edu.bd
 mail.kaliakairkhanhighschool.edu.bd
@@ -2211,6 +2222,7 @@ mail.scbbhs.edu.bd
 mail.scpsc.edu.bd
 mail.sdch.edu.bd
 mail.sdmp.edu.bd
+mail.sduam.edu.bd
 mail.senapalli.edu.bd
 mail.sfmu.edu.bd
 mail.sghscdhaka.edu.bd
@@ -2390,6 +2402,7 @@ nakgh.edu.bd
 nalbarihighschool.edu.bd
 nasc.edu.bd
 nascc.edu.bd
+nasdm.edu.bd
 nasimosmanmodelhighschool.edu.bd
 nasratpurdegreecollege.edu.bd
 nationalcollege.edu.bd
@@ -2460,6 +2473,7 @@ opdm.edu.bd
 oranpurbhighschool.edu.bd
 ortho.sdch.edu.bd
 osaps.bou.edu.bd
+otrasecondaryschool.edu.bd
 otsghs.edu.bd
 pacharhathighschool.edu.bd
 padc.edu.bd
@@ -2687,6 +2701,7 @@ scmuchs.edu.bd
 scpsc.edu.bd
 sdch.edu.bd
 sdmp.edu.bd
+sduam.edu.bd
 secondary.kyau.edu.bd
 senapalli.edu.bd
 seobd.guagachhijoylahs.edu.bd
@@ -2981,6 +2996,7 @@ webdisk.jhinaiyahs.edu.bd
 webdisk.jhs1963.edu.bd
 webdisk.jolshiricsc.edu.bd
 webdisk.kachiaraghs.edu.bd
+webdisk.kadalpurhamidiafazilmadrasah.edu.bd
 webdisk.kahighs.edu.bd
 webdisk.kakhs.edu.bd
 webdisk.kaliakairkhanhighschool.edu.bd
@@ -3068,6 +3084,7 @@ webdisk.sbbrcs.edu.bd
 webdisk.scbbhs.edu.bd
 webdisk.scpsc.edu.bd
 webdisk.sdch.edu.bd
+webdisk.sduam.edu.bd
 webdisk.senapalli.edu.bd
 webdisk.sghscdhaka.edu.bd
 webdisk.sgmsc.edu.bd
@@ -3224,6 +3241,7 @@ webmail.jhinaiyahs.edu.bd
 webmail.jhs1963.edu.bd
 webmail.jolshiricsc.edu.bd
 webmail.kachiaraghs.edu.bd
+webmail.kadalpurhamidiafazilmadrasah.edu.bd
 webmail.kahighs.edu.bd
 webmail.kakhs.edu.bd
 webmail.kaliakairkhanhighschool.edu.bd
@@ -3323,6 +3341,7 @@ webmail.scbbhs.edu.bd
 webmail.scpsc.edu.bd
 webmail.sdch.edu.bd
 webmail.sdmp.edu.bd
+webmail.sduam.edu.bd
 webmail.senapalli.edu.bd
 webmail.sghscdhaka.edu.bd
 webmail.sgmsc.edu.bd
@@ -3822,6 +3841,7 @@ www.juranpurknesahs.edu.bd
 www.juumb.edu.bd
 www.kachiaraghs.edu.bd
 www.kachiaraghs.edu.bd.hmsrhs.edu.bd
+www.kadalpurhamidiafazilmadrasah.edu.bd
 www.kahighs.edu.bd
 www.kailashmadrasah.edu.bd
 www.kakhs.edu.bd
@@ -3972,6 +3992,7 @@ www.nags.edu.bd
 www.naipunno.com.bgiam.edu.bd
 www.nasc.edu.bd
 www.nascc.edu.bd
+www.nasdm.edu.bd
 www.nasratpurdegreecollege.edu.bd
 www.nationalcollege.edu.bd
 www.nationalidealcollege.edu.bd
@@ -4130,6 +4151,7 @@ www.school.rcmats.edu.bd
 www.scpsc.edu.bd
 www.sdch.edu.bd
 www.sdmp.edu.bd
+www.sduam.edu.bd
 www.secondary.kyau.edu.bd
 www.senapalli.edu.bd
 www.seobd.guagachhijoylahs.edu.bd
