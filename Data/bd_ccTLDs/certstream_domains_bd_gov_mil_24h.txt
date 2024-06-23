@@ -2,9 +2,11 @@ apams.cabinet.gov.bd
 ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
+autodiscover.bhairabtsc.gov.bd
 bakshiganjpourashava.gov.bd
 barisalboard.gov.bd
 bdris.gov.bd
+bhairabtsc.gov.bd
 boithok.bcc.gov.bd
 bsfmstu.gameapp.gov.bd
 cafocat.gov.bd
@@ -15,8 +17,11 @@ chauddagrammunicipality.gov.bd
 comillalg.gov.bd
 corona.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
+cpanel.bhairabtsc.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
+cpcalendars.bhairabtsc.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
+cpcontacts.bhairabtsc.gov.bd
 dashboard.gov.bd
 dtemymensingh.gov.bd
 du.gameapp.gov.bd
@@ -31,6 +36,7 @@ finman.sicip.gov.bd
 ftp.emergencynutrition.gov.bd
 globe.dhamraimunicipality.gov.bd
 guchhogram.gov.bd
+icms.gov.bd
 kalihatipourashava.gov.bd
 kcchatt.gov.bd
 kjml.gov.bd
@@ -39,14 +45,17 @@ linktogoods.xyz.kalihatipourashava.gov.bd
 lms.seip-fd.gov.bd
 lms.sicip.gov.bd
 mail.bakshiganjpourashava.gov.bd
+mail.bhairabtsc.gov.bd
 mail.emergencynutrition.gov.bd
 mail.rgdc.gov.bd
 mtsc.gov.bd
 muktopaath.gov.bd
 ncbelearning.fpmu.gov.bd
 notarypublic.gov.bd
+nowaparapourashava.gov.bd
 ntrc.gameapp.gov.bd
 nwpgcl.gov.bd
+panchgachhiawestup.gov.bd
 pop.emergencynutrition.gov.bd
 postalacademy.gov.bd
 register.gameapp.gov.bd
@@ -65,7 +74,9 @@ ullaparapaurashava.gov.bd
 unofulbari.certificatefuldin.gov.bd
 web.pgcb.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
+webdisk.bhairabtsc.gov.bd
 webmail.bakshiganjpourashava.gov.bd
+webmail.bhairabtsc.gov.bd
 www.addaup.comillalg.gov.bd
 www.adranorthup.comillalg.gov.bd
 www.adrasouthup.comillalg.gov.bd
@@ -85,6 +96,7 @@ www.baroparaup1.comillalg.gov.bd
 www.bataghashiup.comillalg.gov.bd
 www.batishaup.comillalg.gov.bd
 www.battaliup.comillalg.gov.bd
+www.bhairabtsc.gov.bd
 www.bijoypurup.comillalg.gov.bd
 www.bipulasharup.comillalg.gov.bd
 www.boxgonjup.comillalg.gov.bd
@@ -149,6 +161,7 @@ www.narayandiaup.comillalg.gov.bd
 www.natherpetuaup.comillalg.gov.bd
 www.nilokhiup.comillalg.gov.bd
 www.ntrc.gameapp.gov.bd
+www.panchgachhiawestup.gov.bd
 www.pariaup.comillalg.gov.bd
 www.payalgachaup.comillalg.gov.bd
 www.poduaup.comillalg.gov.bd
