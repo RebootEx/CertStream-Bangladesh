@@ -83,6 +83,7 @@ app.enc.edu.bd
 app.rghighschool.edu.bd
 appt.just.edu.bd
 arc.edu.bd
+archive.saulibrary.edu.bd
 argsac.edu.bd
 arjunamhs.edu.bd
 arkss.edu.bd
@@ -786,6 +787,7 @@ cpanel.surjyakana.edu.bd
 cpanel.tgpmhs.edu.bd
 cpanel.tis.edu.bd
 cpanel.tmt.edu.bd
+cpanel.ttcdhaka.edu.bd
 cpanel.ucn.edu.bd
 cpanel.udayandentalcollege.edu.bd
 cpanel.udayanmats.edu.bd
@@ -1005,6 +1007,7 @@ cpcalendars.surjyakana.edu.bd
 cpcalendars.tgpmhs.edu.bd
 cpcalendars.tis.edu.bd
 cpcalendars.tmt.edu.bd
+cpcalendars.ttcdhaka.edu.bd
 cpcalendars.ucn.edu.bd
 cpcalendars.udayandentalcollege.edu.bd
 cpcalendars.udayanmats.edu.bd
@@ -1229,6 +1232,7 @@ cpcontacts.surjyakana.edu.bd
 cpcontacts.tgpmhs.edu.bd
 cpcontacts.tis.edu.bd
 cpcontacts.tmt.edu.bd
+cpcontacts.ttcdhaka.edu.bd
 cpcontacts.ucn.edu.bd
 cpcontacts.udayandentalcollege.edu.bd
 cpcontacts.udayanmats.edu.bd
@@ -1265,6 +1269,7 @@ dalniahighschool.edu.bd
 danaramhsfenchu.edu.bd
 darogarhatakmadrasah.edu.bd
 darulhikma.edu.bd
+dba.cityuniversity.edu.bd
 dbam.edu.bd
 dbnscr.edu.bd
 dbsc.edu.bd
@@ -1382,6 +1387,7 @@ felanpurrenesha.edu.bd
 fellows.bcps.edu.bd
 felnahs.edu.bd
 fgghs.edu.bd
+fidm.edu.bd
 fmb.just.edu.bd
 fmgovtcollege.edu.bd
 form.nec.edu.bd
@@ -1701,6 +1707,7 @@ kghfmoukhaliss.edu.bd
 kgkdm.edu.bd
 kgmb.edu.bd
 kgmsc.edu.bd
+kgpurhs.edu.bd
 khajurtalamc.edu.bd
 khalarparmadrasah.edu.bd
 khamarbashahighschool.edu.bd
@@ -2252,6 +2259,7 @@ mail.tgpmhs.edu.bd
 mail.tis.edu.bd
 mail.tmt.edu.bd
 mail.trimahanihs.edu.bd
+mail.ttcdhaka.edu.bd
 mail.uahsc.edu.bd
 mail.ucn.edu.bd
 mail.ucsdm1984.edu.bd
@@ -2387,6 +2395,7 @@ nationalidealcollege.edu.bd
 navaronmam.edu.bd
 nayaparaalhajnobihossainhighschool.edu.bd
 naziburrahmangirlshighschool.edu.bd
+nazimkhanhsc.edu.bd
 nazrulacademy.edu.bd
 nbghss.edu.bd
 nblgovhs.edu.bd
@@ -2828,6 +2837,7 @@ trimahanihs.edu.bd
 trust.vu.edu.bd
 tscakkelpur.edu.bd
 tsdm.edu.bd
+ttcdhaka.edu.bd
 tulabariahs.edu.bd
 tushkhaligirlshighschool.edu.bd
 tv99.live.bmusc.edu.bd
@@ -3075,6 +3085,7 @@ webdisk.surjyakana.edu.bd
 webdisk.tgpmhs.edu.bd
 webdisk.tis.edu.bd
 webdisk.tmt.edu.bd
+webdisk.ttcdhaka.edu.bd
 webdisk.ucn.edu.bd
 webdisk.udayandentalcollege.edu.bd
 webdisk.udayanmats.edu.bd
@@ -3330,6 +3341,7 @@ webmail.surjyakana.edu.bd
 webmail.tgpmhs.edu.bd
 webmail.tis.edu.bd
 webmail.tmt.edu.bd
+webmail.ttcdhaka.edu.bd
 webmail.ucn.edu.bd
 webmail.udayandentalcollege.edu.bd
 webmail.udayanmats.edu.bd
@@ -3340,6 +3352,7 @@ webmail.ywca.edu.bd
 webportal.ugv.edu.bd
 whm.guimaracollege.edu.bd
 wifi.uttarauniversity.edu.bd
+wins.edu.bd
 wisdomschoolandcollege.edu.bd
 wksbjgs.edu.bd
 wohabidealpsc.edu.bd
@@ -3403,6 +3416,7 @@ www.app.chargobindapur.edu.bd
 www.app.enc.edu.bd
 www.app.rghighschool.edu.bd
 www.apply.infra.edu.bd
+www.archive.saulibrary.edu.bd
 www.arjunamhs.edu.bd
 www.arnhs.edu.bd
 www.askcollege.edu.bd
@@ -3486,6 +3500,7 @@ www.bifmr.edu.bd
 www.bilsararcphs.edu.bd.shibganjhighschool.edu.bd
 www.binailhs.edu.bd
 www.binnabaidmlhighschool.edu.bd
+www.biochemistry.primeasia.edu.bd
 www.biraldahcollege.edu.bd
 www.birhalkahs.edu.bd
 www.birinchimadrasah.edu.bd
@@ -3578,6 +3593,7 @@ www.cqhm.edu.bd
 www.csam.edu.bd
 www.cscc.edu.bd
 www.cse.bsmrstu.edu.bd
+www.cse.primeasia.edu.bd
 www.cse.ugv.edu.bd
 www.csefest.bsmrstu.edu.bd
 www.cseprojects.jkkniu.edu.bd
@@ -3590,6 +3606,7 @@ www.dagonbhuiyangirls.edu.bd
 www.dalniahighschool.edu.bd
 www.danaramhsfenchu.edu.bd
 www.darogarhatakmadrasah.edu.bd
+www.dba.cityuniversity.edu.bd
 www.dbsm.edu.bd
 www.dcahs.edu.bd
 www.ddm.edu.bd
@@ -3864,6 +3881,7 @@ www.laraveldemo.rpsu.edu.bd
 www.laskarpurhighschool.edu.bd.bakapurhighschool.edu.bd
 www.lasn.edu.bd.fulbarihs.edu.bd
 www.lathigonjhsc.edu.bd
+www.law.primeasia.edu.bd
 www.lawghataschool.edu.bd
 www.ldrasc.edu.bd
 www.leaders.edu.bd
@@ -3914,6 +3932,7 @@ www.mhr.maphsctg.edu.bd
 www.mhsa.edu.bd
 www.mhsp.edu.bd
 www.mhspf.edu.bd.raichahs.edu.bd
+www.microbiology.primeasia.edu.bd
 www.mirhs.edu.bd
 www.mirpurcollege.edu.bd
 www.mirzapurhs.edu.bd
@@ -3952,6 +3971,7 @@ www.nascc.edu.bd
 www.nasratpurdegreecollege.edu.bd
 www.nationalcollege.edu.bd
 www.nationalidealcollege.edu.bd
+www.nazimkhanghs.nazimkhanhsc.edu.bd
 www.nazrulacademy.edu.bd
 www.nbghss.edu.bd
 www.nblgovhs.edu.bd
@@ -4012,6 +4032,8 @@ www.pdm.edu.bd
 www.pg.bgeju.edu.bd
 www.pgac.edu.bd
 www.pgmhs.edu.bd
+www.pharmacy.primeasia.edu.bd
+www.phn.primeasia.edu.bd
 www.piainguljameya.edu.bd
 www.pii.edu.bd
 www.pimdcpr.edu.bd
@@ -4191,6 +4213,7 @@ www.test.ibncb.edu.bd
 www.test.phss.edu.bd
 www.test.sdch.edu.bd
 www.test.sgmsc.edu.bd
+www.textile.primeasia.edu.bd
 www.tgpmhs.edu.bd
 www.thisatestok.ugv.edu.bd
 www.tis.edu.bd
@@ -4200,6 +4223,7 @@ www.tneam.edu.bd
 www.trimahanihs.edu.bd
 www.trust.vu.edu.bd
 www.tsdm.edu.bd
+www.ttcdhaka.edu.bd
 www.tushkhaligirlshighschool.edu.bd.bhagirathpursecondaryschool.edu.bd
 www.tv99.live.bmusc.edu.bd
 www.uahsc.edu.bd
