@@ -31,6 +31,7 @@ adnann.info.dhankorahighschool.edu.bd
 adventist.edu.bd
 aehs.edu.bd
 afmc.edu.bd
+agghs.edu.bd
 aghs113613.edu.bd
 aghspabna.edu.bd
 agranhighschool.edu.bd
@@ -103,6 +104,7 @@ auisc.edu.bd
 aukhs.edu.bd
 autodiscover.acps.edu.bd
 autodiscover.acpsc.edu.bd
+autodiscover.agghs.edu.bd
 autodiscover.aisd.edu.bd
 autodiscover.akbarpurhighschool.edu.bd
 autodiscover.akmmc.edu.bd
@@ -498,6 +500,7 @@ covid19.seu.edu.bd
 cpanel.acps.edu.bd
 cpanel.acpsc.edu.bd
 cpanel.adventist.edu.bd
+cpanel.agghs.edu.bd
 cpanel.aisd.edu.bd
 cpanel.ajchs.edu.bd
 cpanel.akbarpurhighschool.edu.bd
@@ -741,6 +744,7 @@ cpanel.ywca.edu.bd
 cpanel.zcbmc.edu.bd
 cpcalendars.acps.edu.bd
 cpcalendars.acpsc.edu.bd
+cpcalendars.agghs.edu.bd
 cpcalendars.aisd.edu.bd
 cpcalendars.ajchs.edu.bd
 cpcalendars.akbarpurhighschool.edu.bd
@@ -950,6 +954,7 @@ cpcalendars.ywca.edu.bd
 cpcalendars.zcbmc.edu.bd
 cpcontacts.acps.edu.bd
 cpcontacts.acpsc.edu.bd
+cpcontacts.agghs.edu.bd
 cpcontacts.aisd.edu.bd
 cpcontacts.ajchs.edu.bd
 cpcontacts.akbarpurhighschool.edu.bd
@@ -1713,6 +1718,7 @@ mahs106859.edu.bd
 mail.acps.edu.bd
 mail.acpsc.edu.bd
 mail.adventist.edu.bd
+mail.agghs.edu.bd
 mail.aisd.edu.bd
 mail.ajchs.edu.bd
 mail.akbarpurhighschool.edu.bd
@@ -2628,6 +2634,7 @@ walipurhs.edu.bd.hmsrhs.edu.bd
 web.cgsnc.edu.bd
 webdisk.acps.edu.bd
 webdisk.acpsc.edu.bd
+webdisk.agghs.edu.bd
 webdisk.aisd.edu.bd
 webdisk.ajchs.edu.bd
 webdisk.akbarpurhighschool.edu.bd
@@ -2838,6 +2845,7 @@ webdisk.zcbmc.edu.bd
 webmail.acps.edu.bd
 webmail.acpsc.edu.bd
 webmail.adventist.edu.bd
+webmail.agghs.edu.bd
 webmail.aisd.edu.bd
 webmail.ajchs.edu.bd
 webmail.akbarpurhighschool.edu.bd
@@ -3114,6 +3122,7 @@ www.admission.vu.edu.bd
 www.adnann.info.dhankorahighschool.edu.bd
 www.adventist.edu.bd
 www.aehs.edu.bd
+www.agghs.edu.bd
 www.aiam.edu.bd
 www.aifm.edu.bd
 www.aisd.edu.bd
