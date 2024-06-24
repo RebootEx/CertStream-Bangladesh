@@ -1,11 +1,13 @@
 aadmadrasah.edu.bd
 aamarpay.justsc.edu.bd
 aazizsc.edu.bd
+able.fcn.edu.bd
 admhs.edu.bd
 admin.dharmatalahs.edu.bd
 admin.govtshcollege.edu.bd
 admin.jhs.edu.bd
 afdm.edu.bd
+agghs.edu.bd
 aghs134534.edu.bd
 ahkdm.edu.bd
 ahs.edu.bd
@@ -28,6 +30,7 @@ asshs.edu.bd
 ast.just.edu.bd
 aukhs.edu.bd
 autodiscover.admhs.edu.bd
+autodiscover.agghs.edu.bd
 autodiscover.baakhs.edu.bd
 autodiscover.bardiaksahs.edu.bd
 autodiscover.bia.edu.bd
@@ -159,12 +162,14 @@ bsdmm.edu.bd
 bsmmc.edu.bd
 btclism.edu.bd
 btghs.edu.bd
+bup.edu.bd
 burirhathighschool.edu.bd
 burprisths.edu.bd
 bwc.edu.bd
 caams.edu.bd
 calabhs.edu.bd
 cbmb.edu.bd
+cbuft.edu.bd
 ccscchuadanga.edu.bd
 cddm.edu.bd
 cdkm.edu.bd
@@ -191,6 +196,7 @@ cjghs.edu.bd
 contact.rc.edu.bd
 contacts.rc.edu.bd
 cpanel.admhs.edu.bd
+cpanel.agghs.edu.bd
 cpanel.baakhs.edu.bd
 cpanel.bardiaksahs.edu.bd
 cpanel.bgmss.edu.bd
@@ -250,6 +256,7 @@ cpanel.uttc.edu.bd
 cpanel.walipurhs.edu.bd
 cpanel.wpmykhs.edu.bd
 cpcalendars.admhs.edu.bd
+cpcalendars.agghs.edu.bd
 cpcalendars.baakhs.edu.bd
 cpcalendars.bardiaksahs.edu.bd
 cpcalendars.bgmss.edu.bd
@@ -309,6 +316,7 @@ cpcalendars.uttc.edu.bd
 cpcalendars.walipurhs.edu.bd
 cpcalendars.wpmykhs.edu.bd
 cpcontacts.admhs.edu.bd
+cpcontacts.agghs.edu.bd
 cpcontacts.baakhs.edu.bd
 cpcontacts.bardiaksahs.edu.bd
 cpcontacts.bgmss.edu.bd
@@ -416,6 +424,7 @@ eidgahhs.edu.bd
 ekattorsangbad.snbghs.edu.bd
 ekhlaspurhs.edu.bd
 ekhlaspurhs.edu.bd.hmsrhs.edu.bd
+ems.kgck.edu.bd
 eng.just.edu.bd
 est.just.edu.bd
 fazlulhaqahs.edu.bd
@@ -453,6 +462,7 @@ harimohanschool.edu.bd
 hatsherpurhighschool.edu.bd
 hauidm.edu.bd
 hausc.edu.bd
+hbasschool.edu.bd
 hbiam.edu.bd
 hdaisdm.edu.bd
 helpdesk.green.edu.bd
@@ -480,6 +490,7 @@ ipv6.dharmatalahs.edu.bd
 ipv6.jhs.edu.bd
 ishwardimohilacollege.edu.bd
 iteit.edu.bd
+ius.edu.bd
 jabedaliinstitution.edu.bd
 jadhs.edu.bd
 jainkatiss.edu.bd
@@ -555,6 +566,7 @@ mahipurcollege.edu.bd
 mail.aadmadrasah.edu.bd
 mail.admhs.edu.bd
 mail.afdm.edu.bd
+mail.agghs.edu.bd
 mail.ahkdm.edu.bd
 mail.ahs.edu.bd
 mail.alampurhs.edu.bd
@@ -798,6 +810,7 @@ mail.vhs.edu.bd
 mail.vmdm.edu.bd
 mail.walipurhs.edu.bd
 mail.wpmykhs.edu.bd
+makgovtgirlsschool.edu.bd
 mamc.edu.bd
 mandariiam.edu.bd
 manderhs.edu.bd
@@ -849,6 +862,7 @@ narandiatrkn.edu.bd
 nasratpurdegreecollege.edu.bd
 natherkandihs.edu.bd
 natmuraphs.edu.bd
+navaronmam.edu.bd
 nazimkhanhsc.edu.bd
 nazrulacademy.edu.bd
 nbghss.edu.bd
@@ -864,6 +878,7 @@ nizrahighschool.edu.bd
 njphs.edu.bd
 njphs.edu.bd.hmsrhs.edu.bd
 nkmins.edu.bd
+nmcfeni.edu.bd
 nnhs.edu.bd
 nnhs.edu.bd.hmsrhs.edu.bd
 nnmmad.edu.bd
@@ -917,6 +932,7 @@ ptr.just.edu.bd
 purbabhs.edu.bd
 pwss.edu.bd
 qbam.amc.edu.bd
+ramnagarhs.edu.bd
 ranashalhighschool.edu.bd
 rasulpurhighschool.edu.bd
 rdmhs.edu.bd
@@ -992,6 +1008,7 @@ sub.edu.bd
 sukhanpukurhighschool.edu.bd
 sultanabaddm.edu.bd
 sultanpurhs.edu.bd
+szrdc.edu.bd
 tarashgghs.edu.bd
 tata.bkdcl.edu.bd
 tbgs.edu.bd
@@ -1025,6 +1042,7 @@ wahidunnesa.edu.bd
 walipurhs.edu.bd
 walipurhs.edu.bd.hmsrhs.edu.bd
 webdisk.admhs.edu.bd
+webdisk.agghs.edu.bd
 webdisk.baakhs.edu.bd
 webdisk.bardiaksahs.edu.bd
 webdisk.bgmss.edu.bd
@@ -1084,6 +1102,7 @@ webdisk.uttc.edu.bd
 webdisk.walipurhs.edu.bd
 webdisk.wpmykhs.edu.bd
 webmail.admhs.edu.bd
+webmail.agghs.edu.bd
 webmail.baakhs.edu.bd
 webmail.bardiaksahs.edu.bd
 webmail.bia.edu.bd
@@ -1145,11 +1164,13 @@ wkksc.edu.bd
 wpmykhs.edu.bd
 www.aadmadrasah.edu.bd
 www.aamarpay.justsc.edu.bd
+www.able.fcn.edu.bd
 www.admhs.edu.bd
 www.admin.dharmatalahs.edu.bd
 www.admin.govtshcollege.edu.bd
 www.admin.jhs.edu.bd
 www.afdm.edu.bd
+www.agghs.edu.bd
 www.ahkdm.edu.bd
 www.ahs.edu.bd
 www.alampurhs.edu.bd
@@ -1220,6 +1241,7 @@ www.burprisths.edu.bd
 www.bwc.edu.bd
 www.calabhs.edu.bd
 www.cbmb.edu.bd
+www.cbuft.edu.bd
 www.cddm.edu.bd
 www.cfbhighschool.edu.bd
 www.cgsc.edu.bd
