@@ -6,7 +6,9 @@ adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 ams.distgopalganj.gov.bd
+apams.cabinet.gov.bd
 api-milkvita.idsdp.rdcd.gov.bd
+api.otms.nass.gov.bd
 api.vaxepi.gov.bd
 appointment.srngih.gov.bd
 ar.gameapp.gov.bd
@@ -81,6 +83,7 @@ chuadanga.gov.bd
 cirt.gov.bd
 cltp.gov.bd
 cmmcourtsylhet.gov.bd
+cmp.gov.bd
 cngwc.gov.bd
 collegeiif.bise-ctg.gov.bd
 com.melandahbhata.gov.bd
@@ -143,6 +146,7 @@ da.ictbdiasms.gov.bd
 dakbazar.bpodms.gov.bd
 dashboard.gov.bd
 dashboard.idsdp.rdcd.gov.bd
+dashboard.otms.nass.gov.bd
 dc-khagrachhari.gov.bd
 debendracollege.gov.bd
 deraipaurashava.gov.bd
@@ -329,6 +333,7 @@ onlineschooltc.comillaboard.gov.bd
 onlinesonaliacc.comillaboard.gov.bd
 onlinetc.comillaboard.gov.bd
 openid.dghs.gov.bd
+otms.nass.gov.bd
 pabna.gov.bd
 pabtec.gov.bd
 panchagarhmunicipality.gov.bd
@@ -358,8 +363,10 @@ rrdhs.gov.bd
 sathi.gov.bd
 satkhira.gov.bd
 satkhiratsc.gov.bd
+sbcbiz.gov.bd
 scc.gov.bd
 schoolform.bise-ctg.gov.bd
+sdg.gov.bd
 secpass.gov.bd
 senbagmunicipality.gov.bd
 service.rdcd.gov.bd
