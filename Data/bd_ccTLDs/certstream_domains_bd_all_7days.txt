@@ -106,6 +106,7 @@ admin.prottoy.com.bd
 admin.shoppingmart.com.bd
 admin.silverprint.com.bd
 admin.sonod.com.bd
+admin.speedonline.com.bd
 admin.stcoverseas.com.bd
 adminui.cslsoft.com.bd
 admission-bhec-du.ac.bd
@@ -1757,6 +1758,7 @@ cpanel.kalikapur-hs.edu.bd
 cpanel.kamalpurtm.edu.bd
 cpanel.kanderpodiahsk.edu.bd
 cpanel.kanthalbariaaghs.edu.bd
+cpanel.kaptaihighschool.edu.bd
 cpanel.kbec.com.bd
 cpanel.kdmadrasah.edu.bd
 cpanel.keidm.edu.bd
@@ -2264,6 +2266,7 @@ cpcalendars.kalikapur-hs.edu.bd
 cpcalendars.kamalpurtm.edu.bd
 cpcalendars.kanderpodiahsk.edu.bd
 cpcalendars.kanthalbariaaghs.edu.bd
+cpcalendars.kaptaihighschool.edu.bd
 cpcalendars.kbec.com.bd
 cpcalendars.kdmadrasah.edu.bd
 cpcalendars.keidm.edu.bd
@@ -2764,6 +2767,7 @@ cpcontacts.kalikapur-hs.edu.bd
 cpcontacts.kamalpurtm.edu.bd
 cpcontacts.kanderpodiahsk.edu.bd
 cpcontacts.kanthalbariaaghs.edu.bd
+cpcontacts.kaptaihighschool.edu.bd
 cpcontacts.kbec.com.bd
 cpcontacts.kdmadrasah.edu.bd
 cpcontacts.keidm.edu.bd
@@ -3330,6 +3334,7 @@ dkmhcollege.edu.bd
 dmaradius.com.bd
 dmbogura.gov.bd
 dmetics.com.easynsoft.com.bd
+dmfcollege.edu.bd
 dmhighschool.edu.bd
 dmhighschool.edu.bd.hmsrhs.edu.bd
 dmp.gov.bd
@@ -4456,6 +4461,7 @@ kanderpodiahsk.edu.bd
 kangaihs.edu.bd
 kanghs.edu.bd
 kanthalbariaaghs.edu.bd
+kaptaihighschool.edu.bd
 karatkandihighschool.edu.bd
 karatoamsc.edu.bd
 karigor.ideb.org.bd
@@ -5238,6 +5244,7 @@ mail.kamalpurtm.edu.bd
 mail.kamgdm.edu.bd
 mail.kanderpodiahsk.edu.bd
 mail.kanthalbariaaghs.edu.bd
+mail.kaptaihighschool.edu.bd
 mail.kawalidhs.edu.bd
 mail.kbbdm.edu.bd
 mail.kbec.com.bd
@@ -6170,6 +6177,7 @@ noaparadegreecollege.edu.bd
 nobohealth.com.bd
 nobokuri.com.bd
 nodi.com.bd
+nodithai.com.bd
 nokkhotro.com.bd
 nokshipollirestaurant.com.bd
 noreply.gulfishan.com.bd
@@ -6654,6 +6662,8 @@ radian.bizsolve.com.bd
 radian.com.bd
 radiance.com.bd
 radio.net.bd
+radugaholdings.com.bd
+radugaholdings.com.bd.raduga.com.bd
 raffinato.com.bd
 ragdailhs.edu.bd
 rahimia.edu.bd
@@ -6988,6 +6998,7 @@ seed.org.bd
 seemove.com.bd
 seip.enroute.com.bd
 selfcare.dashinternet.com.bd
+selfcare.speedonline.com.bd
 selfshop.com.bd
 selim.com.bd
 semai.intactagro.com.bd
@@ -7767,6 +7778,7 @@ user.qservice.com.bd
 uset.ac.bd
 uset.ac.bd.uset.edu.bd
 uset.edu.bd
+usf.bmd.gov.bd
 ussit.com.bd
 utab.org.bd
 utsaho.com.bd
@@ -8100,6 +8112,7 @@ webdisk.kalikapur-hs.edu.bd
 webdisk.kamalpurtm.edu.bd
 webdisk.kanderpodiahsk.edu.bd
 webdisk.kanthalbariaaghs.edu.bd
+webdisk.kaptaihighschool.edu.bd
 webdisk.kbec.com.bd
 webdisk.kdmadrasah.edu.bd
 webdisk.keidm.edu.bd
@@ -8611,6 +8624,7 @@ webmail.kalikapur-hs.edu.bd
 webmail.kamalpurtm.edu.bd
 webmail.kanderpodiahsk.edu.bd
 webmail.kanthalbariaaghs.edu.bd
+webmail.kaptaihighschool.edu.bd
 webmail.kbec.com.bd
 webmail.kdmadrasah.edu.bd
 webmail.keidm.edu.bd
@@ -8908,6 +8922,7 @@ whm.bluerack.com.bd
 whm.catseye.com.bd
 whm.dsl.org.bd
 whm.guimaracollege.edu.bd
+whm.kaptaihighschool.edu.bd
 whm.maguragroup.com.bd
 whm.server.blackhost.com.bd
 whm.server.techplexus.com.bd
@@ -10465,6 +10480,7 @@ www.kanderpodiahsk.edu.bd
 www.kandirparup.comillalg.gov.bd
 www.kankapaitup.comillalg.gov.bd
 www.kanthalbariaaghs.edu.bd
+www.kaptaihighschool.edu.bd
 www.karigor.ideb.org.bd
 www.karikandiup.comillalg.gov.bd
 www.karimtrading.com.bd
@@ -11178,6 +11194,7 @@ www.quiz.ugv.edu.bd
 www.rabbithost.com.bd
 www.rabbyhasan.com.bd
 www.radian.bizsolve.com.bd
+www.radugaholdings.com.bd.raduga.com.bd
 www.rainpower.com.bd
 www.raipurup.upsonod.com.bd
 www.rajarhat.com.bd
