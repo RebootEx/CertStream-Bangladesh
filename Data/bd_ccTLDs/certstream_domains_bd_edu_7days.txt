@@ -144,6 +144,7 @@ autodiscover.cpscramu.edu.bd
 autodiscover.cpsk.edu.bd
 autodiscover.dagarpuraghs.edu.bd
 autodiscover.darogarhatakmadrasah.edu.bd
+autodiscover.dcgpsc.edu.bd
 autodiscover.dgbhschool.edu.bd
 autodiscover.dhankorahighschool.edu.bd
 autodiscover.dharmatalahs.edu.bd
@@ -540,6 +541,7 @@ cmam.edu.bd
 cmdck.edu.bd
 cmdm.edu.bd
 cms.khidirpurcollege.edu.bd
+cmshs.edu.bd
 collectoratepscbogura.edu.bd
 collegiatedinajpur.edu.bd
 connect.pitech.com.bd.fenigaacademy.edu.bd
@@ -600,6 +602,7 @@ cpanel.cpscramu.edu.bd
 cpanel.cpsk.edu.bd
 cpanel.dagarpuraghs.edu.bd
 cpanel.darogarhatakmadrasah.edu.bd
+cpanel.dcgpsc.edu.bd
 cpanel.dgbhschool.edu.bd
 cpanel.dhankorahighschool.edu.bd
 cpanel.dharmatalahs.edu.bd
@@ -820,6 +823,7 @@ cpcalendars.cpscramu.edu.bd
 cpcalendars.cpsk.edu.bd
 cpcalendars.dagarpuraghs.edu.bd
 cpcalendars.darogarhatakmadrasah.edu.bd
+cpcalendars.dcgpsc.edu.bd
 cpcalendars.dgbhschool.edu.bd
 cpcalendars.dhankorahighschool.edu.bd
 cpcalendars.dharmatalahs.edu.bd
@@ -1038,6 +1042,7 @@ cpcontacts.cpscramu.edu.bd
 cpcontacts.cpsk.edu.bd
 cpcontacts.dagarpuraghs.edu.bd
 cpcontacts.darogarhatakmadrasah.edu.bd
+cpcontacts.dcgpsc.edu.bd
 cpcontacts.dgbhschool.edu.bd
 cpcontacts.dhankorahighschool.edu.bd
 cpcontacts.dharmatalahs.edu.bd
@@ -1247,6 +1252,7 @@ dbam.edu.bd
 dbnscr.edu.bd
 dbsm.edu.bd
 dcahs.edu.bd
+dcgpsc.edu.bd
 dcphighschool.edu.bd
 ddm.edu.bd
 debipurhs.edu.bd
@@ -1495,6 +1501,7 @@ hcphs.edu.bd
 hdaisdm.edu.bd
 hdhs.edu.bd
 heakmam.edu.bd
+hedadangamsdmadrasah.edu.bd
 heedintschool.edu.bd
 heghschool.edu.bd
 helpdesk.green.edu.bd
@@ -1974,6 +1981,7 @@ mail.dagonbhuiyangirls.edu.bd
 mail.darogarhatakmadrasah.edu.bd
 mail.dbnscr.edu.bd
 mail.dcahs.edu.bd
+mail.dcgpsc.edu.bd
 mail.delparahighschool.edu.bd
 mail.dfgsam.edu.bd
 mail.dgbhschool.edu.bd
@@ -2602,6 +2610,7 @@ pmccghs.edu.bd
 pme.just.edu.bd
 pmgdm.edu.bd
 pmghs.edu.bd
+pmkadm.edu.bd
 pmlhs.edu.bd
 pmnhs.edu.bd
 pms.edu.bd
@@ -2795,6 +2804,7 @@ seobd.guagachhijoylahs.edu.bd
 server1.mgsc.edu.bd
 seu.edu.bd
 sfdm.edu.bd
+sfgmc.edu.bd
 sfmhs.edu.bd
 sfmu.edu.bd
 sfsrsc.edu.bd
@@ -2929,6 +2939,7 @@ tatdc.edu.bd
 tazekprodhanschool.edu.bd
 tbgs.edu.bd
 tbhs.edu.bd
+tcbschool.edu.bd
 tcmhs.edu.bd
 tdc.edu.bd
 tdcnil.edu.bd
@@ -3044,6 +3055,7 @@ webdisk.cpscramu.edu.bd
 webdisk.cpsk.edu.bd
 webdisk.dagarpuraghs.edu.bd
 webdisk.darogarhatakmadrasah.edu.bd
+webdisk.dcgpsc.edu.bd
 webdisk.dgbhschool.edu.bd
 webdisk.dhankorahighschool.edu.bd
 webdisk.dharmatalahs.edu.bd
@@ -3264,6 +3276,7 @@ webmail.cpscramu.edu.bd
 webmail.cpsk.edu.bd
 webmail.dagarpuraghs.edu.bd
 webmail.darogarhatakmadrasah.edu.bd
+webmail.dcgpsc.edu.bd
 webmail.dgbhschool.edu.bd
 webmail.dhankorahighschool.edu.bd
 webmail.dharmatalahs.edu.bd
@@ -3686,6 +3699,7 @@ www.dba.cityuniversity.edu.bd
 www.dbnscr.edu.bd
 www.dbsm.edu.bd
 www.dcahs.edu.bd
+www.dcgpsc.edu.bd
 www.ddm.edu.bd
 www.delparahighschool.edu.bd
 www.demo.jgschool.edu.bd
