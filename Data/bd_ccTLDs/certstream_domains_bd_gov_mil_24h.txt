@@ -2,6 +2,7 @@
 admin.sraep.gov.bd
 adp.plancomm.gov.bd
 api.otms.nass.gov.bd
+api.torjoni.gov.bd
 arjsc.roc.gov.bd
 barishal.gov.bd
 basbmed.gov.bd
@@ -12,7 +13,9 @@ cafoagriculture.gov.bd
 cafowater.gov.bd
 certificatefuldin.gov.bd
 climatefinance.erd.gov.bd
+cltp.gov.bd
 cmp.gov.bd
+cms.torjoni.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcontacts.ihtdhaka.gov.bd
