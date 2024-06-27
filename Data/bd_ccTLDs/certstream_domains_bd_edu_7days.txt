@@ -12,6 +12,7 @@ abuhanifss.edu.bd
 academic.bjnhsatc.edu.bd
 academic.diu.edu.bd
 academic.iscm.edu.bd
+account.lbhsc.edu.bd
 achm.edu.bd
 acr.bsmrau.edu.bd
 adgc.edu.bd
@@ -151,6 +152,7 @@ autodiscover.ggsshs.edu.bd
 autodiscover.gkalhs.edu.bd
 autodiscover.goalimadrasah.edu.bd
 autodiscover.gobfm.edu.bd
+autodiscover.golaidangamscollege.edu.bd
 autodiscover.goraihighschool.edu.bd
 autodiscover.gub.edu.bd
 autodiscover.hmsrhs.edu.bd
@@ -345,6 +347,7 @@ bjihs.edu.bd
 bjkhs.edu.bd
 bjs.edu.bd
 bjswam.edu.bd
+bkdcl.edu.bd
 bkgps.edu.bd
 bkhs.edu.bd
 bkkahs.edu.bd
@@ -562,6 +565,7 @@ cpanel.ggsshs.edu.bd
 cpanel.gkalhs.edu.bd
 cpanel.goalimadrasah.edu.bd
 cpanel.gobfm.edu.bd
+cpanel.golaidangamscollege.edu.bd
 cpanel.goraihighschool.edu.bd
 cpanel.gub.edu.bd
 cpanel.guimaracollege.edu.bd
@@ -743,6 +747,7 @@ cpcalendars.ggsshs.edu.bd
 cpcalendars.gkalhs.edu.bd
 cpcalendars.goalimadrasah.edu.bd
 cpcalendars.gobfm.edu.bd
+cpcalendars.golaidangamscollege.edu.bd
 cpcalendars.goraihighschool.edu.bd
 cpcalendars.gub.edu.bd
 cpcalendars.guimaracollege.edu.bd
@@ -922,6 +927,7 @@ cpcontacts.ggsshs.edu.bd
 cpcontacts.gkalhs.edu.bd
 cpcontacts.goalimadrasah.edu.bd
 cpcontacts.gobfm.edu.bd
+cpcontacts.golaidangamscollege.edu.bd
 cpcontacts.goraihighschool.edu.bd
 cpcontacts.gub.edu.bd
 cpcontacts.guimaracollege.edu.bd
@@ -1070,6 +1076,7 @@ damdamablhs.edu.bd
 danaramhsfenchu.edu.bd
 darogarhatakmadrasah.edu.bd
 darulhikma.edu.bd
+dasadikamilmadrasha.edu.bd
 dauam.edu.bd
 daudkandipiloths.edu.bd
 dba.cityuniversity.edu.bd
@@ -1269,6 +1276,7 @@ goalimadrasah.edu.bd
 gobfm.edu.bd
 godagarihs.edu.bd
 gohailbarihs.edu.bd
+golaidangamscollege.edu.bd
 golkhalihs.edu.bd
 gondacollege.edu.bd
 gopalpurknhsc.edu.bd
@@ -1336,6 +1344,7 @@ hfiam.edu.bd
 hgh.edu.bd
 hghsc.edu.bd
 hhkm.edu.bd
+hifm.edu.bd
 hindahs.edu.bd
 hisfeni.edu.bd
 hizlacollege.edu.bd
@@ -1810,6 +1819,7 @@ mail.cskm.edu.bd
 mail.dagarpuraghs.edu.bd
 mail.dagonbhuiyangirls.edu.bd
 mail.darogarhatakmadrasah.edu.bd
+mail.dasadikamilmadrasha.edu.bd
 mail.dauam.edu.bd
 mail.dbnscr.edu.bd
 mail.dcahs.edu.bd
@@ -1848,6 +1858,7 @@ mail.gnsc.edu.bd
 mail.goalgaonmahs.edu.bd
 mail.goalimadrasah.edu.bd
 mail.gobfm.edu.bd
+mail.golaidangamscollege.edu.bd
 mail.golkhalihs.edu.bd
 mail.goraihighschool.edu.bd
 mail.govtadiabadschoolcollege.edu.bd
@@ -2520,6 +2531,7 @@ rdmhs.edu.bd
 rdmhs.edu.bd.hmsrhs.edu.bd
 reg.uoda.edu.bd
 rehanacollege.edu.bd
+result.ssnic.edu.bd
 resultapp.kalakopakpschool.edu.bd
 reunion.baburhathighschoolandcollege.edu.bd
 rgc.edu.bd
@@ -2552,6 +2564,7 @@ rsuhs.edu.bd
 rtabmc.edu.bd
 rtm-aktu.edu.bd
 rubel.nsmhhs.edu.bd
+rumhs.edu.bd
 ruparjhorejuhs.edu.bd
 rupdiacollege.edu.bd
 rupnagarmadrasah.edu.bd
@@ -2792,6 +2805,7 @@ tscakkelpur.edu.bd
 tsdm.edu.bd
 ttcdhaka.edu.bd
 tttc.edu.bd
+tuca.edu.bd
 tulabariahs.edu.bd
 tungibariaschool.edu.bd
 tushkhaligirlshighschool.edu.bd
@@ -2885,6 +2899,7 @@ webdisk.ggsshs.edu.bd
 webdisk.gkalhs.edu.bd
 webdisk.goalimadrasah.edu.bd
 webdisk.gobfm.edu.bd
+webdisk.golaidangamscollege.edu.bd
 webdisk.goraihighschool.edu.bd
 webdisk.gub.edu.bd
 webdisk.guimaracollege.edu.bd
@@ -3062,6 +3077,7 @@ webmail.ggsshs.edu.bd
 webmail.gkalhs.edu.bd
 webmail.goalimadrasah.edu.bd
 webmail.gobfm.edu.bd
+webmail.golaidangamscollege.edu.bd
 webmail.goraihighschool.edu.bd
 webmail.gub.edu.bd
 webmail.guimaracollege.edu.bd
@@ -3306,6 +3322,7 @@ www.bdcip.edu.bd
 www.bdsdm.edu.bd
 www.beltalihs.edu.bd
 www.benapolehighschool.edu.bd
+www.best.bkdcl.edu.bd
 www.bfkdc.edu.bd
 www.bgmdm.edu.bd
 www.bgmss.edu.bd
@@ -3423,6 +3440,7 @@ www.dakhinmandiadm.edu.bd
 www.dalniahighschool.edu.bd
 www.danaramhsfenchu.edu.bd
 www.darogarhatakmadrasah.edu.bd
+www.dasadikamilmadrasha.edu.bd
 www.dauam.edu.bd
 www.dba.cityuniversity.edu.bd
 www.dbnscr.edu.bd
@@ -3511,6 +3529,7 @@ www.gnsc.edu.bd
 www.goalgaonmahs.edu.bd
 www.goalimadrasah.edu.bd
 www.gobfm.edu.bd
+www.golaidangamscollege.edu.bd
 www.golkhalihs.edu.bd
 www.goraihighschool.edu.bd
 www.govtadiabadschoolcollege.edu.bd
@@ -3880,6 +3899,7 @@ www.prostho.sdch.edu.bd
 www.pruahs.edu.bd
 www.psmhschool.edu.bd
 www.psmpghs.edu.bd
+www.puppi.bkdcl.edu.bd
 www.pwss.edu.bd
 www.qbam.amc.edu.bd
 www.ramms.edu.bd
@@ -3894,6 +3914,7 @@ www.rdmhs.edu.bd.hmsrhs.edu.bd
 www.reg.uoda.edu.bd
 www.result.dgpmhs.edu.bd
 www.result.fenipoly.edu.bd
+www.result.ssnic.edu.bd
 www.resultapp.kalakopakpschool.edu.bd
 www.reunion.baburhathighschoolandcollege.edu.bd
 www.rjddm.edu.bd
