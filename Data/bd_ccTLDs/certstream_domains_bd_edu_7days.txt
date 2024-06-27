@@ -170,6 +170,7 @@ autodiscover.khawarcharhighschool.edu.bd
 autodiscover.khiramhighschool.edu.bd
 autodiscover.kholabarihs.edu.bd
 autodiscover.khsbd.edu.bd
+autodiscover.kjnbdm.edu.bd
 autodiscover.knhsm.edu.bd
 autodiscover.kpahs.edu.bd
 autodiscover.krohs.edu.bd
@@ -589,6 +590,7 @@ cpanel.khawarcharhighschool.edu.bd
 cpanel.khiramhighschool.edu.bd
 cpanel.kholabarihs.edu.bd
 cpanel.khsbd.edu.bd
+cpanel.kjnbdm.edu.bd
 cpanel.kmmc.edu.bd
 cpanel.knhsm.edu.bd
 cpanel.kpahs.edu.bd
@@ -757,6 +759,7 @@ cpcalendars.khawarcharhighschool.edu.bd
 cpcalendars.khiramhighschool.edu.bd
 cpcalendars.kholabarihs.edu.bd
 cpcalendars.khsbd.edu.bd
+cpcalendars.kjnbdm.edu.bd
 cpcalendars.kmmc.edu.bd
 cpcalendars.knhsm.edu.bd
 cpcalendars.kpahs.edu.bd
@@ -923,6 +926,7 @@ cpcontacts.khawarcharhighschool.edu.bd
 cpcontacts.khiramhighschool.edu.bd
 cpcontacts.kholabarihs.edu.bd
 cpcontacts.khsbd.edu.bd
+cpcontacts.kjnbdm.edu.bd
 cpcontacts.kkhs-ctg.edu.bd
 cpcontacts.kmmc.edu.bd
 cpcontacts.knhsm.edu.bd
@@ -1118,6 +1122,7 @@ dulaihighschool.edu.bd
 dumss.edu.bd
 dwcuttara.edu.bd
 dznc.edu.bd
+eastbtmchs.edu.bd
 eastdelta.edu.bd
 edenresidentialschool.edu.bd
 edu.bd.aamc.edu.bd
@@ -1540,6 +1545,7 @@ khulnamats.edu.bd
 kisholoy.edu.bd
 kist.edu.bd
 kit.edu.bd
+kjnbdm.edu.bd
 kjughs.edu.bd
 kkmdm.edu.bd
 kkpahs.edu.bd
@@ -1863,6 +1869,7 @@ mail.khordabalailhighschool.edu.bd
 mail.khs1973.edu.bd
 mail.khsbd.edu.bd
 mail.kist.edu.bd
+mail.kjnbdm.edu.bd
 mail.klyanihs.edu.bd
 mail.kmmc.edu.bd
 mail.knhsm.edu.bd
@@ -2360,6 +2367,7 @@ portal.chhagalnaiyapgirls.edu.bd
 portal.cpmgc.edu.bd
 portal.dbnscr.edu.bd
 portal.dgrghs.edu.bd
+portal.gnsc.edu.bd
 portal.govtadiabadschoolcollege.edu.bd
 portal.gwdc.edu.bd
 portal.hsjrsc.edu.bd
@@ -2380,8 +2388,10 @@ pos.djs.edu.bd
 potoraahs.edu.bd
 ppmam.edu.bd
 ppmi.edu.bd
+ppsc.edu.bd
 prcinstitution.edu.bd
 primary.gnsc.edu.bd
+primaryportal.gnsc.edu.bd
 primeasia.edu.bd
 prjgs.edu.bd
 project.jkkniu.edu.bd
@@ -2608,6 +2618,7 @@ sonarayfjhs.edu.bd
 sonarayhs.edu.bd
 sonarparahighschool.edu.bd
 sonatolapilotgirlshs.edu.bd
+soyed.edu.bd
 spckafurpura.edu.bd
 spinkughs.edu.bd
 sportal.nstu.edu.bd
@@ -2827,6 +2838,7 @@ webdisk.khawarcharhighschool.edu.bd
 webdisk.khiramhighschool.edu.bd
 webdisk.kholabarihs.edu.bd
 webdisk.khsbd.edu.bd
+webdisk.kjnbdm.edu.bd
 webdisk.kmmc.edu.bd
 webdisk.knhsm.edu.bd
 webdisk.kpahs.edu.bd
@@ -2991,6 +3003,7 @@ webmail.khawarcharhighschool.edu.bd
 webmail.khiramhighschool.edu.bd
 webmail.kholabarihs.edu.bd
 webmail.khsbd.edu.bd
+webmail.kjnbdm.edu.bd
 webmail.kmmc.edu.bd
 webmail.knhsm.edu.bd
 webmail.kpahs.edu.bd
@@ -3553,6 +3566,7 @@ www.khordabalailhighschool.edu.bd
 www.khs1973.edu.bd
 www.khsbd.edu.bd
 www.kist.edu.bd
+www.kjnbdm.edu.bd
 www.kjughs.edu.bd
 www.klyanihs.edu.bd
 www.kmamhs.edu.bd
