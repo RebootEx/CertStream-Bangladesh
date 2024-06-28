@@ -19,7 +19,6 @@ autodiscover.bavs.gov.bd
 autodiscover.bhairabtsc.gov.bd
 autodiscover.debendracollege.gov.bd
 autodiscover.joyparatsc.gov.bd
-autodiscover.keraniganjttc.gov.bd
 autodiscover.mathbariapourashava.gov.bd
 autodiscover.shariatpurtsc.gov.bd
 bakshiganjpourashava.gov.bd
@@ -32,10 +31,8 @@ basb.gov.bd
 basbmed.gov.bd
 bavs.gov.bd
 bdris.gov.bd
-betarcommercialservice.gov.bd
 bhairabtsc.gov.bd
 bhangapourashava.gov.bd
-big.gov.bd
 bnhoc.navy.mil.bd
 boguramunicipality.gov.bd
 bogurapoly.gov.bd
@@ -83,7 +80,6 @@ cms.torjoni.gov.bd
 cngwc.gov.bd
 com.melandahbhata.gov.bd
 comillalg.gov.bd
-conference.dghs.gov.bd
 corona.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
@@ -93,7 +89,6 @@ cpanel.debendracollege.gov.bd
 cpanel.gnc.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.joyparatsc.gov.bd
-cpanel.keraniganjttc.gov.bd
 cpanel.mathbariapourashava.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.mudp.gov.bd
@@ -107,7 +102,6 @@ cpcalendars.debendracollege.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcalendars.joyparatsc.gov.bd
-cpcalendars.keraniganjttc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.mudp.gov.bd
@@ -121,7 +115,6 @@ cpcontacts.debendracollege.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.joyparatsc.gov.bd
-cpcontacts.keraniganjttc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.mudp.gov.bd
@@ -131,15 +124,12 @@ crelic-lged.gov.bd
 cxbrcancersurveillance.mohfw.gov.bd
 dakbazar.bpodms.gov.bd
 dashboard.gov.bd
-dashboard.idsdp.rdcd.gov.bd
 dashboard.otms.nass.gov.bd
 dc-khagrachhari.gov.bd
 dcabarishal.gov.bd
 dcadhaka.gov.bd
 debendracollege.gov.bd
 demo.iresppw-brdb.gov.bd
-dev.knsikhagrachari.gov.bd
-dhis2dev.dghs.gov.bd
 dhis2training.dghs.gov.bd
 dic.dghs.gov.bd
 digitalhaat.gov.bd
@@ -161,7 +151,6 @@ eksheba.gov.bd
 emergencynutrition.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
-epicampaign.dghs.gov.bd
 eportal.kkcp.gov.bd
 erp.bcsadminacademy.gov.bd
 erp.seip-fd.gov.bd
@@ -170,7 +159,6 @@ eshop.bisfl.gov.bd
 esmmssadar.gov.bd
 etds.gov.bd
 familycard.gov.bd
-farmbroadcast.gov.bd
 financial-assist.dsw.gov.bd
 finman.seip-fd.gov.bd
 finman.sicip.gov.bd
@@ -203,13 +191,11 @@ jmc.jessoreboard.gov.bd
 jorkanoneastup.gov.bd
 joyparatsc.gov.bd
 judgement-panel-secure-server.bicsaa.gov.bd
-judiciary.gov.bd
 juryboard-secure-login.bicsaa.gov.bd
 kalihatipourashava.gov.bd
 karimganjpourashava.gov.bd
 kbasset.karmasangsthanbank.gov.bd
 kcchatt.gov.bd
-keraniganjttc.gov.bd
 khulnattc.gov.bd
 kjml.gov.bd
 kodalkatihs.gov.bd
@@ -223,7 +209,6 @@ lms.seip-fd.gov.bd
 lms.sicip.gov.bd
 lv.mspvaw.gov.bd
 mail.14upazilaudd.gov.bd
-mail.a2iservices.gov.bd
 mail.bakshiganjpourashava.gov.bd
 mail.bangladeshtourism.gov.bd
 mail.bavs.gov.bd
@@ -236,7 +221,6 @@ mail.flora-bnh.gov.bd
 mail.gnc.gov.bd
 mail.ihtdhaka.gov.bd
 mail.joyparatsc.gov.bd
-mail.keraniganjttc.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.mspvaw.gov.bd
 mail.mudp.gov.bd
@@ -246,11 +230,9 @@ mail.satkhiratsc.gov.bd
 mail.shariatpurtsc.gov.bd
 mail.ugc-hemis.gov.bd
 mail.vatdhakawest.gov.bd
-marriage.gov.bd
 master.noipunno.gov.bd
 matelehealth.gov.bd
 mathbariapourashava.gov.bd
-mca.bise-ctg.gov.bd
 mchti.gov.bd
 meeting.cabinet.gov.bd
 memis.gov.bd
@@ -272,7 +254,6 @@ ndc.gov.bd
 new.pict.gov.bd
 newsclipping.banbeis.gov.bd
 newsite.zsorangpur.gov.bd
-nmv.dscc.gov.bd
 noakhaligmc.gov.bd
 nohs.navy.mil.bd
 notarypublic.gov.bd
@@ -348,7 +329,6 @@ test.gameapp.gov.bd
 titumircollege.gov.bd
 torjoni.gov.bd
 training.apams.cabinet.gov.bd
-training.ec4j.gov.bd
 training.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
 trainingnis.cabinet.gov.bd
@@ -377,7 +357,6 @@ webdisk.debendracollege.gov.bd
 webdisk.gnc.gov.bd
 webdisk.ihtdhaka.gov.bd
 webdisk.joyparatsc.gov.bd
-webdisk.keraniganjttc.gov.bd
 webdisk.mathbariapourashava.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.mudp.gov.bd
@@ -392,7 +371,6 @@ webmail.gnc.gov.bd
 webmail.harmonyprojectmora.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.joyparatsc.gov.bd
-webmail.keraniganjttc.gov.bd
 webmail.mathbariapourashava.gov.bd
 webmail.mspvaw.gov.bd
 webmail.mudp.gov.bd
@@ -432,7 +410,6 @@ www.batishaup.comillalg.gov.bd
 www.battaliup.comillalg.gov.bd
 www.bavs.gov.bd
 www.bhairabtsc.gov.bd
-www.big.gov.bd
 www.bijoypurup.comillalg.gov.bd
 www.bipulasharup.comillalg.gov.bd
 www.bnhoc.navy.mil.bd
@@ -449,13 +426,11 @@ www.chandlaup.comillalg.gov.bd
 www.chuwaraup.comillalg.gov.bd
 www.cirt.gov.bd
 www.cms.msw-soft.gov.bd
-www.dashboard.idsdp.rdcd.gov.bd
 www.dc-khagrachhari.gov.bd
 www.dcabarishal.gov.bd
 www.debendracollege.gov.bd
 www.demo.iresppw-brdb.gov.bd
 www.dept.titumircollege.gov.bd
-www.dev.knsikhagrachari.gov.bd
 www.dhaluaup.comillalg.gov.bd
 www.dmp.gov.bd
 www.doctor.bvc.gov.bd
@@ -510,7 +485,6 @@ www.kankapaitup.comillalg.gov.bd
 www.karikandiup.comillalg.gov.bd
 www.kbasset.karmasangsthanbank.gov.bd
 www.kcchatt.gov.bd
-www.keraniganjttc.gov.bd
 www.khelaup.comillalg.gov.bd
 www.laksampurbaup.comillalg.gov.bd
 www.laxmipurup.comillalg.gov.bd
@@ -584,7 +558,6 @@ www.taxzone21dhaka.gov.bd
 www.tds.taxeszone3ctg.gov.bd
 www.test.gameapp.gov.bd
 www.test.msw-soft.gov.bd
-www.training.ec4j.gov.bd
 www.training.gov.bd
 www.training.uphcsdp.gov.bd
 www.uacco.melandahbhata.gov.bd
