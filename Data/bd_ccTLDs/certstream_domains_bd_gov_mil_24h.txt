@@ -1,5 +1,6 @@
 accounting.smartrajshahi.gov.bd
 admin-control-secure-server-hash.bicsaa.gov.bd
+adp.plancomm.gov.bd
 alutila-api.dc-khagrachhari.gov.bd
 application-review-asdhqemckqld.bicsaa.gov.bd
 autodiscover.bavs.gov.bd
@@ -28,6 +29,7 @@ judgement-panel-secure-server.bicsaa.gov.bd
 juryboard-secure-login.bicsaa.gov.bd
 khulnattc.gov.bd
 mail.bavs.gov.bd
+mail.cbraj.gov.bd
 mfstc.mfstc.gov.bd
 nnsop.gov.bd
 passenger.blpa.gov.bd
@@ -36,10 +38,12 @@ portal.netrokonatsc.gov.bd
 practical.comillaboard.gov.bd
 proinfo.lged.gov.bd
 sheikhhasina.gov.bd
+sm.gov.bd
 smartup.gov.bd
 sohayota.gov.bd
 sohayota.gov.bd.melandahbhata.gov.bd
 soms.gov.bd
+sscb.gov.bd
 sundalpurup.gov.bd
 taloramunicipality.gov.bd
 webdisk.bavs.gov.bd
@@ -50,6 +54,7 @@ www.alutila-api.dc-khagrachhari.gov.bd
 www.application-review-asdhqemckqld.bicsaa.gov.bd
 www.bavs.gov.bd
 www.bogurapoly.gov.bd
+www.cbraj.gov.bd
 www.dcabarishal.gov.bd
 www.durgapursouthup.comillalg.gov.bd
 www.judgement-panel-secure-server.bicsaa.gov.bd
