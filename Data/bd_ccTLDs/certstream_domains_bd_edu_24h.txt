@@ -39,6 +39,7 @@ autodiscover.kjnbdm.edu.bd
 autodiscover.misiraaghs.edu.bd
 autodiscover.nmwdc.edu.bd
 autodiscover.uob.edu.bd
+avoycharonhs.edu.bd
 azhs.edu.bd
 azmsakenuddin.edu.bd
 bahabghs.edu.bd
@@ -101,6 +102,7 @@ chitpaikersarahs.edu.bd
 cissmb.edu.bd
 cittc.edu.bd
 cmpsc.edu.bd
+cmruhs.edu.bd
 cmshs.edu.bd
 cnkmadrasah.edu.bd
 coe.uits.edu.bd
@@ -140,6 +142,7 @@ cpanel.mmidm.edu.bd
 cpanel.msscbogra.edu.bd
 cpanel.mukmmd.edu.bd
 cpanel.nmwdc.edu.bd
+cpanel.pkgadm.edu.bd
 cpanel.proyashbogura.edu.bd
 cpanel.rehanacollege.edu.bd
 cpanel.rise.edu.bd
@@ -172,6 +175,7 @@ cpcalendars.kjnbdm.edu.bd
 cpcalendars.misiraaghs.edu.bd
 cpcalendars.mmidm.edu.bd
 cpcalendars.nmwdc.edu.bd
+cpcalendars.pkgadm.edu.bd
 cpcalendars.rise.edu.bd
 cpcalendars.sarakerbazarhighschool.edu.bd
 cpcalendars.somipuridm.edu.bd
@@ -197,6 +201,7 @@ cpcontacts.kjnbdm.edu.bd
 cpcontacts.misiraaghs.edu.bd
 cpcontacts.mmidm.edu.bd
 cpcontacts.nmwdc.edu.bd
+cpcontacts.pkgadm.edu.bd
 cpcontacts.rise.edu.bd
 cpcontacts.sarakerbazarhighschool.edu.bd
 cpcontacts.somipuridm.edu.bd
@@ -303,6 +308,7 @@ kashimpurphs.edu.bd
 kasundihighschool.edu.bd
 kfgsc.edu.bd
 kjnbdm.edu.bd
+kkghsbd.com.fulbarihs.edu.bd
 kldm.edu.bd
 koinpurahighschool.edu.bd
 krc.edu.bd
@@ -354,6 +360,7 @@ mail.nmwdc.edu.bd
 mail.npurpghs.edu.bd
 mail.phsrt.edu.bd
 mail.pkbmhs.edu.bd
+mail.pkgadm.edu.bd
 mail.rdc.edu.bd
 mail.rise.edu.bd
 mail.sarakerbazarhighschool.edu.bd
@@ -406,6 +413,8 @@ nowparasandc.edu.bd
 npurhighschool.edu.bd
 npurpghs.edu.bd
 ns.autodiscover.manjurahmedhs.edu.bd
+ns1.nalbatahighschool.edu.bd
+ns2.nalbatahighschool.edu.bd
 nuhsk.edu.bd
 old.abrmsc.edu.bd
 old.bjkhs1883.edu.bd
@@ -419,11 +428,14 @@ pahmc.edu.bd
 palerhatpublichs.edu.bd
 paraikoranhs.edu.bd
 pay.fcub.edu.bd
+pctcbd.cmdm.edu.bd
 pdblm.edu.bd
 phaghsc.edu.bd
 phsr.edu.bd
 phsrt.edu.bd
 pkbmhs.edu.bd
+pkgadm.edu.bd
+plhksm.edu.bd
 portal.anwaragirlshighschool.edu.bd
 portal.btghs.edu.bd
 portal.dmrc.edu.bd
@@ -528,6 +540,7 @@ webdisk.kjnbdm.edu.bd
 webdisk.misiraaghs.edu.bd
 webdisk.mmidm.edu.bd
 webdisk.nmwdc.edu.bd
+webdisk.pkgadm.edu.bd
 webdisk.rise.edu.bd
 webdisk.sarakerbazarhighschool.edu.bd
 webdisk.somipuridm.edu.bd
@@ -569,6 +582,7 @@ webmail.mmidm.edu.bd
 webmail.msscbogra.edu.bd
 webmail.mukmmd.edu.bd
 webmail.nmwdc.edu.bd
+webmail.pkgadm.edu.bd
 webmail.proyashbogura.edu.bd
 webmail.rehanacollege.edu.bd
 webmail.rise.edu.bd
@@ -653,6 +667,7 @@ www.kashimpurphs.edu.bd
 www.kasundihighschool.edu.bd.chscollege.edu.bd
 www.kfgsc.edu.bd
 www.kjnbdm.edu.bd
+www.kkghsbd.com.fulbarihs.edu.bd
 www.lakers.edu.bd
 www.library.girmm.edu.bd
 www.library.hamdarduniversity.edu.bd
@@ -687,8 +702,10 @@ www.nuhsk.edu.bd
 www.old.abrmsc.edu.bd
 www.old.bjkhs1883.edu.bd
 www.pay.fcub.edu.bd
+www.pctcbd.cmdm.edu.bd
 www.phsrt.edu.bd
 www.pkbmhs.edu.bd
+www.pkgadm.edu.bd
 www.portal.dmrc.edu.bd
 www.portal.nipghs.edu.bd
 www.portal.rtm-aktu.edu.bd
