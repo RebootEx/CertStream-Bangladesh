@@ -6,6 +6,7 @@ api.bfacf-ticket.gov.bd
 api.noipunno.gov.bd
 ar.gameapp.gov.bd
 azimpur.uniontax.gov.bd
+bdhckl.gov.bd
 bise-ctg.gov.bd
 bpmis.bsc.gov.bd
 bpocams.bdpost.gov.bd
@@ -17,7 +18,9 @@ dcarangpur.gov.bd
 du.gameapp.gov.bd
 durgapursouthup.comillalg.gov.bd
 ebrc.mil.bd
+edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
+equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
 estore.bsc.gov.bd
 etds.gov.bd
@@ -27,6 +30,7 @@ foreigner.dc-khagrachhari.gov.bd
 gisserver.grm.plandiv.gov.bd
 gpufp.gov.bd
 grm.plandiv.gov.bd
+grsreport.karmasangsthanbank.gov.bd
 idea.gov.bd
 inheritance.dc-khagrachhari.gov.bd
 jamalpurttc.gov.bd
@@ -35,6 +39,7 @@ jitsi.vc8.bcc.gov.bd
 job.bsc.gov.bd
 judiciary.gov.bd
 karimganjpourashava.gov.bd
+lakshmipurpourashava.gov.bd
 lutercharup.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.tc.dghs.gov.bd
@@ -55,6 +60,7 @@ nttc.gov.bd
 online.gbrcr.gov.bd
 onlineshr.dghs.gov.bd
 panchagarhmunicipality.gov.bd
+portal.grm.plandiv.gov.bd
 portal.satkhiratsc.gov.bd
 practical.bise-ctg.gov.bd
 raipurpourashava.gov.bd
@@ -64,6 +70,8 @@ rpi.gov.bd
 rrdhs.gov.bd
 saidpurmunicipality.gov.bd
 scan.jessoreboard.gov.bd
+scc.gov.bd
+sccdc.scc.gov.bd
 smart.dncc.gov.bd
 sonod.scc.gov.bd
 ssf.gov.bd
@@ -74,6 +82,7 @@ test.gameapp.gov.bd
 training-tb.dghs.gov.bd
 training.cirt.gov.bd
 turn.vc8.bcc.gov.bd
+urmeessk.bgb.gov.bd
 vcsavar.gov.bd
 www.admin.dc-khagrachhari.gov.bd
 www.ahsanmanzilticket.gov.bd
@@ -81,13 +90,16 @@ www.api.bsiedu.gov.bd
 www.app.taxeszone4ctg.gov.bd
 www.ar.gameapp.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 www.du.gameapp.gov.bd
 www.durgapursouthup.comillalg.gov.bd
+www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.estore.bsc.gov.bd
 www.ezakat.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
+www.grsreport.karmasangsthanbank.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
 www.lutercharup.gov.bd
 www.news.dcarangpur.gov.bd
