@@ -31,6 +31,7 @@ admt.edu.bd
 aehs.edu.bd
 aeresc.edu.bd
 aeuam.edu.bd
+afazuddincollegedhamrai.edu.bd
 afazuddinschoolandcollege.edu.bd
 afdm.edu.bd
 agarpurcollege.edu.bd
@@ -237,6 +238,7 @@ autodiscover.pms.edu.bd
 autodiscover.ranashalhighschool.edu.bd
 autodiscover.razapurcollege.edu.bd
 autodiscover.rdmhs.edu.bd
+autodiscover.rmc.edu.bd
 autodiscover.rnmdc.edu.bd
 autodiscover.safama.edu.bd
 autodiscover.saihs.edu.bd
@@ -529,6 +531,7 @@ chandiparaghs.edu.bd
 chandpurmc.edu.bd
 chandsarhmahschool.edu.bd
 chapiladigirlshs.edu.bd
+charabagihs.edu.bd
 charbagdangadm.edu.bd
 charbakorhs.edu.bd
 charhaziganjhs.edu.bd
@@ -592,6 +595,7 @@ covid19.seu.edu.bd
 cpahs.edu.bd
 cpanel.adm.edu.bd
 cpanel.admhs.edu.bd
+cpanel.afazuddincollegedhamrai.edu.bd
 cpanel.afazuddinschoolandcollege.edu.bd
 cpanel.agghs.edu.bd
 cpanel.airmaryhs.edu.bd
@@ -744,6 +748,7 @@ cpanel.rdmhs.edu.bd
 cpanel.rehanacollege.edu.bd
 cpanel.reunion.baburhathighschoolandcollege.edu.bd
 cpanel.rise.edu.bd
+cpanel.rmc.edu.bd
 cpanel.rnmdc.edu.bd
 cpanel.rosenberg.edu.bd
 cpanel.rustumpurnsdmadrasha.edu.bd
@@ -775,6 +780,7 @@ cpanel.uob.edu.bd
 cpanel.uttc.edu.bd
 cpanel.vib.edu.bd
 cpanel.walipurhs.edu.bd
+cpanel.warihighschool.edu.bd
 cpanel.wpmykhs.edu.bd
 cpcalendars.adm.edu.bd
 cpcalendars.admhs.edu.bd
@@ -920,6 +926,7 @@ cpcalendars.razapurcollege.edu.bd
 cpcalendars.rdmhs.edu.bd
 cpcalendars.reunion.baburhathighschoolandcollege.edu.bd
 cpcalendars.rise.edu.bd
+cpcalendars.rmc.edu.bd
 cpcalendars.rnmdc.edu.bd
 cpcalendars.rustumpurnsdmadrasha.edu.bd
 cpcalendars.safama.edu.bd
@@ -1095,6 +1102,7 @@ cpcontacts.razapurcollege.edu.bd
 cpcontacts.rdmhs.edu.bd
 cpcontacts.reunion.baburhathighschoolandcollege.edu.bd
 cpcontacts.rise.edu.bd
+cpcontacts.rmc.edu.bd
 cpcontacts.rnmdc.edu.bd
 cpcontacts.rustumpurnsdmadrasha.edu.bd
 cpcontacts.safama.edu.bd
@@ -1363,6 +1371,7 @@ ggahsac.edu.bd
 ggc.edu.bd
 ggphs.edu.bd
 ggsshs.edu.bd
+ghmmc.edu.bd
 ghoragacamlhs.edu.bd
 ghrchub.daffodilvarsity.edu.bd
 ghsn.edu.bd
@@ -1762,6 +1771,7 @@ kp.haldiagovhs.edu.bd
 kpahs.edu.bd
 kppdm.edu.bd
 kppi.edu.bd
+krc.edu.bd
 krin.edu.bd
 krishnapuradarshahighschool.edu.bd
 krishnapurbhs.edu.bd
@@ -1772,6 +1782,7 @@ ksghsc.edu.bd
 kshsl.edu.bd
 kshuhs.edu.bd
 kssc.edu.bd
+kthschool.edu.bd
 ktnsdm.edu.bd
 ktnsdm.edu.bd.bodm.edu.bd
 kuakataidm.edu.bd
@@ -2199,6 +2210,7 @@ mail.rdmhs.edu.bd
 mail.reunion.baburhathighschoolandcollege.edu.bd
 mail.rise.edu.bd
 mail.rjddm.edu.bd
+mail.rmc.edu.bd
 mail.rnahs.edu.bd
 mail.rnmdc.edu.bd
 mail.rohitpurhs.edu.bd
@@ -2743,6 +2755,7 @@ ritraj.edu.bd
 rjddm.edu.bd
 rkrmsc.edu.bd
 rlhs.edu.bd
+rmc.edu.bd
 rmdc.edu.bd
 rmhaziasaduzzamanhschool.edu.bd
 rmhschool.edu.bd
@@ -3070,6 +3083,7 @@ wahidunnesa.edu.bd
 walipurhs.edu.bd
 walipurhs.edu.bd.hmsrhs.edu.bd
 wamhschool.edu.bd
+warihighschool.edu.bd
 webdisk.adm.edu.bd
 webdisk.admhs.edu.bd
 webdisk.agghs.edu.bd
@@ -3213,6 +3227,7 @@ webdisk.razapurcollege.edu.bd
 webdisk.rdmhs.edu.bd
 webdisk.reunion.baburhathighschoolandcollege.edu.bd
 webdisk.rise.edu.bd
+webdisk.rmc.edu.bd
 webdisk.rnmdc.edu.bd
 webdisk.rustumpurnsdmadrasha.edu.bd
 webdisk.safama.edu.bd
@@ -3245,6 +3260,7 @@ webdisk.walipurhs.edu.bd
 webdisk.wpmykhs.edu.bd
 webmail.adm.edu.bd
 webmail.admhs.edu.bd
+webmail.afazuddincollegedhamrai.edu.bd
 webmail.afazuddinschoolandcollege.edu.bd
 webmail.agghs.edu.bd
 webmail.airmaryhs.edu.bd
@@ -3398,6 +3414,7 @@ webmail.rdmhs.edu.bd
 webmail.rehanacollege.edu.bd
 webmail.reunion.baburhathighschoolandcollege.edu.bd
 webmail.rise.edu.bd
+webmail.rmc.edu.bd
 webmail.rnmdc.edu.bd
 webmail.rosenberg.edu.bd
 webmail.rustumpurnsdmadrasha.edu.bd
@@ -3429,6 +3446,7 @@ webmail.ttcdhaka.edu.bd
 webmail.ucn.edu.bd
 webmail.vib.edu.bd
 webmail.walipurhs.edu.bd
+webmail.warihighschool.edu.bd
 webmail.wpmykhs.edu.bd
 westcharamddiss.edu.bd
 whm.kaptaihighschool.edu.bd
@@ -3456,6 +3474,7 @@ www.admission.raozancollege.edu.bd
 www.admission.sgmsc.edu.bd
 www.aehs.edu.bd
 www.aeresc.edu.bd
+www.afazuddincollegedhamrai.edu.bd
 www.afazuddinschoolandcollege.edu.bd
 www.afdm.edu.bd
 www.agarpurcollege.edu.bd
@@ -4160,6 +4179,7 @@ www.resultapp.kalakopakpschool.edu.bd
 www.reunion.baburhathighschoolandcollege.edu.bd
 www.rise.edu.bd
 www.rjddm.edu.bd
+www.rmc.edu.bd
 www.rmhschool.edu.bd
 www.rnahs.edu.bd
 www.rnmdc.edu.bd
@@ -4322,6 +4342,7 @@ www.vmdm.edu.bd
 www.vps.metrouni.edu.bd
 www.walipurhs.edu.bd
 www.walipurhs.edu.bd.hmsrhs.edu.bd
+www.warihighschool.edu.bd
 www.wholesale-bazar.sujatpurcollege.edu.bd
 www.wmahs.edu.bd
 www.wpmykhs.edu.bd
