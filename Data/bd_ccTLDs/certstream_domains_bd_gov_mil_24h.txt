@@ -7,12 +7,16 @@ bpmis.bsc.gov.bd
 bpocams.bdpost.gov.bd
 bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
+bwdb.gov.bd
 cdc.gov.bd
 dcarangpur.gov.bd
 du.gameapp.gov.bd
+durgapursouthup.comillalg.gov.bd
 ebrc.mil.bd
 eduhub.gov.bd
 erp.bakshiganjpourashava.gov.bd
+estore.bsc.gov.bd
+ezakat.gov.bd
 familycard.distgopalganj.gov.bd
 foreigner.dc-khagrachhari.gov.bd
 idea.gov.bd
@@ -20,6 +24,7 @@ inheritance.dc-khagrachhari.gov.bd
 jcbs.gov.bd
 jitsi.vc8.bcc.gov.bd
 job.bsc.gov.bd
+judiciary.gov.bd
 karimganjpourashava.gov.bd
 lutercharup.gov.bd
 mail.saidpurmunicipality.gov.bd
@@ -45,6 +50,7 @@ residence.dc-khagrachhari.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 saidpurmunicipality.gov.bd
+scan.jessoreboard.gov.bd
 smart.dncc.gov.bd
 ssf.gov.bd
 supremecourt.gov.bd
@@ -60,7 +66,10 @@ www.app.taxeszone4ctg.gov.bd
 www.ar.gameapp.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.du.gameapp.gov.bd
+www.durgapursouthup.comillalg.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
+www.estore.bsc.gov.bd
+www.ezakat.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
@@ -72,6 +81,7 @@ www.register.gameapp.gov.bd
 www.residence.dc-khagrachhari.gov.bd
 www.result.bsiedu.gov.bd
 www.saidpurmunicipality.gov.bd
+www.scan.jessoreboard.gov.bd
 www.student-portal.rpi.gov.bd
 www.test.gameapp.gov.bd
 www.test.taxeszone4ctg.gov.bd
