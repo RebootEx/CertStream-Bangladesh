@@ -20,7 +20,6 @@ ar.gameapp.gov.bd
 arjsc.roc.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.bavs.gov.bd
-autodiscover.debendracollege.gov.bd
 autodiscover.mathbariapourashava.gov.bd
 azimpur.uniontax.gov.bd
 bakshiganjpourashava.gov.bd
@@ -35,7 +34,9 @@ bavs.gov.bd
 bcsi.gov.bd
 bdhckl.gov.bd
 betagimunicipality.gov.bd
+biman.ekpay.gov.bd
 bise-ctg.gov.bd
+biwtahydrographicdata.gov.bd
 bnhoc.navy.mil.bd
 boguramunicipality.gov.bd
 bogurapoly.gov.bd
@@ -43,7 +44,6 @@ borhamganjcollege.gov.bd
 bpi.com.ph.dhamraimunicipality.gov.bd
 bpmis.bsc.gov.bd
 bpocams.bdpost.gov.bd
-bsa.gov.bd
 bscic-emarket.gov.bd
 bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
@@ -62,19 +62,16 @@ cafoparliament.gov.bd
 cafowater.gov.bd
 cafoyouthandsports.gov.bd
 cbraj.gov.bd
-ccapkhulna.gov.bd
 ccpc4teens.gov.bd
 cdc.gov.bd
 certificatefuldin.gov.bd
 cevappealdhaka2.gov.bd
 chalibhangaup.gov.bd
-champs.iedcr.gov.bd
 chattogram.gov.bd
 chuadangacollege.gov.bd
 cirt.gov.bd
 climatefinance.erd.gov.bd
 cltp.gov.bd
-cmmcourtsylhet.gov.bd
 cmp.gov.bd
 cms.msw-soft.gov.bd
 cms.torjoni.gov.bd
@@ -83,7 +80,6 @@ corona.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
 cpanel.bavs.gov.bd
-cpanel.debendracollege.gov.bd
 cpanel.gnc.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.mathbariapourashava.gov.bd
@@ -92,7 +88,6 @@ cpanel.ugc-hemis.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bavs.gov.bd
-cpcalendars.debendracollege.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
@@ -102,7 +97,6 @@ cpcalendars.ugc-hemis.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bavs.gov.bd
-cpcontacts.debendracollege.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
@@ -111,18 +105,15 @@ cpcontacts.pbi.gov.bd
 cpcontacts.ugc-hemis.gov.bd
 ctgtaxeszone2.gov.bd
 cxbrcancersurveillance.mohfw.gov.bd
-dashboard.gov.bd
 dashboard.otms.nass.gov.bd
 dcabarishal.gov.bd
 dcadhaka.gov.bd
 dcarangpur.gov.bd
-debendracollege.gov.bd
 demo.iresppw-brdb.gov.bd
 dhis2training.dghs.gov.bd
 dic.dghs.gov.bd
 digitalhaat.gov.bd
 dmc.fima.gov.bd
-dmp.gov.bd
 dtemymensingh.gov.bd
 dtsms.navy.mil.bd
 du.gameapp.gov.bd
@@ -161,7 +152,6 @@ ghoraghatmunicipality.gov.bd
 ghtcb.melandahbhata.gov.bd
 gis-titasgas.gov.bd
 gisserver.grm.plandiv.gov.bd
-globe.com.ph.dhamraimunicipality.gov.bd
 gnc.gov.bd
 godagaricollege.gov.bd
 govindapurup1.gov.bd
@@ -172,8 +162,6 @@ gsfmcbhola.gov.bd
 gzmcfeni.gov.bd
 hathazaripourashava.gov.bd
 herpower.gov.bd
-himb.bwdb.gov.bd
-hp.habiganjpourashava.gov.bd
 hpmdashboard.dghs.gov.bd
 idea.gov.bd
 iedcr.gov.bd
@@ -216,8 +204,6 @@ mail.bakshiganjpourashava.gov.bd
 mail.bangladeshtourism.gov.bd
 mail.bavs.gov.bd
 mail.cbraj.gov.bd
-mail.debendracollege.gov.bd
-mail.egp.dghs.gov.bd
 mail.flora-bnh.gov.bd
 mail.gnc.gov.bd
 mail.ihtdhaka.gov.bd
@@ -248,7 +234,6 @@ mtsc.gov.bd
 my.gameapp.gov.bd
 myclass.gov.bd
 mymail.ekshop.gov.bd
-nabipurwestsmartup.gov.bd
 nagoriksheba.gov.bd
 naldangamunicipality.gov.bd
 ncbelearning.fpmu.gov.bd
@@ -256,7 +241,6 @@ ncc.gov.bd
 ndc.gov.bd
 news.dcarangpur.gov.bd
 newsclipping.banbeis.gov.bd
-newsite.zsorangpur.gov.bd
 ngosavar.gov.bd
 nilphamarittc.gov.bd
 nnsop.gov.bd
@@ -270,13 +254,13 @@ nttc.gov.bd
 nutritionprofile.gov.bd
 nwpgcl.gov.bd
 old.comillaboard.gov.bd
+old.dghs.gov.bd
 old.gameapp.gov.bd
 online.bpi.com.ph.dhamraimunicipality.gov.bd
 online.gbrcr.gov.bd
 onlineschoolform.bise-ctg.gov.bd
 onlineshr.dghs.gov.bd
 otms.nass.gov.bd
-pabtec.gov.bd
 panchagarhmunicipality.gov.bd
 panchgachhiawestup.gov.bd
 passenger.blpa.gov.bd
@@ -299,7 +283,6 @@ register.gameapp.gov.bd
 residence.dc-khagrachhari.gov.bd
 rgamc.gov.bd
 rgdc.gov.bd
-roc.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 rwasa.gov.bd
@@ -311,7 +294,6 @@ scan.jessoreboard.gov.bd
 scc.gov.bd
 sccdc.scc.gov.bd
 school.gov.bd
-schoolform.bise-ctg.gov.bd
 sdg.gov.bd
 secpass.gov.bd
 sheikhhasina.gov.bd
@@ -346,14 +328,12 @@ tangerine.dpe.gov.bd
 taxeszone20dhaka.gov.bd
 taxeszone3ctg.gov.bd
 taxeszone4ctg.gov.bd
-taxzone21dhaka.gov.bd
 tds.taxeszone3ctg.gov.bd
 tekpou.gov.bd
 test.gameapp.gov.bd
 torjoni.gov.bd
 training-tb.dghs.gov.bd
 training.cirt.gov.bd
-training.gov.bd
 trainingnis.cabinet.gov.bd
 ttc.gov.bd
 turn.vc8.bcc.gov.bd
@@ -373,7 +353,6 @@ web.pgcb.gov.bd
 webdisk.14upazilaudd.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
 webdisk.bavs.gov.bd
-webdisk.debendracollege.gov.bd
 webdisk.gnc.gov.bd
 webdisk.ihtdhaka.gov.bd
 webdisk.mathbariapourashava.gov.bd
@@ -383,7 +362,6 @@ webdisk.ugc-hemis.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.bakshiganjpourashava.gov.bd
 webmail.bavs.gov.bd
-webmail.debendracollege.gov.bd
 webmail.gnc.gov.bd
 webmail.harmonyprojectmora.gov.bd
 webmail.ihtdhaka.gov.bd
@@ -391,7 +369,6 @@ webmail.mathbariapourashava.gov.bd
 webmail.mspvaw.gov.bd
 webmail.ugc-hemis.gov.bd
 workshop.mspvaw109.gov.bd
-wtmu.gov.bd
 www.14upazilaudd.gov.bd
 www.admin-control-secure-server-hash.bicsaa.gov.bd
 www.admin.dc-khagrachhari.gov.bd
@@ -402,7 +379,6 @@ www.app.taxeszone4ctg.gov.bd
 www.application-review-asdhqemckqld.bicsaa.gov.bd
 www.apply.zpmoulvibazar.gov.bd
 www.ar.gameapp.gov.bd
-www.artistdb.bsa.gov.bd
 www.attendance-server.rpi.gov.bd
 www.attendance.rpi.gov.bd
 www.bakshiganjpourashava.gov.bd
@@ -411,9 +387,9 @@ www.bangladeshtourism.gov.bd
 www.barakandaup.gov.bd
 www.bareraup.comillalg.gov.bd
 www.bavs.gov.bd
+www.biwtahydrographicdata.gov.bd
 www.bnhoc.navy.mil.bd
 www.bogurapoly.gov.bd
-www.booking.bsa.gov.bd
 www.bpi.com.ph.dhamraimunicipality.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
@@ -422,10 +398,8 @@ www.chalibhangaup.gov.bd
 www.cirt.gov.bd
 www.cms.msw-soft.gov.bd
 www.dcabarishal.gov.bd
-www.debendracollege.gov.bd
 www.demo.iresppw-brdb.gov.bd
 www.dmc.fima.gov.bd
-www.dmp.gov.bd
 www.doctor.bvc.gov.bd
 www.dtsms.navy.mil.bd
 www.du.gameapp.gov.bd
@@ -439,12 +413,9 @@ www.familycard.distgopalganj.gov.bd
 www.flora-bnh.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
 www.ghtcb.melandahbhata.gov.bd
-www.globe.com.ph.dhamraimunicipality.gov.bd
 www.gnc.gov.bd
 www.govindapurup1.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
-www.herpower.gov.bd
-www.hp.habiganjpourashava.gov.bd
 www.hrms.knsikhagrachari.gov.bd
 www.ihtdhaka.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
@@ -462,9 +433,7 @@ www.mathbariapourashava.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
-www.nabipurwestsmartup.gov.bd
 www.news.dcarangpur.gov.bd
-www.newsite.zsorangpur.gov.bd
 www.nohs.navy.mil.bd
 www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
@@ -488,7 +457,6 @@ www.saidpurmunicipality.gov.bd
 www.satkhiratsc.gov.bd
 www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
-www.shilpokola.bsa.gov.bd
 www.sholanalup.gov.bd
 www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
@@ -499,15 +467,12 @@ www.student-portal.rpi.gov.bd
 www.sums-apis.rpi.gov.bd
 www.sundalpurup.gov.bd
 www.taxeszone3ctg.gov.bd
-www.taxzone21dhaka.gov.bd
 www.tds.taxeszone3ctg.gov.bd
 www.test.gameapp.gov.bd
 www.test.msw-soft.gov.bd
 www.test.taxeszone4ctg.gov.bd
-www.training.gov.bd
 www.training.uphcsdp.gov.bd
 www.ugc-hemis.gov.bd
 www.workshop.mspvaw109.gov.bd
-www.wtmu.gov.bd
 zpkhulna.gov.bd
 zpmoulvibazar.gov.bd
