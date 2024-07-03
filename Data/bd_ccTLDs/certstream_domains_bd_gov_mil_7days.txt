@@ -24,6 +24,7 @@ ar.gameapp.gov.bd
 arjsc.roc.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bavs.gov.bd
+autodiscover.bmdbwcsrp.gov.bd
 autodiscover.mathbariapourashava.gov.bd
 autodiscover.tseogulshan.gov.bd
 azimpur.uniontax.gov.bd
@@ -40,6 +41,7 @@ betagimunicipality.gov.bd
 biman.ekpay.gov.bd
 bise-ctg.gov.bd
 biwtahydrographicdata.gov.bd
+bmdbwcsrp.gov.bd
 bnhoc.navy.mil.bd
 bogurapoly.gov.bd
 borhamganjcollege.gov.bd
@@ -78,8 +80,10 @@ cms.torjoni.gov.bd
 cocc.gov.bd
 commission.ekshop.gov.bd
 controlroom.dghs.gov.bd
+corona.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bavs.gov.bd
+cpanel.bmdbwcsrp.gov.bd
 cpanel.cocc.gov.bd
 cpanel.gnc.gov.bd
 cpanel.mathbariapourashava.gov.bd
@@ -87,6 +91,7 @@ cpanel.mspvaw.gov.bd
 cpanel.tseogulshan.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bavs.gov.bd
+cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.cocc.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
@@ -95,6 +100,7 @@ cpcalendars.pbi.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bavs.gov.bd
+cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.cocc.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
@@ -134,6 +140,7 @@ eff.comillaboard.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
 ekpass.gov.bd
 eksheba.gov.bd
+elearning.dgfp.gov.bd
 emergencynutrition.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
@@ -141,6 +148,7 @@ equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
 erp.bcsadminacademy.gov.bd
 eshop.bisfl.gov.bd
+esiraj.gov.bd
 estore.bsc.gov.bd
 etds.gov.bd
 etender.comillaboard.gov.bd
@@ -205,6 +213,7 @@ lutercharup.gov.bd
 lwservice.gov.bd
 mail.14upazilaudd.gov.bd
 mail.bavs.gov.bd
+mail.bmdbwcsrp.gov.bd
 mail.cbraj.gov.bd
 mail.cocc.gov.bd
 mail.flora-bnh.gov.bd
@@ -363,6 +372,7 @@ vrcbd.cmc.gov.bd
 vtti.gov.bd
 webdisk.14upazilaudd.gov.bd
 webdisk.bavs.gov.bd
+webdisk.bmdbwcsrp.gov.bd
 webdisk.cocc.gov.bd
 webdisk.gnc.gov.bd
 webdisk.mathbariapourashava.gov.bd
@@ -371,6 +381,7 @@ webdisk.pbi.gov.bd
 webdisk.tseogulshan.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.bavs.gov.bd
+webmail.bmdbwcsrp.gov.bd
 webmail.cocc.gov.bd
 webmail.gnc.gov.bd
 webmail.mathbariapourashava.gov.bd
@@ -395,6 +406,7 @@ www.barakandaup.gov.bd
 www.bareraup.comillalg.gov.bd
 www.bavs.gov.bd
 www.biwtahydrographicdata.gov.bd
+www.bmdbwcsrp.gov.bd
 www.bnhoc.navy.mil.bd
 www.bogurapoly.gov.bd
 www.bpi.com.ph.dhamraimunicipality.gov.bd
