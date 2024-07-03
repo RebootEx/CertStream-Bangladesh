@@ -1,5 +1,7 @@
 afm.edu.bd
+amlhsp.edu.bd
 amtalihs.edu.bd
+anowarasirajhs.edu.bd
 app.ncmym.edu.bd
 architecture.primeasia.edu.bd
 ashwinpurhsc.edu.bd
@@ -9,7 +11,10 @@ autodiscover.ketrangahighschool.edu.bd
 autodiscover.misiraaghs.edu.bd
 autodiscover.nmpuachs.edu.bd
 azhs.edu.bd
+baikunthopurbmt.edu.bd
 bakapurhighschool.edu.bd
+balikabphs.edu.bd
+barashasibahs.edu.bd
 bastec.edu.bd
 bhsch.edu.bd
 bhskj.edu.bd
@@ -48,6 +53,7 @@ cub.edu.bd
 dashuriammhighschool.edu.bd
 demo.sylhetcpsc.edu.bd
 dev.sckeps.edu.bd
+djalhs.edu.bd
 django.sylgovaliamadrasa.edu.bd
 djdmadrasah.edu.bd
 dkdm.edu.bd
@@ -60,6 +66,7 @@ exams.bcps.edu.bd
 faridpurzillaschool.edu.bd
 ggghs.edu.bd
 gkphs.edu.bd
+gtu.edu.bd
 hajisarafatullahgdm.edu.bd
 hatemtaihs.edu.bd
 hellokids.edu.bd
@@ -75,6 +82,7 @@ kfgsc.edu.bd
 kgfm.edu.bd
 koinpurahighschool.edu.bd
 laascchs.edu.bd
+languliahighschool.edu.bd
 laravel10.presidencybd.edu.bd
 login.sylgovaliamadrasa.edu.bd
 lrkm.edu.bd
@@ -131,8 +139,10 @@ samftc.edu.bd
 sc.sylgovaliamadrasa.edu.bd
 seatbook.gbgc.edu.bd
 singhorarkhs.edu.bd
+smscu.edu.bd
 snbghs.edu.bd
 sondhan24.snbghs.edu.bd
+sportal.lalkuthigsc.edu.bd
 ssgghssc.edu.bd
 studentshub.daffodilvarsity.edu.bd
 support.vu.edu.bd
@@ -154,10 +164,15 @@ webmail.kfgsc.edu.bd
 webmail.misiraaghs.edu.bd
 webmail.nmpuachs.edu.bd
 whm.bdccghs.edu.bd
+www.amlhsp.edu.bd
+www.anowarasirajhs.edu.bd
 www.app.ncmym.edu.bd
 www.architecture.primeasia.edu.bd
 www.ashwinpurhsc.edu.bd
 www.azhs.edu.bd
+www.baikunthopurbmt.edu.bd
+www.balikabphs.edu.bd
+www.barashasibahs.edu.bd
 www.bastec.edu.bd
 www.bjidm.edu.bd
 www.cbbnj.edu.bd
@@ -175,6 +190,7 @@ www.dugghs.edu.bd
 www.file.snbghs.edu.bd
 www.firoz.cti.edu.bd
 www.gkphs.edu.bd
+www.gtu.edu.bd
 www.hellokids.edu.bd
 www.hgmc.edu.bd
 www.hkmm.edu.bd
