@@ -25,6 +25,7 @@ arjsc.roc.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bavs.gov.bd
 autodiscover.mathbariapourashava.gov.bd
+autodiscover.tseogulshan.gov.bd
 azimpur.uniontax.gov.bd
 back.socialprotection.gov.bd
 barakandaup.gov.bd
@@ -83,6 +84,7 @@ cpanel.cocc.gov.bd
 cpanel.gnc.gov.bd
 cpanel.mathbariapourashava.gov.bd
 cpanel.mspvaw.gov.bd
+cpanel.tseogulshan.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.cocc.gov.bd
@@ -90,6 +92,7 @@ cpcalendars.gnc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.pbi.gov.bd
+cpcalendars.tseogulshan.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.cocc.gov.bd
@@ -97,6 +100,7 @@ cpcontacts.gnc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.pbi.gov.bd
+cpcontacts.tseogulshan.gov.bd
 csc.dghs.gov.bd
 ctgtaxeszone2.gov.bd
 cxbrcancersurveillance.mohfw.gov.bd
@@ -209,6 +213,7 @@ mail.mspvaw.gov.bd
 mail.nicvd.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.tc.dghs.gov.bd
+mail.tseogulshan.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 marmch.gov.bd
@@ -321,6 +326,8 @@ sylhettsc.gov.bd
 taloramunicipality.gov.bd
 tangerine.dpe.gov.bd
 taxeszone17.gov.bd
+taxeszone22dhaka.gov.bd
+taxeszone24dhaka.gov.bd
 taxeszone3ctg.gov.bd
 taxeszone4ctg.gov.bd
 taxeszonecumilla.gov.bd
@@ -335,6 +342,7 @@ training-tb.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 training.cirt.gov.bd
 training.dhis2tracker.dghs.gov.bd
+tseogulshan.gov.bd
 ttc.gov.bd
 turn.vc8.bcc.gov.bd
 unorupganj.gov.bd
@@ -358,12 +366,14 @@ webdisk.gnc.gov.bd
 webdisk.mathbariapourashava.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.pbi.gov.bd
+webdisk.tseogulshan.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.bavs.gov.bd
 webmail.cocc.gov.bd
 webmail.gnc.gov.bd
 webmail.mathbariapourashava.gov.bd
 webmail.mspvaw.gov.bd
+webmail.tseogulshan.gov.bd
 www.14upazilaudd.gov.bd
 www.academy.ekshop.gov.bd
 www.admin-control-secure-server-hash.bicsaa.gov.bd
@@ -472,6 +482,7 @@ www.test.msw-soft.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
 www.training.uphcsdp.gov.bd
+www.tseogulshan.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vms.cocc.gov.bd
 www.vrcbd.cmc.gov.bd
