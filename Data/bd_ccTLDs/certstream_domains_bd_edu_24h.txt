@@ -4,6 +4,7 @@ ac.amsc.edu.bd
 adarshahssibpur.edu.bd
 afazuddincollegedhamrai.edu.bd
 afm.edu.bd
+aisharahighschool.edu.bd
 aiss.edu.bd
 amlhsp.edu.bd
 amtalihs.edu.bd
@@ -25,6 +26,7 @@ autodiscover.ketrangahighschool.edu.bd
 autodiscover.misiraaghs.edu.bd
 autodiscover.nmpuachs.edu.bd
 autodiscover.uphs104820.edu.bd
+avoycharonhs.edu.bd
 ayeshanagardm.edu.bd
 azhs.edu.bd
 badalsmrityacademy.edu.bd
@@ -68,6 +70,7 @@ chowfaldandimhs.edu.bd
 chs100020.edu.bd
 ckdm.edu.bd
 cmhsdinj.edu.bd
+cmruhs.edu.bd
 cmss.edu.bd
 cnkmadrasah.edu.bd
 cnuhs.edu.bd
@@ -88,6 +91,7 @@ cpanel.misiraaghs.edu.bd
 cpanel.mssb.edu.bd
 cpanel.mukmmd.edu.bd
 cpanel.nmpuachs.edu.bd
+cpanel.pkgadm.edu.bd
 cpanel.uphs104820.edu.bd
 cpanel.warihighschool.edu.bd
 cpcalendars.ashwinpurhsc.edu.bd
@@ -101,6 +105,7 @@ cpcalendars.ketrangahighschool.edu.bd
 cpcalendars.misiraaghs.edu.bd
 cpcalendars.mssb.edu.bd
 cpcalendars.nmpuachs.edu.bd
+cpcalendars.pkgadm.edu.bd
 cpcalendars.uphs104820.edu.bd
 cpcontacts.ashwinpurhsc.edu.bd
 cpcontacts.baramasiaakhighschool.edu.bd
@@ -113,6 +118,7 @@ cpcontacts.ketrangahighschool.edu.bd
 cpcontacts.misiraaghs.edu.bd
 cpcontacts.mssb.edu.bd
 cpcontacts.nmpuachs.edu.bd
+cpcontacts.pkgadm.edu.bd
 cpcontacts.uphs104820.edu.bd
 cpmgc.edu.bd
 cportal.lalkuthigsc.edu.bd
@@ -150,6 +156,7 @@ fblhsc.edu.bd
 fbuhs.edu.bd
 ftp.cmss.edu.bd
 fulpukuriacollege.edu.bd
+gbmuip.edu.bd
 ggghs.edu.bd
 gheekamalamadhyamikbidyalaya.edu.bd
 ghmmc.edu.bd
@@ -201,6 +208,7 @@ khurushkulhs.edu.bd
 kiss8toto-id.mohonmiahighschool.edu.bd
 kiss8toto.mohonmiahighschool.edu.bd
 kkdm.edu.bd
+kkghsbd.com.fulbarihs.edu.bd
 kmhkischool.edu.bd
 kmrdm.edu.bd
 kncgss.edu.bd
@@ -253,6 +261,7 @@ mail.misiraaghs.edu.bd
 mail.momeniadm.edu.bd
 mail.mssb.edu.bd
 mail.nmpuachs.edu.bd
+mail.pkgadm.edu.bd
 mail.rangpurcitycollege.edu.bd
 mail.tcbschool.edu.bd
 mail.uphs104820.edu.bd
@@ -287,6 +296,8 @@ nmpuachs.edu.bd
 noakhalihighschool.edu.bd
 nooriasecondaryschoolbsl.edu.bd
 npsschool.edu.bd
+ns1.nalbatahighschool.edu.bd
+ns2.nalbatahighschool.edu.bd
 nsghs.edu.bd
 obaidulhaquecollege.edu.bd
 ohbmgschool.edu.bd
@@ -298,11 +309,14 @@ palerhatpublichs.edu.bd
 pallasecondaryschool.edu.bd
 pallasecondaryschool.edu.bd.balidiasecondaryschool.edu.bd
 patnichanhs.edu.bd
+pctcbd.cmdm.edu.bd
 pdf.bkdcl.edu.bd
 pearalicollege.edu.bd
 periahs.edu.bd
 phsafhs.edu.bd
 pirgachhagovtcollege.edu.bd
+pkgadm.edu.bd
+pmghs.edu.bd
 portal.anwaragirlshighschool.edu.bd
 portal.ggahsac.edu.bd
 portal.phsrt.edu.bd
@@ -354,6 +368,7 @@ skjmhs.edu.bd
 smhsh.edu.bd
 smscu.edu.bd
 snbghs.edu.bd
+sndmtangail.edu.bd
 solemanazirhighschool.edu.bd
 sondhan24.snbghs.edu.bd
 sportal.lalkuthigsc.edu.bd
@@ -370,6 +385,7 @@ test.gmrwc.edu.bd
 test.uttarauniversity.edu.bd
 tgbhs.edu.bd
 tkhs110836.edu.bd
+trustcollege.edu.bd
 tssn.edu.bd
 ubc.edu.bd
 ucgss.edu.bd
@@ -389,6 +405,7 @@ webdisk.ketrangahighschool.edu.bd
 webdisk.misiraaghs.edu.bd
 webdisk.mssb.edu.bd
 webdisk.nmpuachs.edu.bd
+webdisk.pkgadm.edu.bd
 webdisk.uphs104820.edu.bd
 webmail.abdulwahedsecondarygirlsschool.edu.bd
 webmail.afazuddincollegedhamrai.edu.bd
@@ -408,6 +425,7 @@ webmail.mssb.edu.bd
 webmail.mukmmd.edu.bd
 webmail.nmpuachs.edu.bd
 webmail.patnichanhs.edu.bd
+webmail.pkgadm.edu.bd
 webmail.uphs104820.edu.bd
 webmail.warihighschool.edu.bd
 whm.bdccghs.edu.bd
@@ -482,6 +500,7 @@ www.kcmc.edu.bd
 www.ketrangahighschool.edu.bd
 www.kfgsc.edu.bd
 www.kgfm.edu.bd
+www.kkghsbd.com.fulbarihs.edu.bd
 www.koha.presidencybd.edu.bd
 www.laascchs.edu.bd
 www.laravel10.presidencybd.edu.bd
@@ -507,8 +526,10 @@ www.old.abrmsc.edu.bd
 www.old.kwmc.edu.bd
 www.pallasecondaryschool.edu.bd.balidiasecondaryschool.edu.bd
 www.patnichanhs.edu.bd
+www.pctcbd.cmdm.edu.bd
 www.pdf.bkdcl.edu.bd
 www.phsafhs.edu.bd
+www.pkgadm.edu.bd
 www.professordrabujafor.widevisioncollege.edu.bd
 www.pshsp.edu.bd
 www.rangpurcitycollege.edu.bd
