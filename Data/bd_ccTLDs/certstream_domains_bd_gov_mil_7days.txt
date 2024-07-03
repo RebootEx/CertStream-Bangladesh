@@ -1,5 +1,7 @@
 14upazilaudd.gov.bd
+2023-24.accounts.bise-ctg.gov.bd
 2023-24.accounts.comillaboard.gov.bd
+2apbn.gov.bd
 accounting.smartrajshahi.gov.bd
 accounts.noipunno.gov.bd
 admin-control-secure-server-hash.bicsaa.gov.bd
@@ -32,6 +34,7 @@ barishal.gov.bd
 basb.gov.bd
 basbmed.gov.bd
 bavs.gov.bd
+bbms.dghs.gov.bd
 bcsi.gov.bd
 bdhckl.gov.bd
 betagimunicipality.gov.bd
@@ -66,6 +69,7 @@ ccpc4teens.gov.bd
 cdc.gov.bd
 certificatefuldin.gov.bd
 cevappealdhaka2.gov.bd
+cgbdsydney.gov.bd
 chalibhangaup.gov.bd
 chattogram.gov.bd
 chuadangacollege.gov.bd
@@ -75,6 +79,7 @@ cmp.gov.bd
 cms.msw-soft.gov.bd
 cms.torjoni.gov.bd
 cocc.gov.bd
+controlroom.dghs.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.bavs.gov.bd
 cpanel.cocc.gov.bd
@@ -116,6 +121,7 @@ digitalsignature.cca.gov.bd
 dmc.fima.gov.bd
 dpl.gov.bd
 dtsms.navy.mil.bd
+dttti.gov.bd
 du.gameapp.gov.bd
 durgapursouthup.comillalg.gov.bd
 ebrc.mil.bd
@@ -142,6 +148,8 @@ ezakat.gov.bd
 familycard.distgopalganj.gov.bd
 flora-bnh.gov.bd
 foreigner.dc-khagrachhari.gov.bd
+foundationtraining.dghs.gov.bd
+fowlab.gov.bd
 freelancer.gov.bd
 freelancers.gov.bd
 ghjashore.gov.bd
@@ -162,6 +170,7 @@ hathazaripourashava.gov.bd
 herpower.gov.bd
 hpmdashboard.dghs.gov.bd
 hris.dgme.gov.bd
+hrmdss.gov.bd
 idea.gov.bd
 iedcr.gov.bd
 ihtdhaka.gov.bd
@@ -195,6 +204,7 @@ lakshmipurpourashava.gov.bd
 llv.mspvaw.gov.bd
 logistics.gov.bd
 lutercharup.gov.bd
+lwservice.gov.bd
 mail.14upazilaudd.gov.bd
 mail.bavs.gov.bd
 mail.cbraj.gov.bd
@@ -204,6 +214,7 @@ mail.gnc.gov.bd
 mail.ihtdhaka.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.mspvaw.gov.bd
+mail.nicvd.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.satkhiratsc.gov.bd
 mail.tc.dghs.gov.bd
@@ -230,11 +241,13 @@ myclass.gov.bd
 mymail.ekshop.gov.bd
 nagoriksheba.gov.bd
 naldangamunicipality.gov.bd
+narsingdilg.gov.bd
 ncc.gov.bd
 ndc.gov.bd
 news.dcarangpur.gov.bd
 newsclipping.banbeis.gov.bd
 ngosavar.gov.bd
+nicvd.gov.bd
 nilphamarittc.gov.bd
 nise3.gov.bd
 nnsop.gov.bd
@@ -292,6 +305,7 @@ scan.jessoreboard.gov.bd
 scc.gov.bd
 sccdc.scc.gov.bd
 school.gov.bd
+scs.ssd.gov.bd
 sdg.gov.bd
 service.hbri.gov.bd
 services.cgbdsydney.gov.bd
@@ -328,8 +342,10 @@ supremecourt.gov.bd
 sylhettsc.gov.bd
 taloramunicipality.gov.bd
 tangerine.dpe.gov.bd
+taxeszone17.gov.bd
 taxeszone3ctg.gov.bd
 taxeszone4ctg.gov.bd
+taxeszonecumilla.gov.bd
 tca.cca.gov.bd
 tds.taxeszone3ctg.gov.bd
 test.gameapp.gov.bd
@@ -340,6 +356,7 @@ tourismctg.gov.bd
 training-tb.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 training.cirt.gov.bd
+training.dhis2tracker.dghs.gov.bd
 ttc.gov.bd
 turn.vc8.bcc.gov.bd
 unorupganj.gov.bd
@@ -347,6 +364,7 @@ uphcsdp.gov.bd
 urmeessk.bgb.gov.bd
 usf.bmd.gov.bd
 vashantekcollege.gov.bd
+vaxepi.gov.bd
 vcsavar.gov.bd
 virtualclass.gov.bd
 vms.cocc.gov.bd
@@ -436,6 +454,7 @@ www.mfstc.mfstc.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
 www.news.dcarangpur.gov.bd
+www.nicvd.gov.bd
 www.nohs.navy.mil.bd
 www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
@@ -473,6 +492,7 @@ www.tds.taxeszone3ctg.gov.bd
 www.test.gameapp.gov.bd
 www.test.msw-soft.gov.bd
 www.test.taxeszone4ctg.gov.bd
+www.tourismctg.gov.bd
 www.training.uphcsdp.gov.bd
 www.vms.cocc.gov.bd
 www.vrcbd.cmc.gov.bd
