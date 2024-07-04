@@ -1,5 +1,6 @@
 amr.cdc.gov.bd
 api.sacp.dae.gov.bd
+app.dghs.gov.bd
 ar.gameapp.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 autodiscover.tseogulshan.gov.bd
@@ -37,9 +38,11 @@ hajipurup.narsingdilg.gov.bd
 ipv6.dgca58.gov.bd
 kalirbazarup.gov.bd
 kashinagarup.comillalg.gov.bd
+live.platform.futurenation.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.dgca58.gov.bd
 mail.tseogulshan.gov.bd
+market.dam.gov.bd
 media.bmp.gov.bd
 mymail.ekshop.gov.bd
 ngosavar.gov.bd
@@ -51,6 +54,8 @@ product.sacp.dae.gov.bd
 raipurpourashava.gov.bd
 register.gameapp.gov.bd
 rpi.gov.bd
+taxeszone22dhaka.gov.bd
+taxeszone24dhaka.gov.bd
 test.gameapp.gov.bd
 tseogulshan.gov.bd
 vcsavar.gov.bd
