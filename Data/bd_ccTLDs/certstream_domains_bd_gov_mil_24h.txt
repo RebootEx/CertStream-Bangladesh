@@ -1,4 +1,5 @@
 amr.cdc.gov.bd
+api.bfacf-ticket.gov.bd
 api.sacp.dae.gov.bd
 app.dghs.gov.bd
 ar.gameapp.gov.bd
@@ -44,6 +45,7 @@ estore.bsc.gov.bd
 ezakat.gov.bd
 familycard.distgopalganj.gov.bd
 feedback.ekshop.gov.bd
+gisfs.bpc.gov.bd
 gmscn.dac.gov.bd
 hajipurup.narsingdilg.gov.bd
 ipv6.dgca58.gov.bd
@@ -60,6 +62,7 @@ market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 media.bmp.gov.bd
 mymail.ekshop.gov.bd
+ncc.gov.bd
 ngosavar.gov.bd
 ntrc.gameapp.gov.bd
 nttc.gov.bd
@@ -74,7 +77,9 @@ register.gameapp.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 shop.cirt.gov.bd
+sonod.scc.gov.bd
 ssf.gov.bd
+staging.shift.gov.bd
 tangerine.dpe.gov.bd
 taxeszone22dhaka.gov.bd
 taxeszone24dhaka.gov.bd
@@ -114,6 +119,7 @@ www.estore.bsc.gov.bd
 www.ezakat.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.feedback.ekshop.gov.bd
+www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.kalirbazarup.gov.bd
@@ -121,7 +127,9 @@ www.kashinagarup.comillalg.gov.bd
 www.media.bmp.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
+www.sonod.scc.gov.bd
 www.sp-apis.rpi.gov.bd
+www.staging.shift.gov.bd
 www.student-portal.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tseogulshan.gov.bd
