@@ -28,6 +28,7 @@ attendance.ekshop.gov.bd
 autodiscover.bavs.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 autodiscover.tseogulshan.gov.bd
+award.imli.gov.bd
 azimpur.uniontax.gov.bd
 back.socialprotection.gov.bd
 basbmed.gov.bd
@@ -64,6 +65,7 @@ cdc.gov.bd
 certificates.gov.bd
 cevappealdhaka2.gov.bd
 cgbdsydney.gov.bd
+chcpelearning.dghs.gov.bd
 chuadangacollege.gov.bd
 climatefinance.erd.gov.bd
 cloud.ekshop.gov.bd
@@ -78,6 +80,7 @@ cpanel.14upazilaudd.gov.bd
 cpanel.bavs.gov.bd
 cpanel.bmdbwcsrp.gov.bd
 cpanel.cocc.gov.bd
+cpanel.dfsrcaab.gov.bd
 cpanel.gnc.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.tseogulshan.gov.bd
@@ -85,6 +88,7 @@ cpcalendars.14upazilaudd.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.cocc.gov.bd
+cpcalendars.dfsrcaab.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.pbi.gov.bd
@@ -93,6 +97,7 @@ cpcontacts.14upazilaudd.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.cocc.gov.bd
+cpcontacts.dfsrcaab.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.pbi.gov.bd
@@ -108,6 +113,7 @@ dcrs.brri.gov.bd
 debidwarpourashava.gov.bd
 demo.iresppw-brdb.gov.bd
 dengue.gov.bd
+dfsrcaab.gov.bd
 dhis2training.dghs.gov.bd
 dic.dghs.gov.bd
 digitalsignature.cca.gov.bd
@@ -205,10 +211,12 @@ mail.bavs.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.cbraj.gov.bd
 mail.cocc.gov.bd
+mail.dfsrcaab.gov.bd
 mail.gameapp.gov.bd
 mail.gnc.gov.bd
 mail.mspvaw.gov.bd
 mail.nicvd.gov.bd
+mail.ramgatipourashava.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.tc.dghs.gov.bd
 mail.tseogulshan.gov.bd
@@ -271,6 +279,7 @@ prottoyon.gov.bd
 queue.cgbdsydney.gov.bd
 rains.sacp.dae.gov.bd
 raipurpourashava.gov.bd
+ramgatipourashava.gov.bd
 register.gameapp.gov.bd
 residence.dc-khagrachhari.gov.bd
 rpi.gov.bd
@@ -352,6 +361,7 @@ webdisk.14upazilaudd.gov.bd
 webdisk.bavs.gov.bd
 webdisk.bmdbwcsrp.gov.bd
 webdisk.cocc.gov.bd
+webdisk.dfsrcaab.gov.bd
 webdisk.gnc.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.pbi.gov.bd
@@ -360,6 +370,7 @@ webmail.14upazilaudd.gov.bd
 webmail.bavs.gov.bd
 webmail.bmdbwcsrp.gov.bd
 webmail.cocc.gov.bd
+webmail.dfsrcaab.gov.bd
 webmail.gnc.gov.bd
 webmail.mspvaw.gov.bd
 webmail.tseogulshan.gov.bd
@@ -397,6 +408,7 @@ www.cocc.gov.bd
 www.commission.ekshop.gov.bd
 www.dcabarishal.gov.bd
 www.demo.iresppw-brdb.gov.bd
+www.dfsrcaab.gov.bd
 www.dmc.fima.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
@@ -444,6 +456,7 @@ www.online.gbrcr.gov.bd
 www.payment.ekshop.gov.bd
 www.pbi.gov.bd
 www.prottoyon.gov.bd
+www.ramgatipourashava.gov.bd
 www.realestate.rpi.gov.bd
 www.register.gameapp.gov.bd
 www.reporting.uphcsdp.gov.bd
