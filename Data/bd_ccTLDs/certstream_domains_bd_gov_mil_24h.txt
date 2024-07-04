@@ -11,6 +11,7 @@ commission.ekshop.gov.bd
 cpanel.tseogulshan.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcontacts.tseogulshan.gov.bd
+dcarangpur.gov.bd
 dns.ekshop.gov.bd
 du.gameapp.gov.bd
 familycard.distgopalganj.gov.bd
@@ -19,14 +20,17 @@ gmscn.dac.gov.bd
 hajipurup.narsingdilg.gov.bd
 kashinagarup.comillalg.gov.bd
 mail.tseogulshan.gov.bd
+media.bmp.gov.bd
 ngosavar.gov.bd
 ntrc.gameapp.gov.bd
 practical.bise-ctg.gov.bd
 register.gameapp.gov.bd
+rpi.gov.bd
 test.gameapp.gov.bd
 tseogulshan.gov.bd
 vcsavar.gov.bd
 verify-network.ekshop.gov.bd
+vms.ugc.gov.bd
 webdisk.tseogulshan.gov.bd
 webmail.tseogulshan.gov.bd
 www.ar.gameapp.gov.bd
@@ -41,7 +45,9 @@ www.feedback.ekshop.gov.bd
 www.gmscn.dac.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.kashinagarup.comillalg.gov.bd
+www.media.bmp.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
+www.sp-apis.rpi.gov.bd
 www.tseogulshan.gov.bd
 www.verify-network.ekshop.gov.bd
