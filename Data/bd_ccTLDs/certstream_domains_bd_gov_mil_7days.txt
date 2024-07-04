@@ -16,8 +16,10 @@ alutila-api.dc-khagrachhari.gov.bd
 amarbangabandhu.gov.bd
 amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
+api.bscl.gov.bd
 api.freelancers.gov.bd
 api.noipunno.gov.bd
+api.sacp.dae.gov.bd
 api.torjoni.gov.bd
 application-review-asdhqemckqld.bicsaa.gov.bd
 ar.gameapp.gov.bd
@@ -38,6 +40,7 @@ bbms.dghs.gov.bd
 bcsi.gov.bd
 bdhckl.gov.bd
 betagimunicipality.gov.bd
+bgb.gov.bd
 biman.ekpay.gov.bd
 bise-ctg.gov.bd
 biwtahydrographicdata.gov.bd
@@ -67,6 +70,7 @@ cbraj.gov.bd
 ccms.gov.bd
 ccpc4teens.gov.bd
 cdc.gov.bd
+certificates.gov.bd
 cevappealdhaka2.gov.bd
 cgbdsydney.gov.bd
 chalibhangaup.gov.bd
@@ -111,17 +115,20 @@ csc.dghs.gov.bd
 ctgtaxeszone2.gov.bd
 cxbrcancersurveillance.mohfw.gov.bd
 dashboard.dghs.gov.bd
+dashboard.sacp.dae.gov.bd
 dcabarishal.gov.bd
 dcadhaka.gov.bd
 dcarangpur.gov.bd
 dcrs.brri.gov.bd
 debidwarpourashava.gov.bd
 demo.iresppw-brdb.gov.bd
+dengue.gov.bd
 dhis2training.dghs.gov.bd
 dic.dghs.gov.bd
 digitalhaat.gov.bd
 digitalsignature.cca.gov.bd
 dmc.fima.gov.bd
+dms.cca.gov.bd
 dns.ekshop.gov.bd
 dob.ekshop.gov.bd
 dpg.ekshop.gov.bd
@@ -156,6 +163,8 @@ exam.noipunno.gov.bd
 ezakat.gov.bd
 familycard.distgopalganj.gov.bd
 feedback.ekshop.gov.bd
+ffwc.bwdb.gov.bd
+fgc.gov.bd
 flora-bnh.gov.bd
 foreigner.dc-khagrachhari.gov.bd
 foundationtraining.dghs.gov.bd
@@ -163,6 +172,7 @@ fowlab.gov.bd
 freelancer.gov.bd
 freelancers.gov.bd
 gbrcr.gov.bd
+ggc.gov.bd
 ghjashore.gov.bd
 ghoraghatmunicipality.gov.bd
 ghtcb.melandahbhata.gov.bd
@@ -212,6 +222,7 @@ laksampourashava.gov.bd
 lakshmipurpourashava.gov.bd
 llv.mspvaw.gov.bd
 logistics.gov.bd
+logo.gov.bd
 lutercharup.gov.bd
 lwservice.gov.bd
 mail.14upazilaudd.gov.bd
@@ -220,6 +231,7 @@ mail.bmdbwcsrp.gov.bd
 mail.cbraj.gov.bd
 mail.cocc.gov.bd
 mail.flora-bnh.gov.bd
+mail.gameapp.gov.bd
 mail.gnc.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.mspvaw.gov.bd
@@ -233,6 +245,7 @@ marmch.gov.bd
 master.noipunno.gov.bd
 matelehealth.gov.bd
 mathbariapourashava.gov.bd
+media.bmp.gov.bd
 meeting.cabinet.gov.bd
 meeting.gtcl.gov.bd
 memis.gov.bd
@@ -266,9 +279,11 @@ nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
 nttc.gov.bd
 nuralapur.narsingdilg.gov.bd
+nuralapurup.narsingdilg.gov.bd
 nutritionprofile.gov.bd
 nwpgcl.gov.bd
 oaf.comillaboard.gov.bd
+ocei.gov.bd
 old.dghs.gov.bd
 old.gameapp.gov.bd
 online.gbrcr.gov.bd
@@ -291,6 +306,7 @@ product.sacp.dae.gov.bd
 proinfo.lged.gov.bd
 prottoyon.gov.bd
 queue.cgbdsydney.gov.bd
+rains.sacp.dae.gov.bd
 raipurpourashava.gov.bd
 register.gameapp.gov.bd
 residence.dc-khagrachhari.gov.bd
@@ -323,6 +339,7 @@ smsbjri.gov.bd
 smsgateway.comillaboard.gov.bd
 sohayota.gov.bd
 sohayota.gov.bd.melandahbhata.gov.bd
+soltrack.gov.bd
 soms.gov.bd
 sonaimuripaurashava.gov.bd
 sonali238.dinajpurboard.gov.bd
@@ -348,6 +365,7 @@ taxeszonecumilla.gov.bd
 tca.cca.gov.bd
 tds.taxeszone3ctg.gov.bd
 test.gameapp.gov.bd
+testimonials.gov.bd
 tihdtcbproj.gov.bd
 tm.dghs.gov.bd
 torjoni.gov.bd
@@ -356,9 +374,11 @@ training-tb.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 training.cirt.gov.bd
 training.dhis2tracker.dghs.gov.bd
+tsc.gov.bd
 tseogulshan.gov.bd
 ttc.gov.bd
 turn.vc8.bcc.gov.bd
+tvr.bscl.gov.bd
 unorupganj.gov.bd
 uphcsdp.gov.bd
 urmeessk.bgb.gov.bd
@@ -435,6 +455,7 @@ www.dtsms.navy.mil.bd
 www.du.gameapp.gov.bd
 www.durgapursouthup.comillalg.gov.bd
 www.ebrc.mil.bd
+www.ems.fgc.gov.bd
 www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.estore.bsc.gov.bd
@@ -460,7 +481,9 @@ www.laksampourashava.gov.bd
 www.llv.mspvaw.gov.bd
 www.logistics.gov.bd
 www.lutercharup.gov.bd
+www.mail.gameapp.gov.bd
 www.mathbariapourashava.gov.bd
+www.media.bmp.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
@@ -470,6 +493,7 @@ www.nohs.navy.mil.bd
 www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
+www.nuralapurup.narsingdilg.gov.bd
 www.old.basb.gov.bd
 www.online.gbrcr.gov.bd
 www.payment.ekshop.gov.bd
@@ -481,6 +505,7 @@ www.register.gameapp.gov.bd
 www.reporting.uphcsdp.gov.bd
 www.residence.dc-khagrachhari.gov.bd
 www.result.bsiedu.gov.bd
+www.result.fgc.gov.bd
 www.rwasa.gov.bd
 www.saidpurmunicipality.gov.bd
 www.sc.zpmoulvibazar.gov.bd
@@ -490,6 +515,7 @@ www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
 www.sohayota.gov.bd.melandahbhata.gov.bd
 www.sonod.scc.gov.bd
+www.sp-apis.rpi.gov.bd
 www.sp-assets.rpi.gov.bd
 www.sraep.gov.bd
 www.student-portal.rpi.gov.bd
