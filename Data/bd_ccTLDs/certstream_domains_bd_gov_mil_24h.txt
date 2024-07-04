@@ -38,6 +38,7 @@ du.gameapp.gov.bd
 ecc-beta.doe.gov.bd
 ecs.gov.bd
 eduhub.gov.bd
+equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
 eservice.pmeat.gov.bd
 esiraj.gov.bd
@@ -47,6 +48,8 @@ familycard.distgopalganj.gov.bd
 feedback.ekshop.gov.bd
 gisfs.bpc.gov.bd
 gmscn.dac.gov.bd
+gpufp.gov.bd
+grsreport.karmasangsthanbank.gov.bd
 hajipurup.narsingdilg.gov.bd
 ipv6.dgca58.gov.bd
 jcbs.gov.bd
@@ -58,6 +61,7 @@ maijdeetsc.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.dgca58.gov.bd
 mail.tseogulshan.gov.bd
+mail.zplakshmipur.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 media.bmp.gov.bd
@@ -76,6 +80,7 @@ raipurpourashava.gov.bd
 register.gameapp.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
+scc.gov.bd
 shop.cirt.gov.bd
 sonod.scc.gov.bd
 ssf.gov.bd
@@ -113,6 +118,7 @@ www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.du.gameapp.gov.bd
 www.ecs.gov.bd
+www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.eservice.pmeat.gov.bd
 www.estore.bsc.gov.bd
@@ -121,6 +127,7 @@ www.familycard.distgopalganj.gov.bd
 www.feedback.ekshop.gov.bd
 www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
+www.grsreport.karmasangsthanbank.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.kalirbazarup.gov.bd
 www.kashinagarup.comillalg.gov.bd
@@ -134,3 +141,5 @@ www.student-portal.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tseogulshan.gov.bd
 www.verify-network.ekshop.gov.bd
+www.zplakshmipur.gov.bd
+zplakshmipur.gov.bd
