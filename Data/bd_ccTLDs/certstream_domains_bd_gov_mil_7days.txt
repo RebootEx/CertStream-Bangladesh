@@ -28,6 +28,7 @@ arjsc.roc.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bavs.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
+autodiscover.iras.bamis.gov.bd
 autodiscover.tseogulshan.gov.bd
 award.imli.gov.bd
 azimpur.uniontax.gov.bd
@@ -59,6 +60,7 @@ bvcdoctor.bvc.gov.bd
 bwdb.gov.bd
 cafoagriculture.gov.bd
 cafowater.gov.bd
+casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
 cbraj.gov.bd
 ccms.gov.bd
@@ -83,6 +85,7 @@ cpanel.bmdbwcsrp.gov.bd
 cpanel.cocc.gov.bd
 cpanel.dfsrcaab.gov.bd
 cpanel.gnc.gov.bd
+cpanel.iras.bamis.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.tseogulshan.gov.bd
 cpcalendars.14upazilaudd.gov.bd
@@ -91,6 +94,7 @@ cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.cocc.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.gnc.gov.bd
+cpcalendars.iras.bamis.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.pbi.gov.bd
 cpcalendars.tseogulshan.gov.bd
@@ -100,6 +104,7 @@ cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.cocc.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.gnc.gov.bd
+cpcontacts.iras.bamis.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.pbi.gov.bd
 cpcontacts.tseogulshan.gov.bd
@@ -131,6 +136,7 @@ du.gameapp.gov.bd
 durgapursouthup.comillalg.gov.bd
 eacei.gov.bd
 ebrc.mil.bd
+ecc-beta.doe.gov.bd
 ecs.gov.bd
 edb.epb.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -144,6 +150,7 @@ emsserver.epb-exporttracker.gov.bd
 equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
 erp.bcsadminacademy.gov.bd
+eservice.pmeat.gov.bd
 esiraj.gov.bd
 estore.bsc.gov.bd
 etds.gov.bd
@@ -182,6 +189,7 @@ hrmdss.gov.bd
 idea.gov.bd
 inheritance.dc-khagrachhari.gov.bd
 internal.startupsummit.gov.bd
+iras.bamis.gov.bd
 jaldhakamunicipality.gov.bd
 jamalpurttc.gov.bd
 jcbs.gov.bd
@@ -219,6 +227,7 @@ mail.cocc.gov.bd
 mail.dfsrcaab.gov.bd
 mail.gameapp.gov.bd
 mail.gnc.gov.bd
+mail.iras.bamis.gov.bd
 mail.mspvaw.gov.bd
 mail.nicvd.gov.bd
 mail.ramgatipourashava.gov.bd
@@ -263,6 +272,7 @@ nutritionprofile.gov.bd
 nwpgcl.gov.bd
 oaf.comillaboard.gov.bd
 ocei.gov.bd
+office.doe.gov.bd
 old.dghs.gov.bd
 one.rhd.gov.bd
 online.gbrcr.gov.bd
@@ -270,6 +280,7 @@ onlineschoolform.bise-ctg.gov.bd
 onlineshr.dghs.gov.bd
 oss.beza.gov.bd
 panchagarhmunicipality.gov.bd
+parliament.gov.bd
 passenger.blpa.gov.bd
 patgrammunicipality.gov.bd
 payment.ekshop.gov.bd
@@ -372,6 +383,7 @@ webdisk.bmdbwcsrp.gov.bd
 webdisk.cocc.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.gnc.gov.bd
+webdisk.iras.bamis.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.pbi.gov.bd
 webdisk.tseogulshan.gov.bd
@@ -381,8 +393,10 @@ webmail.bmdbwcsrp.gov.bd
 webmail.cocc.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.gnc.gov.bd
+webmail.iras.bamis.gov.bd
 webmail.mspvaw.gov.bd
 webmail.tseogulshan.gov.bd
+wp.kmpi.gov.bd
 www.14upazilaudd.gov.bd
 www.academy.ekshop.gov.bd
 www.admin-control-secure-server-hash.bicsaa.gov.bd
@@ -429,6 +443,7 @@ www.ebrc.mil.bd
 www.ems.fgc.gov.bd
 www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
+www.eservice.pmeat.gov.bd
 www.estore.bsc.gov.bd
 www.exam.noipunno.gov.bd
 www.ezakat.gov.bd
@@ -441,6 +456,7 @@ www.grsreport.karmasangsthanbank.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.hrms.knsikhagrachari.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
+www.iras.bamis.gov.bd
 www.jorkanoneastup.gov.bd
 www.judgement-panel-secure-server.bicsaa.gov.bd
 www.juryboard-secure-login.bicsaa.gov.bd
@@ -494,6 +510,7 @@ www.verify-network.ekshop.gov.bd
 www.vms.cocc.gov.bd
 www.vpland.munshiganjlg.gov.bd
 www.vrcbd.cmc.gov.bd
+www.wp.kmpi.gov.bd
 www.zplakshmipur.gov.bd
 zpgazipur.gov.bd
 zpkhulna.gov.bd
