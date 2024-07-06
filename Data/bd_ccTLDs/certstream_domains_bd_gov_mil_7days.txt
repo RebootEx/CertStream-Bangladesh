@@ -1,4 +1,5 @@
 14upazilaudd.gov.bd
+2021-22.accounts.comillaboard.gov.bd
 2023-24.accounts.bise-ctg.gov.bd
 2023-24.accounts.comillaboard.gov.bd
 2apbn.gov.bd
@@ -117,7 +118,9 @@ dcofficemymlibrary.gov.bd
 dcrs.brri.gov.bd
 debidwarpourashava.gov.bd
 demo.iresppw-brdb.gov.bd
+demo.kabinazrulcollege.gov.bd
 dengue.gov.bd
+deopanchagarh.gov.bd
 develop.aaic.aaic.gov.bd
 dfsrcaab.gov.bd
 dgca58.gov.bd
@@ -181,6 +184,7 @@ gzmcfeni.gov.bd
 hajipurup.narsingdilg.gov.bd
 hathazaripourashava.gov.bd
 hris.dgme.gov.bd
+hrm.sprangpur.gov.bd
 hrmdss.gov.bd
 idea.gov.bd
 inheritance.dc-khagrachhari.gov.bd
@@ -188,6 +192,7 @@ internal.startupsummit.gov.bd
 ipv6.dgca58.gov.bd
 iras.bamis.gov.bd
 jaldhakamunicipality.gov.bd
+jamalpurpostal.gov.bd
 jamalpurttc.gov.bd
 jcbs.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -224,6 +229,7 @@ mail.gnc.gov.bd
 mail.iras.bamis.gov.bd
 mail.mspvaw.gov.bd
 mail.nicvd.gov.bd
+mail.ntrc.gameapp.gov.bd
 mail.ramgatipourashava.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.tc.dghs.gov.bd
@@ -308,6 +314,7 @@ smart.dncc.gov.bd
 smartavijogbox.gov.bd
 smartbangarawestup.gov.bd
 smartdistrict.gov.bd
+smartnabipur.gov.bd
 smartpurbadhairwestup.gov.bd
 smartrajshahi.gov.bd
 smartramchandrapursouthup.gov.bd
@@ -345,6 +352,8 @@ training-tb.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 training.cirt.gov.bd
 training.dhis2tracker.dghs.gov.bd
+trainingbi.apamsv3.cabinet.gov.bd
+trainingmq.apamsv3.cabinet.gov.bd
 trainingpdf.apamsv3.cabinet.gov.bd
 tsc.gov.bd
 tseogulshan.gov.bd
@@ -418,6 +427,7 @@ www.cocc.gov.bd
 www.commission.ekshop.gov.bd
 www.dcabarishal.gov.bd
 www.demo.iresppw-brdb.gov.bd
+www.demo.kabinazrulcollege.gov.bd
 www.develop.aaic.aaic.gov.bd
 www.dfsrcaab.gov.bd
 www.dgca58.gov.bd
@@ -445,6 +455,7 @@ www.gmscn.dac.gov.bd
 www.gnc.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.hajipurup.narsingdilg.gov.bd
+www.hrm.sprangpur.gov.bd
 www.hrms.knsikhagrachari.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
 www.iras.bamis.gov.bd
@@ -456,7 +467,9 @@ www.llv.mspvaw.gov.bd
 www.logistics.gov.bd
 www.lutercharup.gov.bd
 www.mail.gameapp.gov.bd
+www.mail.ntrc.gameapp.gov.bd
 www.media.bmp.gov.bd
+www.meherpara.narsingdilg.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
@@ -466,6 +479,7 @@ www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
 www.online.gbrcr.gov.bd
+www.paikarcharup.narsingdilg.gov.bd
 www.payment.ekshop.gov.bd
 www.pbi.gov.bd
 www.prottoyon.gov.bd
@@ -481,6 +495,7 @@ www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
 www.sholanalup.gov.bd
 www.smartbangarawestup.gov.bd
+www.smartnabipur.gov.bd
 www.smartpurbadhairwestup.gov.bd
 www.smartramchandrapursouthup.gov.bd
 www.sonod.scc.gov.bd
@@ -492,6 +507,7 @@ www.sums-apis.rpi.gov.bd
 www.sundalpurup.gov.bd
 www.test.gameapp.gov.bd
 www.test.msw-soft.gov.bd
+www.test.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
 www.training.uphcsdp.gov.bd
