@@ -27,6 +27,7 @@ armhs.edu.bd
 aronodoyghs.edu.bd
 arsb.edu.bd
 artbmc.edu.bd
+autodiscover.govtnacollege.edu.bd
 autodiscover.kodalkatigirls.edu.bd
 azimpurhschool.edu.bd
 babukhaliidm.edu.bd
@@ -93,6 +94,7 @@ cpanel.bnsck.edu.bd
 cpanel.chgmc.edu.bd
 cpanel.dahschool.edu.bd
 cpanel.damam.edu.bd
+cpanel.govtnacollege.edu.bd
 cpanel.kodalkatigirls.edu.bd
 cpanel.mors.edu.bd
 cpanel.nuc.edu.bd
@@ -101,6 +103,7 @@ cpanel.thsict.edu.bd
 cpcalendars.chgmc.edu.bd
 cpcalendars.dahschool.edu.bd
 cpcalendars.damam.edu.bd
+cpcalendars.govtnacollege.edu.bd
 cpcalendars.kodalkatigirls.edu.bd
 cpcalendars.mors.edu.bd
 cpcalendars.prps.edu.bd
@@ -108,6 +111,7 @@ cpcalendars.thsict.edu.bd
 cpcontacts.chgmc.edu.bd
 cpcontacts.dahschool.edu.bd
 cpcontacts.damam.edu.bd
+cpcontacts.govtnacollege.edu.bd
 cpcontacts.kodalkatigirls.edu.bd
 cpcontacts.mors.edu.bd
 cpcontacts.prps.edu.bd
@@ -157,8 +161,10 @@ goragramhs.edu.bd
 gosaibaricollege.edu.bd
 gournadigirlssc.edu.bd
 govbikrampurkbcollege.edu.bd
+govtnacollege.edu.bd
 govtpccollege.edu.bd
 gphs1972.edu.bd
+green.edu.bd
 gscnil.edu.bd
 gurusadaysc.edu.bd
 gwcr.edu.bd
@@ -188,6 +194,7 @@ jamiraam.edu.bd
 jhanjhaniahighschool.edu.bd
 jkgphs.edu.bd
 jpschool.edu.bd
+juranpurknesahs.edu.bd
 justsc.edu.bd
 jzahs.edu.bd
 kahsb.edu.bd
@@ -218,6 +225,7 @@ lsc.edu.bd
 luthfurrahmanhsc1983.edu.bd
 m.jmbisfm.edu.bd
 m.murailam.edu.bd
+madhabdicollege.edu.bd
 mail.afazalahighschool.edu.bd
 mail.aladipara.edu.bd
 mail.azimpurhschool.edu.bd
@@ -227,6 +235,7 @@ mail.chgmc.edu.bd
 mail.dahschool.edu.bd
 mail.damam.edu.bd
 mail.gosaibaricollege.edu.bd
+mail.govtnacollege.edu.bd
 mail.hatimarahs.edu.bd
 mail.khedacharahs.edu.bd
 mail.kodalkatigirls.edu.bd
@@ -267,6 +276,7 @@ nengapirhatsafmadrasah.edu.bd
 new.autodiscover.manjurahmedhs.edu.bd
 news.ncmym.edu.bd
 nkmschs.edu.bd
+nlhs.edu.bd
 nmhsc.edu.bd
 nuc.edu.bd
 nutonbazardm.edu.bd
@@ -352,6 +362,7 @@ unitedmodelhighschool.edu.bd
 webdisk.chgmc.edu.bd
 webdisk.dahschool.edu.bd
 webdisk.damam.edu.bd
+webdisk.govtnacollege.edu.bd
 webdisk.kodalkatigirls.edu.bd
 webdisk.mors.edu.bd
 webdisk.prps.edu.bd
@@ -359,6 +370,7 @@ webdisk.thsict.edu.bd
 webmail.chgmc.edu.bd
 webmail.dahschool.edu.bd
 webmail.damam.edu.bd
+webmail.govtnacollege.edu.bd
 webmail.kodalkatigirls.edu.bd
 webmail.mors.edu.bd
 webmail.nuc.edu.bd
@@ -368,6 +380,8 @@ www.academy.gphis.edu.bd
 www.afazalahighschool.edu.bd
 www.agriculture.cityuniversity.edu.bd
 www.aladipara.edu.bd
+www.archive-bus.green.edu.bd
+www.archive-eee.green.edu.bd
 www.armhs.abdulabadhighschool.edu.bd
 www.azimpurhschool.edu.bd
 www.bahsm.ddmm.edu.bd
@@ -398,6 +412,7 @@ www.frsuhs.edu.bd
 www.ggmss.edu.bd.panditsarhs.edu.bd
 www.gkmc.abdulabadhighschool.edu.bd
 www.gosaibaricollege.edu.bd
+www.govtnacollege.edu.bd
 www.hatimarahs.edu.bd
 www.hchs.edu.bd.shibganjhighschool.edu.bd
 www.hscadmission.khilgaonmodelcollege.edu.bd
@@ -410,6 +425,7 @@ www.knbsecondarysc.edu.bd
 www.kodalkatigirls.edu.bd
 www.m.jmbisfm.edu.bd
 www.m.murailam.edu.bd
+www.madhabdicollege.edu.bd
 www.mems.mci.edu.bd
 www.mors.edu.bd
 www.mssam.edu.bd
@@ -438,3 +454,5 @@ www.tcti.edu.bd
 www.thsict.edu.bd
 www.ubhighschool.edu.bd
 www.webdisk.manjurahmedhs.edu.bd
+www.xyz.haldiagovhs.edu.bd
+xyz.haldiagovhs.edu.bd
