@@ -44,6 +44,7 @@ autodiscover.brsc.edu.bd
 autodiscover.dipshikhahs.edu.bd
 autodiscover.govtnacollege.edu.bd
 autodiscover.kodalkatigirls.edu.bd
+autodiscover.pgmphs.edu.bd
 autodiscover.skcr.edu.bd
 autodiscover.smcraj.edu.bd
 azimpurhschool.edu.bd
@@ -55,6 +56,7 @@ bahsm.edu.bd
 bamundibaliakandihighschool.edu.bd
 bamuniadudm.edu.bd
 banglabazarshs.edu.bd
+banglahiligovtgirlshighschool.edu.bd
 barakatalimlhighschool.edu.bd
 barkhalhsc.edu.bd
 barohaleahiahs.edu.bd
@@ -106,6 +108,8 @@ bsksrhs.edu.bd
 bsmrau.edu.bd
 bsskj.edu.bd
 bthqpilotms.edu.bd
+buds.edu.bd
+buliabazarcollege.edu.bd
 c.gwc.edu.bd
 c.haadc.edu.bd
 cambrian.edu.bd
@@ -140,6 +144,7 @@ cpanel.kodalkatigirls.edu.bd
 cpanel.mors.edu.bd
 cpanel.nabadigantaschool.edu.bd
 cpanel.nuc.edu.bd
+cpanel.pgmphs.edu.bd
 cpanel.prps.edu.bd
 cpanel.skcr.edu.bd
 cpanel.smcraj.edu.bd
@@ -156,6 +161,7 @@ cpcalendars.kfm.edu.bd
 cpcalendars.kodalkatigirls.edu.bd
 cpcalendars.mors.edu.bd
 cpcalendars.nabadigantaschool.edu.bd
+cpcalendars.pgmphs.edu.bd
 cpcalendars.prps.edu.bd
 cpcalendars.skcr.edu.bd
 cpcalendars.smcraj.edu.bd
@@ -173,6 +179,7 @@ cpcontacts.kodalkatigirls.edu.bd
 cpcontacts.manjurahmedhs.edu.bd
 cpcontacts.mors.edu.bd
 cpcontacts.nabadigantaschool.edu.bd
+cpcontacts.pgmphs.edu.bd
 cpcontacts.prps.edu.bd
 cpcontacts.skcr.edu.bd
 cpcontacts.smcraj.edu.bd
@@ -180,6 +187,7 @@ cpcontacts.svhs.edu.bd
 cpcontacts.thsict.edu.bd
 crac.edu.bd
 cryptoincomebd.com.shahjokiuddinhighschool.edu.bd
+csahs.edu.bd
 cti.edu.bd
 cuc.edu.bd
 daam.edu.bd
@@ -196,6 +204,7 @@ ddmm.edu.bd
 demo.bam.edu.bd
 dghsc.edu.bd
 dhahs.edu.bd
+dhakaidealcollege.edu.bd
 dhalasramdm.edu.bd
 dhukundihighschool.edu.bd
 dia1997.edu.bd
@@ -271,10 +280,12 @@ hawchs.edu.bd
 haziabdulhakimbhsc.edu.bd
 hchs.edu.bd
 hchs.edu.bd.shibganjhighschool.edu.bd
+heedttc.edu.bd
 hkhs.edu.bd
 holiarparajksam.edu.bd
 hphscs.edu.bd
 hrhs.edu.bd
+hrsblhs.edu.bd
 hshahs.edu.bd
 htrmkm.edu.bd
 idc.edu.bd
@@ -301,6 +312,7 @@ jsahsac.edu.bd
 juranpurknesahs.edu.bd
 justsc.edu.bd
 jzahs.edu.bd
+kabirhatgovcollege.edu.bd
 kahsb.edu.bd
 kajisirajulislamhighschool.edu.bd
 kakhs.edu.bd
@@ -321,6 +333,7 @@ khanjahanalihighschool.edu.bd
 khedacharahs.edu.bd
 khidirpurcollege.edu.bd
 khilgaonmodelcollege.edu.bd
+khondakerbazarhs.edu.bd
 kisc.edu.bd
 kkdghs.edu.bd
 kmlhs.edu.bd
@@ -355,6 +368,7 @@ m.murailam.edu.bd
 m.piainguljameya.edu.bd
 m.ppmam.edu.bd
 madhabdicollege.edu.bd
+mahichailhs.edu.bd
 mail.afazalahighschool.edu.bd
 mail.aladipara.edu.bd
 mail.azimpurhschool.edu.bd
@@ -378,11 +392,13 @@ mail.khedacharahs.edu.bd
 mail.kkdghs.edu.bd
 mail.kodalkatigirls.edu.bd
 mail.kolimoharmahabiddalaya.edu.bd
+mail.mahichailhs.edu.bd
 mail.mors.edu.bd
 mail.mssam.edu.bd
 mail.nabadigantaschool.edu.bd
 mail.nkbhs.edu.bd
 mail.nurunnaharmohilacollege.edu.bd
+mail.pgmphs.edu.bd
 mail.prps.edu.bd
 mail.ramugirlshighschool.edu.bd
 mail.shahjokiuddinhighschool.edu.bd
@@ -425,6 +441,7 @@ msa130518.edu.bd
 mssam.edu.bd
 mtbmc.edu.bd
 mtudm.edu.bd
+muladicollege.edu.bd
 mulbindu.prohs.edu.bd
 munsuralicollege.edu.bd
 nabadigantaschool.edu.bd
@@ -444,6 +461,7 @@ nkbhs.edu.bd
 nkmschs.edu.bd
 nlhs.edu.bd
 nmhsc.edu.bd
+nmpuachs.edu.bd
 nmub.edu.bd
 nowparahighschool.edu.bd
 npsc.edu.bd
@@ -464,22 +482,30 @@ pcsac.edu.bd
 pd.daffodilvarsity.edu.bd
 perikhalimodelhighschool.edu.bd
 pgdit.iitju.edu.bd
+pgmphs.edu.bd
 pgmsc.edu.bd
 phsafhs.edu.bd
 phsz.edu.bd
+pirganjcollege.edu.bd
+pnc.edu.bd
 polestarschool.edu.bd
 porabarihighschool.edu.bd
 pordiahighschool.edu.bd
+portal.aleyaazamcollege.edu.bd
 portal.csmhs.edu.bd
+portal.kkmdm.edu.bd
 portal.nphs.edu.bd
 portal.pcsac.edu.bd
+portal.rameswarpurhs.edu.bd
 portal.rpmc.edu.bd
+portal.tambulpurdhs.edu.bd
 pphsnil.edu.bd
 pragotihsc.edu.bd
 pritynessa.edu.bd
 professional.jnuenglish.edu.bd
 prps.edu.bd
 purbachargarkulhighschool.edu.bd
+rajproshadmamudpurhs.edu.bd
 ramdiahighschool.edu.bd
 ramugirlshighschool.edu.bd
 ranapingahsc.edu.bd
@@ -487,10 +513,12 @@ rashidanabihs.edu.bd
 rasulpurhighschool.edu.bd
 ratangonjmhs.edu.bd
 real.snbghs.edu.bd
+rkrmsc.edu.bd
 rmdm.edu.bd
 rmhs.edu.bd
 roboticsclub.portcity.edu.bd
 ronokailhighschool.edu.bd
+rpdm.edu.bd
 rptc.edu.bd
 rrhighschoolduarabazar.edu.bd
 rtbmc.edu.bd
@@ -512,6 +540,7 @@ s.shalikhahighschool.edu.bd
 s.sonatolapilotgirlshs.edu.bd
 s.sukhanpukurhighschool.edu.bd
 s.sultanpurhs.edu.bd
+sabhs.edu.bd
 safatullahhsb.edu.bd
 saicnursing.edu.bd
 saicpoly.edu.bd
@@ -596,6 +625,7 @@ webdisk.kodalkatigirls.edu.bd
 webdisk.manjurahmedhs.edu.bd
 webdisk.mors.edu.bd
 webdisk.nabadigantaschool.edu.bd
+webdisk.pgmphs.edu.bd
 webdisk.prps.edu.bd
 webdisk.skcr.edu.bd
 webdisk.smcraj.edu.bd
@@ -613,6 +643,7 @@ webmail.kodalkatigirls.edu.bd
 webmail.mors.edu.bd
 webmail.nabadigantaschool.edu.bd
 webmail.nuc.edu.bd
+webmail.pgmphs.edu.bd
 webmail.prps.edu.bd
 webmail.skcr.edu.bd
 webmail.smcraj.edu.bd
@@ -702,6 +733,7 @@ www.m.murailam.edu.bd
 www.m.piainguljameya.edu.bd
 www.m.ppmam.edu.bd
 www.madhabdicollege.edu.bd
+www.mahichailhs.edu.bd
 www.masud.cti.edu.bd
 www.mems.mci.edu.bd
 www.mors.edu.bd
@@ -717,12 +749,15 @@ www.old.hphscs.edu.bd
 www.old.itclub.acc.edu.bd
 www.oldweb.kanaighatcollege.edu.bd
 www.pgdit.iitju.edu.bd
+www.pgmphs.edu.bd
 www.phsafhs.edu.bd
 www.portal.rpmc.edu.bd
 www.professional.jnuenglish.edu.bd
 www.prps.edu.bd
+www.rajproshadmamudpurhs.edu.bd
 www.ramugirlshighschool.edu.bd
 www.real.snbghs.edu.bd
+www.rkrmsc.edu.bd
 www.rps.sarakerbazarhighschool.edu.bd
 www.s.asshs.edu.bd
 www.s.chowdalaghs.edu.bd
