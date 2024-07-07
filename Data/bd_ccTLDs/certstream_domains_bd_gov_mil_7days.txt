@@ -7,6 +7,7 @@ accounting.smartrajshahi.gov.bd
 accounts.noipunno.gov.bd
 admin.cgbdsydney.gov.bd
 admin.dc-khagrachhari.gov.bd
+admin.mbgc.gov.bd
 admin.msdp.gov.bd
 admin.tourismctg.gov.bd
 agent.cgbdsydney.gov.bd
@@ -38,10 +39,13 @@ bdpost.gov.bd
 betagimunicipality.gov.bd
 bgb.gov.bd
 bgmc.gov.bd
+bh410mwccpp.nwpgcl.gov.bd
+bhairabmunicipality.gov.bd
 biman.ekpay.gov.bd
 bise-ctg.gov.bd
 biwtahydrographicdata.gov.bd
 bmdbwcsrp.gov.bd
+boalmaripaurashava.gov.bd
 borhamganjcollege.gov.bd
 bpmis.bsc.gov.bd
 bpocams.bdpost.gov.bd
@@ -64,6 +68,7 @@ certificates.gov.bd
 cevappealdhaka2.gov.bd
 cgbdsydney.gov.bd
 chandanpurup.gov.bd
+charghatpaurashava.gov.bd
 chcpelearning.dghs.gov.bd
 chuadangacollege.gov.bd
 circle34.taxeszone2.gov.bd
@@ -129,6 +134,7 @@ debidwarpourashava.gov.bd
 demo.iresppw-brdb.gov.bd
 demo.kabinazrulcollege.gov.bd
 dengue.gov.bd
+deodinajpur.gov.bd
 deopanchagarh.gov.bd
 develop.aaic.aaic.gov.bd
 dfsrcaab.gov.bd
@@ -167,6 +173,7 @@ familycard.distgopalganj.gov.bd
 feedback.ekshop.gov.bd
 ffwc.bwdb.gov.bd
 fgc.gov.bd
+files.mbgc.gov.bd
 foreigner.dc-khagrachhari.gov.bd
 foundationtraining.dghs.gov.bd
 fowlab.gov.bd
@@ -191,6 +198,7 @@ hris.dgme.gov.bd
 hris.msdp.gov.bd
 hrm.sprangpur.gov.bd
 hrmdss.gov.bd
+hsc-dbtp-2024.dinajpurboard.gov.bd
 idea.gov.bd
 info.dgda.gov.bd
 inheritance.dc-khagrachhari.gov.bd
@@ -246,6 +254,7 @@ market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 marmch.gov.bd
 master.noipunno.gov.bd
+mbgc.gov.bd
 media.bmp.gov.bd
 meeting.gtcl.gov.bd
 metandgeo-ctg.bmd.gov.bd
@@ -255,6 +264,7 @@ mspvaw.gov.bd
 mspvawpre.mspvaw.gov.bd
 msw-soft.gov.bd
 myclass.gov.bd
+mydocreader.gov.bd
 mymail.ekshop.gov.bd
 nagoriksheba.gov.bd
 narsingdilg.gov.bd
@@ -294,7 +304,9 @@ portal.satkhiratsc.gov.bd
 practical.bise-ctg.gov.bd
 practical.comillaboard.gov.bd
 product.sacp.dae.gov.bd
+profile.rmch.gov.bd
 prottoyon.gov.bd
+puthiauhc.gov.bd
 queue.cgbdsydney.gov.bd
 rains.sacp.dae.gov.bd
 raipurpourashava.gov.bd
@@ -335,7 +347,9 @@ sonod.gov.bd
 sonod.scc.gov.bd
 srdl.gov.bd
 ssf.gov.bd
+ssmcmh.gov.bd
 staging.shift.gov.bd
+startupsummit.gov.bd
 sundalpurup.gov.bd
 sundargonjpourashava.gov.bd
 supremecourt.gov.bd
@@ -368,7 +382,10 @@ turn.vc8.bcc.gov.bd
 tvr.bscl.gov.bd
 uniontax.gov.bd
 uphcsdp.gov.bd
+upsonod.com.melandahbhata.gov.bd
 urmeessk.bgb.gov.bd
+useomadhukhali.gov.bd
+uzpseba.gov.bd
 vaxepi.gov.bd
 vcsavar.gov.bd
 verify-network.ekshop.gov.bd
@@ -492,6 +509,7 @@ www.online.gbrcr.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.payment.ekshop.gov.bd
 www.pbi.gov.bd
+www.profile.rmch.gov.bd
 www.prottoyon.gov.bd
 www.ramgatipourashava.gov.bd
 www.realestate.rpi.gov.bd
@@ -511,6 +529,7 @@ www.sonod.scc.gov.bd
 www.sp-apis.rpi.gov.bd
 www.sp-assets.rpi.gov.bd
 www.staging.shift.gov.bd
+www.startupsummit.gov.bd
 www.student-portal.rpi.gov.bd
 www.sums-apis.rpi.gov.bd
 www.sundalpurup.gov.bd
@@ -521,6 +540,7 @@ www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
 www.training.uphcsdp.gov.bd
 www.tseogulshan.gov.bd
+www.upsonod.com.melandahbhata.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vms.cocc.gov.bd
 www.vpland.munshiganjlg.gov.bd
@@ -530,3 +550,4 @@ www.zplakshmipur.gov.bd
 zpgazipur.gov.bd
 zplakshmipur.gov.bd
 zpmoulvibazar.gov.bd
+zsorajshahi.gov.bd
