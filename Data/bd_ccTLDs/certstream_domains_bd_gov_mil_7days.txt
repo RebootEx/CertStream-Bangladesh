@@ -25,6 +25,7 @@ app.dghs.gov.bd
 ar.gameapp.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
+autodiscover.ccr.gov.bd
 autodiscover.iras.bamis.gov.bd
 autodiscover.tseogulshan.gov.bd
 award.imli.gov.bd
@@ -36,6 +37,7 @@ bdhckl.gov.bd
 bdpost.gov.bd
 betagimunicipality.gov.bd
 bgb.gov.bd
+bgmc.gov.bd
 biman.ekpay.gov.bd
 bise-ctg.gov.bd
 biwtahydrographicdata.gov.bd
@@ -55,6 +57,7 @@ career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
 ccms.gov.bd
+ccr.gov.bd
 cdc.gov.bd
 centraldhis.mohfw.gov.bd
 certificates.gov.bd
@@ -71,12 +74,14 @@ cms.msw-soft.gov.bd
 cms.torjoni.gov.bd
 cocc.gov.bd
 commission.ekshop.gov.bd
+contacts.rmch.gov.bd
 controlroom.dghs.gov.bd
 corona.gov.bd
 cp.kda.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.admin.msdp.gov.bd
 cpanel.bmdbwcsrp.gov.bd
+cpanel.ccr.gov.bd
 cpanel.cocc.gov.bd
 cpanel.dfsrcaab.gov.bd
 cpanel.dgca58.gov.bd
@@ -87,6 +92,7 @@ cpanel.tseogulshan.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
+cpcalendars.ccr.gov.bd
 cpcalendars.cocc.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.dgca58.gov.bd
@@ -98,6 +104,7 @@ cpcalendars.tseogulshan.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
+cpcontacts.ccr.gov.bd
 cpcontacts.cocc.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.dgca58.gov.bd
@@ -210,6 +217,7 @@ lakshmipurpourashava.gov.bd
 lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 llv.mspvaw.gov.bd
+lms.pmo.gov.bd
 logistics.gov.bd
 logo.gov.bd
 lutercharup.gov.bd
@@ -219,6 +227,7 @@ maijdeetsc.gov.bd
 mail.14upazilaudd.gov.bd
 mail.admin.msdp.gov.bd
 mail.bmdbwcsrp.gov.bd
+mail.ccr.gov.bd
 mail.cocc.gov.bd
 mail.dfsrcaab.gov.bd
 mail.dgca58.gov.bd
@@ -339,6 +348,7 @@ taxeszone24dhaka.gov.bd
 taxeszone4ctg.gov.bd
 taxeszonecumilla.gov.bd
 tca.cca.gov.bd
+test.bgmc.gov.bd
 test.gameapp.gov.bd
 testimonials.gov.bd
 tihdtcbproj.gov.bd
@@ -373,6 +383,7 @@ vtti.gov.bd
 webdisk.14upazilaudd.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bmdbwcsrp.gov.bd
+webdisk.ccr.gov.bd
 webdisk.cocc.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.dgca58.gov.bd
@@ -384,6 +395,7 @@ webdisk.tseogulshan.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.admin.msdp.gov.bd
 webmail.bmdbwcsrp.gov.bd
+webmail.ccr.gov.bd
 webmail.cocc.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.dgca58.gov.bd
@@ -414,6 +426,7 @@ www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.cbcctg.gov.bd
 www.ccms.gov.bd
+www.ccr.gov.bd
 www.chandanpurup.gov.bd
 www.chcpelearning.dghs.gov.bd
 www.circle34.taxeszone2.gov.bd
@@ -421,6 +434,7 @@ www.cloud.ekshop.gov.bd
 www.cms.msw-soft.gov.bd
 www.cocc.gov.bd
 www.commission.ekshop.gov.bd
+www.contacts.rmch.gov.bd
 www.daulatpurup.gov.bd
 www.dcabarishal.gov.bd
 www.demo.iresppw-brdb.gov.bd
