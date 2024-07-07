@@ -83,6 +83,7 @@ cpanel.hris.msdp.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.tseogulshan.gov.bd
+cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.ccr.gov.bd
@@ -94,6 +95,7 @@ cpcalendars.iras.bamis.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.pbi.gov.bd
 cpcalendars.tseogulshan.gov.bd
+cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.ccr.gov.bd
@@ -105,6 +107,7 @@ cpcontacts.iras.bamis.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.pbi.gov.bd
 cpcontacts.tseogulshan.gov.bd
+cpcontacts.zsorangpur.gov.bd
 csc.dghs.gov.bd
 ctgtaxeszone2.gov.bd
 daesms.bamis.gov.bd
@@ -151,6 +154,7 @@ eservice.pmeat.gov.bd
 esiraj.gov.bd
 estore.bsc.gov.bd
 etender.comillaboard.gov.bd
+exam-management-hsc2024.dinajpurboard.gov.bd
 exam.noipunno.gov.bd
 ezakat.gov.bd
 familycard.distgopalganj.gov.bd
@@ -228,6 +232,7 @@ mail.ramgatipourashava.gov.bd
 mail.tc.dghs.gov.bd
 mail.tseogulshan.gov.bd
 mail.zplakshmipur.gov.bd
+mail.zsorangpur.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 marmch.gov.bd
@@ -375,6 +380,7 @@ webdisk.iras.bamis.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.pbi.gov.bd
 webdisk.tseogulshan.gov.bd
+webdisk.zsorangpur.gov.bd
 webmail.admin.msdp.gov.bd
 webmail.bmdbwcsrp.gov.bd
 webmail.ccr.gov.bd
@@ -385,6 +391,7 @@ webmail.hris.msdp.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.mspvaw.gov.bd
 webmail.tseogulshan.gov.bd
+webmail.zsorangpur.gov.bd
 wp.kmpi.gov.bd
 www.academy.ekshop.gov.bd
 www.admin.dc-khagrachhari.gov.bd
@@ -504,7 +511,9 @@ www.vpland.munshiganjlg.gov.bd
 www.vrcbd.cmc.gov.bd
 www.wp.kmpi.gov.bd
 www.zplakshmipur.gov.bd
+www.zsorangpur.gov.bd
 zpgazipur.gov.bd
 zplakshmipur.gov.bd
 zpmoulvibazar.gov.bd
 zsorajshahi.gov.bd
+zsorangpur.gov.bd
