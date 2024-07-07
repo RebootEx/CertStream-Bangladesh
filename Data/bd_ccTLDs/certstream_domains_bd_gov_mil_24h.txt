@@ -4,6 +4,7 @@ admin.cgbdsydney.gov.bd
 agent.cgbdsydney.gov.bd
 ar.gameapp.gov.bd
 autodiscover.patgrammunicipality.gov.bd
+bcc-ca.gov.bd
 beta.nmcp.gov.bd
 bsfmstu.gameapp.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
@@ -12,11 +13,14 @@ dcsherpurinfo.gov.bd
 dttti.gov.bd
 du.gameapp.gov.bd
 edu.bd.gbrcr.gov.bd
+exam-management-hsc2024.dinajpurboard.gov.bd
 exam.noipunno.gov.bd
 files.mbgc.gov.bd
+fowlab.gov.bd
 himb.bwdb.gov.bd
 hmis.uphcsdp.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
+info.dgda.gov.bd
 jitsi.vc8.bcc.gov.bd
 kiosk.cgbdsydney.gov.bd
 lms.pmo.gov.bd
@@ -27,6 +31,8 @@ mbgc.gov.bd
 melandahbhata.gov.bd
 mopa.gov.bd
 nicvd.gov.bd
+noc.kda.gov.bd
+nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
@@ -43,6 +49,7 @@ tcb.melandahbhata.gov.bd
 test.gameapp.gov.bd
 turn.vc8.bcc.gov.bd
 uccbrdbshyamnagar.gov.bd
+vr.gameapp.gov.bd
 webdisk.patgrammunicipality.gov.bd
 wqtrms.dphe.gov.bd
 www.admin-mail.soms.gov.bd
