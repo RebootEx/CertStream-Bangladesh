@@ -3,9 +3,11 @@ admin-mail.soms.gov.bd
 admin.cgbdsydney.gov.bd
 admin.msdp.gov.bd
 agent.cgbdsydney.gov.bd
+api.freelancers.gov.bd
 ar.gameapp.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.patgrammunicipality.gov.bd
+back.socialprotection.gov.bd
 bangladeshcustoms.gov.bd
 bcc-ca.gov.bd
 beta.nmcp.gov.bd
@@ -27,6 +29,7 @@ cpcontacts.ccr.gov.bd
 cpcontacts.hris.msdp.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 dcsherpurinfo.gov.bd
+dpl.gov.bd
 dscc.gov.bd
 dttti.gov.bd
 du.gameapp.gov.bd
@@ -52,6 +55,7 @@ mail.patgrammunicipality.gov.bd
 mail.soms.gov.bd
 mbgc.gov.bd
 melandahbhata.gov.bd
+mne.socialprotection.gov.bd
 mopa.gov.bd
 nicvd.gov.bd
 nise3.gov.bd
@@ -71,6 +75,7 @@ services.cgbdsydney.gov.bd
 sggsc.gov.bd
 sheikhrusseldigitallab.gov.bd
 sla.gov.bd
+smarthaat.gov.bd
 socialprotection.gov.bd
 soms.gov.bd
 sonod.gov.bd
@@ -82,6 +87,7 @@ test.gameapp.gov.bd
 training.sla.gov.bd
 turn.vc8.bcc.gov.bd
 uccbrdbshyamnagar.gov.bd
+upmymensinghholdingtax.gov.bd
 vr.gameapp.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.ccr.gov.bd
@@ -98,6 +104,7 @@ www.bdrisdata.dcsherpurinfo.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.ccr.gov.bd
 www.contacts.rmch.gov.bd
+www.dpl.gov.bd
 www.du.gameapp.gov.bd
 www.exam.noipunno.gov.bd
 www.hris.msdp.gov.bd
@@ -106,6 +113,7 @@ www.mail.soms.gov.bd
 www.nicvd.gov.bd
 www.ntrc.gameapp.gov.bd
 www.profile.rmch.gov.bd
+www.rampur.upmymensinghholdingtax.gov.bd
 www.register.gameapp.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
 www.sla.gov.bd
