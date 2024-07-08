@@ -14,6 +14,8 @@ amarbangabandhu.gov.bd
 amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
 api.bscl.gov.bd
+api.career.nwpgcl.gov.bd
+api.ekpass.gov.bd
 api.freelancers.gov.bd
 api.sacp.dae.gov.bd
 api.spellcheck.bangla.gov.bd
@@ -23,6 +25,7 @@ attendance.ekshop.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.iras.bamis.gov.bd
+autodiscover.ngwc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.tseogulshan.gov.bd
 award.imli.gov.bd
@@ -53,6 +56,7 @@ btclwifihotspot.gov.bd
 burichangsadarup.gov.bd
 bvcdoctor.bvc.gov.bd
 cafowater.gov.bd
+career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
@@ -63,6 +67,7 @@ centraldhis.mohfw.gov.bd
 certificates.gov.bd
 cevappealdhaka2.gov.bd
 cgbdsydney.gov.bd
+challenge.gov.bd
 chandanpurup.gov.bd
 charghatpaurashava.gov.bd
 chcpelearning.dghs.gov.bd
@@ -84,8 +89,10 @@ cpanel.cocc.gov.bd
 cpanel.dfsrcaab.gov.bd
 cpanel.dgca58.gov.bd
 cpanel.hris.msdp.gov.bd
+cpanel.hris1.msdp.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.khagracharitsc.gov.bd
+cpanel.ngwc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
@@ -95,8 +102,10 @@ cpcalendars.cocc.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.dgca58.gov.bd
 cpcalendars.hris.msdp.gov.bd
+cpcalendars.hris1.msdp.gov.bd
 cpcalendars.iras.bamis.gov.bd
 cpcalendars.khagracharitsc.gov.bd
+cpcalendars.ngwc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.pbi.gov.bd
 cpcalendars.tseogulshan.gov.bd
@@ -108,8 +117,10 @@ cpcontacts.cocc.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.dgca58.gov.bd
 cpcontacts.hris.msdp.gov.bd
+cpcontacts.hris1.msdp.gov.bd
 cpcontacts.iras.bamis.gov.bd
 cpcontacts.khagracharitsc.gov.bd
+cpcontacts.ngwc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.pbi.gov.bd
 cpcontacts.tseogulshan.gov.bd
@@ -134,6 +145,7 @@ deopanchagarh.gov.bd
 develop.aaic.aaic.gov.bd
 dfsrcaab.gov.bd
 dgca58.gov.bd
+dgpay.ekshop.gov.bd
 digitalsignature.cca.gov.bd
 dmc.fima.gov.bd
 dms.cca.gov.bd
@@ -171,6 +183,7 @@ files.mbgc.gov.bd
 foreigner.dc-khagrachhari.gov.bd
 foundationtraining.dghs.gov.bd
 fowlab.gov.bd
+freelancer.doict.gov.bd
 freelancers.gov.bd
 gbrcr.gov.bd
 ggc.gov.bd
@@ -189,6 +202,7 @@ hmis.uphcsdp.gov.bd
 host.ric.gov.bd
 hris.dgme.gov.bd
 hris.msdp.gov.bd
+hris1.msdp.gov.bd
 hrm.sprangpur.gov.bd
 hrmddco.gov.bd
 hrmdss.gov.bd
@@ -231,8 +245,10 @@ mail.dfsrcaab.gov.bd
 mail.dgca58.gov.bd
 mail.gameapp.gov.bd
 mail.hris.msdp.gov.bd
+mail.hris1.msdp.gov.bd
 mail.iras.bamis.gov.bd
 mail.khagracharitsc.gov.bd
+mail.ngwc.gov.bd
 mail.nicvd.gov.bd
 mail.ntrc.gameapp.gov.bd
 mail.patgrammunicipality.gov.bd
@@ -262,6 +278,7 @@ nccrfhd.gov.bd
 news.dcarangpur.gov.bd
 ngmc.gov.bd
 ngosavar.gov.bd
+ngwc.gov.bd
 nicvd.gov.bd
 nilphamarittc.gov.bd
 nise3.gov.bd
@@ -304,6 +321,7 @@ roc.gov.bd
 rpi.gov.bd
 rrdhs.gov.bd
 sandbox.dife.gov.bd
+satkhirademo.gov.bd
 satkhirapolice.gov.bd
 scan.jessoreboard.gov.bd
 scc.gov.bd
@@ -392,8 +410,10 @@ webdisk.cocc.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.dgca58.gov.bd
 webdisk.hris.msdp.gov.bd
+webdisk.hris1.msdp.gov.bd
 webdisk.iras.bamis.gov.bd
 webdisk.khagracharitsc.gov.bd
+webdisk.ngwc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.pbi.gov.bd
 webdisk.tseogulshan.gov.bd
@@ -405,8 +425,10 @@ webmail.cocc.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.dgca58.gov.bd
 webmail.hris.msdp.gov.bd
+webmail.hris1.msdp.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.khagracharitsc.gov.bd
+webmail.ngwc.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.zsorangpur.gov.bd
 wp.kmpi.gov.bd
@@ -433,6 +455,7 @@ www.bvcdoctor.bvc.gov.bd
 www.cbcctg.gov.bd
 www.ccms.gov.bd
 www.ccr.gov.bd
+www.challenge.gov.bd
 www.chandanpurup.gov.bd
 www.chcpelearning.dghs.gov.bd
 www.circle34.taxeszone2.gov.bd
@@ -468,6 +491,7 @@ www.gmscn.dac.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.hris.msdp.gov.bd
+www.hris1.msdp.gov.bd
 www.hrm.sprangpur.gov.bd
 www.hrmddco.gov.bd
 www.hrms.knsikhagrachari.gov.bd
@@ -487,6 +511,7 @@ www.meherpara.narsingdilg.gov.bd
 www.mfstc.mfstc.gov.bd
 www.mspvawpre.mspvaw.gov.bd
 www.news.dcarangpur.gov.bd
+www.ngwc.gov.bd
 www.nicvd.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
