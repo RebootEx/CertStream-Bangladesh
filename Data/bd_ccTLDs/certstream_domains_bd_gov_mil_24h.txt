@@ -3,6 +3,7 @@ api-front.ekshop.gov.bd
 api-merchant.ekshop.gov.bd
 api.bscl.gov.bd
 api.career.nwpgcl.gov.bd
+api.ekpass.gov.bd
 api.sacp.dae.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
@@ -17,6 +18,7 @@ career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 cbctg.gov.bd
 ccms.gov.bd
+challenge.gov.bd
 cloud.ekshop.gov.bd
 college-efiling.dinajpurboard.gov.bd
 commission.ekshop.gov.bd
@@ -32,6 +34,7 @@ cpcontacts.khagracharitsc.gov.bd
 cpcontacts.tseogulshan.gov.bd
 dashboard.sacp.dae.gov.bd
 dengue.gov.bd
+dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
 dms.cca.gov.bd
@@ -107,6 +110,8 @@ www.attendance.ekshop.gov.bd
 www.bmdbwcsrp.gov.bd
 www.bogurapolice.gov.bd
 www.ccms.gov.bd
+www.challenge.gov.bd
+www.chcpelearning.dghs.gov.bd
 www.cloud.ekshop.gov.bd
 www.commission.ekshop.gov.bd
 www.dob.ekshop.gov.bd
