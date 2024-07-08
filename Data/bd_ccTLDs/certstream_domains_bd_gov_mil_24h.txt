@@ -1,5 +1,6 @@
 api-front.ekshop.gov.bd
 api-merchant.ekshop.gov.bd
+barisalboard.gov.bd
 bogurapolice.gov.bd
 cafowater.gov.bd
 college-efiling.dinajpurboard.gov.bd
@@ -7,11 +8,15 @@ cpanel.khagracharitsc.gov.bd
 cpcalendars.khagracharitsc.gov.bd
 cpcontacts.khagracharitsc.gov.bd
 dhis2tracker.dghs.gov.bd
+dms.cca.gov.bd
 elearning.dgfp.gov.bd
 fgc.gov.bd
 gbrcr.gov.bd
 ggc.gov.bd
+hajipurup.narsingdilg.gov.bd
 hijli.distgopalganj.gov.bd
+ikfmss.gov.bd
+kashinagarup.comillalg.gov.bd
 khagracharitsc.gov.bd
 login.borhamganjcollege.gov.bd
 mail.khagracharitsc.gov.bd
@@ -22,6 +27,7 @@ sggsc.gov.bd
 sla.gov.bd
 smarthaat.gov.bd
 socialprotection.gov.bd
+spi.gov.bd
 test.gameapp.gov.bd
 training.sla.gov.bd
 upsebarajshahidiv.gov.bd
@@ -30,7 +36,9 @@ webdisk.khagracharitsc.gov.bd
 webmail.khagracharitsc.gov.bd
 www.bogurapolice.gov.bd
 www.ems.fgc.gov.bd
+www.hajipurup.narsingdilg.gov.bd
 www.hijli.distgopalganj.gov.bd
+www.kashinagarup.comillalg.gov.bd
 www.khagracharitsc.gov.bd
 www.result.fgc.gov.bd
 www.sla.gov.bd
