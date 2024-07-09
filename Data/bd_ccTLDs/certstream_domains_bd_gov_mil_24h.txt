@@ -26,6 +26,7 @@ dev.shrdashboard.dghs.gov.bd
 develop.aaic.aaic.gov.bd
 dgpay.ekshop.gov.bd
 dhakadental.gov.bd
+dmch.gov.bd
 ecc-beta.doe.gov.bd
 ecpdev.uru.gov.bd
 ecptrain.uru.gov.bd
@@ -34,6 +35,7 @@ ehrm.fireservice.gov.bd
 ekshop.gov.bd
 eservice.pmeat.gov.bd
 freelancer.doict.gov.bd
+gisfs.bpc.gov.bd
 his1.bcc.gov.bd
 hris1.msdp.gov.bd
 kalirbazarup.gov.bd
@@ -47,6 +49,7 @@ mail.upsylhetholdingtax.gov.bd
 mailbox.macademy.gov.bd
 manirampurmunicipality.gov.bd
 mfsp.gov.bd
+nazipurpourashava.gov.bd
 ngwc.gov.bd
 office.doe.gov.bd
 one.rhd.gov.bd
@@ -57,6 +60,7 @@ roadshow.sec.gov.bd
 santhiapaurashava.gov.bd
 shibpurpaurashava.gov.bd
 shop.cirt.gov.bd
+staging.shift.gov.bd
 taherpurpourashava.gov.bd
 uniontax.gov.bd
 upsylhetholdingtax.gov.bd
@@ -75,6 +79,7 @@ www.develop.aaic.aaic.gov.bd
 www.ecs.gov.bd
 www.ekshop.gov.bd
 www.eservice.pmeat.gov.bd
+www.gisfs.bpc.gov.bd
 www.hris1.msdp.gov.bd
 www.kalirbazarup.gov.bd
 www.mail2.mfsp.gov.bd
@@ -82,4 +87,5 @@ www.mailbox.macademy.gov.bd
 www.ngwc.gov.bd
 www.roadshow.sec.gov.bd
 www.sggsc.gov.bd
+www.staging.shift.gov.bd
 www.upsylhetholdingtax.gov.bd
