@@ -4,6 +4,7 @@ api.ekpass.gov.bd
 app.dghs.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.tseogulshan.gov.bd
+award.imli.gov.bd
 bbuasm.gov.bd
 bepza.gov.bd
 bicsaa.gov.bd
@@ -13,16 +14,19 @@ cbraj.gov.bd
 challenge.gov.bd
 chcpelearning.dghs.gov.bd
 cpanel.bicsaa.gov.bd
+cpanel.dfsrcaab.gov.bd
 cpanel.hris1.msdp.gov.bd
 cpanel.ngwc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
 cpanel.xiclassadmission.gov.bd
+cpcalendars.dfsrcaab.gov.bd
 cpcalendars.hris1.msdp.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
 cpcalendars.xiclassadmission.gov.bd
+cpcontacts.dfsrcaab.gov.bd
 cpcontacts.hris1.msdp.gov.bd
 cpcontacts.ngwc.gov.bd
 cpcontacts.tseogulshan.gov.bd
@@ -33,6 +37,7 @@ daesms.bamis.gov.bd
 dbid.gov.bd
 dev.shrdashboard.dghs.gov.bd
 develop.aaic.aaic.gov.bd
+dfsrcaab.gov.bd
 dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 dmch.gov.bd
@@ -56,8 +61,10 @@ lrms.gov.bd
 maijdeetsc.gov.bd
 mail.beza.gov.bd
 mail.bicsaa.gov.bd
+mail.dfsrcaab.gov.bd
 mail.hris1.msdp.gov.bd
 mail.ngwc.gov.bd
+mail.ramgatipourashava.gov.bd
 mail.tseogulshan.gov.bd
 mail.upsylhetholdingtax.gov.bd
 mail.xiclassadmission.gov.bd
@@ -74,6 +81,7 @@ one.rhd.gov.bd
 onlinetc.dinajpurboard.gov.bd
 phfis.dghs.gov.bd
 pmis.dgfp.gov.bd
+ramgatipourashava.gov.bd
 rhd.gov.bd
 roadshow.sec.gov.bd
 santhiapaurashava.gov.bd
@@ -88,6 +96,7 @@ tseogulshan.gov.bd
 uniontax.gov.bd
 upsylhetholdingtax.gov.bd
 vlan.cmpi.gov.bd
+webdisk.dfsrcaab.gov.bd
 webdisk.hris1.msdp.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.tseogulshan.gov.bd
@@ -95,6 +104,7 @@ webdisk.upsylhetholdingtax.gov.bd
 webdisk.xiclassadmission.gov.bd
 webmail.beza.gov.bd
 webmail.bicsaa.gov.bd
+webmail.dfsrcaab.gov.bd
 webmail.hris1.msdp.gov.bd
 webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
@@ -106,6 +116,7 @@ www.btbckaschool.com.btriapps.gov.bd
 www.challenge.gov.bd
 www.curriculum.gov.bd
 www.develop.aaic.aaic.gov.bd
+www.dfsrcaab.gov.bd
 www.ecs.gov.bd
 www.ekshop.gov.bd
 www.eservice.pmeat.gov.bd
@@ -115,6 +126,7 @@ www.kalirbazarup.gov.bd
 www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
 www.ngwc.gov.bd
+www.ramgatipourashava.gov.bd
 www.roadshow.sec.gov.bd
 www.sggsc.gov.bd
 www.staging.shift.gov.bd
