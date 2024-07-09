@@ -12,6 +12,8 @@ agent.cgbdsydney.gov.bd
 ahsanmanzilticket.gov.bd
 amarbangabandhu.gov.bd
 amr.cdc.gov.bd
+api-front.ekshop.gov.bd
+api-merchant.ekshop.gov.bd
 api.bfacf-ticket.gov.bd
 api.bscl.gov.bd
 api.career.nwpgcl.gov.bd
@@ -30,12 +32,14 @@ autodiscover.patgrammunicipality.gov.bd
 autodiscover.tseogulshan.gov.bd
 award.imli.gov.bd
 back.socialprotection.gov.bd
+backend.career.nwpgcl.gov.bd
 bangladeshcustoms.gov.bd
 barisalboard.gov.bd
 bbms.dghs.gov.bd
 bcc-ca.gov.bd
 bdhckl.gov.bd
 bdpost.gov.bd
+bepza.gov.bd
 beta.nmcp.gov.bd
 bgb.gov.bd
 bgmc.gov.bd
@@ -61,6 +65,7 @@ career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
+cbctg.gov.bd
 ccms.gov.bd
 ccr.gov.bd
 cdc.gov.bd
@@ -147,6 +152,8 @@ develop.aaic.aaic.gov.bd
 dfsrcaab.gov.bd
 dgca58.gov.bd
 dgpay.ekshop.gov.bd
+dhakadental.gov.bd
+dhis2tracker.dghs.gov.bd
 digitalsignature.cca.gov.bd
 dmc.fima.gov.bd
 dms.cca.gov.bd
@@ -164,6 +171,7 @@ ecs.gov.bd
 edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
 eff.comillaboard.gov.bd
+egov.cabinet.gov.bd
 elearning.dgfp.gov.bd
 enim.nnsop.gov.bd
 eocgeoportal.dncc.gov.bd
@@ -198,6 +206,7 @@ grsreport.karmasangsthanbank.gov.bd
 gsfmcbhola.gov.bd
 hajipurup.narsingdilg.gov.bd
 hathazaripourashava.gov.bd
+hijli.distgopalganj.gov.bd
 himb.bwdb.gov.bd
 hmis.uphcsdp.gov.bd
 host.ric.gov.bd
@@ -216,6 +225,7 @@ inheritance.dc-rangamati.gov.bd
 ipv6.dgca58.gov.bd
 iras.bamis.gov.bd
 jamalpurpostal.gov.bd
+jati.gov.bd
 jcbs.gov.bd
 jitsi.vc8.bcc.gov.bd
 job.bsc.gov.bd
@@ -229,11 +239,14 @@ kmhc.gov.bd
 knsikhagrachari.gov.bd
 konnakotha.cca.gov.bd
 laksampourashava.gov.bd
+lbphs.gov.bd
 lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 lms.pmo.gov.bd
+login.borhamganjcollege.gov.bd
 logistics.gov.bd
 logo.gov.bd
+lrms.gov.bd
 lutercharup.gov.bd
 lwservice.gov.bd
 mahzcollege.gov.bd
@@ -253,6 +266,7 @@ mail.ngwc.gov.bd
 mail.nicvd.gov.bd
 mail.ntrc.gameapp.gov.bd
 mail.patgrammunicipality.gov.bd
+mail.pbrlp.gov.bd
 mail.ramgatipourashava.gov.bd
 mail.soms.gov.bd
 mail.tc.dghs.gov.bd
@@ -266,10 +280,14 @@ mbgc.gov.bd
 media.bmp.gov.bd
 meeting.gtcl.gov.bd
 melandahbhata.gov.bd
+mfsp.gov.bd
+mfstc.gov.bd
 mfstc.mfstc.gov.bd
 mne.socialprotection.gov.bd
 mopa.gov.bd
 mspvawpre.mspvaw.gov.bd
+mujibjigyasa.gov.bd
+muktopaath.gov.bd
 myclass.gov.bd
 mydocreader.gov.bd
 mymail.ekshop.gov.bd
@@ -297,7 +315,9 @@ office.doe.gov.bd
 old.dghs.gov.bd
 one.rhd.gov.bd
 onlineshr.dghs.gov.bd
+onlinetc.dinajpurboard.gov.bd
 oss.beza.gov.bd
+ossbscic.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
 panchagarhmunicipality.gov.bd
@@ -307,6 +327,9 @@ patiyapourashava.gov.bd
 payment.ekshop.gov.bd
 pbi.gov.bd
 pensionfacerecognition.finance.gov.bd
+phfis.dghs.gov.bd
+pirganjpourashava.gov.bd
+pmis.urp.gov.bd
 practical.bise-ctg.gov.bd
 product.sacp.dae.gov.bd
 profile.rmch.gov.bd
@@ -354,6 +377,7 @@ soms.gov.bd
 sonaimuripaurashava.gov.bd
 sonod.gov.bd
 sonod.scc.gov.bd
+spi.gov.bd
 srdl.gov.bd
 ssf.gov.bd
 ssmcmh.gov.bd
@@ -362,6 +386,7 @@ startupsummit.gov.bd
 sundalpurup.gov.bd
 sundargonjpourashava.gov.bd
 sylhettsc.gov.bd
+tafaruqueschoolandcollege.gov.bd
 tangerine.dpe.gov.bd
 taxeszone17.gov.bd
 taxeszone22dhaka.gov.bd
@@ -392,12 +417,14 @@ tvr.bscl.gov.bd
 uccbrdbshyamnagar.gov.bd
 uniontax.gov.bd
 upmymensinghholdingtax.gov.bd
+upsebarajshahidiv.gov.bd
 upsonod.com.melandahbhata.gov.bd
 useomadhukhali.gov.bd
 uzpseba.gov.bd
 vaxepi.gov.bd
 vcsavar.gov.bd
 verify-network.ekshop.gov.bd
+vimruli.gov.bd
 vms.cocc.gov.bd
 vms.ugc.gov.bd
 vpland.munshiganjlg.gov.bd
@@ -493,6 +520,7 @@ www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.hajipurup.narsingdilg.gov.bd
+www.hijli.distgopalganj.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
 www.hrm.sprangpur.gov.bd
@@ -508,7 +536,9 @@ www.logistics.gov.bd
 www.lutercharup.gov.bd
 www.mail.gameapp.gov.bd
 www.mail.ntrc.gameapp.gov.bd
+www.mail.pbrlp.gov.bd
 www.mail.soms.gov.bd
+www.mail2.mfsp.gov.bd
 www.media.bmp.gov.bd
 www.meherpara.narsingdilg.gov.bd
 www.mfstc.mfstc.gov.bd
@@ -523,6 +553,7 @@ www.nuralapurup.narsingdilg.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.payment.ekshop.gov.bd
 www.pbi.gov.bd
+www.pirganjpourashava.gov.bd
 www.profile.rmch.gov.bd
 www.ramgatipourashava.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
@@ -559,6 +590,7 @@ www.upsonod.com.melandahbhata.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
+www.vimruli.gov.bd
 www.vms.cocc.gov.bd
 www.vpland.munshiganjlg.gov.bd
 www.vrcbd.cmc.gov.bd
