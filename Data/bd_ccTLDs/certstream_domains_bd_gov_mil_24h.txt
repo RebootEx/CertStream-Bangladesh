@@ -3,9 +3,11 @@ api-admin.ekshop.gov.bd
 api.ekpass.gov.bd
 app.dghs.gov.bd
 autodiscover.ngwc.gov.bd
+bbuasm.gov.bd
 bepza.gov.bd
 btbckaschool.com.btriapps.gov.bd
 career.nwpgcl.gov.bd
+cbraj.gov.bd
 challenge.gov.bd
 chcpelearning.dghs.gov.bd
 cpanel.hris1.msdp.gov.bd
@@ -19,7 +21,9 @@ cpcontacts.ngwc.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
 curriculum.gov.bd
 daesms.bamis.gov.bd
+dbid.gov.bd
 dev.shrdashboard.dghs.gov.bd
+develop.aaic.aaic.gov.bd
 dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 ecc-beta.doe.gov.bd
@@ -33,6 +37,7 @@ hris1.msdp.gov.bd
 kalirbazarup.gov.bd
 live.platform.futurenation.gov.bd
 lrms.gov.bd
+mail.beza.gov.bd
 mail.hris1.msdp.gov.bd
 mail.ngwc.gov.bd
 mail.upsylhetholdingtax.gov.bd
@@ -43,14 +48,17 @@ office.doe.gov.bd
 one.rhd.gov.bd
 onlinetc.dinajpurboard.gov.bd
 phfis.dghs.gov.bd
+roadshow.sec.gov.bd
 santhiapaurashava.gov.bd
 shibpurpaurashava.gov.bd
 shop.cirt.gov.bd
 taherpurpourashava.gov.bd
+uniontax.gov.bd
 upsylhetholdingtax.gov.bd
 webdisk.hris1.msdp.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
+webmail.beza.gov.bd
 webmail.hris1.msdp.gov.bd
 webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
@@ -58,6 +66,8 @@ webmail.upsylhetholdingtax.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.challenge.gov.bd
 www.curriculum.gov.bd
+www.develop.aaic.aaic.gov.bd
+www.ecs.gov.bd
 www.ekshop.gov.bd
 www.eservice.pmeat.gov.bd
 www.hris1.msdp.gov.bd
@@ -65,5 +75,6 @@ www.kalirbazarup.gov.bd
 www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
 www.ngwc.gov.bd
+www.roadshow.sec.gov.bd
 www.sggsc.gov.bd
 www.upsylhetholdingtax.gov.bd
