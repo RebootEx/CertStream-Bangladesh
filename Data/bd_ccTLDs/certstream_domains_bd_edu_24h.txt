@@ -7,6 +7,7 @@ agcs.edu.bd
 aghsk.edu.bd
 agmc.edu.bd
 ahsbagmara.edu.bd
+aidealhs.edu.bd
 aidm.edu.bd
 aist.edu.bd
 aiub.edu.bd
@@ -24,6 +25,7 @@ autodiscover.adsm.edu.bd
 autodiscover.bishnupurhs.edu.bd
 autodiscover.jskssc.edu.bd
 autodiscover.kbuhs.edu.bd
+autodiscover.mhblhs.edu.bd
 autodiscover.miam.edu.bd
 autodiscover.sadarpurcollege.edu.bd
 autodiscover.sadmadrasah.edu.bd
@@ -79,6 +81,7 @@ cpanel.haranandapurhs.edu.bd
 cpanel.jskssc.edu.bd
 cpanel.kbuhs.edu.bd
 cpanel.mandoil.edu.bd
+cpanel.mhblhs.edu.bd
 cpanel.miam.edu.bd
 cpanel.paotanahatgirlshighschool.edu.bd
 cpanel.sadarpurcollege.edu.bd
@@ -92,6 +95,7 @@ cpcalendars.adsm.edu.bd
 cpcalendars.bishnupurhs.edu.bd
 cpcalendars.jskssc.edu.bd
 cpcalendars.kbuhs.edu.bd
+cpcalendars.mhblhs.edu.bd
 cpcalendars.miam.edu.bd
 cpcalendars.paotanahatgirlshighschool.edu.bd
 cpcalendars.sadarpurcollege.edu.bd
@@ -105,6 +109,7 @@ cpcontacts.adsm.edu.bd
 cpcontacts.bishnupurhs.edu.bd
 cpcontacts.jskssc.edu.bd
 cpcontacts.kbuhs.edu.bd
+cpcontacts.mhblhs.edu.bd
 cpcontacts.miam.edu.bd
 cpcontacts.paotanahatgirlshighschool.edu.bd
 cpcontacts.sadarpurcollege.edu.bd
@@ -212,6 +217,7 @@ mail.kbuhs.edu.bd
 mail.maidm.edu.bd
 mail.mandoil.edu.bd
 mail.mgghighschool.edu.bd
+mail.mhblhs.edu.bd
 mail.miam.edu.bd
 mail.mirpurhs.edu.bd
 mail.muss.edu.bd
@@ -231,10 +237,12 @@ marufit.xyz.icmc.edu.bd
 mgaahs.edu.bd
 mgghighschool.edu.bd
 mgsdi.edu.bd
+mhblhs.edu.bd
 mhsts.edu.bd
 mhumadrasah.edu.bd
 miam.edu.bd
 minaltech.edu.bd
+mipsc.edu.bd
 mirkandaparahs.edu.bd
 mirpurhs.edu.bd
 mohisdanghagirlsschool.edu.bd
@@ -246,9 +254,11 @@ mskm.edu.bd
 mssbrfm.edu.bd
 mtisf.edu.bd
 muam.edu.bd
+muksudpurnews24.snbghs.edu.bd
 muss.edu.bd
 mydm.edu.bd
 nam.edu.bd
+nanupurhighschool.edu.bd
 nathullabadhs.edu.bd
 nayakandahamidalihighschool.edu.bd
 nbidyaniketon.edu.bd
@@ -258,6 +268,7 @@ nist.edu.bd
 nmdhs.edu.bd
 office.bgeju.edu.bd
 oietnarsingdi.edu.bd
+oxfordacademy.edu.bd
 panthichilaidsmctg.edu.bd
 paotanahatgirlshighschool.edu.bd
 patiljhaphighschool.edu.bd
@@ -266,6 +277,7 @@ pencilbox.edu.bd
 phdmkumarkhali.edu.bd
 photoframe.daffodilvarsity.edu.bd
 physics.tejgaoncollege.edu.bd
+pmsdm.edu.bd
 portal.doailhs.edu.bd
 portal.kbnhighschool.edu.bd
 portal.kgdcollege.edu.bd
@@ -297,6 +309,7 @@ s.siha.edu.bd
 s.tbgs.edu.bd
 sadarpurcollege.edu.bd
 sadmadrasah.edu.bd
+salammokbulhighschool.edu.bd
 sarajinihs.edu.bd
 sasc.edu.bd
 satbargahs.edu.bd
@@ -310,6 +323,7 @@ shankarbatighs.edu.bd
 shatadalgirlshs.edu.bd
 shibrampurhighschool.edu.bd
 shitalpurgimadrasha.edu.bd
+shyampurhmdcollege.edu.bd
 sifm.edu.bd
 sihs.edu.bd
 sitakundghs.edu.bd
@@ -347,6 +361,7 @@ webdisk.adsm.edu.bd
 webdisk.bishnupurhs.edu.bd
 webdisk.jskssc.edu.bd
 webdisk.kbuhs.edu.bd
+webdisk.mhblhs.edu.bd
 webdisk.miam.edu.bd
 webdisk.paotanahatgirlshighschool.edu.bd
 webdisk.sadarpurcollege.edu.bd
@@ -362,6 +377,7 @@ webmail.haranandapurhs.edu.bd
 webmail.jskssc.edu.bd
 webmail.kbuhs.edu.bd
 webmail.mandoil.edu.bd
+webmail.mhblhs.edu.bd
 webmail.miam.edu.bd
 webmail.paotanahatgirlshighschool.edu.bd
 webmail.sadarpurcollege.edu.bd
@@ -449,10 +465,12 @@ www.maidm.edu.bd
 www.mandoil.edu.bd
 www.marufit.xyz.icmc.edu.bd
 www.mgghighschool.edu.bd
+www.mhblhs.edu.bd
 www.miam.edu.bd
 www.minaltech.edu.bd
 www.mirpurhs.edu.bd
 www.mohisdanghagirlsschool.edu.bd
+www.muksudpurnews24.snbghs.edu.bd
 www.muss.edu.bd
 www.nbidyaniketon.edu.bd
 www.new.gusschool.edu.bd
@@ -479,6 +497,7 @@ www.s.siha.edu.bd
 www.s.tbgs.edu.bd
 www.sadarpurcollege.edu.bd
 www.sadmadrasah.edu.bd
+www.salammokbulhighschool.edu.bd
 www.sasc.edu.bd
 www.scpa.edu.bd.mmemorialcollege.edu.bd
 www.sdkm.edu.bd
