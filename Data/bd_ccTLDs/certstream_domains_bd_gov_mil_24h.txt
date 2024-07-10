@@ -9,6 +9,8 @@ cpanel.tseogulshan.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcontacts.tseogulshan.gov.bd
 dev.portal.dgme.gov.bd
+dev.shrdashboard.dghs.gov.bd
+eng.sarkaribanglacollege.gov.bd
 govtorder.afd.gov.bd
 hid.shrlive.dghs.gov.bd
 jamalpurpostal.gov.bd
@@ -17,8 +19,10 @@ kb10takakg.melandahbhata.gov.bd
 mail.tseogulshan.gov.bd
 matelehealth.gov.bd
 mci.shrlive.dghs.gov.bd
+merchant.ekpay.gov.bd
 ncpds.dae.gov.bd
 rhd.gov.bd
+rms.bscl.gov.bd
 shr.shrlive.dghs.gov.bd
 smartbangarawestup.gov.bd
 smartnabipur.gov.bd
@@ -34,6 +38,7 @@ vlan.cmpi.gov.bd
 webdisk.tseogulshan.gov.bd
 webmail.tseogulshan.gov.bd
 www.chandanpurup.gov.bd
+www.eng.sarkaribanglacollege.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartnabipur.gov.bd
