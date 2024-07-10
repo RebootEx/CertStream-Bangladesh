@@ -96,6 +96,7 @@ cpanel.hris.msdp.gov.bd
 cpanel.hris1.msdp.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.khagracharitsc.gov.bd
+cpanel.msdp.gov.bd
 cpanel.ngwc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
@@ -112,6 +113,7 @@ cpcalendars.hris.msdp.gov.bd
 cpcalendars.hris1.msdp.gov.bd
 cpcalendars.iras.bamis.gov.bd
 cpcalendars.khagracharitsc.gov.bd
+cpcalendars.msdp.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.tseogulshan.gov.bd
@@ -129,6 +131,7 @@ cpcontacts.hris.msdp.gov.bd
 cpcontacts.hris1.msdp.gov.bd
 cpcontacts.iras.bamis.gov.bd
 cpcontacts.khagracharitsc.gov.bd
+cpcontacts.msdp.gov.bd
 cpcontacts.ngwc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.tseogulshan.gov.bd
@@ -186,6 +189,7 @@ eng.sarkaribanglacollege.gov.bd
 enim.nnsop.gov.bd
 eocgeoportal.dncc.gov.bd
 equipment.scc.gov.bd
+erequ.mowr.gov.bd
 erp.bakshiganjpourashava.gov.bd
 eservice.pmeat.gov.bd
 esiraj.gov.bd
@@ -267,6 +271,7 @@ mail.hris.msdp.gov.bd
 mail.hris1.msdp.gov.bd
 mail.iras.bamis.gov.bd
 mail.khagracharitsc.gov.bd
+mail.msdp.gov.bd
 mail.ngwc.gov.bd
 mail.nicvd.gov.bd
 mail.ntrc.gameapp.gov.bd
@@ -296,6 +301,7 @@ mfsp.gov.bd
 mfstc.gov.bd
 mne.socialprotection.gov.bd
 mopa.gov.bd
+msdp.gov.bd
 mspvawpre.mspvaw.gov.bd
 mujibjigyasa.gov.bd
 muktopaath.gov.bd
@@ -456,6 +462,7 @@ webdisk.hris.msdp.gov.bd
 webdisk.hris1.msdp.gov.bd
 webdisk.iras.bamis.gov.bd
 webdisk.khagracharitsc.gov.bd
+webdisk.msdp.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.tseogulshan.gov.bd
@@ -475,6 +482,7 @@ webmail.hris.msdp.gov.bd
 webmail.hris1.msdp.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.khagracharitsc.gov.bd
+webmail.msdp.gov.bd
 webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
 webmail.tseogulshan.gov.bd
@@ -559,6 +567,7 @@ www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
 www.media.bmp.gov.bd
 www.meherpara.narsingdilg.gov.bd
+www.msdp.gov.bd
 www.mspvawpre.mspvaw.gov.bd
 www.mujibjigyasa.gov.bd
 www.news.dcarangpur.gov.bd
