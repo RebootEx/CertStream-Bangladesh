@@ -1,13 +1,17 @@
 api.ncpds.dae.gov.bd
 autodiscover.tseogulshan.gov.bd
+bepza.gov.bd
 birampurpaurashava.gov.bd
+bsachittagong.gov.bd
 bvc.gov.bd
 cafolaw.gov.bd
 caforeligious.gov.bd
 chandanpurup.gov.bd
+cpanel.bepza.gov.bd
 cpanel.tseogulshan.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcontacts.tseogulshan.gov.bd
+demo.kabinazrulcollege.gov.bd
 dev.portal.dgme.gov.bd
 dev.shrdashboard.dghs.gov.bd
 eng.sarkaribanglacollege.gov.bd
@@ -16,6 +20,7 @@ hid.shrlive.dghs.gov.bd
 jamalpurpostal.gov.bd
 kashianitsc.gov.bd
 kb10takakg.melandahbhata.gov.bd
+mail.bsachittagong.gov.bd
 mail.tseogulshan.gov.bd
 matelehealth.gov.bd
 mci.shrlive.dghs.gov.bd
@@ -37,7 +42,10 @@ va.dghs.gov.bd
 vlan.cmpi.gov.bd
 webdisk.tseogulshan.gov.bd
 webmail.tseogulshan.gov.bd
+www.bepza.gov.bd
+www.bsachittagong.gov.bd
 www.chandanpurup.gov.bd
+www.demo.kabinazrulcollege.gov.bd
 www.eng.sarkaribanglacollege.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.smartbangarawestup.gov.bd
