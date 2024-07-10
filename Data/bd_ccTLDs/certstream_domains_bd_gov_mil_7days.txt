@@ -8,9 +8,7 @@ admin.dc-khagrachhari.gov.bd
 admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 admin.msdp.gov.bd
-admin.tourismctg.gov.bd
 agent.cgbdsydney.gov.bd
-ahsanmanzilticket.gov.bd
 amarbangabandhu.gov.bd
 amr.cdc.gov.bd
 api-admin.ekshop.gov.bd
@@ -56,8 +54,6 @@ bmet.dev.niseee.gov.bd
 boalmaripaurashava.gov.bd
 bogurapolice.gov.bd
 borhamganjcollege.gov.bd
-bpmis.bsc.gov.bd
-brahmanbariamunicipality.gov.bd
 bsfmstu.gameapp.gov.bd
 btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
@@ -74,12 +70,10 @@ ccr.gov.bd
 cdc.gov.bd
 centraldhis.mohfw.gov.bd
 certificates.gov.bd
-cevappealdhaka2.gov.bd
 challenge.gov.bd
 chandanpurup.gov.bd
 charghatpaurashava.gov.bd
 chcpelearning.dghs.gov.bd
-chuadangacollege.gov.bd
 circle34.taxeszone2.gov.bd
 classvi.dinajpurboard.gov.bd
 cloud.ekshop.gov.bd
@@ -142,7 +136,6 @@ cpcontacts.upsylhetholdingtax.gov.bd
 cpcontacts.xiclassadmission.gov.bd
 cpcontacts.zsorangpur.gov.bd
 csc.dghs.gov.bd
-ctgtaxeszone2.gov.bd
 curriculum.gov.bd
 daesms.bamis.gov.bd
 dashboard.dghs.gov.bd
@@ -178,7 +171,6 @@ dscc.gov.bd
 dttti.gov.bd
 du.gameapp.gov.bd
 eacei.gov.bd
-ebrc.mil.bd
 ecc-beta.doe.gov.bd
 ecpdev.uru.gov.bd
 ecptrain.uru.gov.bd
@@ -213,7 +205,6 @@ freelancers.gov.bd
 gbrcr.gov.bd
 ggc.gov.bd
 ghabc.gov.bd
-ghtcb.melandahbhata.gov.bd
 gisfs.bpc.gov.bd
 gms.dscc.gov.bd
 gmscn.dac.gov.bd
@@ -233,7 +224,6 @@ hrm.sprangpur.gov.bd
 hrmddco.gov.bd
 hrmdss.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
-idea.gov.bd
 ikfmss.gov.bd
 info.dgda.gov.bd
 inheritance.dc-khagrachhari.gov.bd
@@ -244,7 +234,6 @@ jamalpurpostal.gov.bd
 jati.gov.bd
 jcbs.gov.bd
 jitsi.vc8.bcc.gov.bd
-job.bsc.gov.bd
 judiciary.gov.bd
 kalirbazarup.gov.bd
 karmasangsthanbank.gov.bd
@@ -260,10 +249,8 @@ lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 lms.pmo.gov.bd
 login.borhamganjcollege.gov.bd
-logistics.gov.bd
 logo.gov.bd
 lrms.gov.bd
-lutercharup.gov.bd
 mahzcollege.gov.bd
 maijdeetsc.gov.bd
 mail.admin.msdp.gov.bd
@@ -311,7 +298,6 @@ mopa.gov.bd
 mspvawpre.mspvaw.gov.bd
 mujibjigyasa.gov.bd
 muktopaath.gov.bd
-myclass.gov.bd
 mydocreader.gov.bd
 mymail.ekshop.gov.bd
 narsingdilg.gov.bd
@@ -344,7 +330,6 @@ oss.beza.gov.bd
 ossbscic.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
-panchagarhmunicipality.gov.bd
 parliament.gov.bd
 patgrammunicipality.gov.bd
 patiyapourashava.gov.bd
@@ -395,7 +380,6 @@ smartnabipur.gov.bd
 smartpurbadhairwestup.gov.bd
 smartramchandrapursouthup.gov.bd
 smef.ekpay.gov.bd
-smsbjri.gov.bd
 smsc.ekshop.gov.bd
 socialprotection.gov.bd
 soltrack.gov.bd
@@ -425,7 +409,6 @@ tcb.melandahbhata.gov.bd
 telehealth.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
-testimonials.gov.bd
 tm.dghs.gov.bd
 tourismctg.gov.bd
 tr.shrlive.dghs.gov.bd
@@ -503,12 +486,9 @@ www.academy.ekshop.gov.bd
 www.admin-mail.soms.gov.bd
 www.admin.dc-khagrachhari.gov.bd
 www.admin.msdp.gov.bd
-www.ahsanmanzilticket.gov.bd
 www.app.taxeszone4ctg.gov.bd
-www.apply.zpmoulvibazar.gov.bd
 www.ar.gameapp.gov.bd
 www.attendance.ekshop.gov.bd
-www.banaras.zpmoulvibazar.gov.bd
 www.bdrisdata.dcsherpurinfo.gov.bd
 www.bicsaa.gov.bd
 www.bmdbwcsrp.gov.bd
@@ -539,7 +519,6 @@ www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.dpl.gov.bd
 www.du.gameapp.gov.bd
-www.ebrc.mil.bd
 www.ecs.gov.bd
 www.ekshop.gov.bd
 www.ems.fgc.gov.bd
@@ -553,7 +532,6 @@ www.ezakat.gov.bd
 www.familycard.distgopalganj.gov.bd
 www.feedback.ekshop.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
-www.ghtcb.melandahbhata.gov.bd
 www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
@@ -569,8 +547,6 @@ www.kalirbazarup.gov.bd
 www.kashinagarup.comillalg.gov.bd
 www.khagracharitsc.gov.bd
 www.laksampourashava.gov.bd
-www.logistics.gov.bd
-www.lutercharup.gov.bd
 www.mail.gameapp.gov.bd
 www.mail.ntrc.gameapp.gov.bd
 www.mail.pbrlp.gov.bd
@@ -593,13 +569,11 @@ www.pirganjpourashava.gov.bd
 www.profile.rmch.gov.bd
 www.ramgatipourashava.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
-www.realestate.rpi.gov.bd
 www.register.gameapp.gov.bd
 www.residence.dc-khagrachhari.gov.bd
 www.result.fgc.gov.bd
 www.ric.gov.bd
 www.roadshow.sec.gov.bd
-www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
 www.sggsc.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
@@ -616,7 +590,6 @@ www.sp-server.rpi.gov.bd
 www.staging.shift.gov.bd
 www.startupsummit.gov.bd
 www.student-portal.rpi.gov.bd
-www.sums-apis.rpi.gov.bd
 www.tcb.melandahbhata.gov.bd
 www.test.gameapp.gov.bd
 www.test.rpi.gov.bd
@@ -640,6 +613,5 @@ www.zsorangpur.gov.bd
 xiclassadmission.gov.bd
 zpgazipur.gov.bd
 zplakshmipur.gov.bd
-zpmoulvibazar.gov.bd
 zsorajshahi.gov.bd
 zsorangpur.gov.bd
