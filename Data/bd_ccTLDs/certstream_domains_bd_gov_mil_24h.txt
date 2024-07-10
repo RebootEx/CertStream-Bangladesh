@@ -1,6 +1,8 @@
 aclandbarisalsadar.gov.bd
 api.ncpds.dae.gov.bd
+autodiscover.bamis.gov.bd
 autodiscover.tseogulshan.gov.bd
+bamis.gov.bd
 bepza.gov.bd
 birampurpaurashava.gov.bd
 bsachittagong.gov.bd
@@ -8,9 +10,12 @@ bvc.gov.bd
 cafolaw.gov.bd
 caforeligious.gov.bd
 chandanpurup.gov.bd
+cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.tseogulshan.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.tseogulshan.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.tseogulshan.gov.bd
 demo.kabinazrulcollege.gov.bd
 deopanchagarh.gov.bd
@@ -57,6 +62,7 @@ verification.mfacademy.gov.bd
 vlan.cmpi.gov.bd
 webdisk.tseogulshan.gov.bd
 webmail.tseogulshan.gov.bd
+www.bamis.gov.bd
 www.bepza.gov.bd
 www.bsachittagong.gov.bd
 www.chandanpurup.gov.bd
