@@ -193,6 +193,7 @@ autodiscover.dapnazrulislamcollege.edu.bd
 autodiscover.dee.edu.bd
 autodiscover.dipshikhahs.edu.bd
 autodiscover.dssdc.edu.bd
+autodiscover.fakiruddinsc.edu.bd
 autodiscover.fpghschool.edu.bd
 autodiscover.gahschool.edu.bd
 autodiscover.govtnacollege.edu.bd
@@ -453,6 +454,7 @@ bmdm.edu.bd
 bmdmadrasah.edu.bd
 bmekhs.edu.bd
 bmghschool-mk.edu.bd
+bmhc.edu.bd
 bmhsc.edu.bd
 bmhsfeni.edu.bd
 bmlhighschool.edu.bd
@@ -664,6 +666,7 @@ cpanel.dee.edu.bd
 cpanel.difmad.edu.bd
 cpanel.dipshikhahs.edu.bd
 cpanel.dssdc.edu.bd
+cpanel.fakiruddinsc.edu.bd
 cpanel.fpghschool.edu.bd
 cpanel.gahschool.edu.bd
 cpanel.gchhs.edu.bd
@@ -815,6 +818,7 @@ cpcalendars.dee.edu.bd
 cpcalendars.difmad.edu.bd
 cpcalendars.dipshikhahs.edu.bd
 cpcalendars.dssdc.edu.bd
+cpcalendars.fakiruddinsc.edu.bd
 cpcalendars.fpghschool.edu.bd
 cpcalendars.gahschool.edu.bd
 cpcalendars.gchhs.edu.bd
@@ -953,6 +957,7 @@ cpcontacts.dee.edu.bd
 cpcontacts.difmad.edu.bd
 cpcontacts.dipshikhahs.edu.bd
 cpcontacts.dssdc.edu.bd
+cpcontacts.fakiruddinsc.edu.bd
 cpcontacts.fpghschool.edu.bd
 cpcontacts.gahschool.edu.bd
 cpcontacts.gchhs.edu.bd
@@ -1275,6 +1280,7 @@ faba.edu.bd
 fafm.edu.bd
 faiyazscr.edu.bd
 fakhs.edu.bd
+fakiruddinsc.edu.bd
 farajicollege.edu.bd
 farajicollege.edu.bd.debipurhs.edu.bd
 faridpursugarmillshighschool.edu.bd
@@ -1594,6 +1600,7 @@ jiisti.edu.bd
 jimdm.edu.bd
 jimmadrasah.edu.bd
 jkgphs.edu.bd
+jmhsn.edu.bd
 jnukm.edu.bd
 jobs.presidencybd.edu.bd
 jogardiahs.edu.bd
@@ -1704,6 +1711,7 @@ kgfuhsac.edu.bd
 kgirlshs.edu.bd
 kgpbhs.edu.bd
 kgpghs.edu.bd
+kgphsc.edu.bd
 kguasg.edu.bd
 khalshmadrasha.edu.bd
 khamarbarihs.edu.bd
@@ -1959,6 +1967,7 @@ mail.doluahs.edu.bd
 mail.dpnkhs.edu.bd
 mail.dshtadi.edu.bd
 mail.dssdc.edu.bd
+mail.fakiruddinsc.edu.bd
 mail.farajicollege.edu.bd
 mail.fatehpurkghs.edu.bd
 mail.fatepurbhs.edu.bd
@@ -2239,6 +2248,7 @@ mmghs.edu.bd
 mmidm.edu.bd
 mmnr.edu.bd
 mmoznumiahacademy.edu.bd
+mms.kharkhoriadm.edu.bd
 mmsac.edu.bd
 mmsc.edu.bd
 mmv.edu.bd
@@ -2920,6 +2930,7 @@ skill.iitju.edu.bd
 skm.edu.bd
 skmadrasah.edu.bd
 skps.edu.bd
+sksia.edu.bd
 slot-gacor-gampang-menang.gccc.edu.bd
 smcraj.edu.bd
 smdmsat.edu.bd
@@ -2953,6 +2964,7 @@ snmajalilhs.edu.bd
 sofolab.daffodilvarsity.edu.bd
 software.paglahighschool.edu.bd
 solemanazirhighschool.edu.bd
+solveits.maeti.edu.bd
 somipuridm.edu.bd
 sonagazigirlsphs.edu.bd
 sonailtalaabsdm.edu.bd
@@ -2993,6 +3005,7 @@ ssr.bsmrstu.edu.bd
 ssrghs.edu.bd
 ssrm.edu.bd
 ssrtscsanthia.edu.bd
+sssb.edu.bd
 sssgstk.edu.bd
 sstactapobanhs.edu.bd
 stage.kuriau.edu.bd
@@ -3007,6 +3020,8 @@ sub.smfm.edu.bd
 subratismhs.edu.bd
 sufalakatihighschool.edu.bd
 sugc.edu.bd
+suhss.edu.bd
+sujapurgovmhs.edu.bd
 sullagovtcollege.edu.bd
 sultangonjhighschool.edu.bd
 sultanpurhighschool.edu.bd
@@ -3047,6 +3062,7 @@ tecn.edu.bd
 tejgaoncollege.edu.bd
 tengarcharraziakaderahs.edu.bd
 tengrahs.edu.bd
+tenthuliahighschool.edu.bd
 tepriganjhighschool.edu.bd
 test.autodiscover.manjurahmedhs.edu.bd
 test.gsshs129875.edu.bd
@@ -3170,6 +3186,7 @@ webdisk.dee.edu.bd
 webdisk.difmad.edu.bd
 webdisk.dipshikhahs.edu.bd
 webdisk.dssdc.edu.bd
+webdisk.fakiruddinsc.edu.bd
 webdisk.fpghschool.edu.bd
 webdisk.gahschool.edu.bd
 webdisk.gchhs.edu.bd
@@ -3313,6 +3330,7 @@ webmail.dee.edu.bd
 webmail.difmad.edu.bd
 webmail.dipshikhahs.edu.bd
 webmail.dssdc.edu.bd
+webmail.fakiruddinsc.edu.bd
 webmail.fpghschool.edu.bd
 webmail.gahschool.edu.bd
 webmail.gchhs.edu.bd
@@ -3722,6 +3740,7 @@ www.erp.ishwarganjgovtcollege.edu.bd
 www.erp.primeasia.edu.bd
 www.estv.site.nhahs.edu.bd
 www.exam.ssnic.edu.bd
+www.fakiruddinsc.edu.bd
 www.farajicollege.edu.bd
 www.farajicollege.edu.bd.debipurhs.edu.bd
 www.fatehpurkghs.edu.bd
@@ -3995,6 +4014,7 @@ www.misam.edu.bd
 www.mit.edu.bd
 www.mkcollege.edu.bd
 www.mmcollege.edu.bd
+www.mms.kharkhoriadm.edu.bd
 www.mmsac.edu.bd
 www.model.mmsc.edu.bd
 www.modelacademy.edu.bd
@@ -4272,6 +4292,7 @@ www.snhsbr.edu.bd
 www.sofolab.daffodilvarsity.edu.bd
 www.soft.afanullahhs.edu.bd
 www.software.paglahighschool.edu.bd
+www.solveits.maeti.edu.bd
 www.sonagazigirlsphs.edu.bd
 www.sondhan24.snbghs.edu.bd
 www.southsjhs.edu.bd
