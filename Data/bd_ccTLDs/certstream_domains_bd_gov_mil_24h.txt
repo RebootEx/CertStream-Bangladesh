@@ -1,3 +1,4 @@
+admin.mbgc.gov.bd
 apps.bgb.gov.bd
 autodiscover.bamis.gov.bd
 bamis.gov.bd
@@ -28,7 +29,9 @@ digrajshahirange.gov.bd
 dumainup.faridpurlg.gov.bd
 ecptest.uru.gov.bd
 eocgeoportal.dncc.gov.bd
+esales.banglaacademy.gov.bd
 etds.gov.bd
+files.mbgc.gov.bd
 fpcsqit.dgfp.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 hscresult1.bise-ctg.gov.bd
@@ -38,6 +41,7 @@ laravel.sfcair.gov.bd
 lsb.gov.bd
 mail.bsiedu.gov.bd
 marriage.gov.bd
+mbgc.gov.bd
 nccrfhd.gov.bd
 nlp.gov.bd
 noc.kda.gov.bd
