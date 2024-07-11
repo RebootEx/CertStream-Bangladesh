@@ -1,3 +1,4 @@
+apps.bgb.gov.bd
 autodiscover.bamis.gov.bd
 bamis.gov.bd
 bangla.srngih.gov.bd
@@ -8,13 +9,16 @@ bhairabmunicipality.gov.bd
 bharellasouthup.gov.bd
 birganjpaurashava.gov.bd
 bise-ctg.gov.bd
+brta1.bpodms.gov.bd
 btclwifihotspot.gov.bd
 ccms.gov.bd
+cp.kda.gov.bd
 cpanel.bamis.gov.bd
 cpcalendars.bamis.gov.bd
 cpcontacts.bamis.gov.bd
 crm.btrc.gov.bd
 deodinajpur.gov.bd
+digrajshahirange.gov.bd
 ecptest.uru.gov.bd
 etds.gov.bd
 fpcsqit.dgfp.gov.bd
@@ -23,6 +27,8 @@ kjtsc.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 marriage.gov.bd
+nlp.gov.bd
+noc.kda.gov.bd
 notarypublic.gov.bd
 onlineadmission.bise-ctg.gov.bd
 patharghatapourashava.gov.bd
@@ -33,6 +39,7 @@ smms.fid.gov.bd
 soltrack.gov.bd
 training.distgopalganj.gov.bd
 ulipurmunicipality.gov.bd
+upms.ugc.gov.bd
 vcbig.bcc.gov.bd
 verification.mfacademy.gov.bd
 www.bamis.gov.bd
@@ -41,9 +48,11 @@ www.bdris.melandahbhata.gov.bd
 www.beautifulbangladesh.gov.bd
 www.bharellasouthup.gov.bd
 www.btclwifihotspot.gov.bd
+www.digrajshahirange.gov.bd
 www.etds.gov.bd
 www.laravel.sfcair.gov.bd
 www.marriage.gov.bd
+www.nlp.gov.bd
 www.notarypublic.gov.bd
 www.php.sonagazicollege.gov.bd
 www.soltrack.gov.bd
