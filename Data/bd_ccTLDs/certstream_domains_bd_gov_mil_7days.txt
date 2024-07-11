@@ -2,6 +2,7 @@
 2023-24.accounts.bise-ctg.gov.bd
 2apbn.gov.bd
 academy.ekshop.gov.bd
+aclandbarisalsadar.gov.bd
 admin-mail.soms.gov.bd
 admin.cgbdsydney.gov.bd
 admin.dc-khagrachhari.gov.bd
@@ -19,11 +20,13 @@ api.bscl.gov.bd
 api.career.nwpgcl.gov.bd
 api.ekpass.gov.bd
 api.freelancers.gov.bd
+api.ncpds.dae.gov.bd
 api.sacp.dae.gov.bd
 api.spellcheck.bangla.gov.bd
 app.dghs.gov.bd
 ar.gameapp.gov.bd
 attendance.ekshop.gov.bd
+autodiscover.bamis.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.iras.bamis.gov.bd
@@ -33,6 +36,7 @@ autodiscover.tseogulshan.gov.bd
 award.imli.gov.bd
 back.socialprotection.gov.bd
 backend.career.nwpgcl.gov.bd
+bamis.gov.bd
 bangladeshcustoms.gov.bd
 barisalboard.gov.bd
 bbms.dghs.gov.bd
@@ -48,6 +52,7 @@ bh410mwccpp.nwpgcl.gov.bd
 bhairabmunicipality.gov.bd
 bicsaa.gov.bd
 biman.ekpay.gov.bd
+birampurpaurashava.gov.bd
 bise-ctg.gov.bd
 bmdbwcsrp.gov.bd
 bmet.dev.niseee.gov.bd
@@ -61,7 +66,10 @@ bsfmstu.gameapp.gov.bd
 btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
 burichangsadarup.gov.bd
+bvc.gov.bd
 bvcdoctor.bvc.gov.bd
+cafolaw.gov.bd
+caforeligious.gov.bd
 cafowater.gov.bd
 career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
@@ -88,6 +96,8 @@ controlroom.dghs.gov.bd
 corona.gov.bd
 cp.kda.gov.bd
 cpanel.admin.msdp.gov.bd
+cpanel.bamis.gov.bd
+cpanel.bepza.gov.bd
 cpanel.bicsaa.gov.bd
 cpanel.bmdbwcsrp.gov.bd
 cpanel.ccr.gov.bd
@@ -106,6 +116,7 @@ cpanel.upsylhetholdingtax.gov.bd
 cpanel.xiclassadmission.gov.bd
 cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.cocc.gov.bd
@@ -124,6 +135,7 @@ cpcalendars.upsylhetholdingtax.gov.bd
 cpcalendars.xiclassadmission.gov.bd
 cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.cocc.gov.bd
@@ -158,6 +170,7 @@ demo.kabinazrulcollege.gov.bd
 dengue.gov.bd
 deodinajpur.gov.bd
 deopanchagarh.gov.bd
+dev.portal.dgme.gov.bd
 dev.shrdashboard.dghs.gov.bd
 develop.aaic.aaic.gov.bd
 dfsrcaab.gov.bd
@@ -182,6 +195,7 @@ ecc-beta.doe.gov.bd
 ecpdev.uru.gov.bd
 ecptrain.uru.gov.bd
 ecs.gov.bd
+edp.gov.bd
 edu.bd.gbrcr.gov.bd
 eduhub.gov.bd
 egov.cabinet.gov.bd
@@ -197,6 +211,7 @@ erp.bakshiganjpourashava.gov.bd
 eservice.pmeat.gov.bd
 esiraj.gov.bd
 estore.bsc.gov.bd
+etds.gov.bd
 exam-management-hsc2024.dinajpurboard.gov.bd
 exam.noipunno.gov.bd
 ezakat.gov.bd
@@ -216,6 +231,7 @@ ghabc.gov.bd
 gisfs.bpc.gov.bd
 gms.dscc.gov.bd
 gmscn.dac.gov.bd
+govtorder.afd.gov.bd
 gpufp.gov.bd
 grsreport.karmasangsthanbank.gov.bd
 hajipurup.narsingdilg.gov.bd
@@ -245,7 +261,9 @@ jitsi.vc8.bcc.gov.bd
 judiciary.gov.bd
 kalirbazarup.gov.bd
 karmasangsthanbank.gov.bd
+kashianitsc.gov.bd
 kashinagarup.comillalg.gov.bd
+kb10takakg.melandahbhata.gov.bd
 khagracharitsc.gov.bd
 kiosk.cgbdsydney.gov.bd
 kkcp.gov.bd
@@ -294,6 +312,7 @@ manirampurmunicipality.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 marmch.gov.bd
+marriage.gov.bd
 matelehealth.gov.bd
 mbgc.gov.bd
 mci.shrlive.dghs.gov.bd
@@ -304,6 +323,7 @@ merchant.ekpay.gov.bd
 mfsp.gov.bd
 mfstc.gov.bd
 mne.socialprotection.gov.bd
+monitoring.landzoning.gov.bd
 mopa.gov.bd
 msdp.gov.bd
 mspvawpre.mspvaw.gov.bd
@@ -315,6 +335,7 @@ narsingdilg.gov.bd
 nazipurpourashava.gov.bd
 ncc.gov.bd
 nccrfhd.gov.bd
+ncpds.dae.gov.bd
 news.dcarangpur.gov.bd
 ngmc.gov.bd
 ngosavar.gov.bd
@@ -325,6 +346,7 @@ niseee.gov.bd
 nnsop.gov.bd
 noc.kda.gov.bd
 noipunno.gov.bd
+notarypublic.gov.bd
 nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
 nttc.gov.bd
@@ -343,6 +365,7 @@ pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
 parliament.gov.bd
 patgrammunicipality.gov.bd
+patharghatapourashava.gov.bd
 patiyapourashava.gov.bd
 payment.ekshop.gov.bd
 pensionfacerecognition.finance.gov.bd
@@ -400,6 +423,7 @@ sonali-e-sheba.dinajpurboard.gov.bd
 sonod.gov.bd
 sonod.scc.gov.bd
 spi.gov.bd
+sprangpur.gov.bd
 srdl.gov.bd
 ssf.gov.bd
 ssmcmh.gov.bd
@@ -434,10 +458,13 @@ trainingmq.apamsv3.cabinet.gov.bd
 trainingpdf.apamsv3.cabinet.gov.bd
 tsc.gov.bd
 tseogulshan.gov.bd
+tulasar.uniontax.gov.bd
 turn.vc8.bcc.gov.bd
 tvr.bscl.gov.bd
 uccbrdbshyamnagar.gov.bd
+ugv2024.gnc.gov.bd
 uniontax.gov.bd
+unobagerhatsadar.gov.bd
 unonagarkanda.gov.bd
 upms.ugc.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -446,8 +473,10 @@ upsonod.com.melandahbhata.gov.bd
 upsylhetholdingtax.gov.bd
 useomadhukhali.gov.bd
 uzpseba.gov.bd
+va.dghs.gov.bd
 vaxepi.gov.bd
 vcsavar.gov.bd
+verification.mfacademy.gov.bd
 verify-network.ekshop.gov.bd
 vimruli.gov.bd
 vlan.cmpi.gov.bd
@@ -505,7 +534,9 @@ www.admin.msdp.gov.bd
 www.app.taxeszone4ctg.gov.bd
 www.ar.gameapp.gov.bd
 www.attendance.ekshop.gov.bd
+www.bamis.gov.bd
 www.bdrisdata.dcsherpurinfo.gov.bd
+www.bepza.gov.bd
 www.bicsaa.gov.bd
 www.bmdbwcsrp.gov.bd
 www.bogurapolice.gov.bd
@@ -546,6 +577,7 @@ www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.eservice.pmeat.gov.bd
 www.estore.bsc.gov.bd
+www.etds.gov.bd
 www.exam.noipunno.gov.bd
 www.ezakat.gov.bd
 www.familycard.distgopalganj.gov.bd
@@ -565,6 +597,7 @@ www.iras.bamis.gov.bd
 www.job.bsc.gov.bd
 www.kalirbazarup.gov.bd
 www.kashinagarup.comillalg.gov.bd
+www.kb10takakg.melandahbhata.gov.bd
 www.khagracharitsc.gov.bd
 www.laksampourashava.gov.bd
 www.mail.gameapp.gov.bd
@@ -573,14 +606,17 @@ www.mail.pbrlp.gov.bd
 www.mail.soms.gov.bd
 www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
+www.marriage.gov.bd
 www.media.bmp.gov.bd
 www.meherpara.narsingdilg.gov.bd
+www.monitoring.landzoning.gov.bd
 www.msdp.gov.bd
 www.mspvawpre.mspvaw.gov.bd
 www.mujibjigyasa.gov.bd
 www.news.dcarangpur.gov.bd
 www.ngwc.gov.bd
 www.nicvd.gov.bd
+www.notarypublic.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
@@ -603,6 +639,7 @@ www.smartbangarawestup.gov.bd
 www.smartnabipur.gov.bd
 www.smartpurbadhairwestup.gov.bd
 www.smartramchandrapursouthup.gov.bd
+www.soltrack.gov.bd
 www.soms.gov.bd
 www.sonod.scc.gov.bd
 www.sp-apis.rpi.gov.bd
@@ -618,6 +655,7 @@ www.test.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.tourismctg.gov.bd
 www.tseogulshan.gov.bd
+www.ugv2024.gnc.gov.bd
 www.unonagarkanda.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
 www.upsylhetholdingtax.gov.bd
