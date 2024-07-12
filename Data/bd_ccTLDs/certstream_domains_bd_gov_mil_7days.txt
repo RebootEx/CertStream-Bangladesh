@@ -9,6 +9,7 @@ admin.cgbdsydney.gov.bd
 admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 admin.msdp.gov.bd
+agecorrection.dinajpurboard.gov.bd
 agent.cgbdsydney.gov.bd
 amarbangabandhu.gov.bd
 api-admin.ekshop.gov.bd
@@ -32,6 +33,7 @@ autodiscover.iras.bamis.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 autodiscover.tseogulshan.gov.bd
+autodiscover.urp.gov.bd
 award.imli.gov.bd
 back.socialprotection.gov.bd
 backend.career.nwpgcl.gov.bd
@@ -115,6 +117,7 @@ cpanel.ngwc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
+cpanel.urp.gov.bd
 cpanel.xiclassadmission.gov.bd
 cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
@@ -134,6 +137,7 @@ cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.unonagarkanda.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
+cpcalendars.urp.gov.bd
 cpcalendars.xiclassadmission.gov.bd
 cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
@@ -153,6 +157,7 @@ cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.tseogulshan.gov.bd
 cpcontacts.unonagarkanda.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
+cpcontacts.urp.gov.bd
 cpcontacts.xiclassadmission.gov.bd
 cpcontacts.zsorangpur.gov.bd
 crm.btrc.gov.bd
@@ -389,6 +394,7 @@ mail.tici.gov.bd
 mail.tseogulshan.gov.bd
 mail.unonagarkanda.gov.bd
 mail.upsylhetholdingtax.gov.bd
+mail.urp.gov.bd
 mail.waqf.gov.bd
 mail.warpo.gov.bd
 mail.xiclassadmission.gov.bd
@@ -539,6 +545,7 @@ upmymensinghholdingtax.gov.bd
 upsebarajshahidiv.gov.bd
 upsonod.com.melandahbhata.gov.bd
 upsylhetholdingtax.gov.bd
+urp.gov.bd
 useomadhukhali.gov.bd
 uzpseba.gov.bd
 va.dghs.gov.bd
@@ -569,6 +576,7 @@ webdisk.patgrammunicipality.gov.bd
 webdisk.tseogulshan.gov.bd
 webdisk.unonagarkanda.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
+webdisk.urp.gov.bd
 webdisk.xiclassadmission.gov.bd
 webdisk.zsorangpur.gov.bd
 webmail.admin.msdp.gov.bd
@@ -589,6 +597,7 @@ webmail.pbrlp.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.unonagarkanda.gov.bd
 webmail.upsylhetholdingtax.gov.bd
+webmail.urp.gov.bd
 webmail.xiclassadmission.gov.bd
 webmail.zsorangpur.gov.bd
 wp.kmpi.gov.bd
@@ -650,6 +659,7 @@ www.feedback.ekshop.gov.bd
 www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
 www.hajipurup.narsingdilg.gov.bd
+www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hijli.distgopalganj.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
@@ -721,6 +731,7 @@ www.ugv2024.gnc.gov.bd
 www.unonagarkanda.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
 www.upsylhetholdingtax.gov.bd
+www.urp.gov.bd
 www.verify-network.ekshop.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
