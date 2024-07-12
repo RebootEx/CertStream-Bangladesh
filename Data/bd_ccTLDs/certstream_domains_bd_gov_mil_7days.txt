@@ -41,7 +41,6 @@ barisalboard.gov.bd
 bbms.dghs.gov.bd
 bbuasm.gov.bd
 bcc-ca.gov.bd
-bdhckl.gov.bd
 bdpost.gov.bd
 bdris.melandahbhata.gov.bd
 beautifulbangladesh.gov.bd
@@ -61,7 +60,6 @@ bmdbwcsrp.gov.bd
 bmet.dev.niseee.gov.bd
 boalmaripaurashava.gov.bd
 bogurapolice.gov.bd
-borhamganjcollege.gov.bd
 brta1.bpodms.gov.bd
 bsachittagong.gov.bd
 bsc.gov.bd
@@ -69,7 +67,6 @@ bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
 btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
-burichangsadarup.gov.bd
 bvc.gov.bd
 bvcdoctor.bvc.gov.bd
 cafolaw.gov.bd
@@ -92,7 +89,6 @@ chcpelearning.dghs.gov.bd
 circle34.taxeszone2.gov.bd
 classvi.dinajpurboard.gov.bd
 cloud.ekshop.gov.bd
-cocc.gov.bd
 college-efiling.dinajpurboard.gov.bd
 commission.ekshop.gov.bd
 contacts.rmch.gov.bd
@@ -106,7 +102,6 @@ cpanel.bepza.gov.bd
 cpanel.bicsaa.gov.bd
 cpanel.bmdbwcsrp.gov.bd
 cpanel.ccr.gov.bd
-cpanel.cocc.gov.bd
 cpanel.dfsrcaab.gov.bd
 cpanel.dgca58.gov.bd
 cpanel.hris.msdp.gov.bd
@@ -124,7 +119,6 @@ cpcalendars.admin.msdp.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.ccr.gov.bd
-cpcalendars.cocc.gov.bd
 cpcalendars.dfsrcaab.gov.bd
 cpcalendars.dgca58.gov.bd
 cpcalendars.hris.msdp.gov.bd
@@ -143,7 +137,6 @@ cpcontacts.admin.msdp.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
 cpcontacts.ccr.gov.bd
-cpcontacts.cocc.gov.bd
 cpcontacts.dfsrcaab.gov.bd
 cpcontacts.dgca58.gov.bd
 cpcontacts.hris.msdp.gov.bd
@@ -183,9 +176,7 @@ dgca58.gov.bd
 dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
-digitalsignature.cca.gov.bd
 digrajshahirange.gov.bd
-dmc.fima.gov.bd
 dmch.gov.bd
 dms.cca.gov.bd
 dns.ekshop.gov.bd
@@ -233,7 +224,6 @@ gbrcr.gov.bd
 ggc.gov.bd
 ghabc.gov.bd
 gisfs.bpc.gov.bd
-gms.dscc.gov.bd
 gmscn.dac.gov.bd
 govtorder.afd.gov.bd
 hajipurup.narsingdilg.gov.bd
@@ -267,9 +257,6 @@ kb10takakg.melandahbhata.gov.bd
 khagracharitsc.gov.bd
 kiosk.cgbdsydney.gov.bd
 kjtsc.gov.bd
-kkcp.gov.bd
-kmhc.gov.bd
-konnakotha.cca.gov.bd
 laksampourashava.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
@@ -325,7 +312,6 @@ mail.cdb.gov.bd
 mail.cgdf.gov.bd
 mail.cirt.gov.bd
 mail.cmsd.gov.bd
-mail.cocc.gov.bd
 mail.cpgcbl.gov.bd
 mail.dbhwd.gov.bd
 mail.dfp.gov.bd
@@ -419,7 +405,6 @@ mne.socialprotection.gov.bd
 monitoring.landzoning.gov.bd
 mopa.gov.bd
 msdp.gov.bd
-mspvawpre.mspvaw.gov.bd
 mujibjigyasa.gov.bd
 muktopaath.gov.bd
 mydocreader.gov.bd
@@ -439,9 +424,7 @@ noipunno.gov.bd
 notarypublic.gov.bd
 nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
-nuralapur.narsingdilg.gov.bd
 nuralapurup.narsingdilg.gov.bd
-oaf.comillaboard.gov.bd
 ocei.gov.bd
 office.doe.gov.bd
 old.dghs.gov.bd
@@ -452,12 +435,9 @@ oss.beza.gov.bd
 ossbscic.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
-parliament.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 patiyapourashava.gov.bd
-payment.ekshop.gov.bd
-pensionfacerecognition.finance.gov.bd
 phfis.dghs.gov.bd
 php.sonagazicollege.gov.bd
 pirganjpourashava.gov.bd
@@ -482,12 +462,9 @@ sandbox.dife.gov.bd
 santhiapaurashava.gov.bd
 sarishabaripourashava.gov.bd
 satkhirademo.gov.bd
-satkhirapolice.gov.bd
-sccdc.scc.gov.bd
 sch-efiling.dinajpurboard.gov.bd
 school-efiling.dinajpurboard.gov.bd
 senbagcollege.gov.bd
-service.hbri.gov.bd
 services.cgbdsydney.gov.bd
 sggsc.gov.bd
 sheikhrusseldigitallab.gov.bd
@@ -496,7 +473,6 @@ shmcht.gov.bd
 shop.cirt.gov.bd
 shr.shrlive.dghs.gov.bd
 sla.gov.bd
-smartavijogbox.gov.bd
 smartbangarawestup.gov.bd
 smarthaat.gov.bd
 smartnabipur.gov.bd
@@ -513,29 +489,23 @@ sonali-e-sheba.dinajpurboard.gov.bd
 sonod.gov.bd
 spi.gov.bd
 sprangpur.gov.bd
-srdl.gov.bd
 ssmcmh.gov.bd
 staging.shift.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
 startupsummit.gov.bd
-sundargonjpourashava.gov.bd
 support.noipunno.gov.bd
-sylhettsc.gov.bd
 tafaruqueschoolandcollege.gov.bd
 taherpurpourashava.gov.bd
 taxeszone17.gov.bd
 taxeszone22dhaka.gov.bd
 taxeszone24dhaka.gov.bd
-taxeszone4ctg.gov.bd
 taxeszone8dhaka.gov.bd
 taxeszonecumilla.gov.bd
-tca.cca.gov.bd
 tcb.melandahbhata.gov.bd
 telehealth.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
 tk.coxpoly.gov.bd
-tm.dghs.gov.bd
 tourismctg.gov.bd
 tr.shrlive.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
@@ -570,17 +540,14 @@ verification.mfacademy.gov.bd
 verify-network.ekshop.gov.bd
 vimruli.gov.bd
 vlan.cmpi.gov.bd
-vms.cocc.gov.bd
 vms.ugc.gov.bd
 vpland.munshiganjlg.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vrcbd.cmc.gov.bd
-vtti.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bmdbwcsrp.gov.bd
 webdisk.ccr.gov.bd
-webdisk.cocc.gov.bd
 webdisk.dfsrcaab.gov.bd
 webdisk.dgca58.gov.bd
 webdisk.hris.msdp.gov.bd
@@ -600,7 +567,6 @@ webmail.beza.gov.bd
 webmail.bicsaa.gov.bd
 webmail.bmdbwcsrp.gov.bd
 webmail.ccr.gov.bd
-webmail.cocc.gov.bd
 webmail.dfsrcaab.gov.bd
 webmail.dgca58.gov.bd
 webmail.hris.msdp.gov.bd
@@ -638,7 +604,6 @@ www.bsfmstu.gameapp.gov.bd
 www.bsiedu.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.btclwifihotspot.gov.bd
-www.burichangsadarup.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.ccms.gov.bd
 www.ccr.gov.bd
@@ -647,7 +612,6 @@ www.chandanpurup.gov.bd
 www.chcpelearning.dghs.gov.bd
 www.circle34.taxeszone2.gov.bd
 www.cloud.ekshop.gov.bd
-www.cocc.gov.bd
 www.commission.ekshop.gov.bd
 www.contacts.rmch.gov.bd
 www.curriculum.gov.bd
@@ -657,7 +621,6 @@ www.develop.aaic.aaic.gov.bd
 www.dfsrcaab.gov.bd
 www.dgca58.gov.bd
 www.digrajshahirange.gov.bd
-www.dmc.fima.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.dpl.gov.bd
@@ -700,17 +663,14 @@ www.media.bmp.gov.bd
 www.meherpara.narsingdilg.gov.bd
 www.monitoring.landzoning.gov.bd
 www.msdp.gov.bd
-www.mspvawpre.mspvaw.gov.bd
 www.mujibjigyasa.gov.bd
 www.ngwc.gov.bd
 www.nicvd.gov.bd
 www.nlp.gov.bd
 www.notarypublic.gov.bd
 www.ntrc.gameapp.gov.bd
-www.nuralapur.narsingdilg.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
-www.payment.ekshop.gov.bd
 www.php.sonagazicollege.gov.bd
 www.pirganjpourashava.gov.bd
 www.profile.rmch.gov.bd
@@ -752,7 +712,6 @@ www.verify-network.ekshop.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
 www.vimruli.gov.bd
-www.vms.cocc.gov.bd
 www.vpland.munshiganjlg.gov.bd
 www.vrcbd.cmc.gov.bd
 www.wp.kmpi.gov.bd
@@ -760,7 +719,6 @@ www.xiclassadmission.gov.bd
 www.zplakshmipur.gov.bd
 www.zsorangpur.gov.bd
 xiclassadmission.gov.bd
-zpgazipur.gov.bd
 zplakshmipur.gov.bd
 zsorajshahi.gov.bd
 zsorangpur.gov.bd
