@@ -110,6 +110,7 @@ cpanel.hris1.msdp.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.khagracharitsc.gov.bd
 cpanel.msdp.gov.bd
+cpanel.munshiganjlg.gov.bd
 cpanel.ngwc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
@@ -127,6 +128,7 @@ cpcalendars.hris1.msdp.gov.bd
 cpcalendars.iras.bamis.gov.bd
 cpcalendars.khagracharitsc.gov.bd
 cpcalendars.msdp.gov.bd
+cpcalendars.munshiganjlg.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.tseogulshan.gov.bd
@@ -145,6 +147,7 @@ cpcontacts.hris1.msdp.gov.bd
 cpcontacts.iras.bamis.gov.bd
 cpcontacts.khagracharitsc.gov.bd
 cpcontacts.msdp.gov.bd
+cpcontacts.munshiganjlg.gov.bd
 cpcontacts.ngwc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.tseogulshan.gov.bd
@@ -258,6 +261,7 @@ kb10takakg.melandahbhata.gov.bd
 khagracharitsc.gov.bd
 kiosk.cgbdsydney.gov.bd
 kjtsc.gov.bd
+kumargata.upmymensinghholdingtax.gov.bd
 laksampourashava.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
@@ -349,6 +353,7 @@ mail.lpgl.gov.bd
 mail.masscommunication.gov.bd
 mail.mpa.gov.bd
 mail.msdp.gov.bd
+mail.munshiganjlg.gov.bd
 mail.napd.gov.bd
 mail.nape.gov.bd
 mail.ngwc.gov.bd
@@ -408,6 +413,7 @@ mopa.gov.bd
 msdp.gov.bd
 mujibjigyasa.gov.bd
 muktopaath.gov.bd
+munshiganjlg.gov.bd
 mydocreader.gov.bd
 narsingdilg.gov.bd
 nazipurpourashava.gov.bd
@@ -506,6 +512,7 @@ tcb.melandahbhata.gov.bd
 telehealth.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
+testimonials.gov.bd
 tk.coxpoly.gov.bd
 tourismctg.gov.bd
 tr.shrlive.dghs.gov.bd
@@ -556,6 +563,7 @@ webdisk.hris1.msdp.gov.bd
 webdisk.iras.bamis.gov.bd
 webdisk.khagracharitsc.gov.bd
 webdisk.msdp.gov.bd
+webdisk.munshiganjlg.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.tseogulshan.gov.bd
@@ -575,6 +583,7 @@ webmail.hris1.msdp.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.khagracharitsc.gov.bd
 webmail.msdp.gov.bd
+webmail.munshiganjlg.gov.bd
 webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
 webmail.tseogulshan.gov.bd
@@ -652,6 +661,7 @@ www.kalirbazarup.gov.bd
 www.kashinagarup.comillalg.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.khagracharitsc.gov.bd
+www.kumargata.upmymensinghholdingtax.gov.bd
 www.laksampourashava.gov.bd
 www.laravel.sfcair.gov.bd
 www.mail.gameapp.gov.bd
@@ -666,6 +676,7 @@ www.meherpara.narsingdilg.gov.bd
 www.monitoring.landzoning.gov.bd
 www.msdp.gov.bd
 www.mujibjigyasa.gov.bd
+www.munshiganjlg.gov.bd
 www.ngwc.gov.bd
 www.nicvd.gov.bd
 www.nlp.gov.bd
