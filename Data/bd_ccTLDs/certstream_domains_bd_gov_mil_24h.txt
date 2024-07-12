@@ -1,6 +1,7 @@
 admin-mail.soms.gov.bd
 admin.msdp.gov.bd
 adminpanel.bise-ctg.gov.bd
+api-ictpolicy.ictd.gov.bd
 api.spellcheck.bangla.gov.bd
 ar.gameapp.gov.bd
 autodiscover.ccr.gov.bd
@@ -35,12 +36,15 @@ cpcontacts.ccr.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.hris.msdp.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
+dac.gov.bd
 dcsherpurinfo.gov.bd
+dmpi.gov.bd
 du.gameapp.gov.bd
 edu.bd.gbrcr.gov.bd
 effhsc.comillaboard.gov.bd
 epassport.gov.bd
 esales.banglaacademy.gov.bd
+exam-management-hsc2024.dinajpurboard.gov.bd
 hmis.uphcsdp.gov.bd
 hris.msdp.gov.bd
 info.dgda.gov.bd
@@ -67,6 +71,7 @@ pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
 patgrammunicipality.gov.bd
 pdf.bise-ctg.gov.bd
+polytech.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 register.gameapp.gov.bd
 rpmp.gov.bd
@@ -118,6 +123,7 @@ www.kumargata.upmymensinghholdingtax.gov.bd
 www.mail.soms.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
+www.sisrangpur.edu.bd.gbrcr.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
 www.soms.gov.bd
