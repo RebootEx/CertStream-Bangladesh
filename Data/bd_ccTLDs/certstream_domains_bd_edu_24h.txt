@@ -20,6 +20,7 @@ ambhschool.edu.bd
 amc.edu.bd
 amrdcollege.edu.bd
 amsc.edu.bd
+amtolyhsbir.edu.bd
 anmhs.edu.bd
 anupnagarhs.edu.bd
 aohs.edu.bd
@@ -42,6 +43,7 @@ autodiscover.dssmm.edu.bd
 autodiscover.eub.edu.bd
 autodiscover.fsnsc.edu.bd
 autodiscover.kutigirlshs.edu.bd
+autodiscover.nilimajakobcollege.edu.bd
 autodiscover.tpss.edu.bd
 autodiscover.ubss.edu.bd
 autodiscover.urkircharhs.edu.bd
@@ -138,6 +140,7 @@ cpanel.gchhs.edu.bd
 cpanel.gfm54.edu.bd
 cpanel.ghs106377.edu.bd
 cpanel.gplhs.edu.bd
+cpanel.hasdm.edu.bd
 cpanel.jgmphs.edu.bd
 cpanel.jmgmhs.edu.bd
 cpanel.kgahs.edu.bd
@@ -149,12 +152,14 @@ cpanel.mbucollege.edu.bd
 cpanel.mohaphs.edu.bd
 cpanel.msghs.edu.bd
 cpanel.najirpurtsc.edu.bd
+cpanel.nilimajakobcollege.edu.bd
 cpanel.nmdm.edu.bd
 cpanel.npsnk.edu.bd
 cpanel.pfdm.edu.bd
 cpanel.purbakakoirhs.edu.bd
 cpanel.rchs.edu.bd
 cpanel.saghspabna.edu.bd
+cpanel.smphs.edu.bd
 cpanel.sreemontapurmasatterhs.edu.bd
 cpanel.ssdc.edu.bd
 cpanel.tpss.edu.bd
@@ -199,6 +204,7 @@ cpcalendars.mbucollege.edu.bd
 cpcalendars.mohaphs.edu.bd
 cpcalendars.msghs.edu.bd
 cpcalendars.najirpurtsc.edu.bd
+cpcalendars.nilimajakobcollege.edu.bd
 cpcalendars.nmdm.edu.bd
 cpcalendars.npsnk.edu.bd
 cpcalendars.pfdm.edu.bd
@@ -248,6 +254,7 @@ cpcontacts.mbucollege.edu.bd
 cpcontacts.mohaphs.edu.bd
 cpcontacts.msghs.edu.bd
 cpcontacts.najirpurtsc.edu.bd
+cpcontacts.nilimajakobcollege.edu.bd
 cpcontacts.nmdm.edu.bd
 cpcontacts.npsnk.edu.bd
 cpcontacts.pfdm.edu.bd
@@ -263,6 +270,7 @@ cpcontacts.verendihs.edu.bd
 cpscnatore.edu.bd
 csasc.edu.bd
 csealumni.bubt.edu.bd
+cths.edu.bd
 cti.edu.bd
 daghsc.edu.bd
 dapnazrulislamcollege.edu.bd
@@ -291,6 +299,7 @@ edu.bd.dangahighschool.edu.bd
 edu.bd.dhakhs.edu.bd
 edu.bd.drchs.edu.bd
 edu.bd.dwc.edu.bd
+elahabadcollege.edu.bd
 ems.csidm.edu.bd
 ems.parashuramidm.edu.bd
 enayetpurhighschool.edu.bd
@@ -298,6 +307,7 @@ erp.comillamodernhighschool.edu.bd
 eub.edu.bd
 faculty.ugv.edu.bd
 fatemahaiss.edu.bd
+foundation.igmis.edu.bd
 fsnsc.edu.bd
 fusdc.edu.bd
 gafurgonjss.edu.bd
@@ -317,11 +327,13 @@ gplhs.edu.bd
 gsc.edu.bd
 gub.edu.bd
 gwcollegepab.edu.bd
+hachs.edu.bd
 hakkanidsam.edu.bd
 hamccghs.edu.bd
 hamdarduniversity.edu.bd
 haphchharischool.edu.bd
 harishcharunionhighschoolandcollege.edu.bd
+hasdm.edu.bd
 hasnabadhs.edu.bd
 hatiyacollege.edu.bd
 hazrakatihs.edu.bd
@@ -339,6 +351,7 @@ ipv6.kutigirlshs.edu.bd
 isdmshy.edu.bd
 isdmshy.edu.bd.aaksac.edu.bd
 it.daffodilvarsity.edu.bd
+ius.edu.bd
 japhs.edu.bd
 jarcchs.edu.bd
 jashimuddin.edu.bd
@@ -367,6 +380,7 @@ kasbatalicollege.edu.bd
 kashiabarihs.edu.bd
 kazimontucollege.edu.bd
 kbghs.edu.bd
+kccghsc.edu.bd
 keshjanibn.edu.bd
 kgahs.edu.bd
 khabirurrahmancollege.edu.bd
@@ -382,6 +396,7 @@ kishorpurdm.edu.bd
 kmsnhs.edu.bd
 kmyousufali.edu.bd
 knfm.edu.bd
+kpsc.edu.bd
 krjrinstitution.edu.bd
 ktudm.edu.bd
 kutigirlshs.edu.bd
@@ -393,6 +408,7 @@ lfbhs.edu.bd
 library.amcb.edu.bd
 local.iist-mirpur.edu.bd
 lutfunnesa.edu.bd
+maauam.edu.bd
 madergonjschool.edu.bd
 mafm.edu.bd
 maidm.edu.bd
@@ -452,6 +468,7 @@ mail.motiharcollege.edu.bd
 mail.msghs.edu.bd
 mail.najirpurtsc.edu.bd
 mail.nidmnr.edu.bd
+mail.nilimajakobcollege.edu.bd
 mail.nmdm.edu.bd
 mail.npsnk.edu.bd
 mail.pfdm.edu.bd
@@ -460,7 +477,9 @@ mail.rahmatpurhs.edu.bd
 mail.ruakhs.edu.bd
 mail.saghspabna.edu.bd
 mail.sbpgc.edu.bd
+mail.shirajabadhighschool.edu.bd
 mail.skm.edu.bd
+mail.smphs.edu.bd
 mail.sreemontapurmasatterhs.edu.bd
 mail.ssdc.edu.bd
 mail.ssrghs.edu.bd
@@ -507,6 +526,7 @@ nghspaba.edu.bd
 nhsnil.edu.bd
 nidmnr.edu.bd
 nikhanrps.edu.bd
+nilimajakobcollege.edu.bd
 nist.edu.bd
 nistnatore.edu.bd
 niter.edu.bd
@@ -515,6 +535,7 @@ njmab.edu.bd
 nmdm.edu.bd
 noticeboard.diu.edu.bd
 npsnk.edu.bd
+office.cub.edu.bd
 one.karimpurkkbhs.edu.bd
 panhhs.edu.bd
 parashuramidm.edu.bd
@@ -569,6 +590,7 @@ shankhalaam.edu.bd
 shasanparhighschool.edu.bd
 shimrailhs.edu.bd
 shimrailhs.edu.bd.dwc.edu.bd
+shirajabadhighschool.edu.bd
 shkm.edu.bd
 sibacs.edu.bd
 silverbells.edu.bd
@@ -577,8 +599,10 @@ skill.iitju.edu.bd
 skm.edu.bd
 smahs.edu.bd
 smc69.edu.bd
+smphs.edu.bd
 snccghs.edu.bd
 snmajalilhs.edu.bd
+sonaimurighs.edu.bd
 sreemontapurmasatterhs.edu.bd
 srhs.edu.bd
 srpdc.edu.bd
@@ -629,6 +653,7 @@ webdisk.gchhs.edu.bd
 webdisk.gfm54.edu.bd
 webdisk.ghs106377.edu.bd
 webdisk.gplhs.edu.bd
+webdisk.hasdm.edu.bd
 webdisk.jgmphs.edu.bd
 webdisk.jmgmhs.edu.bd
 webdisk.kgahs.edu.bd
@@ -640,11 +665,13 @@ webdisk.mbucollege.edu.bd
 webdisk.mohaphs.edu.bd
 webdisk.msghs.edu.bd
 webdisk.najirpurtsc.edu.bd
+webdisk.nilimajakobcollege.edu.bd
 webdisk.nmdm.edu.bd
 webdisk.npsnk.edu.bd
 webdisk.pfdm.edu.bd
 webdisk.purbakakoirhs.edu.bd
 webdisk.saghspabna.edu.bd
+webdisk.shirajabadhighschool.edu.bd
 webdisk.sreemontapurmasatterhs.edu.bd
 webdisk.ssdc.edu.bd
 webdisk.tpss.edu.bd
@@ -678,6 +705,7 @@ webmail.gchhs.edu.bd
 webmail.gfm54.edu.bd
 webmail.ghs106377.edu.bd
 webmail.gplhs.edu.bd
+webmail.hasdm.edu.bd
 webmail.jgmphs.edu.bd
 webmail.jmgmhs.edu.bd
 webmail.kgahs.edu.bd
@@ -689,6 +717,7 @@ webmail.mbucollege.edu.bd
 webmail.mohaphs.edu.bd
 webmail.msghs.edu.bd
 webmail.najirpurtsc.edu.bd
+webmail.nilimajakobcollege.edu.bd
 webmail.nmdm.edu.bd
 webmail.npsnk.edu.bd
 webmail.pfdm.edu.bd
@@ -769,9 +798,11 @@ www.ems.csidm.edu.bd
 www.ems.parashuramidm.edu.bd
 www.eub.edu.bd
 www.faculty.ugv.edu.bd
+www.foundation.igmis.edu.bd
 www.fsnsc.edu.bd
 www.gazipurmuslimhs.edu.bd.dwc.edu.bd
 www.gchhs.edu.bd
+www.gems.edu.bd
 www.gfm54.edu.bd
 www.ghs106377.edu.bd
 www.gplhs.edu.bd
@@ -817,9 +848,11 @@ www.najirpurtsc.edu.bd
 www.nascd.edu.bd
 www.new.niter.edu.bd
 www.nidmnr.edu.bd
+www.nilimajakobcollege.edu.bd
 www.nist.edu.bd
 www.nmdm.edu.bd
 www.npsnk.edu.bd
+www.office.cub.edu.bd
 www.one.karimpurkkbhs.edu.bd
 www.patondm.kmdm.edu.bd
 www.pfdm.edu.bd
@@ -844,6 +877,7 @@ www.schoolyacademy.karimpurkkbhs.edu.bd
 www.sharmin.cti.edu.bd
 www.sharna.cti.edu.bd
 www.shimrailhs.edu.bd.dwc.edu.bd
+www.shirajabadhighschool.edu.bd
 www.skm.edu.bd
 www.snmajalilhs.edu.bd
 www.sreemontapurmasatterhs.edu.bd
