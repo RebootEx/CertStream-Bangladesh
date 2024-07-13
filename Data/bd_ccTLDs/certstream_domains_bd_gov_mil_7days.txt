@@ -1,6 +1,5 @@
 2021-22.accounts.comillaboard.gov.bd
 2023-24.accounts.bise-ctg.gov.bd
-2apbn.gov.bd
 academy.ekshop.gov.bd
 accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
@@ -12,7 +11,6 @@ admin.msdp.gov.bd
 adminpanel.bise-ctg.gov.bd
 agecorrection.dinajpurboard.gov.bd
 agent.cgbdsydney.gov.bd
-amarbangabandhu.gov.bd
 api-admin.ekshop.gov.bd
 api-front.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
@@ -44,7 +42,6 @@ bamis.gov.bd
 bangla.srngih.gov.bd
 bangladeshcustoms.gov.bd
 barisalboard.gov.bd
-bbms.dghs.gov.bd
 bbuasm.gov.bd
 bcc-ca.gov.bd
 bdpost.gov.bd
@@ -59,7 +56,6 @@ bhairabmunicipality.gov.bd
 bharellasouthup.gov.bd
 bicsaa.gov.bd
 bill.dphe.gov.bd
-biman.ekpay.gov.bd
 birampurpaurashava.gov.bd
 birganjpaurashava.gov.bd
 bise-ctg.gov.bd
@@ -95,7 +91,6 @@ certificates.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
 challenge.gov.bd
 chandanpurup.gov.bd
-charghatpaurashava.gov.bd
 chcpelearning.dghs.gov.bd
 chowmuhanimunicipality.gov.bd
 circle34.taxeszone2.gov.bd
@@ -106,7 +101,6 @@ cmc.gov.bd
 college-efiling.dinajpurboard.gov.bd
 commission.ekshop.gov.bd
 contacts.rmch.gov.bd
-controlroom.dghs.gov.bd
 corona.gov.bd
 coxpoly.gov.bd
 cp.kda.gov.bd
@@ -178,19 +172,15 @@ cpcontacts.urp.gov.bd
 cpcontacts.xiclassadmission.gov.bd
 cpcontacts.zsorangpur.gov.bd
 crm.btrc.gov.bd
-csc.dghs.gov.bd
 curriculum.gov.bd
 dac.gov.bd
 daesms.bamis.gov.bd
-dashboard.dghs.gov.bd
 dashboard.sacp.dae.gov.bd
 data.gov.bd
 daulatpurup.gov.bd
 dbid.gov.bd
 dcofficemymlibrary.gov.bd
-dcrs.brri.gov.bd
 dcsherpurinfo.gov.bd
-debidwarpourashava.gov.bd
 demo.kabinazrulcollege.gov.bd
 dengue.gov.bd
 deodinajpur.gov.bd
@@ -211,6 +201,7 @@ dns.ekshop.gov.bd
 dob.ekshop.gov.bd
 dpg.ekshop.gov.bd
 dpl.gov.bd
+dpp.gov.bd
 dscc.gov.bd
 dscsc.mil.bd
 dttti.gov.bd
@@ -241,12 +232,12 @@ esheba.sylhetboard.gov.bd
 esiraj.gov.bd
 etds.gov.bd
 exam-management-hsc2024.dinajpurboard.gov.bd
+exam-management-ssc2024.dinajpurboard.gov.bd
 exam.noipunno.gov.bd
 feedback.ekshop.gov.bd
 ffwc.bwdb.gov.bd
 fgc.gov.bd
 files.mbgc.gov.bd
-foundationtraining.dghs.gov.bd
 fowlab.gov.bd
 fpcsqit.dgfp.gov.bd
 freelancer.doict.gov.bd
@@ -264,12 +255,10 @@ himb.bwdb.gov.bd
 his1.bcc.gov.bd
 hmis.uphcsdp.gov.bd
 host.ric.gov.bd
-hris.dgme.gov.bd
 hris.msdp.gov.bd
 hris1.msdp.gov.bd
 hrm.sprangpur.gov.bd
 hrmddco.gov.bd
-hrmdss.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 hscresult1.bise-ctg.gov.bd
 ikfmss.gov.bd
@@ -410,6 +399,7 @@ mail.rpcl.gov.bd
 mail.sca.gov.bd
 mail.scouts.gov.bd
 mail.sfcl.gov.bd
+mail.shnibps.gov.bd
 mail.skt.gov.bd
 mail.snsp.ddm.gov.bd
 mail.soms.gov.bd
@@ -435,7 +425,6 @@ matelehealth.gov.bd
 mbgc.gov.bd
 mci.shrlive.dghs.gov.bd
 media.bmp.gov.bd
-meeting.gtcl.gov.bd
 melandahbhata.gov.bd
 merchant.ekpay.gov.bd
 mfsp.gov.bd
@@ -447,7 +436,6 @@ msdp.gov.bd
 mujibjigyasa.gov.bd
 muktopaath.gov.bd
 munshiganjlg.gov.bd
-mydocreader.gov.bd
 narsingdilg.gov.bd
 nazipurpourashava.gov.bd
 nccrfhd.gov.bd
@@ -468,12 +456,10 @@ ntrc.gameapp.gov.bd
 nuralapurup.narsingdilg.gov.bd
 ocei.gov.bd
 office.doe.gov.bd
-old.dghs.gov.bd
 one.rhd.gov.bd
 onlineadmission.bise-ctg.gov.bd
 onlinefile.bise-ctg.gov.bd
 onlinetc.dinajpurboard.gov.bd
-oss.beza.gov.bd
 ossbscic.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
@@ -490,7 +476,6 @@ pmis.urp.gov.bd
 polytech.gov.bd
 product.sacp.dae.gov.bd
 profile.rmch.gov.bd
-puthiauhc.gov.bd
 queue.cgbdsydney.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rains.sacp.dae.gov.bd
@@ -517,6 +502,7 @@ sggsc.gov.bd
 sheikhrusseldigitallab.gov.bd
 shibpurpaurashava.gov.bd
 shmcht.gov.bd
+shnibps.gov.bd
 shop.cirt.gov.bd
 shr.shrlive.dghs.gov.bd
 sla.gov.bd
@@ -525,7 +511,6 @@ smarthaat.gov.bd
 smartnabipur.gov.bd
 smartpurbadhairwestup.gov.bd
 smartramchandrapursouthup.gov.bd
-smef.ekpay.gov.bd
 smmbox17.bcc.gov.bd
 smms.fid.gov.bd
 smsc.ekshop.gov.bd
@@ -551,18 +536,16 @@ taxeszone22dhaka.gov.bd
 taxeszone24dhaka.gov.bd
 taxeszone25dhaka.gov.bd
 taxeszone8dhaka.gov.bd
-taxeszonecumilla.gov.bd
 tcb.melandahbhata.gov.bd
 telehealth.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
 testimonials.gov.bd
+thedp.gov.bd
 tk.coxpoly.gov.bd
 tofailahmedcollege.gnc.gov.bd
 tourismctg.gov.bd
 tr.shrlive.dghs.gov.bd
-training.apamsv3.cabinet.gov.bd
-training.dhis2tracker.dghs.gov.bd
 training.distgopalganj.gov.bd
 training.sla.gov.bd
 trainingbi.apamsv3.cabinet.gov.bd
@@ -589,9 +572,7 @@ upsonod.com.melandahbhata.gov.bd
 upsylhetholdingtax.gov.bd
 urp.gov.bd
 useomadhukhali.gov.bd
-uzpseba.gov.bd
 va.dghs.gov.bd
-vaxepi.gov.bd
 vcbig.bcc.gov.bd
 verification.mfacademy.gov.bd
 verify-network.ekshop.gov.bd
@@ -601,7 +582,6 @@ vms.ugc.gov.bd
 vpland.munshiganjlg.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
-vrcbd.cmc.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bmdbwcsrp.gov.bd
 webdisk.ccr.gov.bd
@@ -695,6 +675,7 @@ www.digrajshahirange.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.dpl.gov.bd
+www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.dumainup.faridpurlg.gov.bd
 www.ecs.gov.bd
@@ -756,6 +737,7 @@ www.result.fgc.gov.bd
 www.ric.gov.bd
 www.roadshow.sec.gov.bd
 www.sggsc.gov.bd
+www.shnibps.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
 www.sla.gov.bd
 www.smartbangarawestup.gov.bd
@@ -792,12 +774,10 @@ www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
 www.vimruli.gov.bd
 www.vpland.munshiganjlg.gov.bd
-www.vrcbd.cmc.gov.bd
 www.wp.kmpi.gov.bd
 www.xiclassadmission.gov.bd
 www.zplakshmipur.gov.bd
 www.zsorangpur.gov.bd
 xiclassadmission.gov.bd
 zplakshmipur.gov.bd
-zsorajshahi.gov.bd
 zsorangpur.gov.bd
