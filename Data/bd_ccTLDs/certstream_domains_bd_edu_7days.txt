@@ -368,6 +368,7 @@ autodiscover.ubss.edu.bd
 autodiscover.uhschool.edu.bd
 autodiscover.ujss.edu.bd
 autodiscover.uphs104820.edu.bd
+autodiscover.urkircharhs.edu.bd
 autodiscover.uttarauniversity.edu.bd
 autodiscover.verendihs.edu.bd
 autodiscover.victoriaschool.edu.bd
@@ -446,6 +447,7 @@ bankerhaths.edu.bd
 banshila.edu.bd
 baraikandihs.edu.bd
 baraikhalihighschool.edu.bd
+baraikhalihs.org.haldiagovhs.edu.bd
 barakatalimlhighschool.edu.bd
 baramaishahighschool.edu.bd
 barandalidakhilmadrasah.edu.bd
@@ -526,6 +528,7 @@ betkatahighschool.edu.bd
 betmoress.server.betmoress.edu.bd
 bfma.edu.bd
 bgahs.edu.bd
+bgc.edu.bd
 bgeju.edu.bd
 bggc.edu.bd
 bggphs.edu.bd
@@ -550,6 +553,7 @@ bhandarigirls.edu.bd
 bhanderpurblhs.edu.bd
 bharatpurhs.edu.bd
 bharatpurhs.rsmfm.edu.bd
+bhatkhalihs.edu.bd
 bhatshahighschool.edu.bd
 bhatshailhs.edu.bd
 bhcahs.edu.bd
@@ -1084,6 +1088,7 @@ cpanel.uits.edu.bd
 cpanel.ujss.edu.bd
 cpanel.upasmhs.edu.bd
 cpanel.uphs104820.edu.bd
+cpanel.urkircharhs.edu.bd
 cpanel.uttarauniversity.edu.bd
 cpanel.verendihs.edu.bd
 cpanel.victoriaschool.edu.bd
@@ -1344,6 +1349,7 @@ cpcalendars.uits.edu.bd
 cpcalendars.ujss.edu.bd
 cpcalendars.upasmhs.edu.bd
 cpcalendars.uphs104820.edu.bd
+cpcalendars.urkircharhs.edu.bd
 cpcalendars.uttarauniversity.edu.bd
 cpcalendars.verendihs.edu.bd
 cpcalendars.victoriaschool.edu.bd
@@ -1605,6 +1611,7 @@ cpcontacts.uits.edu.bd
 cpcontacts.ujss.edu.bd
 cpcontacts.upasmhs.edu.bd
 cpcontacts.uphs104820.edu.bd
+cpcontacts.urkircharhs.edu.bd
 cpcontacts.uttarauniversity.edu.bd
 cpcontacts.verendihs.edu.bd
 cpcontacts.victoriaschool.edu.bd
@@ -1651,6 +1658,7 @@ darululoomdelduar.edu.bd
 das.chandaihighschool.edu.bd
 dasherbazarhs.edu.bd
 dashuriammhighschool.edu.bd
+daskm.edu.bd
 datapulse.diu.edu.bd
 dauc.edu.bd
 dauhs.edu.bd
@@ -1844,6 +1852,7 @@ epayments.primeasia.edu.bd
 eraliabazarhs.edu.bd
 erbhs.edu.bd
 erp-api.baburhathighschoolandcollege.edu.bd
+erp.comillamodernhighschool.edu.bd
 erp.primeasia.edu.bd
 ershadpuracademy.edu.bd
 esmacollege.edu.bd
@@ -1870,6 +1879,7 @@ fbuhs.edu.bd
 fccdc.edu.bd
 fcn.edu.bd
 fghs.edu.bd
+fia.edu.bd
 files.mccollege.edu.bd
 fjs.edu.bd
 fmgs.edu.bd
@@ -2954,6 +2964,7 @@ mail.ujss.edu.bd
 mail.ums.kyau.edu.bd
 mail.upasmhs.edu.bd
 mail.uphs104820.edu.bd
+mail.urkircharhs.edu.bd
 mail.uttarauniversity.edu.bd
 mail.verendihs.edu.bd
 mail.victoriaschool.edu.bd
@@ -3421,6 +3432,7 @@ portal.dnsphs.edu.bd
 portal.doailhs.edu.bd
 portal.dsbhs.edu.bd
 portal.fghs.edu.bd
+portal.glenrich.edu.bd
 portal.gobindaganjgc.edu.bd
 portal.jhahs.edu.bd
 portal.kbnhighschool.edu.bd
@@ -3790,6 +3802,7 @@ sihs.edu.bd
 sii.edu.bd
 sijghs.edu.bd
 siloniaunionhs.edu.bd
+silverbells.edu.bd
 singairgovtschool.edu.bd
 singherkathimlhs.edu.bd
 singnagarschool.edu.bd
@@ -4029,6 +4042,7 @@ unkilahighschool.edu.bd
 upasmhs.edu.bd
 uphs104820.edu.bd
 upi.edu.bd
+urkircharhs.edu.bd
 uttarauniversity.edu.bd
 uttarkethrangaidm.edu.bd
 vatoparaghs.edu.bd
@@ -4304,6 +4318,7 @@ webdisk.uits.edu.bd
 webdisk.ujss.edu.bd
 webdisk.upasmhs.edu.bd
 webdisk.uphs104820.edu.bd
+webdisk.urkircharhs.edu.bd
 webdisk.uttarauniversity.edu.bd
 webdisk.verendihs.edu.bd
 webdisk.victoriaschool.edu.bd
@@ -4582,6 +4597,7 @@ webmail.uits.edu.bd
 webmail.ujss.edu.bd
 webmail.upasmhs.edu.bd
 webmail.uphs104820.edu.bd
+webmail.urkircharhs.edu.bd
 webmail.uttarauniversity.edu.bd
 webmail.verendihs.edu.bd
 webmail.victoriaschool.edu.bd
@@ -4753,6 +4769,7 @@ www.bamihalsmdm.edu.bd
 www.bandubihighschool.edu.bd.bakapurhighschool.edu.bd
 www.bankerhaths.edu.bd
 www.banshila.edu.bd
+www.baraikhalihs.org.haldiagovhs.edu.bd
 www.barapatharhighschool.edu.bd
 www.barashasibahs.edu.bd
 www.baribakasgss.edu.bd
@@ -5576,6 +5593,7 @@ www.saikat.nakgh.edu.bd
 www.sajuriamhs.edu.bd
 www.salammokbulhighschool.edu.bd
 www.salimullah.salimullahcollege.edu.bd
+www.sanjida.daskm.edu.bd
 www.sarc.edu.bd
 www.sarghsp.edu.bd
 www.sasc.edu.bd
@@ -5721,6 +5739,7 @@ www.ujss.edu.bd
 www.ums.kyau.edu.bd
 www.upasmhs.edu.bd
 www.uphs104820.edu.bd
+www.urkircharhs.edu.bd
 www.uttarauniversity.edu.bd
 www.verendihs.edu.bd
 www.verify.cub.edu.bd
