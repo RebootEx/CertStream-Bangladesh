@@ -1,3 +1,4 @@
+api.ekpass.gov.bd
 ar.gameapp.gov.bd
 autodiscover.bta.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
@@ -14,6 +15,7 @@ bsc.gov.bd
 bsfmstu.gameapp.gov.bd
 bta.gov.bd
 certificate.comillaboard.gov.bd
+challenge.gov.bd
 comillazp.gov.bd
 cpanel.bta.gov.bd
 cpanel.pppo.gov.bd
@@ -38,6 +40,7 @@ cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
 demand.taxeszone13dhaka.gov.bd
 dfmtetulia.gov.bd
+dgpay.ekshop.gov.bd
 distgopalganj.gov.bd
 dncc-dch.gov.bd
 du.gameapp.gov.bd
@@ -71,6 +74,7 @@ taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
 taxeszonerajshahi.gov.bd
 test.gameapp.gov.bd
+thedp.gov.bd
 webdisk.bta.gov.bd
 webdisk.pppo.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
@@ -90,6 +94,7 @@ www.bise-ctg.gov.bd
 www.booking.bbcfec.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.bta.gov.bd
+www.challenge.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.du.gameapp.gov.bd
 www.it.iifc.gov.bd
