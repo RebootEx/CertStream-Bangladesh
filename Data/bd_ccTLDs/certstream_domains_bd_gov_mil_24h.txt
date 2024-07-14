@@ -4,6 +4,7 @@ amarai.gameapp.gov.bd
 api-admin.ekshop.gov.bd
 api.ekpass.gov.bd
 ar.gameapp.gov.bd
+attendance.rdobarishal.gov.bd
 autodiscover.bta.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.provati3-lged.gov.bd
@@ -13,6 +14,7 @@ autodiscover.taxeszone13dhaka.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 bbggc.gov.bd
+bdpost.gov.bd
 bepza.gov.bd
 bise-ctg.gov.bd
 bkttcdhaka.gov.bd
@@ -132,6 +134,7 @@ webmail.taxeszoneonedhaka.gov.bd
 www.admin.amarai.gameapp.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
+www.attendance.rdobarishal.gov.bd
 www.bise-ctg.gov.bd
 www.booking.bbcfec.gov.bd
 www.bsfmstu.gameapp.gov.bd
