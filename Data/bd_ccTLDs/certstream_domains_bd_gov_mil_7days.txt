@@ -1,16 +1,13 @@
 2021-22.accounts.comillaboard.gov.bd
-2023-24.accounts.bise-ctg.gov.bd
 academy.ekshop.gov.bd
 accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
 admin-mail.soms.gov.bd
-admin.cgbdsydney.gov.bd
 admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 admin.msdp.gov.bd
 adminpanel.bise-ctg.gov.bd
 agecorrection.dinajpurboard.gov.bd
-agent.cgbdsydney.gov.bd
 api-admin.ekshop.gov.bd
 api-front.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
@@ -18,7 +15,6 @@ api-merchant.ekshop.gov.bd
 api.bscl.gov.bd
 api.career.nwpgcl.gov.bd
 api.ekpass.gov.bd
-api.freelancers.gov.bd
 api.ncpds.dae.gov.bd
 api.sacp.dae.gov.bd
 api.spellcheck.bangla.gov.bd
@@ -37,15 +33,12 @@ autodiscover.patgrammunicipality.gov.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.urp.gov.bd
 award.imli.gov.bd
-back.socialprotection.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
 bamis.gov.bd
 bangla.srngih.gov.bd
-bangladeshcustoms.gov.bd
 barisalboard.gov.bd
 bbuasm.gov.bd
-bcc-ca.gov.bd
 bdpost.gov.bd
 bdris.melandahbhata.gov.bd
 bdskills.gov.bd
@@ -76,7 +69,6 @@ bsiedu.gov.bd
 btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
 bvc.gov.bd
-bvcdoctor.bvc.gov.bd
 cafobsc.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
@@ -91,7 +83,6 @@ cbraj.gov.bd
 ccms.gov.bd
 ccr.gov.bd
 centraldhis.mohfw.gov.bd
-certificates.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
 challenge.gov.bd
 chandanpurup.gov.bd
@@ -185,7 +176,6 @@ curriculum.gov.bd
 dac.gov.bd
 daesms.bamis.gov.bd
 dashboard.sacp.dae.gov.bd
-data.gov.bd
 daulatpurup.gov.bd
 dbid.gov.bd
 dcofficemymlibrary.gov.bd
@@ -213,11 +203,9 @@ dncc-dch.gov.bd
 dns.ekshop.gov.bd
 dob.ekshop.gov.bd
 dpg.ekshop.gov.bd
-dpl.gov.bd
 dpp.gov.bd
 dscc.gov.bd
 dscsc.mil.bd
-dttti.gov.bd
 du.gameapp.gov.bd
 dumainup.faridpurlg.gov.bd
 eacei.gov.bd
@@ -260,7 +248,6 @@ feedback.ekshop.gov.bd
 ffwc.bwdb.gov.bd
 fgc.gov.bd
 files.mbgc.gov.bd
-fowlab.gov.bd
 fpcsqit.dgfp.gov.bd
 freelancer.doict.gov.bd
 freelancers.gov.bd
@@ -277,14 +264,12 @@ gpon.btcl.gov.bd
 hajipurup.narsingdilg.gov.bd
 hid.shrlive.dghs.gov.bd
 hijli.distgopalganj.gov.bd
-himb.bwdb.gov.bd
 his1.bcc.gov.bd
 hmis.uphcsdp.gov.bd
 host.ric.gov.bd
 hris.msdp.gov.bd
 hris1.msdp.gov.bd
 hrm.sprangpur.gov.bd
-hrmddco.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 hscresult.comillaboard.gov.bd
 hscresult1.bise-ctg.gov.bd
@@ -309,10 +294,8 @@ kblos.karmasangsthanbank.gov.bd
 keshabpurpouroshava.gov.bd
 khagracharitsc.gov.bd
 kibana-dev.niseee.gov.bd
-kiosk.cgbdsydney.gov.bd
 kjtsc.gov.bd
 kumargata.upmymensinghholdingtax.gov.bd
-laksampourashava.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 lb.dotsim.gov.bd
@@ -387,7 +370,6 @@ mail.dyd.gov.bd
 mail.easterncables.gov.bd
 mail.eprc.gov.bd
 mail.fri.gov.bd
-mail.gameapp.gov.bd
 mail.gcc.gov.bd
 mail.gsb.gov.bd
 mail.hed.gov.bd
@@ -411,7 +393,6 @@ mail.napd.gov.bd
 mail.nape.gov.bd
 mail.ngwc.gov.bd
 mail.nib.gov.bd
-mail.nicvd.gov.bd
 mail.niport.gov.bd
 mail.nmst.gov.bd
 mail.npo.gov.bd
@@ -464,7 +445,6 @@ merchant.ekpay.gov.bd
 merchant.ekshop.gov.bd
 mfsp.gov.bd
 mfstc.gov.bd
-mne.socialprotection.gov.bd
 monitoring.landzoning.gov.bd
 mopa.gov.bd
 msdp.gov.bd
@@ -478,9 +458,7 @@ nccrfhd.gov.bd
 ncpds.dae.gov.bd
 ngmc.gov.bd
 ngwc.gov.bd
-nicvd.gov.bd
 nient.gov.bd
-nise3.gov.bd
 niseee.gov.bd
 nlp.gov.bd
 nnsop.gov.bd
@@ -489,7 +467,6 @@ noipunno.gov.bd
 notarypublic.gov.bd
 nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
-nuralapurup.narsingdilg.gov.bd
 ocei.gov.bd
 office.doe.gov.bd
 old.bise-ctg.gov.bd
@@ -514,7 +491,6 @@ polytech.gov.bd
 pppo.gov.bd
 product.sacp.dae.gov.bd
 profile.rmch.gov.bd
-queue.cgbdsydney.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rains.sacp.dae.gov.bd
 ramgatipourashava.gov.bd
@@ -536,7 +512,6 @@ satkhirademo.gov.bd
 sch-efiling.dinajpurboard.gov.bd
 school-efiling.dinajpurboard.gov.bd
 senbagcollege.gov.bd
-services.cgbdsydney.gov.bd
 sggsc.gov.bd
 sheikhrusseldigitallab.gov.bd
 shibpurpaurashava.gov.bd
@@ -575,7 +550,6 @@ surgeryrpmc.gov.bd
 sv.dotsim.gov.bd
 tafaruqueschoolandcollege.gov.bd
 taherpurpourashava.gov.bd
-taxeszone17.gov.bd
 taxeszone22dhaka.gov.bd
 taxeszone24dhaka.gov.bd
 taxeszone25dhaka.gov.bd
@@ -589,7 +563,6 @@ testimonials.gov.bd
 thedp.gov.bd
 tk.coxpoly.gov.bd
 tofailahmedcollege.gnc.gov.bd
-tourismctg.gov.bd
 tr.shrlive.dghs.gov.bd
 training.distgopalganj.gov.bd
 training.sla.gov.bd
@@ -700,7 +673,6 @@ www.bsfmstu.gameapp.gov.bd
 www.bsiedu.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.btclwifihotspot.gov.bd
-www.bvcdoctor.bvc.gov.bd
 www.cafopsid.gov.bd
 www.ccms.gov.bd
 www.ccr.gov.bd
@@ -724,7 +696,6 @@ www.dgca58.gov.bd
 www.digrajshahirange.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
-www.dpl.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.dumainup.faridpurlg.gov.bd
@@ -748,7 +719,6 @@ www.hijli.distgopalganj.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
 www.hrm.sprangpur.gov.bd
-www.hrmddco.gov.bd
 www.iras.bamis.gov.bd
 www.job.bsc.gov.bd
 www.kalirbazarup.gov.bd
@@ -758,9 +728,7 @@ www.kb10takakg.melandahbhata.gov.bd
 www.kblos.karmasangsthanbank.gov.bd
 www.khagracharitsc.gov.bd
 www.kumargata.upmymensinghholdingtax.gov.bd
-www.laksampourashava.gov.bd
 www.laravel.sfcair.gov.bd
-www.mail.gameapp.gov.bd
 www.mail.ntrc.gameapp.gov.bd
 www.mail.pbrlp.gov.bd
 www.mail.soms.gov.bd
@@ -774,11 +742,9 @@ www.msdp.gov.bd
 www.mujibjigyasa.gov.bd
 www.munshiganjlg.gov.bd
 www.ngwc.gov.bd
-www.nicvd.gov.bd
 www.nlp.gov.bd
 www.notarypublic.gov.bd
 www.ntrc.gameapp.gov.bd
-www.nuralapurup.narsingdilg.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.php.sonagazicollege.gov.bd
 www.pirganjpourashava.gov.bd
@@ -815,7 +781,6 @@ www.tcb.melandahbhata.gov.bd
 www.test.gameapp.gov.bd
 www.test.rpi.gov.bd
 www.tofailahmedcollege.gnc.gov.bd
-www.tourismctg.gov.bd
 www.training.distgopalganj.gov.bd
 www.trishal.upmymensinghholdingtax.gov.bd
 www.tseogulshan.gov.bd
