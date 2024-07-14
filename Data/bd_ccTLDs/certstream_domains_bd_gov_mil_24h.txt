@@ -5,6 +5,7 @@ autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
+bbggc.gov.bd
 bepza.gov.bd
 bise-ctg.gov.bd
 bkttcdhaka.gov.bd
@@ -12,6 +13,7 @@ bsc.gov.bd
 bsfmstu.gameapp.gov.bd
 bta.gov.bd
 certificate.comillaboard.gov.bd
+comillazp.gov.bd
 cpanel.bta.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
@@ -48,8 +50,10 @@ mail.taxeszone13dhaka.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 ntrc.gameapp.gov.bd
+onlinetc.dinajpurboard.gov.bd
 pirojpurtsc.gov.bd
 register.gameapp.gov.bd
+shaistaganjmunicipality.gov.bd
 soft.taxesinspection.gov.bd
 st.dotsim.gov.bd
 sv.dotsim.gov.bd
@@ -58,6 +62,7 @@ taxesinspection.gov.bd
 taxeszone13dhaka.gov.bd
 taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
+taxeszonerajshahi.gov.bd
 test.gameapp.gov.bd
 webdisk.bta.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
