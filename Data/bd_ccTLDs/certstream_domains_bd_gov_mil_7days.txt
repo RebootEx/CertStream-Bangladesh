@@ -22,8 +22,10 @@ api.spellcheck.bangla.gov.bd
 app.dghs.gov.bd
 apps.bgb.gov.bd
 ar.gameapp.gov.bd
+asi.dfsrcaab.gov.bd
 attendance.ekshop.gov.bd
 attendance.gov.bd
+attendance.rdobarishal.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 autodiscover.ccr.gov.bd
@@ -31,6 +33,7 @@ autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.iras.bamis.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
+autodiscover.provati3-lged.gov.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.urp.gov.bd
 award.imli.gov.bd
@@ -61,6 +64,7 @@ boalmaripaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
 bogurapolice.gov.bd
 booking.bbcfec.gov.bd
+borhamganjcollege.gov.bd
 brms.boesl.gov.bd
 brta1.bpodms.gov.bd
 bsachittagong.gov.bd
@@ -122,6 +126,7 @@ cpanel.msdp.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpanel.ngwc.gov.bd
 cpanel.pppo.gov.bd
+cpanel.provati3-lged.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
@@ -145,6 +150,7 @@ cpcalendars.munshiganjlg.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
 cpcalendars.pppo.gov.bd
+cpcalendars.provati3-lged.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.unonagarkanda.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
@@ -168,6 +174,7 @@ cpcontacts.munshiganjlg.gov.bd
 cpcontacts.ngwc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
 cpcontacts.pppo.gov.bd
+cpcontacts.provati3-lged.gov.bd
 cpcontacts.tseogulshan.gov.bd
 cpcontacts.unonagarkanda.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
@@ -257,6 +264,7 @@ fpcsqit.dgfp.gov.bd
 freelancer.doict.gov.bd
 freelancers.gov.bd
 fta.gov.bd
+gaibandhapourashava.gov.bd
 gbrcr.gov.bd
 gccn.nient.gov.bd
 ggc.gov.bd
@@ -294,6 +302,7 @@ jitsi.vc8.bcc.gov.bd
 jscadmitcard.bise-ctg.gov.bd
 kalirbazarup.gov.bd
 kamaria.upmymensinghholdingtax.gov.bd
+kanthaliaup.narsingdilg.gov.bd
 karmasangsthanbank.gov.bd
 kashianitsc.gov.bd
 kashinagarup.comillalg.gov.bd
@@ -421,6 +430,7 @@ mail.pbrlp.gov.bd
 mail.ppa.gov.bd
 mail.pppo.gov.bd
 mail.pragotiindustries.gov.bd
+mail.provati3-lged.gov.bd
 mail.rajshahieducationboard.gov.bd
 mail.ramgatipourashava.gov.bd
 mail.rangpurvat.gov.bd
@@ -510,6 +520,7 @@ polytech.gov.bd
 pppo.gov.bd
 product.sacp.dae.gov.bd
 profile.rmch.gov.bd
+provati3-lged.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rains.sacp.dae.gov.bd
 ramgatipourashava.gov.bd
@@ -544,6 +555,7 @@ siteapi.ltuvat.gov.bd
 sla.gov.bd
 smartbangarawestup.gov.bd
 smarthaat.gov.bd
+smartkrishi.gov.bd
 smartnabipur.gov.bd
 smartoms.mofood.gov.bd
 smartpurbadhairwestup.gov.bd
@@ -640,6 +652,7 @@ webdisk.munshiganjlg.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.patgrammunicipality.gov.bd
 webdisk.pppo.gov.bd
+webdisk.provati3-lged.gov.bd
 webdisk.tseogulshan.gov.bd
 webdisk.unonagarkanda.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
@@ -664,6 +677,7 @@ webmail.munshiganjlg.gov.bd
 webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
 webmail.pppo.gov.bd
+webmail.provati3-lged.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.unonagarkanda.gov.bd
 webmail.upsylhetholdingtax.gov.bd
@@ -678,7 +692,9 @@ www.admin-mail.soms.gov.bd
 www.admin.amarai.gameapp.gov.bd
 www.admin.msdp.gov.bd
 www.ar.gameapp.gov.bd
+www.asi.dfsrcaab.gov.bd
 www.attendance.ekshop.gov.bd
+www.attendance.rdobarishal.gov.bd
 www.bamis.gov.bd
 www.bangla.srngih.gov.bd
 www.bdris.melandahbhata.gov.bd
@@ -691,6 +707,7 @@ www.bicsaa.gov.bd
 www.bmdbwcsrp.gov.bd
 www.bogurapolice.gov.bd
 www.booking.bbcfec.gov.bd
+www.borhamganjcollege.gov.bd
 www.bpmis.bsc.gov.bd
 www.bsachittagong.gov.bd
 www.bsfmstu.gameapp.gov.bd
@@ -752,6 +769,7 @@ www.jessorecustoms.gov.bd
 www.job.bsc.gov.bd
 www.kalirbazarup.gov.bd
 www.kamaria.upmymensinghholdingtax.gov.bd
+www.kanthaliaup.narsingdilg.gov.bd
 www.kashinagarup.comillalg.gov.bd
 www.kb10takakg.melandahbhata.gov.bd
 www.kblos.karmasangsthanbank.gov.bd
@@ -784,6 +802,7 @@ www.php.sonagazicollege.gov.bd
 www.pirganjpourashava.gov.bd
 www.pppo.gov.bd
 www.profile.rmch.gov.bd
+www.provati3-lged.gov.bd
 www.ramgatipourashava.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
 www.rangpurvat.gov.bd
