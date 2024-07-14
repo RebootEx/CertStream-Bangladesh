@@ -3,6 +3,7 @@ academy.ekshop.gov.bd
 accounts.dhakaeducationboard.gov.bd
 aclandbarisalsadar.gov.bd
 admin-mail.soms.gov.bd
+admin.amarai.gameapp.gov.bd
 admin.ekshop.gov.bd
 admin.mbgc.gov.bd
 admin.msdp.gov.bd
@@ -78,11 +79,14 @@ cafowater.gov.bd
 career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
+cbc.dnbc.gov.bd
 cbctg.gov.bd
 cbraj.gov.bd
 ccms.gov.bd
 ccr.gov.bd
 centraldhis.mohfw.gov.bd
+cevchandina.gov.bd
+cevlaksam.gov.bd
 chadniitinstitute.com.bd.zpkhulna.gov.bd
 challenge.gov.bd
 chandanpurup.gov.bd
@@ -180,6 +184,7 @@ daulatpurup.gov.bd
 dbid.gov.bd
 dcofficemymlibrary.gov.bd
 dcsherpurinfo.gov.bd
+dedo.gov.bd
 demo.kabinazrulcollege.gov.bd
 dengue.gov.bd
 deodinajpur.gov.bd
@@ -269,6 +274,7 @@ hmis.uphcsdp.gov.bd
 host.ric.gov.bd
 hris.msdp.gov.bd
 hris1.msdp.gov.bd
+hrm.ekshop.gov.bd
 hrm.sprangpur.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 hscresult.comillaboard.gov.bd
@@ -280,7 +286,9 @@ inheritance.dc-rangamati.gov.bd
 ipv6.dgca58.gov.bd
 iras.bamis.gov.bd
 jamalpurpostal.gov.bd
+jashorevat.jessorecustoms.gov.bd
 jati.gov.bd
+jessorecustoms.gov.bd
 jgcc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jscadmitcard.bise-ctg.gov.bd
@@ -300,6 +308,8 @@ lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 lb.dotsim.gov.bd
 lbphs.gov.bd
+lcsakhaura.gov.bd
+lcsbibirbazar.gov.bd
 lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 lms.pmo.gov.bd
@@ -307,6 +317,7 @@ login.borhamganjcollege.gov.bd
 logo.gov.bd
 lrms.gov.bd
 lsb.gov.bd
+ltuvat.gov.bd
 mahzcollege.gov.bd
 maijdeetsc.gov.bd
 mail.admin.msdp.gov.bd
@@ -355,6 +366,7 @@ mail.cirt.gov.bd
 mail.cmsd.gov.bd
 mail.cpgcbl.gov.bd
 mail.dbhwd.gov.bd
+mail.dedo.gov.bd
 mail.dfp.gov.bd
 mail.dfsrcaab.gov.bd
 mail.dgca58.gov.bd
@@ -382,9 +394,13 @@ mail.iras.bamis.gov.bd
 mail.islamicfoundation.gov.bd
 mail.jamunaoil.gov.bd
 mail.jbc.gov.bd
+mail.jessorecustoms.gov.bd
 mail.jpuf.gov.bd
 mail.khagracharitsc.gov.bd
+mail.lcsakhaura.gov.bd
+mail.lcsbibirbazar.gov.bd
 mail.lpgl.gov.bd
+mail.ltuvat.gov.bd
 mail.masscommunication.gov.bd
 mail.mpa.gov.bd
 mail.msdp.gov.bd
@@ -407,6 +423,7 @@ mail.pppo.gov.bd
 mail.pragotiindustries.gov.bd
 mail.rajshahieducationboard.gov.bd
 mail.ramgatipourashava.gov.bd
+mail.rangpurvat.gov.bd
 mail.rda.gov.bd
 mail.reb.gov.bd
 mail.rpcl.gov.bd
@@ -456,6 +473,7 @@ narsingdilg.gov.bd
 nazipurpourashava.gov.bd
 nccrfhd.gov.bd
 ncpds.dae.gov.bd
+new.vatdhkeast.gov.bd
 ngmc.gov.bd
 ngwc.gov.bd
 nient.gov.bd
@@ -470,6 +488,7 @@ ntrc.gameapp.gov.bd
 ocei.gov.bd
 office.doe.gov.bd
 old.bise-ctg.gov.bd
+old.dknvat.gov.bd
 one.rhd.gov.bd
 onlineadmission.bise-ctg.gov.bd
 onlinefile.bise-ctg.gov.bd
@@ -494,7 +513,9 @@ profile.rmch.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rains.sacp.dae.gov.bd
 ramgatipourashava.gov.bd
+rangpurvat.gov.bd
 rdobarishal.gov.bd
+recruitment.bdansarerp.gov.bd
 register.gameapp.gov.bd
 rhd.gov.bd
 ric.gov.bd
@@ -519,6 +540,7 @@ shmcht.gov.bd
 shnibps.gov.bd
 shop.cirt.gov.bd
 shr.shrlive.dghs.gov.bd
+siteapi.ltuvat.gov.bd
 sla.gov.bd
 smartbangarawestup.gov.bd
 smarthaat.gov.bd
@@ -556,6 +578,7 @@ taxeszone25dhaka.gov.bd
 taxeszone8dhaka.gov.bd
 tcb.melandahbhata.gov.bd
 teacher.comillaboard.gov.bd
+tealicense.gov.bd
 telehealth.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
@@ -652,6 +675,7 @@ wqtrms.dphe.gov.bd
 www.academy.ekshop.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.admin-mail.soms.gov.bd
+www.admin.amarai.gameapp.gov.bd
 www.admin.msdp.gov.bd
 www.ar.gameapp.gov.bd
 www.attendance.ekshop.gov.bd
@@ -676,6 +700,7 @@ www.btclwifihotspot.gov.bd
 www.cafopsid.gov.bd
 www.ccms.gov.bd
 www.ccr.gov.bd
+www.cevlaksam.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.challenge.gov.bd
 www.chandanpurup.gov.bd
@@ -689,6 +714,7 @@ www.contacts.rmch.gov.bd
 www.ctgdclicense.gov.bd
 www.curriculum.gov.bd
 www.daulatpurup.gov.bd
+www.dedo.gov.bd
 www.demo.kabinazrulcollege.gov.bd
 www.develop.aaic.aaic.gov.bd
 www.dfsrcaab.gov.bd
@@ -718,8 +744,11 @@ www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hijli.distgopalganj.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
+www.hrm.ekshop.gov.bd
 www.hrm.sprangpur.gov.bd
 www.iras.bamis.gov.bd
+www.jashorevat.jessorecustoms.gov.bd
+www.jessorecustoms.gov.bd
 www.job.bsc.gov.bd
 www.kalirbazarup.gov.bd
 www.kamaria.upmymensinghholdingtax.gov.bd
@@ -729,6 +758,9 @@ www.kblos.karmasangsthanbank.gov.bd
 www.khagracharitsc.gov.bd
 www.kumargata.upmymensinghholdingtax.gov.bd
 www.laravel.sfcair.gov.bd
+www.lcsakhaura.gov.bd
+www.lcsbibirbazar.gov.bd
+www.ltuvat.gov.bd
 www.mail.ntrc.gameapp.gov.bd
 www.mail.pbrlp.gov.bd
 www.mail.soms.gov.bd
@@ -741,10 +773,12 @@ www.monitoring.landzoning.gov.bd
 www.msdp.gov.bd
 www.mujibjigyasa.gov.bd
 www.munshiganjlg.gov.bd
+www.new.vatdhkeast.gov.bd
 www.ngwc.gov.bd
 www.nlp.gov.bd
 www.notarypublic.gov.bd
 www.ntrc.gameapp.gov.bd
+www.old.dknvat.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.php.sonagazicollege.gov.bd
 www.pirganjpourashava.gov.bd
@@ -752,6 +786,7 @@ www.pppo.gov.bd
 www.profile.rmch.gov.bd
 www.ramgatipourashava.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
+www.rangpurvat.gov.bd
 www.register.gameapp.gov.bd
 www.result.fgc.gov.bd
 www.ric.gov.bd
@@ -759,6 +794,7 @@ www.roadshow.sec.gov.bd
 www.sggsc.gov.bd
 www.shnibps.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
+www.siteapi.ltuvat.gov.bd
 www.sla.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartnabipur.gov.bd
