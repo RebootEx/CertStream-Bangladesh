@@ -16,6 +16,7 @@ api-ictpolicy.ictd.gov.bd
 api-merchant.ekshop.gov.bd
 api.career.nwpgcl.gov.bd
 api.ekpass.gov.bd
+api.ipemis.training.dpe.gov.bd
 api.ncpds.dae.gov.bd
 api.spellcheck.bangla.gov.bd
 app.dghs.gov.bd
@@ -216,6 +217,7 @@ ctgdclicense.gov.bd
 curriculum.gov.bd
 dac.gov.bd
 daesms.bamis.gov.bd
+dashboard.ipemis.training.dpe.gov.bd
 daulatpurup.gov.bd
 dbid.gov.bd
 dcofficemymlibrary.gov.bd
@@ -287,7 +289,9 @@ freelancer.doict.gov.bd
 freelancers.gov.bd
 fta.gov.bd
 gaibandhapourashava.gov.bd
+gatepass.chc.gov.bd
 gccn.nient.gov.bd
+gems.gov.bd
 ghabc.gov.bd
 ghorashalpourashava.gov.bd
 gisfs.bpc.gov.bd
@@ -310,6 +314,7 @@ iifc.gov.bd
 ikfmss.gov.bd
 info.dgda.gov.bd
 inheritance.dc-rangamati.gov.bd
+ipemis.training.dpe.gov.bd
 ipv6.dgca58.gov.bd
 iras.bamis.gov.bd
 it.iifc.gov.bd
@@ -343,6 +348,7 @@ lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 lms.pmo.gov.bd
 login.borhamganjcollege.gov.bd
+login.ipemis.training.dpe.gov.bd
 lrms.gov.bd
 lsb.gov.bd
 ltuvat.gov.bd
@@ -530,6 +536,7 @@ one.rhd.gov.bd
 onlineadmission.bise-ctg.gov.bd
 onlinefile.bise-ctg.gov.bd
 onlinetc.dinajpurboard.gov.bd
+ops.ipemis.training.dpe.gov.bd
 ossbscic.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
