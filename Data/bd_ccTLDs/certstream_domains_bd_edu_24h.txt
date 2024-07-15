@@ -7,6 +7,7 @@ academic.shuhilpurhs.edu.bd
 adarshama.edu.bd
 admin.fafmsc.edu.bd
 admission.aub.edu.bd
+admission.bsmrstu.edu.bd
 admission.butex.edu.bd
 admission.chakariacollege.edu.bd
 admission.hathazaricollege.edu.bd
@@ -134,9 +135,11 @@ cakahs.edu.bd
 cam.edu.bd
 cbdm.edu.bd
 cbyamhs.edu.bd
+ccdm.edu.bd
 cdadmadrasah.edu.bd
 certificate.daffodilvarsity.edu.bd
 chandanahighschool.edu.bd
+chandpurcollege.edu.bd
 chandrapurhsc.edu.bd
 charbagdangahs.edu.bd
 chariparaghs.edu.bd
@@ -475,6 +478,7 @@ jrmb.edu.bd
 jschskd.edu.bd
 kahsc.edu.bd
 kakam.edu.bd
+kalaibarihs.edu.bd
 kaliakoircollege.edu.bd
 kaliapurksam.edu.bd
 kalidaskuhs.edu.bd
@@ -527,6 +531,7 @@ library.cityuniversity.edu.bd
 louhajanghs.edu.bd
 m.ihdm.edu.bd
 m.nisudm.edu.bd
+m.ssfm.edu.bd
 m.sslgdm.edu.bd
 machkholass.edu.bd
 madbarhatifm.edu.bd
@@ -730,6 +735,7 @@ rebotimohanpsc.edu.bd
 rgs.edu.bd
 rhsc.edu.bd
 rkfm.edu.bd
+rmhschool.edu.bd
 rosegardenhs.edu.bd
 rsths.edu.bd
 rudraboirahs.edu.bd
@@ -740,6 +746,7 @@ s.aukhs.edu.bd
 s.borgachihs.edu.bd
 s.bpahs.edu.bd
 s.goalgaonmahs.edu.bd
+s.kawalidhs.edu.bd
 s2e.diu.edu.bd
 sadagarkandihs.edu.bd
 sahercharsc.edu.bd
@@ -942,6 +949,7 @@ www.abdullapurhighschool.edu.bd
 www.ac.khkhsm.edu.bd
 www.academic.shuhilpurhs.edu.bd
 www.admin.fafmsc.edu.bd
+www.admission.bsmrstu.edu.bd
 www.admission.butex.edu.bd
 www.admission.chakariacollege.edu.bd
 www.admission.hathazaricollege.edu.bd
@@ -963,6 +971,7 @@ www.bghsbpara.edu.bd
 www.bhelajanhs.edu.bd
 www.bmsmhs.edu.bd
 www.boropukuriabdm.edu.bd
+www.ccdm.edu.bd
 www.chandanahighschool.edu.bd
 www.chariparaghs.edu.bd
 www.chghs.edu.bd
@@ -1014,6 +1023,7 @@ www.jalilpur.edu.bd
 www.jesobontopurhighschool.edu.bd.balidiasecondaryschool.edu.bd
 www.jmchighschool.edu.bd
 www.jmudm.edu.bd
+www.kalaibarihs.edu.bd
 www.kaliakoircollege.edu.bd
 www.kandirhatsc.edu.bd
 www.karbalahscollege.edu.bd
@@ -1038,6 +1048,7 @@ www.lhsc.edu.bd
 www.library.cityuniversity.edu.bd
 www.m.ihdm.edu.bd
 www.m.nisudm.edu.bd
+www.m.ssfm.edu.bd
 www.m.sslgdm.edu.bd
 www.majormannanhs.edu.bd.jrmb.edu.bd
 www.maubdm.edu.bd
@@ -1091,6 +1102,7 @@ www.s.aukhs.edu.bd
 www.s.borgachihs.edu.bd
 www.s.bpahs.edu.bd
 www.s.goalgaonmahs.edu.bd
+www.s.kawalidhs.edu.bd
 www.sahercharsc.edu.bd
 www.salangafazilmadrasah.edu.bd.dhubilafhighschool.edu.bd
 www.salary.proyash.edu.bd
@@ -1114,6 +1126,8 @@ www.trustuniversity.edu.bd
 www.uds.edu.bd
 www.ugck.dugc.edu.bd
 www.uhschool.edu.bd
+www.webdisk.spdm1985.edu.bd
+yousufdiahs1962.edu.bd
 zbmhs.edu.bd
 ziihs.edu.bd
 zmgs.edu.bd

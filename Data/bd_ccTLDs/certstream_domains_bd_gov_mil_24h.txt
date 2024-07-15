@@ -28,21 +28,25 @@ cpanel.cbb.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
+cpanel.uppabnaholdingtax.gov.bd
 cpanel.xiclassadmission.gov.bd
 cpcalendars.cafodefence.gov.bd
 cpcalendars.cbb.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.unonagarkanda.gov.bd
+cpcalendars.uppabnaholdingtax.gov.bd
 cpcalendars.xiclassadmission.gov.bd
 cpcontacts.cafodefence.gov.bd
 cpcontacts.cbb.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
 cpcontacts.tseogulshan.gov.bd
 cpcontacts.unonagarkanda.gov.bd
+cpcontacts.uppabnaholdingtax.gov.bd
 cpcontacts.xiclassadmission.gov.bd
 dashboard.ipemis.training.dpe.gov.bd
 dedo.gov.bd
+dev.portal.dgme.gov.bd
 dpg.grs.gov.bd
 edutech.gov.bd
 ehrm.fireservice.gov.bd
@@ -79,6 +83,7 @@ mail.rangpurvat.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 mail.tseogulshan.gov.bd
 mail.unonagarkanda.gov.bd
+mail.uppabnaholdingtax.gov.bd
 mail.xiclassadmission.gov.bd
 mci.shrlive.dghs.gov.bd
 melandahbhata.gov.bd
@@ -97,6 +102,7 @@ shibpurpaurashava.gov.bd
 shr.shrlive.dghs.gov.bd
 siteapi.ltuvat.gov.bd
 smartkrishi.gov.bd
+sonali-e-sheba.dinajpurboard.gov.bd
 support.noipunno.gov.bd
 taxeszoneonedhaka.gov.bd
 tealicense.gov.bd
@@ -104,6 +110,7 @@ tr.shrlive.dghs.gov.bd
 tseogulshan.gov.bd
 unonagarkanda.gov.bd
 upmymensinghholdingtax.gov.bd
+uppabnaholdingtax.gov.bd
 vaxin.dghs.gov.bd
 vlan.cmpi.gov.bd
 webdisk.cafodefence.gov.bd
@@ -111,6 +118,7 @@ webdisk.cbb.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
 webdisk.tseogulshan.gov.bd
 webdisk.unonagarkanda.gov.bd
+webdisk.uppabnaholdingtax.gov.bd
 webdisk.xiclassadmission.gov.bd
 webmail.bicsaa.gov.bd
 webmail.cafodefence.gov.bd
@@ -118,6 +126,7 @@ webmail.cbb.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.unonagarkanda.gov.bd
+webmail.uppabnaholdingtax.gov.bd
 webmail.xiclassadmission.gov.bd
 www.admin.amarai.gameapp.gov.bd
 www.admin.knsikhagrachari.gov.bd
@@ -156,5 +165,6 @@ www.tarakanda.upmymensinghholdingtax.gov.bd
 www.taxeszoneonedhaka.gov.bd
 www.tseogulshan.gov.bd
 www.unonagarkanda.gov.bd
+www.uppabnaholdingtax.gov.bd
 www.xiclassadmission.gov.bd
 xiclassadmission.gov.bd
