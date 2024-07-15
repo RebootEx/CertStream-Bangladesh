@@ -27,6 +27,7 @@ attendance.gov.bd
 attendance.rdobarishal.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bta.gov.bd
+autodiscover.cafodefence.gov.bd
 autodiscover.cbb.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
@@ -65,6 +66,7 @@ bharellasouthup.gov.bd
 bicsaa.gov.bd
 bill.dphe.gov.bd
 billing.a2i.gov.bd
+billingtest.alaap.gov.bd
 birampurpaurashava.gov.bd
 birganjpaurashava.gov.bd
 bise-ctg.gov.bd
@@ -86,6 +88,7 @@ btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
 bvc.gov.bd
 cafobsc.gov.bd
+cafodefence.gov.bd
 cafofooddisaster.gov.bd
 cafolaw.gov.bd
 cafomohfw.gov.bd
@@ -116,6 +119,7 @@ classvi.dinajpurboard.gov.bd
 cltp.gov.bd
 cmc.gov.bd
 cnsatm-ib.gov.bd
+cocc.gov.bd
 college-efiling.dinajpurboard.gov.bd
 comillazp.gov.bd
 contacts.rmch.gov.bd
@@ -126,6 +130,7 @@ cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bicsaa.gov.bd
 cpanel.bta.gov.bd
+cpanel.cafodefence.gov.bd
 cpanel.cbb.gov.bd
 cpanel.ccr.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
@@ -155,6 +160,7 @@ cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bta.gov.bd
+cpcalendars.cafodefence.gov.bd
 cpcalendars.cbb.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
@@ -185,6 +191,7 @@ cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bta.gov.bd
+cpcontacts.cafodefence.gov.bd
 cpcontacts.cbb.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
@@ -392,6 +399,7 @@ mail.bswnbr.gov.bd
 mail.bta.gov.bd
 mail.btc.gov.bd
 mail.btv.gov.bd
+mail.cafodefence.gov.bd
 mail.cbb.gov.bd
 mail.ccb.gov.bd
 mail.ccie.gov.bd
@@ -596,6 +604,7 @@ smarthaat.gov.bd
 smartkrishi.gov.bd
 smartnabipur.gov.bd
 smartoms.mofood.gov.bd
+smartpay.scc.gov.bd
 smartpurbadhairwestup.gov.bd
 smartramchandrapursouthup.gov.bd
 smmbox17.bcc.gov.bd
@@ -679,6 +688,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bta.gov.bd
+webdisk.cafodefence.gov.bd
 webdisk.cbb.gov.bd
 webdisk.ccr.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
@@ -710,6 +720,7 @@ webmail.admin.msdp.gov.bd
 webmail.beza.gov.bd
 webmail.bicsaa.gov.bd
 webmail.bta.gov.bd
+webmail.cafodefence.gov.bd
 webmail.cbb.gov.bd
 webmail.ccr.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
@@ -769,6 +780,7 @@ www.bsiedu.gov.bd
 www.bta.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.btclwifihotspot.gov.bd
+www.cafodefence.gov.bd
 www.cafopsid.gov.bd
 www.cbb.gov.bd
 www.ccr.gov.bd
@@ -866,6 +878,7 @@ www.siteapi.ltuvat.gov.bd
 www.sla.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartnabipur.gov.bd
+www.smartpay.scc.gov.bd
 www.smartpurbadhairwestup.gov.bd
 www.smartramchandrapursouthup.gov.bd
 www.snipegate.karmasangsthanbank.gov.bd
