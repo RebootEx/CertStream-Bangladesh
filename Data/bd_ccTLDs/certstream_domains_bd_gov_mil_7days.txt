@@ -26,6 +26,7 @@ attendance.gov.bd
 attendance.rdobarishal.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bta.gov.bd
+autodiscover.cbb.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.iras.bamis.gov.bd
@@ -93,6 +94,7 @@ cafowater.gov.bd
 career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
+cbb.gov.bd
 cbc.dnbc.gov.bd
 cbctg.gov.bd
 cbraj.gov.bd
@@ -123,6 +125,7 @@ cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bicsaa.gov.bd
 cpanel.bta.gov.bd
+cpanel.cbb.gov.bd
 cpanel.ccr.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpanel.circuithousegopalganj.gov.bd
@@ -151,6 +154,7 @@ cpanel.zsorangpur.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bta.gov.bd
+cpcalendars.cbb.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.circuithousegopalganj.gov.bd
@@ -180,6 +184,7 @@ cpcalendars.zsorangpur.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bta.gov.bd
+cpcontacts.cbb.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.circuithousegopalganj.gov.bd
@@ -379,6 +384,7 @@ mail.bswnbr.gov.bd
 mail.bta.gov.bd
 mail.btc.gov.bd
 mail.btv.gov.bd
+mail.cbb.gov.bd
 mail.ccb.gov.bd
 mail.ccie.gov.bd
 mail.ccr.gov.bd
@@ -517,6 +523,7 @@ notarypublic.gov.bd
 nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
 office.doe.gov.bd
+ois.pgcb.gov.bd
 old.bise-ctg.gov.bd
 old.dknvat.gov.bd
 one.rhd.gov.bd
@@ -662,6 +669,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.admin.msdp.gov.bd
 webdisk.bta.gov.bd
+webdisk.cbb.gov.bd
 webdisk.ccr.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
 webdisk.circuithousegopalganj.gov.bd
@@ -692,6 +700,7 @@ webmail.admin.msdp.gov.bd
 webmail.beza.gov.bd
 webmail.bicsaa.gov.bd
 webmail.bta.gov.bd
+webmail.cbb.gov.bd
 webmail.ccr.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.circuithousegopalganj.gov.bd
@@ -751,6 +760,7 @@ www.bta.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.btclwifihotspot.gov.bd
 www.cafopsid.gov.bd
+www.cbb.gov.bd
 www.ccr.gov.bd
 www.cevlaksam.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
