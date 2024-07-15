@@ -1,4 +1,5 @@
 admin.amarai.gameapp.gov.bd
+asi.dfsrcaab.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
 boardadmin.comillaboard.gov.bd
 cafocommerce.gov.bd
@@ -26,12 +27,15 @@ mail.jessorecustoms.gov.bd
 mail.lcsakhaura.gov.bd
 mail.lcsbibirbazar.gov.bd
 mail.ltuvat.gov.bd
+mail.rangpurvat.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 muktagacha.upmymensinghholdingtax.gov.bd
 mukto.nnsop.gov.bd
+new.vatdhkeast.gov.bd
 old.dknvat.gov.bd
 phulpur.upmymensinghholdingtax.gov.bd
 pmis.dgfp.gov.bd
+rangpurvat.gov.bd
 recruitment.bdansarerp.gov.bd
 siteapi.ltuvat.gov.bd
 smartkrishi.gov.bd
@@ -40,6 +44,7 @@ tealicense.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
 www.admin.amarai.gameapp.gov.bd
+www.asi.dfsrcaab.gov.bd
 www.cevlaksam.gov.bd
 www.dedo.gov.bd
 www.hrm.ekshop.gov.bd
@@ -49,7 +54,9 @@ www.lcsakhaura.gov.bd
 www.lcsbibirbazar.gov.bd
 www.ltuvat.gov.bd
 www.muktagacha.upmymensinghholdingtax.gov.bd
+www.new.vatdhkeast.gov.bd
 www.old.dknvat.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
+www.rangpurvat.gov.bd
 www.siteapi.ltuvat.gov.bd
 www.taxeszoneonedhaka.gov.bd
