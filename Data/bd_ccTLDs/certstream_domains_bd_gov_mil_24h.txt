@@ -2,8 +2,10 @@ aclandbarisalsadar.gov.bd
 amarai.gameapp.gov.bd
 api.diaautomation.gov.bd
 auth.frc.gov.bd
+autodiscover.bamis.gov.bd
 automation.bepza.gov.bd
 backend.bcoecopyright.gov.bd
+bamis.gov.bd
 bepza.gov.bd
 billing.a2i.gov.bd
 billingtest.alaap.gov.bd
@@ -15,15 +17,18 @@ cltp.gov.bd
 college.gov.bd
 comillalg.gov.bd
 coxsbazarmunicipality.gov.bd
+cpanel.bamis.gov.bd
 cpanel.bepza.gov.bd
 cpanel.nabiganjpaurashava.gov.bd
 cpanel.ncc-ward8.gov.bd
 cpanel.pirganjmunicipality.gov.bd
 cpanel.uppabnaholdingtax.gov.bd
+cpcalendars.bamis.gov.bd
 cpcalendars.nabiganjpaurashava.gov.bd
 cpcalendars.ncc-ward8.gov.bd
 cpcalendars.pirganjmunicipality.gov.bd
 cpcalendars.uppabnaholdingtax.gov.bd
+cpcontacts.bamis.gov.bd
 cpcontacts.nabiganjpaurashava.gov.bd
 cpcontacts.ncc-ward8.gov.bd
 cpcontacts.pirganjmunicipality.gov.bd
@@ -41,6 +46,7 @@ enlistmentapi.frc.gov.bd
 erp.bepza.gov.bd
 etds.gov.bd
 frontend.bcoecopyright.gov.bd
+gems.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
 govtorder.afd.gov.bd
 hmis.uphcsdp.gov.bd
@@ -98,6 +104,7 @@ webdisk.uppabnaholdingtax.gov.bd
 webmail.uppabnaholdingtax.gov.bd
 www.amarai.gameapp.gov.bd
 www.backend.bcoecopyright.gov.bd
+www.bamis.gov.bd
 www.bepza.gov.bd
 www.biska.upmymensinghholdingtax.gov.bd
 www.bsachittagong.gov.bd
