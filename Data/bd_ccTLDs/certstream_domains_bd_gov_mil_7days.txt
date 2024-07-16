@@ -74,6 +74,7 @@ bkttcdhaka.gov.bd
 bmet.dev.niseee.gov.bd
 boalmaripaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
+boardadmin.comillaboard.gov.bd
 bogurapolice.gov.bd
 booking.bbcfec.gov.bd
 borhamganjcollege.gov.bd
@@ -87,7 +88,10 @@ bta.gov.bd
 btbckaschool.com.btriapps.gov.bd
 btclwifihotspot.gov.bd
 bvc.gov.bd
+bwc.gov.bd
 cafobsc.gov.bd
+cafocommerce.gov.bd
+cafocultural.gov.bd
 cafodefence.gov.bd
 cafofooddisaster.gov.bd
 cafolaw.gov.bd
@@ -154,6 +158,7 @@ cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.unonagarkanda.gov.bd
+cpanel.uppabnaholdingtax.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
 cpanel.urp.gov.bd
 cpanel.xiclassadmission.gov.bd
@@ -185,6 +190,7 @@ cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.unonagarkanda.gov.bd
+cpcalendars.uppabnaholdingtax.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
 cpcalendars.urp.gov.bd
 cpcalendars.xiclassadmission.gov.bd
@@ -216,6 +222,7 @@ cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
 cpcontacts.tseogulshan.gov.bd
 cpcontacts.unonagarkanda.gov.bd
+cpcontacts.uppabnaholdingtax.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
 cpcontacts.urp.gov.bd
 cpcontacts.xiclassadmission.gov.bd
@@ -266,6 +273,7 @@ ecptrain.uru.gov.bd
 ecs.gov.bd
 edp.gov.bd
 edu.bd.gbrcr.gov.bd
+edutech.gov.bd
 eequip.mowr.gov.bd
 effhsc.comillaboard.gov.bd
 effjsc.comillaboard.gov.bd
@@ -306,6 +314,7 @@ ghabc.gov.bd
 ghorashalpourashava.gov.bd
 gisfs.bpc.gov.bd
 gmscn.dac.gov.bd
+gouripur.upmymensinghholdingtax.gov.bd
 govtorder.afd.gov.bd
 gpon.btcl.gov.bd
 hid.shrlive.dghs.gov.bd
@@ -318,8 +327,10 @@ hris1.msdp.gov.bd
 hrm.ekshop.gov.bd
 hrm.sprangpur.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
+hscresult.bise-ctg.gov.bd
 hscresult.comillaboard.gov.bd
 hscresult1.bise-ctg.gov.bd
+hscrollsheet.comillaboard.gov.bd
 iifc.gov.bd
 ikfmss.gov.bd
 info.dgda.gov.bd
@@ -354,6 +365,7 @@ laravel.sfcair.gov.bd
 lb.dotsim.gov.bd
 lcsakhaura.gov.bd
 lcsbibirbazar.gov.bd
+licence.gov.bd
 lima.dife.gov.bd
 live.platform.futurenation.gov.bd
 lms.pmo.gov.bd
@@ -400,6 +412,7 @@ mail.bswnbr.gov.bd
 mail.bta.gov.bd
 mail.btc.gov.bd
 mail.btv.gov.bd
+mail.bwc.gov.bd
 mail.cafodefence.gov.bd
 mail.cbb.gov.bd
 mail.ccb.gov.bd
@@ -496,6 +509,7 @@ mail.tcb.gov.bd
 mail.tici.gov.bd
 mail.tseogulshan.gov.bd
 mail.unonagarkanda.gov.bd
+mail.uppabnaholdingtax.gov.bd
 mail.upsylhetholdingtax.gov.bd
 mail.urp.gov.bd
 mail.waqf.gov.bd
@@ -521,6 +535,7 @@ monitoring.landzoning.gov.bd
 mopa.gov.bd
 msdp.gov.bd
 mujibjigyasa.gov.bd
+muktagacha.upmymensinghholdingtax.gov.bd
 mukto.nnsop.gov.bd
 munshiganjlg.gov.bd
 name.bise-ctg.gov.bd
@@ -560,6 +575,7 @@ pch.gov.bd
 pdf.bise-ctg.gov.bd
 phfis.dghs.gov.bd
 php.sonagazicollege.gov.bd
+phulpur.upmymensinghholdingtax.gov.bd
 pirojpurtsc.gov.bd
 pmis.dgfp.gov.bd
 pmis.urp.gov.bd
@@ -568,6 +584,7 @@ pppo.gov.bd
 profile.rmch.gov.bd
 provati3-lged.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
+ral.brri.gov.bd
 ramgatipourashava.gov.bd
 rangpurvat.gov.bd
 rdobarishal.gov.bd
@@ -675,12 +692,14 @@ unobagerhatsadar.gov.bd
 unonagarkanda.gov.bd
 upms.ugc.gov.bd
 upmymensinghholdingtax.gov.bd
+uppabnaholdingtax.gov.bd
 upsebarajshahidiv.gov.bd
 upsonod.com.melandahbhata.gov.bd
 upsylhetholdingtax.gov.bd
 urp.gov.bd
 useomadhukhali.gov.bd
 va.dghs.gov.bd
+vaxin.dghs.gov.bd
 vcbig.bcc.gov.bd
 verification.mfacademy.gov.bd
 vimruli.gov.bd
@@ -715,6 +734,7 @@ webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
 webdisk.tseogulshan.gov.bd
 webdisk.unonagarkanda.gov.bd
+webdisk.uppabnaholdingtax.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
 webdisk.urp.gov.bd
 webdisk.xiclassadmission.gov.bd
@@ -747,6 +767,7 @@ webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.unonagarkanda.gov.bd
+webmail.uppabnaholdingtax.gov.bd
 webmail.upsylhetholdingtax.gov.bd
 webmail.urp.gov.bd
 webmail.xiclassadmission.gov.bd
@@ -765,6 +786,7 @@ www.attendance.rdobarishal.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
 www.bamis.gov.bd
 www.bangla.srngih.gov.bd
+www.bangladesh.gov.bd
 www.bdris.melandahbhata.gov.bd
 www.bdrisdata.dcsherpurinfo.gov.bd
 www.bdskills.gov.bd
@@ -784,6 +806,7 @@ www.bsiedu.gov.bd
 www.bta.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.btclwifihotspot.gov.bd
+www.bwc.gov.bd
 www.cafodefence.gov.bd
 www.cafopsid.gov.bd
 www.cbb.gov.bd
@@ -799,13 +822,16 @@ www.cltp.gov.bd
 www.contacts.rmch.gov.bd
 www.ctgdclicense.gov.bd
 www.curriculum.gov.bd
+www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.daulatpurup.gov.bd
 www.dedo.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
 www.demo.kabinazrulcollege.gov.bd
+www.deukhola.upmymensinghholdingtax.gov.bd
 www.develop.aaic.aaic.gov.bd
 www.dfsrcaab.gov.bd
 www.dgca58.gov.bd
+www.dhobaura.upmymensinghholdingtax.gov.bd
 www.digrajshahirange.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
@@ -823,8 +849,10 @@ www.exam.noipunno.gov.bd
 www.gccn.nient.gov.bd
 www.gisfs.bpc.gov.bd
 www.gmscn.dac.gov.bd
+www.gouripur.upmymensinghholdingtax.gov.bd
 www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hijli.distgopalganj.gov.bd
+www.hmis.uphcsdp.gov.bd
 www.hris.msdp.gov.bd
 www.hris1.msdp.gov.bd
 www.hrm.ekshop.gov.bd
@@ -855,7 +883,9 @@ www.meherpara.narsingdilg.gov.bd
 www.monitoring.landzoning.gov.bd
 www.msdp.gov.bd
 www.mujibjigyasa.gov.bd
+www.muktagacha.upmymensinghholdingtax.gov.bd
 www.munshiganjlg.gov.bd
+www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.new.vatdhkeast.gov.bd
 www.ngwc.gov.bd
 www.nlp.gov.bd
@@ -866,6 +896,7 @@ www.old.dknvat.gov.bd
 www.paikarcharup.narsingdilg.gov.bd
 www.pch.gov.bd
 www.php.sonagazicollege.gov.bd
+www.phulpur.upmymensinghholdingtax.gov.bd
 www.pppo.gov.bd
 www.profile.rmch.gov.bd
 www.provati3-lged.gov.bd
@@ -895,6 +926,7 @@ www.sp-server.rpi.gov.bd
 www.staging.shift.gov.bd
 www.stakeholder.beautifulbangladesh.gov.bd
 www.startupsummit.gov.bd
+www.tarakanda.upmymensinghholdingtax.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxesinspection.gov.bd
 www.taxeszone13dhaka.gov.bd
@@ -911,6 +943,7 @@ www.trishal.upmymensinghholdingtax.gov.bd
 www.tseogulshan.gov.bd
 www.ugv2024.gnc.gov.bd
 www.unonagarkanda.gov.bd
+www.uppabnaholdingtax.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
 www.upsylhetholdingtax.gov.bd
 www.urp.gov.bd
