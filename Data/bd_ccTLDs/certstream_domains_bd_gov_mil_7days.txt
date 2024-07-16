@@ -27,6 +27,7 @@ ar.gameapp.gov.bd
 asi.dfsrcaab.gov.bd
 attendance.gov.bd
 attendance.rdobarishal.gov.bd
+auth.frc.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bta.gov.bd
 autodiscover.cafodefence.gov.bd
@@ -45,6 +46,7 @@ autodiscover.taxeszoneonedhaka.gov.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.urp.gov.bd
 az.dotsim.gov.bd
+backend.bcoecopyright.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
 bakshiganjbhata.gov.bd
@@ -244,6 +246,7 @@ dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
 diaautomation.gov.bd
+digitalliteracy.gov.bd
 digrajshahirange.gov.bd
 dikkha.gov.bd
 distgopalganj.gov.bd
@@ -273,6 +276,7 @@ ekshop.gov.bd
 ems.taxeszone3ctg.gov.bd
 eng.sarkaribanglacollege.gov.bd
 enim.nnsop.gov.bd
+enlistmentapi.frc.gov.bd
 eocgeoportal.dncc.gov.bd
 epassport.gov.bd
 erequ.mowr.gov.bd
@@ -509,6 +513,7 @@ merchant.ekpay.gov.bd
 merchant.ekshop.gov.bd
 mfsp.gov.bd
 mfstc.gov.bd
+mis.bhata.gov.bd
 monitoring.landzoning.gov.bd
 mopa.gov.bd
 msdp.gov.bd
@@ -554,6 +559,7 @@ pirojpurtsc.gov.bd
 pmis.dgfp.gov.bd
 pmis.urp.gov.bd
 polytech.gov.bd
+porichoy.gov.bd
 pppo.gov.bd
 profile.rmch.gov.bd
 provati3-lged.gov.bd
@@ -583,6 +589,7 @@ school-efiling.dinajpurboard.gov.bd
 school.gov.bd
 secpass.gov.bd
 senbagcollege.gov.bd
+service.cirt.gov.bd
 sggsc.gov.bd
 shaistaganjmunicipality.gov.bd
 sheikhrusseldigitallab.gov.bd
@@ -636,6 +643,7 @@ tcb.melandahbhata.gov.bd
 teacher.comillaboard.gov.bd
 teachers.gov.bd
 tealicense.gov.bd
+tele-medicine.dghs.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
 testimonials.gov.bd
@@ -754,6 +762,7 @@ www.aoc.dfsrcaab.gov.bd
 www.ar.gameapp.gov.bd
 www.asi.dfsrcaab.gov.bd
 www.attendance.rdobarishal.gov.bd
+www.backend.bcoecopyright.gov.bd
 www.bakshiganjbhata.melandahbhata.gov.bd
 www.bamis.gov.bd
 www.bangla.srngih.gov.bd
@@ -798,6 +807,7 @@ www.demand.taxeszone13dhaka.gov.bd
 www.demo.kabinazrulcollege.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
+www.digitalliteracy.gov.bd
 www.digrajshahirange.gov.bd
 www.dikkha.gov.bd
 www.dpp.gov.bd
@@ -859,6 +869,7 @@ www.paikarcharup.narsingdilg.gov.bd
 www.pch.gov.bd
 www.php.sonagazicollege.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
+www.porichoy.gov.bd
 www.pppo.gov.bd
 www.profile.rmch.gov.bd
 www.provati3-lged.gov.bd
