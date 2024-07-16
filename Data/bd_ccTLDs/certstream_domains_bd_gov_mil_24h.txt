@@ -1,6 +1,7 @@
 amarai.gameapp.gov.bd
 api.diaautomation.gov.bd
 auth.frc.gov.bd
+automation.bepza.gov.bd
 backend.bcoecopyright.gov.bd
 bepza.gov.bd
 billing.a2i.gov.bd
@@ -15,7 +16,10 @@ culmination.bise-ctg.gov.bd
 demo.pch.gov.bd
 diaautomation.gov.bd
 digitalliteracy.gov.bd
+edp.gov.bd
+edu.bd.gbrcr.gov.bd
 effssc.comillaboard.gov.bd
+enlistment.frc.gov.bd
 enlistmentapi.frc.gov.bd
 frontend.bcoecopyright.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
@@ -37,9 +41,11 @@ secpass.gov.bd
 smartbiz.gov.bd
 smartpaharpurup.gov.bd
 taxappealzone2dhaka.gov.bd
+tele-medicine.dghs.gov.bd
 training.gov.bd
 unobagerhatsadar.gov.bd
 upmymensinghholdingtax.gov.bd
+vaxin.dghs.gov.bd
 www.amarai.gameapp.gov.bd
 www.backend.bcoecopyright.gov.bd
 www.bepza.gov.bd
@@ -52,6 +58,7 @@ www.deukhola.upmymensinghholdingtax.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.digitalliteracy.gov.bd
 www.frontend.bcoecopyright.gov.bd
+www.gongaharihighschool.edu.bd.gbrcr.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.lvs.ansarvdpbank.gov.bd
