@@ -10,6 +10,7 @@ admin.msdp.gov.bd
 adminpanel.bise-ctg.gov.bd
 agecorrection.dinajpurboard.gov.bd
 amarai.gameapp.gov.bd
+aoc.dfsrcaab.gov.bd
 api-admin.ekshop.gov.bd
 api-front.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
@@ -136,6 +137,7 @@ cpanel.cbb.gov.bd
 cpanel.ccr.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpanel.circuithousegopalganj.gov.bd
+cpanel.dikkha.gov.bd
 cpanel.hris.msdp.gov.bd
 cpanel.hris1.msdp.gov.bd
 cpanel.iras.bamis.gov.bd
@@ -165,6 +167,7 @@ cpcalendars.cbb.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.circuithousegopalganj.gov.bd
+cpcalendars.dikkha.gov.bd
 cpcalendars.hris.msdp.gov.bd
 cpcalendars.hris1.msdp.gov.bd
 cpcalendars.iras.bamis.gov.bd
@@ -195,6 +198,7 @@ cpcontacts.cbb.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.circuithousegopalganj.gov.bd
+cpcontacts.dikkha.gov.bd
 cpcontacts.hris.msdp.gov.bd
 cpcontacts.hris1.msdp.gov.bd
 cpcontacts.iras.bamis.gov.bd
@@ -237,7 +241,9 @@ dfmtetulia.gov.bd
 dgpay.ekshop.gov.bd
 dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
+diaautomation.gov.bd
 digrajshahirange.gov.bd
+dikkha.gov.bd
 distgopalganj.gov.bd
 dmpi.gov.bd
 dmpwsid.gov.bd
@@ -404,6 +410,7 @@ mail.dedo.gov.bd
 mail.dfp.gov.bd
 mail.dgnm.gov.bd
 mail.dia.gov.bd
+mail.dikkha.gov.bd
 mail.dol.gov.bd
 mail.dot.gov.bd
 mail.dpdc.gov.bd
@@ -677,6 +684,7 @@ webdisk.cbb.gov.bd
 webdisk.ccr.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
 webdisk.circuithousegopalganj.gov.bd
+webdisk.dikkha.gov.bd
 webdisk.hris.msdp.gov.bd
 webdisk.hris1.msdp.gov.bd
 webdisk.iras.bamis.gov.bd
@@ -708,6 +716,7 @@ webmail.cbb.gov.bd
 webmail.ccr.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.circuithousegopalganj.gov.bd
+webmail.dikkha.gov.bd
 webmail.hris.msdp.gov.bd
 webmail.hris1.msdp.gov.bd
 webmail.iras.bamis.gov.bd
@@ -738,6 +747,7 @@ www.admin.amarai.gameapp.gov.bd
 www.admin.knsikhagrachari.gov.bd
 www.admin.msdp.gov.bd
 www.amarai.gameapp.gov.bd
+www.aoc.dfsrcaab.gov.bd
 www.ar.gameapp.gov.bd
 www.asi.dfsrcaab.gov.bd
 www.attendance.rdobarishal.gov.bd
@@ -786,6 +796,7 @@ www.demo.kabinazrulcollege.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.digrajshahirange.gov.bd
+www.dikkha.gov.bd
 www.dpp.gov.bd
 www.du.gameapp.gov.bd
 www.dumainup.faridpurlg.gov.bd
