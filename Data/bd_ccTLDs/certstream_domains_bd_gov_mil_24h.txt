@@ -16,6 +16,7 @@ crm.btrc.gov.bd
 culmination.bise-ctg.gov.bd
 culmination.comillaboard.gov.bd
 curriculum.gov.bd
+diaautomation.gov.bd
 ecptest.uru.gov.bd
 effssc.comillaboard.gov.bd
 facilityregistry.dghs.gov.bd
@@ -44,11 +45,13 @@ service.cirt.gov.bd
 sip-call-apps.ssf.gov.bd
 smartbangladesh.gov.bd
 smartpay.scc.gov.bd
+smms.fid.gov.bd
 specialbranch.gov.bd
 sscesif.comillaboard.gov.bd
 taxappealrajshahi.gov.bd
 taxappealzone2dhaka.gov.bd
 taxeszone6.gov.bd
+templeedu.gov.bd
 training.distgopalganj.gov.bd
 vcbig.bcc.gov.bd
 web.bepza.gov.bd
@@ -67,5 +70,6 @@ www.ncc-ward8.gov.bd
 www.newsletter.ec4j.gov.bd
 www.smartpay.scc.gov.bd
 www.taxappealzone2dhaka.gov.bd
+www.templeedu.gov.bd
 www.training.distgopalganj.gov.bd
 zpnarayanganj.gov.bd
