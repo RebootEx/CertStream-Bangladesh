@@ -1,3 +1,4 @@
+ansarvdpbank.gov.bd
 api.bdansarerp.gov.bd
 automation.bepza.gov.bd
 baghaboup.narsingdilg.gov.bd
@@ -19,6 +20,7 @@ curriculum.gov.bd
 diaautomation.gov.bd
 ecptest.uru.gov.bd
 effssc.comillaboard.gov.bd
+esiraj.gov.bd
 facilityregistry.dghs.gov.bd
 fpcsqit.dgfp.gov.bd
 hscresult1.bise-ctg.gov.bd
@@ -26,17 +28,20 @@ iif.bise-ctg.gov.bd
 khulnashipyard.com.khulnashipyard.gov.bd
 kjtsc.gov.bd
 krishokerjanala.gov.bd
+labourdata.dife.gov.bd
 lalmonirhatmunicipality.gov.bd
 land.gov.bd
 laravel.sfcair.gov.bd
 lgcrrpmis.lged.gov.bd
 lvs.ansarvdpbank.gov.bd
 mail.bwc.gov.bd
+mail.esiraj.gov.bd
 mail.ncc-ward8.gov.bd
 mis.bhata.gov.bd
 narsingdimunicipality.gov.bd
 ncc-ward8.gov.bd
 newsletter.ec4j.gov.bd
+nlp.gov.bd
 onlineadmission.bise-ctg.gov.bd
 resultmanagement.comillaboard.gov.bd
 schedule.brri.gov.bd
@@ -44,6 +49,7 @@ secpass.gov.bd
 service.cirt.gov.bd
 sip-call-apps.ssf.gov.bd
 smartbangladesh.gov.bd
+smartpaharpurup.gov.bd
 smartpay.scc.gov.bd
 smms.fid.gov.bd
 specialbranch.gov.bd
@@ -63,11 +69,14 @@ www.beautifulbangladesh.gov.bd
 www.bharellasouthup.gov.bd
 www.bwc.gov.bd
 www.certificatechecker.pwdta.gov.bd
+www.esiraj.gov.bd
 www.khulnashipyard.com.khulnashipyard.gov.bd
 www.laravel.sfcair.gov.bd
 www.lvs.ansarvdpbank.gov.bd
 www.ncc-ward8.gov.bd
 www.newsletter.ec4j.gov.bd
+www.nlp.gov.bd
+www.smartpaharpurup.gov.bd
 www.smartpay.scc.gov.bd
 www.taxappealzone2dhaka.gov.bd
 www.templeedu.gov.bd
