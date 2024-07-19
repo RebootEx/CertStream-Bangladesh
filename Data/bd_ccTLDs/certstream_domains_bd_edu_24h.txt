@@ -42,11 +42,13 @@ autodiscover.dauc.edu.bd
 autodiscover.dssmm.edu.bd
 autodiscover.fsnsc.edu.bd
 autodiscover.gssm.edu.bd
+autodiscover.hadmadrasah.edu.bd
 autodiscover.htidc.edu.bd
 autodiscover.jhs65.edu.bd
 autodiscover.kutigirlshs.edu.bd
 autodiscover.nhssingair1942.edu.bd
 autodiscover.srpdc.edu.bd
+backend.chiramtmshs.edu.bd
 backend.kutigirlshs.edu.bd
 backend.srpdc.edu.bd
 bafss.edu.bd
@@ -54,6 +56,7 @@ bahcghs.edu.bd
 bairchunahighschool.edu.bd
 balanagarkm.edu.bd
 baliahs.edu.bd
+baliakandigovtcollege.edu.bd
 bamihalblhs.edu.bd
 bandarbangwc.edu.bd
 bandukbhangahs.edu.bd
@@ -152,6 +155,7 @@ cpanel.ghiorgovtcollege.edu.bd
 cpanel.ghs106377.edu.bd
 cpanel.goiarbhangahs.edu.bd
 cpanel.gssm.edu.bd
+cpanel.hadmadrasah.edu.bd
 cpanel.hahnnhs.edu.bd
 cpanel.harinahighschool.edu.bd
 cpanel.hhhuhs.edu.bd
@@ -229,6 +233,7 @@ cpcalendars.ghiorgovtcollege.edu.bd
 cpcalendars.ghs106377.edu.bd
 cpcalendars.goiarbhangahs.edu.bd
 cpcalendars.gssm.edu.bd
+cpcalendars.hadmadrasah.edu.bd
 cpcalendars.hahnnhs.edu.bd
 cpcalendars.harinahighschool.edu.bd
 cpcalendars.hhhuhs.edu.bd
@@ -305,6 +310,7 @@ cpcontacts.ghiorgovtcollege.edu.bd
 cpcontacts.ghs106377.edu.bd
 cpcontacts.goiarbhangahs.edu.bd
 cpcontacts.gssm.edu.bd
+cpcontacts.hadmadrasah.edu.bd
 cpcontacts.hahnnhs.edu.bd
 cpcontacts.harinahighschool.edu.bd
 cpcontacts.hhhuhs.edu.bd
@@ -376,6 +382,7 @@ dmuapghs.edu.bd
 dncollege.edu.bd
 dngcnckss.edu.bd
 dnhsc.edu.bd
+dnsphs.edu.bd
 dohazarigirlsschool.edu.bd
 dohazarigirlsschool.edu.bd.dwc.edu.bd
 dphsn.edu.bd
@@ -403,6 +410,7 @@ fsnsc.edu.bd
 gazipuridealcollege.edu.bd
 gazipurmuslimhs.edu.bd
 gazipurmuslimhs.edu.bd.dwc.edu.bd
+gdsdmadrasah.edu.bd
 generate.esign.sust.edu.bd
 gfm54.edu.bd
 ghiorgovtcollege.edu.bd
@@ -418,11 +426,14 @@ gssm.edu.bd
 gurpipulhs.edu.bd
 gurukchihighschool.edu.bd
 gzlag5zypaeljgnauxofsqlfoik1ta.hhhuhs.edu.bd
+gzmhs.edu.bd
 habibpursfm.edu.bd
 haddahis.edu.bd
+hadmadrasah.edu.bd
 hahnnhs.aabchs.edu.bd
 hahnnhs.edu.bd
 hakkanidsam.edu.bd
+hamccghs.edu.bd
 harinahighschool.edu.bd
 hatiyacollege.edu.bd
 hazimonirhossainhighschool.edu.bd
@@ -496,6 +507,7 @@ knadc.edu.bd
 komallass.edu.bd
 kotaliparanews24.snbghs.edu.bd
 koyraucakm.edu.bd
+kpssk.edu.bd
 kscr.edu.bd
 ksg.edu.bd
 ktbmi.edu.bd
@@ -510,6 +522,7 @@ lead.bkdcl.edu.bd
 lfbhs.edu.bd
 library.amcb.edu.bd
 library.old.ulab.edu.bd
+lifestyle.baitushsharaf.edu.bd
 local.iist-mirpur.edu.bd
 mafm.edu.bd
 maidandighicollege.edu.bd
@@ -559,6 +572,7 @@ mail.ghiorgovtcollege.edu.bd
 mail.ghs106377.edu.bd
 mail.goiarbhangahs.edu.bd
 mail.gssm.edu.bd
+mail.hadmadrasah.edu.bd
 mail.hahnnhs.edu.bd
 mail.harinahighschool.edu.bd
 mail.hhhuhs.edu.bd
@@ -735,6 +749,7 @@ sardarhatghs.edu.bd
 sasdm.edu.bd
 sasdm.kmsnhs.edu.bd
 sbarbsb.edu.bd
+sbmc.edu.bd
 scholarships.eastdelta.edu.bd
 sdkdm.edu.bd
 server.chiramtmshs.edu.bd
@@ -742,6 +757,7 @@ server.sbkc.edu.bd
 sfahs.edu.bd
 sgksakhs.aabchs.edu.bd
 sgksakhs.edu.bd
+sgmc.edu.bd
 shafinacollege.edu.bd
 shahjahankabirhighschool.edu.bd
 shahjahankabirhighschool.edu.bd.dwc.edu.bd
@@ -761,6 +777,7 @@ sirajnagarhighschool.edu.bd
 skbbscr.edu.bd
 sldm.edu.bd
 smmacollege.edu.bd
+snccghs.edu.bd
 sngsc.edu.bd
 snmajalilhs.edu.bd
 snuhs114122.edu.bd
@@ -798,6 +815,7 @@ tghschool.edu.bd
 tmfm.edu.bd
 totamiass.edu.bd
 tpghschool.edu.bd
+tssbb.edu.bd
 ubuhs.edu.bd
 uca.edu.bd
 vdidm.edu.bd
@@ -832,6 +850,7 @@ webdisk.ghiorgovtcollege.edu.bd
 webdisk.ghs106377.edu.bd
 webdisk.goiarbhangahs.edu.bd
 webdisk.gssm.edu.bd
+webdisk.hadmadrasah.edu.bd
 webdisk.harinahighschool.edu.bd
 webdisk.hhhuhs.edu.bd
 webdisk.hollyhock.edu.bd
@@ -899,6 +918,7 @@ webmail.gfm54.edu.bd
 webmail.ghiorgovtcollege.edu.bd
 webmail.ghs106377.edu.bd
 webmail.gssm.edu.bd
+webmail.hadmadrasah.edu.bd
 webmail.hahnnhs.edu.bd
 webmail.harinahighschool.edu.bd
 webmail.hhhuhs.edu.bd
@@ -957,6 +977,7 @@ www.apsgs.edu.bd
 www.ariadangihs.edu.bd
 www.auphs.edu.bd.drchs.edu.bd
 www.autodiscover.spdm1985.edu.bd
+www.backend.chiramtmshs.edu.bd
 www.backend.dohazarigirlsschool.edu.bd
 www.backend.eklashpurhighschool.edu.bd
 www.backend.gazipurmuslimhs.edu.bd
@@ -969,6 +990,7 @@ www.backend.srpdc.edu.bd
 www.bafss.edu.bd
 www.bairchunahighschool.edu.bd
 www.baliahs.edu.bd
+www.baliakandigovtcollege.edu.bd
 www.bandarbangwc.edu.bd
 www.bandukbhangahs.ranidayamoyeehs.edu.bd
 www.bark.edu.bd
@@ -1040,6 +1062,7 @@ www.ghs106377.edu.bd
 www.goiarbhangahs.edu.bd
 www.gssm.edu.bd
 www.gzlag5zypaeljgnauxofsqlfoik1ta.hhhuhs.edu.bd
+www.hadmadrasah.edu.bd
 www.hahnnhs.aabchs.edu.bd
 www.hahnnhs.edu.bd
 www.hakkanidsam.edu.bd
@@ -1089,9 +1112,11 @@ www.kurigrampls.edu.bd
 www.kutigirlshs.edu.bd
 www.lasdm110483.edu.bd
 www.law.cityuniversity.edu.bd
+www.lba.edu.bd
 www.lead.bkdcl.edu.bd
 www.lfbhs.lfbhs.edu.bd
 www.lhr.rpsu.edu.bd
+www.lifestyle.baitushsharaf.edu.bd
 www.local.iist-mirpur.edu.bd
 www.mafm.edu.bd
 www.makarimhighschool.edu.bd
