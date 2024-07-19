@@ -5,6 +5,7 @@ api-ictpolicy.ictd.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.meon.gov.bd
 autodiscover.sfmmttc.gov.bd
+autodiscover.urp.gov.bd
 baghaboup.narsingdilg.gov.bd
 bazarmonitoring.digrajshahirange.gov.bd
 brms.boesl.gov.bd
@@ -26,18 +27,21 @@ cpanel.circuithousegopalganj.gov.bd
 cpanel.meon.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpanel.sfmmttc.gov.bd
+cpanel.urp.gov.bd
 cpcalendars.acland-siddhirganjcircle.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.circuithousegopalganj.gov.bd
 cpcalendars.meon.gov.bd
 cpcalendars.munshiganjlg.gov.bd
 cpcalendars.sfmmttc.gov.bd
+cpcalendars.urp.gov.bd
 cpcontacts.acland-siddhirganjcircle.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.circuithousegopalganj.gov.bd
 cpcontacts.meon.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 cpcontacts.sfmmttc.gov.bd
+cpcontacts.urp.gov.bd
 dac.gov.bd
 dmpi.gov.bd
 dscsc.mil.bd
@@ -48,7 +52,9 @@ esifjsc.comillaboard.gov.bd
 facilityregistry.dghs.gov.bd
 hotels.gov.bd
 investor.icml.gov.bd
+journal.dhakadental.gov.bd
 judipay.gov.bd
+kamaria.upmymensinghholdingtax.gov.bd
 keshabpurpouroshava.gov.bd
 khulnashipyard.com.khulnashipyard.gov.bd
 krishokerjanala.gov.bd
@@ -58,6 +64,7 @@ mail.circuithousegopalganj.gov.bd
 mail.meon.gov.bd
 mail.munshiganjlg.gov.bd
 mail.sfmmttc.gov.bd
+mail.urp.gov.bd
 meon.gov.bd
 munshiganjlg.gov.bd
 narsingdimunicipality.gov.bd
@@ -69,6 +76,7 @@ rab.gov.bd
 raipurpourashava.gov.bd
 rajabariup.gov.bd
 rmet.dae.gov.bd
+rmttc.gov.bd
 sfmmttc.gov.bd
 skbbscr.edu.bd.gbrcr.gov.bd
 smartbangladesh.gov.bd
@@ -79,8 +87,10 @@ surgeryrpmc.gov.bd
 taherpurpourashava.gov.bd
 testimonials.gov.bd
 tofailahmedcollege.gnc.gov.bd
+trishal.upmymensinghholdingtax.gov.bd
 tvi.gov.bd
 tzr.gov.bd
+urp.gov.bd
 web.jamalpurttc.gov.bd
 webdisk.acland-siddhirganjcircle.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
@@ -88,12 +98,14 @@ webdisk.circuithousegopalganj.gov.bd
 webdisk.meon.gov.bd
 webdisk.munshiganjlg.gov.bd
 webdisk.sfmmttc.gov.bd
+webdisk.urp.gov.bd
 webmail.acland-siddhirganjcircle.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.circuithousegopalganj.gov.bd
 webmail.meon.gov.bd
 webmail.munshiganjlg.gov.bd
 webmail.sfmmttc.gov.bd
+webmail.urp.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.acland-siddhirganjcircle.gov.bd
 www.baghaboup.narsingdilg.gov.bd
@@ -106,6 +118,8 @@ www.chawkidar.digrajshahirange.gov.bd
 www.chowmuhanimunicipality.gov.bd
 www.circuithousegopalganj.gov.bd
 www.investor.icml.gov.bd
+www.journal.dhakadental.gov.bd
+www.kamaria.upmymensinghholdingtax.gov.bd
 www.khulnashipyard.com.khulnashipyard.gov.bd
 www.kscr.edu.bd.gbrcr.gov.bd
 www.kurigrampls.edu.bd.gbrcr.gov.bd
@@ -117,4 +131,6 @@ www.sfmmttc.gov.bd
 www.skbbscr.edu.bd.gbrcr.gov.bd
 www.snipegate.karmasangsthanbank.gov.bd
 www.tofailahmedcollege.gnc.gov.bd
+www.trishal.upmymensinghholdingtax.gov.bd
+www.urp.gov.bd
 www.web.jamalpurttc.gov.bd
