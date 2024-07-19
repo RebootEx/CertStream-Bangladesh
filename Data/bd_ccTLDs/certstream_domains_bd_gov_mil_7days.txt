@@ -37,6 +37,7 @@ autodiscover.cbb.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.provati3-lged.gov.bd
+autodiscover.sfmmttc.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
@@ -143,6 +144,7 @@ cpanel.ngwc.gov.bd
 cpanel.pirganjmunicipality.gov.bd
 cpanel.pppo.gov.bd
 cpanel.provati3-lged.gov.bd
+cpanel.sfmmttc.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
@@ -173,6 +175,7 @@ cpcalendars.ngwc.gov.bd
 cpcalendars.pirganjmunicipality.gov.bd
 cpcalendars.pppo.gov.bd
 cpcalendars.provati3-lged.gov.bd
+cpcalendars.sfmmttc.gov.bd
 cpcalendars.taxappealzone3dhaka.gov.bd
 cpcalendars.taxesinspection.gov.bd
 cpcalendars.taxeszone13dhaka.gov.bd
@@ -202,6 +205,7 @@ cpcontacts.ngwc.gov.bd
 cpcontacts.pirganjmunicipality.gov.bd
 cpcontacts.pppo.gov.bd
 cpcontacts.provati3-lged.gov.bd
+cpcontacts.sfmmttc.gov.bd
 cpcontacts.taxappealzone3dhaka.gov.bd
 cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
@@ -386,6 +390,7 @@ mail.pirganjmunicipality.gov.bd
 mail.pppo.gov.bd
 mail.provati3-lged.gov.bd
 mail.rangpurvat.gov.bd
+mail.sfmmttc.gov.bd
 mail.shnibps.gov.bd
 mail.sylhettsc.gov.bd
 mail.taxappealzone3dhaka.gov.bd
@@ -494,6 +499,7 @@ school-efiling.dinajpurboard.gov.bd
 school.gov.bd
 secpass.gov.bd
 service.cirt.gov.bd
+sfmmttc.gov.bd
 shaistaganjmunicipality.gov.bd
 sheikhhasina.gov.bd
 shibpurpaurashava.gov.bd
@@ -605,6 +611,7 @@ webdisk.ngwc.gov.bd
 webdisk.pirganjmunicipality.gov.bd
 webdisk.pppo.gov.bd
 webdisk.provati3-lged.gov.bd
+webdisk.sfmmttc.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
@@ -634,6 +641,7 @@ webmail.ngwc.gov.bd
 webmail.pbrlp.gov.bd
 webmail.pppo.gov.bd
 webmail.provati3-lged.gov.bd
+webmail.sfmmttc.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxappealzone3dhaka.gov.bd
 webmail.taxesinspection.gov.bd
@@ -781,6 +789,7 @@ www.rd.ictbdiasms.gov.bd
 www.register.gameapp.gov.bd
 www.ric.gov.bd
 www.roadshow.sec.gov.bd
+www.sfmmttc.gov.bd
 www.sggsc.gov.bd
 www.shnibps.gov.bd
 www.siteapi.ltuvat.gov.bd
