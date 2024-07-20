@@ -1,5 +1,6 @@
 acland-siddhirganjcircle.gov.bd
 autodiscover.darsanapaurashava.gov.bd
+autodiscover.unosullah.gov.bd
 autodiscover.zplalmonirhat.gov.bd
 autodiscover.zpmeherpur.gov.bd
 bajitpurpaurashava.gov.bd
@@ -13,6 +14,7 @@ cnsatm-ib.gov.bd
 cpanel.darsanapaurashava.gov.bd
 cpanel.pppo.gov.bd
 cpanel.sesip.gov.bd
+cpanel.unosullah.gov.bd
 cpanel.zplalmonirhat.gov.bd
 cpanel.zpmeherpur.gov.bd
 cpanel.zsanatore.gov.bd
@@ -20,6 +22,7 @@ cpcalendars.acland-siddhirganjcircle.gov.bd
 cpcalendars.darsanapaurashava.gov.bd
 cpcalendars.pppo.gov.bd
 cpcalendars.sesip.gov.bd
+cpcalendars.unosullah.gov.bd
 cpcalendars.zplalmonirhat.gov.bd
 cpcalendars.zpmeherpur.gov.bd
 cpcalendars.zsanatore.gov.bd
@@ -27,6 +30,7 @@ cpcontacts.acland-siddhirganjcircle.gov.bd
 cpcontacts.darsanapaurashava.gov.bd
 cpcontacts.pppo.gov.bd
 cpcontacts.sesip.gov.bd
+cpcontacts.unosullah.gov.bd
 cpcontacts.zplalmonirhat.gov.bd
 cpcontacts.zpmeherpur.gov.bd
 cpcontacts.zsanatore.gov.bd
@@ -37,6 +41,7 @@ dmpwsid.gov.bd
 eappointment.dghs.gov.bd
 edge.gov.bd
 ems.titumircollege.gov.bd
+exam-management-hsc2024.dinajpurboard.gov.bd
 exam-management-ssc2024.dinajpurboard.gov.bd
 ghorashalpourashava.gov.bd
 home.gnc.gov.bd
@@ -44,6 +49,7 @@ homnapourashava.gov.bd
 hr.dam.gov.bd
 ideas.nwpgcl.gov.bd
 innovation.dam.gov.bd
+jamalpurttc.gov.bd
 journal.dhakadental.gov.bd
 journal.fima.gov.bd
 kblos.karmasangsthanbank.gov.bd
@@ -52,6 +58,7 @@ mail.darsanapaurashava.gov.bd
 mail.homnapourashava.gov.bd
 mail.pppo.gov.bd
 mail.sesip.gov.bd
+mail.unosullah.gov.bd
 mail.zplalmonirhat.gov.bd
 mail.zpmeherpur.gov.bd
 marmcd.gov.bd
@@ -67,12 +74,17 @@ server.bise-ctg.gov.bd
 sesip.gov.bd
 smartlgi.gov.bd
 smartoms.mofood.gov.bd
+ssndebidwar.gov.bd
+thedp.gov.bd
+unosullah.gov.bd
 upmymensinghholdingtax.gov.bd
+uppabnaholdingtax.gov.bd
 web.jamalpurttc.gov.bd
 webdisk.acland-siddhirganjcircle.gov.bd
 webdisk.darsanapaurashava.gov.bd
 webdisk.pppo.gov.bd
 webdisk.sesip.gov.bd
+webdisk.unosullah.gov.bd
 webdisk.zplalmonirhat.gov.bd
 webdisk.zpmeherpur.gov.bd
 webdisk.zsanatore.gov.bd
@@ -80,6 +92,7 @@ webmail.acland-siddhirganjcircle.gov.bd
 webmail.darsanapaurashava.gov.bd
 webmail.pppo.gov.bd
 webmail.sesip.gov.bd
+webmail.unosullah.gov.bd
 webmail.zplalmonirhat.gov.bd
 webmail.zpmeherpur.gov.bd
 webmail.zsanatore.gov.bd
@@ -96,12 +109,14 @@ www.homnapourashava.gov.bd
 www.journal.dhakadental.gov.bd
 www.journal.fima.gov.bd
 www.kblos.karmasangsthanbank.gov.bd
+www.mulgram.uppabnaholdingtax.gov.bd
 www.oms.tzr.gov.bd
 www.p3sec.dgdp.gov.bd
 www.polytechnichighschool.edu.bd.gbrcr.gov.bd
 www.pppo.gov.bd
 www.sesip.gov.bd
 www.startupsummit.gov.bd
+www.unosullah.gov.bd
 www.web.jamalpurttc.gov.bd
 www.zplalmonirhat.gov.bd
 www.zpmeherpur.gov.bd
