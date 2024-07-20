@@ -362,6 +362,7 @@ autodiscover.gghsm.edu.bd
 autodiscover.ghsm.edu.bd
 autodiscover.gmis.edu.bd
 autodiscover.gmsmhs.edu.bd
+autodiscover.gopalpurcollege.edu.bd
 autodiscover.gsam.edu.bd
 autodiscover.gssm.edu.bd
 autodiscover.gvhsc.edu.bd
@@ -1285,6 +1286,7 @@ cpanel.gmsmhs.edu.bd
 cpanel.goainghatgovtcollege.edu.bd
 cpanel.goiarbhangahs.edu.bd
 cpanel.gondamaraabsfm.edu.bd
+cpanel.gopalpurcollege.edu.bd
 cpanel.gplhs.edu.bd
 cpanel.gsam.edu.bd
 cpanel.gssm.edu.bd
@@ -1529,10 +1531,12 @@ cpanel.scssg.edu.bd
 cpanel.sdqdm.edu.bd
 cpanel.sdsdm.edu.bd
 cpanel.server1.nstu.edu.bd
+cpanel.sftsc.edu.bd
 cpanel.sgsc.edu.bd
 cpanel.shahabajpurschool.edu.bd
 cpanel.shahidnagarimdm.edu.bd
 cpanel.shahidsmritimc.edu.bd
+cpanel.shahjalalrhs.edu.bd
 cpanel.shamalataherschool.edu.bd
 cpanel.shankarmadhabpurhs.edu.bd
 cpanel.shilakgirlscollege.edu.bd
@@ -1763,6 +1767,7 @@ cpcalendars.gmsmhs.edu.bd
 cpcalendars.goainghatgovtcollege.edu.bd
 cpcalendars.goiarbhangahs.edu.bd
 cpcalendars.gondamaraabsfm.edu.bd
+cpcalendars.gopalpurcollege.edu.bd
 cpcalendars.gplhs.edu.bd
 cpcalendars.gsam.edu.bd
 cpcalendars.gssm.edu.bd
@@ -1999,10 +2004,12 @@ cpcalendars.scssg.edu.bd
 cpcalendars.sdqdm.edu.bd
 cpcalendars.sdsdm.edu.bd
 cpcalendars.server1.nstu.edu.bd
+cpcalendars.sftsc.edu.bd
 cpcalendars.sgsc.edu.bd
 cpcalendars.shahabajpurschool.edu.bd
 cpcalendars.shahidnagarimdm.edu.bd
 cpcalendars.shahidsmritimc.edu.bd
+cpcalendars.shahjalalrhs.edu.bd
 cpcalendars.shamalataherschool.edu.bd
 cpcalendars.shankarmadhabpurhs.edu.bd
 cpcalendars.shilakgirlscollege.edu.bd
@@ -2231,6 +2238,7 @@ cpcontacts.gmsmhs.edu.bd
 cpcontacts.goainghatgovtcollege.edu.bd
 cpcontacts.goiarbhangahs.edu.bd
 cpcontacts.gondamaraabsfm.edu.bd
+cpcontacts.gopalpurcollege.edu.bd
 cpcontacts.gplhs.edu.bd
 cpcontacts.gsam.edu.bd
 cpcontacts.gssm.edu.bd
@@ -2466,10 +2474,12 @@ cpcontacts.scssg.edu.bd
 cpcontacts.sdqdm.edu.bd
 cpcontacts.sdsdm.edu.bd
 cpcontacts.server1.nstu.edu.bd
+cpcontacts.sftsc.edu.bd
 cpcontacts.sgsc.edu.bd
 cpcontacts.shahabajpurschool.edu.bd
 cpcontacts.shahidnagarimdm.edu.bd
 cpcontacts.shahidsmritimc.edu.bd
+cpcontacts.shahjalalrhs.edu.bd
 cpcontacts.shamalataherschool.edu.bd
 cpcontacts.shankarmadhabpurhs.edu.bd
 cpcontacts.shilakgirlscollege.edu.bd
@@ -2702,6 +2712,7 @@ dohakuladmjhenaidah.edu.bd
 dohazarigirlsschool.edu.bd
 dohazarigirlsschool.edu.bd.dwc.edu.bd
 domargghs.edu.bd
+domarmlhs.edu.bd
 domnibarihighschool.edu.bd
 dorsonparahs.edu.bd
 dpbmkhdm.edu.bd
@@ -2942,6 +2953,7 @@ gonaigatidm.edu.bd
 gondamaraabsfm.edu.bd
 gongaharihighschool.edu.bd
 gopalpur-highschool.edu.bd
+gopalpurcollege.edu.bd
 gopalpurhschool.edu.bd
 gosdm.edu.bd
 goshaiganjsc.edu.bd
@@ -3230,6 +3242,7 @@ jnca.edu.bd
 jobaidahs68.edu.bd
 jobs.just.edu.bd
 jogardiahs.edu.bd
+jongrajgs.edu.bd
 jorkhalihighschool.edu.bd
 joshoilhs.edu.bd
 journal.swmc.edu.bd
@@ -3549,6 +3562,7 @@ lutfunnesass.edu.bd
 luxmischool.edu.bd
 m.aadmadrasah.edu.bd
 m.badudm.edu.bd
+m.bairataladm.edu.bd
 m.cikm.edu.bd
 m.cpdm.edu.bd
 m.ihdm.edu.bd
@@ -3827,6 +3841,7 @@ mail.goainghatgovtcollege.edu.bd
 mail.gobindaganjgc.edu.bd
 mail.goiarbhangahs.edu.bd
 mail.gondamaraabsfm.edu.bd
+mail.gopalpurcollege.edu.bd
 mail.govtskmrc.edu.bd
 mail.gplhs.edu.bd
 mail.gsam.edu.bd
@@ -4119,11 +4134,13 @@ mail.sdqdm.edu.bd
 mail.sdsdm.edu.bd
 mail.seoratalibghs.edu.bd
 mail.server1.nstu.edu.bd
+mail.sftsc.edu.bd
 mail.sgsc.edu.bd
 mail.shahabajpurschool.edu.bd
 mail.shaherkhalihighschool.edu.bd
 mail.shahidnagarimdm.edu.bd
 mail.shahidsmritimc.edu.bd
+mail.shahjalalrhs.edu.bd
 mail.shamalataherschool.edu.bd
 mail.shankarmadhabpurhs.edu.bd
 mail.sheikhrusselmemories.edu.bd
@@ -4224,6 +4241,7 @@ mbshs.edu.bd
 mbtc.edu.bd
 mbtsc.edu.bd
 mbucollege.edu.bd
+mbum.edu.bd
 mc.edu.bd
 mcc.edu.bd
 mchs.edu.bd
@@ -4242,6 +4260,7 @@ meharifbaraibari.edu.bd
 meharifbaraibari.pmehahs.edu.bd
 meheraliamadrasah.edu.bd
 meherpurmdm.edu.bd
+melabarhs.edu.bd
 mems.edu.bd
 mentor.gachhbariidealcollege.edu.bd
 merchantshs.edu.bd
@@ -4503,6 +4522,7 @@ nikligcpmgovhschool.edu.bd
 nimgachhicollege.edu.bd
 nist.edu.bd
 nistnatore.edu.bd
+nistpolytechnic.edu.bd
 nizam.edu.bd
 nizmeharmphs.edu.bd
 njkdm.edu.bd
@@ -4778,6 +4798,7 @@ ppbdhs.edu.bd
 ppgh.edu.bd
 ppmi.edu.bd
 ppss.edu.bd
+pradm.edu.bd
 prahs.edu.bd
 prcc.edu.bd
 prdhs.edu.bd
@@ -4835,6 +4856,7 @@ rajphs.edu.bd
 rakhs.edu.bd
 ramchandrapuram.edu.bd
 rameshworpurhs.edu.bd
+ramganjbhs.edu.bd
 ramgonjhighschool.edu.bd
 ramkatisecondaryschool.edu.bd
 ramms.edu.bd
@@ -4893,6 +4915,7 @@ rkrmsc.edu.bd
 rmb.edu.bd
 rmcchs.edu.bd
 rmcollege.edu.bd
+rmdm112318.edu.bd
 rmhighschool.edu.bd
 rmhschool.edu.bd
 rmmaghs.edu.bd
@@ -5086,6 +5109,7 @@ sfahs.edu.bd
 sfdcollege.edu.bd
 sfmadrasah.edu.bd
 sfnhs.edu.bd
+sftsc.edu.bd
 sgghsc.edu.bd
 sghschool.edu.bd
 sgkhs.edu.bd
@@ -5110,6 +5134,7 @@ shahjahankabirhighschool.edu.bd
 shahjahankabirhighschool.edu.bd.dwc.edu.bd
 shahjalalgovcollege.edu.bd
 shahjalalhighschool.edu.bd
+shahjalalrhs.edu.bd
 shaistabadgirlsschool.edu.bd
 shakerahs.edu.bd
 shaktalihs.edu.bd
@@ -5306,6 +5331,8 @@ static.cpc.daffodilvarsity.edu.bd
 stfxs.edu.bd
 stghs.edu.bd
 sti.green.edu.bd
+stijhenidah.edu.bd
+stsdm.edu.bd
 stu.sscollege.edu.bd
 student.bmscdhaka.edu.bd
 student.mpsc.edu.bd
@@ -5658,6 +5685,7 @@ webdisk.gmsmhs.edu.bd
 webdisk.goainghatgovtcollege.edu.bd
 webdisk.goiarbhangahs.edu.bd
 webdisk.gondamaraabsfm.edu.bd
+webdisk.gopalpurcollege.edu.bd
 webdisk.gplhs.edu.bd
 webdisk.gsam.edu.bd
 webdisk.gssm.edu.bd
@@ -5893,10 +5921,12 @@ webdisk.scssg.edu.bd
 webdisk.sdqdm.edu.bd
 webdisk.sdsdm.edu.bd
 webdisk.server1.nstu.edu.bd
+webdisk.sftsc.edu.bd
 webdisk.sgsc.edu.bd
 webdisk.shahabajpurschool.edu.bd
 webdisk.shahidnagarimdm.edu.bd
 webdisk.shahidsmritimc.edu.bd
+webdisk.shahjalalrhs.edu.bd
 webdisk.shamalataherschool.edu.bd
 webdisk.shankarmadhabpurhs.edu.bd
 webdisk.shilakgirlscollege.edu.bd
@@ -6095,6 +6125,7 @@ webmail.ghsm.edu.bd
 webmail.gmis.edu.bd
 webmail.gmsmhs.edu.bd
 webmail.gondamaraabsfm.edu.bd
+webmail.gopalpurcollege.edu.bd
 webmail.gplhs.edu.bd
 webmail.gsam.edu.bd
 webmail.gssm.edu.bd
@@ -6313,10 +6344,12 @@ webmail.scssg.edu.bd
 webmail.sdqdm.edu.bd
 webmail.sdsdm.edu.bd
 webmail.server1.nstu.edu.bd
+webmail.sftsc.edu.bd
 webmail.sgsc.edu.bd
 webmail.shahabajpurschool.edu.bd
 webmail.shahidnagarimdm.edu.bd
 webmail.shahidsmritimc.edu.bd
+webmail.shahjalalrhs.edu.bd
 webmail.shamalataherschool.edu.bd
 webmail.shankarmadhabpurhs.edu.bd
 webmail.shilakgirlscollege.edu.bd
@@ -6885,6 +6918,7 @@ www.dncollege.edu.bd
 www.dnhsc.edu.bd
 www.dogachihs.edu.bd
 www.dohazarigirlsschool.edu.bd.dwc.edu.bd
+www.domarmlhs.edu.bd
 www.dorsonparahs.edu.bd
 www.dpbmkhdm.edu.bd
 www.dpg.edu.bd
@@ -6988,6 +7022,7 @@ www.gobindaganjgc.edu.bd
 www.goiarbhangahs.edu.bd
 www.gomnatihs.mirzagonjmlhs.edu.bd
 www.gondamaraabsfm.edu.bd
+www.gopalpurcollege.edu.bd
 www.gopalpurhschool.edu.bd
 www.gouripur.voyager.edu.bd
 www.govtskmrc.edu.bd
@@ -7291,6 +7326,7 @@ www.lutfunnesa.edu.bd
 www.lutfunnesass.edu.bd
 www.m.aadmadrasah.edu.bd
 www.m.badudm.edu.bd
+www.m.bairataladm.edu.bd
 www.m.bpidm.edu.bd
 www.m.cikm.edu.bd
 www.m.cpdm.edu.bd
@@ -7354,6 +7390,7 @@ www.meahbazarcollege.edu.bd
 www.meharifbaraibari.pmehahs.edu.bd
 www.meheraliamadrasah.edu.bd
 www.meherpurmdm.edu.bd
+www.melabarhs.edu.bd
 www.memchs.naghs.edu.bd
 www.mems.edu.bd
 www.mentor.gachhbariidealcollege.edu.bd
@@ -7579,6 +7616,7 @@ www.rajibpurhighschool.edu.bd
 www.rajibpurhighschool.edu.bd.khamarbashahighschool.edu.bd
 www.rajnagarrfm.edu.bd
 www.rakhs.edu.bd
+www.ramganjbhs.edu.bd
 www.ramms.edu.bd
 www.ramnagar.mfschoolaloha.edu.bd
 www.rampurhs66.edu.bd
@@ -7696,6 +7734,7 @@ www.server.amtailhs.edu.bd
 www.server.chiramtmshs.edu.bd
 www.server.ckhuhs.edu.bd
 www.server1.nstu.edu.bd
+www.sftsc.edu.bd
 www.sgksakhs.aabchs.edu.bd
 www.sgsc.edu.bd
 www.shahabajpurschool.edu.bd
@@ -7703,6 +7742,7 @@ www.shaherkhalihighschool.edu.bd
 www.shahidnagarimdm.edu.bd
 www.shahidsmritimc.edu.bd
 www.shahjahankabirhighschool.edu.bd.dwc.edu.bd
+www.shahjalalrhs.edu.bd
 www.shaldharfm.edu.bd.abjmhs.edu.bd
 www.shalshirighs.edu.bd
 www.shamalataherschool.edu.bd

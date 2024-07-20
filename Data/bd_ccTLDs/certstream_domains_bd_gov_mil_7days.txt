@@ -156,6 +156,7 @@ cpanel.uppabnaholdingtax.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
 cpanel.urp.gov.bd
 cpanel.xiclassadmission.gov.bd
+cpanel.zsanatore.gov.bd
 cpcalendars.acland-siddhirganjcircle.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bta.gov.bd
@@ -187,6 +188,7 @@ cpcalendars.uppabnaholdingtax.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
 cpcalendars.urp.gov.bd
 cpcalendars.xiclassadmission.gov.bd
+cpcalendars.zsanatore.gov.bd
 cpcontacts.acland-siddhirganjcircle.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bta.gov.bd
@@ -218,6 +220,7 @@ cpcontacts.uppabnaholdingtax.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
 cpcontacts.urp.gov.bd
 cpcontacts.xiclassadmission.gov.bd
+cpcontacts.zsanatore.gov.bd
 crm.btrc.gov.bd
 ctgdclicense.gov.bd
 culmination.bise-ctg.gov.bd
@@ -408,6 +411,7 @@ mail.uppabnaholdingtax.gov.bd
 mail.upsylhetholdingtax.gov.bd
 mail.urp.gov.bd
 mail.xiclassadmission.gov.bd
+mail.zsanatore.gov.bd
 mailbox.macademy.gov.bd
 marmcd.gov.bd
 marriage.gov.bd
@@ -624,6 +628,7 @@ webdisk.uppabnaholdingtax.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
 webdisk.urp.gov.bd
 webdisk.xiclassadmission.gov.bd
+webdisk.zsanatore.gov.bd
 webmail.acland-siddhirganjcircle.gov.bd
 webmail.beza.gov.bd
 webmail.bicsaa.gov.bd
@@ -655,6 +660,7 @@ webmail.uppabnaholdingtax.gov.bd
 webmail.upsylhetholdingtax.gov.bd
 webmail.urp.gov.bd
 webmail.xiclassadmission.gov.bd
+webmail.zsanatore.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.acland-siddhirganjcircle.gov.bd
 www.admin.amarai.gameapp.gov.bd
@@ -835,8 +841,10 @@ www.upsylhetholdingtax.gov.bd
 www.urp.gov.bd
 www.web.jamalpurttc.gov.bd
 www.xiclassadmission.gov.bd
+www.zsanatore.gov.bd
 xiclassadmission.gov.bd
 zplalmonirhat.gov.bd
 zpnarayanganj.gov.bd
 zpsherpur.gov.bd
 zpthakurgaon.gov.bd
+zsanatore.gov.bd
