@@ -512,6 +512,7 @@ autodiscover.ssdcb.edu.bd
 autodiscover.tgpmhs.edu.bd
 autodiscover.tidm.edu.bd
 autodiscover.tpss.edu.bd
+autodiscover.tsc.edu.bd
 autodiscover.tsphs.edu.bd
 autodiscover.tss.edu.bd
 autodiscover.tss115413.edu.bd
@@ -1008,6 +1009,7 @@ chandrapurhsc.edu.bd
 chandsarhmahschool.edu.bd
 changmarihighschool.edu.bd
 chanuahigh.edu.bd
+chaormghs.edu.bd
 charayodhyahs.edu.bd
 charbagdangahs.edu.bd
 charbariass.edu.bd
@@ -1555,6 +1557,7 @@ cpanel.smahs.edu.bd
 cpanel.smaisdm.edu.bd
 cpanel.smjihs.edu.bd
 cpanel.sonapurnurulislamhighschool.edu.bd
+cpanel.sondailhighschool.edu.bd
 cpanel.sreemontapurmasatterhs.edu.bd
 cpanel.srpdc.edu.bd
 cpanel.srshs.edu.bd
@@ -1563,6 +1566,7 @@ cpanel.sunnyhillsc.edu.bd
 cpanel.tgpmhs.edu.bd
 cpanel.tidm.edu.bd
 cpanel.tpss.edu.bd
+cpanel.tsc.edu.bd
 cpanel.tsphs.edu.bd
 cpanel.tss.edu.bd
 cpanel.tss115413.edu.bd
@@ -2028,6 +2032,7 @@ cpcalendars.smahs.edu.bd
 cpcalendars.smaisdm.edu.bd
 cpcalendars.smjihs.edu.bd
 cpcalendars.sonapurnurulislamhighschool.edu.bd
+cpcalendars.sondailhighschool.edu.bd
 cpcalendars.sreemontapurmasatterhs.edu.bd
 cpcalendars.srpdc.edu.bd
 cpcalendars.srshs.edu.bd
@@ -2036,6 +2041,7 @@ cpcalendars.sunnyhillsc.edu.bd
 cpcalendars.tgpmhs.edu.bd
 cpcalendars.tidm.edu.bd
 cpcalendars.tpss.edu.bd
+cpcalendars.tsc.edu.bd
 cpcalendars.tsphs.edu.bd
 cpcalendars.tss.edu.bd
 cpcalendars.tss115413.edu.bd
@@ -2497,6 +2503,7 @@ cpcontacts.smahs.edu.bd
 cpcontacts.smaisdm.edu.bd
 cpcontacts.smjihs.edu.bd
 cpcontacts.sonapurnurulislamhighschool.edu.bd
+cpcontacts.sondailhighschool.edu.bd
 cpcontacts.sreemontapurmasatterhs.edu.bd
 cpcontacts.srpdc.edu.bd
 cpcontacts.srshs.edu.bd
@@ -2505,6 +2512,7 @@ cpcontacts.sunnyhillsc.edu.bd
 cpcontacts.tgpmhs.edu.bd
 cpcontacts.tidm.edu.bd
 cpcontacts.tpss.edu.bd
+cpcontacts.tsc.edu.bd
 cpcontacts.tsphs.edu.bd
 cpcontacts.tss.edu.bd
 cpcontacts.tss115413.edu.bd
@@ -2711,6 +2719,7 @@ dogachihs.edu.bd
 dohakuladmjhenaidah.edu.bd
 dohazarigirlsschool.edu.bd
 dohazarigirlsschool.edu.bd.dwc.edu.bd
+dokkhinkumriagirlsschool.edu.bd
 domargghs.edu.bd
 domarmlhs.edu.bd
 domnibarihighschool.edu.bd
@@ -2837,6 +2846,7 @@ fatehpursachs.edu.bd
 fatemahaiss.edu.bd
 fatepuradm.edu.bd
 fbgs.edu.bd
+fbudm.edu.bd
 fccdc.edu.bd
 fees.ugv.edu.bd
 fhdm.edu.bd
@@ -3588,6 +3598,7 @@ madhudia.edu.bd
 madhupurkazirhaths.edu.bd
 madhyakulmam.edu.bd
 madrasah.dfgsam.edu.bd
+madrasah.kbm.edu.bd
 madrasah.skm.edu.bd
 madrasahemohammadiaarabiafazilmadrasah.edu.bd
 maeti.edu.bd
@@ -4032,6 +4043,7 @@ mail.muss.edu.bd
 mail.mwhs.edu.bd
 mail.myasac.edu.bd
 mail.nacholewomenscollege.edu.bd
+mail.nahsc.edu.bd
 mail.naogaonghs.edu.bd
 mail.naphschool.edu.bd
 mail.natipotass.edu.bd
@@ -4164,6 +4176,7 @@ mail.smjihs.edu.bd
 mail.smmodelgovt.edu.bd
 mail.snccghs.edu.bd
 mail.sonapurnurulislamhighschool.edu.bd
+mail.sondailhighschool.edu.bd
 mail.spmss.edu.bd
 mail.srdmp.edu.bd
 mail.sreemontapurmasatterhs.edu.bd
@@ -4181,6 +4194,7 @@ mail.tidm.edu.bd
 mail.totamiass.edu.bd
 mail.tpss.edu.bd
 mail.tripanibidyapith.edu.bd
+mail.tsc.edu.bd
 mail.tsphs.edu.bd
 mail.tss.edu.bd
 mail.tss115413.edu.bd
@@ -4440,6 +4454,7 @@ nagargolahs.edu.bd
 naghs.edu.bd
 naharacademy.edu.bd
 nahhms.edu.bd
+nahsc.edu.bd
 naikhongchharitsc.edu.bd
 nakshaalimmadrasah.edu.bd
 nakuchahs.edu.bd
@@ -5280,6 +5295,7 @@ sonapursshschool.edu.bd
 sonarayhs.edu.bd
 sonarbanglahs.edu.bd
 sonargaongri.edu.bd
+sondailhighschool.edu.bd
 sothpurhs.edu.bd
 soty.rtss.edu.bd
 southmotukpurhs.edu.bd
@@ -5385,6 +5401,7 @@ tarss.edu.bd
 tatdc.edu.bd
 tdcbogura.edu.bd
 tdcnil.edu.bd
+tdikm102971.edu.bd
 tec.edu.bd
 techpeaks.asiannursing.edu.bd
 tecn.edu.bd
@@ -5416,6 +5433,7 @@ tidm.edu.bd
 tikrampurhs.edu.bd
 tilaijhs.edu.bd
 tisdm.edu.bd
+tist.edu.bd
 tjcbbd.khkhsm.edu.bd
 tjfhs.edu.bd
 tjhs.edu.bd
@@ -5432,6 +5450,7 @@ trmmghs.edu.bd
 truhschool.edu.bd
 trustuniversity.edu.bd
 tsasandc.edu.bd
+tsc.edu.bd
 tsphs.edu.bd
 tss.edu.bd
 tss115413.edu.bd
@@ -5945,6 +5964,7 @@ webdisk.smahs.edu.bd
 webdisk.smaisdm.edu.bd
 webdisk.smjihs.edu.bd
 webdisk.sonapurnurulislamhighschool.edu.bd
+webdisk.sondailhighschool.edu.bd
 webdisk.sreemontapurmasatterhs.edu.bd
 webdisk.srpdc.edu.bd
 webdisk.srshs.edu.bd
@@ -5953,6 +5973,7 @@ webdisk.sunnyhillsc.edu.bd
 webdisk.tgpmhs.edu.bd
 webdisk.tidm.edu.bd
 webdisk.tpss.edu.bd
+webdisk.tsc.edu.bd
 webdisk.tsphs.edu.bd
 webdisk.tss.edu.bd
 webdisk.tss115413.edu.bd
@@ -6368,6 +6389,7 @@ webmail.smahs.edu.bd
 webmail.smaisdm.edu.bd
 webmail.smjihs.edu.bd
 webmail.sonapurnurulislamhighschool.edu.bd
+webmail.sondailhighschool.edu.bd
 webmail.sreemontapurmasatterhs.edu.bd
 webmail.srpdc.edu.bd
 webmail.srshs.edu.bd
@@ -6375,6 +6397,7 @@ webmail.ssdcb.edu.bd
 webmail.tgpmhs.edu.bd
 webmail.tidm.edu.bd
 webmail.tpss.edu.bd
+webmail.tsc.edu.bd
 webmail.tsphs.edu.bd
 webmail.tss.edu.bd
 webmail.tss115413.edu.bd
@@ -6609,6 +6632,7 @@ www.backend.shimrailhs.edu.bd
 www.backend.snuhs114122.edu.bd
 www.backend.sonapurnurulislamhighschool.edu.bd
 www.backend.srpdc.edu.bd
+www.backend.tdikm102971.edu.bd
 www.backend.victoriaschool.edu.bd
 www.backend.yhsrajbari.edu.bd
 www.backend.ywca.edu.bd
@@ -7346,6 +7370,7 @@ www.m.ucsdm1984.edu.bd
 www.m.vmdm.edu.bd
 www.madhobpurhs.edu.bd
 www.madrasah.dfgsam.edu.bd
+www.madrasah.kbm.edu.bd
 www.madrasah.skm.edu.bd
 www.mafm.edu.bd
 www.magazine.bcc.edu.bd
@@ -7463,6 +7488,7 @@ www.nachnaparamss.edu.bd.abjmhs.edu.bd
 www.nacholewomenscollege.edu.bd
 www.nadampurhighschool.edu.bd
 www.naharacademy.edu.bd
+www.nahsc.edu.bd
 www.nakuchahs.edu.bd.nagargolahs.edu.bd
 www.naogaonghs.edu.bd
 www.naphschool.edu.bd
@@ -7812,6 +7838,7 @@ www.solveits.maeti.edu.bd
 www.sonapurnurulislamhighschool.edu.bd
 www.sonapurnurulislamhighschool.edu.bd.jhs.edu.bd
 www.sonapursshschool.edu.bd
+www.sondailhighschool.edu.bd
 www.soty.rtss.edu.bd
 www.southsjhs.edu.bd
 www.spblhs.edu.bd
@@ -7886,6 +7913,7 @@ www.tripanibidyapith.edu.bd
 www.tripanibidyapith.edu.bd.nbksmadrasah.edu.bd
 www.trmmghs.edu.bd
 www.trustuniversity.edu.bd
+www.tsc.edu.bd
 www.tsphs.edu.bd
 www.tss.edu.bd
 www.tss115413.edu.bd
