@@ -281,6 +281,7 @@ autodiscover.backend.jhiniahighschool.edu.bd
 autodiscover.bafss.edu.bd
 autodiscover.baharpurcollege.edu.bd
 autodiscover.baharpurgirlshighschool.edu.bd
+autodiscover.baitushsharaf.edu.bd
 autodiscover.baluakandischool.edu.bd
 autodiscover.banorgachischool.edu.bd
 autodiscover.baonarahighschool.edu.bd
@@ -1155,6 +1156,7 @@ cpanel.baharpurcollege.edu.bd
 cpanel.baharpurgirlshighschool.edu.bd
 cpanel.bairacollege.edu.bd
 cpanel.bairchunahighschool.edu.bd
+cpanel.baitushsharaf.edu.bd
 cpanel.balagonjgovtcollege.edu.bd
 cpanel.baliaparahsc.edu.bd
 cpanel.baluakandischool.edu.bd
@@ -1610,6 +1612,7 @@ cpanel.sunnyhillsc.edu.bd
 cpanel.tgpmhs.edu.bd
 cpanel.thaneswarsc.edu.bd
 cpanel.tidm.edu.bd
+cpanel.tjgirlshighschool.edu.bd
 cpanel.tpss.edu.bd
 cpanel.tsc.edu.bd
 cpanel.tsphs.edu.bd
@@ -1676,6 +1679,7 @@ cpcalendars.bafss.edu.bd
 cpcalendars.baharpurcollege.edu.bd
 cpcalendars.baharpurgirlshighschool.edu.bd
 cpcalendars.bairacollege.edu.bd
+cpcalendars.baitushsharaf.edu.bd
 cpcalendars.balagonjgovtcollege.edu.bd
 cpcalendars.baliaparahsc.edu.bd
 cpcalendars.baluakandischool.edu.bd
@@ -2120,6 +2124,7 @@ cpcalendars.sunnyhillsc.edu.bd
 cpcalendars.tgpmhs.edu.bd
 cpcalendars.thaneswarsc.edu.bd
 cpcalendars.tidm.edu.bd
+cpcalendars.tjgirlshighschool.edu.bd
 cpcalendars.tpss.edu.bd
 cpcalendars.tsc.edu.bd
 cpcalendars.tsphs.edu.bd
@@ -2185,6 +2190,7 @@ cpcontacts.bafss.edu.bd
 cpcontacts.baharpurcollege.edu.bd
 cpcontacts.baharpurgirlshighschool.edu.bd
 cpcontacts.bairacollege.edu.bd
+cpcontacts.baitushsharaf.edu.bd
 cpcontacts.balagonjgovtcollege.edu.bd
 cpcontacts.baliaparahsc.edu.bd
 cpcontacts.baluakandischool.edu.bd
@@ -2627,6 +2633,7 @@ cpcontacts.sunnyhillsc.edu.bd
 cpcontacts.tgpmhs.edu.bd
 cpcontacts.thaneswarsc.edu.bd
 cpcontacts.tidm.edu.bd
+cpcontacts.tjgirlshighschool.edu.bd
 cpcontacts.tpss.edu.bd
 cpcontacts.tsc.edu.bd
 cpcontacts.tsphs.edu.bd
@@ -3465,6 +3472,7 @@ kccghs.edu.bd
 kccollege.edu.bd
 kcga.edu.bd
 kcgs.edu.bd
+kch1970.edu.bd
 kcmsc.edu.bd
 kdedm110238.edu.bd
 kdedm110238.edu.bd.aamc.edu.bd
@@ -3772,6 +3780,7 @@ mail.bafss.edu.bd
 mail.baharpurcollege.edu.bd
 mail.baharpurgirlshighschool.edu.bd
 mail.bairacollege.edu.bd
+mail.baitushsharaf.edu.bd
 mail.balagonjgovtcollege.edu.bd
 mail.baliahs.edu.bd
 mail.baliaparahsc.edu.bd
@@ -4345,6 +4354,7 @@ mail.tgpmhs.edu.bd
 mail.thaneswarsc.edu.bd
 mail.tidm.edu.bd
 mail.tjfhs.edu.bd
+mail.tjgirlshighschool.edu.bd
 mail.totamiass.edu.bd
 mail.tpss.edu.bd
 mail.tripanibidyapith.edu.bd
@@ -5599,6 +5609,7 @@ tisdm.edu.bd
 tist.edu.bd
 tjcbbd.khkhsm.edu.bd
 tjfhs.edu.bd
+tjgirlshighschool.edu.bd
 tjhs.edu.bd
 tjmhs.edu.bd
 tmdm.edu.bd
@@ -5729,6 +5740,7 @@ webdisk.bafss.edu.bd
 webdisk.baharpurcollege.edu.bd
 webdisk.baharpurgirlshighschool.edu.bd
 webdisk.bairacollege.edu.bd
+webdisk.baitushsharaf.edu.bd
 webdisk.balagonjgovtcollege.edu.bd
 webdisk.baliaparahsc.edu.bd
 webdisk.baluakandischool.edu.bd
@@ -6171,6 +6183,7 @@ webdisk.sunnyhillsc.edu.bd
 webdisk.tgpmhs.edu.bd
 webdisk.thaneswarsc.edu.bd
 webdisk.tidm.edu.bd
+webdisk.tjgirlshighschool.edu.bd
 webdisk.tpss.edu.bd
 webdisk.tsc.edu.bd
 webdisk.tsphs.edu.bd
@@ -6230,6 +6243,7 @@ webmail.baharpurcollege.edu.bd
 webmail.baharpurgirlshighschool.edu.bd
 webmail.bairacollege.edu.bd
 webmail.bairchunahighschool.edu.bd
+webmail.baitushsharaf.edu.bd
 webmail.balagonjgovtcollege.edu.bd
 webmail.baliaparahsc.edu.bd
 webmail.baluakandischool.edu.bd
@@ -6630,6 +6644,7 @@ webmail.ssdcb.edu.bd
 webmail.tgpmhs.edu.bd
 webmail.thaneswarsc.edu.bd
 webmail.tidm.edu.bd
+webmail.tjgirlshighschool.edu.bd
 webmail.tpss.edu.bd
 webmail.tsc.edu.bd
 webmail.tsphs.edu.bd
@@ -6896,6 +6911,7 @@ www.bahshs.edu.bd.bakapurhighschool.edu.bd
 www.bairacollege.edu.bd
 www.bairagirchar.edu.bd
 www.bairchunahighschool.edu.bd
+www.baitushsharaf.edu.bd
 www.balagonjgovtcollege.edu.bd
 www.baliahs.edu.bd
 www.baliakandigovtcollege.edu.bd
@@ -8165,6 +8181,7 @@ www.tidm.edu.bd
 www.tisdm.edu.bd
 www.tjcbbd.khkhsm.edu.bd
 www.tjfhs.edu.bd
+www.tjgirlshighschool.edu.bd
 www.tmdm.edu.bd
 www.tmksgs.edu.bd
 www.totamiass.edu.bd
