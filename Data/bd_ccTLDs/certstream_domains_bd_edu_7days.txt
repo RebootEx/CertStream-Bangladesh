@@ -505,6 +505,7 @@ autodiscover.sdsdm.edu.bd
 autodiscover.server1.nstu.edu.bd
 autodiscover.sgsc.edu.bd
 autodiscover.shahidnagarimdm.edu.bd
+autodiscover.shandhanischoolandcollege.edu.bd
 autodiscover.shilakgirlscollege.edu.bd
 autodiscover.shoronikahighschool.edu.bd
 autodiscover.shshsm.edu.bd
@@ -609,6 +610,7 @@ bahcghs.edu.bd
 bahshs.edu.bd
 bahshs.edu.bd.bakapurhighschool.edu.bd
 baikm.edu.bd
+baikunthapurhs.edu.bd
 bairacollege.edu.bd
 bairagirchar.edu.bd
 bairchunahighschool.edu.bd
@@ -889,6 +891,7 @@ bodm.edu.bd
 bohschool.edu.bd
 bongobirmagohs.edu.bd
 bongpurhs.edu.bd
+bonjogicharahs.edu.bd
 borobihanalihs.edu.bd
 borochegsdm.edu.bd
 boropilakjuniorhighschool.edu.bd
@@ -1470,6 +1473,7 @@ cpanel.munsuralihs.edu.bd
 cpanel.mushuddiafazuddinhighschool.edu.bd
 cpanel.nacholewomenscollege.edu.bd
 cpanel.naphschool.edu.bd
+cpanel.naporashs.edu.bd
 cpanel.natipotass.edu.bd
 cpanel.nauddm.edu.bd
 cpanel.nazirhatcollege104466.edu.bd
@@ -1567,6 +1571,7 @@ cpanel.shahidnagarimdm.edu.bd
 cpanel.shahidsmritimc.edu.bd
 cpanel.shahjalalrhs.edu.bd
 cpanel.shamalataherschool.edu.bd
+cpanel.shandhanischoolandcollege.edu.bd
 cpanel.shankarmadhabpurhs.edu.bd
 cpanel.shilakgirlscollege.edu.bd
 cpanel.shoronikahighschool.edu.bd
@@ -1612,6 +1617,7 @@ cpanel.ukzps.edu.bd
 cpanel.urkircharhs.edu.bd
 cpanel.verendihs.edu.bd
 cpanel.victoriaschool.edu.bd
+cpanel.wbbdm.edu.bd
 cpanel.wehs.edu.bd
 cpanel.yhsrajbari.edu.bd
 cpanel.ywcacumilla.edu.bd
@@ -1974,6 +1980,7 @@ cpcalendars.munshigonjss.edu.bd
 cpcalendars.munsuralihs.edu.bd
 cpcalendars.nacholewomenscollege.edu.bd
 cpcalendars.naphschool.edu.bd
+cpcalendars.naporashs.edu.bd
 cpcalendars.natipotass.edu.bd
 cpcalendars.nauddm.edu.bd
 cpcalendars.nazirhatcollege104466.edu.bd
@@ -2070,6 +2077,7 @@ cpcalendars.shahidnagarimdm.edu.bd
 cpcalendars.shahidsmritimc.edu.bd
 cpcalendars.shahjalalrhs.edu.bd
 cpcalendars.shamalataherschool.edu.bd
+cpcalendars.shandhanischoolandcollege.edu.bd
 cpcalendars.shankarmadhabpurhs.edu.bd
 cpcalendars.shilakgirlscollege.edu.bd
 cpcalendars.shoronikahighschool.edu.bd
@@ -2114,6 +2122,7 @@ cpcalendars.ukzps.edu.bd
 cpcalendars.urkircharhs.edu.bd
 cpcalendars.verendihs.edu.bd
 cpcalendars.victoriaschool.edu.bd
+cpcalendars.wbbdm.edu.bd
 cpcalendars.wehs.edu.bd
 cpcalendars.yhsrajbari.edu.bd
 cpcalendars.ywcacumilla.edu.bd
@@ -2476,6 +2485,7 @@ cpcontacts.munshigonjss.edu.bd
 cpcontacts.munsuralihs.edu.bd
 cpcontacts.nacholewomenscollege.edu.bd
 cpcontacts.naphschool.edu.bd
+cpcontacts.naporashs.edu.bd
 cpcontacts.natipotass.edu.bd
 cpcontacts.nauddm.edu.bd
 cpcontacts.nazirhatcollege104466.edu.bd
@@ -2571,6 +2581,7 @@ cpcontacts.shahidnagarimdm.edu.bd
 cpcontacts.shahidsmritimc.edu.bd
 cpcontacts.shahjalalrhs.edu.bd
 cpcontacts.shamalataherschool.edu.bd
+cpcontacts.shandhanischoolandcollege.edu.bd
 cpcontacts.shankarmadhabpurhs.edu.bd
 cpcontacts.shilakgirlscollege.edu.bd
 cpcontacts.shsa.edu.bd
@@ -2614,6 +2625,7 @@ cpcontacts.ukzps.edu.bd
 cpcontacts.urkircharhs.edu.bd
 cpcontacts.verendihs.edu.bd
 cpcontacts.victoriaschool.edu.bd
+cpcontacts.wbbdm.edu.bd
 cpcontacts.wehs.edu.bd
 cpcontacts.yhsrajbari.edu.bd
 cpcontacts.ywcacumilla.edu.bd
@@ -2816,6 +2828,7 @@ dpfdm.edu.bd
 dpg.edu.bd
 dphs129870.edu.bd
 dphsn.edu.bd
+dpis.edu.bd
 dpmumm.edu.bd
 dpss.edu.bd
 drchs.edu.bd
@@ -2985,6 +2998,7 @@ gateway.easternuni.edu.bd
 gatiaahhs.edu.bd
 gavasschool.edu.bd
 gayespurhs.edu.bd
+gazaria.edu.bd
 gazihamidm.edu.bd
 gazipuridealcollege.edu.bd
 gazipurmuslimhs.edu.bd
@@ -4143,6 +4157,7 @@ mail.nacholewomenscollege.edu.bd
 mail.nahsc.edu.bd
 mail.naogaonghs.edu.bd
 mail.naphschool.edu.bd
+mail.naporashs.edu.bd
 mail.narichamhs.edu.bd
 mail.natipotass.edu.bd
 mail.nauddm.edu.bd
@@ -4262,6 +4277,7 @@ mail.shahidnagarimdm.edu.bd
 mail.shahidsmritimc.edu.bd
 mail.shahjalalrhs.edu.bd
 mail.shamalataherschool.edu.bd
+mail.shandhanischoolandcollege.edu.bd
 mail.shankarmadhabpurhs.edu.bd
 mail.sheikhrusselmemories.edu.bd
 mail.shilakgirlscollege.edu.bd
@@ -4323,6 +4339,7 @@ mail.ums.kyau.edu.bd
 mail.urkircharhs.edu.bd
 mail.verendihs.edu.bd
 mail.victoriaschool.edu.bd
+mail.wbbdm.edu.bd
 mail.wdbhs.edu.bd
 mail.wehs.edu.bd
 mail.yhsrajbari.edu.bd
@@ -4577,6 +4594,7 @@ naogaonghs.edu.bd
 naphschool.edu.bd
 naphschool.edu.bd.dwc.edu.bd
 napitkhalisecondaryschool.edu.bd
+naporashs.edu.bd
 narandiahs.edu.bd
 narandihighschool.edu.bd
 narangihs.edu.bd
@@ -4704,6 +4722,7 @@ old.peerpurhighschool.edu.bd
 old.phahs.edu.bd
 old.rampurhighs.edu.bd
 old.sfmwhc.edu.bd
+old.ugv.edu.bd
 oldsite.ywca.edu.bd
 omhs.edu.bd
 one.karimpurkkbhs.edu.bd
@@ -5525,6 +5544,7 @@ test.kalardoaniass.edu.bd
 test.miam79.edu.bd
 test.rckhs.edu.bd
 test.sherpurgovtcollege.edu.bd
+test.ugv.edu.bd
 tgc.edu.bd
 tgchschool.edu.bd
 tghs1967.edu.bd
@@ -5628,6 +5648,7 @@ vm2.iom.edu.bd
 vschs.edu.bd
 w.bkdcl.edu.bd
 waizabadfm.edu.bd
+wbbdm.edu.bd
 wdbhs.edu.bd
 webapi.bsmraau.edu.bd
 webdisk.62adm.edu.bd
@@ -5988,6 +6009,7 @@ webdisk.munshigonjss.edu.bd
 webdisk.munsuralihs.edu.bd
 webdisk.nacholewomenscollege.edu.bd
 webdisk.naphschool.edu.bd
+webdisk.naporashs.edu.bd
 webdisk.natipotass.edu.bd
 webdisk.nauddm.edu.bd
 webdisk.nazirhatcollege104466.edu.bd
@@ -6126,6 +6148,7 @@ webdisk.ujss.edu.bd
 webdisk.urkircharhs.edu.bd
 webdisk.verendihs.edu.bd
 webdisk.victoriaschool.edu.bd
+webdisk.wbbdm.edu.bd
 webdisk.wehs.edu.bd
 webdisk.yhsrajbari.edu.bd
 webdisk.ywcacumilla.edu.bd
@@ -6441,6 +6464,7 @@ webmail.munsuralihs.edu.bd
 webmail.mushuddiafazuddinhighschool.edu.bd
 webmail.nacholewomenscollege.edu.bd
 webmail.naphschool.edu.bd
+webmail.naporashs.edu.bd
 webmail.natipotass.edu.bd
 webmail.nauddm.edu.bd
 webmail.nazirhatcollege104466.edu.bd
@@ -6580,6 +6604,7 @@ webmail.ujss.edu.bd
 webmail.urkircharhs.edu.bd
 webmail.verendihs.edu.bd
 webmail.victoriaschool.edu.bd
+webmail.wbbdm.edu.bd
 webmail.wehs.edu.bd
 webmail.yhsrajbari.edu.bd
 webmail.zihs.edu.bd
@@ -6686,6 +6711,7 @@ www.admission.primeasia.edu.bd
 www.admission.rpsu.edu.bd
 www.admission.su.edu.bd
 www.admission.uca.edu.bd
+www.admission2.ugv.edu.bd
 www.admissions.kharkhoriadm.edu.bd
 www.adsdm.edu.bd
 www.adsm.edu.bd
@@ -7670,6 +7696,7 @@ www.nakuchahs.edu.bd.nagargolahs.edu.bd
 www.naogaonghs.edu.bd
 www.naphschool.edu.bd
 www.naphschool.edu.bd.dwc.edu.bd
+www.naporashs.edu.bd
 www.nariagovtcollege.edu.bd
 www.narichamhs.edu.bd
 www.natipotass.edu.bd
@@ -7745,6 +7772,7 @@ www.old.phahs.edu.bd
 www.old.rampurhighs.edu.bd
 www.old.saradeshwarighs.edu.bd
 www.old.sfmwhc.edu.bd
+www.old.ugv.edu.bd
 www.oldsite.ywca.edu.bd
 www.omhs.edu.bd.jrmb.edu.bd
 www.one.karimpurkkbhs.edu.bd
@@ -8079,6 +8107,7 @@ www.test.jhalakatiislamiafm.edu.bd
 www.test.kalardoaniass.edu.bd
 www.test.miam79.edu.bd
 www.test.rckhs.edu.bd
+www.test.ugv.edu.bd
 www.tex.green.edu.bd
 www.textile.cityuniversity.edu.bd
 www.tfd.rpsu.edu.bd
@@ -8127,6 +8156,7 @@ www.victoriaschool.edu.bd
 www.victorycollege.edu.bd
 www.vschs.edu.bd.drchs.edu.bd
 www.w.bkdcl.edu.bd
+www.wbbdm.edu.bd
 www.wdbhs.edu.bd
 www.webdisk.spdm1985.edu.bd
 www.wehs.edu.bd
