@@ -27,6 +27,7 @@ dashboard.ipemis.training.dpe.gov.bd
 dpg.grs.gov.bd
 edu.bd.gbrcr.gov.bd
 ems.titumircollege.gov.bd
+hariarkuthidm.edu.bd.gbrcr.gov.bd
 ilab.gov.bd
 investor.icml.gov.bd
 ipemis.training.dpe.gov.bd
@@ -35,7 +36,9 @@ laravel.cafolgd.gov.bd
 login.ipemis.training.dpe.gov.bd
 mail.cafodefence.gov.bd
 mail.cbb.gov.bd
+mail.cpatos.gov.bd
 mail.taxeszone12dhaka.gov.bd
+moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 muktagacha.upmymensinghholdingtax.gov.bd
 naldangamunicipality.gov.bd
 nimh.gov.bd
@@ -48,6 +51,7 @@ soft.tscnatore.gov.bd
 sttc.gov.bd
 sujanagarmunicipality.gov.bd
 taxeszone12dhaka.gov.bd
+ullaparapaurashava.gov.bd
 web.jamalpurttc.gov.bd
 webdisk.bcoecopyright.gov.bd
 webdisk.cafodefence.gov.bd
@@ -60,10 +64,13 @@ www.aoc.dfsrcaab.gov.bd
 www.bcoecopyright.gov.bd
 www.cafodefence.gov.bd
 www.cbb.gov.bd
+www.hariarkuthidm.edu.bd.gbrcr.gov.bd
 www.investor.icml.gov.bd
 www.kurigrampls.edu.bd.gbrcr.gov.bd
 www.laravel.cafolgd.gov.bd
+www.moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 www.muktagacha.upmymensinghholdingtax.gov.bd
+www.old.dhakadental.gov.bd
 www.phulpur.upmymensinghholdingtax.gov.bd
 www.soft.tscnatore.gov.bd
 www.sttc.gov.bd
