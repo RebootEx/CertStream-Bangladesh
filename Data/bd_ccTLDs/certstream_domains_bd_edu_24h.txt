@@ -8,11 +8,13 @@ admin.tdikm102971.edu.bd
 admin.trsc.edu.bd
 adss.edu.bd
 adughsc.edu.bd
+afi.edu.bd
 ahis.edu.bd.aamc.edu.bd
 aib.edu.bd
 aisharahighschool.edu.bd
 ait.edu.bd
 akmmhms.edu.bd
+aknahs.edu.bd
 alodinischool.edu.bd
 alumni.vu.edu.bd
 amfmdnj.edu.bd
@@ -85,6 +87,7 @@ chogdm.edu.bd
 cmahs.edu.bd
 cmdck.edu.bd
 convocation.green.edu.bd
+cpanel.aknahs.edu.bd
 cpanel.amfmdnj.edu.bd
 cpanel.amhsctg.edu.bd
 cpanel.awa.edu.bd
@@ -123,6 +126,7 @@ cpanel.sarhs.edu.bd
 cpanel.sathibaricollege.edu.bd
 cpanel.sdsdmadrasah.edu.bd
 cpanel.spahs.edu.bd
+cpcalendars.aknahs.edu.bd
 cpcalendars.amfmdnj.edu.bd
 cpcalendars.amhsctg.edu.bd
 cpcalendars.awa.edu.bd
@@ -163,6 +167,7 @@ cpcalendars.sathibaricollege.edu.bd
 cpcalendars.sdsdmadrasah.edu.bd
 cpcalendars.shankarmadhabpurhs.edu.bd
 cpcalendars.spahs.edu.bd
+cpcontacts.aknahs.edu.bd
 cpcontacts.amfmdnj.edu.bd
 cpcontacts.amhsctg.edu.bd
 cpcontacts.awa.edu.bd
@@ -235,8 +240,10 @@ eschool.kssschool.edu.bd
 fatepuradm.edu.bd
 fayezrdm.edu.bd
 fghs.edu.bd
+gabtoliwc.edu.bd
 gaghs.edu.bd
 gazirhatdeco.edu.bd
+gbuhsc.edu.bd
 goalkhalihs.edu.bd
 gobariahighschool.edu.bd
 gsfm.edu.bd
@@ -248,6 +255,7 @@ hakkanidsam.edu.bd
 hatibhangas.edu.bd
 hdumam.dsam.edu.bd
 hdumam.edu.bd
+hghsc.edu.bd
 hmmkhs.edu.bd
 holynursing.edu.bd
 hssmnadm.edu.bd
@@ -293,6 +301,7 @@ lebudangahs.edu.bd
 lifestyle.baitushsharaf.edu.bd
 mahabbatkhanhighschool.edu.bd
 mail.aisharahighschool.edu.bd
+mail.aknahs.edu.bd
 mail.amfmdnj.edu.bd
 mail.amhsctg.edu.bd
 mail.awa.edu.bd
@@ -430,6 +439,7 @@ sfnhs.edu.bd
 sghsptk.edu.bd
 shahjalalgovcollege.edu.bd
 shdc.edu.bd
+shreemontopurghs.edu.bd
 shss.edu.bd
 shyamhs.edu.bd
 sijghs.edu.bd
@@ -444,6 +454,7 @@ spahs.edu.bd
 stfxs.edu.bd
 taltalagirlshighschool.edu.bd
 tangdukm.edu.bd
+tgsss.edu.bd
 tilaijhs.edu.bd
 tmm.edu.bd
 ttcrangpur.edu.bd
@@ -451,6 +462,7 @@ ucbt.edu.bd
 ukdmadrasha.edu.bd
 uttargramblhighschool.edu.bd
 victorianursing.edu.bd
+webdisk.aknahs.edu.bd
 webdisk.amfmdnj.edu.bd
 webdisk.amhsctg.edu.bd
 webdisk.awa.edu.bd
@@ -489,6 +501,7 @@ webdisk.sarhs.edu.bd
 webdisk.sathibaricollege.edu.bd
 webdisk.sdsdmadrasah.edu.bd
 webdisk.spahs.edu.bd
+webmail.aknahs.edu.bd
 webmail.amfmdnj.edu.bd
 webmail.amhsctg.edu.bd
 webmail.awa.edu.bd
@@ -543,10 +556,12 @@ www.ahis.edu.bd.aamc.edu.bd
 www.aib.edu.bd
 www.aisharahighschool.edu.bd
 www.ait.edu.bd
+www.aknahs.edu.bd
 www.alumni.vu.edu.bd
 www.amfmdnj.edu.bd
 www.amhsctg.edu.bd
 www.api.pcist.ist.edu.bd
+www.app.gabtoliwc.edu.bd
 www.arabic.cvgc.edu.bd
 www.awa.edu.bd
 www.back.kftcs.edu.bd
@@ -601,6 +616,7 @@ www.gulbaharghs.edu.bd
 www.hadmadrasah.edu.bd
 www.hdumam.dsam.edu.bd
 www.hdumam.edu.bd
+www.hghsc.edu.bd
 www.history.cvgc.edu.bd
 www.hmmkhs.edu.bd
 www.holynursing.edu.bd

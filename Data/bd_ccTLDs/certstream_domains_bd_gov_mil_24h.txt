@@ -26,6 +26,7 @@ grs.ec4j.gov.bd
 hrm.mfstc.gov.bd
 iif.bise-ctg.gov.bd
 journal.dhakadental.gov.bd
+journal.fima.gov.bd
 laravel.cafolgd.gov.bd
 lawjusticediv.gov.bd
 location.karmasangsthanbank.gov.bd
@@ -64,6 +65,7 @@ www.finance.ec4j.gov.bd
 www.grs.ec4j.gov.bd
 www.hrm.mfstc.gov.bd
 www.journal.dhakadental.gov.bd
+www.journal.fima.gov.bd
 www.laravel.cafolgd.gov.bd
 www.location.karmasangsthanbank.gov.bd
 www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
