@@ -438,6 +438,7 @@ newsletter.ec4j.gov.bd
 nient.gov.bd
 nimh.gov.bd
 nlp.gov.bd
+nmcp.gov.bd
 ntrc.gameapp.gov.bd
 nutritionprofile.nnsop.gov.bd
 nwpgcl.gov.bd
@@ -461,6 +462,7 @@ phulpur.upmymensinghholdingtax.gov.bd
 pirganjmunicipality.gov.bd
 pmo.gov.bd
 police.gov.bd
+polytech.gov.bd
 polytechnichighschool.edu.bd.gbrcr.gov.bd
 porichoy.gov.bd
 portal.dgme.gov.bd
@@ -553,6 +555,7 @@ taxesinspection.gov.bd
 taxeszone12dhaka.gov.bd
 taxeszone13dhaka.gov.bd
 taxeszone3dhaka.gov.bd
+taxeszone4dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszone8dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
@@ -564,6 +567,7 @@ tekpou.gov.bd
 tele-medicine.dghs.gov.bd
 templeedu.gov.bd
 test.gameapp.gov.bd
+test.habiganjpourashava.gov.bd
 testimonials.gov.bd
 testing.award.smartbangladesh.gov.bd
 thedp.gov.bd
@@ -573,6 +577,7 @@ training.distgopalganj.gov.bd
 training.gov.bd
 trainingrtpcr.iedcr.gov.bd
 trishal.upmymensinghholdingtax.gov.bd
+ttms.dpe.gov.bd
 turn.vc8.bcc.gov.bd
 tvi.gov.bd
 tzr.gov.bd
@@ -652,6 +657,7 @@ webmail.urp.gov.bd
 webmail.zplalmonirhat.gov.bd
 webmail.zpmeherpur.gov.bd
 webmail.zsanatore.gov.bd
+wms.ansarvdp.gov.bd
 workshop.fireservice.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
 www.acland-siddhirganjcircle.gov.bd
@@ -820,11 +826,13 @@ www.taxesinspection.gov.bd
 www.taxeszone12dhaka.gov.bd
 www.taxeszone13dhaka.gov.bd
 www.taxeszone3dhaka.gov.bd
+www.taxeszone4dhaka.gov.bd
 www.taxeszone8dhaka.gov.bd
 www.taxeszoneonedhaka.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
 www.templeedu.gov.bd
 www.test.gameapp.gov.bd
+www.test.habiganjpourashava.gov.bd
 www.tofailahmedcollege.gnc.gov.bd
 www.training.distgopalganj.gov.bd
 www.trishal.upmymensinghholdingtax.gov.bd
