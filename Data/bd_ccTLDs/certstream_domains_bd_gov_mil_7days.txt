@@ -36,6 +36,7 @@ autodiscover.provati3-lged.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
+autodiscover.taxeszone12dhaka.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
 autodiscover.taxeszone3dhaka.gov.bd
 autodiscover.taxeszoneonedhaka.gov.bd
@@ -55,6 +56,7 @@ bamis.gov.bd
 bangla.srngih.gov.bd
 bangladesh.gov.bd
 barcouncil.gov.bd
+basbjobportal.gov.bd
 bazarmonitoring.digrajshahirange.gov.bd
 bbcfec.gov.bd
 bbggc.gov.bd
@@ -96,6 +98,7 @@ cafomopa.gov.bd
 cafopsid.gov.bd
 caforoads.gov.bd
 cafosocial.gov.bd
+cafotj.gov.bd
 cafotnt.gov.bd
 cafowomenchild.gov.bd
 cbb.gov.bd
@@ -140,9 +143,11 @@ cpanel.pppo.gov.bd
 cpanel.provati3-lged.gov.bd
 cpanel.sesip.gov.bd
 cpanel.sfmmttc.gov.bd
+cpanel.sylhetbetar.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
+cpanel.taxeszone12dhaka.gov.bd
 cpanel.taxeszone13dhaka.gov.bd
 cpanel.taxeszone3dhaka.gov.bd
 cpanel.taxeszoneonedhaka.gov.bd
@@ -172,8 +177,10 @@ cpcalendars.pppo.gov.bd
 cpcalendars.provati3-lged.gov.bd
 cpcalendars.sesip.gov.bd
 cpcalendars.sfmmttc.gov.bd
+cpcalendars.sylhetbetar.gov.bd
 cpcalendars.taxappealzone3dhaka.gov.bd
 cpcalendars.taxesinspection.gov.bd
+cpcalendars.taxeszone12dhaka.gov.bd
 cpcalendars.taxeszone13dhaka.gov.bd
 cpcalendars.taxeszone3dhaka.gov.bd
 cpcalendars.taxeszoneonedhaka.gov.bd
@@ -203,8 +210,10 @@ cpcontacts.pppo.gov.bd
 cpcontacts.provati3-lged.gov.bd
 cpcontacts.sesip.gov.bd
 cpcontacts.sfmmttc.gov.bd
+cpcontacts.sylhetbetar.gov.bd
 cpcontacts.taxappealzone3dhaka.gov.bd
 cpcontacts.taxesinspection.gov.bd
+cpcontacts.taxeszone12dhaka.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
@@ -288,6 +297,7 @@ ghorashalpourashava.gov.bd
 gouripur.upmymensinghholdingtax.gov.bd
 govtorder.afd.gov.bd
 gpon.btcl.gov.bd
+grs.ec4j.gov.bd
 hariarkuthidm.edu.bd.gbrcr.gov.bd
 health.nwpgcl.gov.bd
 hmis.uphcsdp.gov.bd
@@ -296,6 +306,7 @@ homnapourashava.gov.bd
 hotels.gov.bd
 hr.dam.gov.bd
 hrm.ekshop.gov.bd
+hrm.mfstc.gov.bd
 hscresult.bise-ctg.gov.bd
 hscresult.comillaboard.gov.bd
 hscresult1.bise-ctg.gov.bd
@@ -343,6 +354,7 @@ lalmonirhatmunicipality.gov.bd
 land.gov.bd
 laravel.cafolgd.gov.bd
 laravel.sfcair.gov.bd
+lawjusticediv.gov.bd
 lb.dotsim.gov.bd
 lcsakhaura.gov.bd
 lcsbibirbazar.gov.bd
@@ -388,9 +400,11 @@ mail.rangpurvat.gov.bd
 mail.sesip.gov.bd
 mail.sfmmttc.gov.bd
 mail.shnibps.gov.bd
+mail.sylhetbetar.gov.bd
 mail.sylhettsc.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
+mail.taxeszone12dhaka.gov.bd
 mail.taxeszone13dhaka.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
@@ -412,9 +426,11 @@ mmch.gov.bd
 monitoring.landzoning.gov.bd
 moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 msdp.gov.bd
+muktagacha.upmymensinghholdingtax.gov.bd
 mukto.nnsop.gov.bd
 munshiganjlg.gov.bd
 nabiganjpaurashava.gov.bd
+naldangamunicipality.gov.bd
 name.bise-ctg.gov.bd
 nameageserv.comillaboard.gov.bd
 narsingdimunicipality.gov.bd
@@ -432,6 +448,7 @@ nutritionprofile.nnsop.gov.bd
 office.dam.gov.bd
 ois.pgcb.gov.bd
 old.bise-ctg.gov.bd
+old.dhakadental.gov.bd
 old.dknvat.gov.bd
 oms.tzr.gov.bd
 onlineadmission.bise-ctg.gov.bd
@@ -443,6 +460,7 @@ patuakhalimunicipality.gov.bd
 pch.gov.bd
 pdf.bise-ctg.gov.bd
 pel.dfsrcaab.gov.bd
+phulpur.upmymensinghholdingtax.gov.bd
 pirganjmunicipality.gov.bd
 pmo.gov.bd
 police.gov.bd
@@ -486,6 +504,7 @@ sfmmttc.gov.bd
 shaistaganjmunicipality.gov.bd
 sheikhhasina.gov.bd
 shibpurpaurashava.gov.bd
+shmcht.gov.bd
 shnibps.gov.bd
 sip-apps.ssf.gov.bd
 sip-call-apps.ssf.gov.bd
@@ -520,9 +539,11 @@ stakeholder.beautifulbangladesh.gov.bd
 startupbangladeshvc.gov.bd
 sttc.gov.bd
 students.dgme.gov.bd
+sujanagarmunicipality.gov.bd
 supervision.dghs.gov.bd
 surgeryrpmc.gov.bd
 sv.dotsim.gov.bd
+sylhetbetar.gov.bd
 sylhettsc.gov.bd
 systems.brri.gov.bd
 taherpurpourashava.gov.bd
@@ -531,6 +552,7 @@ taxappealrajshahi.gov.bd
 taxappealzone2dhaka.gov.bd
 taxappealzone3dhaka.gov.bd
 taxesinspection.gov.bd
+taxeszone12dhaka.gov.bd
 taxeszone13dhaka.gov.bd
 taxeszone3dhaka.gov.bd
 taxeszone6.gov.bd
@@ -591,9 +613,11 @@ webdisk.pppo.gov.bd
 webdisk.provati3-lged.gov.bd
 webdisk.sesip.gov.bd
 webdisk.sfmmttc.gov.bd
+webdisk.sylhetbetar.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
+webdisk.taxeszone12dhaka.gov.bd
 webdisk.taxeszone13dhaka.gov.bd
 webdisk.taxeszone3dhaka.gov.bd
 webdisk.taxeszoneonedhaka.gov.bd
@@ -619,9 +643,11 @@ webmail.pppo.gov.bd
 webmail.provati3-lged.gov.bd
 webmail.sesip.gov.bd
 webmail.sfmmttc.gov.bd
+webmail.sylhetbetar.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxappealzone3dhaka.gov.bd
 webmail.taxesinspection.gov.bd
+webmail.taxeszone12dhaka.gov.bd
 webmail.taxeszone13dhaka.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
@@ -703,12 +729,14 @@ www.fulbaria.upmymensinghholdingtax.gov.bd
 www.gccn.nient.gov.bd
 www.gongaharihighschool.edu.bd.gbrcr.gov.bd
 www.gouripur.upmymensinghholdingtax.gov.bd
+www.grs.ec4j.gov.bd
 www.hariarkuthidm.edu.bd.gbrcr.gov.bd
 www.haripurhspr.edu.bd.gbrcr.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.home.gnc.gov.bd
 www.homnapourashava.gov.bd
 www.hrm.ekshop.gov.bd
+www.hrm.mfstc.gov.bd
 www.investor.icml.gov.bd
 www.it.iifc.gov.bd
 www.jalalpur.upsylhetholdingtax.gov.bd
@@ -759,6 +787,7 @@ www.oms.tzr.gov.bd
 www.p3sec.dgdp.gov.bd
 www.pch.gov.bd
 www.pel.dfsrcaab.gov.bd
+www.phulpur.upmymensinghholdingtax.gov.bd
 www.pirganjmunicipality.gov.bd
 www.polytechnichighschool.edu.bd.gbrcr.gov.bd
 www.porichoy.gov.bd
@@ -786,12 +815,14 @@ www.stakeholder.beautifulbangladesh.gov.bd
 www.startupsummit.gov.bd
 www.store.bspi.gov.bd
 www.sttc.gov.bd
+www.sylhetbetar.gov.bd
 www.sylhettsc.gov.bd
 www.taltalagirlshighschool.edu.bd.gbrcr.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
 www.taxappealzone2dhaka.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxesinspection.gov.bd
+www.taxeszone12dhaka.gov.bd
 www.taxeszone13dhaka.gov.bd
 www.taxeszone3dhaka.gov.bd
 www.taxeszone8dhaka.gov.bd
