@@ -21,11 +21,15 @@ cpcontacts.ec4j.gov.bd
 cpcontacts.sfmmttc.gov.bd
 cpcontacts.sylhetbetar.gov.bd
 culmination.bise-ctg.gov.bd
+dashboard.blri.gov.bd
 dashboard.iedcr.gov.bd
 dashboard.ipemis.dpe.gov.bd
+ddpr.gov.bd
+dpeojhenaidah.gov.bd
 ec4j.gov.bd
 effssc.comillaboard.gov.bd
 eksheba.gov.bd
+elicense.fireservice.gov.bd
 ems.taxeszone3ctg.gov.bd
 finance.ec4j.gov.bd
 gatepass.chc.gov.bd
@@ -37,8 +41,10 @@ iif.bise-ctg.gov.bd
 ipemis.dpe.gov.bd
 journal.dhakadental.gov.bd
 journal.fima.gov.bd
+land.gov.bd
 laravel.cafolgd.gov.bd
 lawjusticediv.gov.bd
+live3.bmd.gov.bd
 location.karmasangsthanbank.gov.bd
 login.ipemis.dpe.gov.bd
 lvs.ansarvdpbank.gov.bd
@@ -55,6 +61,7 @@ polytechnichighschool.edu.bd.gbrcr.gov.bd
 pouroseba.gov.bd
 rmttc.gov.bd
 school.gov.bd
+secpass.gov.bd
 sfmmttc.gov.bd
 shmcht.gov.bd
 smartlgi.gov.bd
@@ -65,6 +72,7 @@ taltalagirlshighschool.edu.bd.gbrcr.gov.bd
 task.ec4j.gov.bd
 taxappealzone2dhaka.gov.bd
 training.gov.bd
+ueopat.gov.bd
 upmymensinghholdingtax.gov.bd
 uzparaihazar.gov.bd
 webdisk.acland-siddhirganjcircle.gov.bd
@@ -93,6 +101,7 @@ www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mne.ec4j.gov.bd
 www.old.dhakadental.gov.bd
 www.polytechnichighschool.edu.bd.gbrcr.gov.bd
+www.pti.ueopat.gov.bd
 www.sfmmttc.gov.bd
 www.smartpay.scc.gov.bd
 www.sylhetbetar.gov.bd
