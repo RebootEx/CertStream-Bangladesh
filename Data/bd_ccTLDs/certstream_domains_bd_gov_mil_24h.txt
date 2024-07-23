@@ -1,5 +1,6 @@
 acland-siddhirganjcircle.gov.bd
 api.ipemis.dpe.gov.bd
+assetgate.karmasangsthanbank.gov.bd
 autodiscover.ec4j.gov.bd
 autodiscover.sfmmttc.gov.bd
 baharkachnagirlshighschool.edu.bd.gbrcr.gov.bd
@@ -25,9 +26,11 @@ dashboard.blri.gov.bd
 dashboard.iedcr.gov.bd
 dashboard.ipemis.dpe.gov.bd
 ddpr.gov.bd
+demo.certificatefuldin.gov.bd
 dpeojhenaidah.gov.bd
 ec4j.gov.bd
 effssc.comillaboard.gov.bd
+egppplus.ddm.gov.bd
 eksheba.gov.bd
 elicense.fireservice.gov.bd
 ems.taxeszone3ctg.gov.bd
@@ -54,6 +57,7 @@ mail.sfmmttc.gov.bd
 mail.sylhetbetar.gov.bd
 mne.ec4j.gov.bd
 ntcc.gov.bd
+office.fta.gov.bd
 old.dhakadental.gov.bd
 ops.ipemis.dpe.gov.bd
 polytech.gov.bd
@@ -84,9 +88,11 @@ webmail.ec4j.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.sylhetbetar.gov.bd
 www.acland-siddhirganjcircle.gov.bd
+www.assetgate.karmasangsthanbank.gov.bd
 www.baharkachnagirlshighschool.edu.bd.gbrcr.gov.bd
 www.biska.upmymensinghholdingtax.gov.bd
 www.cedp.gbrcr.gov.bd
+www.demo.certificatefuldin.gov.bd
 www.ec4j.gov.bd
 www.ems.taxeszone3ctg.gov.bd
 www.finance.ec4j.gov.bd
@@ -99,6 +105,7 @@ www.location.karmasangsthanbank.gov.bd
 www.lvs.ansarvdpbank.gov.bd
 www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mne.ec4j.gov.bd
+www.office.fta.gov.bd
 www.old.dhakadental.gov.bd
 www.polytechnichighschool.edu.bd.gbrcr.gov.bd
 www.pti.ueopat.gov.bd
