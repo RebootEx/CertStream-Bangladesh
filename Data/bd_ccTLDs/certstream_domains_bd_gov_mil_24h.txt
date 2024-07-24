@@ -9,12 +9,14 @@ basailpaurashava.gov.bd
 basurhatpourashava.gov.bd
 bazardor.gov.bd
 bholapourashava.gov.bd
+bnscp.navy.mil.bd
 bspi.gov.bd
 cedp.gbrcr.gov.bd
 certification.bdskills.gov.bd
 chittagongzoo.gov.bd
 comillalg.gov.bd
 coxsbazarmunicipality.gov.bd
+coxsbazarpolice.gov.bd
 cpadigital.gov.bd
 cpanel.cpadigital.gov.bd
 cpanel.darsanapaurashava.gov.bd
@@ -74,6 +76,7 @@ mail.zpmeherpur.gov.bd
 mne.ec4j.gov.bd
 nabiganjpaurashava.gov.bd
 ncc-ward8.gov.bd
+network.ekshop.gov.bd
 ntcc.gov.bd
 office.fta.gov.bd
 pirganjmunicipality.gov.bd
@@ -108,8 +111,10 @@ webmail.zpmeherpur.gov.bd
 www.basailpaurashava.gov.bd
 www.basurhatpourashava.gov.bd
 www.bholapourashava.gov.bd
+www.bnscp.navy.mil.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
+www.coxsbazarpolice.gov.bd
 www.cpadigital.gov.bd
 www.darsanapaurashava.gov.bd
 www.demo.certificatefuldin.gov.bd
@@ -123,6 +128,7 @@ www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.nabiganjpaurashava.gov.bd
 www.ncc-ward8.gov.bd
+www.network.ekshop.gov.bd
 www.office.fta.gov.bd
 www.old.bspi.gov.bd
 www.p3sec.dgdp.gov.bd
