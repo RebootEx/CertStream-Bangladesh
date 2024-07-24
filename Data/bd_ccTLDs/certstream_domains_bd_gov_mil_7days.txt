@@ -124,12 +124,14 @@ corona.gov.bd
 coxpoly.gov.bd
 coxsbazarmunicipality.gov.bd
 coxsbazarpolice.gov.bd
+cpadigital.gov.bd
 cpanel.bcoecopyright.gov.bd
 cpanel.bta.gov.bd
 cpanel.cafodefence.gov.bd
 cpanel.cbb.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpanel.circuithousegopalganj.gov.bd
+cpanel.cpadigital.gov.bd
 cpanel.darsanapaurashava.gov.bd
 cpanel.dikkha.gov.bd
 cpanel.meon.gov.bd
@@ -162,6 +164,7 @@ cpcalendars.cafodefence.gov.bd
 cpcalendars.cbb.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.circuithousegopalganj.gov.bd
+cpcalendars.cpadigital.gov.bd
 cpcalendars.darsanapaurashava.gov.bd
 cpcalendars.dikkha.gov.bd
 cpcalendars.meon.gov.bd
@@ -193,6 +196,7 @@ cpcontacts.cafodefence.gov.bd
 cpcontacts.cbb.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.circuithousegopalganj.gov.bd
+cpcontacts.cpadigital.gov.bd
 cpcontacts.darsanapaurashava.gov.bd
 cpcontacts.dikkha.gov.bd
 cpcontacts.meon.gov.bd
@@ -235,6 +239,7 @@ dewanganjpaurashava.gov.bd
 dfmtetulia.gov.bd
 dgdp.gov.bd
 diaautomation.gov.bd
+digidash.bhtpa.gov.bd
 digitalliteracy.gov.bd
 digrajshahirange.gov.bd
 dikkha.gov.bd
@@ -372,6 +377,7 @@ mail.cbb.gov.bd
 mail.cevccumilla.gov.bd
 mail.chowmuhanimunicipality.gov.bd
 mail.circuithousegopalganj.gov.bd
+mail.cpadigital.gov.bd
 mail.cpatos.gov.bd
 mail.darsanapaurashava.gov.bd
 mail.dedo.gov.bd
@@ -506,6 +512,7 @@ sheikhhasina.gov.bd
 shibpurpaurashava.gov.bd
 shmcht.gov.bd
 shnibps.gov.bd
+shsmc.gov.bd
 sip-apps.ssf.gov.bd
 sip-call-apps.ssf.gov.bd
 siteapi.ltuvat.gov.bd
@@ -603,6 +610,7 @@ webdisk.cafodefence.gov.bd
 webdisk.cbb.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
 webdisk.circuithousegopalganj.gov.bd
+webdisk.cpadigital.gov.bd
 webdisk.darsanapaurashava.gov.bd
 webdisk.dikkha.gov.bd
 webdisk.meon.gov.bd
@@ -635,6 +643,7 @@ webmail.cafodefence.gov.bd
 webmail.cbb.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.circuithousegopalganj.gov.bd
+webmail.cpadigital.gov.bd
 webmail.darsanapaurashava.gov.bd
 webmail.dikkha.gov.bd
 webmail.meon.gov.bd
@@ -707,6 +716,7 @@ www.chowmuhanimunicipality.gov.bd
 www.circuithousegopalganj.gov.bd
 www.cltp.gov.bd
 www.coxsbazarpolice.gov.bd
+www.cpadigital.gov.bd
 www.ctgdclicense.gov.bd
 www.darsanapaurashava.gov.bd
 www.database.mspvaw.gov.bd
