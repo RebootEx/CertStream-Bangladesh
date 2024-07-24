@@ -1,3 +1,4 @@
+aoc.dfsrcaab.gov.bd
 apamsv3.cabinet.gov.bd
 api.bdansarerp.gov.bd
 app.dhakaeducationboard.gov.bd
@@ -26,6 +27,7 @@ coxsbazarpolice.gov.bd
 cpadigital.gov.bd
 cpanel.cpadigital.gov.bd
 cpanel.darsanapaurashava.gov.bd
+cpanel.dikkha.gov.bd
 cpanel.ec4j.gov.bd
 cpanel.nabiganjpaurashava.gov.bd
 cpanel.ncc-ward8.gov.bd
@@ -35,6 +37,7 @@ cpanel.zplalmonirhat.gov.bd
 cpanel.zpmeherpur.gov.bd
 cpcalendars.cpadigital.gov.bd
 cpcalendars.darsanapaurashava.gov.bd
+cpcalendars.dikkha.gov.bd
 cpcalendars.ec4j.gov.bd
 cpcalendars.nabiganjpaurashava.gov.bd
 cpcalendars.ncc-ward8.gov.bd
@@ -44,6 +47,7 @@ cpcalendars.zplalmonirhat.gov.bd
 cpcalendars.zpmeherpur.gov.bd
 cpcontacts.cpadigital.gov.bd
 cpcontacts.darsanapaurashava.gov.bd
+cpcontacts.dikkha.gov.bd
 cpcontacts.ec4j.gov.bd
 cpcontacts.nabiganjpaurashava.gov.bd
 cpcontacts.ncc-ward8.gov.bd
@@ -58,6 +62,7 @@ demo.certificatefuldin.gov.bd
 dewanganjpaurashava.gov.bd
 dgdp.gov.bd
 digidash.bhtpa.gov.bd
+dikkha.gov.bd
 dosinland.dos.gov.bd
 dpeojhenaidah.gov.bd
 ec4j.gov.bd
@@ -122,6 +127,7 @@ mail.dgda.gov.bd
 mail.dgfp.gov.bd
 mail.dgjute.gov.bd
 mail.dhakabrt.gov.bd
+mail.dikkha.gov.bd
 mail.dls.gov.bd
 mail.dmlc.gov.bd
 mail.dnc.gov.bd
@@ -222,6 +228,7 @@ uzparaihazar.gov.bd
 web.bepza.gov.bd
 webdisk.cpadigital.gov.bd
 webdisk.darsanapaurashava.gov.bd
+webdisk.dikkha.gov.bd
 webdisk.ec4j.gov.bd
 webdisk.nabiganjpaurashava.gov.bd
 webdisk.ncc-ward8.gov.bd
@@ -232,12 +239,14 @@ webdisk.zpmeherpur.gov.bd
 webmail.bepza.gov.bd
 webmail.cpadigital.gov.bd
 webmail.darsanapaurashava.gov.bd
+webmail.dikkha.gov.bd
 webmail.ec4j.gov.bd
 webmail.nha.gov.bd
 webmail.sesip.gov.bd
 webmail.zplalmonirhat.gov.bd
 webmail.zpmeherpur.gov.bd
 wms.ansarvdp.gov.bd
+www.aoc.dfsrcaab.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.attendence.rpi.gov.bd
 www.basailpaurashava.gov.bd
@@ -253,8 +262,10 @@ www.cpadigital.gov.bd
 www.darsanapaurashava.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.dewanganjpaurashava.gov.bd
+www.dikkha.gov.bd
 www.ec4j.gov.bd
 www.ecertificate.fisheries.gov.bd
+www.elab.fisheries.gov.bd
 www.finance.ec4j.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
 www.homnapourashava.gov.bd
