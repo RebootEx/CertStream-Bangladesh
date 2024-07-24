@@ -1,5 +1,7 @@
+attendance.gov.bd
 autodiscover.ec4j.gov.bd
 automation.bepza.gov.bd
+barlekhamunicipality.gov.bd
 bazardor.gov.bd
 bholapourashava.gov.bd
 bspi.gov.bd
@@ -21,11 +23,15 @@ cpcontacts.ec4j.gov.bd
 cpcontacts.nabiganjpaurashava.gov.bd
 cpcontacts.ncc-ward8.gov.bd
 cpcontacts.pirganjmunicipality.gov.bd
+dashboard.blri.gov.bd
 ddpr.gov.bd
+demo.certificatefuldin.gov.bd
 digidash.bhtpa.gov.bd
 dpeojhenaidah.gov.bd
 ec4j.gov.bd
+egppplus.ddm.gov.bd
 finance.ec4j.gov.bd
+his.bcc.gov.bd
 ica.gov.bd
 innovationquiz.a2i.gov.bd
 lgcrrpmis.lged.gov.bd
@@ -61,6 +67,7 @@ webmail.ec4j.gov.bd
 www.bholapourashava.gov.bd
 www.cedp.gbrcr.gov.bd
 www.cpadigital.gov.bd
+www.demo.certificatefuldin.gov.bd
 www.ec4j.gov.bd
 www.finance.ec4j.gov.bd
 www.mne.ec4j.gov.bd
