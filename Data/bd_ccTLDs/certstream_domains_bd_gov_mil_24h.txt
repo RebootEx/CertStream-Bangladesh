@@ -3,6 +3,7 @@ autodiscover.zpsatkhira.gov.bd
 baghaboup.narsingdilg.gov.bd
 bdris.dscc.gov.bd
 cdn.epb-exporttracker.gov.bd
+certificatechecker.pwdta.gov.bd
 cpanel.zpsatkhira.gov.bd
 cpanel.zsanatore.gov.bd
 cpcalendars.zpsatkhira.gov.bd
@@ -12,6 +13,7 @@ cpcontacts.zsanatore.gov.bd
 drive.bcc.gov.bd
 ems.epb.gov.bd
 epb-exporttracker.gov.bd
+erp.gso.gov.bd
 exportdb.epb-exporttracker.gov.bd
 facilityregistry.dghs.gov.bd
 iph.gov.bd
@@ -28,6 +30,7 @@ mq.apamsv3.cabinet.gov.bd
 narsingdimunicipality.gov.bd
 newetif.bise-ctg.gov.bd
 noc.btcl.gov.bd
+olt.btcl.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 turn.vc8.bcc.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -36,6 +39,7 @@ webdisk.zsanatore.gov.bd
 webmail.zpsatkhira.gov.bd
 webmail.zsanatore.gov.bd
 www.baghaboup.narsingdilg.gov.bd
+www.certificatechecker.pwdta.gov.bd
 www.kpik.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
