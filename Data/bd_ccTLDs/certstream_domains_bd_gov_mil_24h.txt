@@ -4,6 +4,7 @@ baghaboup.narsingdilg.gov.bd
 bdris.dscc.gov.bd
 cdn.epb-exporttracker.gov.bd
 certificatechecker.pwdta.gov.bd
+college.gov.bd
 cpanel.zpsatkhira.gov.bd
 cpanel.zsanatore.gov.bd
 cpcalendars.zpsatkhira.gov.bd
@@ -12,7 +13,9 @@ cpcontacts.zpsatkhira.gov.bd
 cpcontacts.zsanatore.gov.bd
 dms.basbmed.gov.bd
 drive.bcc.gov.bd
+ems.epb-exporttracker.gov.bd
 ems.epb.gov.bd
+emsserver.epb-exporttracker.gov.bd
 epb-exporttracker.gov.bd
 erp.gso.gov.bd
 exportdb.epb-exporttracker.gov.bd
@@ -40,6 +43,7 @@ noc.btcl.gov.bd
 olt.btcl.gov.bd
 saejp.gov.bd
 shmcj.gov.bd
+smartbangladesh.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smarttraffic-api.dncc.gov.bd
 turn.vc8.bcc.gov.bd
