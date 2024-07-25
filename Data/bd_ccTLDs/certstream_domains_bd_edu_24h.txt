@@ -35,6 +35,7 @@ autodiscover.ddhs68.edu.bd
 autodiscover.dogachihs.edu.bd
 autodiscover.gaac.edu.bd
 autodiscover.garparaabhs.edu.bd
+autodiscover.gazirhat.edu.bd
 autodiscover.gopalpurcollege.edu.bd
 autodiscover.gsam.edu.bd
 autodiscover.gsghs.edu.bd
@@ -56,6 +57,7 @@ autodiscover.nddmm.edu.bd
 autodiscover.nssdc.edu.bd
 autodiscover.raipurhs.edu.bd
 autodiscover.satsangaths.edu.bd
+autodiscover.scssg.edu.bd
 autodiscover.sdqdm.edu.bd
 autodiscover.sdsdm.edu.bd
 autodiscover.shshsm.edu.bd
@@ -73,6 +75,7 @@ bahirdiass.edu.bd
 bajs.edu.bd
 bakshimulalimmadrasah.edu.bd
 balanagarkm.edu.bd
+balokdiarhs.edu.bd
 bandukbhangahs.edu.bd
 bandukbhangahs.ranidayamoyeehs.edu.bd
 barabamfm.edu.bd
@@ -134,6 +137,7 @@ charsubuddifdm.edu.bd
 chharanbualimmadrasha.edu.bd
 chharanbualimmadrasha.edu.bd.piam.edu.bd
 chowddagramhighschool.edu.bd
+cloud.creativitysimplificpanel.bhsh.edu.bd
 cmhschool.edu.bd
 communications.old.ulab.edu.bd
 cpanel.aauhs.edu.bd
@@ -146,6 +150,7 @@ cpanel.ddhs68.edu.bd
 cpanel.dogachihs.edu.bd
 cpanel.gaac.edu.bd
 cpanel.garparaabhs.edu.bd
+cpanel.gazirhat.edu.bd
 cpanel.ghiorgovtcollege.edu.bd
 cpanel.gopalpurcollege.edu.bd
 cpanel.gsam.edu.bd
@@ -184,6 +189,7 @@ cpanel.poradahcollege.edu.bd
 cpanel.puranapaltancollege.edu.bd
 cpanel.raipurhs.edu.bd
 cpanel.satsangaths.edu.bd
+cpanel.scssg.edu.bd
 cpanel.sdqdm.edu.bd
 cpanel.sdsdm.edu.bd
 cpanel.shshsm.edu.bd
@@ -203,6 +209,7 @@ cpcalendars.ddhs68.edu.bd
 cpcalendars.dogachihs.edu.bd
 cpcalendars.gaac.edu.bd
 cpcalendars.garparaabhs.edu.bd
+cpcalendars.gazirhat.edu.bd
 cpcalendars.ghiorgovtcollege.edu.bd
 cpcalendars.gopalpurcollege.edu.bd
 cpcalendars.gsam.edu.bd
@@ -241,6 +248,7 @@ cpcalendars.poradahcollege.edu.bd
 cpcalendars.puranapaltancollege.edu.bd
 cpcalendars.raipurhs.edu.bd
 cpcalendars.satsangaths.edu.bd
+cpcalendars.scssg.edu.bd
 cpcalendars.sdqdm.edu.bd
 cpcalendars.sdsdm.edu.bd
 cpcalendars.shshsm.edu.bd
@@ -260,6 +268,7 @@ cpcontacts.ddhs68.edu.bd
 cpcontacts.dogachihs.edu.bd
 cpcontacts.gaac.edu.bd
 cpcontacts.garparaabhs.edu.bd
+cpcontacts.gazirhat.edu.bd
 cpcontacts.ghiorgovtcollege.edu.bd
 cpcontacts.gopalpurcollege.edu.bd
 cpcontacts.gsam.edu.bd
@@ -298,6 +307,7 @@ cpcontacts.poradahcollege.edu.bd
 cpcontacts.puranapaltancollege.edu.bd
 cpcontacts.raipurhs.edu.bd
 cpcontacts.satsangaths.edu.bd
+cpcontacts.scssg.edu.bd
 cpcontacts.sdqdm.edu.bd
 cpcontacts.sdsdm.edu.bd
 cpcontacts.shshsm.edu.bd
@@ -317,6 +327,7 @@ daudkandipiloths.edu.bd
 daudpurmlhs.edu.bd
 ddhs68.edu.bd
 ddmadrasah.edu.bd
+demo.atidashraghugaildakhilmadrasha.edu.bd
 deopurahs.edu.bd
 department.diu.edu.bd
 dgatihs.edu.bd
@@ -328,6 +339,7 @@ dinc.edu.bd
 dmfcollege.edu.bd
 dnscp.edu.bd
 dogachihs.edu.bd
+dpshs.edu.bd
 dsghssylhet.edu.bd
 dskghs.edu.bd
 dtbhs.edu.bd
@@ -364,6 +376,7 @@ g.cvghs.edu.bd
 gafargaonmohilacollege.edu.bd
 gandhamaruasc.edu.bd
 garparaabhs.edu.bd
+gazirhat.edu.bd
 ged.old.ulab.edu.bd
 ggcr.edu.bd
 ggsc.edu.bd
@@ -391,6 +404,7 @@ hamd.edu.bd
 hazisamiruddinhs.edu.bd
 hazradangashahidullahhs.edu.bd
 hbc.edu.bd
+heakmam.edu.bd
 hemkkm.edu.bd
 hfmdmtista.edu.bd
 hhhuhs.edu.bd
@@ -407,10 +421,16 @@ howladercollege.edu.bd
 hsurendranathss.edu.bd
 ifmv.edu.bd
 iic.edu.bd
+iims.aehs.edu.bd
+iims.babulcharahs.edu.bd
+iims.balokdiarhs.edu.bd
+iims.cghsp.edu.bd
+iims.jhacademy.edu.bd
 iims.ruppurghs.edu.bd
 iims.ruppurhs.edu.bd
 iiscmymensingh.edu.bd
 imperialis.edu.bd
+imperialschool.edu.bd
 ims.babulcharahs.edu.bd
 imsn.edu.bd
 iom.edu.bd
@@ -451,6 +471,7 @@ kmgadmj.edu.bd
 knadc.edu.bd
 kni.edu.bd
 kolasadaruddinhighschool.edu.bd
+krishnercharhighschool.edu.bd
 ksandc.edu.bd
 ksgmss.edu.bd.kni.edu.bd
 ksschool.edu.bd
@@ -491,6 +512,7 @@ mail.dnscp.edu.bd
 mail.dogachihs.edu.bd
 mail.gaac.edu.bd
 mail.garparaabhs.edu.bd
+mail.gazirhat.edu.bd
 mail.ghiorgovtcollege.edu.bd
 mail.gopalpurcollege.edu.bd
 mail.gsam.edu.bd
@@ -538,6 +560,7 @@ mail.ratanpurgps.edu.bd
 mail.samschool.edu.bd
 mail.satirparakkinstitution.edu.bd
 mail.satsangaths.edu.bd
+mail.scssg.edu.bd
 mail.sdqdm.edu.bd
 mail.sdsdm.edu.bd
 mail.shshsm.edu.bd
@@ -553,6 +576,7 @@ makarimhighschool.edu.bd
 massm.edu.bd
 mathurapurblhs.edu.bd
 matikatahs.edu.bd
+mbphsc.edu.bd
 mcghs.edu.bd
 mchsc.edu.bd
 mdnurghs.edu.bd
@@ -579,8 +603,11 @@ naam.edu.bd
 nabarunhssyl.edu.bd
 nabibalicollege.edu.bd
 nadampurhighschool.edu.bd
+naghosanphs.edu.bd
 nanghs.edu.bd
+naogaonghs.edu.bd
 nayansukark.edu.bd
+ncb.edu.bd
 nccn.edu.bd
 nddmm.edu.bd
 ndm.edu.bd
@@ -611,6 +638,7 @@ peerpurhighschool.edu.bd
 pghsb.edu.bd
 piam.edu.bd
 pklhs.edu.bd
+pkmdm.edu.bd
 plhsc.edu.bd
 plugins.proyashrangpur.edu.bd
 pmam.edu.bd
@@ -635,15 +663,18 @@ rabeyamm.edu.bd
 raipuramodelcollege.edu.bd
 raipurhs.edu.bd
 rajapurbhhs.edu.bd
+ramms.edu.bd
 raninagarblhighs.edu.bd
 ratanpurgps.edu.bd
 result.adarshama.edu.bd
 result.holycrescentschool.edu.bd
 rfhighschool.edu.bd
+rhghscnj.edu.bd
 rkchs.edu.bd
 rmbghs.edu.bd
 rmhschool.edu.bd
 royalschooldhaka.edu.bd
+rrdm.edu.bd
 rsfm.edu.bd
 rsfm.edu.bd.jsgs.edu.bd
 rsmcadm.edu.bd
@@ -657,6 +688,7 @@ sakjghs.edu.bd.kni.edu.bd
 samschool.edu.bd
 sankuchailhs.edu.bd
 saracollege.edu.bd
+sarghsp.edu.bd
 satc.edu.bd
 satirparakkinstitution.edu.bd
 satsangaths.edu.bd
@@ -669,6 +701,7 @@ scholarshomemajortila.edu.bd
 school.kmnghs.edu.bd
 school.ncgmhs.edu.bd
 schooldsh.edu.bd
+scssg.edu.bd
 sdqdm.edu.bd
 sdsdm.edu.bd
 server.sbkc.edu.bd
@@ -699,6 +732,7 @@ software.kazimontucollege.edu.bd
 sonargaondm.edu.bd
 sphsn.edu.bd
 sqmhighschool.edu.bd
+srdmp.edu.bd
 sristy.edu.bd
 srsc.edu.bd
 ssakm.edu.bd
@@ -715,6 +749,7 @@ sundramhighschool.edu.bd
 sunnyhillsc.edu.bd
 suratiaseniormadrasah.edu.bd
 sust.edu.bd
+sustbcsofficersforum.org.mbphsc.edu.bd
 system.admission.sust.edu.bd
 talukcharduaniss.edu.bd
 tangrimadrasah.edu.bd
@@ -762,6 +797,7 @@ webdisk.ddhs68.edu.bd
 webdisk.dogachihs.edu.bd
 webdisk.gaac.edu.bd
 webdisk.garparaabhs.edu.bd
+webdisk.gazirhat.edu.bd
 webdisk.ghiorgovtcollege.edu.bd
 webdisk.gopalpurcollege.edu.bd
 webdisk.gsam.edu.bd
@@ -801,6 +837,7 @@ webdisk.poradahcollege.edu.bd
 webdisk.puranapaltancollege.edu.bd
 webdisk.raipurhs.edu.bd
 webdisk.satsangaths.edu.bd
+webdisk.scssg.edu.bd
 webdisk.sdqdm.edu.bd
 webdisk.sdsdm.edu.bd
 webdisk.shshsm.edu.bd
@@ -822,6 +859,7 @@ webmail.dogachihs.edu.bd
 webmail.gaac.edu.bd
 webmail.gandhamaruasc.edu.bd
 webmail.garparaabhs.edu.bd
+webmail.gazirhat.edu.bd
 webmail.ghiorgovtcollege.edu.bd
 webmail.gopalpurcollege.edu.bd
 webmail.gsam.edu.bd
@@ -855,6 +893,7 @@ webmail.pmam.edu.bd
 webmail.puranapaltancollege.edu.bd
 webmail.raipurhs.edu.bd
 webmail.satsangaths.edu.bd
+webmail.scssg.edu.bd
 webmail.sdqdm.edu.bd
 webmail.sdsdm.edu.bd
 webmail.shshsm.edu.bd
@@ -912,6 +951,7 @@ www.chharanbualimmadrasha.edu.bd
 www.chharanbualimmadrasha.edu.bd.piam.edu.bd
 www.chowddagramhighschool.edu.bd
 www.createofbrand.com.sngsc.edu.bd
+www.creativitysimplificpanel.bhsh.edu.bd
 www.cumillacsc.edu.bd
 www.d.mkcollege.edu.bd
 www.dariapurhighschool.edu.bd.raichahs.edu.bd
@@ -919,6 +959,7 @@ www.daudkandipiloths.edu.bd
 www.daudpurmlhs.edu.bd
 www.dbmssrupsha.edu.bd.saracollege.edu.bd
 www.ddhs68.edu.bd
+www.demo.atidashraghugaildakhilmadrasha.edu.bd
 www.dgatihs.edu.bd
 www.dhakifulbariahs.edu.bd
 www.dinc.edu.bd
@@ -940,6 +981,7 @@ www.gaac.edu.bd
 www.gafargaonmohilacollege.edu.bd
 www.gandhamaruasc.edu.bd
 www.garparaabhs.edu.bd
+www.gazirhat.edu.bd
 www.ghiorgovtcollege.edu.bd
 www.gmudm.edu.bd
 www.golaharjs.edu.bd
@@ -959,6 +1001,8 @@ www.hmhvghs.edu.bd
 www.hsurendranathss.edu.bd.jspgirls.edu.bd
 www.ifmv.edu.bd
 www.iic.edu.bd
+www.iims.cghsp.edu.bd
+www.iims.jhacademy.edu.bd
 www.iims.ruppurghs.edu.bd
 www.iims.ruppurhs.edu.bd
 www.int.ugv.edu.bd
@@ -1038,6 +1082,7 @@ www.radio.green.edu.bd
 www.raipuramodelcollege.edu.bd
 www.raipurhs.edu.bd
 www.rajapurbhhs.edu.bd
+www.ramms.edu.bd
 www.ratanpurgps.edu.bd
 www.result.adarshama.edu.bd
 www.result.holycrescentschool.edu.bd
@@ -1051,6 +1096,7 @@ www.saikat.mndmbera.edu.bd
 www.sakjghs.edu.bd.kni.edu.bd
 www.samschool.edu.bd
 www.sankuchailhs.edu.bd
+www.sarghsp.edu.bd
 www.satirparakkinstitution.edu.bd
 www.satsangaths.edu.bd
 www.satsangaths.edu.bd.jsgs.edu.bd
@@ -1059,6 +1105,7 @@ www.sbhschool.edu.bd
 www.school.kmnghs.edu.bd
 www.school.ncgmhs.edu.bd
 www.schooldsh.edu.bd.bodawomencollege.edu.bd
+www.scssg.edu.bd
 www.sdqdm.edu.bd
 www.sdsdm.edu.bd
 www.sgdmbr.edu.bd
@@ -1078,6 +1125,8 @@ www.ssdcb.edu.bd
 www.ssgsac.edu.bd
 www.sti.green.edu.bd
 www.sunnyhillsc.edu.bd
+www.sustbcsofficersforum.mbphsc.edu.bd
+www.sustbcsofficersforum.org.mbphsc.edu.bd
 www.talukcharduaniss.edu.bd.jspgirls.edu.bd
 www.tdcbogura.edu.bd
 www.tengashiahs.edu.bd.dihsc.edu.bd
