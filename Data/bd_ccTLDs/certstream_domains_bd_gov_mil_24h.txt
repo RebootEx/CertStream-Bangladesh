@@ -13,6 +13,7 @@ cms.cpadigital.gov.bd
 cp.ekpass.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.mushroomproject.gov.bd
+cpanel.zpdinajpur.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcontacts.mushroomproject.gov.bd
 customsvaluation.gov.bd
@@ -59,6 +60,7 @@ pims.dgfood.gov.bd
 policy.gov.bd
 rpi.gov.bd
 sandbox.dob.ekshop.gov.bd
+schoolform.comillaboard.gov.bd
 smartschoolbus.gov.bd
 ssndebidwar.gov.bd
 taxeszone6.gov.bd
@@ -69,6 +71,7 @@ vatdhkeast.gov.bd
 vt.moind.gov.bd
 webdisk.mushroomproject.gov.bd
 webmail.dmpi.gov.bd
+webmail.zpdinajpur.gov.bd
 www.bajitpurpaurashava.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
 www.cevdebidwar.gov.bd
@@ -101,3 +104,5 @@ www.smartschoolbus.gov.bd
 www.taxeszone6.gov.bd
 www.tds.taxeszone6.gov.bd
 www.vatdhkeast.gov.bd
+www.zpdinajpur.gov.bd
+zpdinajpur.gov.bd
