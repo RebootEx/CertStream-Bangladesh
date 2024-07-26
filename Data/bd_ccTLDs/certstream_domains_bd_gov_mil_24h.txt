@@ -1,6 +1,7 @@
 1ebe3906165e6bbcd44bb69914abc6f1.land.gov.bd
 aclandmotijheelcircle.gov.bd
 agri.dam.gov.bd
+autodiscover.acland.gov.bd
 autodiscover.mushroomproject.gov.bd
 bajitpurpaurashava.gov.bd
 beanibazarpaurashava.gov.bd
@@ -11,10 +12,13 @@ cevrajshahi.gov.bd
 cgbdsydney.gov.bd
 cms.cpadigital.gov.bd
 cp.ekpass.gov.bd
+cpanel.acland.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.zpdinajpur.gov.bd
+cpcalendars.acland.gov.bd
 cpcalendars.mushroomproject.gov.bd
+cpcontacts.acland.gov.bd
 cpcontacts.mushroomproject.gov.bd
 customsvaluation.gov.bd
 dch.gov.bd
@@ -40,6 +44,7 @@ lalmohanpaurashava.gov.bd
 learning.dgme.gov.bd
 lmis.nmcp.gov.bd
 maheshpurpourashava.gov.bd
+mail.acland.gov.bd
 mail.cbc.gov.bd
 mail.cevdebidwar.gov.bd
 mail.cevrajshahi.gov.bd
@@ -69,7 +74,9 @@ upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 vatdhkeast.gov.bd
 vt.moind.gov.bd
+webdisk.acland.gov.bd
 webdisk.mushroomproject.gov.bd
+webmail.acland.gov.bd
 webmail.dmpi.gov.bd
 webmail.zpdinajpur.gov.bd
 www.bajitpurpaurashava.gov.bd
@@ -93,6 +100,7 @@ www.haluaghat.upmymensinghholdingtax.gov.bd
 www.home.gnc.gov.bd
 www.icsetep.ugc.gov.bd
 www.kpik.gov.bd
+www.majhpara.uppabnaholdingtax.gov.bd
 www.mulgram.uppabnaholdingtax.gov.bd
 www.mushroomproject.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
