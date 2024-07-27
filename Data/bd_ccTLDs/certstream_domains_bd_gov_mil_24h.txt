@@ -2,6 +2,7 @@
 autodiscover.bjkb.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
 bjkb.gov.bd
+chtpaimc.gov.bd
 cpanel.bjkb.gov.bd
 cpanel.taxeszone12dhaka.gov.bd
 cpcalendars.bjkb.gov.bd
@@ -15,12 +16,16 @@ mail.bjkb.gov.bd
 mail.taxeszone12dhaka.gov.bd
 meal.pwdta.gov.bd
 my.ngosherpur.gov.bd
+nicrh.gov.bd
+portal.dgme.gov.bd
 sgtc.gov.bd
 smartchapitalaup.gov.bd
 smarttraffic-owner.dncc.gov.bd
 smarttraffic.dncc.gov.bd
 specialbranch.gov.bd
+students.dgme.gov.bd
 taxeszone12dhaka.gov.bd
+taxeszone23dhaka.gov.bd
 track.bpodms.gov.bd
 upmymensinghholdingtax.gov.bd
 user.tds.taxeszone3ctg.gov.bd
@@ -35,3 +40,4 @@ www.my.ngosherpur.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.smartchapitalaup.gov.bd
 www.taxeszone12dhaka.gov.bd
+www.taxeszone23dhaka.gov.bd
