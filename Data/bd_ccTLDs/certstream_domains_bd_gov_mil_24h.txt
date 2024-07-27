@@ -2,12 +2,16 @@
 autodiscover.bjkb.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
 award.smartbangladesh.gov.bd
+bazarmonitoring.digrajshahirange.gov.bd
+bdsomotolerchasilpo.btriapps.gov.bd
 bfacf-ticket.gov.bd
 bjkb.gov.bd
 bkspds.gov.bd
 blpa.ekpay.gov.bd
 btbregistration.gov.bd
+btriapps.gov.bd
 cafotj.gov.bd
+chawkidar.digrajshahirange.gov.bd
 chtpaimc.gov.bd
 cpanel.bjkb.gov.bd
 cpanel.srijon.gov.bd
@@ -27,6 +31,7 @@ hello.rmp.gov.bd
 jessoreboard.gov.bd
 jgmc.gov.bd
 jobportal.sfmmttc.gov.bd
+judipay.gov.bd
 keshabpurpouroshava.gov.bd
 laravel.cafolgd.gov.bd
 macademy.gov.bd
@@ -42,6 +47,7 @@ naemict69.gnc.gov.bd
 nicrh.gov.bd
 police.gov.bd
 portal.dgme.gov.bd
+rab.gov.bd
 raipurapaurashava.gov.bd
 raipurpourashava.gov.bd
 rajabariup.gov.bd
@@ -64,6 +70,7 @@ track.bpodms.gov.bd
 uniontax.gov.bd
 upmymensinghholdingtax.gov.bd
 user.tds.taxeszone3ctg.gov.bd
+uttoradhikar.gov.bd
 webdisk.bjkb.gov.bd
 webdisk.srijon.gov.bd
 webdisk.sylhettsc.gov.bd
@@ -73,8 +80,10 @@ webmail.srijon.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
 www.attendance.rdodtekhulna.gov.bd
+www.bazarmonitoring.digrajshahirange.gov.bd
 www.bfacf-ticket.gov.bd
 www.bjkb.gov.bd
+www.chawkidar.digrajshahirange.gov.bd
 www.jobportal.sfmmttc.gov.bd
 www.laravel.cafolgd.gov.bd
 www.meal.pwdta.gov.bd
@@ -86,3 +95,4 @@ www.srijon.gov.bd
 www.sylhettsc.gov.bd
 www.taxeszone12dhaka.gov.bd
 www.taxeszone23dhaka.gov.bd
+xiclassadmission.gov.bd
