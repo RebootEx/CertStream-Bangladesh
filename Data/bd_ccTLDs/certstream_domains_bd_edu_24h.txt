@@ -33,6 +33,7 @@ alumni.nipghs.edu.bd
 alumni.vu.edu.bd
 amirabadhdm.edu.bd
 amrataladuhdm.edu.bd
+amths.edu.bd
 anandamoyeeghs.edu.bd
 apbhs.edu.bd
 app.rckhs.edu.bd
@@ -72,6 +73,7 @@ autodiscover.sram.edu.bd
 autodiscover.sumhs.edu.bd
 autodiscover.tdcollege.edu.bd
 autodiscover.ubhs.edu.bd
+babhs.edu.bd
 babulcharahs.edu.bd
 backend.geniusacademy137073.edu.bd
 backend.panboridm113707.edu.bd
@@ -123,15 +125,18 @@ bnnmlhs.edu.bd
 boaliaghs.edu.bd
 bonbariaphs.edu.bd
 bonjogicharahs.edu.bd
+bonkurahighschool.edu.bd
 bosantopurhs.edu.bd
 bosantopurhs.edu.bd.nagargolahs.edu.bd
 boyraksc.edu.bd
 bpatal.edu.bd
 bpm.edu.bd
 burailahs.edu.bd
+cbahs.edu.bd
 cbss.edu.bd
 cccknc.edu.bd
 cdagsc.edu.bd
+cfdmtm.edu.bd
 cghsac.edu.bd
 cghsp.edu.bd
 chaaam.edu.bd
@@ -151,6 +156,7 @@ cityuniversity.edu.bd
 ckdm65.edu.bd
 classlog.bubt.edu.bd
 cmaghs.edu.bd
+cmdc.edu.bd
 cnhschool.edu.bd
 cocurricular.old.ulab.edu.bd
 comillamodernhighschool.edu.bd
@@ -158,6 +164,7 @@ coxsbazardccollege.edu.bd
 cpanel.abkm.edu.bd
 cpanel.adcollege.edu.bd
 cpanel.alkhs.edu.bd
+cpanel.amths.edu.bd
 cpanel.apbhs.edu.bd
 cpanel.ariadangihs.edu.bd
 cpanel.arifinstitute.edu.bd
@@ -222,6 +229,7 @@ cpanel.wehs.edu.bd
 cpcalendars.abkm.edu.bd
 cpcalendars.adcollege.edu.bd
 cpcalendars.alkhs.edu.bd
+cpcalendars.amths.edu.bd
 cpcalendars.apbhs.edu.bd
 cpcalendars.ariadangihs.edu.bd
 cpcalendars.arifinstitute.edu.bd
@@ -286,6 +294,7 @@ cpcalendars.wehs.edu.bd
 cpcontacts.abkm.edu.bd
 cpcontacts.adcollege.edu.bd
 cpcontacts.alkhs.edu.bd
+cpcontacts.amths.edu.bd
 cpcontacts.apbhs.edu.bd
 cpcontacts.ariadangihs.edu.bd
 cpcontacts.arifinstitute.edu.bd
@@ -353,6 +362,7 @@ dalainagarhs.aabchs.edu.bd
 dalainagarhs.edu.bd
 damgarihs.edu.bd
 daulatkhanmohilacollege.edu.bd
+dbmc.edu.bd
 dcpt.edu.bd
 dcu.edu.bd
 ddaghs.edu.bd
@@ -382,6 +392,7 @@ ems.cfhighschool.edu.bd
 ems.khanjiahighschool.edu.bd
 eschool.kssschool.edu.bd
 exin.edu.bd
+faridgonjfm.edu.bd
 fees.ugv.edu.bd
 fhhs.edu.bd
 flores4d.tongipilotsagc.edu.bd
@@ -479,6 +490,7 @@ kfmdm.edu.bd
 kgc.edu.bd
 kgsckalindi.edu.bd
 khajurafazilmadrasah.edu.bd
+khanepurhs.edu.bd
 khashhashil.edu.bd
 khmlhs.edu.bd
 khorshedpursecs.edu.bd
@@ -508,6 +520,7 @@ lshs64.edu.bd
 m.amtoilpmdm.edu.bd
 m.tpdm.edu.bd
 madhabpurhs.edu.bd
+madhyanalitabarighs.edu.bd
 madrasah.smdm.edu.bd
 mafm.edu.bd
 magc.edu.bd
@@ -519,6 +532,7 @@ mail.adthsb.edu.bd
 mail.aitvet.edu.bd
 mail.alkhs.edu.bd
 mail.alumni.daffodilvarsity.edu.bd
+mail.amths.edu.bd
 mail.apbhs.edu.bd
 mail.ariadangihs.edu.bd
 mail.arifinstitute.edu.bd
@@ -694,6 +708,7 @@ portal.sijghs.edu.bd
 portal.sonaichandihs.edu.bd
 portal.wdbhs.edu.bd
 ppmhs.edu.bd
+prcc.edu.bd
 project.saradeshwarighs.edu.bd
 pskm.edu.bd
 pulumqshsgs.edu.bd
@@ -713,6 +728,7 @@ reliance.edu.bd
 rgufm.edu.bd
 rhaahfm.aabchs.edu.bd
 rhaahfm.edu.bd
+rhmch.edu.bd
 rimsbd.empo.edu.bd
 rpsu.edu.bd
 rrcraj.edu.bd
@@ -733,6 +749,7 @@ sahabdinagarhs.edu.bd
 sahhs.edu.bd
 sakhuahighschool.edu.bd
 sanoorhs.edu.bd
+sardarhatghs.edu.bd
 sarghsp.edu.bd
 satpurkm.edu.bd
 sbhschool.edu.bd
@@ -795,10 +812,13 @@ udrhndm.edu.bd
 ugv.edu.bd
 ukdmadrasha.edu.bd
 ukhariabaricollege.edu.bd
+ulaniagss.edu.bd
+umednagarhighschool.edu.bd
 uzirpurss.edu.bd
 webdisk.abkm.edu.bd
 webdisk.adcollege.edu.bd
 webdisk.alkhs.edu.bd
+webdisk.amths.edu.bd
 webdisk.apbhs.edu.bd
 webdisk.ariadangihs.edu.bd
 webdisk.arifinstitute.edu.bd
@@ -859,6 +879,7 @@ webdisk.wehs.edu.bd
 webmail.abkm.edu.bd
 webmail.adcollege.edu.bd
 webmail.alkhs.edu.bd
+webmail.amths.edu.bd
 webmail.anandamoyeeghs.edu.bd
 webmail.apbhs.edu.bd
 webmail.ariadangihs.edu.bd
@@ -928,6 +949,7 @@ webmail.wehs.edu.bd
 wehs.edu.bd
 wghschool.aabchs.edu.bd
 wghschool.edu.bd
+whm.amths.edu.bd
 wins.edu.bd
 workspace.mahhs.edu.bd
 www.2023.rtss.edu.bd
@@ -952,6 +974,7 @@ www.alumni.daffodilvarsity.edu.bd
 www.alumni.nipghs.edu.bd
 www.alumni.vu.edu.bd
 www.amrataladuhdm.edu.bd.jspgirls.edu.bd
+www.amths.edu.bd
 www.anandamoyeeghs.edu.bd
 www.apbhs.edu.bd
 www.app.rckhs.edu.bd

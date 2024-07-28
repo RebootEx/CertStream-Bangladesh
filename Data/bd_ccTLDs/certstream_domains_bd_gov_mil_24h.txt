@@ -38,9 +38,11 @@ cpcontacts.sfmmttc.gov.bd
 cpcontacts.sylhetbetar.gov.bd
 cttcdmp.gov.bd
 data.ncdc.dghs.gov.bd
+demo.kjtsc.gov.bd
 du.gameapp.gov.bd
 edu.bd.gbrcr.gov.bd
 ems.titumircollege.gov.bd
+erp.bfacf-ticket.gov.bd
 esifjsc.comillaboard.gov.bd
 ewars.dghs.gov.bd
 grs.ec4j.gov.bd
@@ -48,7 +50,10 @@ hematology.rmch.gov.bd
 home.gnc.gov.bd
 hrm.mfstc.gov.bd
 investor.icml.gov.bd
+ipcams.cdc.gov.bd
+jamalpurtsc.gov.bd
 jitsi.vc8.bcc.gov.bd
+judipay.gov.bd
 kmttc.gov.bd
 kscr.edu.bd.gbrcr.gov.bd
 laravel.sfcnavy.gov.bd
@@ -117,6 +122,7 @@ www.cevta.gov.bd
 www.chicd.gov.bd
 www.control.rpi.gov.bd
 www.cttcdmp.gov.bd
+www.demo.kjtsc.gov.bd
 www.department.bsc.gov.bd
 www.du.gameapp.gov.bd
 www.evm.gov.bd
