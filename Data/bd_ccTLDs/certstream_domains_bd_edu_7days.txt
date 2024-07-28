@@ -390,6 +390,7 @@ autodiscover.manahs.edu.bd
 autodiscover.massm.edu.bd
 autodiscover.mdsaam.edu.bd
 autodiscover.meheraliamadrasah.edu.bd
+autodiscover.mhmdc.edu.bd
 autodiscover.mhschool.edu.bd
 autodiscover.mhsf.edu.bd
 autodiscover.midmadrasah.edu.bd
@@ -1042,6 +1043,7 @@ communications.old.ulab.edu.bd
 convocation.green.edu.bd
 convocation.just.edu.bd
 core.ois.edu.bd
+corpuschristihighschool.edu.bd
 courseable.edu.bd
 coxbazarmodelhighschool.edu.bd
 coxsbazardccollege.edu.bd
@@ -1222,6 +1224,7 @@ cpanel.issdhaka.edu.bd
 cpanel.itnsc.edu.bd
 cpanel.ius.edu.bd
 cpanel.jaamadrasah.edu.bd
+cpanel.jagaparahs.edu.bd
 cpanel.jaldhuphs.edu.bd
 cpanel.jalilpur.edu.bd
 cpanel.jdidm.edu.bd
@@ -1312,6 +1315,7 @@ cpanel.mdsaam.edu.bd
 cpanel.mdsc.edu.bd
 cpanel.meahbazarcollege.edu.bd
 cpanel.meheraliamadrasah.edu.bd
+cpanel.mhmdc.edu.bd
 cpanel.mhschool.edu.bd
 cpanel.mhsf.edu.bd
 cpanel.midmadrasah.edu.bd
@@ -1647,6 +1651,7 @@ cpcalendars.issdhaka.edu.bd
 cpcalendars.itnsc.edu.bd
 cpcalendars.ius.edu.bd
 cpcalendars.jaamadrasah.edu.bd
+cpcalendars.jagaparahs.edu.bd
 cpcalendars.jaldhuphs.edu.bd
 cpcalendars.jalilpur.edu.bd
 cpcalendars.jdidm.edu.bd
@@ -1732,6 +1737,7 @@ cpcalendars.mdsaam.edu.bd
 cpcalendars.mdsc.edu.bd
 cpcalendars.meahbazarcollege.edu.bd
 cpcalendars.meheraliamadrasah.edu.bd
+cpcalendars.mhmdc.edu.bd
 cpcalendars.mhschool.edu.bd
 cpcalendars.mhsf.edu.bd
 cpcalendars.midmadrasah.edu.bd
@@ -2063,6 +2069,7 @@ cpcontacts.issdhaka.edu.bd
 cpcontacts.itnsc.edu.bd
 cpcontacts.ius.edu.bd
 cpcontacts.jaamadrasah.edu.bd
+cpcontacts.jagaparahs.edu.bd
 cpcontacts.jaldhuphs.edu.bd
 cpcontacts.jalilpur.edu.bd
 cpcontacts.jdidm.edu.bd
@@ -2148,6 +2155,7 @@ cpcontacts.mdsaam.edu.bd
 cpcontacts.mdsc.edu.bd
 cpcontacts.meahbazarcollege.edu.bd
 cpcontacts.meheraliamadrasah.edu.bd
+cpcontacts.mhmdc.edu.bd
 cpcontacts.mhschool.edu.bd
 cpcontacts.mhsf.edu.bd
 cpcontacts.midmadrasah.edu.bd
@@ -3108,6 +3116,7 @@ jttcsyl.edu.bd
 jugishowchainikaghs.edu.bd
 jugishowhs.edu.bd
 jugishowhs.sukhandighidm.edu.bd
+junior.ois.edu.bd
 juniv.edu.bd
 jvbs.edu.bd
 kabhs.aabchs.edu.bd
@@ -3724,6 +3733,7 @@ mail.issdhaka.edu.bd
 mail.itnsc.edu.bd
 mail.ius.edu.bd
 mail.jaamadrasah.edu.bd
+mail.jagaparahs.edu.bd
 mail.jaldhuphs.edu.bd
 mail.jalilpur.edu.bd
 mail.jalkurihighschoolandcollege.edu.bd
@@ -3831,6 +3841,7 @@ mail.mdsc.edu.bd
 mail.meahbazarcollege.edu.bd
 mail.meheraliamadrasah.edu.bd
 mail.mfm.edu.bd
+mail.mhmdc.edu.bd
 mail.mhschool.edu.bd
 mail.mhsf.edu.bd
 mail.midmadrasah.edu.bd
@@ -4144,6 +4155,7 @@ mgphs.edu.bd
 mgsc.edu.bd
 mhcollege.edu.bd
 mhighschool.edu.bd
+mhmdc.edu.bd
 mhrhs.edu.bd
 mhs.edu.bd
 mhsac.edu.bd
@@ -5647,6 +5659,7 @@ webdisk.issdhaka.edu.bd
 webdisk.itnsc.edu.bd
 webdisk.ius.edu.bd
 webdisk.jaamadrasah.edu.bd
+webdisk.jagaparahs.edu.bd
 webdisk.jaldhuphs.edu.bd
 webdisk.jalilpur.edu.bd
 webdisk.jdidm.edu.bd
@@ -5732,6 +5745,7 @@ webdisk.mdsaam.edu.bd
 webdisk.mdsc.edu.bd
 webdisk.meahbazarcollege.edu.bd
 webdisk.meheraliamadrasah.edu.bd
+webdisk.mhmdc.edu.bd
 webdisk.mhschool.edu.bd
 webdisk.mhsf.edu.bd
 webdisk.midmadrasah.edu.bd
@@ -6028,6 +6042,7 @@ webmail.ishakha.edu.bd
 webmail.itnsc.edu.bd
 webmail.ius.edu.bd
 webmail.jaamadrasah.edu.bd
+webmail.jagaparahs.edu.bd
 webmail.jalilpur.edu.bd
 webmail.jdidm.edu.bd
 webmail.jdsdm.edu.bd
@@ -6099,6 +6114,7 @@ webmail.mdsaam.edu.bd
 webmail.mdsc.edu.bd
 webmail.meahbazarcollege.edu.bd
 webmail.meheraliamadrasah.edu.bd
+webmail.mhmdc.edu.bd
 webmail.mhschool.edu.bd
 webmail.mhsf.edu.bd
 webmail.midmadrasah.edu.bd
@@ -7002,6 +7018,7 @@ www.itnsc.edu.bd
 www.ius.edu.bd
 www.jaamadrasah.edu.bd
 www.jagannathpurhs.edu.bd
+www.jagaparahs.edu.bd
 www.jaldhuphs.edu.bd
 www.jalilpur.edu.bd
 www.jalkurihighschoolandcollege.edu.bd
@@ -7260,6 +7277,7 @@ www.mgihs.edu.bd
 www.mgmhasanhighschool.edu.bd
 www.mgphs.edu.bd
 www.mgt.tejgaoncollege.edu.bd
+www.mhmdc.edu.bd
 www.mhs.edu.bd
 www.mhschool.edu.bd
 www.mhsf.edu.bd
