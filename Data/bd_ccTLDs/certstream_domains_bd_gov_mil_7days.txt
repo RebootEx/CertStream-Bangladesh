@@ -356,6 +356,7 @@ mail.barc.gov.bd
 mail.basailpaurashava.gov.bd
 mail.bcct.gov.bd
 mail.bcoecopyright.gov.bd
+mail.bcsir.gov.bd
 mail.bdccl.gov.bd
 mail.bdpost.gov.bd
 mail.bdris.gov.bd
@@ -573,6 +574,7 @@ saejp.gov.bd
 salepropos.sskmc.gov.bd
 sandbox.dob.ekshop.gov.bd
 sarsp.gnc.gov.bd
+savargc.gov.bd
 savarmunicipality.gov.bd
 schedule.brri.gov.bd
 school.gov.bd
@@ -715,6 +717,8 @@ webmail.ec4j.gov.bd
 webmail.meon.gov.bd
 webmail.nageswaripauroshava.gov.bd
 webmail.nha.gov.bd
+webmail.oss.bepza.gov.bd
+webmail.savargc.gov.bd
 webmail.sesip.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.srijon.gov.bd
@@ -894,6 +898,7 @@ www.rd.ictbdiasms.gov.bd
 www.register.gameapp.gov.bd
 www.sandbox.dob.ekshop.gov.bd
 www.sarsp.gnc.gov.bd
+www.savargc.gov.bd
 www.savarmunicipality.gov.bd
 www.sesip.gov.bd
 www.sfmmttc.gov.bd
