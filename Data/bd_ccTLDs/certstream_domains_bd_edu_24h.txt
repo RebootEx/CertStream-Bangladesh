@@ -4,6 +4,7 @@ access-academy.eastdelta.edu.bd
 adahs.edu.bd
 admin.bagmarabssc.edu.bd
 admin.panboridm113707.edu.bd
+admission.amdainstitutes.edu.bd
 adughsc.edu.bd
 advanced.edu.bd
 afi.edu.bd
@@ -97,6 +98,7 @@ corpuschristihighschool.edu.bd
 cpanel.abivyrahmanhighschool.edu.bd
 cpanel.adahs.edu.bd
 cpanel.aknahs.edu.bd
+cpanel.amths.edu.bd
 cpanel.baganislamiahighschool.edu.bd
 cpanel.bbgcj.edu.bd
 cpanel.bjrshs.edu.bd
@@ -134,6 +136,7 @@ cpanel.tidm.edu.bd
 cpcalendars.abivyrahmanhighschool.edu.bd
 cpcalendars.adahs.edu.bd
 cpcalendars.aknahs.edu.bd
+cpcalendars.amths.edu.bd
 cpcalendars.baganislamiahighschool.edu.bd
 cpcalendars.bbgcj.edu.bd
 cpcalendars.bhsb.edu.bd
@@ -170,6 +173,7 @@ cpcalendars.tidm.edu.bd
 cpcontacts.abivyrahmanhighschool.edu.bd
 cpcontacts.adahs.edu.bd
 cpcontacts.aknahs.edu.bd
+cpcontacts.amths.edu.bd
 cpcontacts.baganislamiahighschool.edu.bd
 cpcontacts.bbgcj.edu.bd
 cpcontacts.bhsb.edu.bd
@@ -246,6 +250,7 @@ gazirhatdeco.edu.bd
 gbuhsc.edu.bd
 gghsc.edu.bd
 ghagraunionhighschool.edu.bd
+glabdhaka.edu.bd
 gottihighschool.edu.bd
 gsfm.edu.bd
 gzsmc.edu.bd
@@ -259,7 +264,9 @@ hmmkhs.edu.bd
 hosnabadsgs.edu.bd
 hssmnadm.edu.bd
 ibhs.edu.bd
+igsc.edu.bd
 iitju.edu.bd
+imamgazzalisc.edu.bd
 isdairrhhs.edu.bd
 ishsc.edu.bd
 islampurpmphs.edu.bd
@@ -379,6 +386,7 @@ mainuddinahmmed.edu.bd.abjmhs.edu.bd
 mams.edu.bd
 mangalsukhmodelgps.com.shishupalliacademy.edu.bd
 masterabdurrahmanacademy.edu.bd
+mdhs.edu.bd
 mdsc.edu.bd
 metrouni.edu.bd
 meufm.edu.bd
@@ -506,6 +514,7 @@ smartcampus.mangrove.edu.bd
 smhabibpdc.edu.bd
 smsmc.edu.bd
 sndmtangail.edu.bd
+software.bub.edu.bd
 sonarbanglagowainghat.edu.bd
 sorudm.edu.bd
 spahs.edu.bd
@@ -569,6 +578,7 @@ webdisk.tidm.edu.bd
 webmail.abivyrahmanhighschool.edu.bd
 webmail.adahs.edu.bd
 webmail.aknahs.edu.bd
+webmail.amths.edu.bd
 webmail.baganislamiahighschool.edu.bd
 webmail.bbgcj.edu.bd
 webmail.bhsb.edu.bd
@@ -579,10 +589,13 @@ webmail.cbmc.edu.bd
 webmail.chschool.edu.bd
 webmail.cppi.edu.bd
 webmail.dsss.edu.bd
+webmail.glabdhaka.edu.bd
 webmail.gzsmc.edu.bd
 webmail.hasc.edu.bd
 webmail.hkks.edu.bd
 webmail.hssmnadm.edu.bd
+webmail.igsc.edu.bd
+webmail.imamgazzalisc.edu.bd
 webmail.kenduahighschool.edu.bd
 webmail.khurshed-ellinorbidyaniketon.edu.bd
 webmail.kubidmadrasha.edu.bd
@@ -612,10 +625,12 @@ www.abivyrahmanhighschool.edu.bd
 www.adahs.edu.bd
 www.admin.bagmarabssc.edu.bd
 www.admin.panboridm113707.edu.bd
+www.admission.amdainstitutes.edu.bd
 www.aisharahighschool.edu.bd
 www.aknahs.edu.bd
 www.alumni.metrouni.edu.bd
 www.amrataladuhdm.edu.bd.jspgirls.edu.bd
+www.amths.edu.bd
 www.arabic.cvgc.edu.bd
 www.backend.kamarparacollege.edu.bd
 www.backend.panboridm113707.edu.bd
@@ -660,6 +675,7 @@ www.fayezrdm.edu.bd
 www.flores4d.tongipilotsagc.edu.bd
 www.garbhangasgschool.edu.bd
 www.gazirhatdeco.edu.bd
+www.glabdhaka.edu.bd
 www.gsfm.edu.bd
 www.gzsmc.edu.bd
 www.hamhschool.edu.bd
@@ -669,6 +685,8 @@ www.hkks.edu.bd
 www.hkks.kdbbhs.edu.bd
 www.hmmkhs.edu.bd
 www.hssmnadm.edu.bd
+www.igsc.edu.bd
+www.imamgazzalisc.edu.bd
 www.islamichistory.cvgc.edu.bd
 www.jagdalhs.edu.bd.bnachs.edu.bd
 www.jis.edu.bd
@@ -752,6 +770,7 @@ www.smsmc.edu.bd
 www.sndmtangail.edu.bd
 www.socialwork.cvgc.edu.bd
 www.sociology.cvgc.edu.bd
+www.software.bub.edu.bd
 www.spahs.edu.bd
 www.statistics.cvgc.edu.bd
 www.student.metrouni.edu.bd
