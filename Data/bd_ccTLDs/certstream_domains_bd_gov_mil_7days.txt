@@ -132,6 +132,7 @@ cpanel.ec4j.gov.bd
 cpanel.meon.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.nabiganjpaurashava.gov.bd
+cpanel.nageswaripauroshava.gov.bd
 cpanel.ncc-ward8.gov.bd
 cpanel.pirganjmunicipality.gov.bd
 cpanel.sesip.gov.bd
@@ -161,6 +162,7 @@ cpcalendars.ec4j.gov.bd
 cpcalendars.meon.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.nabiganjpaurashava.gov.bd
+cpcalendars.nageswaripauroshava.gov.bd
 cpcalendars.ncc-ward8.gov.bd
 cpcalendars.pirganjmunicipality.gov.bd
 cpcalendars.sesip.gov.bd
@@ -188,6 +190,7 @@ cpcontacts.ec4j.gov.bd
 cpcontacts.meon.gov.bd
 cpcontacts.mushroomproject.gov.bd
 cpcontacts.nabiganjpaurashava.gov.bd
+cpcontacts.nageswaripauroshava.gov.bd
 cpcontacts.ncc-ward8.gov.bd
 cpcontacts.pirganjmunicipality.gov.bd
 cpcontacts.sesip.gov.bd
@@ -321,6 +324,7 @@ kgh.gov.bd
 khulnashipyard.com.khulnashipyard.gov.bd
 khulnavat.gov.bd
 kms.bamis.gov.bd
+kmttc.gov.bd
 kodalkatihs.gov.bd
 kpik.gov.bd
 krishokerjanala.gov.bd
@@ -440,6 +444,7 @@ mail.mpemr.gov.bd
 mail.mushroomproject.gov.bd
 mail.nabiganjpaurashava.gov.bd
 mail.nactar.gov.bd
+mail.nageswaripauroshava.gov.bd
 mail.nbrelearning.gov.bd
 mail.ncc-ward8.gov.bd
 mail.ncc.gov.bd
@@ -506,6 +511,7 @@ my.ngosherpur.gov.bd
 mygov.gov.bd
 nabiganjpaurashava.gov.bd
 naemict69.gnc.gov.bd
+nageswaripauroshava.gov.bd
 naldangamunicipality.gov.bd
 nalitabaritsc.gov.bd
 nameageserv.comillaboard.gov.bd
@@ -690,6 +696,7 @@ webdisk.ec4j.gov.bd
 webdisk.meon.gov.bd
 webdisk.mushroomproject.gov.bd
 webdisk.nabiganjpaurashava.gov.bd
+webdisk.nageswaripauroshava.gov.bd
 webdisk.ncc-ward8.gov.bd
 webdisk.pirganjmunicipality.gov.bd
 webdisk.sesip.gov.bd
@@ -719,6 +726,7 @@ webmail.dikkha.gov.bd
 webmail.dmpi.gov.bd
 webmail.ec4j.gov.bd
 webmail.meon.gov.bd
+webmail.nageswaripauroshava.gov.bd
 webmail.nha.gov.bd
 webmail.sesip.gov.bd
 webmail.sfmmttc.gov.bd
@@ -863,6 +871,7 @@ www.my.ngosherpur.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.nabiganjpaurashava.gov.bd
 www.naemict69.gnc.gov.bd
+www.nageswaripauroshava.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
 www.nbrelearning.gov.bd
 www.ncc-ward8.gov.bd
