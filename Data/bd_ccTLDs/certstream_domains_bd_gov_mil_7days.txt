@@ -67,8 +67,6 @@ bfacf-ticket.gov.bd
 bgcf.gov.bd
 bholapourashava.gov.bd
 bi.apamsv3.cabinet.gov.bd
-bicsaa.gov.bd
-billing.a2i.gov.bd
 biwtavhc.gov.bd
 bjkb.gov.bd
 bkspds.gov.bd
@@ -88,7 +86,6 @@ bwc.gov.bd
 cafoagriculture.gov.bd
 cafoerd.gov.bd
 cafoexpatriates.gov.bd
-cafofooddisaster.gov.bd
 cafolaw.gov.bd
 cafomefcc.gov.bd
 cafomof.gov.bd
@@ -96,6 +93,7 @@ cafomofl.gov.bd
 cafopmo.gov.bd
 caforoads.gov.bd
 cafotj.gov.bd
+card.shrlive.dghs.gov.bd
 cbc.gov.bd
 ccap.krishibatighor.gov.bd
 cdn.epb-exporttracker.gov.bd
@@ -121,9 +119,7 @@ chicd.gov.bd
 chittagongvat.gov.bd
 chittagongzoo.gov.bd
 chtpaimc.gov.bd
-cltp.gov.bd
 cms.cpadigital.gov.bd
-cocc.gov.bd
 college.gov.bd
 comillalg.gov.bd
 covid19.mohfw.gov.bd
@@ -156,7 +152,6 @@ cpanel.sylhetbetar.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxeszone12dhaka.gov.bd
 cpanel.unosullah.gov.bd
-cpanel.uppabnaholdingtax.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpanel.zplalmonirhat.gov.bd
 cpanel.zpmeherpur.gov.bd
@@ -185,7 +180,6 @@ cpcalendars.srijon.gov.bd
 cpcalendars.sylhetbetar.gov.bd
 cpcalendars.taxeszone12dhaka.gov.bd
 cpcalendars.unosullah.gov.bd
-cpcalendars.uppabnaholdingtax.gov.bd
 cpcalendars.zplalmonirhat.gov.bd
 cpcalendars.zpmeherpur.gov.bd
 cpcalendars.zpsatkhira.gov.bd
@@ -211,20 +205,17 @@ cpcontacts.srijon.gov.bd
 cpcontacts.sylhetbetar.gov.bd
 cpcontacts.taxeszone12dhaka.gov.bd
 cpcontacts.unosullah.gov.bd
-cpcontacts.uppabnaholdingtax.gov.bd
 cpcontacts.zplalmonirhat.gov.bd
 cpcontacts.zpmeherpur.gov.bd
 cpcontacts.zpsatkhira.gov.bd
 cpcontacts.zsanatore.gov.bd
 cttcdmp.gov.bd
-culmination.bise-ctg.gov.bd
 culmination.comillaboard.gov.bd
 customsvaluation.gov.bd
 cyberteens.gov.bd
 damspsd.gov.bd
 darsanapaurashava.gov.bd
 dashboard.blri.gov.bd
-dashboard.iedcr.gov.bd
 dashboard.ipemis.dpe.gov.bd
 data.ncdc.dghs.gov.bd
 database.mspvaw.gov.bd
@@ -232,13 +223,11 @@ dch.gov.bd
 ddpr.gov.bd
 demo.certificatefuldin.gov.bd
 demo.kjtsc.gov.bd
-demo.pch.gov.bd
 demo.taxeszone6.gov.bd
 designforeveryone.gov.bd
 dewanganjpaurashava.gov.bd
 dgdp.gov.bd
 dhakaeducationboard.gov.bd
-diaautomation.gov.bd
 digidash.bhtpa.gov.bd
 digitalliteracy.gov.bd
 dikkha.gov.bd
@@ -256,7 +245,6 @@ ebmeb.gov.bd
 ec4j.gov.bd
 edge.gov.bd
 edu.bd.gbrcr.gov.bd
-effssc.comillaboard.gov.bd
 egppplus.ddm.gov.bd
 ehealthcertificate.bfsa.gov.bd
 eksheba.gov.bd
@@ -265,7 +253,6 @@ emergencynutrition.gov.bd
 emrddashboard.gov.bd
 ems.epb-exporttracker.gov.bd
 ems.epb.gov.bd
-ems.taxeszone3ctg.gov.bd
 ems.titumircollege.gov.bd
 emsserver.epb-exporttracker.gov.bd
 enlistment.frc.gov.bd
@@ -290,8 +277,7 @@ foodfornation.gov.bd
 frontend.bcoecopyright.gov.bd
 ftp.bepza.gov.bd
 ftp.cevt.gov.bd
-gatepass.chc.gov.bd
-gems.gov.bd
+gis.beautifulbangladesh.gov.bd
 gjkagc.gov.bd
 gps.gov.bd
 grs.ec4j.gov.bd
@@ -316,7 +302,6 @@ icsetep.ugc.gov.bd
 ideabank.gov.bd
 ideas.nwpgcl.gov.bd
 idp-devsso.land.gov.bd
-iif.bise-ctg.gov.bd
 ilab.gov.bd
 inheritance.gov.bd
 innovation.dam.gov.bd
@@ -370,7 +355,6 @@ live3.bmd.gov.bd
 lmis.nmcp.gov.bd
 location.karmasangsthanbank.gov.bd
 login.ipemis.dpe.gov.bd
-lvs.ansarvdpbank.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 macademy.gov.bd
 mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
@@ -478,7 +462,6 @@ mail.ngoab.gov.bd
 mail.nimc.gov.bd
 mail.ntp.gov.bd
 mail.ntrca.gov.bd
-mail.pch.gov.bd
 mail.pgcb.gov.bd
 mail.pirganjmunicipality.gov.bd
 mail.pkb.gov.bd
@@ -508,7 +491,6 @@ mail.totthoapa.gov.bd
 mail.udd.gov.bd
 mail.uffl.gov.bd
 mail.unosullah.gov.bd
-mail.uppabnaholdingtax.gov.bd
 mail.uru.gov.bd
 mail.vatdhkeast.gov.bd
 mail.vatintelligence.gov.bd
@@ -556,6 +538,7 @@ nilmrcbd.gov.bd
 nimh.gov.bd
 nmcp.gov.bd
 noc.btcl.gov.bd
+nrigostisanad.gov.bd
 ntcc.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
@@ -564,15 +547,14 @@ nutritionprofile.nnsop.gov.bd
 nwpgcl.gov.bd
 office.dam.gov.bd
 office.fta.gov.bd
-ois.pgcb.gov.bd
 old.dhakadental.gov.bd
+old.iedcr.gov.bd
 olt.btcl.gov.bd
 oms.tzr.gov.bd
 online.bpodms.gov.bd
 ops.ipemis.dpe.gov.bd
 oss.bepza.gov.bd
 patiyagovtcollege.gov.bd
-pch.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 pds.dae.gov.bd
 pel.dfsrcaab.gov.bd
@@ -587,7 +569,6 @@ polytechnichighschool.edu.bd.gbrcr.gov.bd
 porichoy.gov.bd
 portal.dgme.gov.bd
 postcode.bpodms.gov.bd
-pouroseba.gov.bd
 program.betarcommercialservice.gov.bd
 rab.gov.bd
 radhanagarup.gov.bd
@@ -611,7 +592,6 @@ sarsp.gnc.gov.bd
 savargc.gov.bd
 savarmunicipality.gov.bd
 schedule.brri.gov.bd
-school.gov.bd
 schoolform.comillaboard.gov.bd
 seamenhostel.gov.bd
 secpass.gov.bd
@@ -635,7 +615,6 @@ smartbangladeshrun.ekpay.gov.bd
 smartchapitalaup.gov.bd
 smartlgi.gov.bd
 smartpaharpurup.gov.bd
-smartpay.scc.gov.bd
 smartschoolbus.gov.bd
 smarttraffic-api.dncc.gov.bd
 smarttraffic-owner.dncc.gov.bd
@@ -666,7 +645,6 @@ taltalagirlshighschool.edu.bd.gbrcr.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
 task.ec4j.gov.bd
 taxappealrajshahi.gov.bd
-taxappealzone2dhaka.gov.bd
 taxeszone12dhaka.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone4dhaka.gov.bd
@@ -686,7 +664,6 @@ testing.award.smartbangladesh.gov.bd
 track.bpodms.gov.bd
 trademark.bsc.gov.bd
 training.cirt.gov.bd
-training.gov.bd
 ttms.dpe.gov.bd
 turn.vc8.bcc.gov.bd
 ueopat.gov.bd
@@ -700,7 +677,6 @@ user.tds.taxeszone3ctg.gov.bd
 uttoradhikar.gov.bd
 uzparaihazar.gov.bd
 vatdhkeast.gov.bd
-vaxin.dghs.gov.bd
 visipass.farmbroadcast.gov.bd
 vmdatabase.mspvaw.gov.bd
 vms.ltuvat.gov.bd
@@ -734,7 +710,6 @@ webdisk.sylhetbetar.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxeszone12dhaka.gov.bd
 webdisk.unosullah.gov.bd
-webdisk.uppabnaholdingtax.gov.bd
 webdisk.zplalmonirhat.gov.bd
 webdisk.zpmeherpur.gov.bd
 webdisk.zpsatkhira.gov.bd
@@ -763,7 +738,6 @@ webmail.sylhetbetar.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
 webmail.unosullah.gov.bd
-webmail.uppabnaholdingtax.gov.bd
 webmail.zpdinajpur.gov.bd
 webmail.zplalmonirhat.gov.bd
 webmail.zpmeherpur.gov.bd
@@ -800,7 +774,6 @@ www.bepza.gov.bd
 www.bfacf-ticket.gov.bd
 www.bgcf.gov.bd
 www.bholapourashava.gov.bd
-www.biska.upmymensinghholdingtax.gov.bd
 www.biwtavhc.gov.bd
 www.bjkb.gov.bd
 www.bnscp.navy.mil.bd
@@ -825,7 +798,6 @@ www.chawkidar.digrajshahirange.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
 www.chicd.gov.bd
 www.chittagongvat.gov.bd
-www.cltp.gov.bd
 www.cms.cpadigital.gov.bd
 www.control.rpi.gov.bd
 www.coxsbazarpolice.gov.bd
@@ -854,7 +826,6 @@ www.ec4j.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.edge.gov.bd
 www.elab.fisheries.gov.bd
-www.ems.taxeszone3ctg.gov.bd
 www.ereturn.taxeszone6.gov.bd
 www.esiraj.gov.bd
 www.evm.gov.bd
@@ -864,6 +835,7 @@ www.forum.bsc.gov.bd
 www.frontend.bcoecopyright.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
+www.gis.beautifulbangladesh.gov.bd
 www.gongaharihighschool.edu.bd.gbrcr.gov.bd
 www.grs.ec4j.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
@@ -896,7 +868,6 @@ www.laravel.sfc-dp.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.laravel.sfcnavy.gov.bd
 www.location.karmasangsthanbank.gov.bd
-www.lvs.ansarvdpbank.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
 www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mail.amarai.gameapp.gov.bd
@@ -925,12 +896,12 @@ www.ntrc.gameapp.gov.bd
 www.office.fta.gov.bd
 www.old.bspi.gov.bd
 www.old.dhakadental.gov.bd
+www.old.iedcr.gov.bd
 www.oms.tzr.gov.bd
 www.p3sec.dgdp.gov.bd
 www.patiyagovtcollege.gov.bd
 www.pay-server.rpi.gov.bd
 www.pay.rpi.gov.bd
-www.pch.gov.bd
 www.pel.dfsrcaab.gov.bd
 www.pirganjmunicipality.gov.bd
 www.policy.gov.bd
@@ -953,7 +924,6 @@ www.shop.bsc.gov.bd
 www.skbbscr.edu.bd.gbrcr.gov.bd
 www.smartchapitalaup.gov.bd
 www.smartpaharpurup.gov.bd
-www.smartpay.scc.gov.bd
 www.smartschoolbus.gov.bd
 www.soft.tscnatore.gov.bd
 www.somotoler.btriapps.gov.bd
@@ -967,7 +937,6 @@ www.sylhettsc.gov.bd
 www.taltalagirlshighschool.edu.bd.gbrcr.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
 www.task.ec4j.gov.bd
-www.taxappealzone2dhaka.gov.bd
 www.taxeszone12dhaka.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
@@ -979,7 +948,6 @@ www.test.gameapp.gov.bd
 www.test.habiganjpourashava.gov.bd
 www.trademark.bsc.gov.bd
 www.unosullah.gov.bd
-www.uppabnaholdingtax.gov.bd
 www.vatdhkeast.gov.bd
 www.visipass.farmbroadcast.gov.bd
 www.vmdatabase.mspvaw.gov.bd
@@ -997,7 +965,6 @@ zpdinajpur.gov.bd
 zplalmonirhat.gov.bd
 zpmeherpur.gov.bd
 zpnarail.gov.bd
-zpnarayanganj.gov.bd
 zpnatore.gov.bd
 zpnetrokona.gov.bd
 zppabna.gov.bd
