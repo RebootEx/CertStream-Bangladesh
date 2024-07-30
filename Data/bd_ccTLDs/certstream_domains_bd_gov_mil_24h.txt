@@ -64,6 +64,7 @@ jury.ric.gov.bd
 kgh.gov.bd
 khagracharipourashava.gov.bd
 khulnavat.gov.bd
+laravel.sfcarmy.gov.bd
 mail.bcoecopyright.gov.bd
 mail.bepza.gov.bd
 mail.bholapourashava.gov.bd
@@ -92,6 +93,8 @@ ror.dc-rangamati.gov.bd
 savargc.gov.bd
 seamenhostel.gov.bd
 seminar.afd.gov.bd
+sfc-dp.gov.bd
+sfcair.gov.bd
 shsmc.gov.bd
 taxeszone4dhaka.gov.bd
 taxeszone9dhaka.gov.bd
@@ -101,6 +104,7 @@ tr.mcishr.dghs.gov.bd
 ttms.dpe.gov.bd
 turn.vc8.bcc.gov.bd
 unosullah.gov.bd
+upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 vms.ltuvat.gov.bd
 vtour.beautifulbangladesh.gov.bd
@@ -133,10 +137,12 @@ www.cpadigital.gov.bd
 www.database.mspvaw.gov.bd
 www.dewanganjpaurashava.gov.bd
 www.ems.titumircollege.gov.bd
+www.gafargaon.upmymensinghholdingtax.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
 www.ht.kanaighatmunicipality.gov.bd
 www.ideabank.gov.bd
 www.khulnavat.gov.bd
+www.laravel.sfcarmy.gov.bd
 www.mail.test.gameapp.gov.bd
 www.nbrelearning.gov.bd
 www.network.ekshop.gov.bd
