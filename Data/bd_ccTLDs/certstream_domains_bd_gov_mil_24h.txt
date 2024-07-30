@@ -3,6 +3,7 @@ app.dhakaeducationboard.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.unosullah.gov.bd
 automationtest.bepza.gov.bd
+bazardor.gov.bd
 bcms.gov.bd
 bcoecopyright.gov.bd
 bnscp.navy.mil.bd
@@ -17,6 +18,7 @@ coxsbazarpolice.gov.bd
 cpanel.bcoecopyright.gov.bd
 cpanel.bepza.gov.bd
 cpanel.cevt.gov.bd
+cpanel.oss.bepza.gov.bd
 cpanel.unosullah.gov.bd
 cpanel.zsanatore.gov.bd
 cpcalendars.bcoecopyright.gov.bd
@@ -30,11 +32,14 @@ cpcontacts.oss.bepza.gov.bd
 cpcontacts.unosullah.gov.bd
 cpcontacts.zsanatore.gov.bd
 database.mspvaw.gov.bd
+dewanganjpaurashava.gov.bd
 dosinland.dos.gov.bd
 ehealthcertificate.bfsa.gov.bd
 ems.titumircollege.gov.bd
 ftp.cevt.gov.bd
 ideabank.gov.bd
+jitsi.vc8.bcc.gov.bd
+kgh.gov.bd
 khulnavat.gov.bd
 mail.bcoecopyright.gov.bd
 mail.cevccumilla.gov.bd
@@ -53,7 +58,10 @@ onlinepayment.bise-ctg.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 postcode.bpodms.gov.bd
 seminar.afd.gov.bd
+taxeszone4dhaka.gov.bd
+testing.award.smartbangladesh.gov.bd
 tr.mcishr.dghs.gov.bd
+turn.vc8.bcc.gov.bd
 unosullah.gov.bd
 uppabnaholdingtax.gov.bd
 vms.ltuvat.gov.bd
@@ -65,6 +73,7 @@ webdisk.zsanatore.gov.bd
 webmail.bcoecopyright.gov.bd
 webmail.unosullah.gov.bd
 webmail.zsanatore.gov.bd
+wms.ansarvdp.gov.bd
 www.acrdoc.bcms.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.bcoecopyright.gov.bd
@@ -74,6 +83,7 @@ www.cevccumilla.gov.bd
 www.cevt.gov.bd
 www.coxsbazarpolice.gov.bd
 www.database.mspvaw.gov.bd
+www.dewanganjpaurashava.gov.bd
 www.ems.titumircollege.gov.bd
 www.ideabank.gov.bd
 www.khulnavat.gov.bd
@@ -81,6 +91,7 @@ www.mail.test.gameapp.gov.bd
 www.nbrelearning.gov.bd
 www.network.ekshop.gov.bd
 www.nimaichara.uppabnaholdingtax.gov.bd
+www.taxeszone4dhaka.gov.bd
 www.unosullah.gov.bd
 www.vms.ltuvat.gov.bd
 www.zsanatore.gov.bd
