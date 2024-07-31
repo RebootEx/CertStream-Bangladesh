@@ -33,6 +33,7 @@ autodiscover.meon.gov.bd
 autodiscover.mushroomproject.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
+autodiscover.taxeszone2.gov.bd
 autodiscover.unosullah.gov.bd
 autodiscover.zplalmonirhat.gov.bd
 autodiscover.zpmeherpur.gov.bd
@@ -145,6 +146,7 @@ cpanel.srijon.gov.bd
 cpanel.sylhetbetar.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxeszone12dhaka.gov.bd
+cpanel.taxeszone2.gov.bd
 cpanel.unosullah.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpanel.zplalmonirhat.gov.bd
@@ -170,6 +172,7 @@ cpcalendars.sfmmttc.gov.bd
 cpcalendars.srijon.gov.bd
 cpcalendars.sylhetbetar.gov.bd
 cpcalendars.taxeszone12dhaka.gov.bd
+cpcalendars.taxeszone2.gov.bd
 cpcalendars.unosullah.gov.bd
 cpcalendars.zplalmonirhat.gov.bd
 cpcalendars.zpmeherpur.gov.bd
@@ -194,6 +197,7 @@ cpcontacts.sfmmttc.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.sylhetbetar.gov.bd
 cpcontacts.taxeszone12dhaka.gov.bd
+cpcontacts.taxeszone2.gov.bd
 cpcontacts.unosullah.gov.bd
 cpcontacts.zplalmonirhat.gov.bd
 cpcontacts.zpmeherpur.gov.bd
@@ -215,6 +219,7 @@ dch.gov.bd
 ddpr.gov.bd
 demo.certificatefuldin.gov.bd
 demo.kjtsc.gov.bd
+demo.taxeszone2.gov.bd
 demo.taxeszone6.gov.bd
 designforeveryone.gov.bd
 dev.digitalliteracy.gov.bd
@@ -235,6 +240,7 @@ dss-dev.niseee.gov.bd
 du.gameapp.gov.bd
 eappointment.dghs.gov.bd
 ebmeb.gov.bd
+ebook.cmmc.gov.bd
 ec4j.gov.bd
 edge.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -364,6 +370,7 @@ mail.bepza.gov.bd
 mail.bgcf.gov.bd
 mail.bholapourashava.gov.bd
 mail.bjkb.gov.bd
+mail.bmdf.gov.bd
 mail.bsiedu.gov.bd
 mail.cbc.gov.bd
 mail.cevccumilla.gov.bd
@@ -394,6 +401,7 @@ mail.srijon.gov.bd
 mail.sylhetbetar.gov.bd
 mail.sylhettsc.gov.bd
 mail.taxeszone12dhaka.gov.bd
+mail.taxeszone2.gov.bd
 mail.taxeszone6.gov.bd
 mail.test.gameapp.gov.bd
 mail.unosullah.gov.bd
@@ -548,6 +556,7 @@ tarakanda.upmymensinghholdingtax.gov.bd
 task.ec4j.gov.bd
 taxappealrajshahi.gov.bd
 taxeszone12dhaka.gov.bd
+taxeszone2.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone4dhaka.gov.bd
 taxeszone6.gov.bd
@@ -609,6 +618,7 @@ webdisk.srijon.gov.bd
 webdisk.sylhetbetar.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxeszone12dhaka.gov.bd
+webdisk.taxeszone2.gov.bd
 webdisk.unosullah.gov.bd
 webdisk.zplalmonirhat.gov.bd
 webdisk.zpmeherpur.gov.bd
@@ -635,6 +645,7 @@ webmail.srijon.gov.bd
 webmail.sylhetbetar.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
+webmail.taxeszone2.gov.bd
 webmail.unosullah.gov.bd
 webmail.zpdinajpur.gov.bd
 webmail.zplalmonirhat.gov.bd
@@ -707,6 +718,7 @@ www.database.mspvaw.gov.bd
 www.dch.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.demo.kjtsc.gov.bd
+www.demo.taxeszone2.gov.bd
 www.demo.taxeszone6.gov.bd
 www.department.bsc.gov.bd
 www.designforeveryone.gov.bd
@@ -834,6 +846,7 @@ www.taltalagirlshighschool.edu.bd.gbrcr.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
 www.task.ec4j.gov.bd
 www.taxeszone12dhaka.gov.bd
+www.taxeszone2.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
 www.taxeszone6.gov.bd
