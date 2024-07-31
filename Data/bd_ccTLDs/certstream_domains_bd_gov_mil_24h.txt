@@ -4,7 +4,9 @@ apps.gjkagc.gov.bd
 autodiscover.e-tax-nbr.gov.bd
 autodiscover.taxeszone2.gov.bd
 barcouncil.gov.bd
+barisalboard.gov.bd
 bdris.dscc.gov.bd
+bepza.gov.bd
 btcl.gov.bd
 bteb-dev.niseee.gov.bd
 card.shrlive.dghs.gov.bd
@@ -32,6 +34,7 @@ health.nwpgcl.gov.bd
 ictpolicy.ictd.gov.bd
 ilab.gov.bd
 industry-dev.niseee.gov.bd
+itie.sskmc.gov.bd
 jitsi.vc8.bcc.gov.bd
 mail.bmdf.gov.bd
 mail.taxeszone2.gov.bd
@@ -48,9 +51,11 @@ oss.bepza.gov.bd
 pcb-doe.gov.bd
 pds.dae.gov.bd
 phghs.gov.bd
+portal.ekpass.gov.bd
 rpl-dev.niseee.gov.bd
 server.kpik.gov.bd
 sfcarmy.gov.bd
+smart-road.gov.bd
 smartandikot.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smef-dev.niseee.gov.bd
@@ -67,6 +72,7 @@ webmail.e-tax-nbr.gov.bd
 webmail.taxeszone2.gov.bd
 www.admin.smartup.gov.bd
 www.apps.gjkagc.gov.bd
+www.barisalboard.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.demo.taxeszone2.gov.bd
 www.dms.basbmed.gov.bd
