@@ -13,13 +13,17 @@ btcl.gov.bd
 bteb-dev.niseee.gov.bd
 card.shrlive.dghs.gov.bd
 cdn.epb-exporttracker.gov.bd
+chattogram.gov.bd
 corona.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.taxeszone2.gov.bd
+cpcalendars.bcoecopyright.gov.bd
 cpcalendars.e-tax-nbr.gov.bd
 cpcalendars.taxeszone2.gov.bd
+cpcontacts.bcoecopyright.gov.bd
 cpcontacts.e-tax-nbr.gov.bd
 cpcontacts.taxeszone2.gov.bd
+cumilla.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 demo.taxeszone2.gov.bd
 dev.digitalliteracy.gov.bd
@@ -32,6 +36,7 @@ email.ops.a2i.gov.bd
 ems.epb.gov.bd
 en.sfcnavy.gov.bd
 epb-exporttracker.gov.bd
+eregistration.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
 health.nwpgcl.gov.bd
@@ -44,6 +49,7 @@ mail.bmdf.gov.bd
 mail.taxeszone2.gov.bd
 mcci-dev.niseee.gov.bd
 migration-portal-dev.niseee.gov.bd
+mujib100sfc.gov.bd
 nascib-dev.niseee.gov.bd
 nationalmuseumticket.gov.bd
 new.nins.gov.bd
@@ -80,6 +86,7 @@ turn.vc8.bcc.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 vtour.beautifulbangladesh.gov.bd
+webdisk.bcoecopyright.gov.bd
 webdisk.e-tax-nbr.gov.bd
 webdisk.taxeszone2.gov.bd
 webmail.e-tax-nbr.gov.bd
@@ -88,6 +95,7 @@ www.admin.smartup.gov.bd
 www.apps.gjkagc.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
 www.barisalboard.gov.bd
+www.bcoecopyright.gov.bd
 www.bhaluka.upmymensinghholdingtax.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.demo.taxeszone2.gov.bd
