@@ -1,5 +1,7 @@
+api.pds.dae.gov.bd
 apps.gjkagc.gov.bd
 barcouncil.gov.bd
+bdris.dscc.gov.bd
 btcl.gov.bd
 bteb-dev.niseee.gov.bd
 card.shrlive.dghs.gov.bd
@@ -9,6 +11,7 @@ dev.digitalliteracy.gov.bd
 dms.basbmed.gov.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
+ebook.cmmc.gov.bd
 email.ops.a2i.gov.bd
 ems.epb.gov.bd
 en.sfcnavy.gov.bd
@@ -24,12 +27,15 @@ mail.bmdf.gov.bd
 mcci-dev.niseee.gov.bd
 migration-portal-dev.niseee.gov.bd
 nascib-dev.niseee.gov.bd
+nationalmuseumticket.gov.bd
 nise-dev.niseee.gov.bd
 noc.btcl.gov.bd
 nu-dev.niseee.gov.bd
 onestop.fireservice.gov.bd
 oss.bepza.gov.bd
 pcb-doe.gov.bd
+pds.dae.gov.bd
+phghs.gov.bd
 rpl-dev.niseee.gov.bd
 server.kpik.gov.bd
 sfcarmy.gov.bd
@@ -46,6 +52,7 @@ www.chatmohar.uppabnaholdingtax.gov.bd
 www.dms.basbmed.gov.bd
 www.elab.fisheries.gov.bd
 www.en.sfcnavy.gov.bd
+www.nationalmuseumticket.gov.bd
 www.smartandikot.gov.bd
 www.spisg.spisg.gov.bd
 www.vtour.beautifulbangladesh.gov.bd
