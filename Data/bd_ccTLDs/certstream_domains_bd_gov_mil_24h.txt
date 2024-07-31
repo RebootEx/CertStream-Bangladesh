@@ -3,6 +3,7 @@ api.pds.dae.gov.bd
 apps.gjkagc.gov.bd
 autodiscover.e-tax-nbr.gov.bd
 autodiscover.taxeszone2.gov.bd
+award.sheikhrussel.gov.bd
 barcouncil.gov.bd
 barisalboard.gov.bd
 barishaldiv.gov.bd
@@ -12,6 +13,7 @@ btcl.gov.bd
 bteb-dev.niseee.gov.bd
 card.shrlive.dghs.gov.bd
 cdn.epb-exporttracker.gov.bd
+corona.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.taxeszone2.gov.bd
 cpcalendars.e-tax-nbr.gov.bd
@@ -67,6 +69,7 @@ smartandikot.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smbogra.gov.bd
 smef-dev.niseee.gov.bd
+soltrack.gov.bd
 spisg.spisg.gov.bd
 staging.award.smartbangladesh.gov.bd
 taxeszone2.gov.bd
