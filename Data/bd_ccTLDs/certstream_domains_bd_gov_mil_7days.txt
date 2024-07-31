@@ -19,6 +19,7 @@ apamsv3.cabinet.gov.bd
 api.ipemis.dpe.gov.bd
 app.dhakaeducationboard.gov.bd
 apps.ekpass.gov.bd
+apps.gjkagc.gov.bd
 ar.gameapp.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 assignment.bise-ctg.gov.bd
@@ -109,6 +110,7 @@ cevrajshahi.gov.bd
 cevt.gov.bd
 cevta.gov.bd
 cgbdsydney.gov.bd
+chattogram.gov.bd
 chauddagramgovcollege.gov.bd
 chawkidar.digrajshahirange.gov.bd
 chicd.gov.bd
@@ -201,6 +203,7 @@ customsvaluation.gov.bd
 cyberteens.gov.bd
 damspsd.gov.bd
 darsanapaurashava.gov.bd
+dashboard-backoffice-dev.niseee.gov.bd
 dashboard.blri.gov.bd
 dashboard.ipemis.dpe.gov.bd
 data.ncdc.dghs.gov.bd
@@ -226,6 +229,7 @@ dnbc.gov.bd
 dosinland.dos.gov.bd
 dpeojhenaidah.gov.bd
 drive.bcc.gov.bd
+dss-dev.niseee.gov.bd
 du.gameapp.gov.bd
 eappointment.dghs.gov.bd
 ebmeb.gov.bd
@@ -245,6 +249,7 @@ ems.titumircollege.gov.bd
 emsserver.epb-exporttracker.gov.bd
 epb-exporttracker.gov.bd
 erecruitment.sec.gov.bd
+eregistration.gov.bd
 ereturn.taxeszone6.gov.bd
 erp.bfacf-ticket.gov.bd
 erp.gso.gov.bd
@@ -287,6 +292,7 @@ ictpolicy.ictd.gov.bd
 ideabank.gov.bd
 ideas.nwpgcl.gov.bd
 idp-devsso.land.gov.bd
+ihtbogura.gov.bd
 ilab.gov.bd
 inheritance.gov.bd
 innovation.dam.gov.bd
@@ -393,6 +399,7 @@ mail.zsanatore.gov.bd
 manage.sskmc.gov.bd
 marmcd.gov.bd
 mathbariacollege.gov.bd
+mcci-dev.niseee.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
 memis.gov.bd
@@ -402,8 +409,10 @@ mmch.gov.bd
 mmddl-ctgbcsir.gov.bd
 mne.ec4j.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
+motjdigitalstore.gov.bd
 moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 mq.apamsv3.cabinet.gov.bd
+mujib100sfc.gov.bd
 muladimunicipality.gov.bd
 mushroomproject.gov.bd
 my.ngosherpur.gov.bd
@@ -480,6 +489,7 @@ saejp.gov.bd
 salepropos.sskmc.gov.bd
 sandbox.dob.ekshop.gov.bd
 sarsp.gnc.gov.bd
+sarswp.gnc.gov.bd
 savargc.gov.bd
 savarmunicipality.gov.bd
 schedule.brri.gov.bd
@@ -507,6 +517,7 @@ smarttraffic-owner.dncc.gov.bd
 smarttraffic.dncc.gov.bd
 smbogra.gov.bd
 sme.idea.gov.bd
+smef-dev.niseee.gov.bd
 smmamc.gov.bd
 soft.tscnatore.gov.bd
 somotoler.btriapps.gov.bd
@@ -635,6 +646,7 @@ www.ahcollege.gov.bd
 www.amarai.gameapp.gov.bd
 www.aoc.dfsrcaab.gov.bd
 www.app.dhakaeducationboard.gov.bd
+www.apps.gjkagc.gov.bd
 www.ar.gameapp.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.attendance.rdodtekhulna.gov.bd
@@ -788,6 +800,7 @@ www.rd.ictbdiasms.gov.bd
 www.register.gameapp.gov.bd
 www.sandbox.dob.ekshop.gov.bd
 www.sarsp.gnc.gov.bd
+www.sarswp.gnc.gov.bd
 www.savargc.gov.bd
 www.savarmunicipality.gov.bd
 www.sesip.gov.bd
@@ -834,6 +847,7 @@ www.zpnetrokona.gov.bd
 www.zpsatkhira.gov.bd
 www.zsanatore.gov.bd
 xiclassadmission.gov.bd
+youth-dev.niseee.gov.bd
 zpbagerhat.gov.bd
 zpdinajpur.gov.bd
 zplalmonirhat.gov.bd
