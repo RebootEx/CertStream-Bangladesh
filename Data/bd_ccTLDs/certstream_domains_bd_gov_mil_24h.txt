@@ -25,6 +25,7 @@ dms.basbmed.gov.bd
 dss-dev.niseee.gov.bd
 dyd-dev.niseee.gov.bd
 ebook.cmmc.gov.bd
+edu.bd.gbrcr.gov.bd
 email.ops.a2i.gov.bd
 ems.epb.gov.bd
 en.sfcnavy.gov.bd
@@ -43,6 +44,9 @@ mcci-dev.niseee.gov.bd
 migration-portal-dev.niseee.gov.bd
 nascib-dev.niseee.gov.bd
 nationalmuseumticket.gov.bd
+new.nins.gov.bd
+new.sskmc.gov.bd
+nilmrcbd.gov.bd
 nise-dev.niseee.gov.bd
 noc.btcl.gov.bd
 nu-dev.niseee.gov.bd
@@ -61,8 +65,10 @@ sgtc.gov.bd
 smart-road.gov.bd
 smartandikot.gov.bd
 smartbangladeshrun.ekpay.gov.bd
+smbogra.gov.bd
 smef-dev.niseee.gov.bd
 spisg.spisg.gov.bd
+staging.award.smartbangladesh.gov.bd
 taxeszone2.gov.bd
 taxeszone23dhaka.gov.bd
 tekpou.gov.bd
@@ -75,6 +81,7 @@ webmail.e-tax-nbr.gov.bd
 webmail.taxeszone2.gov.bd
 www.admin.smartup.gov.bd
 www.apps.gjkagc.gov.bd
+www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
 www.barisalboard.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.demo.taxeszone2.gov.bd
@@ -82,6 +89,7 @@ www.dms.basbmed.gov.bd
 www.elab.fisheries.gov.bd
 www.en.sfcnavy.gov.bd
 www.nationalmuseumticket.gov.bd
+www.new.nins.gov.bd
 www.smartandikot.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
