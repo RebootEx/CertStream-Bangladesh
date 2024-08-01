@@ -1,10 +1,12 @@
 admin.smartup.gov.bd
+api.padmamuseum.gov.bd
 apps.jamalpurttc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
 award.sheikhrussel.gov.bd
 barisalboard.gov.bd
 bepza.gov.bd
 bogura.gov.bd
+bpo.farmbroadcast.gov.bd
 c.sskmc.gov.bd
 cafotj.gov.bd
 cbj.gov.bd
@@ -36,6 +38,7 @@ kms.bamis.gov.bd
 kpik.gov.bd
 laravel.cafolgd.gov.bd
 laravel.sfc-dp.gov.bd
+learning.dgme.gov.bd
 locc.psdsms.gov.bd
 logo.smartbangladesh.gov.bd
 lvstraining.ansarvdpbank.gov.bd
@@ -73,12 +76,15 @@ webmail.sskmc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
 www.admin.saejp.gov.bd
 www.admin.smartup.gov.bd
+www.api.padmamuseum.gov.bd
 www.apps.jamalpurttc.gov.bd
 www.barisalboard.gov.bd
+www.bpo.farmbroadcast.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
 www.db.padmamuseum.gov.bd
 www.demo.krishibatighor.gov.bd
 www.eportal.kkcp.gov.bd
+www.gunaigachha.uppabnaholdingtax.gov.bd
 www.kpik.gov.bd
 www.laravel.cafolgd.gov.bd
 www.laravel.sfc-dp.gov.bd
