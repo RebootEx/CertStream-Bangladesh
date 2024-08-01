@@ -1,4 +1,5 @@
 admin.smartup.gov.bd
+admission.akcc.gov.bd
 api.padmamuseum.gov.bd
 apps.jamalpurttc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
@@ -32,6 +33,7 @@ gtcl.gov.bd
 heat.ugc.gov.bd
 ihtbogura.gov.bd
 imam.gov.bd
+isec.gov.bd
 jashore.gov.bd
 keshabpurpouroshava.gov.bd
 kms.bamis.gov.bd
@@ -45,6 +47,7 @@ lvstraining.ansarvdpbank.gov.bd
 mail.ar.gameapp.gov.bd
 mail.cda.gov.bd
 mail.taxeszone12dhaka.gov.bd
+migration.gov.bd
 mmcm.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
 motjdigitalstore.gov.bd
@@ -68,6 +71,7 @@ startupbangladesh.gov.bd
 sujanagarmunicipality.gov.bd
 taxeszone12dhaka.gov.bd
 thakurgaonttc.gov.bd
+uniontax.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 vaxepi.gov.bd
@@ -76,6 +80,7 @@ webmail.sskmc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
 www.admin.saejp.gov.bd
 www.admin.smartup.gov.bd
+www.admission.akcc.gov.bd
 www.api.padmamuseum.gov.bd
 www.apps.jamalpurttc.gov.bd
 www.barisalboard.gov.bd
