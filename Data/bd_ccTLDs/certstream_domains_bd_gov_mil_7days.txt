@@ -103,6 +103,7 @@ cbj.gov.bd
 ccap.krishibatighor.gov.bd
 cdn.epb-exporttracker.gov.bd
 cedp.gbrcr.gov.bd
+cedp.gov.bd
 center.comillaboard.gov.bd
 centralup.munshiganjlg.gov.bd
 certification.bdskills.gov.bd
@@ -136,6 +137,7 @@ cpanel.bcoecopyright.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bjkb.gov.bd
 cpanel.bsiedu.gov.bd
+cpanel.cedp.gov.bd
 cpanel.cevt.gov.bd
 cpanel.cpadigital.gov.bd
 cpanel.darsanapaurashava.gov.bd
@@ -144,6 +146,7 @@ cpanel.dmpi.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.ec4j.gov.bd
 cpanel.meon.gov.bd
+cpanel.moulvibazartsc.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.nageswaripauroshava.gov.bd
 cpanel.oss.bepza.gov.bd
@@ -166,6 +169,7 @@ cpcalendars.bcoecopyright.gov.bd
 cpcalendars.bepza.gov.bd
 cpcalendars.bgcf.gov.bd
 cpcalendars.bjkb.gov.bd
+cpcalendars.cedp.gov.bd
 cpcalendars.cpadigital.gov.bd
 cpcalendars.darsanapaurashava.gov.bd
 cpcalendars.dikkha.gov.bd
@@ -192,6 +196,7 @@ cpcontacts.bcoecopyright.gov.bd
 cpcontacts.bepza.gov.bd
 cpcontacts.bgcf.gov.bd
 cpcontacts.bjkb.gov.bd
+cpcontacts.cedp.gov.bd
 cpcontacts.cpadigital.gov.bd
 cpcontacts.darsanapaurashava.gov.bd
 cpcontacts.dikkha.gov.bd
@@ -283,6 +288,7 @@ finance.ec4j.gov.bd
 foodfornation.gov.bd
 ftp.bepza.gov.bd
 ftp.cevt.gov.bd
+ftp.moulvibazartsc.gov.bd
 gazirtekup.faridpurlg.gov.bd
 gis.beautifulbangladesh.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
@@ -377,6 +383,8 @@ mail.bjkb.gov.bd
 mail.bmdf.gov.bd
 mail.bsiedu.gov.bd
 mail.cbc.gov.bd
+mail.cda.gov.bd
+mail.cedp.gov.bd
 mail.cevccumilla.gov.bd
 mail.cevdebidwar.gov.bd
 mail.cevdsc.gov.bd
@@ -394,6 +402,7 @@ mail.esiraj.gov.bd
 mail.homnapourashava.gov.bd
 mail.khulnavat.gov.bd
 mail.meon.gov.bd
+mail.moulvibazartsc.gov.bd
 mail.mushroomproject.gov.bd
 mail.nageswaripauroshava.gov.bd
 mail.nbrelearning.gov.bd
@@ -430,6 +439,7 @@ mmddl-ctgbcsir.gov.bd
 mne.ec4j.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
 motjdigitalstore.gov.bd
+moulvibazartsc.gov.bd
 moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 mq.apamsv3.cabinet.gov.bd
 mujib100sfc.gov.bd
@@ -450,6 +460,7 @@ new.nins.gov.bd
 new.sskmc.gov.bd
 newetif.bise-ctg.gov.bd
 ngosatkhira.gov.bd
+ngosherpur.gov.bd
 nhrdf.gov.bd
 nicrh.gov.bd
 nidproxy.mcishr.dghs.gov.bd
@@ -499,6 +510,7 @@ radhanagarup.gov.bd
 raipurapaurashava.gov.bd
 raipurpourashava.gov.bd
 raipurup.faridpurlg.gov.bd
+raise.wewb.gov.bd
 rajabariup.gov.bd
 raozanpourashava.gov.bd
 rd.ictbdiasms.gov.bd
@@ -618,6 +630,7 @@ webdisk.bepza.gov.bd
 webdisk.bgcf.gov.bd
 webdisk.bjkb.gov.bd
 webdisk.bsiedu.gov.bd
+webdisk.cedp.gov.bd
 webdisk.cpadigital.gov.bd
 webdisk.darsanapaurashava.gov.bd
 webdisk.dikkha.gov.bd
@@ -645,6 +658,7 @@ webmail.badc.gov.bd
 webmail.bcoecopyright.gov.bd
 webmail.bgcf.gov.bd
 webmail.bjkb.gov.bd
+webmail.cedp.gov.bd
 webmail.cpadigital.gov.bd
 webmail.darsanapaurashava.gov.bd
 webmail.dikkha.gov.bd
@@ -652,6 +666,7 @@ webmail.dmpi.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.ec4j.gov.bd
 webmail.meon.gov.bd
+webmail.moulvibazartsc.gov.bd
 webmail.nageswaripauroshava.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.savargc.gov.bd
@@ -712,6 +727,7 @@ www.caforoads.gov.bd
 www.ccap.krishibatighor.gov.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
+www.cedp.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.cevccumilla.gov.bd
 www.cevcumillasadar.gov.bd
@@ -800,11 +816,13 @@ www.laravel.sfcnavy.gov.bd
 www.location.karmasangsthanbank.gov.bd
 www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mail.amarai.gameapp.gov.bd
+www.mail.cda.gov.bd
 www.mail.test.gameapp.gov.bd
 www.majhpara.uppabnaholdingtax.gov.bd
 www.meal.pwdta.gov.bd
 www.meon.gov.bd
 www.mne.ec4j.gov.bd
+www.moulvibazartsc.gov.bd
 www.moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 www.mulgram.uppabnaholdingtax.gov.bd
 www.mushroomproject.gov.bd
