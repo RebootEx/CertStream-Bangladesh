@@ -6,10 +6,12 @@ accounts.bise-ctg.gov.bd
 acland-siddhirganjcircle.gov.bd
 aclanddemracircle.gov.bd
 aclandkotowalicircle.gov.bd
+admin.adolnutrireporting.nnsop.gov.bd
 admin.smartup.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 admission.akcc.gov.bd
 admission.sttc.gov.bd
+adolnutrireporting.nnsop.gov.bd
 ahcollege.gov.bd
 ai.gameapp.gov.bd
 akkelpurmunicipality.gov.bd
@@ -433,6 +435,7 @@ meon.gov.bd
 merchantpay.ekshop.gov.bd
 migration-portal-dev.niseee.gov.bd
 migration.gov.bd
+mirzapurpourashava.gov.bd
 mmcm.gov.bd
 mmddl-ctgbcsir.gov.bd
 mne.ec4j.gov.bd
@@ -454,6 +457,7 @@ nalitabaritsc.gov.bd
 nascib-dev.niseee.gov.bd
 nationalmuseumticket.gov.bd
 nbrelearning.gov.bd
+ncc.gov.bd
 network.ekshop.gov.bd
 new.nins.gov.bd
 new.sskmc.gov.bd
@@ -488,6 +492,7 @@ ops.ipemis.dpe.gov.bd
 oss.bepza.gov.bd
 oyshorzo.kabinazrulcollege.gov.bd
 padmamuseum.gov.bd
+panel.adolnutrireporting.nnsop.gov.bd
 pcb-doe.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 pds.dae.gov.bd
@@ -554,6 +559,7 @@ sheikhrussel.gov.bd
 shmcht.gov.bd
 shsmc.gov.bd
 skbbscr.edu.bd.gbrcr.gov.bd
+slot.accessibledictionary.gov.bd
 smart-road.gov.bd
 smart.dgt.gov.bd
 smartandikot.gov.bd
@@ -576,6 +582,8 @@ specialbranch.gov.bd
 spisg.spisg.gov.bd
 sreda.gov.bd
 srijon.gov.bd
+stage-admin.adolnutrireporting.nnsop.gov.bd
+stage.adolnutrireporting.nnsop.gov.bd
 staging.award.smartbangladesh.gov.bd
 startupbangladesh.gov.bd
 stgapp.cdc.gov.bd
@@ -782,6 +790,7 @@ www.ems.titumircollege.gov.bd
 www.en.sfcnavy.gov.bd
 www.eportal.kkcp.gov.bd
 www.ereturn.taxeszone6.gov.bd
+www.erp.sreda.gov.bd
 www.evm.gov.bd
 www.federal.bsc.gov.bd
 www.finance.ec4j.gov.bd
@@ -829,6 +838,7 @@ www.mahabbatkhanhighschool.edu.bd.gbrcr.gov.bd
 www.mail.amarai.gameapp.gov.bd
 www.mail.ar.gameapp.gov.bd
 www.mail.cda.gov.bd
+www.mail.sreda.gov.bd
 www.mail.test.gameapp.gov.bd
 www.meal.pwdta.gov.bd
 www.meon.gov.bd
@@ -868,6 +878,7 @@ www.radhanagarup.gov.bd
 www.raipurup.faridpurlg.gov.bd
 www.rajshahiboard.gov.bd
 www.rd.ictbdiasms.gov.bd
+www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
 www.sadai.gov.bd
