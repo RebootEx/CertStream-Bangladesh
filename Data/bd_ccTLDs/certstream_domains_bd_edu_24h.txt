@@ -21,7 +21,9 @@ asnsc.edu.bd
 asp.rmb.edu.bd
 aunhs.edu.bd
 autodiscover.bagmarabssc.edu.bd
+autodiscover.dauhs.edu.bd
 autodiscover.gobariahighschool.edu.bd
+autodiscover.gschschool.edu.bd
 autodiscover.nuamfmadrasah.edu.bd
 autodiscover.sdmm.edu.bd
 autodiscover.sdsdmadrasah.edu.bd
@@ -69,8 +71,10 @@ covid.rpsu.edu.bd
 cpanel.amths.edu.bd
 cpanel.apbhs.edu.bd
 cpanel.bagmarabssc.edu.bd
+cpanel.dauhs.edu.bd
 cpanel.garparahs.edu.bd
 cpanel.gobariahighschool.edu.bd
+cpanel.gschschool.edu.bd
 cpanel.ihtjhenaidah.edu.bd
 cpanel.ilc.edu.bd
 cpanel.ipghs.edu.bd
@@ -86,8 +90,10 @@ cpanel.zinoirhs.edu.bd
 cpcalendars.amths.edu.bd
 cpcalendars.apbhs.edu.bd
 cpcalendars.bagmarabssc.edu.bd
+cpcalendars.dauhs.edu.bd
 cpcalendars.garparahs.edu.bd
 cpcalendars.gobariahighschool.edu.bd
+cpcalendars.gschschool.edu.bd
 cpcalendars.ihtjhenaidah.edu.bd
 cpcalendars.ilc.edu.bd
 cpcalendars.ipghs.edu.bd
@@ -102,7 +108,9 @@ cpcn.daffodilvarsity.edu.bd
 cpcontacts.amths.edu.bd
 cpcontacts.apbhs.edu.bd
 cpcontacts.bagmarabssc.edu.bd
+cpcontacts.dauhs.edu.bd
 cpcontacts.gobariahighschool.edu.bd
+cpcontacts.gschschool.edu.bd
 cpcontacts.ihtjhenaidah.edu.bd
 cpcontacts.ilc.edu.bd
 cpcontacts.ipghs.edu.bd
@@ -115,6 +123,7 @@ cpcontacts.sdsdmadrasah.edu.bd
 cpcontacts.wehs.edu.bd
 cub.edu.bd
 damannanschool111087.edu.bd
+dauhs.edu.bd
 dcci-dbi.edu.bd
 deudm.edu.bd
 dev.atghoriagovhighschool.edu.bd
@@ -145,6 +154,7 @@ gksschool.edu.bd.pmndm.edu.bd
 gobariahighschool.edu.bd
 gobindapurhs.edu.bd
 govtsantoshiughs.edu.bd
+gschschool.edu.bd
 haithkandihighschool.edu.bd
 hartagirlshs.edu.bd
 hcphs.edu.bd
@@ -174,6 +184,7 @@ jobs.suchiparadegreecollege.edu.bd
 joshoilhs.edu.bd
 joynagar.edu.bd
 kahs.edu.bd
+kalidaskuhs.edu.bd
 kamarparacollege.edu.bd
 karmadhahsc.edu.bd
 kaundiasshs.edu.bd
@@ -208,11 +219,13 @@ mail.bpatal.edu.bd
 mail.bsbhighschool.edu.bd
 mail.chamagramhnhs.edu.bd
 mail.cjhscim.edu.bd
+mail.dauhs.edu.bd
 mail.doulatpurhoquebahadurhs.edu.bd
 mail.drhs1925.edu.bd
 mail.earpurhighschool.edu.bd
 mail.garparahs.edu.bd
 mail.gobariahighschool.edu.bd
+mail.gschschool.edu.bd
 mail.haithkandihighschool.edu.bd
 mail.hcphs.edu.bd
 mail.hhehs.edu.bd
@@ -268,6 +281,7 @@ mbacst.edu.bd
 mcnkhs.edu.bd
 mghs.edu.bd
 mirsaraigirlshighschool.edu.bd
+mnjhs.edu.bd
 mohangonjahs.edu.bd
 moliaishhs.edu.bd
 mollikpurhs.edu.bd
@@ -352,8 +366,10 @@ web.recr.edu.bd
 webdisk.amths.edu.bd
 webdisk.apbhs.edu.bd
 webdisk.bagmarabssc.edu.bd
+webdisk.dauhs.edu.bd
 webdisk.garparahs.edu.bd
 webdisk.gobariahighschool.edu.bd
+webdisk.gschschool.edu.bd
 webdisk.ihtjhenaidah.edu.bd
 webdisk.ilc.edu.bd
 webdisk.ipghs.edu.bd
@@ -368,7 +384,9 @@ webexpert.mmma.edu.bd
 webmail.amths.edu.bd
 webmail.apbhs.edu.bd
 webmail.bagmarabssc.edu.bd
+webmail.dauhs.edu.bd
 webmail.gobariahighschool.edu.bd
+webmail.gschschool.edu.bd
 webmail.ihtjhenaidah.edu.bd
 webmail.ilc.edu.bd
 webmail.ipghs.edu.bd
@@ -409,6 +427,7 @@ www.chamagramhnhs.edu.bd
 www.cjhscim.edu.bd
 www.courseplan.jalalabadcollege.edu.bd
 www.covid.rpsu.edu.bd
+www.dauhs.edu.bd
 www.dev.atghoriagovhighschool.edu.bd
 www.dhakasecuritiesltd.com.akpi.edu.bd
 www.digitalcurrency.maeti.edu.bd
@@ -425,6 +444,7 @@ www.gallery.cub.edu.bd
 www.garparahs.edu.bd
 www.gksschool.edu.bd.pmndm.edu.bd
 www.gobariahighschool.edu.bd
+www.gschschool.edu.bd
 www.haithkandihighschool.edu.bd
 www.hcphs.edu.bd
 www.hhehs.edu.bd
