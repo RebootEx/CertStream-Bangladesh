@@ -1,4 +1,5 @@
 a.sskmc.gov.bd
+acct.btcl.gov.bd
 admin.adolnutrireporting.nnsop.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 adolnutrireporting.nnsop.gov.bd
@@ -9,6 +10,7 @@ app.dhakaeducationboard.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 autoconfig.server.melandahbhata.gov.bd
 autodiscover.server.melandahbhata.gov.bd
+barlekhamunicipality.gov.bd
 basailpaurashava.gov.bd
 basurhatpourashava.gov.bd
 bazardor.gov.bd
@@ -50,6 +52,7 @@ edu.bd.gbrcr.gov.bd
 egppplus.ddm.gov.bd
 ehealthcertificate.bfsa.gov.bd
 elicense.fireservice.gov.bd
+fsc.fireservice.gov.bd
 gattiup.faridpurlg.gov.bd
 gis.bwdb.gov.bd
 gurudaspurpourosava.gov.bd
@@ -75,6 +78,7 @@ mail.khulnavat.gov.bd
 mail.nbrelearning.gov.bd
 mail.server.melandahbhata.gov.bd
 merchant.ekpay.gov.bd
+mirzapurpourashava.gov.bd
 nalitabaritsc.gov.bd
 nbrelearning.gov.bd
 network.ekshop.gov.bd
@@ -85,10 +89,12 @@ online.bpodms.gov.bd
 ops.ipemis.dpe.gov.bd
 oyshorzo.kabinazrulcollege.gov.bd
 panel.adolnutrireporting.nnsop.gov.bd
+payroll.btcl.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 postcode.bpodms.gov.bd
 rajshahiboard.gov.bd
 rangamatigmc.gov.bd
+raozanpourashava.gov.bd
 reg.dc-rangamati.gov.bd
 rrm.wewb.gov.bd
 sadai.gov.bd
@@ -100,8 +106,10 @@ shsmc.gov.bd
 smartkrishimarket.gov.bd
 sreda.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
+stage.adolnutrireporting.nnsop.gov.bd
 sundarbantourism.bforest.gov.bd
 taxeszone4dhaka.gov.bd
+taxeszone9dhaka.gov.bd
 tds.taxeszone13dhaka.gov.bd
 test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
