@@ -21,11 +21,15 @@ cevccumilla.gov.bd
 cgpoura.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
+cpadigital.gov.bd
 cpanel.bcoecopyright.gov.bd
+cpanel.cpadigital.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpcalendars.bcoecopyright.gov.bd
+cpcalendars.cpadigital.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcontacts.bcoecopyright.gov.bd
+cpcontacts.cpadigital.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 ct.taxeszoneonedhaka.gov.bd
 dashboard.blri.gov.bd
@@ -36,6 +40,7 @@ demo.certificatefuldin.gov.bd
 dewanganjbhata.gov.bd
 dewanganjbhata.gov.bd.melandahbhata.gov.bd
 dewanganjpaurashava.gov.bd
+digidash.bhtpa.gov.bd
 dis.btrc.gov.bd
 dosinland.dos.gov.bd
 dpeojhenaidah.gov.bd
@@ -62,6 +67,7 @@ mail.badc.gov.bd
 mail.basailpaurashava.gov.bd
 mail.bcoecopyright.gov.bd
 mail.cevccumilla.gov.bd
+mail.cpadigital.gov.bd
 mail.khulnavat.gov.bd
 mail.nbrelearning.gov.bd
 mail.server.melandahbhata.gov.bd
@@ -85,6 +91,7 @@ rrm.wewb.gov.bd
 sadai.gov.bd
 seminar.afd.gov.bd
 server.melandahbhata.gov.bd
+shsmc.gov.bd
 sreda.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 sundarbantourism.bforest.gov.bd
@@ -100,9 +107,11 @@ upmymensinghholdingtax.gov.bd
 vms.ltuvat.gov.bd
 volunteer.ekshop.gov.bd
 webdisk.bcoecopyright.gov.bd
+webdisk.cpadigital.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webmail.badc.gov.bd
 webmail.bcoecopyright.gov.bd
+webmail.cpadigital.gov.bd
 webmail.server.melandahbhata.gov.bd
 whm.server.melandahbhata.gov.bd
 wms.ansarvdp.gov.bd
@@ -118,6 +127,7 @@ www.bnscp.navy.mil.bd
 www.btbkschools.btriapps.gov.bd
 www.cevccumilla.gov.bd
 www.coxsbazarpolice.gov.bd
+www.cpadigital.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.database.mspvaw.gov.bd
