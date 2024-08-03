@@ -44,6 +44,7 @@ edu.bd.gbrcr.gov.bd
 egppplus.ddm.gov.bd
 ehealthcertificate.bfsa.gov.bd
 elicense.fireservice.gov.bd
+gattiup.faridpurlg.gov.bd
 gis.bwdb.gov.bd
 gurudaspurpourosava.gov.bd
 hscprivate.comillaboard.gov.bd
@@ -52,6 +53,7 @@ ihtbogura.gov.bd
 ipemis.dpe.gov.bd
 ipv6.server.melandahbhata.gov.bd
 jitsi.vc8.bcc.gov.bd
+kaichailup.faridpurlg.gov.bd
 kenduagc.gov.bd
 khulnavat.gov.bd
 live3.bmd.gov.bd
@@ -67,6 +69,7 @@ merchant.ekpay.gov.bd
 nalitabaritsc.gov.bd
 nbrelearning.gov.bd
 network.ekshop.gov.bd
+nmcp.gov.bd
 nwpgcl.gov.bd
 office.fta.gov.bd
 online.bpodms.gov.bd
@@ -85,8 +88,12 @@ server.melandahbhata.gov.bd
 sreda.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 sundarbantourism.bforest.gov.bd
+taxeszone4dhaka.gov.bd
 tds.taxeszone13dhaka.gov.bd
+test.habiganjpourashava.gov.bd
+testing.award.smartbangladesh.gov.bd
 tms.brri.gov.bd
+ttms.dpe.gov.bd
 turn.vc8.bcc.gov.bd
 ueopat.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -98,6 +105,7 @@ webmail.badc.gov.bd
 webmail.bcoecopyright.gov.bd
 webmail.server.melandahbhata.gov.bd
 whm.server.melandahbhata.gov.bd
+wms.ansarvdp.gov.bd
 workshop.fireservice.gov.bd
 www.acrdoc.bcms.gov.bd
 www.api.edp.gov.bd
@@ -119,8 +127,10 @@ www.dewanganjpaurashava.gov.bd
 www.dutipata.btriapps.gov.bd
 www.ecertificate.fisheries.gov.bd
 www.erp.sreda.gov.bd
+www.gattiup.faridpurlg.gov.bd
 www.ideabank.gov.bd
 www.ihtbogura.gov.bd
+www.kaichailup.faridpurlg.gov.bd
 www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.khulnavat.gov.bd
 www.mail.sreda.gov.bd
@@ -133,6 +143,8 @@ www.rajshahiboard.gov.bd
 www.recruitment.sreda.gov.bd
 www.server.melandahbhata.gov.bd
 www.somotolercha.btriapps.gov.bd
+www.taxeszone4dhaka.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
+www.test.habiganjpourashava.gov.bd
 www.vms.ltuvat.gov.bd
 www.volunteer.ekshop.gov.bd
