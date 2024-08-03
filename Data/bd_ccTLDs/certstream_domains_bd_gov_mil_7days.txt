@@ -15,6 +15,7 @@ akkelpurmunicipality.gov.bd
 amarai.gameapp.gov.bd
 aoc.dfsrcaab.gov.bd
 apamsv3.cabinet.gov.bd
+api.edp.gov.bd
 api.ipemis.dpe.gov.bd
 api.padmamuseum.gov.bd
 api.pds.dae.gov.bd
@@ -324,6 +325,7 @@ itie.sskmc.gov.bd
 jachai.payment.ekshop.gov.bd
 jachaipay.ekshop.gov.bd
 jamalpurtsc.gov.bd
+jamalpurttc.gov.bd
 jashore.gov.bd
 jitsi.vc8.bcc.gov.bd
 journal.dhakadental.gov.bd
@@ -381,6 +383,7 @@ mail.darsanapaurashava.gov.bd
 mail.dikkha.gov.bd
 mail.ec4j.gov.bd
 mail.homnapourashava.gov.bd
+mail.jamalpurttc.gov.bd
 mail.khulnavat.gov.bd
 mail.meon.gov.bd
 mail.moulvibazartsc.gov.bd
@@ -668,6 +671,7 @@ www.admin.smartup.gov.bd
 www.admission.akcc.gov.bd
 www.amarai.gameapp.gov.bd
 www.aoc.dfsrcaab.gov.bd
+www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.apps.gjkagc.gov.bd
@@ -765,6 +769,7 @@ www.ht.kanaighatmunicipality.gov.bd
 www.ideabank.gov.bd
 www.inventory.rmch.gov.bd
 www.investor.icml.gov.bd
+www.jamalpurttc.gov.bd
 www.journal.dhakadental.gov.bd
 www.journal.fima.gov.bd
 www.kaichailup.faridpurlg.gov.bd
