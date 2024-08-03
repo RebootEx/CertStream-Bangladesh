@@ -139,6 +139,7 @@ cpanel.darsanapaurashava.gov.bd
 cpanel.dikkha.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.ec4j.gov.bd
+cpanel.jamalpurttc.gov.bd
 cpanel.meon.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.mushroomproject.gov.bd
@@ -164,6 +165,7 @@ cpcalendars.darsanapaurashava.gov.bd
 cpcalendars.dikkha.gov.bd
 cpcalendars.e-tax-nbr.gov.bd
 cpcalendars.ec4j.gov.bd
+cpcalendars.jamalpurttc.gov.bd
 cpcalendars.meon.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.nageswaripauroshava.gov.bd
@@ -188,6 +190,7 @@ cpcontacts.darsanapaurashava.gov.bd
 cpcontacts.dikkha.gov.bd
 cpcontacts.e-tax-nbr.gov.bd
 cpcontacts.ec4j.gov.bd
+cpcontacts.jamalpurttc.gov.bd
 cpcontacts.meon.gov.bd
 cpcontacts.mushroomproject.gov.bd
 cpcontacts.nageswaripauroshava.gov.bd
@@ -489,6 +492,7 @@ polytech.gov.bd
 polytechnichighschool.edu.bd.gbrcr.gov.bd
 portal.ekpass.gov.bd
 postcode.bpodms.gov.bd
+previous.bajitpurpaurashava.gov.bd
 profile.nins.gov.bd
 projects.iifc.gov.bd
 radhanagarup.gov.bd
@@ -621,6 +625,7 @@ webdisk.darsanapaurashava.gov.bd
 webdisk.dikkha.gov.bd
 webdisk.e-tax-nbr.gov.bd
 webdisk.ec4j.gov.bd
+webdisk.jamalpurttc.gov.bd
 webdisk.meon.gov.bd
 webdisk.mushroomproject.gov.bd
 webdisk.nageswaripauroshava.gov.bd
@@ -645,6 +650,7 @@ webmail.darsanapaurashava.gov.bd
 webmail.dikkha.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.ec4j.gov.bd
+webmail.jamalpurttc.gov.bd
 webmail.meon.gov.bd
 webmail.moulvibazartsc.gov.bd
 webmail.nageswaripauroshava.gov.bd
