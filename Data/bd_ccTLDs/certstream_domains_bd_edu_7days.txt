@@ -85,6 +85,7 @@ admission.daffodilvarsity.edu.bd
 admission.fiu.edu.bd
 admission.lftiam.edu.bd
 admission.ndub.edu.bd
+admission.nstu.edu.bd
 admission.rpsu.edu.bd
 admission.sust.edu.bd
 admission.ugv.edu.bd
@@ -247,6 +248,7 @@ arparanesariasiddiquiadakhilmadrasa.edu.bd
 arsc.edu.bd
 asai.bsmraau.edu.bd
 asajs.edu.bd
+asatcollege.edu.bd
 asbhschool.edu.bd
 asbmc.edu.bd
 asd.edu.bd
@@ -482,6 +484,7 @@ bajuniappbbhs.edu.bd
 bakainiranjanschool.edu.bd
 bakdm.edu.bd
 bakshiadm.edu.bd
+bakshimoilhighschool.edu.bd
 bakshimulalimmadrasah.edu.bd
 balaparagkgs.edu.bd
 balarbazarghs.edu.bd
@@ -995,6 +998,7 @@ cpanel.bagmarabssc.edu.bd
 cpanel.bagzanabilateralhighschool.edu.bd
 cpanel.bairacollege.edu.bd
 cpanel.baitushsharaf.edu.bd
+cpanel.bakshimoilhighschool.edu.bd
 cpanel.baliharblhs.edu.bd
 cpanel.banoilhs.edu.bd
 cpanel.banorgachischool.edu.bd
@@ -1320,6 +1324,7 @@ cpcalendars.bagmarabssc.edu.bd
 cpcalendars.bagzanabilateralhighschool.edu.bd
 cpcalendars.bairacollege.edu.bd
 cpcalendars.baitushsharaf.edu.bd
+cpcalendars.bakshimoilhighschool.edu.bd
 cpcalendars.baliharblhs.edu.bd
 cpcalendars.banoilhs.edu.bd
 cpcalendars.banorgachischool.edu.bd
@@ -1630,6 +1635,7 @@ cpcontacts.bagmarabssc.edu.bd
 cpcontacts.bagzanabilateralhighschool.edu.bd
 cpcontacts.bairacollege.edu.bd
 cpcontacts.baitushsharaf.edu.bd
+cpcontacts.bakshimoilhighschool.edu.bd
 cpcontacts.baliharblhs.edu.bd
 cpcontacts.banoilhs.edu.bd
 cpcontacts.banorgachischool.edu.bd
@@ -1940,6 +1946,7 @@ cumillacsc.edu.bd
 cumillagwc.edu.bd
 cutc.edu.bd
 cvgc.edu.bd
+cvghs.edu.bd
 cwu.edu.bd
 daacndm.edu.bd
 daftarsbobet88.gccc.edu.bd
@@ -2129,6 +2136,7 @@ durgapurcollege.edu.bd
 durss.edu.bd
 dutt.edu.bd
 dzacghs.edu.bd
+e.mahhs.edu.bd
 ea.butex.edu.bd
 eacghs.edu.bd
 earpurhighschool.edu.bd
@@ -2334,6 +2342,7 @@ ghschool.edu.bd.bkbhs.edu.bd
 gidm.edu.bd
 giet.edu.bd
 gifdm.edu.bd
+gima.edu.bd
 gkamaruddinidc.edu.bd
 gkdm.edu.bd
 gkghs.edu.bd
@@ -3109,6 +3118,7 @@ mail.bagzanabilateralhighschool.edu.bd
 mail.baikunthapurhs.edu.bd
 mail.bairacollege.edu.bd
 mail.baitushsharaf.edu.bd
+mail.bakshimoilhighschool.edu.bd
 mail.baliahs.edu.bd
 mail.baliharblhs.edu.bd
 mail.banggurihs.edu.bd
@@ -3188,6 +3198,7 @@ mail.csmhs.edu.bd
 mail.ctggghs.edu.bd
 mail.cufsc.edu.bd
 mail.cumillagwc.edu.bd
+mail.cvghs.edu.bd
 mail.dajadmadrasah.edu.bd
 mail.damgarihs.edu.bd
 mail.damudyapilotgirls.edu.bd
@@ -4377,6 +4388,7 @@ s.amragachhiaschool.edu.bd
 s.andercharhs.edu.bd
 s.awmhs.edu.bd
 s.balshidhs.edu.bd
+s.baznabogirlshighschool.edu.bd
 s.bmmrhs.edu.bd
 s.burailahs.edu.bd
 s.cfbhighschool.edu.bd
@@ -4983,6 +4995,7 @@ webdisk.bagmarabssc.edu.bd
 webdisk.bagzanabilateralhighschool.edu.bd
 webdisk.bairacollege.edu.bd
 webdisk.baitushsharaf.edu.bd
+webdisk.bakshimoilhighschool.edu.bd
 webdisk.baliharblhs.edu.bd
 webdisk.banoilhs.edu.bd
 webdisk.banorgachischool.edu.bd
@@ -5289,6 +5302,7 @@ webmail.bagmarabssc.edu.bd
 webmail.bagzanabilateralhighschool.edu.bd
 webmail.bairacollege.edu.bd
 webmail.baitushsharaf.edu.bd
+webmail.bakshimoilhighschool.edu.bd
 webmail.baliharblhs.edu.bd
 webmail.bangshalghs.edu.bd
 webmail.banoilhs.edu.bd
@@ -5684,6 +5698,7 @@ www.admission.cgwc.edu.bd
 www.admission.fiu.edu.bd
 www.admission.lftiam.edu.bd
 www.admission.ndub.edu.bd
+www.admission.nstu.edu.bd
 www.admission.rpsu.edu.bd
 www.admission.ugv.edu.bd
 www.admission2.ugv.edu.bd
@@ -5762,6 +5777,7 @@ www.archive-soc.green.edu.bd
 www.ariadangihs.edu.bd
 www.arifinstitute.edu.bd
 www.armm.edu.bd
+www.asatcollege.edu.bd
 www.ashampoo.hamdarduniversity.edu.bd
 www.ashampoocommander.hamdarduniversity.edu.bd
 www.ashampoophoto.hamdarduniversity.edu.bd
@@ -5813,6 +5829,7 @@ www.baikunthapurhs.edu.bd
 www.bairacollege.edu.bd
 www.baitushsharaf.edu.bd
 www.bakdm.edu.bd
+www.bakshimoilhighschool.edu.bd
 www.baliahs.edu.bd
 www.baliakandidm.edu.bd
 www.baliakandigovtcollege.edu.bd
@@ -6025,6 +6042,7 @@ www.cufsc.edu.bd
 www.cuhsc.edu.bd.fenigaacademy.edu.bd
 www.cumillacsc.edu.bd
 www.cumillagwc.edu.bd
+www.cvghs.edu.bd
 www.dajadmadrasah.edu.bd
 www.dakshinahs.edu.bd
 www.dakshinnagardndm.edu.bd
@@ -6199,6 +6217,7 @@ www.ghschool.edu.bd
 www.ghschool.edu.bd.bkbhs.edu.bd
 www.gidm.edu.bd
 www.gifdm.edu.bd
+www.gima.edu.bd
 www.gkamaruddinidc.edu.bd
 www.gkdm.edu.bd
 www.gkghs.edu.bd
@@ -6546,6 +6565,7 @@ www.melabarihs.edu.bd
 www.memenangkanjackpotslotgacor.gccc.edu.bd
 www.mems.edu.bd
 www.mengenalsbobet.gccc.edu.bd
+www.metrouni.edu.bd
 www.mfrsc.edu.bd
 www.mghs.edu.bd
 www.mgihs.edu.bd
@@ -6833,6 +6853,7 @@ www.s.amragachhiaschool.edu.bd
 www.s.andercharhs.edu.bd
 www.s.awmhs.edu.bd
 www.s.balshidhs.edu.bd
+www.s.baznabogirlshighschool.edu.bd
 www.s.bmmrhs.edu.bd
 www.s.burailahs.edu.bd
 www.s.cfbhighschool.edu.bd
