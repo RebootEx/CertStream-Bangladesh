@@ -138,6 +138,7 @@ akbk.edu.bd
 akhanagarhighschool.edu.bd
 akkuppi.edu.bd
 akmmhms.edu.bd
+aknabansbariahs.edu.bd
 aknahs.edu.bd
 akotadegreecollege.edu.bd
 akotahighschool.edu.bd
@@ -180,6 +181,7 @@ amccomilla.edu.bd
 amdaiunitedcollege.edu.bd
 amenabdqdm.edu.bd
 amghs97.edu.bd
+amgsc.edu.bd
 amians.edu.bd
 amirabadhdm.edu.bd
 amis.edu.bd
@@ -254,6 +256,7 @@ autodiscover.adahs.edu.bd
 autodiscover.admk.edu.bd
 autodiscover.afmadrasah.edu.bd
 autodiscover.ajidmadrasah.edu.bd
+autodiscover.aknabansbariahs.edu.bd
 autodiscover.alfadangacollege.edu.bd
 autodiscover.anpidm.edu.bd
 autodiscover.asahs.edu.bd
@@ -267,6 +270,7 @@ autodiscover.baitushsharaf.edu.bd
 autodiscover.baliharblhs.edu.bd
 autodiscover.banoilhs.edu.bd
 autodiscover.banorgachischool.edu.bd
+autodiscover.barakholhs.edu.bd
 autodiscover.barapangashicollege.edu.bd
 autodiscover.baribarihs.edu.bd
 autodiscover.battalihs.edu.bd
@@ -480,6 +484,7 @@ baragachhahs.edu.bd
 baragobindapurambhs.edu.bd
 baraiacollege.edu.bd
 baraibuniaschool.edu.bd
+barakholhs.edu.bd
 barakpurhighschool.edu.bd
 barangkulahighschool.edu.bd
 barapangashicollege.edu.bd
@@ -863,6 +868,7 @@ cjhs.edu.bd
 cjhscim.edu.bd
 claim-unitokens.kamkgc.edu.bd
 client.hirapursnmhighschool.edu.bd
+clubs.daffodilvarsity.edu.bd
 cmahs.edu.bd
 cmhschool.edu.bd
 cmhsdinj.edu.bd
@@ -891,12 +897,14 @@ cpanel.adahs.edu.bd
 cpanel.admk.edu.bd
 cpanel.afmadrasah.edu.bd
 cpanel.ajidmadrasah.edu.bd
+cpanel.aknabansbariahs.edu.bd
 cpanel.aknahs.edu.bd
 cpanel.akpursecondaryschool.edu.bd
 cpanel.alfadangacollege.edu.bd
 cpanel.alfarooqacademy.edu.bd
 cpanel.alkawsarschool.edu.bd
 cpanel.alowakhoaghs.edu.bd
+cpanel.amgsc.edu.bd
 cpanel.amths.edu.bd
 cpanel.amzadalisarkerpghscollege.edu.bd
 cpanel.anpidm.edu.bd
@@ -916,6 +924,7 @@ cpanel.bakshimoilhighschool.edu.bd
 cpanel.baliharblhs.edu.bd
 cpanel.banoilhs.edu.bd
 cpanel.banorgachischool.edu.bd
+cpanel.barakholhs.edu.bd
 cpanel.barapangashicollege.edu.bd
 cpanel.baribarihs.edu.bd
 cpanel.baruratsc.edu.bd
@@ -1182,10 +1191,12 @@ cpcalendars.adahs.edu.bd
 cpcalendars.admk.edu.bd
 cpcalendars.afmadrasah.edu.bd
 cpcalendars.ajidmadrasah.edu.bd
+cpcalendars.aknabansbariahs.edu.bd
 cpcalendars.aknahs.edu.bd
 cpcalendars.alfadangacollege.edu.bd
 cpcalendars.alkawsarschool.edu.bd
 cpcalendars.alowakhoaghs.edu.bd
+cpcalendars.amgsc.edu.bd
 cpcalendars.amths.edu.bd
 cpcalendars.amzadalisarkerpghscollege.edu.bd
 cpcalendars.anpidm.edu.bd
@@ -1205,6 +1216,7 @@ cpcalendars.bakshimoilhighschool.edu.bd
 cpcalendars.baliharblhs.edu.bd
 cpcalendars.banoilhs.edu.bd
 cpcalendars.banorgachischool.edu.bd
+cpcalendars.barakholhs.edu.bd
 cpcalendars.barapangashicollege.edu.bd
 cpcalendars.baribarihs.edu.bd
 cpcalendars.baruratsc.edu.bd
@@ -1458,10 +1470,12 @@ cpcontacts.adahs.edu.bd
 cpcontacts.admk.edu.bd
 cpcontacts.afmadrasah.edu.bd
 cpcontacts.ajidmadrasah.edu.bd
+cpcontacts.aknabansbariahs.edu.bd
 cpcontacts.aknahs.edu.bd
 cpcontacts.alfadangacollege.edu.bd
 cpcontacts.alkawsarschool.edu.bd
 cpcontacts.alowakhoaghs.edu.bd
+cpcontacts.amgsc.edu.bd
 cpcontacts.amths.edu.bd
 cpcontacts.amzadalisarkerpghscollege.edu.bd
 cpcontacts.anpidm.edu.bd
@@ -1481,6 +1495,7 @@ cpcontacts.bakshimoilhighschool.edu.bd
 cpcontacts.baliharblhs.edu.bd
 cpcontacts.banoilhs.edu.bd
 cpcontacts.banorgachischool.edu.bd
+cpcontacts.barakholhs.edu.bd
 cpcontacts.barapangashicollege.edu.bd
 cpcontacts.baribarihs.edu.bd
 cpcontacts.baruratsc.edu.bd
@@ -2738,6 +2753,7 @@ latifpurhighschool.edu.bd
 laujanaiudm.edu.bd
 laureates.edu.bd
 law.dept.nbiu.edu.bd
+law.sgcdn.edu.bd
 lba.edu.bd
 lbhighschool.edu.bd
 lcc.edu.bd
@@ -2813,6 +2829,7 @@ mail.aisharahighschool.edu.bd
 mail.ajgarahs.edu.bd
 mail.ajhs.edu.bd
 mail.ajidmadrasah.edu.bd
+mail.aknabansbariahs.edu.bd
 mail.aknahs.edu.bd
 mail.alaminfazil.edu.bd
 mail.alfadangacollege.edu.bd
@@ -2820,6 +2837,7 @@ mail.alhajaliachiyahighschool.edu.bd
 mail.alkawsarschool.edu.bd
 mail.alowakhoaghs.edu.bd
 mail.amccomilla.edu.bd
+mail.amgsc.edu.bd
 mail.amths.edu.bd
 mail.amzadalisarkerpghscollege.edu.bd
 mail.anpidm.edu.bd
@@ -2845,6 +2863,7 @@ mail.baliharblhs.edu.bd
 mail.banggurihs.edu.bd
 mail.banoilhs.edu.bd
 mail.banorgachischool.edu.bd
+mail.barakholhs.edu.bd
 mail.barapangashicollege.edu.bd
 mail.bargunagovcollege.edu.bd
 mail.baribarihs.edu.bd
@@ -3512,6 +3531,7 @@ ncs.edu.bd
 ndhc.edu.bd
 ndm.edu.bd
 ndm118589.edu.bd
+ndmn.edu.bd
 nekmaradpniam.edu.bd
 nengisschool.edu.bd
 new.alhelalacademy.edu.bd
@@ -3730,6 +3750,7 @@ portal.bdsm.edu.bd
 portal.bhs119920.edu.bd
 portal.bishnupurimhs.edu.bd
 portal.bkamhs.edu.bd
+portal.bmarmc.edu.bd
 portal.bogdadiahs.edu.bd
 portal.bongpurhs.edu.bd
 portal.bpatal.edu.bd
@@ -3776,6 +3797,7 @@ portal.moliaishhs.edu.bd
 portal.moythajanatahighschool.edu.bd
 portal.naogaonghs.edu.bd
 portal.narichamhs.edu.bd
+portal.nemc.edu.bd
 portal.nfchs.edu.bd
 portal.palashbarismb.edu.bd
 portal.pbmgirlshighschool.edu.bd
@@ -4536,10 +4558,12 @@ webdisk.adahs.edu.bd
 webdisk.admk.edu.bd
 webdisk.afmadrasah.edu.bd
 webdisk.ajidmadrasah.edu.bd
+webdisk.aknabansbariahs.edu.bd
 webdisk.aknahs.edu.bd
 webdisk.alfadangacollege.edu.bd
 webdisk.alkawsarschool.edu.bd
 webdisk.alowakhoaghs.edu.bd
+webdisk.amgsc.edu.bd
 webdisk.amths.edu.bd
 webdisk.amzadalisarkerpghscollege.edu.bd
 webdisk.anpidm.edu.bd
@@ -4559,6 +4583,7 @@ webdisk.bakshimoilhighschool.edu.bd
 webdisk.baliharblhs.edu.bd
 webdisk.banoilhs.edu.bd
 webdisk.banorgachischool.edu.bd
+webdisk.barakholhs.edu.bd
 webdisk.barapangashicollege.edu.bd
 webdisk.baribarihs.edu.bd
 webdisk.baruratsc.edu.bd
@@ -4809,10 +4834,12 @@ webmail.adahs.edu.bd
 webmail.admk.edu.bd
 webmail.afmadrasah.edu.bd
 webmail.ajidmadrasah.edu.bd
+webmail.aknabansbariahs.edu.bd
 webmail.aknahs.edu.bd
 webmail.alfadangacollege.edu.bd
 webmail.alkawsarschool.edu.bd
 webmail.alowakhoaghs.edu.bd
+webmail.amgsc.edu.bd
 webmail.amths.edu.bd
 webmail.amzadalisarkerpghscollege.edu.bd
 webmail.anandamoyeeghs.edu.bd
@@ -4834,6 +4861,7 @@ webmail.baliharblhs.edu.bd
 webmail.bangshalghs.edu.bd
 webmail.banoilhs.edu.bd
 webmail.banorgachischool.edu.bd
+webmail.barakholhs.edu.bd
 webmail.barapangashicollege.edu.bd
 webmail.baribarihs.edu.bd
 webmail.baruratsc.edu.bd
@@ -5209,6 +5237,7 @@ www.ajgarahs.edu.bd
 www.ajhs.edu.bd
 www.ajidmadrasah.edu.bd
 www.akkuppi.edu.bd
+www.aknabansbariahs.edu.bd
 www.aknahs.edu.bd
 www.akpursecondaryschool.edu.bd
 www.alaminfazil.edu.bd
@@ -5226,6 +5255,7 @@ www.alumni.vu.edu.bd
 www.amajondeal.com.pakshiaic.edu.bd
 www.amarbuy.com.fjs.edu.bd
 www.amccomilla.edu.bd
+www.amgsc.edu.bd
 www.amirabadhdm.edu.bd
 www.amis.edu.bd
 www.amrataladuhdm.edu.bd.jspgirls.edu.bd
@@ -5316,6 +5346,7 @@ www.banoilhs.edu.bd
 www.banorgachischool.edu.bd
 www.banshparaideal.imc.edu.bd
 www.barabariahighschool.edu.bd.shankhchurahs.edu.bd
+www.barakholhs.edu.bd
 www.barapangashicollege.edu.bd
 www.bargunagovcollege.edu.bd
 www.baribarihs.edu.bd
@@ -5908,6 +5939,7 @@ www.lalmatiagirlshighschool.edu.bd
 www.lama.edu.bd
 www.laujanaiudm.edu.bd
 www.laureates.edu.bd
+www.law.sgcdn.edu.bd
 www.lbr.ugv.edu.bd
 www.lgmc.edu.bd
 www.lib.iub.edu.bd
@@ -6159,6 +6191,7 @@ www.porbapoulihs.edu.bd
 www.portal.eugsc.edu.bd
 www.portal.marmcd.edu.bd
 www.portal.mist.edu.bd
+www.portal.nemc.edu.bd
 www.portal.rghscr.edu.bd
 www.portal.ugv.edu.bd
 www.pos.dbicollege.edu.bd
