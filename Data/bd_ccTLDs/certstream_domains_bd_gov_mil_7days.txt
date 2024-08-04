@@ -3,6 +3,7 @@
 4tdcndsa.a2i.gov.bd
 a.sskmc.gov.bd
 accounts.bise-ctg.gov.bd
+acct.btcl.gov.bd
 acland-siddhirganjcircle.gov.bd
 admin.adolnutrireporting.nnsop.gov.bd
 admin.smartup.gov.bd
@@ -26,12 +27,14 @@ ar.gameapp.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 assignment.bise-ctg.gov.bd
 autoconfig.bepza.gov.bd
+autoconfig.server.melandahbhata.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.darsanapaurashava.gov.bd
 autodiscover.e-tax-nbr.gov.bd
 autodiscover.ec4j.gov.bd
 autodiscover.meon.gov.bd
 autodiscover.mushroomproject.gov.bd
+autodiscover.server.melandahbhata.gov.bd
 autodiscover.sfmmttc.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
 autodiscover.taxeszone2.gov.bd
@@ -145,6 +148,7 @@ cpanel.moulvibazartsc.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.nageswaripauroshava.gov.bd
 cpanel.oss.bepza.gov.bd
+cpanel.server.melandahbhata.gov.bd
 cpanel.sesip.gov.bd
 cpanel.sfmmttc.gov.bd
 cpanel.sylhetbetar.gov.bd
@@ -170,6 +174,7 @@ cpcalendars.meon.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.nageswaripauroshava.gov.bd
 cpcalendars.oss.bepza.gov.bd
+cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sesip.gov.bd
 cpcalendars.sfmmttc.gov.bd
 cpcalendars.sylhetbetar.gov.bd
@@ -195,6 +200,7 @@ cpcontacts.meon.gov.bd
 cpcontacts.mushroomproject.gov.bd
 cpcontacts.nageswaripauroshava.gov.bd
 cpcontacts.oss.bepza.gov.bd
+cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.sesip.gov.bd
 cpcontacts.sfmmttc.gov.bd
 cpcontacts.sylhetbetar.gov.bd
@@ -248,6 +254,7 @@ dyd-dev.niseee.gov.bd
 ebmeb.gov.bd
 ebook.cmmc.gov.bd
 ec4j.gov.bd
+edcl.gov.bd
 edu.bd.gbrcr.gov.bd
 eff-hsc.dinajpurboard.gov.bd
 egppplus.ddm.gov.bd
@@ -279,6 +286,7 @@ fgc.gov.bd
 finance.ec4j.gov.bd
 financialinclusion.gov.bd
 foodfornation.gov.bd
+fsc.fireservice.gov.bd
 ftp.bepza.gov.bd
 ftp.cevt.gov.bd
 ftp.moulvibazartsc.gov.bd
@@ -307,6 +315,7 @@ home.gnc.gov.bd
 homnapourashava.gov.bd
 hrm.iresppw-brdb.gov.bd
 hrm.mfstc.gov.bd
+hscprivate.comillaboard.gov.bd
 ht.kanaighatmunicipality.gov.bd
 ictpolicy.ictd.gov.bd
 ideabank.gov.bd
@@ -323,6 +332,7 @@ investor.icml.gov.bd
 ipcams.cdc.gov.bd
 ipemis.dpe.gov.bd
 iph.gov.bd
+ipv6.server.melandahbhata.gov.bd
 iras.brri.gov.bd
 isdp.gov.bd
 isec.gov.bd
@@ -399,6 +409,7 @@ mail.nageswaripauroshava.gov.bd
 mail.nbrelearning.gov.bd
 mail.ntp.gov.bd
 mail.savarmunicipality.gov.bd
+mail.server.melandahbhata.gov.bd
 mail.sesip.gov.bd
 mail.sfmmttc.gov.bd
 mail.sylhetbetar.gov.bd
@@ -477,6 +488,7 @@ oss.bepza.gov.bd
 oyshorzo.kabinazrulcollege.gov.bd
 padmamuseum.gov.bd
 panel.adolnutrireporting.nnsop.gov.bd
+payroll.btcl.gov.bd
 pbrlp.gov.bd
 pcb-doe.gov.bd
 pdf.apamsv3.cabinet.gov.bd
@@ -511,6 +523,7 @@ ror.dc-rangamati.gov.bd
 rpi.gov.bd
 rpl-dev.niseee.gov.bd
 rrfrangpur.gov.bd
+rrm.wewb.gov.bd
 rsojessore.gov.bd
 sadai.gov.bd
 saejp.gov.bd
@@ -525,6 +538,7 @@ sdg.gov.bd
 seamenhostel.gov.bd
 seminar.afd.gov.bd
 server.kpik.gov.bd
+server.melandahbhata.gov.bd
 service.gov.bd
 sesip.gov.bd
 sfc-dp.gov.bd
@@ -630,6 +644,7 @@ webdisk.meon.gov.bd
 webdisk.mushroomproject.gov.bd
 webdisk.nageswaripauroshava.gov.bd
 webdisk.oss.bepza.gov.bd
+webdisk.server.melandahbhata.gov.bd
 webdisk.sesip.gov.bd
 webdisk.sfmmttc.gov.bd
 webdisk.sylhetbetar.gov.bd
@@ -656,6 +671,7 @@ webmail.moulvibazartsc.gov.bd
 webmail.nageswaripauroshava.gov.bd
 webmail.oss.bepza.gov.bd
 webmail.savargc.gov.bd
+webmail.server.melandahbhata.gov.bd
 webmail.sesip.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.sskmc.gov.bd
@@ -669,6 +685,7 @@ webmail.zpsatkhira.gov.bd
 webmail.zsanatore.gov.bd
 whm.bepza.gov.bd
 whm.oss.bepza.gov.bd
+whm.server.melandahbhata.gov.bd
 wms.ansarvdp.gov.bd
 workshop.fireservice.gov.bd
 www.1234.melandahbhata.gov.bd
@@ -848,6 +865,7 @@ www.sarsp.gnc.gov.bd
 www.sarswp.gnc.gov.bd
 www.savargc.gov.bd
 www.savarmunicipality.gov.bd
+www.server.melandahbhata.gov.bd
 www.sesip.gov.bd
 www.sfmmttc.gov.bd
 www.shop.bsc.gov.bd
