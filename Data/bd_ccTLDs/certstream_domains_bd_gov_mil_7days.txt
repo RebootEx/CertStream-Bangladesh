@@ -10,6 +10,7 @@ admission.akcc.gov.bd
 admission.sttc.gov.bd
 adolnutrireporting.nnsop.gov.bd
 ai.gameapp.gov.bd
+amarai.gameapp.gov.bd
 ansarvdpbank.gov.bd
 aoc.dfsrcaab.gov.bd
 apamsv3.cabinet.gov.bd
@@ -59,6 +60,7 @@ bcoecopyright.gov.bd
 bdansarerp.gov.bd
 bdris.dscc.gov.bd
 bdrisnotification.dghs.gov.bd
+beeer.sreda.gov.bd
 bepza.gov.bd
 bgghsbhola.gov.bd
 bholapourashava.gov.bd
@@ -80,6 +82,8 @@ btriapps.gov.bd
 c.sskmc.gov.bd
 caabhc.gov.bd
 cafoagriculture.gov.bd
+cafocommerce.gov.bd
+cafocultural.gov.bd
 cafoerd.gov.bd
 cafoexpatriates.gov.bd
 cafolaw.gov.bd
@@ -87,6 +91,7 @@ cafomefcc.gov.bd
 cafomof.gov.bd
 cafomofl.gov.bd
 cafomolwa.gov.bd
+cafoparliament.gov.bd
 cafopmo.gov.bd
 caforeligious.gov.bd
 cafotj.gov.bd
@@ -255,6 +260,7 @@ estore.fireservice.gov.bd
 ewars.dghs.gov.bd
 ex2015e.sskmc.gov.bd
 exam-management.dinajpurboard.gov.bd
+exam.akcc.gov.bd
 exportdb.epb-exporttracker.gov.bd
 exportdbapi.epb-exporttracker.gov.bd
 fci.gov.bd
@@ -394,6 +400,7 @@ mail.zplalmonirhat.gov.bd
 mail.zpmeherpur.gov.bd
 mail.zpsatkhira.gov.bd
 mail.zsanatore.gov.bd
+management.bogurapolice.gov.bd
 marmcd.gov.bd
 mbgc.gov.bd
 mcci-dev.niseee.gov.bd
@@ -507,6 +514,7 @@ seminar.afd.gov.bd
 server.kpik.gov.bd
 server.melandahbhata.gov.bd
 service.gov.bd
+services.nha.gov.bd
 sesip.gov.bd
 sfc-dp.gov.bd
 sfcair.gov.bd
@@ -514,9 +522,11 @@ sfcarmy.gov.bd
 sgtc.gov.bd
 share.pmo.gov.bd
 sheikhrussel.gov.bd
+shiprecycling.gov.bd
 shmcht.gov.bd
 shmcj.gov.bd
 shsmc.gov.bd
+shsmch.gov.bd
 slot.accessibledictionary.gov.bd
 smart-road.gov.bd
 smart.dgt.gov.bd
@@ -542,6 +552,7 @@ stgapp.cdc.gov.bd
 store.ekshop.gov.bd
 sujanagarmunicipality.gov.bd
 sundarbantourism.bforest.gov.bd
+support.pmo.gov.bd
 sylhetbetar.gov.bd
 talmaup.faridpurlg.gov.bd
 taloramunicipality.gov.bd
@@ -564,8 +575,10 @@ test.faridpurlg.gov.bd
 test.gameapp.gov.bd
 test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
+testing.dope-test.dghs.gov.bd
 thakurgaonttc.gov.bd
 tms.brri.gov.bd
+topinfomat.com.kabinazrulcollege.gov.bd
 tourismctg.gov.bd
 tr.mcishr.dghs.gov.bd
 trademark.bsc.gov.bd
@@ -654,12 +667,14 @@ www.acrdoc.bcms.gov.bd
 www.admin.saejp.gov.bd
 www.admin.smartup.gov.bd
 www.admission.akcc.gov.bd
+www.amarai.gameapp.gov.bd
 www.aoc.dfsrcaab.gov.bd
 www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.apps.gjkagc.gov.bd
 www.apps.jamalpurttc.gov.bd
+www.ar.gameapp.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.attendence.rpi.gov.bd
 www.baharkachnagirlshighschool.edu.bd.gbrcr.gov.bd
@@ -669,6 +684,7 @@ www.basailpaurashava.gov.bd
 www.basurhatpourashava.gov.bd
 www.bcoecopyright.gov.bd
 www.bdansarerp.gov.bd
+www.beeer.sreda.gov.bd
 www.bepza.gov.bd
 www.bhaluka.upmymensinghholdingtax.gov.bd
 www.bholapourashava.gov.bd
@@ -688,6 +704,7 @@ www.cevccumilla.gov.bd
 www.cevdsc.gov.bd
 www.cevt.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
+www.chasebah.btriapps.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
@@ -708,6 +725,7 @@ www.designforeveryone.gov.bd
 www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
 www.dewanganjpaurashava.gov.bd
 www.dhaukhaliup.faridpurlg.gov.bd
+www.dids.btriapps.gov.bd
 www.dikkha.gov.bd
 www.dis.gov.bd
 www.diva.bvc.gov.bd
@@ -725,6 +743,7 @@ www.en.sfcnavy.gov.bd
 www.eportal.kkcp.gov.bd
 www.ereturn.taxeszone6.gov.bd
 www.erp.sreda.gov.bd
+www.exam.akcc.gov.bd
 www.finance.ec4j.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
@@ -788,6 +807,7 @@ www.new.nins.gov.bd
 www.nimaichara.uppabnaholdingtax.gov.bd
 www.nrb.scc.gov.bd
 www.ntp.gov.bd
+www.ntrc.gameapp.gov.bd
 www.office.fta.gov.bd
 www.old.dhakadental.gov.bd
 www.old.iedcr.gov.bd
@@ -806,6 +826,7 @@ www.railwaypolice.gov.bd
 www.raipurup.faridpurlg.gov.bd
 www.rajshahiboard.gov.bd
 www.recruitment.sreda.gov.bd
+www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
 www.sadai.gov.bd
 www.sarsp.gnc.gov.bd
@@ -814,8 +835,10 @@ www.savargc.gov.bd
 www.savarmunicipality.gov.bd
 www.server.melandahbhata.gov.bd
 www.sesip.gov.bd
+www.sheikhrussel.gov.bd
 www.smartandikot.gov.bd
 www.smartbangladesh.gov.bd
+www.smartteasolutions.btriapps.gov.bd
 www.somotolercha.btriapps.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
@@ -831,8 +854,11 @@ www.taxeszone4dhaka.gov.bd
 www.taxeszone6.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
 www.tds.taxeszone6.gov.bd
+www.teasoft.btriapps.gov.bd
 www.test.faridpurlg.gov.bd
+www.test.gameapp.gov.bd
 www.test.habiganjpourashava.gov.bd
+www.topinfomat.com.kabinazrulcollege.gov.bd
 www.trademark.bsc.gov.bd
 www.unosullah.gov.bd
 www.vaxepi.gov.bd
