@@ -6,7 +6,9 @@ admin.smartup.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 admission.akcc.gov.bd
 adolnutrireporting.nnsop.gov.bd
+alfadangaup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
+ambikapurup.faridpurlg.gov.bd
 ansarvdpbank.gov.bd
 aoc.dfsrcaab.gov.bd
 apamsv3.cabinet.gov.bd
@@ -69,6 +71,7 @@ cafocommerce.gov.bd
 cafocultural.gov.bd
 cafomolwa.gov.bd
 cafoparliament.gov.bd
+cafopower.gov.bd
 cafotj.gov.bd
 card.shrlive.dghs.gov.bd
 career.nilmrcbd.gov.bd
@@ -85,13 +88,16 @@ cevdebidwar.gov.bd
 cevrajshahi.gov.bd
 cgbdsydney.gov.bd
 cgpoura.gov.bd
+charbhadrasanup.faridpurlg.gov.bd
 charbisnopurup.faridpurlg.gov.bd
+charharirampurup.faridpurlg.gov.bd
 chatkhilpourashava.gov.bd
 chattogram.gov.bd
 chattogramdiv.gov.bd
 chatulup.faridpurlg.gov.bd
 chauddagramgovcollege.gov.bd
 chittagongzoo.gov.bd
+chtpaimc.gov.bd
 cmch.gov.bd
 cmmc.gov.bd
 cms.cpadigital.gov.bd
@@ -282,6 +288,7 @@ kodaliashohidnagarup.faridpurlg.gov.bd
 korakdi.faridpurlg.gov.bd
 kpik.gov.bd
 kranti.bamis.gov.bd
+krishnapurup.faridpurlg.gov.bd
 kuwaitmoitreehospital.gov.bd
 laravel.cafolgd.gov.bd
 laravel.sfc-dp.gov.bd
@@ -330,6 +337,7 @@ mail.server.melandahbhata.gov.bd
 mail.sylhetbetar.gov.bd
 mail.taxeszone12dhaka.gov.bd
 mail.taxeszone2.gov.bd
+mail.taxeszone5dhaka.gov.bd
 mail.taxeszone6.gov.bd
 mail.usc.dghs.gov.bd
 mail.vatdhkeast.gov.bd
@@ -368,6 +376,7 @@ new.nins.gov.bd
 new.sskmc.gov.bd
 newetif.bise-ctg.gov.bd
 ngosherpur.gov.bd
+nicrh.gov.bd
 nilmrcbd.gov.bd
 nise-dev.niseee.gov.bd
 nmcp.gov.bd
@@ -428,6 +437,7 @@ rrfrangpur.gov.bd
 rrm.wewb.gov.bd
 rsojessore.gov.bd
 sadai.gov.bd
+sadarpurup.faridpurlg.gov.bd
 saejp.gov.bd
 sam.nnsop.gov.bd
 sanboard.gov.bd
@@ -450,6 +460,7 @@ sfcarmy.gov.bd
 sgtc.gov.bd
 share.pmo.gov.bd
 sheikhrussel.gov.bd
+shiloyup.munshiganjlg.gov.bd
 shiprecycling.gov.bd
 shmcht.gov.bd
 shmcj.gov.bd
@@ -465,6 +476,7 @@ smartbangladeshrun.ekpay.gov.bd
 smartkrishimarket.gov.bd
 smartschoolbus.gov.bd
 smarttraffic-api.dncc.gov.bd
+smartup.faridpurlg.gov.bd
 smbogra.gov.bd
 sme.idea.gov.bd
 smef-dev.niseee.gov.bd
@@ -491,6 +503,7 @@ taxeszone12dhaka.gov.bd
 taxeszone2.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone4dhaka.gov.bd
+taxeszone5dhaka.gov.bd
 taxeszone6.gov.bd
 taxeszone9dhaka.gov.bd
 tdmtraining.finance.gov.bd
@@ -577,7 +590,9 @@ www.acrdoc.bcms.gov.bd
 www.admin.saejp.gov.bd
 www.admin.smartup.gov.bd
 www.admission.akcc.gov.bd
+www.alfadangaup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
+www.ambikapurup.faridpurlg.gov.bd
 www.aoc.dfsrcaab.gov.bd
 www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
@@ -610,7 +625,9 @@ www.center.dbwctp64.gov.bd
 www.cevccumilla.gov.bd
 www.cevdebidwar.gov.bd
 www.cevrajshahi.gov.bd
+www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
+www.charharirampurup.faridpurlg.gov.bd
 www.chasebah.btriapps.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.chatulup.faridpurlg.gov.bd
@@ -690,6 +707,7 @@ www.kodaliashohidnagarup.faridpurlg.gov.bd
 www.korakdi.faridpurlg.gov.bd
 www.kpik.gov.bd
 www.kranti.bamis.gov.bd
+www.krishnapurup.faridpurlg.gov.bd
 www.laravel.cafolgd.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.laravel.sfcarmy.gov.bd
@@ -703,6 +721,7 @@ www.mail.du.gameapp.gov.bd
 www.mail.sreda.gov.bd
 www.manikdhaup.faridpurlg.gov.bd
 www.mne.ec4j.gov.bd
+www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moulvibazartsc.gov.bd
 www.moynakutiblhighschool.edu.bd.gbrcr.gov.bd
 www.moynaup.faridpurlg.gov.bd
@@ -736,20 +755,24 @@ www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
 www.sadai.gov.bd
+www.sadarpurup.faridpurlg.gov.bd
 www.sandbox.dob.ekshop.gov.bd
 www.sarsp.gnc.gov.bd
 www.sarswp.gnc.gov.bd
 www.sells.mushroomproject.gov.bd
 www.server.melandahbhata.gov.bd
 www.sheikhrussel.gov.bd
+www.shiloyup.munshiganjlg.gov.bd
 www.smartandikot.gov.bd
 www.smartbangladesh.gov.bd
 www.smartschoolbus.gov.bd
 www.smartteasolutions.btriapps.gov.bd
+www.smartup.faridpurlg.gov.bd
 www.software.dbwctp64.gov.bd
 www.somotolercha.btriapps.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
+www.sums.rpi.gov.bd
 www.sylhetbetar.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
@@ -758,6 +781,7 @@ www.taxeszone12dhaka.gov.bd
 www.taxeszone2.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
+www.taxeszone5dhaka.gov.bd
 www.taxeszone6.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
 www.tds.taxeszone6.gov.bd
