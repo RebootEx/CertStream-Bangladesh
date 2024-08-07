@@ -8,6 +8,7 @@ autodiscover.bpemc.gov.bd
 autodiscover.madanpourashava.gov.bd
 autodiscover.railwaypolice.gov.bd
 avsec.caab.gov.bd
+beeer.sreda.gov.bd
 beta.nicrh.gov.bd
 bgghsbhola.gov.bd
 bjkb.gov.bd
@@ -17,6 +18,7 @@ btriapps.gov.bd
 caabhc.gov.bd
 cafocultural.gov.bd
 cafoeducation.gov.bd
+cafoparliament.gov.bd
 cafopower.gov.bd
 cafoptd.gov.bd
 comillaboard.gov.bd
@@ -38,9 +40,11 @@ cpcontacts.madanpourashava.gov.bd
 cpcontacts.railwaypolice.gov.bd
 dhakala.gov.bd
 dtesylhet.gov.bd
+edu.bd.gbrcr.gov.bd
 emrddashboard.gov.bd
 epassport1.bpodms.gov.bd
 exam.akcc.gov.bd
+faridganjmunicipality.gov.bd
 fima.gov.bd
 foodfornation.gov.bd
 gjkagc.gov.bd
@@ -62,6 +66,7 @@ mail.bpemc.gov.bd
 mail.kmch.gov.bd
 mail.madanpourashava.gov.bd
 mail.railwaypolice.gov.bd
+mail.taxeszone5dhaka.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
 melandahbhata.gov.bd
@@ -78,17 +83,21 @@ railwaypolice.gov.bd
 rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
 rpclorg2.bpemc.gov.bd
+rpi.gov.bd
 sadarpurup.faridpurlg.gov.bd
 secretariatclinic.gov.bd
 sgtc.gov.bd
 shiloyup.munshiganjlg.gov.bd
 shiprecycling.gov.bd
+shsmch.gov.bd
 smartchapitalaup.gov.bd
 smartup.faridpurlg.gov.bd
 specialbranch.gov.bd
 support.pmo.gov.bd
 taxeszone18dhaka.gov.bd
+taxeszone5dhaka.gov.bd
 test.jamalpurttc.gov.bd
+testing.dope-test.dghs.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
 tphsbagmara.gov.bd
 turn.vc8.bcc.gov.bd
@@ -109,6 +118,7 @@ webmail.railwaypolice.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.backup.fima.gov.bd
 www.ban-fima-web.fima.gov.bd
+www.beeer.sreda.gov.bd
 www.beta.nicrh.gov.bd
 www.bjkb.gov.bd
 www.bpemc.gov.bd
@@ -132,6 +142,7 @@ www.kmch.gov.bd
 www.kranti.bamis.gov.bd
 www.madanpourashava.gov.bd
 www.meal.pwdta.gov.bd
+www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.new.bhtpa.gov.bd
 www.notice.bavs.gov.bd
 www.openmrs.secretariatclinic.gov.bd
@@ -153,6 +164,9 @@ www.slotgacor.secretariatclinic.gov.bd
 www.smartchapitalaup.gov.bd
 www.smartteasolutions.btriapps.gov.bd
 www.smartup.faridpurlg.gov.bd
+www.sums-server.rpi.gov.bd
+www.sums.rpi.gov.bd
+www.taxeszone5dhaka.gov.bd
 www.teasoft.btriapps.gov.bd
 www.test.jamalpurttc.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
