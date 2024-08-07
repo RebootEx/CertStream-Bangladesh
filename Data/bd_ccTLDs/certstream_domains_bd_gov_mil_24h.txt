@@ -8,11 +8,13 @@ autodiscover.bpemc.gov.bd
 autodiscover.madanpourashava.gov.bd
 autodiscover.railwaypolice.gov.bd
 avsec.caab.gov.bd
+bcms.gov.bd
 beeer.sreda.gov.bd
 beta.nicrh.gov.bd
 bgghsbhola.gov.bd
 bjkb.gov.bd
 bkspds.gov.bd
+blpa.ekpay.gov.bd
 bpemc.gov.bd
 btriapps.gov.bd
 caabhc.gov.bd
@@ -43,6 +45,7 @@ dtesylhet.gov.bd
 edu.bd.gbrcr.gov.bd
 emrddashboard.gov.bd
 epassport1.bpodms.gov.bd
+episurveillance.dghs.gov.bd
 exam.akcc.gov.bd
 faridganjmunicipality.gov.bd
 fima.gov.bd
@@ -77,6 +80,7 @@ new.bhtpa.gov.bd
 nis.cabinet.gov.bd
 notice.bavs.gov.bd
 ntp.gov.bd
+nvacqr.nnsop.gov.bd
 outsp.kmch.gov.bd
 pts.bcc.gov.bd
 railwaypolice.gov.bd
@@ -87,12 +91,14 @@ rpi.gov.bd
 sadarpurup.faridpurlg.gov.bd
 secretariatclinic.gov.bd
 sgtc.gov.bd
+sheikhrussel.gov.bd
 shiloyup.munshiganjlg.gov.bd
 shiprecycling.gov.bd
 shsmch.gov.bd
 smartchapitalaup.gov.bd
 smartup.faridpurlg.gov.bd
 specialbranch.gov.bd
+spst.gov.bd
 support.pmo.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszone5dhaka.gov.bd
@@ -158,6 +164,7 @@ www.rpclorg2.bpemc.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sbobet.secretariatclinic.gov.bd
 www.server.secretariatclinic.gov.bd
+www.sheikhrussel.gov.bd
 www.shiloyup.munshiganjlg.gov.bd
 www.slot777.secretariatclinic.gov.bd
 www.slotgacor.secretariatclinic.gov.bd
