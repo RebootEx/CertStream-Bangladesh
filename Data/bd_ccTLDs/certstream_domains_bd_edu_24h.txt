@@ -46,6 +46,7 @@ cpanel.cddm1.edu.bd
 cpanel.ddam.edu.bd
 cpanel.halimunnessa.edu.bd
 cpanel.jmss.edu.bd
+cpanel.kadm103826.edu.bd
 cpanel.kmts.edu.bd
 cpanel.sfmsj.edu.bd
 cpanel.shalmarahs.edu.bd
@@ -55,6 +56,7 @@ cpcalendars.cddm1.edu.bd
 cpcalendars.ddam.edu.bd
 cpcalendars.halimunnessa.edu.bd
 cpcalendars.jmss.edu.bd
+cpcalendars.kadm103826.edu.bd
 cpcalendars.kmts.edu.bd
 cpcalendars.shalmarahs.edu.bd
 cpcalendars.snhsr.edu.bd
@@ -63,6 +65,7 @@ cpcontacts.cddm1.edu.bd
 cpcontacts.ddam.edu.bd
 cpcontacts.halimunnessa.edu.bd
 cpcontacts.jmss.edu.bd
+cpcontacts.kadm103826.edu.bd
 cpcontacts.kmts.edu.bd
 cpcontacts.shalmarahs.edu.bd
 cpcontacts.snhsr.edu.bd
@@ -79,9 +82,12 @@ dpgdhs.edu.bd
 dpghighschool.edu.bd
 dpghighschool.edu.bd.mkshs.edu.bd
 drdam.edu.bd
+dzhc.edu.bd
 edm.edu.bd
+empapp.diu.edu.bd
 fatemakhatunghsc.edu.bd
 ftp.sfmsj.edu.bd
+gateway6.diu.edu.bd
 gopalghatahighschool.edu.bd
 gulalbudaihighschool.edu.bd
 gultabazarhs.edu.bd
@@ -102,9 +108,11 @@ jmdm.edu.bd
 jmss.edu.bd
 jobs.smuct.edu.bd
 jtmhs.edu.bd
+kadm103826.edu.bd
 kadutyhs.edu.bd
 kalardoaniass.edu.bd
 kalinagardmsd.edu.bd
+kanaipurschoolandcollege.edu.bd
 kashinagarcollege.edu.bd
 kdbbhs.edu.bd
 kmts.edu.bd
@@ -119,6 +127,7 @@ mail.ddam.edu.bd
 mail.dgrdc.edu.bd
 mail.halimunnessa.edu.bd
 mail.jmss.edu.bd
+mail.kadm103826.edu.bd
 mail.kmts.edu.bd
 mail.sakhipurpmsc.edu.bd
 mail.sfmsj.edu.bd
@@ -163,11 +172,13 @@ sakhipurpmsc.edu.bd
 savaracghighschool.edu.bd
 sbmhs.edu.bd
 schsraj.edu.bd
+screative.xyz.kharkhoriadm.edu.bd
 sebhs.edu.bd
 sfmsj.edu.bd
 shahidsmritimc.edu.bd
 shalmarahs.edu.bd
 shashikarhighschool.edu.bd
+shmcjgov.edu.bd
 shs1946.edu.bd
 singarolhs.edu.bd
 smict.edu.bd
@@ -198,6 +209,7 @@ webdisk.cddm1.edu.bd
 webdisk.ddam.edu.bd
 webdisk.halimunnessa.edu.bd
 webdisk.jmss.edu.bd
+webdisk.kadm103826.edu.bd
 webdisk.kmts.edu.bd
 webdisk.shalmarahs.edu.bd
 webdisk.snhsr.edu.bd
@@ -206,6 +218,7 @@ webmail.cddm1.edu.bd
 webmail.ddam.edu.bd
 webmail.halimunnessa.edu.bd
 webmail.jmss.edu.bd
+webmail.kadm103826.edu.bd
 webmail.kmts.edu.bd
 webmail.savaracghighschool.edu.bd
 webmail.sfmsj.edu.bd
@@ -235,6 +248,7 @@ www.halimunnessa.edu.bd
 www.hkks.kdbbhs.edu.bd
 www.info.presidencybd.edu.bd
 www.jmss.edu.bd
+www.kadm103826.edu.bd
 www.kmts.edu.bd
 www.lib.su.edu.bd
 www.maisb.cdagsc.edu.bd
@@ -252,6 +266,7 @@ www.sakhipurpmsc.edu.bd
 www.savaracghighschool.edu.bd
 www.sbmhs.edu.bd
 www.schsraj.edu.bd
+www.screative.xyz.kharkhoriadm.edu.bd
 www.sfmsj.edu.bd
 www.shalmarahs.edu.bd
 www.sjhsc.edu.bd

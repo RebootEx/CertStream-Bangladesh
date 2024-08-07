@@ -4,10 +4,12 @@ autodiscover.railwaypolice.gov.bd
 beta.nicrh.gov.bd
 bkspds.gov.bd
 bpemc.gov.bd
+caabhc.gov.bd
 cafocultural.gov.bd
 cafoeducation.gov.bd
 cafoptd.gov.bd
 cpanel.bpemc.gov.bd
+cpanel.caabhc.gov.bd
 cpanel.kmch.gov.bd
 cpanel.railwaypolice.gov.bd
 cpcalendars.bpemc.gov.bd
@@ -19,6 +21,7 @@ cpcontacts.railwaypolice.gov.bd
 dtesylhet.gov.bd
 emrddashboard.gov.bd
 epassport1.bpodms.gov.bd
+foodfornation.gov.bd
 gjkagc.gov.bd
 hello.rmp.gov.bd
 hrm.dghs.gov.bd
@@ -47,10 +50,12 @@ webdisk.bpemc.gov.bd
 webdisk.kmch.gov.bd
 webdisk.railwaypolice.gov.bd
 webmail.bpemc.gov.bd
+webmail.caabhc.gov.bd
 webmail.kmch.gov.bd
 webmail.railwaypolice.gov.bd
 www.beta.nicrh.gov.bd
 www.bpemc.gov.bd
+www.caabhc.gov.bd
 www.iswarganj.upmymensinghholdingtax.gov.bd
 www.kmch.gov.bd
 www.new.bhtpa.gov.bd
