@@ -25,6 +25,7 @@ app.patgrammunicipality.gov.bd
 apps.ekpass.gov.bd
 apps.jamalpurttc.gov.bd
 ar.gameapp.gov.bd
+arparaup.faridpurlg.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 autoconfig.server.melandahbhata.gov.bd
 autodiscover.acland.gov.bd
@@ -36,6 +37,7 @@ autodiscover.mushroomproject.gov.bd
 autodiscover.railwaypolice.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 autodiscover.zpsatkhira.gov.bd
+aviation.bmd.gov.bd
 avsec.caab.gov.bd
 banglabazarup.munshiganjlg.gov.bd
 bangladesh.gov.bd
@@ -80,6 +82,7 @@ cafopower.gov.bd
 cafoptd.gov.bd
 career.nilmrcbd.gov.bd
 cbc.gov.bd
+cbsh.gov.bd
 cdn.epb-exporttracker.gov.bd
 cedp.gbrcr.gov.bd
 cedp.gov.bd
@@ -91,6 +94,7 @@ cevdebidwar.gov.bd
 cevrajshahi.gov.bd
 cgbdsydney.gov.bd
 cgpoura.gov.bd
+chandpurup.faridpurlg.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
 charbisnopurup.faridpurlg.gov.bd
 charharirampurup.faridpurlg.gov.bd
@@ -257,6 +261,7 @@ hscprivate.comillaboard.gov.bd
 icsetep.ugc.gov.bd
 ideabank.gov.bd
 ihtbogura.gov.bd
+iisb.bidaevents.gov.bd
 ilab.gov.bd
 info.shr.dghs.gov.bd
 innovationquiz.a2i.gov.bd
@@ -278,6 +283,7 @@ jitsi.vc8.bcc.gov.bd
 jobportal.sfmmttc.gov.bd
 kaichailup.faridpurlg.gov.bd
 kaijuriup.faridpurlg.gov.bd
+kaizen88.fpmu.gov.bd
 kamarkhaliup.faridpurlg.gov.bd
 kanaipurup.faridpurlg.gov.bd
 kenduagc.gov.bd
@@ -295,6 +301,7 @@ kuwaitmoitreehospital.gov.bd
 lalmohanpaurashava.gov.bd
 laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
+laskardiaup.faridpurlg.gov.bd
 lawjusticediv.gov.bd
 learning.dgme.gov.bd
 licence.gov.bd
@@ -347,6 +354,7 @@ mail.taxeszone6.gov.bd
 mail.usc.dghs.gov.bd
 mail.vatdhkeast.gov.bd
 mail.zpsatkhira.gov.bd
+majcharup.faridpurlg.gov.bd
 manage.sskmc.gov.bd
 management.bogurapolice.gov.bd
 manikdhaup.faridpurlg.gov.bd
@@ -424,6 +432,7 @@ radhanagarup.gov.bd
 railwaypolice.gov.bd
 raise.wewb.gov.bd
 rajshahiboard.gov.bd
+ramnagarup.faridpurlg.gov.bd
 rangamatigmc.gov.bd
 rangamatimunicipality.gov.bd
 raozanpourashava.gov.bd
@@ -439,6 +448,7 @@ rpi.gov.bd
 rrfrangpur.gov.bd
 rrm.wewb.gov.bd
 rsojessore.gov.bd
+rupapatup.faridpurlg.gov.bd
 sadai.gov.bd
 sadarpurup.faridpurlg.gov.bd
 saejp.gov.bd
@@ -491,6 +501,7 @@ stgapp.cdc.gov.bd
 store.ekshop.gov.bd
 sundarbantourism.bforest.gov.bd
 support.pmo.gov.bd
+tagarbandaup.faridpurlg.gov.bd
 talmaup.faridpurlg.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
 task.ec4j.gov.bd
@@ -594,6 +605,7 @@ www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.ar.gameapp.gov.bd
+www.arparaup.faridpurlg.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.attendance.rdodtekhulna.gov.bd
 www.attendence.rpi.gov.bd
@@ -627,6 +639,7 @@ www.centralup.faridpurlg.gov.bd
 www.cevccumilla.gov.bd
 www.cevdebidwar.gov.bd
 www.cevrajshahi.gov.bd
+www.chandpurup.faridpurlg.gov.bd
 www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
 www.charharirampurup.faridpurlg.gov.bd
@@ -720,12 +733,14 @@ www.kranti.bamis.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.laravel.sfc-dp.gov.bd
 www.laravel.sfcarmy.gov.bd
+www.laskardiaup.faridpurlg.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
 www.madanpourashava.gov.bd
 www.mail.bsfmstu.gameapp.gov.bd
 www.mail.cda.gov.bd
 www.mail.du.gameapp.gov.bd
 www.mail.sreda.gov.bd
+www.majcharup.faridpurlg.gov.bd
 www.manikdhaup.faridpurlg.gov.bd
 www.meal.pwdta.gov.bd
 www.mne.ec4j.gov.bd
@@ -766,12 +781,14 @@ www.quiz.gov.bd
 www.radhanagarup.gov.bd
 www.railwaypolice.gov.bd
 www.rajshahiboard.gov.bd
+www.ramnagarup.faridpurlg.gov.bd
 www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
 www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
+www.rupapatup.faridpurlg.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sandbox.dob.ekshop.gov.bd
 www.sbobet.secretariatclinic.gov.bd
@@ -791,6 +808,7 @@ www.somotolercha.btriapps.gov.bd
 www.srijon.gov.bd
 www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
+www.tagarbandaup.faridpurlg.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
 www.task.ec4j.gov.bd
