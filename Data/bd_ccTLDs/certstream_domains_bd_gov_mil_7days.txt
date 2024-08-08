@@ -123,6 +123,7 @@ cpanel.kmch.gov.bd
 cpanel.madanpourashava.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.mushroomproject.gov.bd
+cpanel.nageswaripauroshava.gov.bd
 cpanel.quiz.gov.bd
 cpanel.railwaypolice.gov.bd
 cpanel.server.melandahbhata.gov.bd
@@ -141,6 +142,7 @@ cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kmch.gov.bd
 cpcalendars.madanpourashava.gov.bd
 cpcalendars.mushroomproject.gov.bd
+cpcalendars.nageswaripauroshava.gov.bd
 cpcalendars.quiz.gov.bd
 cpcalendars.railwaypolice.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
@@ -158,12 +160,14 @@ cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kmch.gov.bd
 cpcontacts.madanpourashava.gov.bd
 cpcontacts.mushroomproject.gov.bd
+cpcontacts.nageswaripauroshava.gov.bd
 cpcontacts.quiz.gov.bd
 cpcontacts.railwaypolice.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.zpsatkhira.gov.bd
 ct.taxeszoneonedhaka.gov.bd
+cttcdmp.gov.bd
 customsvaluation.gov.bd
 dashboard.blri.gov.bd
 dashboard.ipemis.dpe.gov.bd
@@ -281,6 +285,7 @@ khaac.gov.bd
 khulnavat.gov.bd
 kmch.gov.bd
 kms.bamis.gov.bd
+kmttc.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
 korakdi.faridpurlg.gov.bd
 kpik.gov.bd
@@ -317,6 +322,7 @@ mail.cevdebidwar.gov.bd
 mail.cevrajshahi.gov.bd
 mail.cpadigital.gov.bd
 mail.cpatos.gov.bd
+mail.cttcdmp.gov.bd
 mail.customsvaluation.gov.bd
 mail.dch.gov.bd
 mail.dnbc.gov.bd
@@ -329,6 +335,7 @@ mail.kmch.gov.bd
 mail.madanpourashava.gov.bd
 mail.moulvibazartsc.gov.bd
 mail.mushroomproject.gov.bd
+mail.nageswaripauroshava.gov.bd
 mail.nbrelearning.gov.bd
 mail.ntp.gov.bd
 mail.quiz.gov.bd
@@ -364,6 +371,7 @@ munshiganjtsc.gov.bd
 mushroomproject.gov.bd
 my.ngosherpur.gov.bd
 naemict69.gnc.gov.bd
+nageswaripauroshava.gov.bd
 nalitabaritsc.gov.bd
 narailpourashava.gov.bd
 nbrelearning.gov.bd
@@ -388,6 +396,7 @@ nvacqr.nnsop.gov.bd
 nwpgcl.gov.bd
 office.fta.gov.bd
 olt.btcl.gov.bd
+omsdebidwar.gov.bd
 online.bpodms.gov.bd
 onlineexam.gbrcr.gov.bd
 ops.ipemis.dpe.gov.bd
@@ -422,6 +431,7 @@ rdodtekhulna.gov.bd
 reg.dc-rangamati.gov.bd
 register.gameapp.gov.bd
 report.ec4j.gov.bd
+rims.dgda.gov.bd
 rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
 rpclorg2.bpemc.gov.bd
@@ -538,6 +548,7 @@ webdisk.jamalpurttc.gov.bd
 webdisk.kmch.gov.bd
 webdisk.madanpourashava.gov.bd
 webdisk.mushroomproject.gov.bd
+webdisk.nageswaripauroshava.gov.bd
 webdisk.quiz.gov.bd
 webdisk.railwaypolice.gov.bd
 webdisk.server.melandahbhata.gov.bd
@@ -559,6 +570,7 @@ webmail.jamalpurttc.gov.bd
 webmail.kmch.gov.bd
 webmail.madanpourashava.gov.bd
 webmail.moulvibazartsc.gov.bd
+webmail.nageswaripauroshava.gov.bd
 webmail.quiz.gov.bd
 webmail.railwaypolice.gov.bd
 webmail.server.melandahbhata.gov.bd
@@ -629,6 +641,7 @@ www.course.fima.gov.bd
 www.coxsbazarpolice.gov.bd
 www.cpadigital.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
+www.cttcdmp.gov.bd
 www.customsvaluation.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.database.melandahbhata.gov.bd
@@ -724,6 +737,7 @@ www.my.ngosherpur.gov.bd
 www.mymail.ssnimc.gov.bd
 www.mymensinghsadar.upmymensinghholdingtax.gov.bd
 www.naemict69.gnc.gov.bd
+www.nageswaripauroshava.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
 www.nbrelearning.gov.bd
 www.network.ekshop.gov.bd
@@ -790,6 +804,7 @@ www.teasoft.btriapps.gov.bd
 www.test.gameapp.gov.bd
 www.test.habiganjpourashava.gov.bd
 www.test.jamalpurttc.gov.bd
+www.test.omsdebidwar.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
 www.trademark.bsc.gov.bd
