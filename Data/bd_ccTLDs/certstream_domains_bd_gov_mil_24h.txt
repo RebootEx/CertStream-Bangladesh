@@ -1,6 +1,7 @@
 amarai.gameapp.gov.bd
 app.zprajshahi.gov.bd
 appp.zprajshahi.gov.bd
+apps.bgb.gov.bd
 ar.gameapp.gov.bd
 autodiscover.madanpourashava.gov.bd
 aviation.bmd.gov.bd
@@ -9,6 +10,7 @@ bcms.gov.bd
 bgcf.gov.bd
 bpdbivvr.gov.bd
 bsfmstu.gameapp.gov.bd
+bsiedu.gov.bd
 cbsh.gov.bd
 centralup.faridpurlg.gov.bd
 cevappealctg.gov.bd
@@ -22,6 +24,7 @@ charmanairup.faridpurlg.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
 communitydhis.mohfw.gov.bd
+cpanel.bsiedu.gov.bd
 cpanel.durjog.gov.bd
 cpanel.madanpourashava.gov.bd
 cpcalendars.bgcf.gov.bd
@@ -45,15 +48,20 @@ gredaup.faridpurlg.gov.bd
 hematology.rmch.gov.bd
 iisb.bidaevents.gov.bd
 ilab.gov.bd
+indoortracker.mohfw.gov.bd
 info.shr.dghs.gov.bd
 inheritance.gov.bd
 inout.gso.gov.bd
 ipv6.durjog.gov.bd
+ispr.gov.bd
+jhikargachamunicipality.gov.bd
+josherup.narsingdilg.gov.bd
 kaizen88.fpmu.gov.bd
 khaac.gov.bd
 madanpourashava.gov.bd
 mail.bgcf.gov.bd
 mail.bsfmstu.gameapp.gov.bd
+mail.bsiedu.gov.bd
 mail.du.gameapp.gov.bd
 mail.durjog.gov.bd
 mail.madanpourashava.gov.bd
@@ -67,10 +75,12 @@ somotoler.btriapps.gov.bd
 sylhetboard.gov.bd
 test.gameapp.gov.bd
 testingapp.srngih.gov.bd
+unomagurasadar.gov.bd
 verification.dos.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.bgcf.gov.bd
+webdisk.bsiedu.gov.bd
 webdisk.durjog.gov.bd
 webdisk.madanpourashava.gov.bd
 webmail.bgcf.gov.bd
@@ -84,6 +94,7 @@ www.ar.gameapp.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.bgcf.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.bsiedu.gov.bd
 www.centralup.faridpurlg.gov.bd
 www.cevcumillasadar.gov.bd
 www.cevdcumilla.gov.bd
@@ -100,6 +111,8 @@ www.ekshop.gov.bd
 www.evm.gov.bd
 www.gredaup.faridpurlg.gov.bd
 www.hematology.rmch.gov.bd
+www.ispr.gov.bd
+www.josherup.narsingdilg.gov.bd
 www.madanpourashava.gov.bd
 www.mail.bsfmstu.gameapp.gov.bd
 www.mail.du.gameapp.gov.bd
