@@ -10,10 +10,14 @@ bpdbivvr.gov.bd
 chandpurup.faridpurlg.gov.bd
 cmmc.gov.bd
 cpanel.durjog.gov.bd
+cpanel.psb.gov.bd
 cpcalendars.durjog.gov.bd
+cpcalendars.psb.gov.bd
 cpcontacts.durjog.gov.bd
+cpcontacts.psb.gov.bd
 dbwctp64.gov.bd
 demo.kjtsc.gov.bd
+dev-backend.tourismctg.gov.bd
 durjog.gov.bd
 ekshop.gov.bd
 erp.bfacf-ticket.gov.bd
@@ -38,6 +42,7 @@ labrepository.bfsa.gov.bd
 laskardiaup.faridpurlg.gov.bd
 lgservice.gov.bd
 mail.durjog.gov.bd
+mail.psb.gov.bd
 majcharup.faridpurlg.gov.bd
 mehendiganjpourashava.gov.bd
 merchantpay.ekshop.gov.bd
@@ -49,6 +54,7 @@ onlineexam.gbrcr.gov.bd
 patgrammunicipality.gov.bd
 pibelearning.gov.bd
 promise.gov.bd
+psb.gov.bd
 ramnagarup.faridpurlg.gov.bd
 rangamatimunicipality.gov.bd
 ranisankailpourashava.gov.bd
@@ -57,14 +63,18 @@ rupapatup.faridpurlg.gov.bd
 sonaimuripaurashava.gov.bd
 sujanagarmunicipality.gov.bd
 tagarbandaup.faridpurlg.gov.bd
+tbhsd.gov.bd
 testingapp.srngih.gov.bd
+tourismctg.gov.bd
 training.dghs.gov.bd
 unomagurasadar.gov.bd
 upmymensinghholdingtax.gov.bd
 vmdatabase.mspvaw.gov.bd
 waste.ncc.gov.bd
 webdisk.durjog.gov.bd
+webdisk.psb.gov.bd
 webmail.durjog.gov.bd
+webmail.psb.gov.bd
 www.app.zprajshahi.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.center.dbwctp64.gov.bd
@@ -81,6 +91,7 @@ www.majcharup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.onlineexam.gbrcr.gov.bd
 www.patgrammunicipality.gov.bd
+www.psb.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
 www.ranisankailpourashava.gov.bd
 www.rupapatup.faridpurlg.gov.bd
