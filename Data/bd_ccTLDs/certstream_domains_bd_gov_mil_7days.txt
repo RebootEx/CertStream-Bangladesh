@@ -131,6 +131,7 @@ cpanel.psb.gov.bd
 cpanel.quiz.gov.bd
 cpanel.railwaypolice.gov.bd
 cpanel.rmch.gov.bd
+cpanel.sarkaribanglacollege.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.srijon.gov.bd
 cpanel.zpdinajpur.gov.bd
@@ -151,6 +152,7 @@ cpcalendars.psb.gov.bd
 cpcalendars.quiz.gov.bd
 cpcalendars.railwaypolice.gov.bd
 cpcalendars.rmch.gov.bd
+cpcalendars.sarkaribanglacollege.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.srijon.gov.bd
 cpcalendars.zpsatkhira.gov.bd
@@ -170,6 +172,7 @@ cpcontacts.psb.gov.bd
 cpcontacts.quiz.gov.bd
 cpcontacts.railwaypolice.gov.bd
 cpcontacts.rmch.gov.bd
+cpcontacts.sarkaribanglacollege.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.zpsatkhira.gov.bd
@@ -347,9 +350,11 @@ mail.quiz.gov.bd
 mail.railwaypolice.gov.bd
 mail.rajukdhaka.gov.bd
 mail.rmch.gov.bd
+mail.sarkaribanglacollege.gov.bd
 mail.savarmunicipality.gov.bd
 mail.server.melandahbhata.gov.bd
 mail.srijon.gov.bd
+mail.support.a2i.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.taxeszone6.gov.bd
 mail.test.gameapp.gov.bd
@@ -381,6 +386,7 @@ mygov.gov.bd
 nabinagarpourashava.gov.bd
 naemict69.gnc.gov.bd
 nageswaripauroshava.gov.bd
+naldangamunicipality.gov.bd
 narailpourashava.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
 new.bhtpa.gov.bd
@@ -409,7 +415,9 @@ origin-www.epassport.gov.bd
 oss.bepza.gov.bd
 outsp.kmch.gov.bd
 oyshorzo.kabinazrulcollege.gov.bd
+panchagarhmunicipality.gov.bd
 patgrammunicipality.gov.bd
+patharghatapourashava.gov.bd
 payroll.btcl.gov.bd
 pdb.shrlive.dghs.gov.bd
 pds.dae.gov.bd
@@ -425,6 +433,7 @@ pts.bcc.gov.bd
 quiz.gov.bd
 radhanagarup.gov.bd
 railwaypolice.gov.bd
+rajbaripourashava.gov.bd
 rajshahiboard.gov.bd
 ramkantapurup.faridpurlg.gov.bd
 ramnagarup.faridpurlg.gov.bd
@@ -451,6 +460,7 @@ saejp.gov.bd
 salepropos.sskmc.gov.bd
 sanboard.gov.bd
 sandbox.dob.ekshop.gov.bd
+sarkaribanglacollege.gov.bd
 savarmunicipality.gov.bd
 secretariatclinic.gov.bd
 sells.mushroomproject.gov.bd
@@ -461,6 +471,7 @@ sfc-dp.gov.bd
 sfcair.gov.bd
 sfcnavy.gov.bd
 sgtc.gov.bd
+shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
 shiloyup.munshiganjlg.gov.bd
 shiprecycling.gov.bd
@@ -486,11 +497,13 @@ sreenagarup.munshiganjlg.gov.bd
 srijon.gov.bd
 srishtitetulia.gov.bd
 ssnimc.gov.bd
+staging-ekyc.bcc-ca.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 storein.gnc.gov.bd
 sujanagarmunicipality.gov.bd
 sundarbantourism.bforest.gov.bd
+support.doict.gov.bd
 support.pmo.gov.bd
 sylhetboard.gov.bd
 tagarbandaup.faridpurlg.gov.bd
@@ -553,6 +566,7 @@ webdisk.psb.gov.bd
 webdisk.quiz.gov.bd
 webdisk.railwaypolice.gov.bd
 webdisk.rmch.gov.bd
+webdisk.sarkaribanglacollege.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webdisk.srijon.gov.bd
 webdisk.zpsatkhira.gov.bd
@@ -574,6 +588,7 @@ webmail.psb.gov.bd
 webmail.quiz.gov.bd
 webmail.railwaypolice.gov.bd
 webmail.rmch.gov.bd
+webmail.sarkaribanglacollege.gov.bd
 webmail.server.melandahbhata.gov.bd
 webmail.srijon.gov.bd
 webmail.zpdinajpur.gov.bd
@@ -742,7 +757,9 @@ www.onlineexam.gbrcr.gov.bd
 www.openmrs.secretariatclinic.gov.bd
 www.outsp.kmch.gov.bd
 www.oyshorzo.kabinazrulcollege.gov.bd
+www.panchagarhmunicipality.gov.bd
 www.patgrammunicipality.gov.bd
+www.patharghatapourashava.gov.bd
 www.pay-server.rpi.gov.bd
 www.pay.rpi.gov.bd
 www.pmis.ansarvdpbank.gov.bd
@@ -754,6 +771,7 @@ www.python.secretariatclinic.gov.bd
 www.quiz.gov.bd
 www.radhanagarup.gov.bd
 www.railwaypolice.gov.bd
+www.rajbaripourashava.gov.bd
 www.rajshahiboard.gov.bd
 www.ramkantapurup.faridpurlg.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
@@ -766,11 +784,13 @@ www.rpclorg2.bpemc.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sandbox.dob.ekshop.gov.bd
+www.sarkaribanglacollege.gov.bd
 www.savarmunicipality.gov.bd
 www.sbobet.secretariatclinic.gov.bd
 www.sells.mushroomproject.gov.bd
 www.server.melandahbhata.gov.bd
 www.server.secretariatclinic.gov.bd
+www.shariatpurmunicipality.gov.bd
 www.sheikhrussel.gov.bd
 www.shiloyup.munshiganjlg.gov.bd
 www.shop.bsc.gov.bd
@@ -784,6 +804,7 @@ www.smartup.faridpurlg.gov.bd
 www.software.dbwctp64.gov.bd
 www.somotoler.btriapps.gov.bd
 www.sonaimuripaurashava.gov.bd
+www.sraep.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
 www.srijon.gov.bd
 www.state.bsc.gov.bd
