@@ -41,6 +41,7 @@ autodiscover.ec4j.gov.bd
 autodiscover.madanpourashava.gov.bd
 autodiscover.mushroomproject.gov.bd
 autodiscover.railwaypolice.gov.bd
+autodiscover.rmch.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 autodiscover.zpsatkhira.gov.bd
 aviation.bmd.gov.bd
@@ -143,8 +144,10 @@ cpanel.kmch.gov.bd
 cpanel.madanpourashava.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.nageswaripauroshava.gov.bd
+cpanel.psb.gov.bd
 cpanel.quiz.gov.bd
 cpanel.railwaypolice.gov.bd
+cpanel.rmch.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.srijon.gov.bd
 cpanel.zpdinajpur.gov.bd
@@ -163,8 +166,10 @@ cpcalendars.kmch.gov.bd
 cpcalendars.madanpourashava.gov.bd
 cpcalendars.mushroomproject.gov.bd
 cpcalendars.nageswaripauroshava.gov.bd
+cpcalendars.psb.gov.bd
 cpcalendars.quiz.gov.bd
 cpcalendars.railwaypolice.gov.bd
+cpcalendars.rmch.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.srijon.gov.bd
 cpcalendars.zpsatkhira.gov.bd
@@ -182,8 +187,10 @@ cpcontacts.kmch.gov.bd
 cpcontacts.madanpourashava.gov.bd
 cpcontacts.mushroomproject.gov.bd
 cpcontacts.nageswaripauroshava.gov.bd
+cpcontacts.psb.gov.bd
 cpcontacts.quiz.gov.bd
 cpcontacts.railwaypolice.gov.bd
+cpcontacts.rmch.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.srijon.gov.bd
 cpcontacts.zpsatkhira.gov.bd
@@ -328,6 +335,7 @@ laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
 laravel.sfcnavy.gov.bd
 laskardiaup.faridpurlg.gov.bd
+learn.freelancers.gov.bd
 learning.dgme.gov.bd
 leprosytracker.dghs.gov.bd
 lgservice.gov.bd
@@ -372,9 +380,11 @@ mail.mushroomproject.gov.bd
 mail.nageswaripauroshava.gov.bd
 mail.nbrelearning.gov.bd
 mail.ntp.gov.bd
+mail.psb.gov.bd
 mail.quiz.gov.bd
 mail.railwaypolice.gov.bd
 mail.rajukdhaka.gov.bd
+mail.rmch.gov.bd
 mail.savarmunicipality.gov.bd
 mail.server.melandahbhata.gov.bd
 mail.srijon.gov.bd
@@ -454,6 +464,7 @@ polytech.gov.bd
 postcode.bpodms.gov.bd
 previous.bajitpurpaurashava.gov.bd
 profile.nins.gov.bd
+psb.gov.bd
 pts.bcc.gov.bd
 quiz.gov.bd
 radhanagarup.gov.bd
@@ -470,6 +481,7 @@ reg.dc-rangamati.gov.bd
 register.gameapp.gov.bd
 report.ec4j.gov.bd
 rims.dgda.gov.bd
+rmch.gov.bd
 rndvm1.dghs.gov.bd
 rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
@@ -536,6 +548,7 @@ sundarbantourism.bforest.gov.bd
 support.pmo.gov.bd
 sylhetboard.gov.bd
 tagarbandaup.faridpurlg.gov.bd
+taloramunicipality.gov.bd
 tarakanda.upmymensinghholdingtax.gov.bd
 taxappealzone4dhaka.gov.bd
 taxeszone18dhaka.gov.bd
@@ -557,6 +570,7 @@ testing.dope-test.dghs.gov.bd
 testingapp.srngih.gov.bd
 tms.brri.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
+tourismctg.gov.bd
 tphsbagmara.gov.bd
 track.bpodms.gov.bd
 trademark.bsc.gov.bd
@@ -596,8 +610,10 @@ webdisk.kmch.gov.bd
 webdisk.madanpourashava.gov.bd
 webdisk.mushroomproject.gov.bd
 webdisk.nageswaripauroshava.gov.bd
+webdisk.psb.gov.bd
 webdisk.quiz.gov.bd
 webdisk.railwaypolice.gov.bd
+webdisk.rmch.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webdisk.srijon.gov.bd
 webdisk.zpsatkhira.gov.bd
@@ -618,8 +634,10 @@ webmail.jamalpurttc.gov.bd
 webmail.kmch.gov.bd
 webmail.madanpourashava.gov.bd
 webmail.nageswaripauroshava.gov.bd
+webmail.psb.gov.bd
 webmail.quiz.gov.bd
 webmail.railwaypolice.gov.bd
+webmail.rmch.gov.bd
 webmail.server.melandahbhata.gov.bd
 webmail.srijon.gov.bd
 webmail.zpdinajpur.gov.bd
@@ -714,6 +732,7 @@ www.dev-sp.rpi.gov.bd
 www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
 www.dewanganjpaurashava.gov.bd
 www.dhaukhaliup.faridpurlg.gov.bd
+www.dhobaura.upmymensinghholdingtax.gov.bd
 www.dids.btriapps.gov.bd
 www.dis.gov.bd
 www.diva.bvc.gov.bd
@@ -819,6 +838,7 @@ www.pmis.ansarvdpbank.gov.bd
 www.portal.bsc.gov.bd
 www.profile.nins.gov.bd
 www.profile.secretariatclinic.gov.bd
+www.psb.gov.bd
 www.pti.ueopat.gov.bd
 www.pts.bcc.gov.bd
 www.python.secretariatclinic.gov.bd
@@ -831,6 +851,7 @@ www.ramnagarup.faridpurlg.gov.bd
 www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
+www.rmch.gov.bd
 www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
