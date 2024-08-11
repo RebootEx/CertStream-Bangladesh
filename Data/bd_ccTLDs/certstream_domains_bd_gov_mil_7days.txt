@@ -78,6 +78,8 @@ cafomof.gov.bd
 cafoparliament.gov.bd
 cafopower.gov.bd
 cafoptd.gov.bd
+caforeligious.gov.bd
+cafostict.gov.bd
 cafowomenchild.gov.bd
 cafoworks.gov.bd
 card.mcishr.dghs.gov.bd
@@ -139,6 +141,7 @@ cpanel.rmch.gov.bd
 cpanel.sarkaribanglacollege.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.srijon.gov.bd
+cpanel.ulipurmunicipality.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpanel.zpsatkhira.gov.bd
 cpcalendars.acland.gov.bd
@@ -160,8 +163,10 @@ cpcalendars.rmch.gov.bd
 cpcalendars.sarkaribanglacollege.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.srijon.gov.bd
+cpcalendars.ulipurmunicipality.gov.bd
 cpcalendars.zpsatkhira.gov.bd
 cpcontacts.acland.gov.bd
+cpcontacts.bepza.gov.bd
 cpcontacts.bgcf.gov.bd
 cpcontacts.bjkb.gov.bd
 cpcontacts.bpemc.gov.bd
@@ -180,6 +185,7 @@ cpcontacts.rmch.gov.bd
 cpcontacts.sarkaribanglacollege.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cpcontacts.srijon.gov.bd
+cpcontacts.ulipurmunicipality.gov.bd
 cpcontacts.zpsatkhira.gov.bd
 cttcdmp.gov.bd
 customsvaluation.gov.bd
@@ -220,6 +226,7 @@ emergencynutrition.gov.bd
 emrddashboard.gov.bd
 ems.epb-exporttracker.gov.bd
 ems.epb.gov.bd
+ems.titumircollege.gov.bd
 emsserver.epb-exporttracker.gov.bd
 enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
@@ -366,6 +373,7 @@ mail.support.a2i.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.taxeszone6.gov.bd
 mail.test.gameapp.gov.bd
+mail.ulipurmunicipality.gov.bd
 mail.usc.dghs.gov.bd
 mail.vatdhkeast.gov.bd
 mail.zpsatkhira.gov.bd
@@ -428,6 +436,7 @@ parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 payroll.btcl.gov.bd
+pdb.mcishr.dghs.gov.bd
 pdb.shrlive.dghs.gov.bd
 pds.dae.gov.bd
 pfms.brri.gov.bd
@@ -437,6 +446,7 @@ pims.dgfood.gov.bd
 policy.gov.bd
 previous.bajitpurpaurashava.gov.bd
 promise.gov.bd
+proxy.mcishr.dghs.gov.bd
 psb.gov.bd
 pts.bcc.gov.bd
 quiz.gov.bd
@@ -580,6 +590,7 @@ webdisk.rmch.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webdisk.srijon.gov.bd
+webdisk.ulipurmunicipality.gov.bd
 webdisk.zpsatkhira.gov.bd
 webmail.acland.gov.bd
 webmail.akkelpurmunicipality.gov.bd
@@ -693,6 +704,7 @@ www.ekshop.gov.bd
 www.elab.fisheries.gov.bd
 www.elearning.ec4j.gov.bd
 www.elmis.ntp.gov.bd
+www.ems.titumircollege.gov.bd
 www.ereturn.taxeszone6.gov.bd
 www.etbmanager.ntp.gov.bd
 www.evm.gov.bd
@@ -841,6 +853,7 @@ www.testingapp.srngih.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
 www.trademark.bsc.gov.bd
+www.ulipurmunicipality.gov.bd
 www.uttarchannelup.faridpurlg.gov.bd
 www.vatdhkeast.gov.bd
 www.verification.dos.gov.bd
