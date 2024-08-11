@@ -11,6 +11,7 @@ ai.gameapp.gov.bd
 akcc.gov.bd
 akkelpurmunicipality.gov.bd
 alfadangaup.faridpurlg.gov.bd
+aliabadup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 ambikapurup.faridpurlg.gov.bd
 amumc.gov.bd
@@ -64,6 +65,7 @@ bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
 bsms.brri.gov.bd
 btriapps.gov.bd
+buraichup.faridpurlg.gov.bd
 caabhc.gov.bd
 cafocabinet.gov.bd
 cafocagpscec.gov.bd
@@ -272,6 +274,7 @@ ftp.cevt.gov.bd
 fulsutiup.faridpurlg.gov.bd
 gdc.gov.bd
 ghoshpurup.faridpurlg.gov.bd
+gis.beautifulbangladesh.gov.bd
 gis.bwdb.gov.bd
 gjkagc.gov.bd
 gobindagonjpourashava.gov.bd
@@ -407,6 +410,7 @@ manikdhaup.faridpurlg.gov.bd
 mbgc.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 meal.pwdta.gov.bd
+megchamiup.faridpurlg.gov.bd
 mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 memis.gov.bd
@@ -428,6 +432,7 @@ nageswaripauroshava.gov.bd
 naldangamunicipality.gov.bd
 narailpourashava.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
+nasirabadup.faridpurlg.gov.bd
 new.bhtpa.gov.bd
 ngosatkhira.gov.bd
 ngosherpur.gov.bd
@@ -445,13 +450,16 @@ nsdi.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
 number.btcl.gov.bd
+nurullagonjup.faridpurlg.gov.bd
 nvacqr.nnsop.gov.bd
+old.iedcr.gov.bd
 omsdebidwar.gov.bd
 onlineexam.gbrcr.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 outsp.kmch.gov.bd
 panchagarhmunicipality.gov.bd
+panchuriaup.faridpurlg.gov.bd
 parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
@@ -468,6 +476,7 @@ promise.gov.bd
 proxy.mcishr.dghs.gov.bd
 psb.gov.bd
 pts.bcc.gov.bd
+puraparaup.faridpurlg.gov.bd
 quiz.gov.bd
 railwaypolice.gov.bd
 rajbaripourashava.gov.bd
@@ -518,6 +527,7 @@ smartschoolbus.gov.bd
 smartup.faridpurlg.gov.bd
 somotoler.btriapps.gov.bd
 sonaimuripaurashava.gov.bd
+sonapurup.faridpurlg.gov.bd
 specialbranch.gov.bd
 spst.gov.bd
 sraep.gov.bd
@@ -622,6 +632,7 @@ www.admin-server.rpi.gov.bd
 www.admin.bsc.gov.bd
 www.admin.saejp.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
+www.aliabadup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
 www.api.edp.gov.bd
@@ -646,6 +657,7 @@ www.bjkb.gov.bd
 www.bpemc.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.bsiedu.gov.bd
+www.buraichup.faridpurlg.gov.bd
 www.caabhc.gov.bd
 www.cafohome.gov.bd
 www.career.nilmrcbd.gov.bd
@@ -718,6 +730,7 @@ www.federal.bsc.gov.bd
 www.forum.bsc.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.ghoshpurup.faridpurlg.gov.bd
+www.gis.beautifulbangladesh.gov.bd
 www.gredaup.faridpurlg.gov.bd
 www.group.ansarvdpbank.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
@@ -762,6 +775,7 @@ www.mail.test.gameapp.gov.bd
 www.majcharup.faridpurlg.gov.bd
 www.manikdhaup.faridpurlg.gov.bd
 www.meal.pwdta.gov.bd
+www.megchamiup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moynaup.faridpurlg.gov.bd
@@ -774,15 +788,19 @@ www.nageswaripauroshava.gov.bd
 www.naldangamunicipality.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
 www.narikelbariyaup.faridpurlg.gov.bd
+www.nasirabadup.faridpurlg.gov.bd
 www.new.bhtpa.gov.bd
 www.nimaichara.uppabnaholdingtax.gov.bd
 www.nins.gov.bd
 www.notice.bavs.gov.bd
 www.ntrc.gameapp.gov.bd
+www.nurullagonjup.faridpurlg.gov.bd
+www.old.iedcr.gov.bd
 www.onlineexam.gbrcr.gov.bd
 www.openmrs.secretariatclinic.gov.bd
 www.outsp.kmch.gov.bd
 www.panchagarhmunicipality.gov.bd
+www.panchuriaup.faridpurlg.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
 www.patharghatapourashava.gov.bd
@@ -793,6 +811,7 @@ www.portal.bsc.gov.bd
 www.profile.secretariatclinic.gov.bd
 www.psb.gov.bd
 www.pts.bcc.gov.bd
+www.puraparaup.faridpurlg.gov.bd
 www.python.secretariatclinic.gov.bd
 www.quiz.gov.bd
 www.railwaypolice.gov.bd
@@ -829,6 +848,7 @@ www.smartup.faridpurlg.gov.bd
 www.software.dbwctp64.gov.bd
 www.somotoler.btriapps.gov.bd
 www.sonaimuripaurashava.gov.bd
+www.sonapurup.faridpurlg.gov.bd
 www.sraep.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
 www.srijon.gov.bd
