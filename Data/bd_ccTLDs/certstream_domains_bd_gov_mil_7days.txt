@@ -58,9 +58,12 @@ biwtavhc.gov.bd
 bjkb.gov.bd
 bkspds.gov.bd
 blpa.ekpay.gov.bd
+bmp.gov.bd
 bpdbivvr.gov.bd
 bpemc.gov.bd
 bsc.gov.bd
+bscic-emarket.gov.bd
+bscicemarket.gov.bd
 bsfmstu.gameapp.gov.bd
 bsiedu.gov.bd
 bsms.brri.gov.bd
@@ -226,6 +229,7 @@ demo.rmch.gov.bd
 demo.taxeszone6.gov.bd
 designforeveryone.gov.bd
 dev-backend.tourismctg.gov.bd
+dev-training.sla.gov.bd
 dhakaeducationboard.gov.bd
 dhakala.gov.bd
 dhamraitsc.gov.bd
@@ -491,6 +495,7 @@ regionalwildlife.gov.bd
 register.gameapp.gov.bd
 rims.dgda.gov.bd
 rmch.gov.bd
+rmp.gov.bd
 rndvm1.dghs.gov.bd
 rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
@@ -580,6 +585,7 @@ visipass.farmbroadcast.gov.bd
 vmdatabase.mspvaw.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
+vrmanagement.rmp.gov.bd
 waste.ncc.gov.bd
 webdisk.acland.gov.bd
 webdisk.bgcf.gov.bd
@@ -654,7 +660,10 @@ www.bfacf-ticket.gov.bd
 www.bgcf.gov.bd
 www.biwtavhc.gov.bd
 www.bjkb.gov.bd
+www.bmp.gov.bd
 www.bpemc.gov.bd
+www.bscic-emarket.gov.bd
+www.bscicemarket.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.bsiedu.gov.bd
 www.buraichup.faridpurlg.gov.bd
@@ -822,6 +831,7 @@ www.ranisankailpourashava.gov.bd
 www.regionalwildlife.gov.bd
 www.register.gameapp.gov.bd
 www.rmch.gov.bd
+www.rmp.gov.bd
 www.rpcl-org-bd.bpemc.gov.bd
 www.rpclorg.bpemc.gov.bd
 www.rpclorg2.bpemc.gov.bd
@@ -876,6 +886,7 @@ www.vatdhkeast.gov.bd
 www.verification.dos.gov.bd
 www.visipass.farmbroadcast.gov.bd
 www.vmdatabase.mspvaw.gov.bd
+www.vrmanagement.rmp.gov.bd
 www.vwb.melandahbhata.gov.bd
 www.zpdinajpur.gov.bd
 www.zpnetrokona.gov.bd
