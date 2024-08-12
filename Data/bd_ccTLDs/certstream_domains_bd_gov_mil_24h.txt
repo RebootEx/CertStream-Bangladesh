@@ -10,6 +10,7 @@ bhpi.gov.bd
 buraichup.faridpurlg.gov.bd
 cafochta.gov.bd
 cafohome.gov.bd
+cafoindustries.gov.bd
 cafolabour.gov.bd
 caforural.gov.bd
 cafotnt.gov.bd
@@ -29,11 +30,13 @@ cpcontacts.rgccr.gov.bd
 cpcontacts.ulipurmunicipality.gov.bd
 demo.railwayestate.gov.bd
 dms.basbmed.gov.bd
+edu.bd.gbrcr.gov.bd
 employee-hsms.somch.gov.bd
 epoas.ddm.gov.bd
 gazette.railwayestate.gov.bd
 gis.srdi.gov.bd
 git.dghs.gov.bd
+hrmddco.gov.bd
 hsms.somch.gov.bd
 katiadipourashava.gov.bd
 kranti.bamis.gov.bd
@@ -45,6 +48,7 @@ mail.quiz.gov.bd
 mail.regionalwildlife.gov.bd
 mail.rgccr.gov.bd
 mail.savarmunicipality.gov.bd
+mail.taxeszone5dhaka.gov.bd
 mail.ulipurmunicipality.gov.bd
 megchamiup.faridpurlg.gov.bd
 mta-sts.nothi.gov.bd
@@ -55,6 +59,7 @@ panchuriaup.faridpurlg.gov.bd
 patient-hsms.somch.gov.bd
 pcb-doe.gov.bd
 pdb.mcishr.dghs.gov.bd
+portal.dppseba.gov.bd
 proxy.mcishr.dghs.gov.bd
 puraparaup.faridpurlg.gov.bd
 pwd.gov.bd
@@ -63,6 +68,7 @@ raipurup.faridpurlg.gov.bd
 regionalwildlife.gov.bd
 rems.railwayestate.gov.bd
 rgccr.gov.bd
+rpi.gov.bd
 sadarpurup.faridpurlg.gov.bd
 savarmunicipality.gov.bd
 server.kpik.gov.bd
@@ -93,6 +99,7 @@ stagereports.titasgas.gov.bd
 stagewww.titasgas.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 szmc.gov.bd
+taxeszone5dhaka.gov.bd
 test.faridpurlg.gov.bd
 test.jaldhakamunicipality.gov.bd
 ulipurmunicipality.gov.bd
@@ -121,6 +128,7 @@ www.gazette.railwayestate.gov.bd
 www.kranti.bamis.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.megchamiup.faridpurlg.gov.bd
+www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
 www.nationalmuseumticket.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
@@ -140,6 +148,8 @@ www.smartup.faridpurlg.gov.bd
 www.sonapurup.faridpurlg.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
+www.sums.rpi.gov.bd
+www.taxeszone5dhaka.gov.bd
 www.test.faridpurlg.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.ulipurmunicipality.gov.bd
