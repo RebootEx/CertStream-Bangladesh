@@ -34,9 +34,11 @@ autodiscover.bepza.gov.bd
 autodiscover.bjkb.gov.bd
 autodiscover.bpemc.gov.bd
 autodiscover.coxsbazaartsc.gov.bd
+autodiscover.e-tax-nbr.gov.bd
 autodiscover.madanpourashava.gov.bd
 autodiscover.railwaypolice.gov.bd
 autodiscover.rmch.gov.bd
+autodiscover.taxeszone2.gov.bd
 automationtest.bepza.gov.bd
 aviation.bmd.gov.bd
 avsec.caab.gov.bd
@@ -156,6 +158,7 @@ cpanel.cevt.gov.bd
 cpanel.coxsbazaartsc.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.durjog.gov.bd
+cpanel.e-tax-nbr.gov.bd
 cpanel.faridpurlg.gov.bd
 cpanel.jamalpurttc.gov.bd
 cpanel.kmch.gov.bd
@@ -171,6 +174,7 @@ cpanel.rmch.gov.bd
 cpanel.sarkaribanglacollege.gov.bd
 cpanel.savarmunicipality.gov.bd
 cpanel.srijon.gov.bd
+cpanel.taxeszone2.gov.bd
 cpanel.ulipurmunicipality.gov.bd
 cpanel.zpdinajpur.gov.bd
 cpcalendars.acland.gov.bd
@@ -181,6 +185,7 @@ cpcalendars.bjkb.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.coxsbazaartsc.gov.bd
 cpcalendars.durjog.gov.bd
+cpcalendars.e-tax-nbr.gov.bd
 cpcalendars.faridpurlg.gov.bd
 cpcalendars.jamalpurttc.gov.bd
 cpcalendars.kmch.gov.bd
@@ -194,6 +199,7 @@ cpcalendars.rgccr.gov.bd
 cpcalendars.rmch.gov.bd
 cpcalendars.sarkaribanglacollege.gov.bd
 cpcalendars.srijon.gov.bd
+cpcalendars.taxeszone2.gov.bd
 cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.acland.gov.bd
 cpcontacts.bdhckl.gov.bd
@@ -203,6 +209,7 @@ cpcontacts.bjkb.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.coxsbazaartsc.gov.bd
 cpcontacts.durjog.gov.bd
+cpcontacts.e-tax-nbr.gov.bd
 cpcontacts.faridpurlg.gov.bd
 cpcontacts.jamalpurttc.gov.bd
 cpcontacts.kmch.gov.bd
@@ -216,6 +223,7 @@ cpcontacts.rgccr.gov.bd
 cpcontacts.rmch.gov.bd
 cpcontacts.sarkaribanglacollege.gov.bd
 cpcontacts.srijon.gov.bd
+cpcontacts.taxeszone2.gov.bd
 cpcontacts.ulipurmunicipality.gov.bd
 cttcdmp.gov.bd
 cyberteens.gov.bd
@@ -229,6 +237,7 @@ decreercharup.faridpurlg.gov.bd
 demo.kjtsc.gov.bd
 demo.railwayestate.gov.bd
 demo.rmch.gov.bd
+demo.taxeszone2.gov.bd
 designforeveryone.gov.bd
 dev-backend.tourismctg.gov.bd
 dev-training.sla.gov.bd
@@ -246,6 +255,7 @@ dtesylhet.gov.bd
 du.gameapp.gov.bd
 durjog.gov.bd
 ebmeb.gov.bd
+ebook.cmmc.gov.bd
 edc.srdl.gov.bd
 edu.bd.gbrcr.gov.bd
 ekpass.gov.bd
@@ -382,6 +392,7 @@ mail.faridpurlg.gov.bd
 mail.jamalpurttc.gov.bd
 mail.kmch.gov.bd
 mail.madanpourashava.gov.bd
+mail.mgcm.gov.bd
 mail.nageswaripauroshava.gov.bd
 mail.nins.gov.bd
 mail.psb.gov.bd
@@ -395,6 +406,7 @@ mail.sarkaribanglacollege.gov.bd
 mail.savarmunicipality.gov.bd
 mail.srijon.gov.bd
 mail.support.a2i.gov.bd
+mail.taxeszone2.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.test.gameapp.gov.bd
 mail.ulipurmunicipality.gov.bd
@@ -410,6 +422,7 @@ mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 memis.gov.bd
 merchantpay.ekshop.gov.bd
+mgcm.gov.bd
 mmddl-ctgbcsir.gov.bd
 mohanganjpaurashava.gov.bd
 moynaup.faridpurlg.gov.bd
@@ -486,6 +499,7 @@ regionalwildlife.gov.bd
 register.gameapp.gov.bd
 rems.railwayestate.gov.bd
 result.fci.gov.bd
+rgc.gov.bd
 rgccr.gov.bd
 rims.dgda.gov.bd
 rmch.gov.bd
@@ -532,6 +546,26 @@ sreenagarup.munshiganjlg.gov.bd
 srijon.gov.bd
 srishtitetulia.gov.bd
 ssnimc.gov.bd
+stageaccounting.titasgas.gov.bd
+stageadmin.titasgas.gov.bd
+stageauth.titasgas.gov.bd
+stageauth2.titasgas.gov.bd
+stagebulk.titasgas.gov.bd
+stagecareer.titasgas.gov.bd
+stagecauth.titasgas.gov.bd
+stagecomplain.titasgas.gov.bd
+stagecreports.titasgas.gov.bd
+stagedashboard.titasgas.gov.bd
+stagehrm.titasgas.gov.bd
+stagehrp.titasgas.gov.bd
+stageintegration.titasgas.gov.bd
+stagemetered.titasgas.gov.bd
+stagenonmetered.titasgas.gov.bd
+stageonlineapplication.titasgas.gov.bd
+stagepayroll.titasgas.gov.bd
+stageportal.titasgas.gov.bd
+stagereports.titasgas.gov.bd
+stagewww.titasgas.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 storein.gnc.gov.bd
 sujanagarmunicipality.gov.bd
@@ -542,6 +576,7 @@ szmc.gov.bd
 tagarbandaup.faridpurlg.gov.bd
 taloramunicipality.gov.bd
 taxeszone18dhaka.gov.bd
+taxeszone2.gov.bd
 taxeszone5dhaka.gov.bd
 tbhsd.gov.bd
 tdmtraining.finance.gov.bd
@@ -587,6 +622,7 @@ webdisk.bpemc.gov.bd
 webdisk.bsiedu.gov.bd
 webdisk.coxsbazaartsc.gov.bd
 webdisk.durjog.gov.bd
+webdisk.e-tax-nbr.gov.bd
 webdisk.faridpurlg.gov.bd
 webdisk.jamalpurttc.gov.bd
 webdisk.kmch.gov.bd
@@ -601,6 +637,7 @@ webdisk.rmch.gov.bd
 webdisk.sarkaribanglacollege.gov.bd
 webdisk.savarmunicipality.gov.bd
 webdisk.srijon.gov.bd
+webdisk.taxeszone2.gov.bd
 webdisk.ulipurmunicipality.gov.bd
 webmail.acland.gov.bd
 webmail.akkelpurmunicipality.gov.bd
@@ -612,6 +649,7 @@ webmail.caabhc.gov.bd
 webmail.coxsbazaartsc.gov.bd
 webmail.dmpi.gov.bd
 webmail.durjog.gov.bd
+webmail.e-tax-nbr.gov.bd
 webmail.faridpurlg.gov.bd
 webmail.jamalpurttc.gov.bd
 webmail.kmch.gov.bd
@@ -628,6 +666,7 @@ webmail.sarkaribanglacollege.gov.bd
 webmail.savargc.gov.bd
 webmail.savarmunicipality.gov.bd
 webmail.srijon.gov.bd
+webmail.taxeszone2.gov.bd
 webmail.zpdinajpur.gov.bd
 whm.bepza.gov.bd
 whm.faridpurlg.gov.bd
@@ -704,6 +743,7 @@ www.decreercharup.faridpurlg.gov.bd
 www.demo.kjtsc.gov.bd
 www.demo.railwayestate.gov.bd
 www.demo.rmch.gov.bd
+www.demo.taxeszone2.gov.bd
 www.department.bsc.gov.bd
 www.designforeveryone.gov.bd
 www.deukhola.upmymensinghholdingtax.gov.bd
@@ -782,6 +822,7 @@ www.masterapi.rpi.gov.bd
 www.meal.pwdta.gov.bd
 www.megchamiup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
+www.mgcm.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moynaup.faridpurlg.gov.bd
 www.muladimunicipality.gov.bd
@@ -872,6 +913,7 @@ www.sujanagarmunicipality.gov.bd
 www.sums-server.rpi.gov.bd
 www.sums.rpi.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
+www.taxeszone2.gov.bd
 www.taxeszone5dhaka.gov.bd
 www.tds.taxeszone9dhaka.gov.bd
 www.teasoft.btriapps.gov.bd
