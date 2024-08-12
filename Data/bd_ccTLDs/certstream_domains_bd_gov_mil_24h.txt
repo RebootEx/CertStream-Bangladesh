@@ -16,7 +16,11 @@ cpcontacts.ulipurmunicipality.gov.bd
 demo.railwayestate.gov.bd
 gazette.railwayestate.gov.bd
 gis.srdi.gov.bd
+git.dghs.gov.bd
+katiadipourashava.gov.bd
 kranti.bamis.gov.bd
+kuliarcharpourashava.gov.bd
+magurapaurashava.gov.bd
 mail.rgccr.gov.bd
 mail.ulipurmunicipality.gov.bd
 megchamiup.faridpurlg.gov.bd
@@ -25,13 +29,16 @@ nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
 nurullagonjup.faridpurlg.gov.bd
 panchuriaup.faridpurlg.gov.bd
+pcb-doe.gov.bd
 puraparaup.faridpurlg.gov.bd
 raipurup.faridpurlg.gov.bd
 rems.railwayestate.gov.bd
 rgccr.gov.bd
+server.kpik.gov.bd
 sonapurup.faridpurlg.gov.bd
 szmc.gov.bd
 test.faridpurlg.gov.bd
+test.jaldhakamunicipality.gov.bd
 ulipurmunicipality.gov.bd
 vrmanagement.rmp.gov.bd
 webdisk.rgccr.gov.bd
@@ -55,5 +62,6 @@ www.rgccr.gov.bd
 www.sonapurup.faridpurlg.gov.bd
 www.staging.zprajbari.gov.bd
 www.test.faridpurlg.gov.bd
+www.test.jaldhakamunicipality.gov.bd
 www.ulipurmunicipality.gov.bd
 zprajbari.gov.bd
