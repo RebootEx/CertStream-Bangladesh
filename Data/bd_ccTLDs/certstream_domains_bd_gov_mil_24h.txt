@@ -5,10 +5,14 @@ alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 ambikapurup.faridpurlg.gov.bd
 amumc.gov.bd
+apps.gjkagc.gov.bd
+autodiscover.bepza.gov.bd
 avsec.caab.gov.bd
 bangla.gov.bd
+bepza.gov.bd
 bhpi.gov.bd
 bmp.gov.bd
+bteb-dev.niseee.gov.bd
 buraichup.faridpurlg.gov.bd
 cafochta.gov.bd
 cafohome.gov.bd
@@ -21,6 +25,7 @@ case-moef.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
 charharirampurup.faridpurlg.gov.bd
 comch.gov.bd
+cpanel.bepza.gov.bd
 cpanel.quiz.gov.bd
 cpanel.rgccr.gov.bd
 cpanel.savarmunicipality.gov.bd
@@ -35,6 +40,8 @@ dashboard-backoffice-dev.niseee.gov.bd
 demo.railwayestate.gov.bd
 dgfood.gov.bd
 dms.basbmed.gov.bd
+dss-dev.niseee.gov.bd
+dyd-dev.niseee.gov.bd
 edu.bd.gbrcr.gov.bd
 employee-hsms.somch.gov.bd
 en.sfcnavy.gov.bd
@@ -42,8 +49,10 @@ epoas.ddm.gov.bd
 gazette.railwayestate.gov.bd
 gis.srdi.gov.bd
 git.dghs.gov.bd
+hotels.gov.bd
 hrmddco.gov.bd
 hsms.somch.gov.bd
+industry-dev.niseee.gov.bd
 katiadipourashava.gov.bd
 kranti.bamis.gov.bd
 krishnapurup.faridpurlg.gov.bd
@@ -57,13 +66,20 @@ mail.rgccr.gov.bd
 mail.savarmunicipality.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.ulipurmunicipality.gov.bd
+mcci-dev.niseee.gov.bd
 megchamiup.faridpurlg.gov.bd
+migration-portal-dev.niseee.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mta-sts.nothi.gov.bd
+nascib-dev.niseee.gov.bd
 nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
+nise-dev.niseee.gov.bd
+nlas.dls.gov.bd
+nu-dev.niseee.gov.bd
 nurullagonjup.faridpurlg.gov.bd
+ossbhtpa.gov.bd
 panchuriaup.faridpurlg.gov.bd
 patient-hsms.somch.gov.bd
 pcb-doe.gov.bd
@@ -79,6 +95,7 @@ rems.railwayestate.gov.bd
 rgccr.gov.bd
 rmp.gov.bd
 rpi.gov.bd
+rpl-dev.niseee.gov.bd
 sadarpurup.faridpurlg.gov.bd
 savarmunicipality.gov.bd
 server.kpik.gov.bd
@@ -86,6 +103,7 @@ sfcarmy.gov.bd
 shiloyup.munshiganjlg.gov.bd
 smartandikot.gov.bd
 smartup.faridpurlg.gov.bd
+smef-dev.niseee.gov.bd
 sonapurup.faridpurlg.gov.bd
 spisg.spisg.gov.bd
 spst.gov.bd
@@ -117,7 +135,10 @@ test.faridpurlg.gov.bd
 test.jaldhakamunicipality.gov.bd
 ulipurmunicipality.gov.bd
 verification.dos.gov.bd
+vr.bangabhaban.gov.bd
+vr.gameapp.gov.bd
 vrmanagement.rmp.gov.bd
+webdisk.bepza.gov.bd
 webdisk.quiz.gov.bd
 webdisk.rgccr.gov.bd
 webdisk.savarmunicipality.gov.bd
@@ -129,6 +150,8 @@ www.abc.dsw.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
+www.apps.gjkagc.gov.bd
+www.bepza.gov.bd
 www.bmp.gov.bd
 www.buraichup.faridpurlg.gov.bd
 www.cafohome.gov.bd
@@ -172,4 +195,5 @@ www.test.faridpurlg.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.ulipurmunicipality.gov.bd
 www.verification.dos.gov.bd
+youth-dev.niseee.gov.bd
 zprajbari.gov.bd
