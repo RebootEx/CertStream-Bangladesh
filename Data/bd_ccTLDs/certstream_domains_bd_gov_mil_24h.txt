@@ -31,6 +31,7 @@ cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.quiz.gov.bd
 cpcontacts.rgccr.gov.bd
 cpcontacts.ulipurmunicipality.gov.bd
+dashboard-backoffice-dev.niseee.gov.bd
 demo.railwayestate.gov.bd
 dgfood.gov.bd
 dms.basbmed.gov.bd
@@ -47,6 +48,7 @@ katiadipourashava.gov.bd
 kranti.bamis.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
+land.gov.bd
 magurapaurashava.gov.bd
 mail.case-moef.gov.bd
 mail.quiz.gov.bd
@@ -56,6 +58,8 @@ mail.savarmunicipality.gov.bd
 mail.taxeszone5dhaka.gov.bd
 mail.ulipurmunicipality.gov.bd
 megchamiup.faridpurlg.gov.bd
+mkgwclal.gov.bd
+mkgwclal.gov.bd.gbrcr.gov.bd
 mta-sts.nothi.gov.bd
 nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
@@ -106,6 +110,7 @@ stageportal.titasgas.gov.bd
 stagereports.titasgas.gov.bd
 stagewww.titasgas.gov.bd
 staging-ekyc.bcc-ca.gov.bd
+starceramics.kabinazrulcollege.gov.bd
 szmc.gov.bd
 taxeszone5dhaka.gov.bd
 test.faridpurlg.gov.bd
@@ -138,6 +143,7 @@ www.gazette.railwayestate.gov.bd
 www.kranti.bamis.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.megchamiup.faridpurlg.gov.bd
+www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.nasirabadup.faridpurlg.gov.bd
 www.nationalmuseumticket.gov.bd
@@ -159,6 +165,7 @@ www.smartup.faridpurlg.gov.bd
 www.sonapurup.faridpurlg.gov.bd
 www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
+www.starceramics.kabinazrulcollege.gov.bd
 www.sums.rpi.gov.bd
 www.taxeszone5dhaka.gov.bd
 www.test.faridpurlg.gov.bd
