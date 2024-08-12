@@ -13,6 +13,7 @@ ai.gameapp.gov.bd
 akcc.gov.bd
 akkelpurmunicipality.gov.bd
 alfadangaup.faridpurlg.gov.bd
+algiup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 ambikapurup.faridpurlg.gov.bd
@@ -43,6 +44,8 @@ autodiscover.taxeszone2.gov.bd
 automationtest.bepza.gov.bd
 aviation.bmd.gov.bd
 avsec.caab.gov.bd
+azimnagorup.faridpurlg.gov.bd
+banaup.faridpurlg.gov.bd
 banglabazarup.munshiganjlg.gov.bd
 bargunamunicipality.gov.bd
 bcms.gov.bd
@@ -56,6 +59,7 @@ beza.gov.bd
 bfacf-ticket.gov.bd
 bgcf.gov.bd
 bgghsbhola.gov.bd
+bhashancharup.faridpurlg.gov.bd
 bhpi.gov.bd
 biwtavhc.gov.bd
 bjkb.gov.bd
@@ -289,7 +293,9 @@ ftp.bepza.gov.bd
 ftp.cevt.gov.bd
 fulsutiup.faridpurlg.gov.bd
 gazette.railwayestate.gov.bd
+gaznaup.faridpurlg.gov.bd
 gdc.gov.bd
+gharuaup.faridpurlg.gov.bd
 ghoshpurup.faridpurlg.gov.bd
 gis.beautifulbangladesh.gov.bd
 gis.srdi.gov.bd
@@ -308,6 +314,7 @@ helpline.comillaboard.gov.bd
 hematology.rmch.gov.bd
 hmis.dghs.gov.bd
 hrm.dghs.gov.bd
+hrmddco.gov.bd
 hsc-dbtp-2023.dinajpurboard.gov.bd
 hsms.somch.gov.bd
 ht.kanaighatmunicipality.gov.bd
@@ -468,6 +475,7 @@ origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 outsp.kmch.gov.bd
 panchagarhmunicipality.gov.bd
+panchasharup.munshiganjlg.gov.bd
 panchuriaup.faridpurlg.gov.bd
 parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
@@ -676,6 +684,7 @@ www.admin.bsc.gov.bd
 www.admin.smartup.gov.bd
 www.admins.rpi.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
+www.algiup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
@@ -687,9 +696,11 @@ www.appp.zprajshahi.gov.bd
 www.ar.gameapp.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.attendance.rdodtekhulna.gov.bd
+www.azimnagorup.faridpurlg.gov.bd
 www.backup.fima.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ban-fima-web.fima.gov.bd
+www.banaup.faridpurlg.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.bargunamunicipality.gov.bd
 www.bdansarerp.gov.bd
@@ -699,6 +710,7 @@ www.bepza.gov.bd
 www.beta.nicrh.gov.bd
 www.bfacf-ticket.gov.bd
 www.bgcf.gov.bd
+www.bhashancharup.faridpurlg.gov.bd
 www.biwtavhc.gov.bd
 www.bjkb.gov.bd
 www.bmp.gov.bd
@@ -778,6 +790,8 @@ www.federal.bsc.gov.bd
 www.forum.bsc.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.gazette.railwayestate.gov.bd
+www.gaznaup.faridpurlg.gov.bd
+www.gharuaup.faridpurlg.gov.bd
 www.ghoshpurup.faridpurlg.gov.bd
 www.gis.beautifulbangladesh.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
@@ -849,6 +863,7 @@ www.onlineexam.gbrcr.gov.bd
 www.openmrs.secretariatclinic.gov.bd
 www.outsp.kmch.gov.bd
 www.panchagarhmunicipality.gov.bd
+www.panchasharup.munshiganjlg.gov.bd
 www.panchuriaup.faridpurlg.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
