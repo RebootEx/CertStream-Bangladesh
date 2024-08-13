@@ -50,6 +50,7 @@ autodiscover.bnkhs.edu.bd
 autodiscover.cbcs.edu.bd
 autodiscover.dpbhs.edu.bd
 autodiscover.gangjoarhs.edu.bd
+autodiscover.gpghsc.edu.bd
 autodiscover.gsfmmc.edu.bd
 autodiscover.hkm.edu.bd
 autodiscover.machparacollege.edu.bd
@@ -81,6 +82,7 @@ bfpi.edu.bd
 bggphs.edu.bd
 bghsct.edu.bd
 bgs.edu.bd
+bhakoddahs.edu.bd
 bhatkhairhs.edu.bd
 bhatparancguptahighschool.edu.bd
 bhcs.edu.bd
@@ -172,8 +174,10 @@ cpanel.darulhikma.edu.bd
 cpanel.dpbhs.edu.bd
 cpanel.gangjoarhs.edu.bd
 cpanel.govmujibcollege.edu.bd
+cpanel.gpghsc.edu.bd
 cpanel.gsamadrasha.edu.bd
 cpanel.gsfmmc.edu.bd
+cpanel.gurukul.edu.bd
 cpanel.hkm.edu.bd
 cpanel.katakhaliham.edu.bd
 cpanel.katigramhighschool.edu.bd
@@ -205,8 +209,10 @@ cpcalendars.darulhikma.edu.bd
 cpcalendars.dpbhs.edu.bd
 cpcalendars.gangjoarhs.edu.bd
 cpcalendars.govmujibcollege.edu.bd
+cpcalendars.gpghsc.edu.bd
 cpcalendars.gsamadrasha.edu.bd
 cpcalendars.gsfmmc.edu.bd
+cpcalendars.gurukul.edu.bd
 cpcalendars.hkm.edu.bd
 cpcalendars.katakhaliham.edu.bd
 cpcalendars.katigramhighschool.edu.bd
@@ -238,8 +244,10 @@ cpcontacts.darulhikma.edu.bd
 cpcontacts.dpbhs.edu.bd
 cpcontacts.gangjoarhs.edu.bd
 cpcontacts.govmujibcollege.edu.bd
+cpcontacts.gpghsc.edu.bd
 cpcontacts.gsamadrasha.edu.bd
 cpcontacts.gsfmmc.edu.bd
+cpcontacts.gurukul.edu.bd
 cpcontacts.hkm.edu.bd
 cpcontacts.katakhaliham.edu.bd
 cpcontacts.katigramhighschool.edu.bd
@@ -278,6 +286,7 @@ domnibarihighschool.edu.bd
 dpbhs.edu.bd
 dsmb.edu.bd
 dspace.baust.edu.bd
+dulalpurhighschool.edu.bd
 dularcharhighschool.edu.bd
 edu.bd.balidiasecondaryschool.edu.bd
 edu.bd.ihsh.edu.bd
@@ -317,11 +326,13 @@ glht.edu.bd
 gobindapudm.edu.bd
 govmujibcollege.edu.bd
 govtbnicollege.edu.bd
+gpghsc.edu.bd
 grc.edu.bd
 gsamadrasha.edu.bd
 gsfmmc.edu.bd
 guhs.edu.bd
 guimaracollege.edu.bd
+gurukul.edu.bd
 habibpurghs.edu.bd
 hac.edu.bd
 hakhs.edu.bd
@@ -389,6 +400,7 @@ karfapublicacademy.edu.bd
 katakhaliham.edu.bd
 katiadipilotgirlshighschool.edu.bd
 katigramhighschool.edu.bd
+kayempurahs.edu.bd
 kaylasecondaryschool.edu.bd
 kazimontucollege.edu.bd
 kbahdccghs.edu.bd
@@ -477,6 +489,7 @@ mail.engolympics.daffodilvarsity.edu.bd
 mail.fulkuricsc.edu.bd
 mail.gangjoarhs.edu.bd
 mail.govmujibcollege.edu.bd
+mail.gpghsc.edu.bd
 mail.gsamadrasha.edu.bd
 mail.gsfmmc.edu.bd
 mail.hkm.edu.bd
@@ -509,6 +522,7 @@ manager.bghs104055.edu.bd
 mandamscollege.edu.bd
 manikpirghs.edu.bd
 markajctg.edu.bd
+marketing.tejgaoncollege.edu.bd
 masterparaghs.edu.bd
 mathurapurphs.edu.bd
 mavenwood.edu.bd
@@ -547,6 +561,7 @@ musfcghsc.edu.bd
 mybill.kpmb.edu.bd
 nagad.edu.bd
 nahsk.edu.bd
+nalamsc.edu.bd
 naniatikarschighschool.edu.bd
 nayakhalihighschool.edu.bd
 nbhsc.edu.bd
@@ -574,11 +589,14 @@ nsghschool.edu.bd
 old.aift.edu.bd
 old.bbcpsc.edu.bd
 pabsm118579.edu.bd
+padc.edu.bd
 paghs.edu.bd
 paikgachaalimmadrasah.edu.bd
 palashbarijfm.edu.bd
 palshakrishnapurhighschool.edu.bd
+paniparassghs.edu.bd
 panjaraigkyidm.edu.bd
+paruaraidm.edu.bd
 pauc.edu.bd
 pbcdm.edu.bd
 pbdsam.edu.bd
@@ -741,8 +759,10 @@ webdisk.darulhikma.edu.bd
 webdisk.dpbhs.edu.bd
 webdisk.gangjoarhs.edu.bd
 webdisk.govmujibcollege.edu.bd
+webdisk.gpghsc.edu.bd
 webdisk.gsamadrasha.edu.bd
 webdisk.gsfmmc.edu.bd
+webdisk.gurukul.edu.bd
 webdisk.hasc.edu.bd
 webdisk.hkm.edu.bd
 webdisk.katakhaliham.edu.bd
@@ -773,8 +793,10 @@ webmail.csjs.edu.bd
 webmail.dpbhs.edu.bd
 webmail.gangjoarhs.edu.bd
 webmail.govmujibcollege.edu.bd
+webmail.gpghsc.edu.bd
 webmail.gsamadrasha.edu.bd
 webmail.gsfmmc.edu.bd
+webmail.gurukul.edu.bd
 webmail.hkm.edu.bd
 webmail.katakhaliham.edu.bd
 webmail.katigramhighschool.edu.bd
@@ -888,10 +910,12 @@ www.gjhsc.edu.bd.ihsh.edu.bd
 www.glht.edu.bd
 www.gobindapudm.edu.bd
 www.govmujibcollege.edu.bd
+www.gpghsc.edu.bd
 www.gsamadrasha.edu.bd
 www.gsfmmc.edu.bd
 www.guardian.ahskbera.edu.bd
 www.guhs.edu.bd
+www.gurukul.edu.bd
 www.hac.edu.bd
 www.hakhs.edu.bd
 www.hgahs.edu.bd.ihsh.edu.bd
@@ -943,6 +967,7 @@ www.machparacollege.edu.bd
 www.madnahighschool.edu.bd.darsanagirls.edu.bd
 www.mahst.edu.bd
 www.manikpirghs.edu.bd
+www.marketing.tejgaoncollege.edu.bd
 www.masterparaghs.edu.bd
 www.mathurapurphs.edu.bd
 www.mavenwood.edu.bd
