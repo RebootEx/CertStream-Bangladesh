@@ -1,4 +1,5 @@
 4tdcndsa.a2i.gov.bd
+a.sskmc.gov.bd
 aaic.gov.bd
 abc.dsw.gov.bd
 accessibledictionary.gov.bd
@@ -144,6 +145,7 @@ chauddagramgovcollege.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
 chittagongzoo.gov.bd
+chumurdiup.faridpurlg.gov.bd
 cmch.gov.bd
 cmmc.gov.bd
 comch.gov.bd
@@ -259,6 +261,7 @@ dhakaeducationboard.gov.bd
 dhakala.gov.bd
 dhamraimunicipality.gov.bd
 dhamraitsc.gov.bd
+din-crms.dinajpurboard.gov.bd
 dinajpurboard.gov.bd
 disability.wewb.gov.bd
 dknvat.gov.bd
@@ -321,6 +324,9 @@ gis.beautifulbangladesh.gov.bd
 gis.srdi.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
 git.dghs.gov.bd
+git.git.salepropos.sskmc.gov.bd
+git.salepropos.sskmc.gov.bd
+git.webmail.sskmc.gov.bd
 gobindagonjpourashava.gov.bd
 golapganjpourashava.gov.bd
 gopalganjpoly.gov.bd
@@ -377,6 +383,7 @@ judiciary.gov.bd
 judipay.gov.bd
 jury.ric.gov.bd
 kaizen88.fpmu.gov.bd
+kalamridhaup.faridpurlg.gov.bd
 kaliakairpourashava.gov.bd
 kanaipurup.faridpurlg.gov.bd
 katiadipourashava.gov.bd
@@ -392,6 +399,7 @@ kodaliashohidnagarup.faridpurlg.gov.bd
 korakdi.faridpurlg.gov.bd
 kpi.gov.bd
 kranti.bamis.gov.bd
+krishnanagarup.faridpurlg.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
 la.ictbdiasms.gov.bd
@@ -468,10 +476,12 @@ migration-portal-dev.niseee.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mmddl-ctgbcsir.gov.bd
+mohakaliup.munshiganjlg.gov.bd
 mohanganjpaurashava.gov.bd
 motjdigitalstore.gov.bd
 moulvibazartsc.gov.bd
 moynaup.faridpurlg.gov.bd
+mspc.sskmc.gov.bd
 mta-sts.nothi.gov.bd
 muladimunicipality.gov.bd
 munshiganjtsc.gov.bd
@@ -532,6 +542,7 @@ pdb.shrlive.dghs.gov.bd
 pfms.brri.gov.bd
 pibelearning.gov.bd
 pirjatrapurup.gov.bd
+pmu2.sskmc.gov.bd
 portal.dppseba.gov.bd
 portal.ekpass.gov.bd
 projects.iifc.gov.bd
@@ -582,6 +593,7 @@ salepropos.sskmc.gov.bd
 sanboard.gov.bd
 sarkaribanglacollege.gov.bd
 sarswp.gnc.gov.bd
+satairup.faridpurlg.gov.bd
 savargc.gov.bd
 savarmunicipality.gov.bd
 scholarship.dsw.gov.bd
@@ -815,6 +827,7 @@ www.chatmohar.uppabnaholdingtax.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.chicd.gov.bd
 www.chittagongvat.gov.bd
+www.chumurdiup.faridpurlg.gov.bd
 www.cmmc.gov.bd
 www.comillaregion.highwaypolice.gov.bd
 www.control.rpi.gov.bd
@@ -879,6 +892,7 @@ www.jadunandiup.faridpurlg.gov.bd
 www.jahapurup.faridpurlg.gov.bd
 www.jamalpurttc.gov.bd
 www.josherup.narsingdilg.gov.bd
+www.kalamridhaup.faridpurlg.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
 www.kanaipurup.faridpurlg.gov.bd
 www.keshorhatpourashava.gov.bd
@@ -886,6 +900,7 @@ www.kmch.gov.bd
 www.kodaliashohidnagarup.faridpurlg.gov.bd
 www.korakdi.faridpurlg.gov.bd
 www.kranti.bamis.gov.bd
+www.krishnanagarup.faridpurlg.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.laravel.sfcnavy.gov.bd
@@ -904,6 +919,7 @@ www.megchamiup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.mgcm.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
+www.mohakaliup.munshiganjlg.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moulvibazartsc.gov.bd
 www.moynaup.faridpurlg.gov.bd
@@ -971,6 +987,7 @@ www.sadai.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sarkaribanglacollege.gov.bd
 www.sarswp.gnc.gov.bd
+www.satairup.faridpurlg.gov.bd
 www.savargc.gov.bd
 www.savarmunicipality.gov.bd
 www.sbobet.secretariatclinic.gov.bd
