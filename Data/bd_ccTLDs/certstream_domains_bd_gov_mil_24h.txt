@@ -1,6 +1,7 @@
 apbn.gov.bd
 app.zprajshahi.gov.bd
 appp.zprajshahi.gov.bd
+apps.bgb.gov.bd
 autodiscover.gmhs.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
@@ -12,10 +13,13 @@ barishalcity.gov.bd
 bdp.gov.bd
 bhola.gov.bd
 bikiron2021.sreda.gov.bd
+bnoip.navy.mil.bd
+bnoip2.navy.mil.bd
 bnscp.navy.mil.bd
 bogra.gov.bd
 brahmanbaria.gov.bd
 bsp.brta.gov.bd
+btriapps.gov.bd
 cafomolwa.gov.bd
 chakariamunicipality.gov.bd
 chandpur.gov.bd
@@ -34,6 +38,7 @@ cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.rtsc.gov.bd
 denguereports.dghs.gov.bd
+dhaka.gov.bd
 dhakadiv.gov.bd
 dhakalabsbcsir.gov.bd
 dhamraimunicipality.gov.bd
@@ -42,7 +47,9 @@ dpg.gov.bd
 dshe.gov.bd
 eappeal.taxappealctg.gov.bd
 ekshop.gov.bd
+elearning.gov.bd
 emis.gov.bd
+en.info.shr.dghs.gov.bd
 gazipur.gov.bd
 gmhs.gov.bd
 gopalganj.gov.bd
@@ -67,6 +74,7 @@ ppi.gov.bd
 profile.nins.gov.bd
 pwdta.gov.bd
 railwayestate.gov.bd
+rangamatigmc.gov.bd
 reeep.sreda.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
@@ -75,6 +83,7 @@ rims.dgda.gov.bd
 rpi.gov.bd
 rrfrangpur.gov.bd
 rtsc.gov.bd
+shift.gov.bd
 slot.accessibledictionary.gov.bd
 spi.gov.bd
 sreda.gov.bd
@@ -97,8 +106,12 @@ www.apbn.gov.bd
 www.app.zprajshahi.gov.bd
 www.appp.zprajshahi.gov.bd
 www.bikiron2021.sreda.gov.bd
+www.bnoip.navy.mil.bd
+www.bnoip2.navy.mil.bd
 www.bnscp.navy.mil.bd
 www.bsp.brta.gov.bd
+www.btbkschools.btriapps.gov.bd
+www.dutipata.btriapps.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.ekshop.gov.bd
 www.gmhs.gov.bd
@@ -120,6 +133,7 @@ www.report.ec4j.gov.bd
 www.rtsc.gov.bd
 www.shd.sreda.gov.bd
 www.solar.sreda.gov.bd
+www.somotolercha.btriapps.gov.bd
 www.srepgen.sreda.gov.bd
 www.stdb.sreda.gov.bd
 www.taxsurvey.gov.bd
