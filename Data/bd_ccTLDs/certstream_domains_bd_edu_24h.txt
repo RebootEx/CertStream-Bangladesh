@@ -68,6 +68,7 @@ autodiscover.mbhec.edu.bd
 autodiscover.mohalcharighs.edu.bd
 autodiscover.mohiminstitution.edu.bd
 autodiscover.munshirbazarhighschool.edu.bd
+autodiscover.nadcollege.edu.bd
 autodiscover.ngc.edu.bd
 autodiscover.nmdcn.edu.bd
 autodiscover.poradiahighschool.edu.bd
@@ -86,11 +87,13 @@ autodiscover.vidm.edu.bd
 autodiscover.zcbmc.edu.bd
 autodiscover.zphs.edu.bd
 ayeshbamadrasah.edu.bd
+azadshalbarihs.edu.bd
 badoparahighschool.edu.bd
 badshahfaisal.edu.bd
 bafsemc.edu.bd
 baghilfhs.edu.bd
 baghoriahs.edu.bd
+bagssc.edu.bd
 bahaddarkatahighschool.edu.bd
 bahaddarkataimdm.edu.bd
 bahsl.edu.bd
@@ -134,9 +137,11 @@ bmchs.edu.bd
 bmghs.edu.bd
 bmss131112.edu.bd
 bnuhs.edu.bd
+bofoc.org.bodawomencollege.edu.bd
 bogdadiahs.edu.bd
 bohailhighschool.edu.bd
 bongpurhs.edu.bd
+boragarighs.edu.bd
 borhanuddingovthighschool.edu.bd
 borishurschoolandcollege.edu.bd
 boyraschool.edu.bd
@@ -147,6 +152,7 @@ brbmsc.edu.bd
 bsacpaba.edu.bd
 bsbhighschool.edu.bd
 bsm.edu.bd
+bsshs.edu.bd
 bsths.edu.bd
 bubt.edu.bd
 buhsc.edu.bd
@@ -229,6 +235,7 @@ cpanel.mohalcharighs.edu.bd
 cpanel.mohiminstitution.edu.bd
 cpanel.munshigonjcollege.edu.bd
 cpanel.munshirbazarhighschool.edu.bd
+cpanel.nadcollege.edu.bd
 cpanel.ngc.edu.bd
 cpanel.nmdcn.edu.bd
 cpanel.poradiahighschool.edu.bd
@@ -307,6 +314,7 @@ cpcalendars.mohalcharighs.edu.bd
 cpcalendars.mohiminstitution.edu.bd
 cpcalendars.munshigonjcollege.edu.bd
 cpcalendars.munshirbazarhighschool.edu.bd
+cpcalendars.nadcollege.edu.bd
 cpcalendars.ngc.edu.bd
 cpcalendars.nmdcn.edu.bd
 cpcalendars.poradiahighschool.edu.bd
@@ -384,6 +392,7 @@ cpcontacts.mohalcharighs.edu.bd
 cpcontacts.mohiminstitution.edu.bd
 cpcontacts.munshigonjcollege.edu.bd
 cpcontacts.munshirbazarhighschool.edu.bd
+cpcontacts.nadcollege.edu.bd
 cpcontacts.ngc.edu.bd
 cpcontacts.nmdcn.edu.bd
 cpcontacts.poradiahighschool.edu.bd
@@ -417,6 +426,7 @@ cpcontacts.wamhschool.edu.bd
 cpcontacts.zakigonjgovtcollege.edu.bd
 cpcontacts.zcbmc.edu.bd
 cpcontacts.zphs.edu.bd
+cpmdakhilmadrasah.edu.bd
 crud.khkhsm.edu.bd
 cse.bubt.edu.bd
 csjs.edu.bd
@@ -492,6 +502,7 @@ ganguriacollege.edu.bd
 gauss.edu.bd
 gbtcbm.edu.bd
 gccc.edu.bd
+gcesc.edu.bd
 gfi.edu.bd
 gfs.edu.bd
 gghscn.edu.bd
@@ -562,6 +573,7 @@ kalidaskuhs.edu.bd
 kansaths.edu.bd
 kaundiasshs.edu.bd
 kawaljanilsghs.edu.bd
+kayempurhs.edu.bd
 kazimontucollege.edu.bd
 kazimuddinchowdhuryschoolandcollege.edu.bd
 kbhschool.edu.bd
@@ -569,6 +581,8 @@ kbi.edu.bd
 kgck.edu.bd
 kghs.edu.bd
 khashhashil.edu.bd
+khs1973.edu.bd
+khs1973.edu.bd.nagargolahs.edu.bd
 khulnarsomoy.com.munshigonjcollege.edu.bd
 kinbenvai.jathaliaashs.edu.bd
 kmamhs.edu.bd
@@ -581,6 +595,7 @@ krghs.edu.bd
 krisnardangihighschool.edu.bd
 ksghs1987.edu.bd
 kumarulihs.edu.bd
+lab.bgeju.edu.bd
 lelangaraphs.edu.bd
 lghsraj.edu.bd
 library.bcc.edu.bd
@@ -667,6 +682,7 @@ mail.muhs.edu.bd
 mail.mujibcollege.edu.bd
 mail.munshigonjcollege.edu.bd
 mail.munshirbazarhighschool.edu.bd
+mail.nadcollege.edu.bd
 mail.ngc.edu.bd
 mail.nmdcn.edu.bd
 mail.pingnaghs.edu.bd
@@ -747,6 +763,7 @@ mukmmd.edu.bd
 munshigonjcollege.edu.bd
 munshirbazarhighschool.edu.bd
 nabinagarghs.edu.bd
+nadcollege.edu.bd
 nalamsc.edu.bd
 naogc.edu.bd
 narillapublichighschool.edu.bd
@@ -760,6 +777,7 @@ nhschool.edu.bd
 niist.edu.bd
 nmdcn.edu.bd
 nnnusfm.edu.bd
+nss1990.edu.bd
 nwdcr.edu.bd
 oldapp.krghs.edu.bd
 pahmc.edu.bd
@@ -804,6 +822,7 @@ rgchighschool.edu.bd
 rgpghs.edu.bd
 rgsc.edu.bd
 rkha.edu.bd
+rmss.edu.bd
 royalnursingcollege.edu.bd
 rshs.edu.bd
 rstu.edu.bd
@@ -825,6 +844,7 @@ sakhuahighschool.edu.bd
 salthagovtcollege.edu.bd
 sankairaghs.edu.bd
 sarkarhatnazaralirupzanhighschool.edu.bd
+satkhiragmc.edu.bd
 saulibrary.edu.bd
 sbbm.edu.bd
 sbfmwc.edu.bd
@@ -846,6 +866,7 @@ shalmaradakhilmadrasah.edu.bd
 sharifbagikm.edu.bd
 sherkolesahs.edu.bd
 shjs.edu.bd
+shsac.edu.bd
 sihs113503.edu.bd
 simt.edu.bd
 sindurpurkahb.edu.bd
@@ -884,6 +905,8 @@ talmanhs.edu.bd
 taloraaahs.edu.bd
 tarashgghs.edu.bd
 tcmhs.edu.bd
+tdqdm.edu.bd
+tdqdm.edu.bd.bodawomencollege.edu.bd
 tdudm.edu.bd
 tghs1967.edu.bd
 tjmhs.edu.bd
@@ -894,6 +917,8 @@ trsc.edu.bd
 tssbb.edu.bd
 tulabariahs.edu.bd
 uaidm.edu.bd
+ucbsschool.edu.bd
+ucmhighschool.edu.bd
 udayanadrshahighschool.edu.bd
 ugbusm.edu.bd
 uia.edu.bd
@@ -951,6 +976,7 @@ webdisk.mohalcharighs.edu.bd
 webdisk.mohiminstitution.edu.bd
 webdisk.munshigonjcollege.edu.bd
 webdisk.munshirbazarhighschool.edu.bd
+webdisk.nadcollege.edu.bd
 webdisk.ngc.edu.bd
 webdisk.nmdcn.edu.bd
 webdisk.poradiahighschool.edu.bd
@@ -1030,6 +1056,7 @@ webmail.mohalcharighs.edu.bd
 webmail.mohiminstitution.edu.bd
 webmail.munshigonjcollege.edu.bd
 webmail.munshirbazarhighschool.edu.bd
+webmail.nadcollege.edu.bd
 webmail.ngc.edu.bd
 webmail.nmdcn.edu.bd
 webmail.poradiahighschool.edu.bd
@@ -1062,6 +1089,7 @@ whm.rumdo.edu.bd
 whm.saic.edu.bd
 whm.saicmedical.edu.bd
 whm.simt.edu.bd
+workspace.cvghs.edu.bd
 www.16agust.ghss.edu.bd
 www.17agust.ghss.edu.bd
 www.a.akmnc.edu.bd
@@ -1100,6 +1128,7 @@ www.bhangagovpiloths.edu.bd
 www.bicdt.edu.bd.ahamc.edu.bd
 www.bifmr.edu.bd
 www.bmss131112.edu.bd.balidiasecondaryschool.edu.bd
+www.bofoc.org.bodawomencollege.edu.bd
 www.bogdadiahs.edu.bd
 www.bongpurhs.edu.bd
 www.bpatal.edu.bd
@@ -1193,6 +1222,7 @@ www.kbhschool.edu.bd
 www.kbi.edu.bd
 www.khalilurrahmanis.com.haldiagovhs.edu.bd
 www.khashhashil.edu.bd
+www.khs1973.edu.bd.nagargolahs.edu.bd
 www.khulnarsomoy.com.munshigonjcollege.edu.bd
 www.kinbenvai.jathaliaashs.edu.bd
 www.kmamhs.edu.bd
@@ -1204,6 +1234,7 @@ www.krisnardangihighschool.edu.bd
 www.ksghs1987.edu.bd
 www.kumarulihs.edu.bd
 www.kwhs.abdulabadhighschool.edu.bd
+www.lab.bgeju.edu.bd
 www.lelangaraphs.edu.bd
 www.lghsraj.edu.bd
 www.library.bcc.edu.bd
@@ -1230,6 +1261,7 @@ www.muhs.edu.bd
 www.mujibcollege.edu.bd
 www.munshigonjcollege.edu.bd
 www.munshirbazarhighschool.edu.bd
+www.nadcollege.edu.bd
 www.new.alhelalacademy.edu.bd
 www.ngc.edu.bd
 www.nmdcn.edu.bd
@@ -1299,6 +1331,7 @@ www.taheranoorhighschoolandcollege.edu.bd
 www.talmanhs.edu.bd
 www.tarashgghs.edu.bd
 www.tcmhs.edu.bd
+www.tdqdm.edu.bd.bodawomencollege.edu.bd
 www.tdudm.edu.bd
 www.textile.bubt.edu.bd
 www.tghs1967.edu.bd
