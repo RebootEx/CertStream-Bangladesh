@@ -3,6 +3,7 @@ a.sskmc.gov.bd
 aaic.gov.bd
 abc.dsw.gov.bd
 accessibledictionary.gov.bd
+adharaup.munshiganjlg.gov.bd
 admin.bmd.gov.bd
 admin.smartup.gov.bd
 admin.sraep.gov.bd
@@ -33,6 +34,7 @@ apps.jamalpurttc.gov.bd
 ar.gameapp.gov.bd
 arparaup.faridpurlg.gov.bd
 assignment.bise-ctg.gov.bd
+atgharup.faridpurlg.gov.bd
 autoconfig.bepza.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.bepza.gov.bd
@@ -144,12 +146,15 @@ chattogramdiv.gov.bd
 chatulup.faridpurlg.gov.bd
 chauddagramgovcollege.gov.bd
 chittagong.gov.bd
+chittagongdiv.gov.bd
 chittagongzoo.gov.bd
+chuadanga.gov.bd
 chumurdiup.faridpurlg.gov.bd
 cjmcourtjashore.gov.bd
 cmch.gov.bd
 cmmc.gov.bd
 comch.gov.bd
+comilla.gov.bd
 comillaboard.gov.bd
 comillalg.gov.bd
 comillaregion.highwaypolice.gov.bd
@@ -159,6 +164,7 @@ covid19.mohfw.gov.bd
 covid19pv.dgda.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazaartsc.gov.bd
+coxsbazar.gov.bd
 cpanel.award.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bdhckl.gov.bd
@@ -279,6 +285,7 @@ du.gameapp.gov.bd
 durjog.gov.bd
 dyd-dev.niseee.gov.bd
 ebook.cmmc.gov.bd
+ecourt.gov.bd
 edc.srdl.gov.bd
 edu.bd.gbrcr.gov.bd
 eff-hsc.dinajpurboard.gov.bd
@@ -310,6 +317,7 @@ faridpurlg.gov.bd
 fc.distgopalganj.gov.bd
 fci.gov.bd
 feedback.dos.gov.bd
+feni.gov.bd
 fgc.gov.bd
 fima.gov.bd
 financialinclusion.gov.bd
@@ -383,6 +391,7 @@ jhalokathimunicipality.gov.bd
 jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jmc.gov.bd
+job.shmrmi.gov.bd
 jobsbiwta.gov.bd
 josherup.narsingdilg.gov.bd
 journal.bcsadminacademy.gov.bd
@@ -400,6 +409,7 @@ keshorhatpourashava.gov.bd
 kgmc.gov.bd
 khaac.gov.bd
 khagracharipourashava.gov.bd
+khulna.gov.bd
 khulnadiv.gov.bd
 kmch.gov.bd
 kmttc.gov.bd
@@ -409,9 +419,11 @@ kranti.bamis.gov.bd
 krishnanagarup.faridpurlg.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
+kushtia.gov.bd
 la.ictbdiasms.gov.bd
 labrepository.bfsa.gov.bd
 ladhaka.gov.bd
+lakshmipur.gov.bd
 land.gov.bd
 laskardiaup.faridpurlg.gov.bd
 ldtax.gov.bd
@@ -423,6 +435,7 @@ logistics.gov.bd
 logo.smartbangladesh.gov.bd
 madanpourashava.gov.bd
 madaripur.gov.bd
+magura.gov.bd
 magurapaurashava.gov.bd
 mail.ar.gameapp.gov.bd
 mail.award.gov.bd
@@ -495,6 +508,7 @@ munshiganjtsc.gov.bd
 myconstituency.gov.bd
 mygov.gov.bd
 mylocker.gov.bd
+mymensingh.gov.bd
 nabinagarpourashava.gov.bd
 nageswaripauroshava.gov.bd
 naldangamunicipality.gov.bd
@@ -502,6 +516,7 @@ naogaon.gov.bd
 narail.gov.bd
 narailpourashava.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
+narsingdi.gov.bd
 nascib-dev.niseee.gov.bd
 nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
@@ -550,6 +565,7 @@ parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 patient-hsms.somch.gov.bd
+patuakhali.gov.bd
 pcb-doe.gov.bd
 pdb.mcishr.dghs.gov.bd
 pdb.shrlive.dghs.gov.bd
@@ -571,9 +587,12 @@ railwayestate.gov.bd
 raipurup.faridpurlg.gov.bd
 raise.wewb.gov.bd
 rajbaripourashava.gov.bd
+rajshahi.gov.bd
 rajshahidiv.gov.bd
 ramkantapurup.faridpurlg.gov.bd
 ramnagarup.faridpurlg.gov.bd
+rampalup.munshiganjlg.gov.bd
+rangamati.gov.bd
 rangamaticollege.gov.bd
 rangamatimunicipality.gov.bd
 rangpurdivhrm.gov.bd
@@ -609,6 +628,7 @@ sanboard.gov.bd
 sarkaribanglacollege.gov.bd
 sarswp.gnc.gov.bd
 satairup.faridpurlg.gov.bd
+satkhira.gov.bd
 savargc.gov.bd
 savarmunicipality.gov.bd
 scholarship.dsw.gov.bd
@@ -620,7 +640,9 @@ sfcnavy.gov.bd
 sgc.gov.bd
 sgtc.gov.bd
 share.pmo.gov.bd
+shariatpur.gov.bd
 shariatpurmunicipality.gov.bd
+sherpur.gov.bd
 sherpurpolice.gov.bd
 shift.gov.bd
 shiloyup.munshiganjlg.gov.bd
@@ -672,6 +694,7 @@ szmc.gov.bd
 tagarbandaup.faridpurlg.gov.bd
 talmaup.faridpurlg.gov.bd
 taloramunicipality.gov.bd
+tangail.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszone2.gov.bd
 taxeszone5dhaka.gov.bd
@@ -773,6 +796,7 @@ www.1234.melandahbhata.gov.bd
 www.5678.melandahbhata.gov.bd
 www.91011.melandahbhata.gov.bd
 www.abc.dsw.gov.bd
+www.adharaup.munshiganjlg.gov.bd
 www.admin-server.rpi.gov.bd
 www.admin.smartup.gov.bd
 www.admins.rpi.gov.bd
@@ -793,6 +817,7 @@ www.apps.gjkagc.gov.bd
 www.apps.jamalpurttc.gov.bd
 www.ar.gameapp.gov.bd
 www.arparaup.faridpurlg.gov.bd
+www.atgharup.faridpurlg.gov.bd
 www.award.gov.bd
 www.azimnagorup.faridpurlg.gov.bd
 www.backup.fima.gov.bd
@@ -974,6 +999,7 @@ www.raipurup.faridpurlg.gov.bd
 www.rajbaripourashava.gov.bd
 www.ramkantapurup.faridpurlg.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
+www.rampalup.munshiganjlg.gov.bd
 www.rangpurdivhrm.gov.bd
 www.ranisankailpourashava.gov.bd
 www.rb.ictbdiasms.gov.bd
