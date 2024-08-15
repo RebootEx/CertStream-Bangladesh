@@ -8,6 +8,7 @@ agadc.edu.bd
 aghs113613.edu.bd
 annex.bubt.edu.bd
 atghariahighschool.edu.bd
+autodiscover.angarparahighs.edu.bd
 autodiscover.baniajanhighschool.edu.bd
 autodiscover.chalkbazarjhs.edu.bd
 autodiscover.hkm.edu.bd
@@ -32,7 +33,10 @@ chakmphs.edu.bd
 chalkbazarjhs.edu.bd
 chargobindapur.edu.bd
 chnhs.edu.bd
+chorarhatsscollege.edu.bd
 courseplan.jalalabadcollege.edu.bd
+courses.iom.edu.bd
+cpanel.angarparahighs.edu.bd
 cpanel.baniajanhighschool.edu.bd
 cpanel.chalkbazarjhs.edu.bd
 cpanel.csjs.edu.bd
@@ -45,6 +49,7 @@ cpanel.sreeramdiahighschool.edu.bd
 cpanel.srscf.edu.bd
 cpanel.talmanhs.edu.bd
 cpanel.zcbmc.edu.bd
+cpcalendars.angarparahighs.edu.bd
 cpcalendars.baniajanhighschool.edu.bd
 cpcalendars.chalkbazarjhs.edu.bd
 cpcalendars.csjs.edu.bd
@@ -56,6 +61,7 @@ cpcalendars.sreeramdiahighschool.edu.bd
 cpcalendars.srscf.edu.bd
 cpcalendars.talmanhs.edu.bd
 cpcalendars.zcbmc.edu.bd
+cpcontacts.angarparahighs.edu.bd
 cpcontacts.baniajanhighschool.edu.bd
 cpcontacts.chalkbazarjhs.edu.bd
 cpcontacts.csjs.edu.bd
@@ -70,6 +76,7 @@ cpcontacts.zcbmc.edu.bd
 csjs.edu.bd
 cub.edu.bd
 daluacharahs.edu.bd
+dcmahschool.edu.bd
 devs.green.edu.bd
 dgahs.edu.bd
 dhoailadarshasecondaryschool.edu.bd
@@ -96,13 +103,17 @@ iskdm.edu.bd
 jamiraam.edu.bd
 jhitkaamhighschool.edu.bd
 jis.edu.bd
+joaramadrasha.edu.bd
+jogardiahs.edu.bd
 kazimontucollege.edu.bd
 kbhschool.edu.bd
 kgck.edu.bd
+kmamhs.edu.bd
 kmmdm.edu.bd
 krghs.edu.bd
 ksghs1987.edu.bd
 mail.adarshaschool.edu.bd
+mail.angarparahighs.edu.bd
 mail.baniajanhighschool.edu.bd
 mail.chalkbazarjhs.edu.bd
 mail.csjs.edu.bd
@@ -114,6 +125,7 @@ mail.rusdwdc.edu.bd
 mail.sihs113503.edu.bd
 mail.sreeramdiahighschool.edu.bd
 mail.srscf.edu.bd
+mail.sutariahs.edu.bd
 mail.talmanhs.edu.bd
 mail.zcbmc.edu.bd
 marichapalonghighschool.edu.bd
@@ -122,9 +134,11 @@ mawahab.edu.bd
 muggaonahs.edu.bd
 mukmmd.edu.bd
 naogc.edu.bd
+oldapp.krghs.edu.bd
 pauc.edu.bd
 pinjuriuhs.edu.bd
 pioneer.edu.bd
+pkhighschool.edu.bd
 pkshs.edu.bd
 polishahs.edu.bd
 pop.adarshaschool.edu.bd
@@ -137,9 +151,12 @@ rangvalley.com.satiacharasnghs.edu.bd
 rayganjdegreecollege.edu.bd
 rshs.edu.bd
 rusdwdc.edu.bd
+s.sutariahs.edu.bd
+salthagovtcollege.edu.bd
 saulibrary.edu.bd
 sghs113507.edu.bd
 shakhatihs.edu.bd
+shjs.edu.bd
 sihs113503.edu.bd
 sindurpurkahb.edu.bd
 singherkathimlhs.edu.bd
@@ -150,6 +167,7 @@ somc.edu.bd
 srbhaahschool.edu.bd
 sreeramdiahighschool.edu.bd
 srscf.edu.bd
+sutariahs.edu.bd
 talmanhs.edu.bd
 taloraaahs.edu.bd
 transport.daffodilvarsity.edu.bd
@@ -157,6 +175,7 @@ umc.edu.bd
 update.krghs.edu.bd
 vm3.iom.edu.bd
 wafw.old.ulab.edu.bd
+webdisk.angarparahighs.edu.bd
 webdisk.baniajanhighschool.edu.bd
 webdisk.chalkbazarjhs.edu.bd
 webdisk.csjs.edu.bd
@@ -169,6 +188,7 @@ webdisk.srscf.edu.bd
 webdisk.talmanhs.edu.bd
 webdisk.zcbmc.edu.bd
 webexpert.mmma.edu.bd
+webmail.angarparahighs.edu.bd
 webmail.baniajanhighschool.edu.bd
 webmail.chalkbazarjhs.edu.bd
 webmail.csjs.edu.bd
@@ -180,6 +200,7 @@ webmail.rusdwdc.edu.bd
 webmail.sreeramdiahighschool.edu.bd
 webmail.srscf.edu.bd
 webmail.talmanhs.edu.bd
+webmail.ugv.edu.bd
 webmail.zcbmc.edu.bd
 www.ac.uits.edu.bd
 www.adarshaschool.edu.bd
@@ -187,6 +208,7 @@ www.adharahighschool.edu.bd
 www.admin.mnc.edu.bd
 www.admissiontest.green.edu.bd
 www.alumni.infra.edu.bd
+www.angarparahighs.edu.bd
 www.annex.bubt.edu.bd
 www.baniajanhighschool.edu.bd
 www.bba.bubt.edu.bd
@@ -214,7 +236,9 @@ www.hkm.edu.bd
 www.hrdi.rpsu.edu.bd
 www.jamiraam.edu.bd
 www.jobportal.infra.edu.bd
+www.jogardiahs.edu.bd
 www.kbhschool.edu.bd
+www.kmamhs.edu.bd
 www.krghs.edu.bd
 www.ksghs1987.edu.bd
 www.kwhs.abdulabadhighschool.edu.bd
@@ -228,11 +252,15 @@ www.portal.recr.edu.bd
 www.rangvalley.com.satiacharasnghs.edu.bd
 www.rayganjdegreecollege.edu.bd
 www.rusdwdc.edu.bd
+www.s.sutariahs.edu.bd
+www.salthagovtcollege.edu.bd
 www.shakhatihs.edu.bd.bishnopurhighs.edu.bd
+www.shjs.edu.bd
 www.sihs113503.edu.bd
 www.soft.mnc.edu.bd
 www.sreeramdiahighschool.edu.bd
 www.srscf.edu.bd
+www.sutariahs.edu.bd
 www.talmanhs.edu.bd
 www.textile.bubt.edu.bd
 www.webexpert.mmma.edu.bd
