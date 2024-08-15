@@ -60,6 +60,7 @@ barguna.gov.bd
 bargunamunicipality.gov.bd
 barisaldiv.gov.bd
 barishal.gov.bd
+barishalcity.gov.bd
 bcms.gov.bd
 bdansarerp.gov.bd
 bdhckl.gov.bd
@@ -142,6 +143,7 @@ chatkhilpourashava.gov.bd
 chattogramdiv.gov.bd
 chatulup.faridpurlg.gov.bd
 chauddagramgovcollege.gov.bd
+chittagong.gov.bd
 chittagongzoo.gov.bd
 chumurdiup.faridpurlg.gov.bd
 cjmcourtjashore.gov.bd
@@ -155,6 +157,7 @@ communitydhis.mohfw.gov.bd
 corona.gov.bd
 covid19.mohfw.gov.bd
 covid19pv.dgda.gov.bd
+covid19reports.dghs.gov.bd
 coxsbazaartsc.gov.bd
 cpanel.award.gov.bd
 cpanel.bangladeshfestival.gov.bd
@@ -258,6 +261,8 @@ designforeveryone.gov.bd
 dev-backend.tourismctg.gov.bd
 dev-training.sla.gov.bd
 dev.digitalliteracy.gov.bd
+dewanganjbhata.gov.bd
+dewanganjbhata.gov.bd.melandahbhata.gov.bd
 dgfood.gov.bd
 dgme.gov.bd
 dhakadiv.gov.bd
@@ -369,8 +374,11 @@ jachai.payment.ekshop.gov.bd
 jachaipay.ekshop.gov.bd
 jadunandiup.faridpurlg.gov.bd
 jahapurup.faridpurlg.gov.bd
+jamalpur.gov.bd
 jamalpurtsc.gov.bd
 jamalpurttc.gov.bd
+jessore.gov.bd
+jhalakathi.gov.bd
 jhalokathimunicipality.gov.bd
 jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -392,6 +400,7 @@ keshorhatpourashava.gov.bd
 kgmc.gov.bd
 khaac.gov.bd
 khagracharipourashava.gov.bd
+khulnadiv.gov.bd
 kmch.gov.bd
 kmttc.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
@@ -459,6 +468,7 @@ mail.usc.dghs.gov.bd
 mail.zprajshahi.gov.bd
 majcharup.faridpurlg.gov.bd
 manikdhaup.faridpurlg.gov.bd
+manikganj.gov.bd
 mcci-dev.niseee.gov.bd
 meeting.sla.gov.bd
 megchamiup.faridpurlg.gov.bd
@@ -480,6 +490,7 @@ moynaup.faridpurlg.gov.bd
 mspc.sskmc.gov.bd
 mta-sts.nothi.gov.bd
 muladimunicipality.gov.bd
+munshiganj.gov.bd
 munshiganjtsc.gov.bd
 myconstituency.gov.bd
 mygov.gov.bd
@@ -488,6 +499,7 @@ nabinagarpourashava.gov.bd
 nageswaripauroshava.gov.bd
 naldangamunicipality.gov.bd
 naogaon.gov.bd
+narail.gov.bd
 narailpourashava.gov.bd
 narikelbariyaup.faridpurlg.gov.bd
 nascib-dev.niseee.gov.bd
@@ -495,6 +507,7 @@ nasirabadup.faridpurlg.gov.bd
 nationalmuseumticket.gov.bd
 natore.gov.bd
 nazipurpourashava.gov.bd
+netrokona.gov.bd
 netrokonatsc.gov.bd
 new.bhtpa.gov.bd
 new.chauddagramgovcollege.gov.bd
@@ -528,6 +541,7 @@ origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
 ossbhtpa.gov.bd
 outsp.kmch.gov.bd
+pabna.gov.bd
 padmamuseum.gov.bd
 panchagarhmunicipality.gov.bd
 panchasharup.munshiganjlg.gov.bd
@@ -844,6 +858,7 @@ www.demo.krishibatighor.gov.bd
 www.demo.railwayestate.gov.bd
 www.demo.taxeszone2.gov.bd
 www.designforeveryone.gov.bd
+www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.dms.basbmed.gov.bd
 www.du.gameapp.gov.bd
