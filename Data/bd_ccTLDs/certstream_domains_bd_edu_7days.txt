@@ -80,9 +80,11 @@ admission.kist.edu.bd
 admission.ncpsc.edu.bd
 admission.noaparadegreecollege.edu.bd
 admission.seu.edu.bd
+admission.surjamukhi.edu.bd
 admission.tanc.edu.bd
 admission.traumainstitute.edu.bd
 admission.uca.edu.bd
+admission.vu.edu.bd
 admissionportal.diu.edu.bd
 admissions.old.ulab.edu.bd
 admissions.ulab.edu.bd
@@ -498,6 +500,7 @@ autodiscover.tanc.edu.bd
 autodiscover.tdudm.edu.bd
 autodiscover.tgco.edu.bd
 autodiscover.tongipilotsagc.edu.bd
+autodiscover.udayanmats.edu.bd
 autodiscover.ugbusm.edu.bd
 autodiscover.uttara.edu.bd
 autodiscover.uttarpaduahighschool.edu.bd
@@ -533,6 +536,7 @@ bafmad.edu.bd
 bafsemc.edu.bd
 bafspkp.edu.bd
 baganislamiahighschool.edu.bd
+baghaitalaahs.edu.bd
 baghilfhs.edu.bd
 baghoriahs.edu.bd
 baghs.edu.bd
@@ -841,6 +845,7 @@ bmschool.edu.bd
 bmsinstitution.edu.bd
 bmss131112.edu.bd
 bmssc.edu.bd
+bncollegekhulna.edu.bd
 bndewhs.edu.bd
 bnfm.edu.bd
 bng-kabirhat.edu.bd
@@ -1487,6 +1492,7 @@ cpanel.tongipilotsagc.edu.bd
 cpanel.towakulcollege.edu.bd
 cpanel.ttuc.edu.bd
 cpanel.uaidm.edu.bd
+cpanel.udayanmats.edu.bd
 cpanel.ugbusm.edu.bd
 cpanel.ulab.edu.bd
 cpanel.updatedentalcollege.edu.bd
@@ -1819,6 +1825,7 @@ cpcalendars.tongipilotsagc.edu.bd
 cpcalendars.towakulcollege.edu.bd
 cpcalendars.ttuc.edu.bd
 cpcalendars.uaidm.edu.bd
+cpcalendars.udayanmats.edu.bd
 cpcalendars.ugbusm.edu.bd
 cpcalendars.updatedentalcollege.edu.bd
 cpcalendars.uttara.edu.bd
@@ -2148,6 +2155,7 @@ cpcontacts.tongipilotsagc.edu.bd
 cpcontacts.towakulcollege.edu.bd
 cpcontacts.ttuc.edu.bd
 cpcontacts.uaidm.edu.bd
+cpcontacts.udayanmats.edu.bd
 cpcontacts.ugbusm.edu.bd
 cpcontacts.updatedentalcollege.edu.bd
 cpcontacts.uttara.edu.bd
@@ -2865,6 +2873,7 @@ hlphs.edu.bd
 hmafm.edu.bd
 hmamsrhs.edu.bd
 hmialimmadrasah.edu.bd
+hmjacc.edu.bd
 hmlhighschool.edu.bd
 hmlhs.edu.bd
 hmmdc.edu.bd
@@ -2873,6 +2882,7 @@ hmphs.edu.bd
 hmphsderai.edu.bd
 hmrchs.edu.bd
 hmuphs.edu.bd
+hnhskm.edu.bd
 hnsktss.edu.bd
 hntdghs.edu.bd
 hoglahs.edu.bd
@@ -2898,6 +2908,7 @@ hsjrsc.edu.bd
 hskiam.edu.bd
 hsrhs.edu.bd
 hss.edu.bd
+htbmc.edu.bd
 htfm.edu.bd
 htjgs.edu.bd
 htumdmadrasah.edu.bd
@@ -3186,6 +3197,7 @@ kandigaonhsc.edu.bd
 kandischool.edu.bd
 kangsanagariam.edu.bd
 kansaths.edu.bd
+kanupurhs.edu.bd
 kapastiahs.edu.bd
 kapotakshmacollege.edu.bd
 kaptaihighschool.edu.bd
@@ -4005,6 +4017,7 @@ mail.towakulcollege.edu.bd
 mail.tspschool.edu.bd
 mail.ttuc.edu.bd
 mail.ubc.edu.bd
+mail.udayanmats.edu.bd
 mail.ugbusm.edu.bd
 mail.ugv.edu.bd
 mail.updatedentalcollege.edu.bd
@@ -4277,6 +4290,7 @@ munshirbazarhighschool.edu.bd
 munsirtallukgdm.edu.bd
 murarikatiuhe.edu.bd
 musfcghsc.edu.bd
+mushurikholahighschool.edu.bd
 muslimhighschool.edu.bd
 mutshs.edu.bd
 my.didmraiganj.edu.bd
@@ -4395,6 +4409,7 @@ nidm.edu.bd
 nifm.edu.bd
 nihs.edu.bd
 niist.edu.bd
+nikm.edu.bd
 nimaidighihs.edu.bd
 nipghs.edu.bd
 nisfm.edu.bd
@@ -4459,6 +4474,7 @@ nuardakhilmadrasah.edu.bd
 nuc.edu.bd
 nusdmadrasah.edu.bd
 nwdcr.edu.bd
+nwfmadrasa.edu.bd
 nzhschool.edu.bd
 office.bau.edu.bd
 ofr.ulab.edu.bd
@@ -4910,6 +4926,7 @@ s.bmmrhs.edu.bd
 s.dhalirparhighschool.edu.bd
 s.madhusalhighschool.edu.bd
 s.mahhs.edu.bd
+s.rohitpurhs.edu.bd
 s.sutariahs.edu.bd
 sabdaralikhanhs.edu.bd
 sabjealihighschool.edu.bd
@@ -5342,6 +5359,7 @@ sundalpurhs.edu.bd
 sundarbanadarshahs90.edu.bd
 sundarbanmc.edu.bd
 sunflowermodelschool.edu.bd
+surjamukhi.edu.bd
 surveyrhino.ulab.edu.bd
 susgschool.edu.bd
 suss.edu.bd
@@ -5505,6 +5523,7 @@ ucmhighschool.edu.bd
 ucs.edu.bd
 udadm.edu.bd
 udayanadrshahighschool.edu.bd
+udayanmats.edu.bd
 udayansecondaryschool.edu.bd
 udayanwomenscollege.edu.bd
 udsiic.ulab.edu.bd
@@ -5912,6 +5931,7 @@ webdisk.tongipilotsagc.edu.bd
 webdisk.towakulcollege.edu.bd
 webdisk.ttuc.edu.bd
 webdisk.uaidm.edu.bd
+webdisk.udayanmats.edu.bd
 webdisk.ugbusm.edu.bd
 webdisk.ulab.edu.bd
 webdisk.updatedentalcollege.edu.bd
@@ -6244,6 +6264,7 @@ webmail.thsm.edu.bd
 webmail.tisc.edu.bd
 webmail.tongipilotsagc.edu.bd
 webmail.ttuc.edu.bd
+webmail.udayanmats.edu.bd
 webmail.ugbusm.edu.bd
 webmail.ugv.edu.bd
 webmail.ulab.edu.bd
@@ -6340,6 +6361,7 @@ www.admission.presidencybd.edu.bd
 www.admission.tanc.edu.bd
 www.admission.traumainstitute.edu.bd
 www.admission.uca.edu.bd
+www.admission.vu.edu.bd
 www.admissiontest.green.edu.bd
 www.adsh51.edu.bd
 www.advanced.image.edu.bd
@@ -6455,6 +6477,7 @@ www.baduriahighschool.edu.bd
 www.bafama.edu.bd
 www.bafm.edu.bd
 www.bafspkp.edu.bd
+www.baghaitalaahs.edu.bd.ihsh.edu.bd
 www.baghilfhs.edu.bd
 www.baghoriahs.edu.bd
 www.bagmaraghs.edu.bd
@@ -7117,6 +7140,7 @@ www.hsgdm.edu.bd
 www.hsjhs.edu.bd
 www.hskiam.edu.bd
 www.hss.edu.bd
+www.htbmc.edu.bd.ihsh.edu.bd
 www.htfm.edu.bd
 www.htjgs.edu.bd
 www.hub.edu.bd
@@ -7911,6 +7935,7 @@ www.s.binnabaidmlhighschool.edu.bd
 www.s.bmmrhs.edu.bd
 www.s.dhalirparhighschool.edu.bd
 www.s.madhusalhighschool.edu.bd
+www.s.rohitpurhs.edu.bd
 www.s.sutariahs.edu.bd
 www.sabdaralikhanhs.edu.bd
 www.sabjealihighschool.edu.bd.shankhchurahs.edu.bd
@@ -7957,6 +7982,7 @@ www.sbgcr.edu.bd
 www.sbhschool.edu.bd
 www.sbidm.edu.bd
 www.sbmhs.edu.bd
+www.sbngbhs.edu.bd
 www.sbobet88indonesia.gccc.edu.bd
 www.sbpgagirlshighschool.edu.bd.saracollege.edu.bd
 www.sbsc1933.edu.bd
@@ -8250,6 +8276,7 @@ www.uasam.edu.bd
 www.ubc.edu.bd
 www.ucham.edu.bd
 www.udadm.edu.bd
+www.udayanmats.edu.bd
 www.ug.butex.edu.bd
 www.ugbusm.edu.bd
 www.uhs.edu.bd.kmmc.edu.bd
