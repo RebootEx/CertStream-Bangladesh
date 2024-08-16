@@ -13,6 +13,7 @@ autodiscover.caabhc.gov.bd
 autodiscover.railwayestate.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 bangladeshfestival.gov.bd
+barisaldiv.gov.bd
 bc.gov.bd
 belkuchipoura.gov.bd
 bnoip.navy.mil.bd
@@ -41,13 +42,16 @@ cpcontacts.railwayestate.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cph.gov.bd
 cumilla.gov.bd
+denguereports.dghs.gov.bd
 dhaka.gov.bd
 diagnostic.rmch.gov.bd
+din-crms.dinajpurboard.gov.bd
 dis.btrc.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ebook.land.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
+effhsc.bise-ctg.gov.bd
 effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
 etender.bise-ctg.gov.bd
@@ -143,6 +147,7 @@ sonaimuripaurashava.gov.bd
 sonalipayment.comillaboard.gov.bd
 spg.comillaboard.gov.bd
 spi.gov.bd
+sreda.gov.bd
 srngih.gov.bd
 sscadmitcard.comillaboard.gov.bd
 sso.gca.comillaboard.gov.bd
@@ -179,6 +184,8 @@ www.chandpurup.faridpurlg.gov.bd
 www.comillaboard.gov.bd
 www.diagnostic.rmch.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
+www.eecpfp.sreda.gov.bd
+www.elibrary.sreda.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.gattiup.faridpurlg.gov.bd
 www.gca.comillaboard.gov.bd
@@ -192,6 +199,7 @@ www.majcharup.faridpurlg.gov.bd
 www.meghnacloud.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.meherparaup.narsingdilg.gov.bd
+www.nemcalc.sreda.gov.bd
 www.new.cafomolwa.gov.bd
 www.onlineexam.gbrcr.gov.bd
 www.onlinepayment.comillaboard.gov.bd
@@ -216,6 +224,7 @@ www.sujanagarmunicipality.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.taxcertificate.comillaboard.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
+www.training.sreda.gov.bd
 www.xi.onlinetc.comillaboard.gov.bd
 www.xii.onlinetc.comillaboard.gov.bd
 www.zprajshahi.gov.bd
