@@ -12,6 +12,8 @@ autodiscover.bangladeshfestival.gov.bd
 autodiscover.caabhc.gov.bd
 autodiscover.railwayestate.gov.bd
 autodiscover.server.melandahbhata.gov.bd
+bandarban.gov.bd
+bangladesh.gov.bd
 bangladeshfestival.gov.bd
 barguna.gov.bd
 barisaldiv.gov.bd
@@ -21,11 +23,13 @@ bhola.gov.bd
 biteshwarup.gov.bd
 bnoip.navy.mil.bd
 bnoip2.navy.mil.bd
+bogra.gov.bd
 brahmanbaria.gov.bd
 bscic-emarket.gov.bd
 center.bise-ctg.gov.bd
 certificate.bise-ctg.gov.bd
 chandpurup.faridpurlg.gov.bd
+chapainawabganj.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
 chuadanga.gov.bd
@@ -67,6 +71,7 @@ feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 fgc.gov.bd
 gattiup.faridpurlg.gov.bd
+gazipur.gov.bd
 gca.bise-ctg.gov.bd
 gca.comillaboard.gov.bd
 gis.bwdb.gov.bd
@@ -74,6 +79,7 @@ godatabangladesh.iedcr.gov.bd
 grp.gov.bd
 hscadmission.comillaboard.gov.bd
 hscprivate.comillaboard.gov.bd
+institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
 inventory.dbwctp64.gov.bd
@@ -133,6 +139,7 @@ pabna.gov.bd
 patgrammunicipality.gov.bd
 patuakhali.gov.bd
 pension.comillaboard.gov.bd
+promise.gov.bd
 qb.comillaboard.gov.bd
 railwayestate.gov.bd
 rajshahiboard.gov.bd
@@ -165,12 +172,14 @@ sso.gca.comillaboard.gov.bd
 startupsummit.gov.bd
 sujanagarmunicipality.gov.bd
 tagarbandaup.faridpurlg.gov.bd
+taxappealctg.gov.bd
 taxcertificate.comillaboard.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
 teachers.gov.bd
 test.bfacf-ticket.gov.bd
 tms.brri.gov.bd
+tourismctg.gov.bd
 training.dghs.gov.bd
 upmymensinghholdingtax.gov.bd
 vehikel.nationalmuseumticket.gov.bd
@@ -225,6 +234,7 @@ www.onlinesonaliacc.comillaboard.gov.bd
 www.onlinetc.comillaboard.gov.bd
 www.patgrammunicipality.gov.bd
 www.pmhsr.edu.bd.gbrcr.gov.bd
+www.portal.taxappealctg.gov.bd
 www.qb.comillaboard.gov.bd
 www.railwayestate.gov.bd
 www.rajshahiboard.gov.bd
