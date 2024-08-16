@@ -11,6 +11,7 @@ assignmentmarks.comillaboard.gov.bd
 autoconfig.server.melandahbhata.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.caabhc.gov.bd
+autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 bandarban.gov.bd
@@ -29,6 +30,7 @@ brahmanbaria.gov.bd
 bscic-emarket.gov.bd
 center.bise-ctg.gov.bd
 certificate.bise-ctg.gov.bd
+chandpur.gov.bd
 chandpurup.faridpurlg.gov.bd
 chapainawabganj.gov.bd
 chittagong.gov.bd
@@ -39,14 +41,17 @@ collegeiif.bise-ctg.gov.bd
 comillaboard.gov.bd
 coxsbazar.gov.bd
 cpanel.bangladeshfestival.gov.bd
+cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.caabhc.gov.bd
+cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.caabhc.gov.bd
+cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 cph.gov.bd
@@ -78,13 +83,16 @@ gca.comillaboard.gov.bd
 gis.bwdb.gov.bd
 godatabangladesh.iedcr.gov.bd
 grp.gov.bd
+hajj.gov.bd
 hscadmission.comillaboard.gov.bd
 hscprivate.comillaboard.gov.bd
+ihtbogura.gov.bd
 institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
 inventory.dbwctp64.gov.bd
 ipv6.server.melandahbhata.gov.bd
+jamalpur.gov.bd
 jessore.gov.bd
 jhalakathi.gov.bd
 jhalokathimunicipality.gov.bd
@@ -93,6 +101,7 @@ jobsbiwta.gov.bd
 joypurhat.gov.bd
 jresult.bise-ctg.gov.bd
 kaichailup.faridpurlg.gov.bd
+kalipouragazi.gov.bd
 khagrachhari.gov.bd
 khulnadiv.gov.bd
 kishoreganj.gov.bd
@@ -109,6 +118,7 @@ mail.institute.comillaboard.gov.bd
 mail.onlinepayment.comillaboard.gov.bd
 mail.onlineschooltc.comillaboard.gov.bd
 mail.onlinetc.comillaboard.gov.bd
+mail.pwdta.gov.bd
 mail.qb.comillaboard.gov.bd
 mail.railwayestate.gov.bd
 mail.server.melandahbhata.gov.bd
@@ -117,11 +127,14 @@ mail.taxcertificate.comillaboard.gov.bd
 mail.zprajshahi.gov.bd
 majcharup.faridpurlg.gov.bd
 manikganj.gov.bd
+mbgc.gov.bd
 meghnacloud.gov.bd
 mehendiganjpourashava.gov.bd
 meherpur.gov.bd
 munshiganj.gov.bd
+mymensingh.gov.bd
 nabiganjpaurashava.gov.bd
+nabinagarpourashava.gov.bd
 nameletter.comillaboard.gov.bd
 naogaon.gov.bd
 narsingdi.gov.bd
@@ -142,6 +155,7 @@ patgrammunicipality.gov.bd
 patuakhali.gov.bd
 pension.comillaboard.gov.bd
 promise.gov.bd
+pwdta.gov.bd
 qb.comillaboard.gov.bd
 railwayestate.gov.bd
 rajshahiboard.gov.bd
@@ -180,6 +194,7 @@ tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
 teachers.gov.bd
 test.bfacf-ticket.gov.bd
+test.dsw.gov.bd
 tms.brri.gov.bd
 tourismctg.gov.bd
 training.dghs.gov.bd
@@ -188,9 +203,11 @@ vehikel.nationalmuseumticket.gov.bd
 web.comillaboard.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.caabhc.gov.bd
+webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.server.melandahbhata.gov.bd
 webmail.bangladeshfestival.gov.bd
+webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
 webmail.server.melandahbhata.gov.bd
 whm.server.melandahbhata.gov.bd
@@ -218,6 +235,7 @@ www.gattiup.faridpurlg.gov.bd
 www.gca.comillaboard.gov.bd
 www.grp.gov.bd
 www.hscadmission.comillaboard.gov.bd
+www.ihtbogura.gov.bd
 www.institute.comillaboard.gov.bd
 www.inventory.dbwctp64.gov.bd
 www.kaichailup.faridpurlg.gov.bd
@@ -238,6 +256,7 @@ www.onlinetc.comillaboard.gov.bd
 www.patgrammunicipality.gov.bd
 www.pmhsr.edu.bd.gbrcr.gov.bd
 www.portal.taxappealctg.gov.bd
+www.pwdta.gov.bd
 www.qb.comillaboard.gov.bd
 www.railwayestate.gov.bd
 www.rajshahiboard.gov.bd
@@ -255,6 +274,7 @@ www.sujanagarmunicipality.gov.bd
 www.tagarbandaup.faridpurlg.gov.bd
 www.taxcertificate.comillaboard.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
+www.test.dsw.gov.bd
 www.training.sreda.gov.bd
 www.xi.onlinetc.comillaboard.gov.bd
 www.xii.onlinetc.comillaboard.gov.bd
