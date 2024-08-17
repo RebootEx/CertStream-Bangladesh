@@ -8,11 +8,13 @@ autodiscover.caabhc.gov.bd
 autodiscover.tscgopal.gov.bd
 autodiscover.ttcraj.gov.bd
 bangladesh.gov.bd
+bc.gov.bd
 belkuchipoura.gov.bd
 biteshwarup.gov.bd
 bscic-emarket.gov.bd
 bsfmstu.gameapp.gov.bd
 bsp.brta.gov.bd
+cafocommerce.gov.bd
 charbisnopurup.faridpurlg.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
@@ -36,6 +38,7 @@ cpcontacts.nins.gov.bd
 cpcontacts.psb.gov.bd
 cpcontacts.tscgopal.gov.bd
 cpcontacts.ttcraj.gov.bd
+cph.gov.bd
 dev-backend.tourismctg.gov.bd
 dev.rgc.gov.bd
 dhaka.gov.bd
@@ -78,6 +81,7 @@ mail.psb.gov.bd
 mail.tscgopal.gov.bd
 mail.ttcraj.gov.bd
 manikganj.gov.bd
+mokamup.gov.bd
 munshiganj.gov.bd
 mymensingh.gov.bd
 nameage.comillaboard.gov.bd
@@ -88,6 +92,7 @@ narayanganj.gov.bd
 narsingdi.gov.bd
 natore.gov.bd
 netrokona.gov.bd
+new.cafomolwa.gov.bd
 new.name.bise-ctg.gov.bd
 nins.gov.bd
 ntrc.gameapp.gov.bd
@@ -111,6 +116,7 @@ shr.mcishr.dghs.gov.bd
 sirajganj.gov.bd
 sjis.dgjute.gov.bd
 smartkrishimarket.gov.bd
+smartschoolbus.gov.bd
 smmamc.gov.bd
 somch.gov.bd
 spi.gov.bd
@@ -154,6 +160,8 @@ www.kaijuriup.faridpurlg.gov.bd
 www.kamarkhaliup.faridpurlg.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
+www.mokamup.gov.bd
+www.new.cafomolwa.gov.bd
 www.nins.gov.bd
 www.ntrc.gameapp.gov.bd
 www.psb.gov.bd
