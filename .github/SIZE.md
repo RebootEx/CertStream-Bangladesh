@@ -2,11 +2,11 @@
 1.3M └─┬ main
 1.3M   ├─┬ Data
 1.3M   │ └─┬ bd_ccTLDs
-516K   │   ├── certstream_domains_bd_all_7days.txt
-504K   │   ├── certstream_domains_bd_all_24h_httpx.txt
-196K   │   ├── certstream_domains_bd_edu_7days.txt
+564K   │   ├── certstream_domains_bd_all_24h_httpx.txt
+524K   │   ├── certstream_domains_bd_all_7days.txt
+200K   │   ├── certstream_domains_bd_edu_7days.txt
  32K   │   ├── certstream_domains_bd_gov_mil_7days.txt
- 12K   │   ├── certstream_domains_bd_all_24h.txt
+ 16K   │   ├── certstream_domains_bd_all_24h.txt
 8.0K   │   ├── certstream_domains_bd_edu_24h.txt
 4.0K   │   ├── certstream_domains_bd_isp_7days.txt
 4.0K   │   ├── certstream_domains_bd_isp_24h.txt
