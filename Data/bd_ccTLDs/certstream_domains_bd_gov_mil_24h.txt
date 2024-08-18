@@ -24,10 +24,12 @@ bsfmstu.gameapp.gov.bd
 bstieapp.gov.bd
 btriapps.gov.bd
 caabhc.gov.bd
+cafocagpscec.gov.bd
 cafocultural.gov.bd
 cafoimed.gov.bd
 cafoparliament.gov.bd
 cafowomenchild.gov.bd
+cafoyouthandsports.gov.bd
 charjahukandaup.faridpurlg.gov.bd
 charnasirpurup.faridpurlg.gov.bd
 cltp.gov.bd
@@ -50,6 +52,7 @@ dev.rgc.gov.bd
 du.gameapp.gov.bd
 edc.srdl.gov.bd
 esifhsc.bise-ctg.gov.bd
+estate.kda.gov.bd
 etender.sylhetboard.gov.bd
 exam.akcc.gov.bd
 fulsutiup.faridpurlg.gov.bd
@@ -73,6 +76,8 @@ korakdi.faridpurlg.gov.bd
 learn.freelancers.gov.bd
 macro.finance.gov.bd
 mail.akkelpurmunicipality.gov.bd
+mail.bsfmstu.gameapp.gov.bd
+mail.du.gameapp.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.jamalpurtsc.gov.bd
 mail.kishoreganjtsc.gov.bd
@@ -102,6 +107,7 @@ ramkantapurup.faridpurlg.gov.bd
 rescrutiny.comillaboard.gov.bd
 rmch.gov.bd
 rrdhs.gov.bd
+senbagmunicipality.gov.bd
 shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
 sheikhrusselgastroliver.gov.bd
@@ -113,7 +119,9 @@ spi.gov.bd
 sreenagarup.munshiganjlg.gov.bd
 sscadmit.bise-ctg.gov.bd
 staging-ekyc.bcc-ca.gov.bd
+startupsummit.gov.bd
 student.cmc.gov.bd
+sunamganjpourashava.gov.bd
 support.pmo.gov.bd
 svrs.bbs.gov.bd
 test.gameapp.gov.bd
@@ -177,6 +185,8 @@ www.jamalpurtsc.gov.bd
 www.kanaipurup.faridpurlg.gov.bd
 www.kishoreganjtsc.gov.bd
 www.korakdi.faridpurlg.gov.bd
+www.mail.bsfmstu.gameapp.gov.bd
+www.mail.du.gameapp.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.mokamup.gov.bd
@@ -195,6 +205,7 @@ www.sheikhrussel.gov.bd
 www.smartteasolutions.btriapps.gov.bd
 www.soft.taxeszoneonedhaka.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
+www.startupsummit.gov.bd
 www.student.cmc.gov.bd
 www.teasoft.btriapps.gov.bd
 www.test.gameapp.gov.bd
@@ -203,3 +214,5 @@ www.ttcraj.gov.bd
 www.uttarchannelup.faridpurlg.gov.bd
 www.visitor.ocei.gov.bd
 www.vwb.melandahbhata.gov.bd
+zpfaridpur.gov.bd
+zpmunshiganj.gov.bd
