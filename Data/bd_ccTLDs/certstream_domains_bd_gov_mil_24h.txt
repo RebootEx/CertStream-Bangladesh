@@ -7,6 +7,7 @@ api.vaxepi.gov.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
 ar.gameapp.gov.bd
+arm.kalirbazarup.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
 autodiscover.rmch.gov.bd
@@ -37,6 +38,7 @@ charjahukandaup.faridpurlg.gov.bd
 charnasirpurup.faridpurlg.gov.bd
 cltp.gov.bd
 complain.ocei.gov.bd
+conference.dghs.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.kishoreganjtsc.gov.bd
@@ -50,9 +52,11 @@ cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
 cpcontacts.rmch.gov.bd
 cpcontacts.ttcraj.gov.bd
+crelic-lged.gov.bd
 dcadhaka.gov.bd
 dev.rgc.gov.bd
 dhamraitsc.gov.bd
+dhis2dev.dghs.gov.bd
 du.gameapp.gov.bd
 edc.srdl.gov.bd
 emrddashboard.gov.bd
