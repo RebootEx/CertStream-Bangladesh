@@ -7,6 +7,7 @@ api-communication.dlrms-stg.land.gov.bd
 api-core.dlrms-stg.land.gov.bd
 api-core.lams-stg.land.gov.bd
 api-utility.dlrms-stg.land.gov.bd
+app.jhalokathimunicipality.gov.bd
 appointment.srngih.gov.bd
 ar.gameapp.gov.bd
 autodiscover.coxsbazaartsc.gov.bd
@@ -14,6 +15,7 @@ autodiscover.keraniganjttc.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
 bakshimulup.gov.bd
+bargunamunicipality.gov.bd
 barisalcity.gov.bd
 barishalcity.gov.bd
 bee.seip-fd.gov.bd
@@ -67,6 +69,7 @@ effhsc21.comillaboard.gov.bd
 ems.fgc.gov.bd
 epicampaign.dghs.gov.bd
 etender.sylhetboard.gov.bd
+faridganjmunicipality.gov.bd
 faridpurlg.gov.bd
 farmbroadcast.gov.bd
 gameapp.gov.bd
@@ -77,12 +80,14 @@ hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 jadunandiup.faridpurlg.gov.bd
 jamalpurtsc.gov.bd
+jhalokathimunicipality.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
 keraniganjttc.gov.bd
 lams-stg.land.gov.bd
 ldtax.gov.bd
 logistics.gov.bd
 mail.a2iservices.gov.bd
+mail.bargunamunicipality.gov.bd
 mail.coxsbazaartsc.gov.bd
 mail.faridpurlg.gov.bd
 mail.jamalpurtsc.gov.bd
@@ -115,6 +120,7 @@ qcb.gov.bd
 ral.brri.gov.bd
 rangamatimunicipality.gov.bd
 result.fgc.gov.bd
+rms.bscl.gov.bd
 sanboard.gov.bd
 scc.gov.bd
 seip-fd.gov.bd
@@ -159,6 +165,7 @@ www.appointment.srngih.gov.bd
 www.ar.gameapp.gov.bd
 www.bakshimulup.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
+www.bargunamunicipality.gov.bd
 www.barisal.barishalcity.gov.bd
 www.bnscp.navy.mil.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
@@ -173,6 +180,7 @@ www.du.gameapp.gov.bd
 www.ems.fgc.gov.bd
 www.etrade.barisalcity.gov.bd
 www.etrade.barishalcity.gov.bd
+www.faridganjmunicipality.gov.bd
 www.faridpurlg.gov.bd
 www.jadunandiup.faridpurlg.gov.bd
 www.jamalpurtsc.gov.bd
