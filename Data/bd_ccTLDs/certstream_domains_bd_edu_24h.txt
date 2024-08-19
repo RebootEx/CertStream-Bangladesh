@@ -13,6 +13,7 @@ admin.primeasia.edu.bd
 admin.skssc.edu.bd
 admission.kist.edu.bd
 aehs.edu.bd
+afdm.edu.bd
 agranhighschool.edu.bd
 ahkdm.edu.bd
 ahs.edu.bd
@@ -129,6 +130,7 @@ bairataladm.edu.bd
 bakhraghs.edu.bd
 baliatiichighschool.edu.bd
 balokdiarhs.edu.bd
+balshidhs.edu.bd
 bamsjhs.edu.bd
 banaichhs.edu.bd
 bangabandhuhs.edu.bd
@@ -202,6 +204,7 @@ burprisths.edu.bd
 bwc.edu.bd
 calabhs.edu.bd
 career.ibmcr.edu.bd
+cbasm.edu.bd
 cbbhsc.edu.bd
 ccc.edu.bd
 cdbgirlshighschool.edu.bd
@@ -209,6 +212,7 @@ cddm.edu.bd
 cfbhighschool.edu.bd
 cghsp.edu.bd
 cgsc.edu.bd
+chairman.trsc.edu.bd
 chalancollege.edu.bd
 chamagramhnhs.edu.bd
 chandigarhighschool.edu.bd
@@ -498,6 +502,7 @@ dhakaorientalcollege.edu.bd
 dhakaoxfordschool.edu.bd
 dhakapublic.edu.bd
 dhalirparhighschool.edu.bd
+dhanpuraphs.edu.bd
 dharmapurhighschool.edu.bd
 dhonparadm.edu.bd
 dighleermdm.edu.bd
@@ -604,6 +609,7 @@ ilim.edu.bd
 imkm.edu.bd
 imperialnursingcollege.edu.bd
 ims.babulcharahs.edu.bd
+iphsc.edu.bd
 ishakpurphs.edu.bd
 isidm.edu.bd
 jadc.edu.bd
@@ -694,6 +700,7 @@ mahmudabadrarhsc.edu.bd
 mail.abdullapursschool.edu.bd
 mail.acps.edu.bd
 mail.acpsc.edu.bd
+mail.afdm.edu.bd
 mail.ahkdm.edu.bd
 mail.ahs.edu.bd
 mail.aisd.edu.bd
@@ -711,6 +718,7 @@ mail.badudm.edu.bd
 mail.bairataladm.edu.bd
 mail.bakhraghs.edu.bd
 mail.baliatiichighschool.edu.bd
+mail.balshidhs.edu.bd
 mail.banaichhs.edu.bd
 mail.baraparaabghs.edu.bd
 mail.bardalhs.edu.bd
@@ -878,6 +886,7 @@ mail.shahidbhs.edu.bd
 mail.shahjalaljameya.edu.bd
 mail.shakpurhs.edu.bd
 mail.shalikhahighschool.edu.bd
+mail.shamhs.edu.bd
 mail.shcpsc.edu.bd
 mail.sheanparadakhilmadrasah.edu.bd
 mail.shhs.edu.bd
@@ -1045,12 +1054,14 @@ rbdm.edu.bd
 rces.edu.bd
 rcpsc.edu.bd
 rdhs.edu.bd
+reliefall.djs.edu.bd
 result-hsc.cust.edu.bd
 rghighschool.edu.bd
 rghighschool.edu.bd.chargobindapur.edu.bd
 rgs.edu.bd
 rhcbmc.edu.bd
 rhrush.edu.bd
+rhsac.edu.bd
 ritraj.edu.bd
 rjddm.edu.bd
 rmdmadrasah.edu.bd
@@ -1090,6 +1101,7 @@ shahjalaljameya.edu.bd
 shailansurmahs.edu.bd
 shakpurhs.edu.bd
 shalikhahighschool.edu.bd
+shamhs.edu.bd
 shcpsc.edu.bd
 sheanparadakhilmadrasah.edu.bd
 shhs.edu.bd
@@ -1322,6 +1334,7 @@ webmail.tmt.edu.bd
 webmail.uttardharmapurhighschool.edu.bd
 webmail.uttarpaduahighschool.edu.bd
 webmail.zagirhighschool.edu.bd
+webportal.ugv.edu.bd
 wksbjgs.edu.bd
 www.aaushs.edu.bd
 www.abdullapursschool.edu.bd
@@ -1332,6 +1345,7 @@ www.acpsc.edu.bd
 www.admin.primeasia.edu.bd
 www.admission.kist.edu.bd
 www.aehs.edu.bd
+www.afdm.edu.bd
 www.ahkdm.edu.bd
 www.ahs.edu.bd
 www.aisd.edu.bd
@@ -1355,6 +1369,7 @@ www.bairataladm.edu.bd
 www.bakhraghs.edu.bd
 www.baliatiichighschool.edu.bd
 www.balokdiarhs.edu.bd
+www.balshidhs.edu.bd
 www.banaichhs.edu.bd
 www.baraparaabghs.edu.bd
 www.bardalhs.edu.bd
@@ -1401,6 +1416,7 @@ www.cddm.edu.bd
 www.cfbhighschool.edu.bd
 www.cghsp.edu.bd
 www.cgsc.edu.bd
+www.chairman.trsc.edu.bd
 www.chandigarhighschool.edu.bd
 www.chandiparaghs.edu.bd
 www.cheaptrip.com.bd.satiacharasnghs.edu.bd
@@ -1424,6 +1440,7 @@ www.demo.maphsctg.edu.bd
 www.demo.recr.edu.bd
 www.dfgsam.edu.bd
 www.dhalirparhighschool.edu.bd
+www.dhanpuraphs.edu.bd
 www.dighleermdm.edu.bd
 www.docs.npscpt.edu.bd
 www.dpaghs.edu.bd
@@ -1592,10 +1609,12 @@ www.ramms.edu.bd
 www.ramnagarhs.edu.bd
 www.rces.edu.bd
 www.rcpsc.edu.bd
+www.reliefall.djs.edu.bd
 www.result-hsc.cust.edu.bd
 www.result.bcps.edu.bd
 www.rghighschool.edu.bd.chargobindapur.edu.bd
 www.rhcbmc.edu.bd
+www.rhsac.edu.bd
 www.rjddm.edu.bd
 www.rnahs.edu.bd
 www.rohitpurhs.edu.bd
@@ -1619,6 +1638,7 @@ www.shahidsmritygirlshighschool.edu.bd
 www.shahjalaljameya.edu.bd
 www.shakpurhs.edu.bd
 www.shalikhahighschool.edu.bd
+www.shamhs.edu.bd
 www.shcpsc.edu.bd
 www.sheanparadakhilmadrasah.edu.bd
 www.shhs.edu.bd
