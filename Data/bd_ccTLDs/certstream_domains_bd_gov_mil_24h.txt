@@ -35,6 +35,7 @@ crelic-lged.gov.bd
 dashboard.iedcr.gov.bd
 dbwctp64.gov.bd
 deraipaurashava.gov.bd
+dhakadiv.gov.bd
 dhis2dev.dghs.gov.bd
 doptor.seip-fd.gov.bd
 doptor.sicip.gov.bd
@@ -49,14 +50,17 @@ gameapp.gov.bd
 gopalganjpoly.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
+jamalpurtsc.gov.bd
 logistics.gov.bd
 mail.a2iservices.gov.bd
 mail.coxsbazaartsc.gov.bd
+mail.jamalpurtsc.gov.bd
 mail.register.gameapp.gov.bd
 mail.ulipurmunicipality.gov.bd
 mail.usc.dghs.gov.bd
 marriage.gov.bd
 mokamup.gov.bd
+netrokonatsc.gov.bd
 news.police.gov.bd
 notarypublic.gov.bd
 ntrc.gameapp.gov.bd
@@ -114,6 +118,7 @@ www.cmmc.gov.bd
 www.coxsbazaartsc.gov.bd
 www.du.gameapp.gov.bd
 www.ems.fgc.gov.bd
+www.jamalpurtsc.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mokamup.gov.bd
 www.ntrc.gameapp.gov.bd
