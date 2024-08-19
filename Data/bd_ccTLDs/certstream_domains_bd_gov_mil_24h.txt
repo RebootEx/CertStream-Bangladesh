@@ -1,5 +1,6 @@
 1ebe3906165e6bbcd44bb69914abc6f1.land.gov.bd
 admin.farmbroadcast.gov.bd
+admin.narsingdilg.gov.bd
 amarai.gameapp.gov.bd
 appointment.srngih.gov.bd
 ar.gameapp.gov.bd
@@ -7,6 +8,7 @@ autodiscover.coxsbazaartsc.gov.bd
 bakshimulup.gov.bd
 bee.seip-fd.gov.bd
 bee.sicip.gov.bd
+betarcommercialservice.gov.bd
 bnscp.navy.mil.bd
 brief.taxeszoneonedhaka.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -16,8 +18,11 @@ caforural.gov.bd
 cafostict.gov.bd
 cafoworks.gov.bd
 chatkhilpourashava.gov.bd
+chittagongzoo.gov.bd
+cltp.gov.bd
 cme.gov.bd
 cmmc.gov.bd
+cmp.bcc.gov.bd
 comch.gov.bd
 coxsbazaartsc.gov.bd
 cpanel.coxsbazaartsc.gov.bd
@@ -39,17 +44,21 @@ effhsc21.comillaboard.gov.bd
 ems.fgc.gov.bd
 epicampaign.dghs.gov.bd
 etender.sylhetboard.gov.bd
+farmbroadcast.gov.bd
 gameapp.gov.bd
 gopalganjpoly.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
+logistics.gov.bd
 mail.a2iservices.gov.bd
 mail.coxsbazaartsc.gov.bd
 mail.register.gameapp.gov.bd
 mail.ulipurmunicipality.gov.bd
+mail.usc.dghs.gov.bd
 marriage.gov.bd
 mokamup.gov.bd
 news.police.gov.bd
+notarypublic.gov.bd
 ntrc.gameapp.gov.bd
 nwpgcl.gov.bd
 old.barishalcity.gov.bd
@@ -82,6 +91,7 @@ test.gameapp.gov.bd
 testimonial.noakhalicoll.gov.bd
 tms.seip-fd.gov.bd
 tms.sicip.gov.bd
+training.ec4j.gov.bd
 tscmeherpur.gov.bd
 ulipurmunicipality.gov.bd
 vr.bangabhaban.gov.bd
@@ -91,6 +101,7 @@ webdisk.coxsbazaartsc.gov.bd
 webdisk.ulipurmunicipality.gov.bd
 webmail.coxsbazaartsc.gov.bd
 www.admin.farmbroadcast.gov.bd
+www.admin.narsingdilg.gov.bd
 www.amarai.gameapp.gov.bd
 www.appointment.srngih.gov.bd
 www.ar.gameapp.gov.bd
@@ -118,4 +129,5 @@ www.software.dbwctp64.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.test.gameapp.gov.bd
 www.testimonial.noakhalicoll.gov.bd
+www.training.ec4j.gov.bd
 www.ulipurmunicipality.gov.bd
