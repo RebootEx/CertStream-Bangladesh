@@ -83,6 +83,7 @@ bcms.gov.bd
 bdhckl.gov.bd
 bdp.gov.bd
 bdrisnotification.dghs.gov.bd
+bee.sicip.gov.bd
 beeer.sreda.gov.bd
 belkuchipoura.gov.bd
 bepza.gov.bd
@@ -290,10 +291,12 @@ din-crms.dinajpurboard.gov.bd
 dinajpurboard.gov.bd
 dis.btrc.gov.bd
 diva.bvc.gov.bd
+doptor.sicip.gov.bd
 dpg.gov.bd
 dshe.gov.bd
 du.gameapp.gov.bd
 durjog.gov.bd
+dwatraining.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ebook.cmmc.gov.bd
@@ -475,6 +478,7 @@ madhukhalipaurashava.gov.bd
 madhukhaliup.faridpurlg.gov.bd
 magura.gov.bd
 magurapaurashava.gov.bd
+mail.a2iservices.gov.bd
 mail.akkelpurmunicipality.gov.bd
 mail.ar.gameapp.gov.bd
 mail.award.gov.bd
@@ -520,6 +524,7 @@ mail.taxcertificate.comillaboard.gov.bd
 mail.taxeszone2.gov.bd
 mail.tscgopal.gov.bd
 mail.ttcraj.gov.bd
+mail.vatdhakawest.gov.bd
 mail.zprajshahi.gov.bd
 majcharup.faridpurlg.gov.bd
 manikganj.gov.bd
@@ -613,8 +618,10 @@ pension.comillaboard.gov.bd
 pfms.brri.gov.bd
 photo.pmo.gov.bd
 pibelearning.gov.bd
+pibstore.gnc.gov.bd
 pirjatrapurup.gov.bd
 play.betarcommercialservice.gov.bd
+pmfellowship.pmo.gov.bd
 pmu2.sskmc.gov.bd
 portal.dppseba.gov.bd
 portal.ekpass.gov.bd
@@ -778,10 +785,12 @@ test.dsw.gov.bd
 test.gameapp.gov.bd
 test.jaldhakamunicipality.gov.bd
 test.jamalpurttc.gov.bd
+testimonial.noakhalicoll.gov.bd
 testing.dope-test.dghs.gov.bd
 testingapp.srngih.gov.bd
 thakurgaonttc.gov.bd
 tms.brri.gov.bd
+tms.sicip.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
 tourismctg.gov.bd
 tphsbagmara.gov.bd
@@ -801,6 +810,7 @@ uppabnaholdingtax.gov.bd
 uttarchannelup.faridpurlg.gov.bd
 uttoradhikar.gov.bd
 vamanager.dghs.gov.bd
+vatdhakawest.gov.bd
 vaxepi.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 verification.dos.gov.bd
@@ -1093,8 +1103,10 @@ www.panchasharup.munshiganjlg.gov.bd
 www.patgrammunicipality.gov.bd
 www.patharghatapourashava.gov.bd
 www.patient-hsms.somch.gov.bd
+www.pibstore.gnc.gov.bd
 www.pirjatrapurup.gov.bd
 www.play.betarcommercialservice.gov.bd
+www.pmfellowship.pmo.gov.bd
 www.pmhsr.edu.bd.gbrcr.gov.bd
 www.pmis.ansarvdpbank.gov.bd
 www.portal.taxappealctg.gov.bd
@@ -1182,6 +1194,7 @@ www.test.dsw.gov.bd
 www.test.gameapp.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.test.omsdebidwar.gov.bd
+www.testimonial.noakhalicoll.gov.bd
 www.testingapp.srngih.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
@@ -1191,6 +1204,7 @@ www.ttcraj.gov.bd
 www.tujerpurup.faridpurlg.gov.bd
 www.ullaparapaurashava.gov.bd
 www.uttarchannelup.faridpurlg.gov.bd
+www.vatdhakawest.gov.bd
 www.vaxepi.gov.bd
 www.visitor.ocei.gov.bd
 www.volunteer.ekshop.gov.bd
