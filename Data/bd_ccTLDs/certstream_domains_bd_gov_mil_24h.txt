@@ -69,6 +69,7 @@ jamalpurtsc.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
 keraniganjttc.gov.bd
 lams-stg.land.gov.bd
+ldtax.gov.bd
 logistics.gov.bd
 mail.a2iservices.gov.bd
 mail.coxsbazaartsc.gov.bd
@@ -79,6 +80,7 @@ mail.ulipurmunicipality.gov.bd
 mail.usc.dghs.gov.bd
 marriage.gov.bd
 medical-info.dghs.gov.bd
+middleware.dghs.gov.bd
 mokamup.gov.bd
 netrokonatsc.gov.bd
 news.police.gov.bd
@@ -111,6 +113,7 @@ sp.sicip.gov.bd
 spisg.gov.bd
 sscadmit.bise-ctg.gov.bd
 staging-ekyc.bcc-ca.gov.bd
+svrs.bbs.gov.bd
 tangerine.dpe.gov.bd
 tarakanda2.upmymensinghholdingtax.gov.bd
 test.gameapp.gov.bd
@@ -148,6 +151,7 @@ www.du.gameapp.gov.bd
 www.ems.fgc.gov.bd
 www.jamalpurtsc.gov.bd
 www.keraniganjttc.gov.bd
+www.ldtax.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mokamup.gov.bd
 www.ntrc.gameapp.gov.bd
