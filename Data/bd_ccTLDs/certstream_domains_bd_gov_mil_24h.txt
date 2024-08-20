@@ -1,3 +1,4 @@
+admin.farmbroadcast.gov.bd
 api-core.dlrms-stg.land.gov.bd
 api.scc.gov.bd
 apps.jamalpurttc.gov.bd
@@ -17,6 +18,9 @@ cpcontacts.keraniganjttc.gov.bd
 dangiup.faridpurlg.gov.bd
 dhakadiv.gov.bd
 dhis2dev.dghs.gov.bd
+effhsc21.comillaboard.gov.bd
+epicampaign.dghs.gov.bd
+financial-assist.dsw.gov.bd
 foreignstudents.dgme.gov.bd
 jahapurup.faridpurlg.gov.bd
 jamalpurttc.gov.bd
@@ -27,6 +31,7 @@ mail.jamalpurttc.gov.bd
 mail.keraniganjttc.gov.bd
 mca.bise-ctg.gov.bd
 nogorapp.scc.gov.bd
+onlinecollegeform.comillaboard.gov.bd
 parameshwardiup.faridpurlg.gov.bd
 rca-lged.gov.bd
 ssnimc.gov.bd
@@ -35,9 +40,11 @@ tradelicence.scc.gov.bd
 water.scc.gov.bd
 webdisk.keraniganjttc.gov.bd
 webmail.keraniganjttc.gov.bd
+www.admin.farmbroadcast.gov.bd
 www.citizen.scc.gov.bd
 www.cpadmin.scc.gov.bd
 www.dangiup.faridpurlg.gov.bd
+www.financial-assist.dsw.gov.bd
 www.jahapurup.faridpurlg.gov.bd
 www.jamalpurttc.gov.bd
 www.keraniganjttc.gov.bd
