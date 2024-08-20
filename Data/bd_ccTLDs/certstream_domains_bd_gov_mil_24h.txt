@@ -1,4 +1,5 @@
 admin.farmbroadcast.gov.bd
+admin.narsingdilg.gov.bd
 amarai.gameapp.gov.bd
 api-core.dlrms-stg.land.gov.bd
 api.scc.gov.bd
@@ -10,15 +11,18 @@ ar.gameapp.gov.bd
 autodiscover.keraniganjttc.gov.bd
 avsec.caab.gov.bd
 backoffice.dlrms-stg.land.gov.bd
+bangabandhushilpanagar.gov.bd
 bdhckl.gov.bd
 bee.seip-fd.gov.bd
 bee.sicip.gov.bd
 beta.nicrh.gov.bd
+betarcommercialservice.gov.bd
 bhangapourashava.gov.bd
 bnscp.navy.mil.bd
 bogurapoly.gov.bd
 boithok.bcc.gov.bd
 bsfmstu.gameapp.gov.bd
+bsmsn.gov.bd
 career.nilmrcbd.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
 chauddagrammunicipality.gov.bd
@@ -59,6 +63,7 @@ epietracker.dghs.gov.bd
 erd.gov.bd
 esmmssadar.gov.bd
 etracker.dghs.gov.bd
+farmbroadcast.gov.bd
 fc.distgopalganj.gov.bd
 financial-assist.dsw.gov.bd
 foreignstudents.dgme.gov.bd
@@ -70,6 +75,7 @@ hossainpurpourashava.gov.bd
 hrm.dghs.gov.bd
 jahapurup.faridpurlg.gov.bd
 jamalpurttc.gov.bd
+jitsi.vc8.bcc.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
 keraniganjttc.gov.bd
 kjml.gov.bd
@@ -82,12 +88,14 @@ mail.jamalpurttc.gov.bd
 mail.keraniganjttc.gov.bd
 marriage.gov.bd
 mca.bise-ctg.gov.bd
+melandahbhata.gov.bd
 muladimunicipality.gov.bd
 nazipurpourashava.gov.bd
 new.bhtpa.gov.bd
 news.police.gov.bd
 nis.cabinet.gov.bd
 nogorapp.scc.gov.bd
+nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
 onlinecollegeform.comillaboard.gov.bd
 onlineschoolform.comillaboard.gov.bd
@@ -114,11 +122,14 @@ taxeszonegazipur.gov.bd
 tdmtraining.finance.gov.bd
 tds.taxeszone9dhaka.gov.bd
 test.gameapp.gov.bd
+test.jamalpurttc.gov.bd
 testimonial.noakhalicoll.gov.bd
 tms.seip-fd.gov.bd
 tms.sicip.gov.bd
 tradelicence.scc.gov.bd
 training.apams.cabinet.gov.bd
+training.ec4j.gov.bd
+turn.vc8.bcc.gov.bd
 ullaparapaurashava.gov.bd
 water.scc.gov.bd
 webdisk.bdhckl.gov.bd
@@ -126,6 +137,7 @@ webdisk.keraniganjttc.gov.bd
 webmail.bdhckl.gov.bd
 webmail.keraniganjttc.gov.bd
 www.admin.farmbroadcast.gov.bd
+www.admin.narsingdilg.gov.bd
 www.amarai.gameapp.gov.bd
 www.appointment.srngih.gov.bd
 www.ar.gameapp.gov.bd
@@ -152,6 +164,7 @@ www.mymail.ssnimc.gov.bd
 www.nazipurpourashava.gov.bd
 www.new.bhtpa.gov.bd
 www.nogorapp.scc.gov.bd
+www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
 www.register.gameapp.gov.bd
@@ -166,5 +179,7 @@ www.tds.taxeszone9dhaka.gov.bd
 www.test.gameapp.gov.bd
 www.testimonial.noakhalicoll.gov.bd
 www.tradelicence.scc.gov.bd
+www.training.ec4j.gov.bd
+www.uacco.melandahbhata.gov.bd
 www.ullaparapaurashava.gov.bd
 www.water.scc.gov.bd
