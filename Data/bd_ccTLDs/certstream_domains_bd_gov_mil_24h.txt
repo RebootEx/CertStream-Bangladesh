@@ -29,8 +29,10 @@ bogurapoly.gov.bd
 boithok.bcc.gov.bd
 bsfmstu.gameapp.gov.bd
 bsmsn.gov.bd
+cafohome.gov.bd
 career.nilmrcbd.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
+cd-devops.lams-stg.land.gov.bd
 chauddagrammunicipality.gov.bd
 chittagongzoo.gov.bd
 citizen.dlrms-stg.land.gov.bd
@@ -85,6 +87,7 @@ jahapurup.faridpurlg.gov.bd
 jamalpurttc.gov.bd
 jitsi.vc8.bcc.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
+k8s-dboard-admin.lams-stg.land.gov.bd
 keraniganjttc.gov.bd
 kjml.gov.bd
 ladhaka.gov.bd
@@ -96,6 +99,8 @@ mail.jamalpurttc.gov.bd
 mail.keraniganjttc.gov.bd
 marriage.gov.bd
 mca.bise-ctg.gov.bd
+mchti.gov.bd
+medical-info.dghs.gov.bd
 melandahbhata.gov.bd
 muladimunicipality.gov.bd
 nazipurpourashava.gov.bd
@@ -135,12 +140,14 @@ tds.taxeszone9dhaka.gov.bd
 test.gameapp.gov.bd
 test.jamalpurttc.gov.bd
 testimonial.noakhalicoll.gov.bd
+testing.dope-test.dghs.gov.bd
 tms.seip-fd.gov.bd
 tms.sicip.gov.bd
 tradelicence.scc.gov.bd
 training.apams.cabinet.gov.bd
 training.ec4j.gov.bd
 turn.vc8.bcc.gov.bd
+ubid.gov.bd
 ullaparapaurashava.gov.bd
 upmymensinghholdingtax.gov.bd
 water.scc.gov.bd
@@ -157,6 +164,7 @@ www.bdhckl.gov.bd
 www.beta.nicrh.gov.bd
 www.bnscp.navy.mil.bd
 www.bsfmstu.gameapp.gov.bd
+www.cafohome.gov.bd
 www.career.nilmrcbd.gov.bd
 www.citizen.scc.gov.bd
 www.comillaregion.highwaypolice.gov.bd
