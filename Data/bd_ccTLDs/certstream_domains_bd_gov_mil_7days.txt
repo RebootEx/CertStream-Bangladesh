@@ -22,6 +22,7 @@ alfadangaup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 ambikapurup.faridpurlg.gov.bd
 amcchuadanga.gov.bd
+amumc.gov.bd
 ansarvdpbank.gov.bd
 apbn.gov.bd
 api-admin.lams-stg.land.gov.bd
@@ -32,6 +33,7 @@ api-utility.dlrms-stg.land.gov.bd
 api.edp.gov.bd
 api.mudp.gov.bd
 api.padmamuseum.gov.bd
+api.scc.gov.bd
 api.vaxepi.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
@@ -128,6 +130,7 @@ cafoforeign.gov.bd
 cafoimed.gov.bd
 cafoindustries.gov.bd
 cafoird.gov.bd
+cafolabour.gov.bd
 cafolgd.gov.bd
 cafomolwa.gov.bd
 cafomopa.gov.bd
@@ -170,6 +173,7 @@ chittagongzoo.gov.bd
 chuadanga.gov.bd
 chumurdiup.faridpurlg.gov.bd
 citizen.dlrms-stg.land.gov.bd
+citizen.scc.gov.bd
 cjmcourtjashore.gov.bd
 cltp.gov.bd
 cme.gov.bd
@@ -188,6 +192,7 @@ covid19pv.dgda.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazaartsc.gov.bd
 coxsbazar.gov.bd
+cpadmin.scc.gov.bd
 cpanel.award.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bepza.gov.bd
@@ -217,6 +222,7 @@ cpanel.server.melandahbhata.gov.bd
 cpanel.tscgopal.gov.bd
 cpanel.ttcraj.gov.bd
 cpanel.ulipurmunicipality.gov.bd
+cpbackend.scc.gov.bd
 cpcalendars.award.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.caabhc.gov.bd
@@ -359,6 +365,7 @@ feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 fgc.gov.bd
 financialinclusion.gov.bd
+foreignstudents.dgme.gov.bd
 fsc.fireservice.gov.bd
 ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
@@ -532,6 +539,7 @@ mail.server.melandahbhata.gov.bd
 mail.sonalipayment.comillaboard.gov.bd
 mail.support.a2i.gov.bd
 mail.taxcertificate.comillaboard.gov.bd
+mail.taxeszone5dhaka.gov.bd
 mail.tscgopal.gov.bd
 mail.ttcraj.gov.bd
 mail.ulipurmunicipality.gov.bd
@@ -544,6 +552,7 @@ manikganj.gov.bd
 marriage.gov.bd
 mazadiaup.faridpurlg.gov.bd
 mbgc.gov.bd
+mca.bise-ctg.gov.bd
 medical-info.dghs.gov.bd
 meeting.sla.gov.bd
 meghnacloud.gov.bd
@@ -594,12 +603,14 @@ nins.gov.bd
 nlas.dls.gov.bd
 nmv.dscc.gov.bd
 noakhalicoll.gov.bd
+nogorapp.scc.gov.bd
 noipunno.gov.bd
 notarypublic.gov.bd
 nowparaup.faridpurlg.gov.bd
 npi.gov.bd
 nrb.scc.gov.bd
 nsdi.gov.bd
+nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
 nvacqr.nnsop.gov.bd
 nwpgcl.gov.bd
@@ -745,6 +756,7 @@ sp.sicip.gov.bd
 spg.comillaboard.gov.bd
 spi.gov.bd
 spisg.gov.bd
+spst.gov.bd
 sreda.gov.bd
 sreenagarup.munshiganjlg.gov.bd
 srishtitetulia.gov.bd
@@ -794,6 +806,7 @@ tarakanda2.upmymensinghholdingtax.gov.bd
 taxappealctg.gov.bd
 taxappealzone4dhaka.gov.bd
 taxcertificate.comillaboard.gov.bd
+taxeszone5dhaka.gov.bd
 taxsurvey.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
@@ -811,6 +824,7 @@ tms.seip-fd.gov.bd
 tms.sicip.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
 tourismctg.gov.bd
+tradelicence.scc.gov.bd
 training-adp.plancomm.gov.bd
 training.dghs.gov.bd
 training.ec4j.gov.bd
@@ -838,6 +852,7 @@ volunteer.ekshop.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vrmanagement.rmp.gov.bd
+water.scc.gov.bd
 web.bise-ctg.gov.bd
 web.comillaboard.gov.bd
 webdisk.award.gov.bd
@@ -975,11 +990,13 @@ www.charmanairup.faridpurlg.gov.bd
 www.charnasirpurup.faridpurlg.gov.bd
 www.chasebah.btriapps.gov.bd
 www.chumurdiup.faridpurlg.gov.bd
+www.citizen.scc.gov.bd
 www.cmmc.gov.bd
 www.comillaboard.gov.bd
 www.comillalg.gov.bd
 www.complain.ocei.gov.bd
 www.coxsbazaartsc.gov.bd
+www.cpadmin.scc.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.cumilla.srdl.gov.bd
 www.dadpurup.faridpurlg.gov.bd
@@ -1105,9 +1122,11 @@ www.new.cafomolwa.gov.bd
 www.new.chauddagramgovcollege.gov.bd
 www.new.rgamc.gov.bd
 www.nins.gov.bd
+www.nogorapp.scc.gov.bd
 www.nowparaup.faridpurlg.gov.bd
 www.npi.gov.bd
 www.nrb.scc.gov.bd
+www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.old.barishalcity.gov.bd
 www.onlineexam.gbrcr.gov.bd
@@ -1196,6 +1215,7 @@ www.tagarbandaup.faridpurlg.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.taxcertificate.comillaboard.gov.bd
+www.taxeszone5dhaka.gov.bd
 www.taxsurvey.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
 www.teasoft.btriapps.gov.bd
@@ -1206,11 +1226,13 @@ www.test.omsdebidwar.gov.bd
 www.testimonial.noakhalicoll.gov.bd
 www.testingapp.srngih.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
+www.tradelicence.scc.gov.bd
 www.training.ec4j.gov.bd
 www.training.sreda.gov.bd
 www.tscgopal.gov.bd
 www.ttcraj.gov.bd
 www.tujerpurup.faridpurlg.gov.bd
+www.uacco.melandahbhata.gov.bd
 www.ulipurmunicipality.gov.bd
 www.uttarchannelup.faridpurlg.gov.bd
 www.vatdhakawest.gov.bd
@@ -1219,6 +1241,7 @@ www.verification.dos.gov.bd
 www.visitor.ocei.gov.bd
 www.volunteer.ekshop.gov.bd
 www.vwb.melandahbhata.gov.bd
+www.water.scc.gov.bd
 www.xi.onlinetc.comillaboard.gov.bd
 www.xii.onlinetc.comillaboard.gov.bd
 www.zprajshahi.gov.bd
