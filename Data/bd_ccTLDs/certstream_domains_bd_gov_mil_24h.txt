@@ -19,6 +19,7 @@ avsec.caab.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
 bangabandhushilpanagar.gov.bd
+bankposting.ncc.gov.bd
 bcc.gov.bd
 bdhckl.gov.bd
 bee.seip-fd.gov.bd
@@ -39,17 +40,21 @@ cd-devops.lams-stg.land.gov.bd
 chauddagrammunicipality.gov.bd
 chittagongzoo.gov.bd
 citizen.dlrms-stg.land.gov.bd
+citizen.ncc.gov.bd
 citizen.scc.gov.bd
 cmch.gov.bd
 cme.gov.bd
 cmp.bcc.gov.bd
 comillaregion.highwaypolice.gov.bd
 conference.dghs.gov.bd
+corona.gov.bd
+cpadmin.ncc.gov.bd
 cpadmin.scc.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.keraniganjttc.gov.bd
 cpanel.kmch.gov.bd
+cpbackend.ncc.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bdhckl.gov.bd
 cpcalendars.bpemc.gov.bd
@@ -90,6 +95,7 @@ fima.gov.bd
 financial-assist.dsw.gov.bd
 foreignstudents.dgme.gov.bd
 gazette.railwayestate.gov.bd
+gobindagonjpourashava.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
 highwaypolice.gov.bd
@@ -100,6 +106,7 @@ jamalpurttc.gov.bd
 jitsi.vc8.bcc.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
+kaliakairpourashava.gov.bd
 keraniganjttc.gov.bd
 kjml.gov.bd
 kmch.gov.bd
@@ -131,6 +138,7 @@ onlinecollegeform.comillaboard.gov.bd
 onlineschoolform.comillaboard.gov.bd
 outsp.kmch.gov.bd
 parameshwardiup.faridpurlg.gov.bd
+pmfellowship.pmo.gov.bd
 postalacademy.gov.bd
 rca-lged.gov.bd
 register.gameapp.gov.bd
@@ -142,10 +150,12 @@ rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
 rpclorg2.bpemc.gov.bd
 satkhiratsc.gov.bd
+secpass.gov.bd
 seip-fd.gov.bd
 shariatpurmunicipality.gov.bd
 sicip.gov.bd
 smartup.narsingdilg.gov.bd
+sonod.ncc.gov.bd
 sp.seip-fd.gov.bd
 sp.sicip.gov.bd
 spisg.gov.bd
@@ -186,6 +196,7 @@ www.appointment.srngih.gov.bd
 www.ar.gameapp.gov.bd
 www.backup.fima.gov.bd
 www.ban-fima-web.fima.gov.bd
+www.bankposting.ncc.gov.bd
 www.bdhckl.gov.bd
 www.beta.nicrh.gov.bd
 www.bnscp.navy.mil.bd
@@ -193,10 +204,13 @@ www.bpemc.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cafohome.gov.bd
 www.career.nilmrcbd.gov.bd
+www.citizen.ncc.gov.bd
 www.citizen.scc.gov.bd
 www.comillaregion.highwaypolice.gov.bd
 www.course.fima.gov.bd
+www.cpadmin.ncc.gov.bd
 www.cpadmin.scc.gov.bd
+www.cpbackend.ncc.gov.bd
 www.dangiup.faridpurlg.gov.bd
 www.demo.railwayestate.gov.bd
 www.dev.knsikhagrachari.gov.bd
@@ -223,6 +237,7 @@ www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.outsp.kmch.gov.bd
 www.parameshwardiup.faridpurlg.gov.bd
+www.pmfellowship.pmo.gov.bd
 www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
 www.result.fci.gov.bd
@@ -233,6 +248,7 @@ www.rpclorg2.bpemc.gov.bd
 www.seip-fd.gov.bd
 www.sicip.gov.bd
 www.smartup.narsingdilg.gov.bd
+www.sonod.ncc.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.tds.taxeszone9dhaka.gov.bd
