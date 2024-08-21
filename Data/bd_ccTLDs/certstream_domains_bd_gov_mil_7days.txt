@@ -35,6 +35,7 @@ app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
 app.zprajshahi.gov.bd
+application.pmo.gov.bd
 appointment.bdhckl.gov.bd
 appointment.srngih.gov.bd
 appp.zprajshahi.gov.bd
@@ -397,6 +398,7 @@ gis.bwdb.gov.bd
 git.git.salepropos.sskmc.gov.bd
 git.salepropos.sskmc.gov.bd
 git.webmail.sskmc.gov.bd
+globe.dhamraimunicipality.gov.bd
 gmhs.gov.bd
 gobindagonjpourashava.gov.bd
 godagaricollege.gov.bd
@@ -1045,6 +1047,7 @@ www.gattiup.faridpurlg.gov.bd
 www.gazette.railwayestate.gov.bd
 www.gca.comillaboard.gov.bd
 www.ghoshpurup.faridpurlg.gov.bd
+www.globe.dhamraimunicipality.gov.bd
 www.gmhs.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.group.ansarvdpbank.gov.bd
