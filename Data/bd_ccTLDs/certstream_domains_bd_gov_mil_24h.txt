@@ -2,6 +2,7 @@ aaic.gov.bd
 admin.bmd.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
 application.pmo.gov.bd
+ara-bd.org.zpkhulna.gov.bd
 bankposting.ncc.gov.bd
 bhangapourashava.gov.bd
 bogurapoly.gov.bd
@@ -13,6 +14,7 @@ cbs.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
 chauddagrammunicipality.gov.bd
 citizen.ncc.gov.bd
+corona.gov.bd
 cpadmin.ncc.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.rgccr.gov.bd
@@ -27,6 +29,7 @@ docker-image-registry.dlrms-stg.land.gov.bd
 docker-image-registry.lams-stg.land.gov.bd
 dtesylhet.gov.bd
 ecertificate.sreda.gov.bd
+elmis.dgfp.gov.bd
 epassport1.bpodms.gov.bd
 esmmssadar.gov.bd
 financial-assist.dsw.gov.bd
@@ -35,6 +38,7 @@ globe.dhamraimunicipality.gov.bd
 highwaypolice.gov.bd
 hossainpurpourashava.gov.bd
 ihtdhaka.gov.bd
+ir.brri.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
 kakni.upmymensinghholdingtax.gov.bd
 kjml.gov.bd
@@ -51,6 +55,7 @@ synotecagrovet.com.melandahbhata.gov.bd
 szmc.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszonegazipur.gov.bd
+taxzone21dhaka.gov.bd
 titumircollege.gov.bd
 training.apams.cabinet.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
@@ -60,6 +65,7 @@ webdisk.ihtdhaka.gov.bd
 webdisk.rgccr.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.rgccr.gov.bd
+www.ara-bd.org.zpkhulna.gov.bd
 www.bankposting.ncc.gov.bd
 www.citizen.ncc.gov.bd
 www.cpadmin.ncc.gov.bd
@@ -75,6 +81,8 @@ www.rgccr.gov.bd
 www.smartup.narsingdilg.gov.bd
 www.sonod.ncc.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
+www.taxzone21dhaka.gov.bd
 www.uacco.melandahbhata.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
+zpdhaka.gov.bd
 zppatuakhali.gov.bd
