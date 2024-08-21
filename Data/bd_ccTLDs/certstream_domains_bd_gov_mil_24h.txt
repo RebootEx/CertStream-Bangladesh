@@ -33,6 +33,7 @@ cpcalendars.rgccr.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.rgccr.gov.bd
 dashboard.gov.bd
+dhakala.gov.bd
 dmpi.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
 docker-image-registry.lams-stg.land.gov.bd
@@ -48,6 +49,7 @@ ftp.emergencynutrition.gov.bd
 futurenation.gov.bd
 gis.srdi.gov.bd
 globe.dhamraimunicipality.gov.bd
+herpower.gov.bd
 highwaypolice.gov.bd
 himb.bwdb.gov.bd
 hossainpurpourashava.gov.bd
@@ -63,6 +65,7 @@ mail.emergencynutrition.gov.bd
 mail.ihtdhaka.gov.bd
 mail.regionalwildlife.gov.bd
 mail.rgccr.gov.bd
+majidpurup.gov.bd
 mchti.gov.bd
 melandahbhata.gov.bd
 mohanganjpaurashava.gov.bd
@@ -85,9 +88,11 @@ szmc.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszonegazipur.gov.bd
 taxzone21dhaka.gov.bd
+test.jamalpurttc.gov.bd
 titumircollege.gov.bd
 tphsbagmara.gov.bd
 training.apams.cabinet.gov.bd
+training.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
 ubid.gov.bd
 unofulbari.certificatefuldin.gov.bd
@@ -107,8 +112,10 @@ www.ecertificate.sreda.gov.bd
 www.emergencynutrition.gov.bd
 www.financial-assist.dsw.gov.bd
 www.globe.dhamraimunicipality.gov.bd
+www.herpower.gov.bd
 www.ihtdhaka.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
+www.majidpurup.gov.bd
 www.notice.bavs.gov.bd
 www.nshd.sreda.gov.bd
 www.pirjatrapurup.gov.bd
@@ -119,6 +126,7 @@ www.sonod.ncc.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
 www.taxzone21dhaka.gov.bd
 www.tphsbagmara.gov.bd
+www.training.gov.bd
 www.uacco.melandahbhata.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
 zpdhaka.gov.bd
