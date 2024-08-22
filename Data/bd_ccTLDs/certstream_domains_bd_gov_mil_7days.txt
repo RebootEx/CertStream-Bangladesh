@@ -34,9 +34,11 @@ app.bdhckl.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
 app.patgrammunicipality.gov.bd
+app.zprajshahi.gov.bd
 application.pmo.gov.bd
 appointment.bdhckl.gov.bd
 appointment.srngih.gov.bd
+appp.zprajshahi.gov.bd
 apps.jamalpurttc.gov.bd
 ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
@@ -302,6 +304,7 @@ dhamraitsc.gov.bd
 dhaukhaliup.faridpurlg.gov.bd
 dhis2dev.dghs.gov.bd
 diagnostic.rmch.gov.bd
+digitalhaat.gov.bd
 din-crms.dinajpurboard.gov.bd
 dinajpurboard.gov.bd
 dis.btrc.gov.bd
@@ -410,6 +413,7 @@ ihtdhaka.gov.bd
 immi.gov.bd
 ims.ocei.gov.bd
 info.shr.dghs.gov.bd
+inout.gso.gov.bd
 institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
@@ -602,6 +606,7 @@ nvacqr.nnsop.gov.bd
 nwpgcl.gov.bd
 old.barishalcity.gov.bd
 old.gzmcfeni.gov.bd
+omsdebidwar.gov.bd
 onlineapp.comillaboard.gov.bd
 onlinecollegeform.comillaboard.gov.bd
 onlineexam.gbrcr.gov.bd
@@ -891,7 +896,9 @@ www.ambikapurup.faridpurlg.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.apbn.gov.bd
 www.api.edp.gov.bd
+www.app.zprajshahi.gov.bd
 www.appointment.srngih.gov.bd
+www.appp.zprajshahi.gov.bd
 www.ar.gameapp.gov.bd
 www.ara-bd.org.zpkhulna.gov.bd
 www.arparaup.faridpurlg.gov.bd
@@ -1176,6 +1183,7 @@ www.teasoft.btriapps.gov.bd
 www.test.dsw.gov.bd
 www.test.gameapp.gov.bd
 www.test.jamalpurttc.gov.bd
+www.test.omsdebidwar.gov.bd
 www.testimonial.noakhalicoll.gov.bd
 www.topinfomat.com.kabinazrulcollege.gov.bd
 www.tphsbagmara.gov.bd
