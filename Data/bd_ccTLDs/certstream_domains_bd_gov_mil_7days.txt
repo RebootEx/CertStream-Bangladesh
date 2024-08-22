@@ -64,6 +64,7 @@ autodiscover.rmch.gov.bd
 autodiscover.server.melandahbhata.gov.bd
 autodiscover.tscgopal.gov.bd
 autodiscover.ttcraj.gov.bd
+aviation.bmd.gov.bd
 avsec.caab.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
@@ -141,10 +142,12 @@ cafostict.gov.bd
 cafowomenchild.gov.bd
 cafoworks.gov.bd
 cafoyouthandsports.gov.bd
+cao.gov.bd
 career.nilmrcbd.gov.bd
 case-moef.gov.bd
 case.gov.bd
 cbs.gov.bd
+ccapkhulna.gov.bd
 ccms.gov.bd
 ccpc4teens.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
@@ -754,6 +757,7 @@ sscadmitcard.comillaboard.gov.bd
 ssnimc.gov.bd
 sso.gca.comillaboard.gov.bd
 staging-ekyc.bcc-ca.gov.bd
+starceramics.kabinazrulcollege.gov.bd
 startupsummit.gov.bd
 storein.gnc.gov.bd
 student.cmc.gov.bd
@@ -887,6 +891,7 @@ whm.server.melandahbhata.gov.bd
 www.2020-21.onlinetc.comillaboard.gov.bd
 www.adgfinance.gov.bd
 www.adharaup.munshiganjlg.gov.bd
+www.admin-server.rpi.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.admin.narsingdilg.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
@@ -933,6 +938,7 @@ www.bsp.brta.gov.bd
 www.buraichup.faridpurlg.gov.bd
 www.caabhc.gov.bd
 www.cafohome.gov.bd
+www.cao.gov.bd
 www.career.nilmrcbd.gov.bd
 www.case-moef.gov.bd
 www.ccms.gov.bd
@@ -1165,6 +1171,7 @@ www.spg.comillaboard.gov.bd
 www.sreenagarup.munshiganjlg.gov.bd
 www.sscadmitcard.comillaboard.gov.bd
 www.sso.gca.comillaboard.gov.bd
+www.starceramics.kabinazrulcollege.gov.bd
 www.startupsummit.gov.bd
 www.storein.gnc.gov.bd
 www.student.cmc.gov.bd
