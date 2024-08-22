@@ -3,11 +3,13 @@ application.pmo.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 cafocat.gov.bd
 cao.gov.bd
+ccapkhulna.gov.bd
 cmp.gov.bd
 communitydhis.mohfw.gov.bd
 cpanel.kmpi.gov.bd
 cpcalendars.kmpi.gov.bd
 cpcontacts.kmpi.gov.bd
+dmp.gov.bd
 elmis.dgfp.gov.bd
 emergencynutrition.gov.bd
 ftp.emergencynutrition.gov.bd
@@ -21,6 +23,7 @@ mail.emergencynutrition.gov.bd
 mail.kmpi.gov.bd
 majidpurup.gov.bd
 nsdi.gov.bd
+old.gzmcfeni.gov.bd
 pop.emergencynutrition.gov.bd
 rgamc.gov.bd
 schoolform.bise-ctg.gov.bd
@@ -29,11 +32,13 @@ smart.dncc.gov.bd
 smartup.comillalg.gov.bd
 smtp.emergencynutrition.gov.bd
 taxzone21dhaka.gov.bd
+verification.dos.gov.bd
 webdisk.kmpi.gov.bd
 webmail.kmpi.gov.bd
 www.abc.dsw.gov.bd
 www.ara-bd.org.zpkhulna.gov.bd
 www.cao.gov.bd
+www.dmp.gov.bd
 www.emergencynutrition.gov.bd
 www.globe.com.ph.dhamraimunicipality.gov.bd
 www.herpower.gov.bd
@@ -41,4 +46,5 @@ www.ilab.gov.bd
 www.immi.gov.bd
 www.kmpi.gov.bd
 www.majidpurup.gov.bd
+www.old.gzmcfeni.gov.bd
 www.taxzone21dhaka.gov.bd
