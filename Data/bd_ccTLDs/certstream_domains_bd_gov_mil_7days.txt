@@ -15,6 +15,7 @@ adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
+akotercharup.faridpurlg.gov.bd
 alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
@@ -157,6 +158,7 @@ certificate.bise-ctg.gov.bd
 chakariamunicipality.gov.bd
 chandpur.gov.bd
 chandpurup.faridpurlg.gov.bd
+chandraup.faridpurlg.gov.bd
 chapainawabganj.gov.bd
 chapaipoura.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
@@ -314,6 +316,7 @@ dis.btrc.gov.bd
 diva.bvc.gov.bd
 dlrms-stg.land.gov.bd
 dmbogura.gov.bd
+dmp.gov.bd
 dmpi.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
 docker-image-registry.lams-stg.land.gov.bd
@@ -334,6 +337,7 @@ effhsc.bise-ctg.gov.bd
 effhsc21.comillaboard.gov.bd
 effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
+ekhotiancoxsbazarsadar.gov.bd
 ekpass.gov.bd
 elearning.ec4j.gov.bd
 elmis.dgfp.gov.bd
@@ -556,6 +560,8 @@ meherpur.gov.bd
 melandahbhata.gov.bd
 middleware.dghs.gov.bd
 mis.iresppw-brdb.gov.bd
+mkgwclal.gov.bd
+mkgwclal.gov.bd.gbrcr.gov.bd
 mohanganjpaurashava.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
@@ -894,6 +900,7 @@ www.adharaup.munshiganjlg.gov.bd
 www.admin-server.rpi.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.admin.narsingdilg.gov.bd
+www.akotercharup.faridpurlg.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
@@ -945,6 +952,7 @@ www.ccms.gov.bd
 www.center.dbwctp64.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.chandpurup.faridpurlg.gov.bd
+www.chandraup.faridpurlg.gov.bd
 www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
 www.charharirampurup.faridpurlg.gov.bd
@@ -978,6 +986,7 @@ www.diagnostic.rmch.gov.bd
 www.dids.btriapps.gov.bd
 www.diva.bvc.gov.bd
 www.dividend.ansarvdpbank.gov.bd
+www.dmp.gov.bd
 www.documents.ansarvdpbank.gov.bd
 www.du.gameapp.gov.bd
 www.eappeal.taxappealctg.gov.bd
@@ -1068,6 +1077,7 @@ www.meghnacloud.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.mis.iresppw-brdb.gov.bd
+www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mokamup.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.moynaup.faridpurlg.gov.bd
