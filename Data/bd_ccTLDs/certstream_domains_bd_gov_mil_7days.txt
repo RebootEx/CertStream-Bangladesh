@@ -16,6 +16,7 @@ adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
 aipmes.moind.gov.bd
+akkelpurmunicipality.gov.bd
 akotercharup.faridpurlg.gov.bd
 alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
@@ -24,6 +25,7 @@ ambikapurup.faridpurlg.gov.bd
 ams.moind.gov.bd
 amumc.gov.bd
 ansarvdpbank.gov.bd
+apams.cabinet.gov.bd
 apbn.gov.bd
 api-admin.lams-stg.land.gov.bd
 api-communication.dlrms-stg.land.gov.bd
@@ -36,6 +38,7 @@ api.vaxepi.gov.bd
 app.bdhckl.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.latc.gov.bd
+app.monglaportmunicipality.gov.bd
 app.patgrammunicipality.gov.bd
 app.zprajshahi.gov.bd
 application.pmo.gov.bd
@@ -49,6 +52,7 @@ ara-bd.org.zpkhulna.gov.bd
 arm.kalirbazarup.gov.bd
 assignmentmarks.comillaboard.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
+autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.bpemc.gov.bd
 autodiscover.caabhc.gov.bd
@@ -66,9 +70,11 @@ autodiscover.tscgopal.gov.bd
 autodiscover.ttcraj.gov.bd
 aviation.bmd.gov.bd
 avsec.caab.gov.bd
+award.moysports.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
+bakshiganjpourashava.gov.bd
 bakshimulup.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bangabandhushilpanagar.gov.bd
@@ -197,6 +203,7 @@ coxsbazaartsc.gov.bd
 coxsbazar.gov.bd
 cpadmin.ncc.gov.bd
 cpadmin.scc.gov.bd
+cpanel.bakshiganjpourashava.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bpemc.gov.bd
@@ -228,6 +235,7 @@ cpanel.ttcraj.gov.bd
 cpanel.ulipurmunicipality.gov.bd
 cpbackend.ncc.gov.bd
 cpbackend.scc.gov.bd
+cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bdhckl.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.caabhc.gov.bd
@@ -255,6 +263,7 @@ cpcalendars.sarkaribanglacollege.gov.bd
 cpcalendars.tscgopal.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcalendars.ulipurmunicipality.gov.bd
+cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bdhckl.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.caabhc.gov.bd
@@ -303,6 +312,7 @@ dev.rgc.gov.bd
 dhaka.gov.bd
 dhakadiv.gov.bd
 dhakala.gov.bd
+dhakua.upmymensinghholdingtax.gov.bd
 dhamraitsc.gov.bd
 dhaukhaliup.faridpurlg.gov.bd
 dhis2dev.dghs.gov.bd
@@ -319,6 +329,7 @@ docker-image-registry.lams-stg.land.gov.bd
 doptor.seip-fd.gov.bd
 doptor.sicip.gov.bd
 dsw.gov.bd
+dtemymensingh.gov.bd
 dtesylhet.gov.bd
 du.gameapp.gov.bd
 durjog.gov.bd
@@ -362,6 +373,7 @@ etender.sylhetboard.gov.bd
 etracker.dghs.gov.bd
 everify.comillaboard.gov.bd
 exam.akcc.gov.bd
+familycard.gov.bd
 faridganjmunicipality.gov.bd
 faridpurlg.gov.bd
 farmbroadcast.gov.bd
@@ -408,6 +420,7 @@ himb.bwdb.gov.bd
 hmis.dghs.gov.bd
 hossainpurpourashava.gov.bd
 hp.habiganjpourashava.gov.bd
+hpmdashboard.dghs.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 hrmddco.gov.bd
@@ -481,6 +494,7 @@ kranti.bamis.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
 kushtia.gov.bd
+la.ictbdiasms.gov.bd
 ladhaka.gov.bd
 lakshmipur.gov.bd
 lams-stg.land.gov.bd
@@ -498,6 +512,7 @@ madhukhaliup.faridpurlg.gov.bd
 magurapaurashava.gov.bd
 mail.a2iservices.gov.bd
 mail.akkelpurmunicipality.gov.bd
+mail.bakshiganjpourashava.gov.bd
 mail.bargunamunicipality.gov.bd
 mail.bdhckl.gov.bd
 mail.bpemc.gov.bd
@@ -705,6 +720,7 @@ satkhiratsc.gov.bd
 savarmunicipality.gov.bd
 scc.gov.bd
 schedule.brri.gov.bd
+scholarship.dsw.gov.bd
 schoolform.bise-ctg.gov.bd
 sdg.gov.bd
 secpass.gov.bd
@@ -714,6 +730,7 @@ sells.mushroomproject.gov.bd
 senbagmunicipality.gov.bd
 server.hossainpurpourashava.gov.bd
 sfcnavy.gov.bd
+sgc.gov.bd
 shariatpur.gov.bd
 shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
@@ -815,6 +832,7 @@ titumircollege.gov.bd
 tms.seip-fd.gov.bd
 tms.sicip.gov.bd
 topinfomat.com.kabinazrulcollege.gov.bd
+torjoni.gov.bd
 tourismctg.gov.bd
 tphsbagmara.gov.bd
 tradelicence.scc.gov.bd
@@ -852,6 +870,7 @@ water.scc.gov.bd
 web.bise-ctg.gov.bd
 web.comillaboard.gov.bd
 web.pgcb.gov.bd
+webdisk.bakshiganjpourashava.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.bepza.gov.bd
 webdisk.bpemc.gov.bd
@@ -882,6 +901,7 @@ webdisk.tscgopal.gov.bd
 webdisk.ttcraj.gov.bd
 webdisk.ulipurmunicipality.gov.bd
 webmail.akkelpurmunicipality.gov.bd
+webmail.bakshiganjpourashava.gov.bd
 webmail.bdhckl.gov.bd
 webmail.bpemc.gov.bd
 webmail.caabhc.gov.bd
@@ -918,6 +938,7 @@ www.admin-server.rpi.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.admin.hossainpurpourashava.gov.bd
 www.admin.narsingdilg.gov.bd
+www.akkelpurmunicipality.gov.bd
 www.akotercharup.faridpurlg.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.aliabadup.faridpurlg.gov.bd
@@ -934,6 +955,7 @@ www.artistdb.bsa.gov.bd
 www.assignmentmarks.comillaboard.gov.bd
 www.backup.fima.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
+www.bakshiganjpourashava.gov.bd
 www.bakshimulup.gov.bd
 www.balikha.upmymensinghholdingtax.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
@@ -1000,6 +1022,7 @@ www.demo.rmch.gov.bd
 www.dept.titumircollege.gov.bd
 www.dev.knsikhagrachari.gov.bd
 www.dev.rgc.gov.bd
+www.dhakua.upmymensinghholdingtax.gov.bd
 www.dhaukhaliup.faridpurlg.gov.bd
 www.dhobaura.upmymensinghholdingtax.gov.bd
 www.diagnostic.rmch.gov.bd
@@ -1082,6 +1105,7 @@ www.korakdi.faridpurlg.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.kranti.bamis.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
+www.la.ictbdiasms.gov.bd
 www.ldtax.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
@@ -1165,6 +1189,7 @@ www.sadarpurup.faridpurlg.gov.bd
 www.sarkaribanglacollege.gov.bd
 www.savarmunicipality.gov.bd
 www.sbobet.secretariatclinic.gov.bd
+www.scholarship.dsw.gov.bd
 www.seip-fd.gov.bd
 www.sells.mushroomproject.gov.bd
 www.server.hossainpurpourashava.gov.bd
