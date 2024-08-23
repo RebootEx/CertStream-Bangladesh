@@ -15,11 +15,13 @@ adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
+aipmes.moind.gov.bd
 akotercharup.faridpurlg.gov.bd
 alfadangaup.faridpurlg.gov.bd
 aliabadup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 ambikapurup.faridpurlg.gov.bd
+ams.moind.gov.bd
 amumc.gov.bd
 ansarvdpbank.gov.bd
 apbn.gov.bd
@@ -51,6 +53,7 @@ atgharup.faridpurlg.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autoconfig.server.melandahbhata.gov.bd
 autodiscover.bangladeshfestival.gov.bd
+autodiscover.bepza.gov.bd
 autodiscover.bpemc.gov.bd
 autodiscover.caabhc.gov.bd
 autodiscover.coxsbazaartsc.gov.bd
@@ -95,6 +98,7 @@ bee.seip-fd.gov.bd
 bee.sicip.gov.bd
 beeer.sreda.gov.bd
 belkuchipoura.gov.bd
+bepza.gov.bd
 beta.nicrh.gov.bd
 betagimunicipality.gov.bd
 betarcommercialservice.gov.bd
@@ -203,6 +207,7 @@ cpadmin.ncc.gov.bd
 cpadmin.scc.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bdhckl.gov.bd
+cpanel.bepza.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.coxsbazaartsc.gov.bd
@@ -406,6 +411,7 @@ gopalpurup.faridpurlg.gov.bd
 grp.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
+gsfy.brri.gov.bd
 gurudaspurpourosava.gov.bd
 habiganjpourashava.gov.bd
 hajj.gov.bd
@@ -425,12 +431,14 @@ ihtbogura.gov.bd
 ihtdhaka.gov.bd
 immi.gov.bd
 ims.ocei.gov.bd
+indoortracker.mohfw.gov.bd
 info.shr.dghs.gov.bd
 inout.gso.gov.bd
 institute.bise-ctg.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
 inventory.dbwctp64.gov.bd
+inventory.moind.gov.bd
 ipv6.server.melandahbhata.gov.bd
 ir.brri.gov.bd
 iresppw-brdb.gov.bd
@@ -450,6 +458,7 @@ jitsi.vc8.bcc.gov.bd
 job.shmrmi.gov.bd
 jobportal.shmrmi.gov.bd
 jobsbiwta.gov.bd
+josherup.narsingdilg.gov.bd
 journal.bcsadminacademy.gov.bd
 joypurhat.gov.bd
 jresult.bise-ctg.gov.bd
@@ -652,6 +661,7 @@ pension.comillaboard.gov.bd
 pfms.brri.gov.bd
 pibstore.gnc.gov.bd
 pirjatrapurup.gov.bd
+pmes.moind.gov.bd
 pmfellowship.pmo.gov.bd
 pop.emergencynutrition.gov.bd
 portal.munshiganjtsc.gov.bd
@@ -715,6 +725,7 @@ sathi.gov.bd
 satkhira.gov.bd
 satkhiratsc.gov.bd
 scc.gov.bd
+schedule.brri.gov.bd
 schoolform.bise-ctg.gov.bd
 sdg.gov.bd
 secpass.gov.bd
@@ -817,6 +828,7 @@ training.dghs.gov.bd
 training.ec4j.gov.bd
 training.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
+trainingnis.cabinet.gov.bd
 tscgopal.gov.bd
 tscmeherpur.gov.bd
 ttcraj.gov.bd
@@ -845,8 +857,10 @@ vrmanagement.rmp.gov.bd
 water.scc.gov.bd
 web.bise-ctg.gov.bd
 web.comillaboard.gov.bd
+web.pgcb.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bdhckl.gov.bd
+webdisk.bepza.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.caabhc.gov.bd
 webdisk.coxsbazaartsc.gov.bd
@@ -938,6 +952,7 @@ www.bargunamunicipality.gov.bd
 www.barisal.barishalcity.gov.bd
 www.bdhckl.gov.bd
 www.beeer.sreda.gov.bd
+www.bepza.gov.bd
 www.beta.nicrh.gov.bd
 www.bhawalup.faridpurlg.gov.bd
 www.biteshwarup.gov.bd
@@ -1054,6 +1069,7 @@ www.jadunandiup.faridpurlg.gov.bd
 www.jahapurup.faridpurlg.gov.bd
 www.jamalpurtsc.gov.bd
 www.jamalpurttc.gov.bd
+www.josherup.narsingdilg.gov.bd
 www.kaichailup.faridpurlg.gov.bd
 www.kaijuriup.faridpurlg.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
