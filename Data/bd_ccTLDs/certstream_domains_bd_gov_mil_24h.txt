@@ -41,18 +41,21 @@ cpanel.bakshiganjpourashava.gov.bd
 cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
 cpanel.debendracollege.gov.bd
+cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.tangailtsc.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
 cpcalendars.debendracollege.gov.bd
+cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.tangailtsc.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
 cpcontacts.debendracollege.gov.bd
+cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.tangailtsc.gov.bd
 dashboard.otms.nass.gov.bd
@@ -72,6 +75,7 @@ gaznaup.faridpurlg.gov.bd
 gdc.gov.bd
 gharuaup.faridpurlg.gov.bd
 ghoraghatmunicipality.gov.bd
+herpower.gov.bd
 hp.habiganjpourashava.gov.bd
 hpmdashboard.dghs.gov.bd
 indoortracker.mohfw.gov.bd
@@ -99,6 +103,7 @@ mail.cafoshipping.gov.bd
 mail.debendracollege.gov.bd
 mail.lalmohanpaurashava.gov.bd
 mail.mgcm.gov.bd
+mail.ramgonjcollege.gdc.gov.bd
 mail.rgc.gov.bd
 mail.satkhiratsc.gov.bd
 mail.sfcworks.gov.bd
@@ -126,6 +131,7 @@ patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 pibelearning.gov.bd
 rajbaripourashava.gov.bd
+ramgonjcollege.gdc.gov.bd
 ramnagarup.faridpurlg.gov.bd
 rangamaticollege.gov.bd
 ranisankailpourashava.gov.bd
@@ -150,12 +156,14 @@ training.dghs.gov.bd
 trainingnis.cabinet.gov.bd
 ullaparapaurashava.gov.bd
 unorupganj.gov.bd
+upmymensinghholdingtax.gov.bd
 vrmanagement.rmp.gov.bd
 web.pgcb.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
 webdisk.debendracollege.gov.bd
+webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.tangailtsc.gov.bd
 webmail.bakshiganjpourashava.gov.bd
@@ -163,6 +171,7 @@ webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
 webmail.debendracollege.gov.bd
 webmail.harmonyprojectmora.gov.bd
+webmail.ramgonjcollege.gdc.gov.bd
 webmail.sfcworks.gov.bd
 webmail.tangailtsc.gov.bd
 www.admin.hossainpurpourashava.gov.bd
@@ -201,6 +210,7 @@ www.idcard.rpi.gov.bd
 www.jhalokathimunicipality.gov.bd
 www.jhikargachamunicipality.gov.bd
 www.kalipouragazi.gov.bd
+www.kamargaon.upmymensinghholdingtax.gov.bd
 www.kcchatt.gov.bd
 www.keshabpurpouroshava.gov.bd
 www.lalmohanpaurashava.gov.bd
@@ -224,6 +234,7 @@ www.panchgachhiawestup.gov.bd
 www.patgrammunicipality.gov.bd
 www.patharghatapourashava.gov.bd
 www.rajbaripourashava.gov.bd
+www.ramgonjcollege.gdc.gov.bd
 www.ramnagarup.faridpurlg.gov.bd
 www.ranisankailpourashava.gov.bd
 www.rgc.gov.bd
