@@ -27,6 +27,7 @@ autodiscover.kadalpurhamidiafazilmadrasah.edu.bd
 autodiscover.keidm.edu.bd
 autodiscover.khawarcharhighschool.edu.bd
 autodiscover.khsbd.edu.bd
+autodiscover.knhsm.edu.bd
 autodiscover.safama.edu.bd
 azimhakimschool.edu.bd
 badiamhhs.edu.bd
@@ -40,6 +41,7 @@ bbsss.edu.bd
 bbsss.edu.bd.pmndm.edu.bd
 betagaadarshags.edu.bd
 bghsc.edu.bd
+bgmss.edu.bd
 bhcs.edu.bd
 bhec.edu.bd
 bhuapurgphs.edu.bd
@@ -78,6 +80,7 @@ convocation.ndub.edu.bd
 cpanel.adm.edu.bd
 cpanel.airmaryhs.edu.bd
 cpanel.azimhakimschool.edu.bd
+cpanel.bgmss.edu.bd
 cpanel.bhec.edu.bd
 cpanel.bjs.edu.bd
 cpanel.bnkhs.edu.bd
@@ -89,12 +92,14 @@ cpanel.kadalpurhamidiafazilmadrasah.edu.bd
 cpanel.keidm.edu.bd
 cpanel.khawarcharhighschool.edu.bd
 cpanel.khsbd.edu.bd
+cpanel.knhsm.edu.bd
 cpanel.rgwc.edu.bd
 cpanel.safama.edu.bd
 cpanel.safirunnesags.edu.bd
 cpcalendars.adm.edu.bd
 cpcalendars.airmaryhs.edu.bd
 cpcalendars.azimhakimschool.edu.bd
+cpcalendars.bgmss.edu.bd
 cpcalendars.bhec.edu.bd
 cpcalendars.bjs.edu.bd
 cpcalendars.bnkhs.edu.bd
@@ -106,12 +111,14 @@ cpcalendars.kadalpurhamidiafazilmadrasah.edu.bd
 cpcalendars.keidm.edu.bd
 cpcalendars.khawarcharhighschool.edu.bd
 cpcalendars.khsbd.edu.bd
+cpcalendars.knhsm.edu.bd
 cpcalendars.rgwc.edu.bd
 cpcalendars.safama.edu.bd
 cpcalendars.safirunnesags.edu.bd
 cpcontacts.adm.edu.bd
 cpcontacts.airmaryhs.edu.bd
 cpcontacts.azimhakimschool.edu.bd
+cpcontacts.bgmss.edu.bd
 cpcontacts.bhec.edu.bd
 cpcontacts.bjs.edu.bd
 cpcontacts.bnkhs.edu.bd
@@ -123,6 +130,7 @@ cpcontacts.kadalpurhamidiafazilmadrasah.edu.bd
 cpcontacts.keidm.edu.bd
 cpcontacts.khawarcharhighschool.edu.bd
 cpcontacts.khsbd.edu.bd
+cpcontacts.knhsm.edu.bd
 cpcontacts.rgwc.edu.bd
 cpcontacts.safama.edu.bd
 cpcontacts.safirunnesags.edu.bd
@@ -164,6 +172,7 @@ hkahschool.edu.bd
 hrportal.diu.edu.bd
 iddm.edu.bd
 imc.edu.bd
+isd.isd.edu.bd
 itify.tech.dmc.edu.bd
 jainkatiss.edu.bd
 jchs.edu.bd
@@ -174,6 +183,7 @@ jmamhs.edu.bd
 jobtrack.daffodilvarsity.edu.bd
 kadalpurhamidiafazilmadrasah.edu.bd
 kalakopakpschool.edu.bd
+kalbiaghs.edu.bd
 kapotakshmacollege.edu.bd
 kaptaihighschool.edu.bd
 kazimontucollege.edu.bd
@@ -190,6 +200,7 @@ kinxzo-bd.dmc.edu.bd
 kironnagarahs.edu.bd
 kkbsc.edu.bd
 kmhdc.edu.bd
+knhsm.edu.bd
 knrmidakhilmadrasha.edu.bd
 koahs.edu.bd
 krphs.edu.bd
@@ -210,6 +221,7 @@ mail.adm.edu.bd
 mail.agarpurcollege.edu.bd
 mail.airmaryhs.edu.bd
 mail.azimhakimschool.edu.bd
+mail.bgmss.edu.bd
 mail.bhec.edu.bd
 mail.bjs.edu.bd
 mail.bnkhs.edu.bd
@@ -222,6 +234,7 @@ mail.kadalpurhamidiafazilmadrasah.edu.bd
 mail.keidm.edu.bd
 mail.khawarcharhighschool.edu.bd
 mail.khsbd.edu.bd
+mail.knhsm.edu.bd
 mail.krphs.edu.bd
 mail.muidmpalishara.edu.bd
 mail.osmaniakamilmadrasah.edu.bd
@@ -232,6 +245,7 @@ mail.sbhschool.edu.bd
 mail.sdc.edu.bd
 mail.sihs113503.edu.bd
 manaratcollege.edu.bd
+masac.edu.bd
 mckam.edu.bd
 mdnhs.edu.bd
 mehebub.darsanagirls.edu.bd
@@ -259,6 +273,7 @@ nsbatihighschool.edu.bd
 osmaniakamilmadrasah.edu.bd
 paghs.edu.bd
 pahmc.edu.bd
+papghs.edu.bd
 paradise.edu.bd
 pauc.edu.bd
 pbx.ulab.edu.bd
@@ -317,6 +332,7 @@ waggahighschool.edu.bd
 webdisk.adm.edu.bd
 webdisk.airmaryhs.edu.bd
 webdisk.azimhakimschool.edu.bd
+webdisk.bgmss.edu.bd
 webdisk.bhec.edu.bd
 webdisk.bjs.edu.bd
 webdisk.bnkhs.edu.bd
@@ -328,6 +344,7 @@ webdisk.kadalpurhamidiafazilmadrasah.edu.bd
 webdisk.keidm.edu.bd
 webdisk.khawarcharhighschool.edu.bd
 webdisk.khsbd.edu.bd
+webdisk.knhsm.edu.bd
 webdisk.rgwc.edu.bd
 webdisk.safama.edu.bd
 webdisk.safirunnesags.edu.bd
@@ -345,6 +362,7 @@ webmail.kadalpurhamidiafazilmadrasah.edu.bd
 webmail.keidm.edu.bd
 webmail.khawarcharhighschool.edu.bd
 webmail.khsbd.edu.bd
+webmail.knhsm.edu.bd
 webmail.rgwc.edu.bd
 webmail.safama.edu.bd
 webmail.safirunnesags.edu.bd
@@ -365,6 +383,7 @@ www.bagbarihs.edu.bd
 www.bba.tejgaoncollege.edu.bd
 www.bbagc.edu.bd
 www.bbsss.edu.bd.pmndm.edu.bd
+www.bgmss.edu.bd
 www.bhec.edu.bd
 www.bjs.edu.bd
 www.bnkhs.edu.bd
@@ -387,6 +406,7 @@ www.ekattorsangbad.snbghs.edu.bd
 www.form.nec.edu.bd
 www.girmm.edu.bd
 www.gobfm.edu.bd
+www.isd.isd.edu.bd
 www.itify.tech.dmc.edu.bd
 www.jhanjailhighschool.edu.bd
 www.kadalpurhamidiafazilmadrasah.edu.bd
@@ -395,6 +415,7 @@ www.kfidm.edu.bd
 www.khawarcharhighschool.edu.bd
 www.khsbd.edu.bd
 www.kinxzo-bd.dmc.edu.bd
+www.knhsm.edu.bd
 www.krphs.edu.bd
 www.kulparahs.edu.bd
 www.library.girmm.edu.bd
