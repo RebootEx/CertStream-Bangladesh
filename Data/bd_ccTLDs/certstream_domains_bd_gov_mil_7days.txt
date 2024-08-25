@@ -44,6 +44,7 @@ ara-bd.org.zpkhulna.gov.bd
 arparaup.faridpurlg.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
+autodiscover.bavs.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.bpemc.gov.bd
 autodiscover.cafoemrd.gov.bd
@@ -79,6 +80,7 @@ barishal.gov.bd
 barishalcity.gov.bd
 barlekhamunicipality.gov.bd
 basb.gov.bd
+bavs.gov.bd
 bcc.gov.bd
 bcms.gov.bd
 bdhckl.gov.bd
@@ -139,6 +141,7 @@ cao.gov.bd
 career.nilmrcbd.gov.bd
 case-moef.gov.bd
 case.gov.bd
+cbraj.gov.bd
 cbs.gov.bd
 ccapkhulna.gov.bd
 ccms.gov.bd
@@ -181,6 +184,7 @@ coxsbazaartsc.gov.bd
 cpadmin.ncc.gov.bd
 cpadmin.scc.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
+cpanel.bavs.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.bepza.gov.bd
 cpanel.bpemc.gov.bd
@@ -211,6 +215,7 @@ cpanel.ulipurmunicipality.gov.bd
 cpbackend.ncc.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
+cpcalendars.bavs.gov.bd
 cpcalendars.bdhckl.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.cafoemrd.gov.bd
@@ -237,6 +242,7 @@ cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
 cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
+cpcontacts.bavs.gov.bd
 cpcontacts.bdhckl.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.cafoemrd.gov.bd
@@ -277,6 +283,7 @@ demo.railwayestate.gov.bd
 deraipaurashava.gov.bd
 dev-training.sla.gov.bd
 dev.knsikhagrachari.gov.bd
+dgme.gov.bd
 dhakadiv.gov.bd
 dhakala.gov.bd
 dhakua.upmymensinghholdingtax.gov.bd
@@ -322,6 +329,7 @@ epietracker.dghs.gov.bd
 episurveillance.dghs.gov.bd
 epoas.ddm.gov.bd
 erd.gov.bd
+erp.bcsadminacademy.gov.bd
 eservices.boiler.gov.bd
 esifsix.bise-ctg.gov.bd
 esmmssadar.gov.bd
@@ -340,6 +348,7 @@ financial-assist.dsw.gov.bd
 flora-bnh.gov.bd
 foodfornation.gov.bd
 foreignstudents.dgme.gov.bd
+freelancer.gov.bd
 ftp.emergencynutrition.gov.bd
 futurenation.gov.bd
 gallery.sarkaribanglacollege.gov.bd
@@ -414,6 +423,7 @@ kalipouragazi.gov.bd
 katiadipourashava.gov.bd
 katigramhighschool.gnc.gov.bd
 kawliberaup.faridpurlg.gov.bd
+kbasset.karmasangsthanbank.gov.bd
 kcchatt.gov.bd
 kcctl.gov.bd
 keraniganjttc.gov.bd
@@ -433,6 +443,7 @@ kuliarcharpourashava.gov.bd
 la.ictbdiasms.gov.bd
 labrepository.bfsa.gov.bd
 ladhaka.gov.bd
+lakshmipurpourashava.gov.bd
 lalmohanpaurashava.gov.bd
 lams-stg.land.gov.bd
 land.gov.bd
@@ -451,6 +462,7 @@ mail.archaeology.gov.bd
 mail.bab.gov.bd
 mail.bakshiganjpourashava.gov.bd
 mail.bargunamunicipality.gov.bd
+mail.bavs.gov.bd
 mail.bcc.gov.bd
 mail.bcsl.gov.bd
 mail.bcti.gov.bd
@@ -468,6 +480,7 @@ mail.cafoemrd.gov.bd
 mail.cafoshipping.gov.bd
 mail.cao.gov.bd
 mail.case-moef.gov.bd
+mail.cbraj.gov.bd
 mail.census2021.gov.bd
 mail.chtdb.gov.bd
 mail.coxsbazaartsc.gov.bd
@@ -725,6 +738,7 @@ shiloyup.munshiganjlg.gov.bd
 shmrmi.gov.bd
 sicip.gov.bd
 singramunicipality.gov.bd
+sm.gov.bd
 smart.dncc.gov.bd
 smartakubpurup.gov.bd
 smartbdsummit.gov.bd
@@ -750,6 +764,7 @@ spisg.gov.bd
 spst.gov.bd
 sreda.gov.bd
 sscadmit.bise-ctg.gov.bd
+sscb.gov.bd
 ssnimc.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
@@ -839,6 +854,7 @@ water.scc.gov.bd
 web.bise-ctg.gov.bd
 web.pgcb.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
+webdisk.bavs.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.bepza.gov.bd
 webdisk.bpemc.gov.bd
@@ -867,6 +883,7 @@ webdisk.syedpurtsc.gov.bd
 webdisk.tangailtsc.gov.bd
 webdisk.ulipurmunicipality.gov.bd
 webmail.bakshiganjpourashava.gov.bd
+webmail.bavs.gov.bd
 webmail.bdhckl.gov.bd
 webmail.bpemc.gov.bd
 webmail.cafoemrd.gov.bd
@@ -940,6 +957,7 @@ www.barakandaup.gov.bd
 www.bargunamunicipality.gov.bd
 www.barisal.barishalcity.gov.bd
 www.barlekhamunicipality.gov.bd
+www.bavs.gov.bd
 www.bdhckl.gov.bd
 www.beanibazarpaurashava.gov.bd
 www.belkuchipoura.gov.bd
@@ -964,6 +982,7 @@ www.cafoshipping.gov.bd
 www.cao.gov.bd
 www.career.nilmrcbd.gov.bd
 www.case-moef.gov.bd
+www.cbraj.gov.bd
 www.ccms.gov.bd
 www.center.dbwctp64.gov.bd
 www.centralup.faridpurlg.gov.bd
@@ -1048,6 +1067,7 @@ www.kalipouragazi.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
 www.katigramhighschool.gnc.gov.bd
 www.kawliberaup.faridpurlg.gov.bd
+www.kbasset.karmasangsthanbank.gov.bd
 www.kcchatt.gov.bd
 www.keraniganjttc.gov.bd
 www.keshabpurpouroshava.gov.bd
