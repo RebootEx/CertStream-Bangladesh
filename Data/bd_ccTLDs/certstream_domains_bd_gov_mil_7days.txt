@@ -41,6 +41,7 @@ apps.bgb.gov.bd
 apps.jamalpurttc.gov.bd
 ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
+arjsc.roc.gov.bd
 arparaup.faridpurlg.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
@@ -289,6 +290,7 @@ dhakala.gov.bd
 dhakua.upmymensinghholdingtax.gov.bd
 dhamraimunicipality.gov.bd
 dhis2dev.dghs.gov.bd
+dic.dghs.gov.bd
 digitalhaat.gov.bd
 dinajpurboard.gov.bd
 dlrms-stg.land.gov.bd
@@ -562,6 +564,7 @@ mail.rgdc.gov.bd
 mail.rhdc.gov.bd
 mail.rri.gov.bd
 mail.rtsc.gov.bd
+mail.saidpurmunicipality.gov.bd
 mail.sarkaribanglacollege.gov.bd
 mail.satkhiratsc.gov.bd
 mail.savarmunicipality.gov.bd
@@ -626,6 +629,7 @@ nis.cabinet.gov.bd
 nlas.dls.gov.bd
 nmv.dscc.gov.bd
 noakhalicoll.gov.bd
+noakhaligmc.gov.bd
 nogorapp.scc.gov.bd
 nohs.navy.mil.bd
 noipunno.gov.bd
@@ -637,6 +641,7 @@ nshd.sreda.gov.bd
 ntp.gov.bd
 ntrc.gameapp.gov.bd
 nurullagonjup.faridpurlg.gov.bd
+nutritionprofile.gov.bd
 nwpgcl.gov.bd
 old.barishalcity.gov.bd
 old.comillaboard.gov.bd
@@ -712,6 +717,7 @@ rtsc.gov.bd
 rupapatup.faridpurlg.gov.bd
 rwasa.gov.bd
 sadarpurup.faridpurlg.gov.bd
+saidpurmunicipality.gov.bd
 sanboard.gov.bd
 sarkaribanglacollege.gov.bd
 satkhiratsc.gov.bd
@@ -748,11 +754,14 @@ smartpurbadhaireastup.gov.bd
 smartschoolbus.gov.bd
 smartup.comillalg.gov.bd
 smartup.faridpurlg.gov.bd
+smartup.gov.bd
 smartup.narsingdilg.gov.bd
 smmbox16.bcc.gov.bd
 smtp.dghs.gov.bd
 smtp.emergencynutrition.gov.bd
 soft.taxeszoneonedhaka.gov.bd
+sohayota.gov.bd
+sohayota.gov.bd.melandahbhata.gov.bd
 somch.gov.bd
 sonaimuripaurashava.gov.bd
 sonali238.dinajpurboard.gov.bd
@@ -968,6 +977,7 @@ www.bhashancharup.faridpurlg.gov.bd
 www.bikiron2021.sreda.gov.bd
 www.bmp.gov.bd
 www.bnscp.navy.mil.bd
+www.bogurapoly.gov.bd
 www.booking.bsa.gov.bd
 www.bpemc.gov.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
@@ -1042,6 +1052,7 @@ www.gopalpurup.faridpurlg.gov.bd
 www.govindapurup1.gov.bd
 www.gredaup.faridpurlg.gov.bd
 www.grs.gov.bd
+www.haripur.uppabnaholdingtax.gov.bd
 www.hep.sreda.gov.bd
 www.herpower.gov.bd
 www.hp.habiganjpourashava.gov.bd
@@ -1162,6 +1173,7 @@ www.rtsc.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.rwasa.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
+www.saidpurmunicipality.gov.bd
 www.sarkaribanglacollege.gov.bd
 www.satkhiratsc.gov.bd
 www.savarmunicipality.gov.bd
@@ -1189,6 +1201,7 @@ www.smartup.faridpurlg.gov.bd
 www.smartup.narsingdilg.gov.bd
 www.soft.taxeszoneonedhaka.gov.bd
 www.software.dbwctp64.gov.bd
+www.sohayota.gov.bd.melandahbhata.gov.bd
 www.solar.sreda.gov.bd
 www.somch.gov.bd
 www.sonaimuripaurashava.gov.bd
