@@ -11,6 +11,8 @@ autodiscover.mathbariapourashava.gov.bd
 bagatup.faridpurlg.gov.bd
 basb.gov.bd
 bavs.gov.bd
+blog.ekshop.gov.bd
+bogurapoly.gov.bd
 bpi.com.ph.dhamraimunicipality.gov.bd
 bsfmstu.gameapp.gov.bd
 cafoagriculture.gov.bd
@@ -21,10 +23,12 @@ cpcalendars.bavs.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
+cumilla.srdl.gov.bd
 dadpurup.faridpurlg.gov.bd
 dic.dghs.gov.bd
 du.gameapp.gov.bd
 ems.epb-exporttracker.gov.bd
+etds.gov.bd
 icml.gov.bd
 jorkanoneastup.gov.bd
 kcchatt.gov.bd
@@ -45,7 +49,11 @@ register.gameapp.gov.bd
 result.ebmeb.gov.bd
 rrdhs.gov.bd
 rwasa.gov.bd
+sherpurpolice.gov.bd
 sholanalup.gov.bd
+smartup.gov.bd
+sohayota.gov.bd
+sohayota.gov.bd.melandahbhata.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
 taxeszone9dhaka.gov.bd
@@ -62,8 +70,11 @@ www.api.mudp.gov.bd
 www.ar.gameapp.gov.bd
 www.bagatup.faridpurlg.gov.bd
 www.bavs.gov.bd
+www.blog.ekshop.gov.bd
+www.bogurapoly.gov.bd
 www.bpi.com.ph.dhamraimunicipality.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.cumilla.srdl.gov.bd
 www.dadpurup.faridpurlg.gov.bd
 www.du.gameapp.gov.bd
 www.icml.gov.bd
@@ -78,5 +89,6 @@ www.register.gameapp.gov.bd
 www.result.ebmeb.gov.bd
 www.rwasa.gov.bd
 www.sholanalup.gov.bd
+www.sohayota.gov.bd.melandahbhata.gov.bd
 www.taxeszone9dhaka.gov.bd
 www.test.gameapp.gov.bd
