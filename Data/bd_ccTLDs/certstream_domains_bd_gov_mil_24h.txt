@@ -17,11 +17,15 @@ bpi.com.ph.dhamraimunicipality.gov.bd
 bsfmstu.gameapp.gov.bd
 cafoagriculture.gov.bd
 cltp.gov.bd
+comillalg.gov.bd
 cpanel.bavs.gov.bd
+cpanel.comillalg.gov.bd
 cpanel.mathbariapourashava.gov.bd
 cpcalendars.bavs.gov.bd
+cpcalendars.comillalg.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
 cpcontacts.bavs.gov.bd
+cpcontacts.comillalg.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
 cumilla.srdl.gov.bd
 dadpurup.faridpurlg.gov.bd
@@ -34,6 +38,7 @@ jorkanoneastup.gov.bd
 kcchatt.gov.bd
 mail.bavs.gov.bd
 mail.cao.gov.bd
+mail.comillalg.gov.bd
 mail.icml.gov.bd
 mail.mathbariapourashava.gov.bd
 mathbariapourashava.gov.bd
@@ -62,8 +67,10 @@ vashantekcollege.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.bavs.gov.bd
+webdisk.comillalg.gov.bd
 webdisk.mathbariapourashava.gov.bd
 webmail.bavs.gov.bd
+webmail.comillalg.gov.bd
 webmail.mathbariapourashava.gov.bd
 www.amarai.gameapp.gov.bd
 www.api.mudp.gov.bd
@@ -74,6 +81,7 @@ www.blog.ekshop.gov.bd
 www.bogurapoly.gov.bd
 www.bpi.com.ph.dhamraimunicipality.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.comillalg.gov.bd
 www.cumilla.srdl.gov.bd
 www.dadpurup.faridpurlg.gov.bd
 www.du.gameapp.gov.bd
