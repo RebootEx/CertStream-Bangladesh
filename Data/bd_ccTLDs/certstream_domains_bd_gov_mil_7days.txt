@@ -4,6 +4,7 @@ aaic.gov.bd
 abc.dsw.gov.bd
 accessibledictionary.gov.bd
 accounts.comillaboard.gov.bd
+admin.adolnutrireporting.nnsop.gov.bd
 admin.bmd.gov.bd
 admin.farmbroadcast.gov.bd
 admin.hossainpurpourashava.gov.bd
@@ -12,6 +13,7 @@ admin.vaxepi.gov.bd
 adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
+adolnutrireporting.nnsop.gov.bd
 adp.plancomm.gov.bd
 ahsanmanzilticket.bfacf-ticket.gov.bd
 aipmes.moind.gov.bd
@@ -93,6 +95,7 @@ barisalcity.gov.bd
 barishal.gov.bd
 barishalcity.gov.bd
 barlekhamunicipality.gov.bd
+basb.gov.bd
 bcc.gov.bd
 bcms.gov.bd
 bdhckl.gov.bd
@@ -130,6 +133,7 @@ bstieapp.gov.bd
 btriapps.gov.bd
 buraichup.faridpurlg.gov.bd
 caabhc.gov.bd
+cafoagriculture.gov.bd
 cafocagpscec.gov.bd
 cafocat.gov.bd
 cafocultural.gov.bd
@@ -350,13 +354,17 @@ effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
 ekpass.gov.bd
+eksheba.gov.bd
 ekshop.gov.bd
 elearning.ec4j.gov.bd
 elmis.dgfp.gov.bd
 emergencynutrition.gov.bd
 employee-hsms.somch.gov.bd
 emrddashboard.gov.bd
+ems.epb-exporttracker.gov.bd
 ems.fgc.gov.bd
+emsserver.epb-exporttracker.gov.bd
+en.info.shr.dghs.gov.bd
 enoc.fireservice.gov.bd
 enrollment.bnacwcafd.gov.bd
 epassport1.bpodms.gov.bd
@@ -384,6 +392,7 @@ fc.distgopalganj.gov.bd
 feedback.dos.gov.bd
 fima.gov.bd
 financial-assist.dsw.gov.bd
+flora-bnh.gov.bd
 foodfornation.gov.bd
 foreignstudents.dgme.gov.bd
 ftp.emergencynutrition.gov.bd
@@ -461,6 +470,7 @@ jhikargachamunicipality.gov.bd
 jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
 jmc.jessoreboard.gov.bd
+jorkanoneastup.gov.bd
 josherup.narsingdilg.gov.bd
 jresult.bise-ctg.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
@@ -752,6 +762,7 @@ portal.dppseba.gov.bd
 portal.munshiganjtsc.gov.bd
 portal.netrokonatsc.gov.bd
 postalacademy.gov.bd
+proinfo.lged.gov.bd
 promise.gov.bd
 proxy.mcishr.dghs.gov.bd
 proxy.shrlive.dghs.gov.bd
@@ -820,6 +831,7 @@ shariatpurmunicipality.gov.bd
 sheikhrussel.gov.bd
 sheikhrusselgastroliver.gov.bd
 shekharup.faridpurlg.gov.bd
+shift.gov.bd
 shiloyup.munshiganjlg.gov.bd
 shiprecycling.gov.bd
 shmcj.gov.bd
@@ -854,6 +866,8 @@ sscadmit.bise-ctg.gov.bd
 sscadmitcard.comillaboard.gov.bd
 ssnimc.gov.bd
 sso.gca.comillaboard.gov.bd
+stage-admin.adolnutrireporting.nnsop.gov.bd
+stage.adolnutrireporting.nnsop.gov.bd
 stageaccounting.titasgas.gov.bd
 stageadmin.titasgas.gov.bd
 stageauth.titasgas.gov.bd
@@ -1202,6 +1216,7 @@ www.jamalpurttc.gov.bd
 www.jhalokathimunicipality.gov.bd
 www.jhikargachamunicipality.gov.bd
 www.jmc.jessoreboard.gov.bd
+www.jorkanoneastup.gov.bd
 www.josherup.narsingdilg.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
 www.kalipouragazi.gov.bd
@@ -1265,6 +1280,7 @@ www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nurullagonjup.faridpurlg.gov.bd
 www.old.barishalcity.gov.bd
+www.old.basb.gov.bd
 www.old.gzmcfeni.gov.bd
 www.onlineexam.gbrcr.gov.bd
 www.onlinepayment.comillaboard.gov.bd
