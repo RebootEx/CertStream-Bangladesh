@@ -4,6 +4,7 @@ adp.plancomm.gov.bd
 amarai.gameapp.gov.bd
 amcchuadanga.gov.bd
 api.mudp.gov.bd
+app.mymensingheducationboard.gov.bd
 ar.gameapp.gov.bd
 autodiscover.mathbariapourashava.gov.bd
 bagatup.faridpurlg.gov.bd
@@ -26,12 +27,14 @@ mail.icml.gov.bd
 mail.mathbariapourashava.gov.bd
 mathbariapourashava.gov.bd
 mobileapp.pension.comillaboard.gov.bd
+mymensingheducationboard.gov.bd
 ndc.gov.bd
 new.rgamc.gov.bd
 nohs.navy.mil.bd
 nowparaup.faridpurlg.gov.bd
 ntrc.gameapp.gov.bd
 register.gameapp.gov.bd
+result.ebmeb.gov.bd
 rrdhs.gov.bd
 rwasa.gov.bd
 sholanalup.gov.bd
@@ -54,11 +57,13 @@ www.du.gameapp.gov.bd
 www.icml.gov.bd
 www.jorkanoneastup.gov.bd
 www.mathbariapourashava.gov.bd
+www.mymensingheducationboard.gov.bd
 www.new.rgamc.gov.bd
 www.nowparaup.faridpurlg.gov.bd
 www.ntrc.gameapp.gov.bd
 www.old.basb.gov.bd
 www.register.gameapp.gov.bd
+www.result.ebmeb.gov.bd
 www.rwasa.gov.bd
 www.sholanalup.gov.bd
 www.test.gameapp.gov.bd
