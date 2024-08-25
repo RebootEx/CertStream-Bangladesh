@@ -36,6 +36,7 @@ autodiscover.ghatakcharhighschool.edu.bd
 autodiscover.gjukm.edu.bd
 autodiscover.gkadarshahighschool.edu.bd
 autodiscover.jhanjailhighschool.edu.bd
+autodiscover.krishnercharhighschool.edu.bd
 autodiscover.mbhec.edu.bd
 autodiscover.ngc.edu.bd
 autodiscover.nmdcn.edu.bd
@@ -71,6 +72,7 @@ bmchs.edu.bd
 bmghs.edu.bd
 bnupghs.edu.bd
 boaliablhs.edu.bd
+borochegsdm.edu.bd
 bscr.edu.bd
 bsnmahs.edu.bd
 bssk.edu.bd
@@ -79,6 +81,7 @@ buhsc.edu.bd
 burumdialmhhs.edu.bd
 buzruksahighschool.edu.bd
 bvn.edu.bd
+campus.alhasanain.edu.bd
 cbghs.edu.bd
 cbsmahs.edu.bd
 ccbh.edu.bd
@@ -226,12 +229,15 @@ ems.kgck.edu.bd
 erp.uttarauniversity.edu.bd
 faculty.daffodilvarsity.edu.bd
 faridpursugarmillshighschool.edu.bd
+fd.daffodilvarsity.edu.bd
 fma.edu.bd
 form.headway.edu.bd
 gagc.edu.bd
 gaglaghs.edu.bd
 ganabanglahs.edu.bd
 ganguriacollege.edu.bd
+garage.pms.edu.bd
+gbfdm.edu.bd
 gbmtcg.edu.bd
 gbtcbm.edu.bd
 geography-juniv.edu.bd
@@ -267,9 +273,11 @@ iims.sarghsp.edu.bd
 imlhs.edu.bd
 imlhs.edu.bd.bodawomencollege.edu.bd
 ims.babulcharahs.edu.bd
+iqac.daffodilvarsity.edu.bd
 isl.tmdm.butex.edu.bd
 jagatpuradhfazilmadrasha.edu.bd
 jalhsdb.edu.bd
+jamungirlshighschool.edu.bd
 jarinarahim.edu.bd
 jarinarahim.edu.bd.kanthalbariaaghs.edu.bd
 jbdc.edu.bd
@@ -287,18 +295,21 @@ khalarparmadrasah.edu.bd
 khularamparahs.edu.bd
 khulnarsomoy.com.munshigonjcollege.edu.bd
 kinbenvai.jathaliaashs.edu.bd
+kmhs.edu.bd
 kmss.edu.bd
 knss.edu.bd
 kolakopaalimmadrasha.edu.bd
 komorpurabdulazizinstitution.edu.bd
 krbhighschool.edu.bd
 krishnapuradarshahighschool.edu.bd
+krishnercharhighschool.edu.bd
 krmdc.edu.bd
 ksigsc.edu.bd
 ktnbmc2002.edu.bd
 kuraniarcharkhdmadrasah.edu.bd
 ludhuammhs.edu.bd
 m.ssschool.edu.bd
+mac.edu.bd
 mahs1987.edu.bd
 mail.angarparahighs.edu.bd
 mail.belkadc.edu.bd
@@ -322,6 +333,7 @@ mail.jhanjailhighschool.edu.bd
 mail.kashimpurphs.edu.bd
 mail.khularamparahs.edu.bd
 mail.krishnapuradarshahighschool.edu.bd
+mail.krishnercharhighschool.edu.bd
 mail.ktnbmc2002.edu.bd
 mail.ludhuammhs.edu.bd
 mail.mbhec.edu.bd
@@ -342,6 +354,8 @@ mail.zphs.edu.bd
 mbhec.edu.bd
 mcsk.edu.bd
 mgmcollege.edu.bd
+mhrms.edu.bd
+mhsdinajpur.edu.bd
 mhsp.edu.bd
 miems.cub.edu.bd
 mirsaraicollege.edu.bd
@@ -351,7 +365,9 @@ mkghsc.edu.bd
 mkhighschool.edu.bd
 mkhs.edu.bd
 mnac.edu.bd
+moodle.cub.edu.bd
 mtadm.edu.bd
+mujibborsho.mrdcsandwip.edu.bd
 namakatlasenhs.edu.bd
 naogaonrfm.edu.bd
 narayanganjhighschoolandcollege.edu.bd
@@ -360,6 +376,7 @@ new.just.edu.bd
 next.mndmbera.edu.bd
 nfchs.edu.bd
 ngc.edu.bd
+nishatanan.com.jathaliaashs.edu.bd
 nmcfeni.edu.bd
 nmdcn.edu.bd
 nnhschool.edu.bd
@@ -383,6 +400,7 @@ pjss.edu.bd
 pkatajhs.edu.bd
 pkbmhs.edu.bd
 poarbarihighschool.edu.bd
+pochamariacollege.edu.bd
 porabarihschool.edu.bd
 porabarihschool.edu.bd.poarbarihighschool.edu.bd
 pordiahighschool.edu.bd
@@ -394,6 +412,7 @@ raipurlmpmhs.edu.bd
 rajproshadmamudpurhs.edu.bd
 ramms.edu.bd
 rashidanabihs.edu.bd
+rasulphs.edu.bd
 rbbn.edu.bd
 rdanc.edu.bd
 rhrush.edu.bd
@@ -495,6 +514,7 @@ webmail.gjukm.edu.bd
 webmail.gkadarshahighschool.edu.bd
 webmail.jhanjailhighschool.edu.bd
 webmail.khularamparahs.edu.bd
+webmail.krishnercharhighschool.edu.bd
 webmail.ktnbmc2002.edu.bd
 webmail.ludhuammhs.edu.bd
 webmail.mbhec.edu.bd
@@ -526,6 +546,7 @@ www.bdcip.edu.bd
 www.belkadc.edu.bd
 www.bjs.edu.bd
 www.bus.uoda.edu.bd
+www.campus.alhasanain.edu.bd
 www.cbsmahs.edu.bd
 www.cdhddm.edu.bd
 www.cgcn.edu.bd
@@ -548,6 +569,7 @@ www.english.uoda.edu.bd
 www.form.headway.edu.bd
 www.gagc.edu.bd
 www.ganguriacollege.edu.bd
+www.garage.pms.edu.bd
 www.gfs.edu.bd
 www.ggc.edu.bd
 www.ghatakcharhighschool.edu.bd
@@ -581,6 +603,7 @@ www.khulnarsomoy.com.munshigonjcollege.edu.bd
 www.kinbenvai.jathaliaashs.edu.bd
 www.knss.edu.bd
 www.krishnapuradarshahighschool.edu.bd
+www.krishnercharhighschool.edu.bd
 www.krmdc.edu.bd
 www.ktnbmc2002.edu.bd
 www.ludhuammhs.edu.bd
@@ -591,11 +614,14 @@ www.mbhec.edu.bd
 www.mcsk.edu.bd
 www.mhsp.edu.bd
 www.miems.cub.edu.bd
+www.moodle.cub.edu.bd
+www.mujibborsho.mrdcsandwip.edu.bd
 www.music.uoda.edu.bd
 www.naogaonrfm.edu.bd
 www.new.just.edu.bd
 www.next.mndmbera.edu.bd
 www.ngc.edu.bd
+www.nishatanan.com.jathaliaashs.edu.bd
 www.nmdcn.edu.bd
 www.northpoint.edu.bd
 www.npurpghs.edu.bd
