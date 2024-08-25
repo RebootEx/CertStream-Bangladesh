@@ -29,6 +29,7 @@ api-core.lams-stg.land.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 api.otms.nass.gov.bd
 api.scc.gov.bd
+api.torjoni.gov.bd
 app.bdhckl.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.monglaportmunicipality.gov.bd
@@ -174,6 +175,7 @@ cme.gov.bd
 cmmc.gov.bd
 cmp.bcc.gov.bd
 cmp.gov.bd
+cms.torjoni.gov.bd
 cngwc.gov.bd
 comch.gov.bd
 comillaboard.gov.bd
@@ -280,6 +282,7 @@ dcadhaka.gov.bd
 dcsherpurinfo.gov.bd
 debendracollege.gov.bd
 decreercharup.faridpurlg.gov.bd
+demo.kanaighatmunicipality.gov.bd
 demo.railwayestate.gov.bd
 deraipaurashava.gov.bd
 dev-training.sla.gov.bd
@@ -375,6 +378,7 @@ grs.gov.bd
 grs.seip-fd.gov.bd
 grs.sicip.gov.bd
 gsfy.brri.gov.bd
+gzmcfeni.gov.bd
 herpower.gov.bd
 highwaypolice.gov.bd
 himb.bwdb.gov.bd
@@ -441,6 +445,7 @@ korakdiup.faridpurlg.gov.bd
 kranti.bamis.gov.bd
 krishibatighor.gov.bd
 krishnapurup.faridpurlg.gov.bd
+kuakata.gov.bd
 kuliarcharpourashava.gov.bd
 la.ictbdiasms.gov.bd
 labrepository.bfsa.gov.bd
@@ -1018,6 +1023,7 @@ www.cpbackend.ncc.gov.bd
 www.dangiup.faridpurlg.gov.bd
 www.debendracollege.gov.bd
 www.decreercharup.faridpurlg.gov.bd
+www.demo.kanaighatmunicipality.gov.bd
 www.demo.railwayestate.gov.bd
 www.dept.titumircollege.gov.bd
 www.dev.knsikhagrachari.gov.bd
