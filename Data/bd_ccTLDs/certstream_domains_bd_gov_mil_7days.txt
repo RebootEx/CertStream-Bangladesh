@@ -47,6 +47,7 @@ ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 arjsc.roc.gov.bd
 arparaup.faridpurlg.gov.bd
+assets.bscl.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.bavs.gov.bd
@@ -86,6 +87,7 @@ basb.gov.bd
 bavs.gov.bd
 bcc.gov.bd
 bcms.gov.bd
+bcsi.gov.bd
 bdhckl.gov.bd
 bdp.gov.bd
 beanibazarpaurashava.gov.bd
@@ -158,6 +160,7 @@ charmanairup.faridpurlg.gov.bd
 chattogram.gov.bd
 chauddagrammunicipality.gov.bd
 chittagongzoo.gov.bd
+chumurdiup.faridpurlg.gov.bd
 citizen.dlrms-stg.land.gov.bd
 citizen.ncc.gov.bd
 citizen.scc.gov.bd
@@ -284,6 +287,7 @@ dhis2dev.dghs.gov.bd
 dhis2training.dghs.gov.bd
 dic.dghs.gov.bd
 digitalhaat.gov.bd
+din-crms.dinajpurboard.gov.bd
 dinajpurboard.gov.bd
 dlrms-stg.land.gov.bd
 dmbogura.gov.bd
@@ -405,6 +409,7 @@ k8s-dboard-admin.dlrms-stg.land.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
 kaizen88.fpmu.gov.bd
 kakni.upmymensinghholdingtax.gov.bd
+kalamridhaup.faridpurlg.gov.bd
 kaliakairpourashava.gov.bd
 kalihatipourashava.gov.bd
 kalipouragazi.gov.bd
@@ -425,6 +430,7 @@ kodalkatihs.gov.bd
 korakdiup.faridpurlg.gov.bd
 kranti.bamis.gov.bd
 krishibatighor.gov.bd
+krishnanagarup.faridpurlg.gov.bd
 krishnapurup.faridpurlg.gov.bd
 kuakata.gov.bd
 kuliarcharpourashava.gov.bd
@@ -585,6 +591,7 @@ mgcm.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mobileapp.pension.comillaboard.gov.bd
+mohakaliup.munshiganjlg.gov.bd
 mohanganjpaurashava.gov.bd
 monglaportmunicipality.gov.bd
 moynamotiup.comillalg.gov.bd
@@ -609,6 +616,7 @@ news.police.gov.bd
 nis.cabinet.gov.bd
 nlas.dls.gov.bd
 nmv.dscc.gov.bd
+nnsop.gov.bd
 noakhalicoll.gov.bd
 noakhaligmc.gov.bd
 nogorapp.scc.gov.bd
@@ -642,6 +650,7 @@ parameshwardiup.faridpurlg.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 pdo.khulnattc.gov.bd
+pelx.dfsrcaab.gov.bd
 pibelearning.gov.bd
 pibstore.gnc.gov.bd
 pirjatrapurup.gov.bd
@@ -690,6 +699,7 @@ rwasa.gov.bd
 sadarpurup.faridpurlg.gov.bd
 saidpurmunicipality.gov.bd
 sarkaribanglacollege.gov.bd
+satairup.faridpurlg.gov.bd
 satkhiratsc.gov.bd
 savarmunicipality.gov.bd
 sbcbiz.gov.bd
@@ -728,6 +738,7 @@ smtp.dghs.gov.bd
 smtp.emergencynutrition.gov.bd
 sohayota.gov.bd
 sohayota.gov.bd.melandahbhata.gov.bd
+soms.gov.bd
 sonaimuripaurashava.gov.bd
 sonali238.dinajpurboard.gov.bd
 sonapurup.faridpurlg.gov.bd
@@ -738,6 +749,7 @@ spisg.gov.bd
 spst.gov.bd
 sreda.gov.bd
 sscb.gov.bd
+ssf.gov.bd
 ssnimc.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
@@ -812,6 +824,7 @@ ullaparapaurashava.gov.bd
 unofulbari.certificatefuldin.gov.bd
 unomagurasadar.gov.bd
 unorupganj.gov.bd
+uphcsdp.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
 usf.bmd.gov.bd
@@ -962,6 +975,7 @@ www.charharirampurup.faridpurlg.gov.bd
 www.charkewarup.munshiganjlg.gov.bd
 www.charmadbdiaup.faridpurlg.gov.bd
 www.charmanairup.faridpurlg.gov.bd
+www.chumurdiup.faridpurlg.gov.bd
 www.citizen.ncc.gov.bd
 www.citizen.scc.gov.bd
 www.comillalg.gov.bd
@@ -1026,6 +1040,7 @@ www.jmc.jessoreboard.gov.bd
 www.jorkanoneastup.gov.bd
 www.josherup.narsingdilg.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
+www.kalamridhaup.faridpurlg.gov.bd
 www.kalipouragazi.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
 www.kbasset.karmasangsthanbank.gov.bd
@@ -1036,6 +1051,7 @@ www.kmch.gov.bd
 www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.kranti.bamis.gov.bd
+www.krishnanagarup.faridpurlg.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.la.ictbdiasms.gov.bd
 www.lalmohanpaurashava.gov.bd
@@ -1054,6 +1070,7 @@ www.megchamiup.faridpurlg.gov.bd
 www.mehendiganjpourashava.gov.bd
 www.mgcm.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
+www.mohakaliup.munshiganjlg.gov.bd
 www.monglaportmunicipality.gov.bd
 www.morneyahighschool.edu.bd.gbrcr.gov.bd
 www.muladimunicipality.gov.bd
@@ -1088,6 +1105,7 @@ www.parameshwardiup.faridpurlg.gov.bd
 www.patgrammunicipality.gov.bd
 www.patharghatapourashava.gov.bd
 www.pdo.khulnattc.gov.bd
+www.pelx.dfsrcaab.gov.bd
 www.pibstore.gnc.gov.bd
 www.pirjatrapurup.gov.bd
 www.pmfellowship.pmo.gov.bd
@@ -1107,6 +1125,7 @@ www.regionalwildlife.gov.bd
 www.register.gameapp.gov.bd
 www.rems.railwayestate.gov.bd
 www.renewableenergy.gov.bd.sreda.gov.bd
+www.reporting.uphcsdp.gov.bd
 www.result.ebmeb.gov.bd
 www.result.fci.gov.bd
 www.result.fgc.gov.bd
@@ -1124,6 +1143,7 @@ www.rwasa.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.saidpurmunicipality.gov.bd
 www.sarkaribanglacollege.gov.bd
+www.satairup.faridpurlg.gov.bd
 www.satkhiratsc.gov.bd
 www.savarmunicipality.gov.bd
 www.sbobet.secretariatclinic.gov.bd
@@ -1183,6 +1203,7 @@ www.tphsbagmara.gov.bd
 www.tradelicence.scc.gov.bd
 www.training.ec4j.gov.bd
 www.training.gov.bd
+www.training.uphcsdp.gov.bd
 www.uacco.melandahbhata.gov.bd
 www.ullaparapaurashava.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
