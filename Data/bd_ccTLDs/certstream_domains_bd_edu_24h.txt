@@ -6,6 +6,8 @@ admin.nstu.edu.bd
 admin.razapurcollege.edu.bd
 admission.raozancollege.edu.bd
 ahhs.edu.bd
+algipatakatahs.buhi.edu.bd
+algipatakatahs.edu.bd
 android.sub.edu.bd
 apfbhs.edu.bd
 aqc.edu.bd
@@ -59,6 +61,7 @@ bktc.edu.bd
 blkmihss.edu.bd
 bmbam.edu.bd
 bmjf.org.ikarchalihighschool.edu.bd
+bmlhs.edu.bd
 bn.amc.edu.bd
 bnabshs.edu.bd
 borochegsdm.edu.bd
@@ -101,6 +104,7 @@ cpanel.crim.edu.bd
 cpanel.drkajalilhs.edu.bd
 cpanel.dsce.edu.bd
 cpanel.gourinathpurdm.edu.bd
+cpanel.hajigonjdc.edu.bd
 cpanel.jangalkhainhs.edu.bd
 cpanel.katiadicollege.edu.bd
 cpanel.kpcbd.edu.bd
@@ -123,6 +127,7 @@ cpcalendars.crim.edu.bd
 cpcalendars.drkajalilhs.edu.bd
 cpcalendars.dsce.edu.bd
 cpcalendars.gourinathpurdm.edu.bd
+cpcalendars.hajigonjdc.edu.bd
 cpcalendars.jangalkhainhs.edu.bd
 cpcalendars.katiadicollege.edu.bd
 cpcalendars.kpcbd.edu.bd
@@ -145,6 +150,7 @@ cpcontacts.crim.edu.bd
 cpcontacts.drkajalilhs.edu.bd
 cpcontacts.dsce.edu.bd
 cpcontacts.gourinathpurdm.edu.bd
+cpcontacts.hajigonjdc.edu.bd
 cpcontacts.jangalkhainhs.edu.bd
 cpcontacts.katiadicollege.edu.bd
 cpcontacts.kpcbd.edu.bd
@@ -185,6 +191,7 @@ drkajalilhs.edu.bd
 dsce.edu.bd
 dshst.edu.bd
 dtsc.edu.bd
+edu.bd.azamc.edu.bd
 edu.bd.chscollege.edu.bd
 edu.bd.kskhs.edu.bd
 edu.bd.pmndm.edu.bd
@@ -206,6 +213,7 @@ geo.tejgaoncollege.edu.bd
 gfmc.edu.bd
 gjcss.edu.bd
 gkmhs.edu.bd
+gkphs.edu.bd
 gmudm.edu.bd
 goalbathanhs.edu.bd
 gohalagirls.edu.bd
@@ -220,7 +228,9 @@ gphs.edu.bd
 gsmghsc.edu.bd
 gsmmhs.edu.bd
 guzishaharhs.edu.bd
+gwfm.edu.bd
 h.mahhs.edu.bd
+hajigonjdc.edu.bd
 hamdarduniversity.edu.bd
 hatbakoilhs.edu.bd
 haybotpurmlhighschool.edu.bd
@@ -312,8 +322,10 @@ mail.cpscl.edu.bd
 mail.crim.edu.bd
 mail.drkajalilhs.edu.bd
 mail.dsce.edu.bd
+mail.gkphs.edu.bd
 mail.gourinathpurdm.edu.bd
 mail.gpcs.edu.bd
+mail.hajigonjdc.edu.bd
 mail.jangalkhainhs.edu.bd
 mail.jkkac.edu.bd
 mail.jnukm.edu.bd
@@ -373,6 +385,7 @@ ndmadrasah.edu.bd.baratvakla.edu.bd
 nemc.edu.bd
 new.ikarchalihighschool.edu.bd
 newhosp.nischintapurcollege.edu.bd
+neyamatpurhsc.edu.bd
 nhyahs.edu.bd
 npurhighschool.edu.bd
 nsdmj.edu.bd
@@ -411,6 +424,7 @@ pos.ikarchalihighschool.edu.bd
 primaryportal.gnsc.edu.bd
 psmpghs.edu.bd
 ptc.edu.bd
+ptei.edu.bd
 puijoreashurhatgolabarimuchidahhighschool.edu.bd
 rameswarpurhs.edu.bd
 razapurcollege.edu.bd
@@ -436,6 +450,7 @@ scskm.edu.bd
 server1.ulab.edu.bd
 sgpmhs.edu.bd
 shapcharihs.edu.bd
+shasharahs.edu.bd
 shcollege.edu.bd
 sherkolesahs.edu.bd
 sherpurgovtcollege.edu.bd
@@ -448,6 +463,7 @@ skgmc.edu.bd
 sma.edu.bd
 smarthome.diit.edu.bd
 sms.katirhaths.edu.bd
+sms.piser.edu.bd
 smtp.adarshaschool.edu.bd
 snmapmhs.edu.bd
 soft.buzruksahighschool.edu.bd
@@ -491,6 +507,7 @@ webdisk.crim.edu.bd
 webdisk.drkajalilhs.edu.bd
 webdisk.dsce.edu.bd
 webdisk.gourinathpurdm.edu.bd
+webdisk.hajigonjdc.edu.bd
 webdisk.jangalkhainhs.edu.bd
 webdisk.katiadicollege.edu.bd
 webdisk.kpcbd.edu.bd
@@ -513,6 +530,7 @@ webmail.crim.edu.bd
 webmail.drkajalilhs.edu.bd
 webmail.dsce.edu.bd
 webmail.gourinathpurdm.edu.bd
+webmail.hajigonjdc.edu.bd
 webmail.jangalkhainhs.edu.bd
 webmail.katiadicollege.edu.bd
 webmail.kpcbd.edu.bd
@@ -530,6 +548,7 @@ www.admin.nstu.edu.bd
 www.admin.razapurcollege.edu.bd
 www.admission.raozancollege.edu.bd
 www.ahhs.buhi.edu.bd
+www.algipatakatahs.buhi.edu.bd
 www.as.bhsch.edu.bd
 www.auto.ikarchalihighschool.edu.bd
 www.backend.razapurcollege.edu.bd
@@ -542,6 +561,7 @@ www.bilnaliamhs.edu.bd
 www.bkdmad.edu.bd
 www.bktc.edu.bd
 www.bmjf.org.ikarchalihighschool.edu.bd
+www.bmlhs.edu.bd.azamc.edu.bd
 www.bn.amc.edu.bd
 www.bnabshs.edu.bd
 www.brahmandangahighschool.edu.bd
@@ -571,12 +591,15 @@ www.falimarijgs.edu.bd
 www.fuyad.adarshama.edu.bd
 www.geo.tejgaoncollege.edu.bd
 www.gjcss.edu.bd
+www.gkphs.edu.bd
 www.gmudm.edu.bd
 www.goalbathanhs.edu.bd
 www.golaharjs.edu.bd
 www.golaharspjs.edu.bd
 www.gourinathpurdm.edu.bd
 www.gpcs.edu.bd
+www.gwfm.edu.bd.azamc.edu.bd
+www.hajigonjdc.edu.bd
 www.hazisamiruddinhs.edu.bd
 www.hazradangashahidullahhs.edu.bd
 www.hkajss.edu.bd.pmndm.edu.bd
@@ -645,6 +668,7 @@ www.sitakundacollege.edu.bd
 www.sma.edu.bd
 www.smarthome.diit.edu.bd
 www.sms.katirhaths.edu.bd
+www.sms.piser.edu.bd
 www.snmapmhs.edu.bd
 www.soft.buzruksahighschool.edu.bd
 www.sports.mamannanmanikcollege.edu.bd
