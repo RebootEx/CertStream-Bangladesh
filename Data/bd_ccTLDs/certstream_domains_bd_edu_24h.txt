@@ -1,6 +1,7 @@
 a.akmu.edu.bd
 aaa.nischintapurcollege.edu.bd
 account.lbhsc.edu.bd
+aclaha.edu.bd
 adharahighschool.edu.bd
 aghs113613.edu.bd
 ahhs.edu.bd
@@ -24,6 +25,7 @@ autodiscover.akmnc.edu.bd
 autodiscover.chalkbazarjhs.edu.bd
 autodiscover.dsce.edu.bd
 autodiscover.empo.edu.bd
+autodiscover.gahsr.edu.bd
 autodiscover.golaidangamscollege.edu.bd
 autodiscover.kjnbdm.edu.bd
 autodiscover.rusdwdc.edu.bd
@@ -38,7 +40,10 @@ bashgarihighschool.edu.bd
 bbhsc.edu.bd
 bcam.edu.bd
 bfmk.edu.bd
+bghsc.edu.bd
 bhaluarcharhs.edu.bd
+bhatiaparahighschool.edu.bd
+bhghs.edu.bd
 biam.edu.bd
 bifmr.edu.bd
 binnafairhighschool.edu.bd
@@ -71,6 +76,7 @@ cpanel.chalkbazarjhs.edu.bd
 cpanel.charkalekhancollege.edu.bd
 cpanel.dsce.edu.bd
 cpanel.empo.edu.bd
+cpanel.gahsr.edu.bd
 cpanel.golaidangamscollege.edu.bd
 cpanel.gosingaalimmadrasah.edu.bd
 cpanel.hajigonjdc.edu.bd
@@ -90,6 +96,7 @@ cpcalendars.chalkbazarjhs.edu.bd
 cpcalendars.charkalekhancollege.edu.bd
 cpcalendars.dsce.edu.bd
 cpcalendars.empo.edu.bd
+cpcalendars.gahsr.edu.bd
 cpcalendars.golaidangamscollege.edu.bd
 cpcalendars.gosingaalimmadrasah.edu.bd
 cpcalendars.hajigonjdc.edu.bd
@@ -108,6 +115,7 @@ cpcontacts.chalkbazarjhs.edu.bd
 cpcontacts.charkalekhancollege.edu.bd
 cpcontacts.dsce.edu.bd
 cpcontacts.empo.edu.bd
+cpcontacts.gahsr.edu.bd
 cpcontacts.golaidangamscollege.edu.bd
 cpcontacts.gosingaalimmadrasah.edu.bd
 cpcontacts.hajigonjdc.edu.bd
@@ -128,10 +136,12 @@ dbaighs.edu.bd
 ddmm.edu.bd
 demo.gbgc.edu.bd
 departmentportal.diu.edu.bd
+developer.bilchaprassdm.edu.bd
 dgahs.edu.bd
 dharailimhighschool.edu.bd
 dhekrahs.edu.bd
 directory.vu.edu.bd
+dis2006.edu.bd
 djfm.edu.bd
 dkmhcollege.edu.bd
 dmfcollege.edu.bd
@@ -143,6 +153,7 @@ eastbtmchs.edu.bd
 edu.bd.amairhs.edu.bd
 edu.bd.azamc.edu.bd
 edu.bd.bishnopurhighs.edu.bd
+edu.bd.kantabarihs.edu.bd
 edu.bd.panditsarhs.edu.bd
 eee.cityuniversity.edu.bd
 ekmhcollege.edu.bd
@@ -156,8 +167,11 @@ exam.amc.edu.bd
 faiyazscr.edu.bd
 fatepurmhsac.edu.bd
 fatikchharigphighschool.edu.bd
+formanpurhighschool.edu.bd
+formanpurhighschool.edu.bd.bilshikaryhighschool.edu.bd
 forum.dic.edu.bd
 ftp.jamiraam.edu.bd
+gahsr.edu.bd
 gauss.edu.bd
 ggahsac.edu.bd
 ggphs.edu.bd
@@ -178,6 +192,7 @@ hmphsderai.edu.bd
 hosp.nischintapurcollege.edu.bd
 hrdi.rpsu.edu.bd
 hrmemorialdegreecollege.edu.bd
+htrmkm.edu.bd
 hvps.edu.bd
 ip.proyashrangpur.edu.bd
 islamiahighschool.edu.bd
@@ -186,6 +201,7 @@ jahangirpurggsandc.edu.bd
 jamiraam.edu.bd
 janatacollege1994.edu.bd
 jankhaliuss.edu.bd
+jessoregovtgirlshighschool.edu.bd
 jghighschool.edu.bd
 jhikraparaahs.edu.bd
 juhs.edu.bd
@@ -199,6 +215,7 @@ kholahaticollege.edu.bd
 kisdm.edu.bd
 kjnbdm.edu.bd
 kkmdm.edu.bd
+koinpurahighschool.edu.bd
 kqiss.edu.bd
 krghs.edu.bd
 ksghs1987.edu.bd
@@ -220,9 +237,11 @@ mail.bscr.edu.bd
 mail.cghsp.edu.bd
 mail.chalkbazarjhs.edu.bd
 mail.charkalekhancollege.edu.bd
+mail.dis2006.edu.bd
 mail.dsce.edu.bd
 mail.empo.edu.bd
 mail.faiyazscr.edu.bd
+mail.gahsr.edu.bd
 mail.ggahsac.edu.bd
 mail.gkphs.edu.bd
 mail.golaidangamscollege.edu.bd
@@ -269,6 +288,9 @@ nctomizia.edu.bd
 newhosp.nischintapurcollege.edu.bd
 neyamatpurhsc.edu.bd
 ngmlhsc.edu.bd
+ngs.edu.bd
+nhmsc.edu.bd
+nnnusfm.edu.bd
 noadiakhhighschool.edu.bd
 numlhs.edu.bd
 old.lsc.edu.bd
@@ -277,6 +299,7 @@ palashbarihighschool.edu.bd
 panchliabahs.edu.bd
 paraikoranhs.edu.bd
 parbatipurgovtcollege.edu.bd
+patnitalahs.edu.bd
 payment.vu.edu.bd
 pgsss1957.edu.bd
 phsrt.edu.bd
@@ -296,10 +319,13 @@ portal.npurpghs.edu.bd
 portal.pkbmhs.edu.bd
 portal.recr.edu.bd
 portal.sps.edu.bd
+proyashbogura.edu.bd
 proyashrangpur.edu.bd
 ptei.edu.bd
 putiahighschool.edu.bd
+queensuniversity.edu.bd
 raismahmudhighschool.edu.bd
+raozancollege.edu.bd
 rayganjdegreecollege.edu.bd
 rbhhs.edu.bd
 remamacollege.edu.bd
@@ -309,6 +335,7 @@ rhcbmc.edu.bd
 rmcchs.edu.bd
 rmhaziasaduzzamanhschool.edu.bd
 rmphs.edu.bd
+routine.bubt.edu.bd
 rrghs.edu.bd
 rusdwdc.edu.bd
 s.ahs.edu.bd
@@ -330,6 +357,7 @@ shahbaghrotaryhs.edu.bd
 shakhatihs.edu.bd
 shcollege.edu.bd
 sifm.edu.bd
+singherkathimlhs.edu.bd
 sldm.edu.bd
 sms.piser.edu.bd
 snhs.edu.bd
@@ -340,6 +368,7 @@ suchs.edu.bd
 sukhandighidm.edu.bd
 talmanhs.edu.bd
 tinbjs1993.edu.bd
+tmhsngn.edu.bd
 tnfm.edu.bd
 tsbhs.edu.bd
 ucgss.edu.bd
@@ -355,6 +384,7 @@ webdisk.chalkbazarjhs.edu.bd
 webdisk.charkalekhancollege.edu.bd
 webdisk.dsce.edu.bd
 webdisk.empo.edu.bd
+webdisk.gahsr.edu.bd
 webdisk.golaidangamscollege.edu.bd
 webdisk.gosingaalimmadrasah.edu.bd
 webdisk.hajigonjdc.edu.bd
@@ -373,6 +403,7 @@ webmail.chalkbazarjhs.edu.bd
 webmail.charkalekhancollege.edu.bd
 webmail.dsce.edu.bd
 webmail.empo.edu.bd
+webmail.gahsr.edu.bd
 webmail.golaidangamscollege.edu.bd
 webmail.gosingaalimmadrasah.edu.bd
 webmail.hajigonjdc.edu.bd
@@ -419,8 +450,10 @@ www.cscr.kdshs.edu.bd
 www.dahsc.edu.bd
 www.dashboard.borishurschoolandcollege.edu.bd
 www.demo.gbgc.edu.bd
+www.developer.bilchaprassdm.edu.bd
 www.dgahs.edu.bd.bishnopurhighs.edu.bd
 www.directory.vu.edu.bd
+www.dis2006.edu.bd
 www.djfm.edu.bd
 www.dsce.edu.bd
 www.eee.cityuniversity.edu.bd
@@ -431,6 +464,8 @@ www.enterkey.nakgh.edu.bd
 www.eprimary.kbfdm.edu.bd
 www.exam.amc.edu.bd
 www.faiyazscr.edu.bd
+www.formanpurhighschool.edu.bd.bilshikaryhighschool.edu.bd
+www.gahsr.edu.bd
 www.gauss.edu.bd
 www.ggahsac.edu.bd
 www.ghsg.edu.bd
@@ -476,21 +511,25 @@ www.nchs.edu.bd
 www.nctomizia.buhi.edu.bd
 www.newhosp.nischintapurcollege.edu.bd
 www.ngmlhsc.edu.bd
+www.ngs.edu.bd.kantabarihs.edu.bd
 www.numlhs.edu.bd
 www.old.lsc.edu.bd
 www.palashbarihighschool.edu.bd.amairhs.edu.bd
+www.patnitalahs.edu.bd.kantabarihs.edu.bd
 www.payment.vu.edu.bd
 www.pgsss1957.edu.bd
 www.phsrt.edu.bd
 www.portal.hbuc.edu.bd
 www.portal.recr.edu.bd
 www.primary.kalakopakpschool.edu.bd
+www.queensuniversity.edu.bd
 www.raismahmudhighschool.edu.bd
 www.rayganjdegreecollege.edu.bd
 www.rbhhs.edu.bd
 www.resultapp.kalakopakpschool.edu.bd
 www.rgpghs.edu.bd
 www.rmphs.edu.bd
+www.routine.bubt.edu.bd
 www.rrghs.edu.bd
 www.rusdwdc.edu.bd
 www.s.ahs.edu.bd
