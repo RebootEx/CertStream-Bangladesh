@@ -179,6 +179,7 @@ cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.rangpurdivhrm.gov.bd
 cpanel.rgccr.gov.bd
 cpanel.rtsc.gov.bd
+cpanel.sac.gov.bd
 cpanel.savarmunicipality.gov.bd
 cpanel.sfcworks.gov.bd
 cpanel.syedpurtsc.gov.bd
@@ -206,6 +207,7 @@ cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.rangpurdivhrm.gov.bd
 cpcalendars.rgccr.gov.bd
 cpcalendars.rtsc.gov.bd
+cpcalendars.sac.gov.bd
 cpcalendars.sfcworks.gov.bd
 cpcalendars.syedpurtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
@@ -230,6 +232,7 @@ cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.rangpurdivhrm.gov.bd
 cpcontacts.rgccr.gov.bd
 cpcontacts.rtsc.gov.bd
+cpcontacts.sac.gov.bd
 cpcontacts.sfcworks.gov.bd
 cpcontacts.syedpurtsc.gov.bd
 cpcontacts.tangailtsc.gov.bd
@@ -293,6 +296,7 @@ etds.gov.bd
 ezakat.gov.bd
 familycard.gov.bd
 faridganjmunicipality.gov.bd
+fdr.btcl.gov.bd
 feedback.dos.gov.bd
 financial-assist.dsw.gov.bd
 flora-bnh.gov.bd
@@ -497,6 +501,7 @@ mail.rgdc.gov.bd
 mail.rhdc.gov.bd
 mail.rri.gov.bd
 mail.rtsc.gov.bd
+mail.sac.gov.bd
 mail.saidpurmunicipality.gov.bd
 mail.satkhiratsc.gov.bd
 mail.savarmunicipality.gov.bd
@@ -541,6 +546,7 @@ mtsc.gov.bd
 muktopaath.gov.bd
 muladimunicipality.gov.bd
 munshiganjtsc.gov.bd
+myclass.gov.bd
 mymensingheducationboard.gov.bd
 nabinagarpourashava.gov.bd
 nabipurwestsmartup.gov.bd
@@ -623,6 +629,8 @@ rrdhs.gov.bd
 rtsc.gov.bd
 rupapatup.faridpurlg.gov.bd
 rwasa.gov.bd
+sac.gov.bd
+sacgov.sac.gov.bd
 sadarpurup.faridpurlg.gov.bd
 saidpurmunicipality.gov.bd
 satairup.faridpurlg.gov.bd
@@ -765,6 +773,7 @@ webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.rangpurdivhrm.gov.bd
 webdisk.rgccr.gov.bd
 webdisk.rtsc.gov.bd
+webdisk.sac.gov.bd
 webdisk.savarmunicipality.gov.bd
 webdisk.sfcworks.gov.bd
 webdisk.syedpurtsc.gov.bd
@@ -797,6 +806,7 @@ webmail.rangpurdivhrm.gov.bd
 webmail.rgccr.gov.bd
 webmail.rthd.gov.bd
 webmail.rtsc.gov.bd
+webmail.sac.gov.bd
 webmail.savarmunicipality.gov.bd
 webmail.sfcworks.gov.bd
 webmail.shmrmi.gov.bd
@@ -1010,6 +1020,8 @@ www.routine.rpi.gov.bd
 www.rtsc.gov.bd
 www.rupapatup.faridpurlg.gov.bd
 www.rwasa.gov.bd
+www.sac.gov.bd
+www.sacgov.sac.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.saidpurmunicipality.gov.bd
 www.satairup.faridpurlg.gov.bd
