@@ -21,6 +21,9 @@ app.gkpcollege.edu.bd
 app.jethagramhs.edu.bd
 app.rkha.edu.bd
 apps.diu.edu.bd
+apsp.daffodilvarsity.edu.bd
+aranagarhighschool.edu.bd
+asmrobcollege.edu.bd
 atghariahighschool.edu.bd
 autodiscover.akmnc.edu.bd
 autodiscover.chalkbazarjhs.edu.bd
@@ -39,6 +42,7 @@ bashbuniarashediahighschool.edu.bd
 bashbuniarashediahighschool.edu.bd.bhagirathpursecondaryschool.edu.bd
 bashgarihighschool.edu.bd
 bbhsc.edu.bd
+bbsahc.edu.bd
 bcam.edu.bd
 bfmk.edu.bd
 bghsc.edu.bd
@@ -54,6 +58,7 @@ bkdmb.edu.bd
 bktc.edu.bd
 bmlhs.edu.bd
 bnuhs.edu.bd
+bohailhighschool.edu.bd
 boliparaahs.edu.bd
 boliparaahs.edu.bd.bodm.edu.bd
 borishurschoolandcollege.edu.bd
@@ -76,6 +81,7 @@ cmshs.edu.bd
 convocation.vu.edu.bd
 cpanel.akmnc.edu.bd
 cpanel.angss.edu.bd
+cpanel.asmrobcollege.edu.bd
 cpanel.chalkbazarjhs.edu.bd
 cpanel.charkalekhancollege.edu.bd
 cpanel.dsce.edu.bd
@@ -96,6 +102,7 @@ cpanel.uob.edu.bd
 cpanel.zcbmc.edu.bd
 cpcalendars.akmnc.edu.bd
 cpcalendars.angss.edu.bd
+cpcalendars.asmrobcollege.edu.bd
 cpcalendars.chalkbazarjhs.edu.bd
 cpcalendars.charkalekhancollege.edu.bd
 cpcalendars.dsce.edu.bd
@@ -115,6 +122,7 @@ cpcalendars.uob.edu.bd
 cpcalendars.zcbmc.edu.bd
 cpcontacts.akmnc.edu.bd
 cpcontacts.angss.edu.bd
+cpcontacts.asmrobcollege.edu.bd
 cpcontacts.chalkbazarjhs.edu.bd
 cpcontacts.charkalekhancollege.edu.bd
 cpcontacts.dsce.edu.bd
@@ -135,6 +143,7 @@ cpcontacts.zcbmc.edu.bd
 cscr.kdshs.edu.bd
 ctgcs.edu.bd
 ctti.edu.bd
+daghsc.edu.bd
 dahsc.edu.bd
 dalalbazarcollege.edu.bd
 dbaighs.edu.bd
@@ -156,11 +165,13 @@ drmuic.edu.bd
 dsce.edu.bd
 duhashuhamlhighschool.edu.bd
 eastbtmchs.edu.bd
+eastjgss.edu.bd
 edu.bd.amairhs.edu.bd
 edu.bd.azamc.edu.bd
 edu.bd.bishnopurhighs.edu.bd
 edu.bd.kantabarihs.edu.bd
 edu.bd.panditsarhs.edu.bd
+edu.bd.shibpurhighschool.edu.bd
 eee.cityuniversity.edu.bd
 ekmhcollege.edu.bd
 elearn.daffodilvarsity.edu.bd
@@ -211,6 +222,7 @@ jankhaliuss.edu.bd
 jessoregovtgirlshighschool.edu.bd
 jghighschool.edu.bd
 jhikraparaahs.edu.bd
+jlmc.edu.bd
 juglyuhschool.edu.bd
 juglyuhschool.edu.bd.ihsh.edu.bd
 juhs.edu.bd
@@ -226,6 +238,7 @@ kisdm.edu.bd
 kjnbdm.edu.bd
 kkmdm.edu.bd
 koinpurahighschool.edu.bd
+kpss.edu.bd
 kqiss.edu.bd
 krghs.edu.bd
 ksghs1987.edu.bd
@@ -243,6 +256,7 @@ mail.akmnc.edu.bd
 mail.aleyaazamcollege.edu.bd
 mail.angss.edu.bd
 mail.anwaragirlshighschool.edu.bd
+mail.asmrobcollege.edu.bd
 mail.bscr.edu.bd
 mail.cghsp.edu.bd
 mail.chalkbazarjhs.edu.bd
@@ -261,6 +275,7 @@ mail.jamiraam.edu.bd
 mail.jhacademy.edu.bd
 mail.kjnbdm.edu.bd
 mail.kkmdm.edu.bd
+mail.kpss.edu.bd
 mail.lalkuthigsc.edu.bd
 mail.mhsp.edu.bd
 mail.nchs.edu.bd
@@ -295,6 +310,7 @@ mujibcollege.edu.bd
 naemulislam.phss.edu.bd
 naghschool.edu.bd
 nalivimss.edu.bd
+nbhsc.edu.bd
 nchs.edu.bd
 nctomizia.edu.bd
 newhosp.nischintapurcollege.edu.bd
@@ -302,6 +318,7 @@ neyamatpurhsc.edu.bd
 ngmlhsc.edu.bd
 ngs.edu.bd
 nhmsc.edu.bd
+nhschool.edu.bd
 niist.edu.bd
 nnnusfm.edu.bd
 noadiakhhighschool.edu.bd
@@ -309,6 +326,7 @@ numlhs.edu.bd
 old.lsc.edu.bd
 paikparaunionhighschool.edu.bd
 palashbarihighschool.edu.bd
+palerhatpublichs.edu.bd
 panchliabahs.edu.bd
 paraikoranhs.edu.bd
 parbatipurgovtcollege.edu.bd
@@ -336,6 +354,7 @@ proyashbogura.edu.bd
 proyashrangpur.edu.bd
 ptei.edu.bd
 putiahighschool.edu.bd
+qcsc.edu.bd
 queensuniversity.edu.bd
 raismahmudhighschool.edu.bd
 raozancollege.edu.bd
@@ -385,6 +404,7 @@ sreeramdiahighschool.edu.bd
 srscf.edu.bd
 suchs.edu.bd
 sukhandighidm.edu.bd
+taheranoorhighschoolandcollege.edu.bd
 talmanhs.edu.bd
 tinbjs1993.edu.bd
 tmhsngn.edu.bd
@@ -400,6 +420,7 @@ validate.vu.edu.bd
 vnsc.edu.bd
 webdisk.akmnc.edu.bd
 webdisk.angss.edu.bd
+webdisk.asmrobcollege.edu.bd
 webdisk.chalkbazarjhs.edu.bd
 webdisk.charkalekhancollege.edu.bd
 webdisk.dsce.edu.bd
@@ -419,6 +440,7 @@ webdisk.uob.edu.bd
 webdisk.zcbmc.edu.bd
 webmail.akmnc.edu.bd
 webmail.angss.edu.bd
+webmail.asmrobcollege.edu.bd
 webmail.chalkbazarjhs.edu.bd
 webmail.charkalekhancollege.edu.bd
 webmail.dsce.edu.bd
@@ -451,6 +473,8 @@ www.anwaragirlshighschool.edu.bd
 www.app.gkpcollege.edu.bd
 www.app.jethagramhs.edu.bd
 www.app.rkha.edu.bd
+www.aranagarhighschool.edu.bd.shibpurhighschool.edu.bd
+www.asmrobcollege.edu.bd
 www.bashbuniarashediahighschool.edu.bd.bhagirathpursecondaryschool.edu.bd
 www.bcam.edu.bd
 www.bifmr.edu.bd
@@ -511,6 +535,7 @@ www.kgresultapp.kalakopakpschool.edu.bd
 www.kisdm.edu.bd
 www.kjnbdm.edu.bd
 www.kkmdm.edu.bd
+www.kpss.edu.bd
 www.kqiss.edu.bd
 www.krghs.edu.bd
 www.ksghs1987.edu.bd
@@ -576,6 +601,7 @@ www.snhs.edu.bd
 www.sports.mamannanmanikcollege.edu.bd
 www.sreeramdiahighschool.edu.bd
 www.srscf.edu.bd
+www.taheranoorhighschoolandcollege.edu.bd
 www.talmanhs.edu.bd
 www.test.sukhandighidm.edu.bd
 www.tsbhs.edu.bd
