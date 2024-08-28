@@ -487,6 +487,7 @@ bfmb.edu.bd
 bfmk.edu.bd
 bfpi.edu.bd
 bgblhs.edu.bd
+bgdc.edu.bd
 bghs104055.edu.bd
 bghsc.edu.bd
 bghsk.edu.bd
@@ -1029,6 +1030,7 @@ cpanel.mukulikaschool.edu.bd
 cpanel.munshigonjcollege.edu.bd
 cpanel.nagarnursing.edu.bd
 cpanel.nags.edu.bd
+cpanel.nationalcollege.edu.bd
 cpanel.nchs.edu.bd
 cpanel.nemc.edu.bd
 cpanel.ngc.edu.bd
@@ -1304,6 +1306,7 @@ cpcalendars.mukulikaschool.edu.bd
 cpcalendars.munshigonjcollege.edu.bd
 cpcalendars.nagarnursing.edu.bd
 cpcalendars.nags.edu.bd
+cpcalendars.nationalcollege.edu.bd
 cpcalendars.nchs.edu.bd
 cpcalendars.nemc.edu.bd
 cpcalendars.ngc.edu.bd
@@ -1568,6 +1571,7 @@ cpcontacts.mukulikaschool.edu.bd
 cpcontacts.munshigonjcollege.edu.bd
 cpcontacts.nagarnursing.edu.bd
 cpcontacts.nags.edu.bd
+cpcontacts.nationalcollege.edu.bd
 cpcontacts.nchs.edu.bd
 cpcontacts.nemc.edu.bd
 cpcontacts.ngc.edu.bd
@@ -1801,6 +1805,7 @@ dkadm.edu.bd
 dkb.edu.bd
 dkmhcollege.edu.bd
 dkschool.edu.bd
+dla.stamforduniversity.edu.bd
 dm.karimpurkkbhs.edu.bd
 dmam1989.edu.bd
 dmdc.edu.bd
@@ -1835,6 +1840,8 @@ drdam.edu.bd
 drdmnil.edu.bd
 drhs1925.edu.bd
 drkajalilhs.edu.bd
+drmsc.edu.bd
+drmsicollege.edu.bd
 drmuic.edu.bd
 drs.edu.bd
 drsalehaselimhighschool.edu.bd
@@ -2617,6 +2624,7 @@ lebudangahs.edu.bd
 lelangaraphs.edu.bd
 lfbzac.edu.bd
 lghsraj.edu.bd
+lgis.edu.bd
 lgphs.edu.bd
 lhscnj.edu.bd
 library.girmm.edu.bd
@@ -2648,6 +2656,7 @@ m.opdm.edu.bd
 m.pcdm.edu.bd
 m.pddm.edu.bd
 m.rtpslot.gccc.edu.bd
+m.sjdm.edu.bd
 m.ssschool.edu.bd
 m.vdm.edu.bd
 maaghs.edu.bd
@@ -2920,6 +2929,7 @@ mail.lahs.edu.bd
 mail.lalkuthigsc.edu.bd
 mail.lbic.edu.bd
 mail.lelangaraphs.edu.bd
+mail.lgis.edu.bd
 mail.ludhuammhs.edu.bd
 mail.machhmarahs.edu.bd
 mail.machmailghs.edu.bd
@@ -2959,6 +2969,7 @@ mail.mukulikaschool.edu.bd
 mail.munshigonjcollege.edu.bd
 mail.nagarnursing.edu.bd
 mail.nags.edu.bd
+mail.nationalcollege.edu.bd
 mail.nbhschool.edu.bd
 mail.nbpmhs.edu.bd
 mail.nchs.edu.bd
@@ -3270,6 +3281,7 @@ murarikatiuhe.edu.bd
 musfcghsc.edu.bd
 mushulihighschool.edu.bd
 mutshs.edu.bd
+mwdct.edu.bd
 myapi.bilchaprassdm.edu.bd
 myapp.sis.edu.bd
 naahdm.edu.bd
@@ -3300,6 +3312,7 @@ nasdm.edu.bd
 nasiruddinhs.edu.bd
 nasratpurdegreecollege.edu.bd
 natherkandihs.edu.bd
+nationalcollege.edu.bd
 natmuraphs.edu.bd
 navaronmam.edu.bd
 nayagolahs.edu.bd
@@ -3374,6 +3387,7 @@ northpoint.edu.bd
 nouriahs.edu.bd
 nouriahs.edu.bd.hmsrhs.edu.bd
 nowparahighschool.edu.bd
+nowparasandc.edu.bd
 npcctg.edu.bd
 npscnoakhali.edu.bd
 npurhighschool.edu.bd
@@ -3396,6 +3410,7 @@ nzhschool.edu.bd
 ogmescollege.edu.bd
 ois.edu.bd
 old.bbcpsc.edu.bd
+old.bjkhs1883.edu.bd
 old.dighirparacb.edu.bd
 old.just.edu.bd
 old.lsc.edu.bd
@@ -3537,6 +3552,7 @@ portal.infra.edu.bd
 portal.ishwardimohilacollege.edu.bd
 portal.kalyanihighschool.edu.bd
 portal.kashimpurphs.edu.bd
+portal.kshuhs.edu.bd
 portal.lnicollege.edu.bd
 portal.mahhs.edu.bd
 portal.majiruddinhs.edu.bd
@@ -3626,6 +3642,7 @@ rbc.edu.bd
 rbdm.edu.bd
 rbghschool.edu.bd
 rbhhs.edu.bd
+rbk.edu.bd
 rckhs.edu.bd
 rcs.edu.bd
 rdanc.edu.bd
@@ -3843,6 +3860,7 @@ sherpurgovtcollege.edu.bd
 shialkandahighschool.edu.bd
 shibganjcollege.edu.bd
 shibpurhighschool.edu.bd
+shibpurnsschool.edu.bd
 shjs.edu.bd
 shollaschoolcollege.edu.bd
 shoulaadarsha.edu.bd
@@ -4030,6 +4048,8 @@ telaihs.edu.bd
 teligramhs.edu.bd
 teliparahs.edu.bd
 test.bnis.edu.bd
+test.diu.edu.bd
+test.tpsc.edu.bd
 tfkghsmbs.edu.bd
 tghs1967.edu.bd
 tgmss.edu.bd
@@ -4316,6 +4336,7 @@ webdisk.mukulikaschool.edu.bd
 webdisk.munshigonjcollege.edu.bd
 webdisk.nagarnursing.edu.bd
 webdisk.nags.edu.bd
+webdisk.nationalcollege.edu.bd
 webdisk.nchs.edu.bd
 webdisk.nemc.edu.bd
 webdisk.ngc.edu.bd
@@ -4602,6 +4623,7 @@ webmail.mukulikaschool.edu.bd
 webmail.munshigonjcollege.edu.bd
 webmail.nagarnursing.edu.bd
 webmail.nags.edu.bd
+webmail.nationalcollege.edu.bd
 webmail.nchs.edu.bd
 webmail.nemc.edu.bd
 webmail.ngc.edu.bd
@@ -5086,6 +5108,7 @@ www.diu.edu.bd
 www.djfm.edu.bd
 www.djic.edu.bd
 www.dkadm.edu.bd
+www.dla.stamforduniversity.edu.bd
 www.dm.karimpurkkbhs.edu.bd
 www.dmam1989.edu.bd
 www.dmdc.edu.bd
@@ -5438,6 +5461,7 @@ www.lbsc.edu.bd
 www.learn.eastdelta.edu.bd
 www.lelangaraphs.edu.bd
 www.lghsraj.edu.bd
+www.lgis.edu.bd
 www.library.eastdelta.edu.bd
 www.library.girmm.edu.bd
 www.library.hamdarduniversity.edu.bd
@@ -5463,6 +5487,7 @@ www.m.opdm.edu.bd
 www.m.pcdm.edu.bd
 www.m.pddm.edu.bd
 www.m.rtpslot.gccc.edu.bd
+www.m.sjdm.edu.bd
 www.m.ssgsbagerhat.edu.bd
 www.m.vdm.edu.bd
 www.maaghs.edu.bd.bpphs.edu.bd
@@ -5569,6 +5594,7 @@ www.narandiatrkn.edu.bd
 www.nasdm.edu.bd
 www.nasiruddinhs.edu.bd
 www.nasratpurdegreecollege.edu.bd
+www.nationalcollege.edu.bd
 www.nazrul-institute.jkkniu.edu.bd
 www.nbhschool.edu.bd
 www.nbpmhs.edu.bd
@@ -5613,6 +5639,7 @@ www.numlhs.edu.bd
 www.ocrs.hamdarduniversity.edu.bd
 www.ois.edu.bd
 www.old.bbcpsc.edu.bd
+www.old.bjkhs1883.edu.bd
 www.old.dighirparacb.edu.bd
 www.old.lsc.edu.bd
 www.old.mhrms.edu.bd
@@ -5661,6 +5688,7 @@ www.pms.edu.bd
 www.ponahuramadrasah.edu.bd
 www.porabarihschool.edu.bd.poarbarihighschool.edu.bd
 www.portal.hbuc.edu.bd
+www.portal.kshuhs.edu.bd
 www.portal.nipghs.edu.bd
 www.portal.recr.edu.bd
 www.portcity.edu.bd
@@ -5703,6 +5731,7 @@ www.razapurcollege.edu.bd
 www.rbbn.edu.bd
 www.rbghschool.edu.bd
 www.rbhhs.edu.bd
+www.rbk.edu.bd
 www.rcs.edu.bd
 www.rdanc.edu.bd
 www.rdc.edu.bd
