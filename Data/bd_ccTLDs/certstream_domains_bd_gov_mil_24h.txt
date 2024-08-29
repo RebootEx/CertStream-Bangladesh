@@ -6,8 +6,10 @@ admitcard.comillaboard.gov.bd
 amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
 api.ncpds.dae.gov.bd
+api.pds.dae.gov.bd
 api.vaxepi.gov.bd
 assignmentmarks.comillaboard.gov.bd
+autodiscover.caabhc.gov.bd
 bdhckl.gov.bd
 borhamganjcollege.gov.bd
 bpmis.bsc.gov.bd
@@ -21,13 +23,16 @@ comillaboard.gov.bd
 corona.gov.bd
 cpanel.eregistration.gov.bd
 cpanel.psdsms.gov.bd
+cpcalendars.caabhc.gov.bd
 cpcalendars.eregistration.gov.bd
 cpcalendars.psdsms.gov.bd
+cpcontacts.caabhc.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.psdsms.gov.bd
 ctgtaxeszone2.gov.bd
 cumilla.gov.bd
 ebalance.ansarvdpbank.gov.bd
+eduhub.gov.bd
 eff.comillaboard.gov.bd
 effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
@@ -50,6 +55,7 @@ job.bsc.gov.bd
 jresult.bise-ctg.gov.bd
 kmhc.gov.bd
 lutercharup.gov.bd
+mail.caabhc.gov.bd
 mail.eregistration.gov.bd
 mail.gca.comillaboard.gov.bd
 mail.institute.comillaboard.gov.bd
@@ -74,6 +80,7 @@ onlineschooltc.comillaboard.gov.bd
 onlineshr.dghs.gov.bd
 onlinesonaliacc.comillaboard.gov.bd
 onlinetc.comillaboard.gov.bd
+pds.dae.gov.bd
 pension.comillaboard.gov.bd
 pmes.most.gov.bd
 practical.comillaboard.gov.bd
@@ -83,6 +90,7 @@ regicorr.comillaboard.gov.bd
 regicorrhsc.comillaboard.gov.bd
 result19.comillaboard.gov.bd
 rollsheet.comillaboard.gov.bd
+rpi.gov.bd
 smartavijogbox.gov.bd
 smartdistrict.gov.bd
 smsbjri.gov.bd
@@ -90,6 +98,7 @@ smsgateway.comillaboard.gov.bd
 soltrack.gov.bd
 sonalipayment.comillaboard.gov.bd
 spg.comillaboard.gov.bd
+sreda.gov.bd
 sscadmitcard.comillaboard.gov.bd
 ssf.gov.bd
 sso.gca.comillaboard.gov.bd
@@ -101,6 +110,7 @@ ttc.gov.bd
 uniontax.gov.bd
 vtti.gov.bd
 web.comillaboard.gov.bd
+webdisk.caabhc.gov.bd
 webdisk.eregistration.gov.bd
 webdisk.psdsms.gov.bd
 webmail.eregistration.gov.bd
@@ -113,14 +123,20 @@ www.banaras.zpmoulvibazar.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.comillaboard.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
+www.eecpfp.sreda.gov.bd
+www.elibrary.sreda.gov.bd
 www.eregistration.gov.bd
 www.gca.comillaboard.gov.bd
 www.ghtcb.melandahbhata.gov.bd
+www.hostal.rpi.gov.bd
+www.hostel-sever.rpi.gov.bd
+www.hostel.rpi.gov.bd
 www.hscadmission.comillaboard.gov.bd
 www.institute.comillaboard.gov.bd
 www.lutercharup.gov.bd
 www.meghnacloud.gov.bd
 www.meherparaup.narsingdilg.gov.bd
+www.nemcalc.sreda.gov.bd
 www.nidw.gov.bd
 www.onlinepayment.comillaboard.gov.bd
 www.onlineschooltc.comillaboard.gov.bd
@@ -135,6 +151,7 @@ www.sscadmitcard.comillaboard.gov.bd
 www.sso.gca.comillaboard.gov.bd
 www.taxcertificate.comillaboard.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
+www.training.sreda.gov.bd
 www.xi.onlinetc.comillaboard.gov.bd
 www.xii.onlinetc.comillaboard.gov.bd
 xi.onlinetc.comillaboard.gov.bd
