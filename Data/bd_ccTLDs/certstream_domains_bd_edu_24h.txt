@@ -25,6 +25,7 @@ autodiscover.bmsmhs.edu.bd
 autodiscover.cbbnj.edu.bd
 autodiscover.gahschool.edu.bd
 autodiscover.govtnacollege.edu.bd
+autodiscover.kucghighschool.edu.bd
 autodiscover.lghschool.edu.bd
 autodiscover.mghschoolg.edu.bd
 autodiscover.misiraaghs.edu.bd
@@ -57,6 +58,7 @@ bnisc.edu.bd
 board.hasc.edu.bd
 bohiparahs.edu.bd
 bohotihs.edu.bd
+boliadahahighschool.edu.bd
 borgaonhs.edu.bd
 bphsmj.edu.bd
 bscollege.edu.bd
@@ -68,6 +70,7 @@ cbbnj.edu.bd
 cghsnil.edu.bd
 champoknagarhighschool.edu.bd
 changmarihighschool.edu.bd
+cirdhhs.edu.bd
 cknahs.edu.bd
 cmpsc.edu.bd
 college.lalkuthigsc.edu.bd
@@ -99,6 +102,7 @@ cpanel.ipscctg.edu.bd
 cpanel.janashaktisecondarygirlsschool.edu.bd
 cpanel.jcpscsylhet.edu.bd
 cpanel.kfgsc.edu.bd
+cpanel.kucghighschool.edu.bd
 cpanel.lakers.edu.bd
 cpanel.lghschool.edu.bd
 cpanel.maguragovtwomencollege.edu.bd
@@ -125,6 +129,7 @@ cpcalendars.gahschool.edu.bd
 cpcalendars.govtnacollege.edu.bd
 cpcalendars.gssc.edu.bd
 cpcalendars.janashaktisecondarygirlsschool.edu.bd
+cpcalendars.kucghighschool.edu.bd
 cpcalendars.lghschool.edu.bd
 cpcalendars.maguragovtwomencollege.edu.bd
 cpcalendars.mghschoolg.edu.bd
@@ -144,6 +149,7 @@ cpcontacts.gahschool.edu.bd
 cpcontacts.govtnacollege.edu.bd
 cpcontacts.gssc.edu.bd
 cpcontacts.janashaktisecondarygirlsschool.edu.bd
+cpcontacts.kucghighschool.edu.bd
 cpcontacts.lghschool.edu.bd
 cpcontacts.maguragovtwomencollege.edu.bd
 cpcontacts.mghschoolg.edu.bd
@@ -177,6 +183,7 @@ dinajpurgcc.edu.bd
 dkdm.edu.bd
 dla.stamforduniversity.edu.bd
 dmrhs.edu.bd
+dngcnckss.edu.bd
 dnsphs.edu.bd
 drmsicollege.edu.bd
 dsse.stamforduniversity.edu.bd
@@ -236,6 +243,7 @@ jpblhs.edu.bd.bilshikaryhighschool.edu.bd
 jssc.edu.bd
 kalikapurakrdmadrasha.edu.bd
 kanthalbaridegreecollege.edu.bd
+kanthalischs.edu.bd
 kbpchs.edu.bd
 kcssac.edu.bd
 kdckashipur.edu.bd
@@ -253,6 +261,8 @@ kmuhs.edu.bd
 krc.edu.bd
 ks8-id.polsairtphs.edu.bd
 kthschool.edu.bd
+kucghighschool.edu.bd
+kuriparahighschool.edu.bd
 lakers.edu.bd
 lalkuthigsc.edu.bd
 laptop.daffodilvarsity.edu.bd
@@ -269,6 +279,7 @@ m.ppmam.edu.bd
 m.sjdm.edu.bd
 madhupurkazirhaths.edu.bd
 maguragovtwomencollege.edu.bd
+mahichailhs.edu.bd
 mail.asiannursing.edu.bd
 mail.batajorebmhs.edu.bd
 mail.bdahs.edu.bd
@@ -288,8 +299,10 @@ mail.janashaktisecondarygirlsschool.edu.bd
 mail.jhaudangahighschool.edu.bd
 mail.kgdcollege.edu.bd
 mail.khslb.edu.bd
+mail.kucghighschool.edu.bd
 mail.lghschool.edu.bd
 mail.maguragovtwomencollege.edu.bd
+mail.mahichailhs.edu.bd
 mail.mammadrasah.edu.bd
 mail.mghschoolg.edu.bd
 mail.misam.edu.bd
@@ -335,6 +348,7 @@ nuhsk.edu.bd
 ogghs.edu.bd
 old.abrmsc.edu.bd
 old.bjkhs1883.edu.bd
+onlinepayment.jis.edu.bd
 pabnagovernmentcollege.edu.bd
 pbmgirlshighschool.edu.bd
 pcsac.edu.bd
@@ -343,6 +357,7 @@ pearalicollege.edu.bd
 pgbmdm.edu.bd
 plhsc.edu.bd
 plscpabna.edu.bd
+pmths.edu.bd
 portal.anwaragirlshighschool.edu.bd
 portal.bscr.edu.bd
 portal.dmrc.edu.bd
@@ -398,6 +413,7 @@ saic.edu.bd
 samnfm.edu.bd
 sayedbazlulhaqueschool.edu.bd
 sazanabaub.edu.bd
+sbhschool.edu.bd
 scholar.cvghs.edu.bd
 school.lalkuthigsc.edu.bd
 sdghs.edu.bd
@@ -446,6 +462,7 @@ webdisk.gahschool.edu.bd
 webdisk.govtnacollege.edu.bd
 webdisk.gssc.edu.bd
 webdisk.janashaktisecondarygirlsschool.edu.bd
+webdisk.kucghighschool.edu.bd
 webdisk.lghschool.edu.bd
 webdisk.maguragovtwomencollege.edu.bd
 webdisk.mghschoolg.edu.bd
@@ -479,6 +496,7 @@ webmail.islampurcollege.edu.bd
 webmail.janashaktisecondarygirlsschool.edu.bd
 webmail.jcpscsylhet.edu.bd
 webmail.kfgsc.edu.bd
+webmail.kucghighschool.edu.bd
 webmail.lakers.edu.bd
 webmail.lghschool.edu.bd
 webmail.maguragovtwomencollege.edu.bd
@@ -531,6 +549,7 @@ www.ddedm.edu.bd
 www.demo.shibganjhighschool.edu.bd
 www.dla.stamforduniversity.edu.bd
 www.dmrhs.edu.bd
+www.dngcnckss.edu.bd
 www.dph.fcub.edu.bd
 www.dsse.stamforduniversity.edu.bd
 www.eee.fcub.edu.bd
@@ -568,6 +587,7 @@ www.jssc.edu.bd
 www.kfgsc.edu.bd
 www.kgdcollege.edu.bd
 www.khslb.edu.bd
+www.kucghighschool.edu.bd
 www.lakers.edu.bd
 www.lcghs.edu.bd
 www.lghschool.edu.bd
@@ -580,6 +600,7 @@ www.m.piainguljameya.edu.bd
 www.m.ppmam.edu.bd
 www.m.sjdm.edu.bd
 www.maguragovtwomencollege.edu.bd
+www.mahichailhs.edu.bd
 www.mammadrasah.edu.bd
 www.mbo.stamforduniversity.edu.bd
 www.mghschoolg.edu.bd
