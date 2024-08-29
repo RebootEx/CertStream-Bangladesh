@@ -1,9 +1,11 @@
 2020-21.onlinetc.comillaboard.gov.bd
 accounts.comillaboard.gov.bd
+adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 amr.cdc.gov.bd
 api.ncpds.dae.gov.bd
+api.vaxepi.gov.bd
 assignmentmarks.comillaboard.gov.bd
 bdhckl.gov.bd
 borhamganjcollege.gov.bd
@@ -22,6 +24,8 @@ cpcalendars.eregistration.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcontacts.eregistration.gov.bd
 cpcontacts.psdsms.gov.bd
+ctgtaxeszone2.gov.bd
+cumilla.gov.bd
 ebalance.ansarvdpbank.gov.bd
 eff.comillaboard.gov.bd
 effjsc.bise-ctg.gov.bd
@@ -35,6 +39,7 @@ gca.bise-ctg.gov.bd
 gca.comillaboard.gov.bd
 gms.dscc.gov.bd
 hallbooking.awt.mil.bd
+hathazaripourashava.gov.bd
 hscadmission.comillaboard.gov.bd
 institute.comillaboard.gov.bd
 institution.comillaboard.gov.bd
@@ -53,6 +58,7 @@ mail.psdsms.gov.bd
 mail.qb.comillaboard.gov.bd
 mail.sonalipayment.comillaboard.gov.bd
 mail.taxcertificate.comillaboard.gov.bd
+meghnacloud.gov.bd
 melandahbhata.gov.bd
 mymail.ekshop.gov.bd
 narsingdilg.gov.bd
@@ -67,6 +73,7 @@ onlineshr.dghs.gov.bd
 onlinesonaliacc.comillaboard.gov.bd
 onlinetc.comillaboard.gov.bd
 pension.comillaboard.gov.bd
+pmes.most.gov.bd
 practical.comillaboard.gov.bd
 psdsms.gov.bd
 qb.comillaboard.gov.bd
@@ -85,6 +92,7 @@ sso.gca.comillaboard.gov.bd
 taxcertificate.comillaboard.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
+teachers.gov.bd
 ttc.gov.bd
 vtti.gov.bd
 web.comillaboard.gov.bd
@@ -106,6 +114,7 @@ www.ghtcb.melandahbhata.gov.bd
 www.hscadmission.comillaboard.gov.bd
 www.institute.comillaboard.gov.bd
 www.lutercharup.gov.bd
+www.meghnacloud.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.nidw.gov.bd
 www.onlinepayment.comillaboard.gov.bd
