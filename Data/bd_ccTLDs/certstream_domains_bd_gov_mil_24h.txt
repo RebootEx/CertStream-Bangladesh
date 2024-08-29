@@ -4,6 +4,7 @@ adminapi.vaxepi.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 amr.cdc.gov.bd
+api.bfacf-ticket.gov.bd
 api.ncpds.dae.gov.bd
 api.vaxepi.gov.bd
 assignmentmarks.comillaboard.gov.bd
@@ -38,6 +39,7 @@ fgc.gov.bd
 gca.bise-ctg.gov.bd
 gca.comillaboard.gov.bd
 gms.dscc.gov.bd
+gsfmcbhola.gov.bd
 hallbooking.awt.mil.bd
 hathazaripourashava.gov.bd
 hscadmission.comillaboard.gov.bd
@@ -83,17 +85,20 @@ result19.comillaboard.gov.bd
 rollsheet.comillaboard.gov.bd
 smartavijogbox.gov.bd
 smartdistrict.gov.bd
+smsbjri.gov.bd
 smsgateway.comillaboard.gov.bd
 soltrack.gov.bd
 sonalipayment.comillaboard.gov.bd
 spg.comillaboard.gov.bd
 sscadmitcard.comillaboard.gov.bd
+ssf.gov.bd
 sso.gca.comillaboard.gov.bd
 taxcertificate.comillaboard.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
 teachers.gov.bd
 ttc.gov.bd
+uniontax.gov.bd
 vtti.gov.bd
 web.comillaboard.gov.bd
 webdisk.eregistration.gov.bd
