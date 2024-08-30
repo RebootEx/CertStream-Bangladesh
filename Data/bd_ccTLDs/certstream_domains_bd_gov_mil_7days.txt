@@ -220,6 +220,7 @@ en.info.shr.dghs.gov.bd
 enrollment.bnacwcafd.gov.bd
 equipment.scc.gov.bd
 eregistration.gov.bd
+erp.bakshiganjpourashava.gov.bd
 erp.bcsadminacademy.gov.bd
 esifsix.bise-ctg.gov.bd
 esifsix.comillaboard.gov.bd
@@ -299,6 +300,7 @@ khulna.gov.bd
 khulnadiv.gov.bd
 khulnattc.gov.bd
 kishoreganj.gov.bd
+kkcp.gov.bd
 kmc.gov.bd
 kmhc.gov.bd
 kmttc.gov.bd
@@ -419,6 +421,7 @@ ntrc.gameapp.gov.bd
 nutritionprofile.gov.bd
 nwpgcl.gov.bd
 old.comillaboard.gov.bd
+old.dghs.gov.bd
 oldnothi.bfa.gov.bd
 online.bpi.com.ph.dhamraimunicipality.gov.bd
 online.gbrcr.gov.bd
@@ -430,6 +433,7 @@ onlineshr.dghs.gov.bd
 onlinesonaliacc.comillaboard.gov.bd
 onlinetc.comillaboard.gov.bd
 openid.dghs.gov.bd
+oss.beza.gov.bd
 otms.nass.gov.bd
 pabna.gov.bd
 panchagarhmunicipality.gov.bd
@@ -482,6 +486,7 @@ saidpurmunicipality.gov.bd
 satairup.faridpurlg.gov.bd
 sathi.gov.bd
 satkhira.gov.bd
+satkhirapolice.gov.bd
 satkhiratsc.gov.bd
 sbcbiz.gov.bd
 scan.jessoreboard.gov.bd
@@ -489,6 +494,7 @@ scc.gov.bd
 sccdc.scc.gov.bd
 scholarship.dsw.gov.bd
 school.gov.bd
+service.hbri.gov.bd
 sgc.gov.bd
 shariatpurmunicipality.gov.bd
 sherpur.gov.bd
@@ -528,6 +534,7 @@ sso.gca.comillaboard.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
 sujanagarmunicipality.gov.bd
+sunamganjpourashava.gov.bd
 sundalpurup.gov.bd
 swh.bwdb.gov.bd
 syedpurtsc.gov.bd
@@ -670,6 +677,7 @@ www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
 www.equipment.scc.gov.bd
 www.eregistration.gov.bd
+www.erp.bakshiganjpourashava.gov.bd
 www.esifsix.comillaboard.gov.bd
 www.ezakat.gov.bd
 www.faridganjmunicipality.gov.bd
@@ -825,4 +833,5 @@ xii.onlinetc.comillaboard.gov.bd
 zpfeni.gov.bd
 zpkhulna.gov.bd
 zpmoulvibazar.gov.bd
+zpmunshiganj.gov.bd
 zprajshahi.gov.bd
