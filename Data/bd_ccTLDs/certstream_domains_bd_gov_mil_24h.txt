@@ -1,5 +1,6 @@
 amarbangabandhu.gov.bd
 api.bfacf-ticket.gov.bd
+api.ncpds.dae.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.ttcraj.gov.bd
 bdhckl.gov.bd
@@ -8,6 +9,7 @@ bpmis.bsc.gov.bd
 brahmanbariamunicipality.gov.bd
 burichangsadarup.gov.bd
 cbcctg.gov.bd
+chuadangacollege.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.ttcraj.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
@@ -19,9 +21,11 @@ debidwarpourashava.gov.bd
 eff.comillaboard.gov.bd
 equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
+estore.bsc.gov.bd
 etender.comillaboard.gov.bd
 galagaon.upmymensinghholdingtax.gov.bd
 ghoraghatmunicipality.gov.bd
+gms.dscc.gov.bd
 idea.gov.bd
 iresppw-brdb.gov.bd
 jitsi.vc8.bcc.gov.bd
@@ -38,6 +42,7 @@ mail.ttcraj.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
 mis.iresppw-brdb.gov.bd
+ncpds.dae.gov.bd
 nicvd.gov.bd
 nilmrc.gov.bd
 nilphamarittc.gov.bd
@@ -66,6 +71,7 @@ www.burichangsadarup.gov.bd
 www.cbcctg.gov.bd
 www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
+www.estore.bsc.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
 www.hostal.rpi.gov.bd
 www.iresppw-brdb.gov.bd
@@ -75,5 +81,6 @@ www.mis.iresppw-brdb.gov.bd
 www.nicvd.gov.bd
 www.nilmrc.gov.bd
 www.scan.jessoreboard.gov.bd
+www.student-portal.rpi.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.ttcraj.gov.bd
