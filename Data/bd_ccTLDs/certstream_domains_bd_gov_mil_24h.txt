@@ -1,7 +1,9 @@
 admin.tourismctg.gov.bd
+adminapi.vaxepi.gov.bd
 amarbangabandhu.gov.bd
 api.bfacf-ticket.gov.bd
 api.ncpds.dae.gov.bd
+api.vaxepi.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.ttcraj.gov.bd
 bdhckl.gov.bd
@@ -19,6 +21,7 @@ cpcalendars.ttcraj.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.ttcraj.gov.bd
 dcarangpur.gov.bd
+dcrs.brri.gov.bd
 debidwarpourashava.gov.bd
 eff.comillaboard.gov.bd
 equipment.scc.gov.bd
@@ -29,6 +32,8 @@ etender.comillaboard.gov.bd
 galagaon.upmymensinghholdingtax.gov.bd
 ghoraghatmunicipality.gov.bd
 gms.dscc.gov.bd
+gpufp.gov.bd
+grsreport.karmasangsthanbank.gov.bd
 hallbooking.awt.mil.bd
 hscadmit.bise-ctg.gov.bd
 idea.gov.bd
@@ -77,12 +82,15 @@ webdisk.ttcraj.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.ttcraj.gov.bd
 www.app.taxeszone4ctg.gov.bd
+www.apply.zpmoulvibazar.gov.bd
+www.banaras.zpmoulvibazar.gov.bd
 www.burichangsadarup.gov.bd
 www.cbcctg.gov.bd
 www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.estore.bsc.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
+www.grsreport.karmasangsthanbank.gov.bd
 www.hostal.rpi.gov.bd
 www.iresppw-brdb.gov.bd
 www.logistics.gov.bd
@@ -90,8 +98,10 @@ www.madhukhaliup.faridpurlg.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.nicvd.gov.bd
 www.nilmrc.gov.bd
+www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
 www.student-portal.rpi.gov.bd
 www.student.cmc.gov.bd
 www.test.taxeszone4ctg.gov.bd
 www.ttcraj.gov.bd
+zpmoulvibazar.gov.bd
