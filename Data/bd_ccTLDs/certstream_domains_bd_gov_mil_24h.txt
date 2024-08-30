@@ -1,6 +1,7 @@
 admin.tourismctg.gov.bd
 adminapi.vaxepi.gov.bd
 amarbangabandhu.gov.bd
+amr.cdc.gov.bd
 api.bfacf-ticket.gov.bd
 api.ncpds.dae.gov.bd
 api.vaxepi.gov.bd
@@ -13,6 +14,7 @@ brahmanbariamunicipality.gov.bd
 burichangsadarup.gov.bd
 bwc.gov.bd
 cbcctg.gov.bd
+cdc.gov.bd
 chuadangacollege.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.ttcraj.gov.bd
@@ -28,6 +30,7 @@ eff.comillaboard.gov.bd
 equipment.scc.gov.bd
 erp.bakshiganjpourashava.gov.bd
 esifhsc.bise-ctg.gov.bd
+estate.kda.gov.bd
 estore.bsc.gov.bd
 etender.comillaboard.gov.bd
 galagaon.upmymensinghholdingtax.gov.bd
@@ -53,6 +56,7 @@ mail.nilmrc.gov.bd
 mail.ttcraj.gov.bd
 market.dam.gov.bd
 marketing.mushroomproject.gov.bd
+melandahbhata.gov.bd
 mis.iresppw-brdb.gov.bd
 mymail.ekshop.gov.bd
 nameage.comillaboard.gov.bd
@@ -63,12 +67,16 @@ nilphamarittc.gov.bd
 nttc.gov.bd
 onlineshr.dghs.gov.bd
 openid.dghs.gov.bd
+oss.beza.gov.bd
 pensionfacerecognition.finance.gov.bd
 pmes.most.gov.bd
 practical.bise-ctg.gov.bd
 rescrutiny.comillaboard.gov.bd
 rpi.gov.bd
+satkhirapolice.gov.bd
 scan.jessoreboard.gov.bd
+senbagmunicipality.gov.bd
+service.hbri.gov.bd
 smsgateway.comillaboard.gov.bd
 student.cmc.gov.bd
 sylhettsc.gov.bd
@@ -95,9 +103,11 @@ www.equipment.scc.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.estore.bsc.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
+www.ghtcb.melandahbhata.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.hostal.rpi.gov.bd
 www.iresppw-brdb.gov.bd
+www.laksampourashava.gov.bd
 www.logistics.gov.bd
 www.madhukhaliup.faridpurlg.gov.bd
 www.mis.iresppw-brdb.gov.bd
