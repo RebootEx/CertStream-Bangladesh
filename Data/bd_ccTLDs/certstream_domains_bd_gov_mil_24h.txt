@@ -5,6 +5,7 @@ alutila-api.dc-khagrachhari.gov.bd
 alutila.dc-khagrachhari.gov.bd
 autodiscover.tscgopal.gov.bd
 bard.idsdp.rdcd.gov.bd
+bditec.gov.bd
 beneficiary.idsdp.rdcd.gov.bd
 birthdeath.dghs.gov.bd
 certificates.gov.bd
@@ -29,11 +30,13 @@ inheritance.dc-khagrachhari.gov.bd
 lb.ictbdiasms.gov.bd
 logo.gov.bd
 mail.ictbdiasms.gov.bd
+mail.nicvd.gov.bd
 mail.tscgopal.gov.bd
 market.dam.gov.bd
 milkvita.idsdp.rdcd.gov.bd
 news.dcarangpur.gov.bd
 ngosavar.gov.bd
+nicvd.gov.bd
 nise3.gov.bd
 nuralapur.narsingdilg.gov.bd
 oaf.comillaboard.gov.bd
@@ -45,11 +48,14 @@ residence.dc-khagrachhari.gov.bd
 rpi.gov.bd
 satkhirapolice.gov.bd
 sccdc.scc.gov.bd
+smef.ekpay.gov.bd
 somch.gov.bd
 sonod.gov.bd
 sonod.scc.gov.bd
 srdl.gov.bd
 ssl-check.ekshop.gov.bd
+sundargonjpourashava.gov.bd
+taxeszone4ctg.gov.bd
 tm.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 tscgopal.gov.bd
@@ -76,6 +82,7 @@ www.inheritance.dc-khagrachhari.gov.bd
 www.lb.ictbdiasms.gov.bd
 www.milkvita.idsdp.rdcd.gov.bd
 www.news.dcarangpur.gov.bd
+www.nicvd.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.office.biwtahydrographicdata.gov.bd
 www.payment.ekshop.gov.bd
