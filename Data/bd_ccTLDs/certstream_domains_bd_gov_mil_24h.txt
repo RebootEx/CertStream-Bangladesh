@@ -4,6 +4,8 @@ admin.tourismctg.gov.bd
 alutila-api.dc-khagrachhari.gov.bd
 alutila.dc-khagrachhari.gov.bd
 autodiscover.tscgopal.gov.bd
+bard.idsdp.rdcd.gov.bd
+beneficiary.idsdp.rdcd.gov.bd
 birthdeath.dghs.gov.bd
 certificates.gov.bd
 cpanel.ictbdiasms.gov.bd
@@ -29,6 +31,7 @@ logo.gov.bd
 mail.ictbdiasms.gov.bd
 mail.tscgopal.gov.bd
 market.dam.gov.bd
+milkvita.idsdp.rdcd.gov.bd
 news.dcarangpur.gov.bd
 ngosavar.gov.bd
 nise3.gov.bd
@@ -60,6 +63,8 @@ webmail.tscgopal.gov.bd
 www.admin.dc-khagrachhari.gov.bd
 www.alutila-api.dc-khagrachhari.gov.bd
 www.alutila.dc-khagrachhari.gov.bd
+www.bard.idsdp.rdcd.gov.bd
+www.beneficiary.idsdp.rdcd.gov.bd
 www.dc-khagrachhari.gov.bd
 www.equipment.scc.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
@@ -69,6 +74,7 @@ www.hostel.rpi.gov.bd
 www.ictbdiasms.gov.bd
 www.inheritance.dc-khagrachhari.gov.bd
 www.lb.ictbdiasms.gov.bd
+www.milkvita.idsdp.rdcd.gov.bd
 www.news.dcarangpur.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.office.biwtahydrographicdata.gov.bd
