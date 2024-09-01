@@ -18,6 +18,7 @@ alutila.dc-khagrachhari.gov.bd
 amarbangabandhu.gov.bd
 amr.cdc.gov.bd
 apbn.gov.bd
+api-milkvita.idsdp.rdcd.gov.bd
 api.bfacf-ticket.gov.bd
 api.edp.gov.bd
 api.ncpds.dae.gov.bd
@@ -53,6 +54,7 @@ bavs.gov.bd
 bbms.dghs.gov.bd
 bbs.gov.bd
 bc.gov.bd
+bcgdubai.gov.bd
 bcsi.gov.bd
 bdhckl.gov.bd
 bditec.gov.bd
@@ -74,6 +76,7 @@ brahmanbariamunicipality.gov.bd
 brdb.xyz.iresppw-brdb.gov.bd
 bsmsn.gov.bd
 bsp.brta.gov.bd
+btm.idsdp.rdcd.gov.bd
 burichangsadarup.gov.bd
 bwc.gov.bd
 cao.gov.bd
@@ -406,6 +409,7 @@ proxy.shrlive.dghs.gov.bd
 psdsms.gov.bd
 pwdta.gov.bd
 qb.comillaboard.gov.bd
+qcb.gov.bd
 qr.ekshop.gov.bd
 rajshahidiv.gov.bd
 ramgatipourashava.gov.bd
@@ -433,6 +437,7 @@ scc.gov.bd
 sccdc.scc.gov.bd
 senbagmunicipality.gov.bd
 service.hbri.gov.bd
+service.rdcd.gov.bd
 sheikhrusselgastroliver.gov.bd
 sherpur.gov.bd
 shr.mcishr.dghs.gov.bd
@@ -471,6 +476,7 @@ student.cmc.gov.bd
 sunamganjpourashava.gov.bd
 sundalpurup.gov.bd
 sundargonjpourashava.gov.bd
+svrs.bbs.gov.bd
 swh.bwdb.gov.bd
 sylhettsc.gov.bd
 sys-event-monitor.dlrms-stg.land.gov.bd
@@ -502,6 +508,7 @@ tr-test-service.most.gov.bd
 training-tb.dghs.gov.bd
 training.apamsv3.cabinet.gov.bd
 training.dhis2tracker.dghs.gov.bd
+training.rdcd.gov.bd
 transmission.btcl.gov.bd
 tscgopal.gov.bd
 ttc.gov.bd
@@ -565,6 +572,7 @@ www.alutila-api.dc-khagrachhari.gov.bd
 www.alutila.dc-khagrachhari.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.apbn.gov.bd
+www.api-milkvita.idsdp.rdcd.gov.bd
 www.api.edp.gov.bd
 www.app.taxeszone4ctg.gov.bd
 www.apply.zpmoulvibazar.gov.bd
@@ -584,6 +592,7 @@ www.biteshwarup.gov.bd
 www.bogurapoly.gov.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
 www.bsp.brta.gov.bd
+www.btm.idsdp.rdcd.gov.bd
 www.burichangsadarup.gov.bd
 www.buzrukmohadipurgirlshighschool.edu.bd.gbrcr.gov.bd
 www.cao.gov.bd
@@ -680,6 +689,7 @@ www.portal.taxappealctg.gov.bd
 www.psdsms.gov.bd
 www.pwdta.gov.bd
 www.qb.comillaboard.gov.bd
+www.qcb.gov.bd
 www.ramgatipourashava.gov.bd
 www.rampalup.munshiganjlg.gov.bd
 www.realestate.rpi.gov.bd
@@ -709,6 +719,7 @@ www.taxcertificate.comillaboard.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
 www.test.dsw.gov.bd
 www.test.taxeszone4ctg.gov.bd
+www.tourismctg.gov.bd
 www.training.sreda.gov.bd
 www.training.uphcsdp.gov.bd
 www.tscgopal.gov.bd
