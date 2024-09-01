@@ -18,6 +18,7 @@ api.ois.edu.bd
 app.enc.edu.bd
 app.nawabganjcitycollege.edu.bd
 argsac.edu.bd
+arnhs.edu.bd
 ashujia16.edu.bd
 autodiscover.acps.edu.bd
 autodiscover.acpsc.edu.bd
@@ -41,6 +42,7 @@ autodiscover.mirpurcollege.edu.bd
 autodiscover.misc.edu.bd
 autodiscover.smts.edu.bd
 autodiscover.ssrm.edu.bd
+autodiscover.uttardharmapurhighschool.edu.bd
 babulcharahs.edu.bd
 baghc.edu.bd
 baimdm.edu.bd
@@ -140,6 +142,7 @@ cpanel.primeuniversity.edu.bd
 cpanel.smts.edu.bd
 cpanel.ssrm.edu.bd
 cpanel.svhs.edu.bd
+cpanel.uttardharmapurhighschool.edu.bd
 cpcalendars.acps.edu.bd
 cpcalendars.acpsc.edu.bd
 cpcalendars.amcb.edu.bd
@@ -171,6 +174,7 @@ cpcalendars.primeuniversity.edu.bd
 cpcalendars.smts.edu.bd
 cpcalendars.ssrm.edu.bd
 cpcalendars.svhs.edu.bd
+cpcalendars.uttardharmapurhighschool.edu.bd
 cpcontacts.acps.edu.bd
 cpcontacts.acpsc.edu.bd
 cpcontacts.amcb.edu.bd
@@ -202,6 +206,7 @@ cpcontacts.primeuniversity.edu.bd
 cpcontacts.smts.edu.bd
 cpcontacts.ssrm.edu.bd
 cpcontacts.svhs.edu.bd
+cpcontacts.uttardharmapurhighschool.edu.bd
 cpd.diu.edu.bd
 cpmgc.edu.bd
 cportal.lalkuthigsc.edu.bd
@@ -341,6 +346,7 @@ kharjanahsamad.edu.bd
 khidirpurcollege.edu.bd
 khs1998.edu.bd.shibpurhighschool.edu.bd
 kjahs.edu.bd
+kmdm.edu.bd
 knahs.edu.bd
 kpahs.edu.bd
 kpbm.edu.bd
@@ -434,6 +440,7 @@ mail.sofolab.daffodilvarsity.edu.bd
 mail.ssrm.edu.bd
 mail.svhs.edu.bd
 mail.tbjhs.edu.bd
+mail.uttardharmapurhighschool.edu.bd
 mathurapurblhs.edu.bd
 mazparaalimmadrasah.edu.bd
 mcpsc.edu.bd
@@ -470,6 +477,7 @@ nawabsirajuddoulacollege.edu.bd
 ncghsn.edu.bd
 ncmhs.edu.bd
 ngsbhs.edu.bd
+nkdm.edu.bd
 nobojibonpi.edu.bd
 nsghs.edu.bd
 ois.edu.bd
@@ -589,6 +597,7 @@ superset.ssschool.edu.bd
 support.vu.edu.bd
 surmahsc.edu.bd
 svhs.edu.bd
+syedpuraliamadrasah.edu.bd
 tagirlshighschool.edu.bd
 tbjhs.edu.bd
 tcbschool.edu.bd
@@ -604,6 +613,7 @@ tscjhalokathi.edu.bd
 tv99.live.bmusc.edu.bd
 uthalipghs.edu.bd
 uttarbahs.edu.bd
+uttardharmapurhighschool.edu.bd
 vmc.edu.bd
 webdisk.acps.edu.bd
 webdisk.acpsc.edu.bd
@@ -636,6 +646,7 @@ webdisk.primeuniversity.edu.bd
 webdisk.smts.edu.bd
 webdisk.ssrm.edu.bd
 webdisk.svhs.edu.bd
+webdisk.uttardharmapurhighschool.edu.bd
 webmail.acps.edu.bd
 webmail.acpsc.edu.bd
 webmail.amcb.edu.bd
@@ -668,6 +679,7 @@ webmail.paotanahatgirlshighschool.edu.bd
 webmail.smts.edu.bd
 webmail.ssrm.edu.bd
 webmail.svhs.edu.bd
+webmail.uttardharmapurhighschool.edu.bd
 whm.admin.habibullahcollege.edu.bd
 widevisioncollege.edu.bd
 www.aaushs.edu.bd
@@ -682,6 +694,7 @@ www.amcb.edu.bd
 www.amchighschool.edu.bd
 www.amragachiahs.edu.bd.pmndm.edu.bd
 www.app.enc.edu.bd
+www.arnhs.edu.bd
 www.ashujia16.edu.bd
 www.babulcharahs.edu.bd
 www.baghc.edu.bd
@@ -853,6 +866,7 @@ www.tbjhs.edu.bd
 www.tcbschool.edu.bd
 www.tv99.live.bmusc.edu.bd
 www.ums.cub.edu.bd
+www.uttardharmapurhighschool.edu.bd
 www.xyz.haldiagovhs.edu.bd
 xyz.haldiagovhs.edu.bd
 zamlhs.edu.bd
