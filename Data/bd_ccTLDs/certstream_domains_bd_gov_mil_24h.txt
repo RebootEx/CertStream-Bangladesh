@@ -8,6 +8,7 @@ back.socialprotection.gov.bd
 bbms.dghs.gov.bd
 bcgdubai.gov.bd
 bhawalup.faridpurlg.gov.bd
+biman.ekpay.gov.bd
 bsfmstu.gameapp.gov.bd
 bstieapp.gov.bd
 bvcdoctor.bvc.gov.bd
@@ -16,11 +17,13 @@ cicd.most.gov.bd
 cpanel.ramgatipourashava.gov.bd
 cpcalendars.ramgatipourashava.gov.bd
 cpcontacts.ramgatipourashava.gov.bd
+dashboard.dghs.gov.bd
 dcrs.brri.gov.bd
 dmc.fima.gov.bd
 dttti.gov.bd
 du.gameapp.gov.bd
 eacei.gov.bd
+ecommerce.idsdp.rdcd.gov.bd
 eksheba.gov.bd
 estore.bsc.gov.bd
 etender.sylhetboard.gov.bd
@@ -102,6 +105,7 @@ www.bsfmstu.gameapp.gov.bd
 www.bvcdoctor.bvc.gov.bd
 www.dmc.fima.gov.bd
 www.du.gameapp.gov.bd
+www.ecommerce.idsdp.rdcd.gov.bd
 www.estore.bsc.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
 www.jamalpurtsc.gov.bd
