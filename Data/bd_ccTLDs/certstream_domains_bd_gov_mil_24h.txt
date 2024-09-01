@@ -4,6 +4,7 @@ agent.cgbdsydney.gov.bd
 amarai.gameapp.gov.bd
 ar.gameapp.gov.bd
 bbms.dghs.gov.bd
+bcgdubai.gov.bd
 bhawalup.faridpurlg.gov.bd
 bsfmstu.gameapp.gov.bd
 bvcdoctor.bvc.gov.bd
@@ -12,6 +13,7 @@ cicd.most.gov.bd
 cpanel.ramgatipourashava.gov.bd
 cpcalendars.ramgatipourashava.gov.bd
 cpcontacts.ramgatipourashava.gov.bd
+dcrs.brri.gov.bd
 du.gameapp.gov.bd
 eksheba.gov.bd
 estore.bsc.gov.bd
@@ -19,11 +21,13 @@ etender.sylhetboard.gov.bd
 ffwc.bwdb.gov.bd
 foundationtraining.dghs.gov.bd
 freelancers.gov.bd
+gpufp.gov.bd
 kiosk.cgbdsydney.gov.bd
 laksampourashava.gov.bd
 mail.cao.gov.bd
 mail.gameapp.gov.bd
 mail.ramgatipourashava.gov.bd
+mail.register.gameapp.gov.bd
 mail.zplakshmipur.gov.bd
 marketing.mushroomproject.gov.bd
 mazadiaup.faridpurlg.gov.bd
@@ -41,6 +45,7 @@ rpi.gov.bd
 services.cgbdsydney.gov.bd
 shekharup.faridpurlg.gov.bd
 sundargonjpourashava.gov.bd
+taxeszone17.gov.bd
 taxeszone4ctg.gov.bd
 taxeszonecumilla.gov.bd
 test.gameapp.gov.bd
@@ -75,6 +80,7 @@ www.bvcdoctor.bvc.gov.bd
 www.du.gameapp.gov.bd
 www.estore.bsc.gov.bd
 www.mail.gameapp.gov.bd
+www.mail.register.gameapp.gov.bd
 www.mazadiaup.faridpurlg.gov.bd
 www.media.bmp.gov.bd
 www.ntrc.gameapp.gov.bd
