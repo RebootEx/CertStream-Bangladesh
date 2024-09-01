@@ -110,6 +110,7 @@ cpanel.eregistration.gov.bd
 cpanel.gmhs.gov.bd
 cpanel.ictbdiasms.gov.bd
 cpanel.iresppw-brdb.gov.bd
+cpanel.mspvaw109.gov.bd
 cpanel.pict.gov.bd
 cpanel.psdsms.gov.bd
 cpanel.pwdta.gov.bd
@@ -124,6 +125,7 @@ cpcalendars.eregistration.gov.bd
 cpcalendars.gmhs.gov.bd
 cpcalendars.ictbdiasms.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
+cpcalendars.mspvaw109.gov.bd
 cpcalendars.pict.gov.bd
 cpcalendars.psdsms.gov.bd
 cpcalendars.pwdta.gov.bd
@@ -138,6 +140,7 @@ cpcontacts.eregistration.gov.bd
 cpcontacts.gmhs.gov.bd
 cpcontacts.ictbdiasms.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
+cpcontacts.mspvaw109.gov.bd
 cpcontacts.pict.gov.bd
 cpcontacts.psdsms.gov.bd
 cpcontacts.pwdta.gov.bd
@@ -170,6 +173,7 @@ dmc.fima.gov.bd
 dmch.gov.bd
 dns.ekshop.gov.bd
 dob.ekshop.gov.bd
+dpg.ekshop.gov.bd
 dppseba.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
@@ -200,6 +204,7 @@ etender.comillaboard.gov.bd
 everify.comillaboard.gov.bd
 faridpur.gov.bd
 fdr.btcl.gov.bd
+feedback.ekshop.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 fgc.gov.bd
@@ -295,6 +300,7 @@ mail.gmhs.gov.bd
 mail.ictbdiasms.gov.bd
 mail.institute.comillaboard.gov.bd
 mail.iresppw-brdb.gov.bd
+mail.mspvaw109.gov.bd
 mail.nicvd.gov.bd
 mail.nilmrc.gov.bd
 mail.onlinepayment.comillaboard.gov.bd
@@ -332,6 +338,7 @@ mis.iresppw-brdb.gov.bd
 mohakaliup.munshiganjlg.gov.bd
 mokamup.gov.bd
 monohardipourashava.gov.bd
+mspvaw109.gov.bd
 munshiganj.gov.bd
 myclass.gov.bd
 mymail.ekshop.gov.bd
@@ -509,6 +516,7 @@ vamanager.dghs.gov.bd
 vaxepi.gov.bd
 vcsavar.gov.bd
 vehikel.nationalmuseumticket.gov.bd
+verify-network.ekshop.gov.bd
 video.ekshop.gov.bd
 virtualclass.gov.bd
 vr.bangabhaban.gov.bd
@@ -524,6 +532,7 @@ webdisk.eregistration.gov.bd
 webdisk.gmhs.gov.bd
 webdisk.ictbdiasms.gov.bd
 webdisk.iresppw-brdb.gov.bd
+webdisk.mspvaw109.gov.bd
 webdisk.pict.gov.bd
 webdisk.psdsms.gov.bd
 webdisk.pwdta.gov.bd
@@ -537,6 +546,7 @@ webmail.eregistration.gov.bd
 webmail.gmhs.gov.bd
 webmail.ictbdiasms.gov.bd
 webmail.iresppw-brdb.gov.bd
+webmail.mspvaw109.gov.bd
 webmail.pict.gov.bd
 webmail.psdsms.gov.bd
 webmail.pwdta.gov.bd
@@ -591,6 +601,7 @@ www.diagnostic.rmch.gov.bd
 www.digital.bishwanathpaurashava.gov.bd
 www.dmc.fima.gov.bd
 www.dob.ekshop.gov.bd
+www.dpg.ekshop.gov.bd
 www.dppseba.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
@@ -602,6 +613,7 @@ www.eregistration.gov.bd
 www.erp.bakshiganjpourashava.gov.bd
 www.esifsix.comillaboard.gov.bd
 www.estore.bsc.gov.bd
+www.feedback.ekshop.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
@@ -641,6 +653,7 @@ www.milkvita.idsdp.rdcd.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.mohakaliup.munshiganjlg.gov.bd
 www.mokamup.gov.bd
+www.mspvaw109.gov.bd
 www.nemcalc.sreda.gov.bd
 www.new.cafomolwa.gov.bd
 www.new.chauddagramgovcollege.gov.bd
@@ -698,6 +711,7 @@ www.training.sreda.gov.bd
 www.training.uphcsdp.gov.bd
 www.tscgopal.gov.bd
 www.ttcraj.gov.bd
+www.verify-network.ekshop.gov.bd
 www.video.ekshop.gov.bd
 www.vrcbd.cmc.gov.bd
 www.xi.onlinetc.comillaboard.gov.bd
