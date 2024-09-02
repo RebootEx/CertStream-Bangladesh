@@ -61,6 +61,7 @@ autodiscover.mismyn.edu.bd
 autodiscover.mmcollege.edu.bd
 autodiscover.nagrakura.edu.bd
 autodiscover.nascc.edu.bd
+autodiscover.netpro.edu.bd
 autodiscover.nhsc.edu.bd
 ayeshanagardm.edu.bd
 azimpurhschool.edu.bd
@@ -98,6 +99,7 @@ bijoynagorhighschool.edu.bd
 bisc.edu.bd
 bksppsc.edu.bd
 blog.cwdc.edu.bd
+bmhighschool.edu.bd
 bmschool.edu.bd
 bncc.daffodilvarsity.edu.bd
 bnmi.edu.bd
@@ -161,6 +163,7 @@ cpanel.mmcollege.edu.bd
 cpanel.mollarhaths.edu.bd
 cpanel.nagrakura.edu.bd
 cpanel.nascc.edu.bd
+cpanel.netpro.edu.bd
 cpanel.nhsc.edu.bd
 cpanel.paotanahatgirlshighschool.edu.bd
 cpanel.pii.edu.bd
@@ -212,6 +215,7 @@ cpcalendars.mmcollege.edu.bd
 cpcalendars.mollarhaths.edu.bd
 cpcalendars.nagrakura.edu.bd
 cpcalendars.nascc.edu.bd
+cpcalendars.netpro.edu.bd
 cpcalendars.nhsc.edu.bd
 cpcalendars.paotanahatgirlshighschool.edu.bd
 cpcalendars.pii.edu.bd
@@ -263,6 +267,7 @@ cpcontacts.mmcollege.edu.bd
 cpcontacts.mollarhaths.edu.bd
 cpcontacts.nagrakura.edu.bd
 cpcontacts.nascc.edu.bd
+cpcontacts.netpro.edu.bd
 cpcontacts.nhsc.edu.bd
 cpcontacts.paotanahatgirlshighschool.edu.bd
 cpcontacts.pii.edu.bd
@@ -353,6 +358,7 @@ gpcpsc.edu.bd
 greenlife.edu.bd
 grhs.edu.bd
 gscnil.edu.bd
+guatalaghs.edu.bd
 gvlc.edu.bd
 gwfm.edu.bd
 hajisarafatullahgdm.edu.bd
@@ -412,6 +418,7 @@ kdmdc.edu.bd
 keshabpurnsss.edu.bd
 kgdghs.edu.bd
 kgpghs.edu.bd
+khamarbashahighschool.edu.bd
 khedacharahs.edu.bd
 khidirpurcollege.edu.bd
 khphs.edu.bd
@@ -451,6 +458,7 @@ mail.bes.edu.bd
 mail.bgmsc.edu.bd
 mail.bisc.edu.bd
 mail.bksppsc.edu.bd
+mail.bmhighschool.edu.bd
 mail.bnmi.edu.bd
 mail.bpscuepz.edu.bd
 mail.casc.edu.bd
@@ -473,6 +481,7 @@ mail.glorycollege.edu.bd
 mail.gnibc.edu.bd
 mail.gopinathpurcbhs.edu.bd
 mail.gpcpsc.edu.bd
+mail.guatalaghs.edu.bd
 mail.gvlc.edu.bd
 mail.gwfm.edu.bd
 mail.heedintschool.edu.bd
@@ -488,6 +497,7 @@ mail.jolshiricsc.edu.bd
 mail.jshschool.edu.bd
 mail.kamalpurtm.edu.bd
 mail.kbbc.edu.bd
+mail.khamarbashahighschool.edu.bd
 mail.khedacharahs.edu.bd
 mail.kornibarifazilmadrasah.edu.bd
 mail.lokmanpurcollege.edu.bd
@@ -499,6 +509,7 @@ mail.mollarhaths.edu.bd
 mail.muidmpalishara.edu.bd
 mail.nagrakura.edu.bd
 mail.nascc.edu.bd
+mail.netpro.edu.bd
 mail.nhsc.edu.bd
 mail.omcmc.edu.bd
 mail.paotanahatgirlshighschool.edu.bd
@@ -536,6 +547,7 @@ nawabganjcitycollege.edu.bd
 nbidyaniketon.edu.bd
 ndhs.edu.bd
 nemc.edu.bd
+netpro.edu.bd
 nhidm.edu.bd
 nhsc.edu.bd
 nooriasecondaryschoolbsl.edu.bd
@@ -690,6 +702,7 @@ webdisk.mmcollege.edu.bd
 webdisk.mollarhaths.edu.bd
 webdisk.nagrakura.edu.bd
 webdisk.nascc.edu.bd
+webdisk.netpro.edu.bd
 webdisk.nhsc.edu.bd
 webdisk.paotanahatgirlshighschool.edu.bd
 webdisk.pii.edu.bd
@@ -741,6 +754,7 @@ webmail.mmcollege.edu.bd
 webmail.mollarhaths.edu.bd
 webmail.nagrakura.edu.bd
 webmail.nascc.edu.bd
+webmail.netpro.edu.bd
 webmail.nhsc.edu.bd
 webmail.paotanahatgirlshighschool.edu.bd
 webmail.patnichanhs.edu.bd
@@ -787,6 +801,7 @@ www.bihigramhs.edu.bd
 www.bisc.edu.bd
 www.bksppsc.edu.bd
 www.blog.cwdc.edu.bd
+www.bmhighschool.edu.bd
 www.bnmi.edu.bd
 www.boguratech.edu.bd
 www.bpscuepz.edu.bd
@@ -829,6 +844,7 @@ www.gnibc.edu.bd
 www.gopinathpurcbhs.edu.bd
 www.gpcpsc.edu.bd
 www.grhs.edu.bd
+www.guatalaghs.edu.bd
 www.gvlc.edu.bd
 www.gwfm.edu.bd
 www.gwfm.edu.bd.shibpurhighschool.edu.bd
@@ -856,6 +872,7 @@ www.jugyacholahs.edu.bd.mgmgdc.edu.bd
 www.kamalpurtm.edu.bd
 www.kbbc.edu.bd
 www.kcmc.edu.bd
+www.khamarbashahighschool.edu.bd
 www.khedacharahs.edu.bd
 www.khs1998.edu.bd.shibpurhighschool.edu.bd
 www.konabarihs.edu.bd
@@ -879,6 +896,7 @@ www.muidmpalishara.edu.bd
 www.nagrakura.edu.bd
 www.nascc.edu.bd
 www.nbidyaniketon.edu.bd
+www.netpro.edu.bd
 www.nhsc.edu.bd
 www.old.greenlife.edu.bd
 www.old.kwmc.edu.bd
