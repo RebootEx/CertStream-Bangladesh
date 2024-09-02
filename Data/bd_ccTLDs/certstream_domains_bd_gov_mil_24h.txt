@@ -1,11 +1,13 @@
 2apbn.gov.bd
 api.bscl.gov.bd
+api.sacp.dae.gov.bd
 autodiscover.kishoreganjtsc.gov.bd
 back.socialprotection.gov.bd
 barisalcity.gov.bd
 barishalcity.gov.bd
 brief.taxeszoneonedhaka.gov.bd
 certificates.gov.bd
+chcpelearning.dghs.gov.bd
 cpanel.diaautomation.gov.bd
 cpanel.kishoreganjtsc.gov.bd
 cpcalendars.diaautomation.gov.bd
@@ -13,6 +15,7 @@ cpcalendars.kishoreganjtsc.gov.bd
 cpcontacts.diaautomation.gov.bd
 cpcontacts.kishoreganjtsc.gov.bd
 da.ictbdiasms.gov.bd
+dashboard.sacp.dae.gov.bd
 dbid.gov.bd
 diaautomation.gov.bd
 dttti.gov.bd
@@ -32,6 +35,9 @@ mne.socialprotection.gov.bd
 nuralapurup.narsingdilg.gov.bd
 oaf.comillaboard.gov.bd
 pfms.brri.gov.bd
+pmis.dgfp.gov.bd
+product.sacp.dae.gov.bd
+rains.sacp.dae.gov.bd
 ral.brri.gov.bd
 soft.taxeszoneonedhaka.gov.bd
 testimonials.gov.bd
@@ -52,3 +58,5 @@ www.kalirbazarup.gov.bd
 www.kishoreganjtsc.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
 www.soft.taxeszoneonedhaka.gov.bd
+www.zpkurigram.gov.bd
+zpkurigram.gov.bd
