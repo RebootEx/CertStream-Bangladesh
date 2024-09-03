@@ -2,6 +2,7 @@ admin.cgbdsydney.gov.bd
 admin.farmbroadcast.gov.bd
 agent.cgbdsydney.gov.bd
 amarai.gameapp.gov.bd
+application.sylhetboard.gov.bd
 ar.gameapp.gov.bd
 bancharampurtsc.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -28,6 +29,7 @@ ipv6.dgca58.gov.bd
 kiosk.cgbdsydney.gov.bd
 lima.dife.gov.bd
 live.platform.futurenation.gov.bd
+lms.ipemis.dpe.gov.bd
 mail.cao.gov.bd
 mail.dgca58.gov.bd
 mail.gameapp.gov.bd
@@ -69,6 +71,7 @@ webmail.dgca58.gov.bd
 webmail.ramgatipourashava.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.amarai.gameapp.gov.bd
+www.application.sylhetboard.gov.bd
 www.ar.gameapp.gov.bd
 www.bcgdubai.gov.bd
 www.bsfmstu.gameapp.gov.bd
@@ -82,6 +85,7 @@ www.media.bmp.gov.bd
 www.ntrc.gameapp.gov.bd
 www.ramgatipourashava.gov.bd
 www.register.gameapp.gov.bd
+www.slot.rpi.gov.bd
 www.smartbangarawestup.gov.bd
 www.smartnabipur.gov.bd
 www.smartpurbadhairwestup.gov.bd
@@ -90,5 +94,6 @@ www.sp-apis.rpi.gov.bd
 www.tarakanda2.upmymensinghholdingtax.gov.bd
 www.test.gameapp.gov.bd
 www.zplakshmipur.gov.bd
+zpgazipur.gov.bd
 zplakshmipur.gov.bd
 zsorajshahi.gov.bd
