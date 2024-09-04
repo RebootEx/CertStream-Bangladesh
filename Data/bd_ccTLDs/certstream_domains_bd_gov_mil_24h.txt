@@ -9,6 +9,7 @@ api-manager.dlrms-stg.land.gov.bd
 api-milkvita.idsdp.rdcd.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 api.bscl.gov.bd
+api.sacp.dae.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.iras.bamis.gov.bd
 autodiscover.joyparatsc.gov.bd
@@ -22,6 +23,7 @@ bpdb.gov.bd
 btm.idsdp.rdcd.gov.bd
 casino.accessibledictionary.gov.bd
 cd-devops.lams-stg.land.gov.bd
+chcpelearning.dghs.gov.bd
 citizen.dlrms-stg.land.gov.bd
 cloud.ekshop.gov.bd
 commission.ekshop.gov.bd
@@ -54,6 +56,7 @@ cpcontacts.mspvaw109.gov.bd
 cpcontacts.senbagcollege.gov.bd
 cpcontacts.shariatpurtsc.gov.bd
 da.ictbdiasms.gov.bd
+dashboard.sacp.dae.gov.bd
 daulatpurup.gov.bd
 demo.kabinazrulcollege.gov.bd
 dev.knsikhagrachari.gov.bd
@@ -95,6 +98,9 @@ new.pict.gov.bd
 noc.kda.gov.bd
 nuralapurup.narsingdilg.gov.bd
 pmfellowship.pmo.gov.bd
+pmis.dgfp.gov.bd
+product.sacp.dae.gov.bd
+rains.sacp.dae.gov.bd
 rms.bscl.gov.bd
 rrpm.mofood.gov.bd
 senbagcollege.gov.bd
@@ -163,3 +169,5 @@ www.shariatpurtsc.gov.bd
 www.tourismctg.gov.bd
 www.vatdhakawest.gov.bd
 www.verify-network.ekshop.gov.bd
+www.zpkurigram.gov.bd
+zpkurigram.gov.bd
