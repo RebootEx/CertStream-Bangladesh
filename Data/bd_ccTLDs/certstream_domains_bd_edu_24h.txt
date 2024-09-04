@@ -37,6 +37,7 @@ baust.edu.bd
 bba.rpsu.edu.bd
 bbgovtgirlshs.edu.bd
 bblhighschool.edu.bd
+bbruhs.edu.bd
 bbsmrhs.edu.bd
 beltalihs.edu.bd
 beragovtcollege.edu.bd
@@ -77,6 +78,7 @@ charbandarfm.edu.bd
 chhatiantalihighschool.edu.bd
 chhotoshs.edu.bd
 chowdalablhs.edu.bd
+chowfaldandimhs.edu.bd
 convocation4.gonouniversity.edu.bd
 cpanel.batshirihs.edu.bd
 cpanel.caruhs.edu.bd
@@ -96,6 +98,7 @@ cpanel.mollarhaths.edu.bd
 cpanel.msscbogra.edu.bd
 cpanel.nblgovhs.edu.bd
 cpanel.pati.edu.bd
+cpanel.pbahs.edu.bd
 cpanel.rangiaghonamonsuriafazilmadrasah.edu.bd
 cpanel.rdmadrasah.edu.bd
 cpanel.sayedbazlulhaqueschool.edu.bd
@@ -115,6 +118,7 @@ cpcalendars.miam.edu.bd
 cpcalendars.mollarhaths.edu.bd
 cpcalendars.nblgovhs.edu.bd
 cpcalendars.pati.edu.bd
+cpcalendars.pbahs.edu.bd
 cpcalendars.rangiaghonamonsuriafazilmadrasah.edu.bd
 cpcalendars.rdmadrasah.edu.bd
 cpcalendars.sayedbazlulhaqueschool.edu.bd
@@ -134,6 +138,7 @@ cpcontacts.miam.edu.bd
 cpcontacts.mollarhaths.edu.bd
 cpcontacts.nblgovhs.edu.bd
 cpcontacts.pati.edu.bd
+cpcontacts.pbahs.edu.bd
 cpcontacts.rangiaghonamonsuriafazilmadrasah.edu.bd
 cpcontacts.rdmadrasah.edu.bd
 cpcontacts.sayedbazlulhaqueschool.edu.bd
@@ -176,6 +181,7 @@ elearning.bou.edu.bd
 ems.sptkmhighschool.edu.bd
 epi.edu.bd
 fakirparahighschool.edu.bd
+faridpurzillaschool.edu.bd
 fgghs.edu.bd
 files.mccollege.edu.bd
 forum.daffodilvarsity.edu.bd
@@ -199,6 +205,7 @@ grhs.edu.bd
 gvlc.edu.bd
 haadc.edu.bd
 harparahsctg.edu.bd
+hatemtaihs.edu.bd
 hazirhatgovtmillatacademy.edu.bd
 hfiam.edu.bd
 hijamatreatmentworld.com.jathaliaashs.edu.bd
@@ -207,6 +214,7 @@ icce.bsmrau.edu.bd
 ihdm.edu.bd
 jadunath.edu.bd
 jagadishpurjchsc.edu.bd
+jagannathpurgghs.edu.bd
 jakir.xyz.jathaliaashs.edu.bd
 jamirbariakhhs.edu.bd
 jashaihighschool.edu.bd
@@ -227,6 +235,8 @@ kdbbhs.edu.bd
 kgpbhs.edu.bd
 kgpghs.edu.bd
 khanepurhighschool.edu.bd
+khidirpurcollege.edu.bd
+khs67.edu.bd
 khsc.edu.bd
 khuhs.edu.bd
 kmam.edu.bd
@@ -238,6 +248,7 @@ lalbagrahs.edu.bd
 laskarhatscli.edu.bd
 laxmipurgovtmohilacollege.edu.bd
 ltti.edu.bd
+lyceummacsc.edu.bd
 m.mrdsdm.edu.bd
 mac.edu.bd
 maidm.edu.bd
@@ -289,6 +300,7 @@ mail.nblgovhs.edu.bd
 mail.nkmins.edu.bd
 mail.pakullamlhighschool.edu.bd
 mail.pati.edu.bd
+mail.pbahs.edu.bd
 mail.pdm.edu.bd
 mail.pkdm.edu.bd
 mail.portal.kudc.edu.bd
@@ -307,6 +319,7 @@ mail.tbjhs.edu.bd
 mail.uahsc.edu.bd
 mail.vbhs.edu.bd
 maintenance.seu.edu.bd
+malatiffazilmadrasah.edu.bd
 malijhikandahs.edu.bd
 maphsctg.edu.bd
 marksmedicalcollege.edu.bd
@@ -347,6 +360,7 @@ neub.edu.bd
 nidmnr.edu.bd
 njdm.edu.bd
 nkmins.edu.bd
+npnhs.edu.bd
 npurpghs.edu.bd
 nsfm.edu.bd
 nsghschool.edu.bd
@@ -354,7 +368,9 @@ pabnacadetcollegiateschool.edu.bd
 paharpurhighschool.edu.bd
 pakshiaic.edu.bd
 pakullamlhighschool.edu.bd
+paniharahighschool.edu.bd
 pati.edu.bd
+pbahs.edu.bd
 pcdm.edu.bd
 pdm.edu.bd
 piprikandihs.edu.bd
@@ -379,6 +395,9 @@ rumdo.edu.bd
 rumdopoly.edu.bd
 s.bakhraghs.edu.bd
 s.calabhs.edu.bd
+s.jrshs.edu.bd
+s.khordabalailhighschool.edu.bd
+s.magdm.edu.bd
 saahhs.edu.bd
 saddm.edu.bd
 sahercharsc.edu.bd
@@ -439,6 +458,7 @@ webdisk.miam.edu.bd
 webdisk.mollarhaths.edu.bd
 webdisk.nblgovhs.edu.bd
 webdisk.pati.edu.bd
+webdisk.pbahs.edu.bd
 webdisk.rangiaghonamonsuriafazilmadrasah.edu.bd
 webdisk.rdmadrasah.edu.bd
 webdisk.sayedbazlulhaqueschool.edu.bd
@@ -461,9 +481,11 @@ webmail.mollarhaths.edu.bd
 webmail.msscbogra.edu.bd
 webmail.nblgovhs.edu.bd
 webmail.pati.edu.bd
+webmail.pbahs.edu.bd
 webmail.rangiaghonamonsuriafazilmadrasah.edu.bd
 webmail.rdmadrasah.edu.bd
 webmail.sdkm.edu.bd
+whm.bdccghs.edu.bd
 wmccghs.edu.bd
 www.2023.pati.edu.bd
 www.afdm.edu.bd
@@ -516,6 +538,7 @@ www.gvlc.edu.bd
 www.hijamatreatmentworld.com.jathaliaashs.edu.bd
 www.icce.bsmrau.edu.bd
 www.jadunath.edu.bd
+www.jagannathpurgghs.edu.bd
 www.jakir.xyz.jathaliaashs.edu.bd
 www.jgbb.edu.bd
 www.kazlaschool.edu.bd
@@ -550,6 +573,7 @@ www.nkmins.edu.bd
 www.paharpurhighschool.edu.bd.bakapurhighschool.edu.bd
 www.pakullamlhighschool.edu.bd
 www.pati.edu.bd
+www.pbahs.edu.bd
 www.pdm.edu.bd
 www.pkdm.edu.bd
 www.portal.kudc.edu.bd
@@ -563,6 +587,9 @@ www.rdmadrasah.edu.bd.panditsarhs.edu.bd
 www.rnahs.edu.bd
 www.s.bakhraghs.edu.bd
 www.s.calabhs.edu.bd
+www.s.jrshs.edu.bd
+www.s.khordabalailhighschool.edu.bd
+www.s.magdm.edu.bd
 www.sarikalss.edu.bd
 www.sayedbazlulhaqueschool.edu.bd
 www.school.rcmats.edu.bd
