@@ -1,3 +1,4 @@
+admin-mail.soms.gov.bd
 admin.comillalg.gov.bd
 api.freelancers.gov.bd
 autodiscover.bhairabtsc.gov.bd
@@ -15,6 +16,7 @@ bogurapoly.gov.bd
 boithok.bcc.gov.bd
 career.nwpgcl.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
+chauddagrammunicipality.gov.bd
 chhataktsc.gov.bd
 circle34.taxeszone2.gov.bd
 classvi.dinajpurboard.gov.bd
@@ -37,6 +39,7 @@ financial-assist.dsw.gov.bd
 foreignstudents.dgme.gov.bd
 gazipurtsc.gov.bd
 gisfs.bpc.gov.bd
+gmscn.dac.gov.bd
 highwaypolice.gov.bd
 hosenabadtsc.gov.bd
 hossainpurpourashava.gov.bd
@@ -51,6 +54,7 @@ lrms.gov.bd
 mail.bhairabtsc.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.ntrc.gameapp.gov.bd
+mail.soms.gov.bd
 mbgc.gov.bd
 mca.bise-ctg.gov.bd
 nagoriksheba.gov.bd
@@ -73,6 +77,7 @@ smartnabipur.gov.bd
 smartup.narsingdilg.gov.bd
 smsc.ekshop.gov.bd
 socialprotection.gov.bd
+soms.gov.bd
 sunamgonjtsc.gov.bd
 sylhettsc.gov.bd
 synotecagrovet.com.melandahbhata.gov.bd
@@ -93,6 +98,7 @@ webdisk.bmdbwcsrp.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bmdbwcsrp.gov.bd
 wqtrms.dphe.gov.bd
+www.admin-mail.soms.gov.bd
 www.bhairabtsc.gov.bd
 www.bmdbwcsrp.gov.bd
 www.circle34.taxeszone2.gov.bd
@@ -100,13 +106,16 @@ www.ecertificate.sreda.gov.bd
 www.ecs.gov.bd
 www.financial-assist.dsw.gov.bd
 www.gisfs.bpc.gov.bd
+www.gmscn.dac.gov.bd
 www.mail.ntrc.gameapp.gov.bd
+www.mail.soms.gov.bd
 www.nagadislamic.gov.bd
 www.nagoriksheba.gov.bd
 www.nnsop.gov.bd
 www.sla.gov.bd
 www.smartnabipur.gov.bd
 www.smartup.narsingdilg.gov.bd
+www.soms.gov.bd
 www.sp-apis.rpi.gov.bd
 www.sp-assets.rpi.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
