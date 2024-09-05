@@ -27,6 +27,7 @@ api-milkvita.idsdp.rdcd.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 api.bfacf-ticket.gov.bd
 api.bscl.gov.bd
+api.freelancers.gov.bd
 api.ncpds.dae.gov.bd
 api.sacp.dae.gov.bd
 api.scc.gov.bd
@@ -264,6 +265,7 @@ hajipurup.narsingdilg.gov.bd
 hajj.gov.bd
 hallbooking.awt.mil.bd
 hosenabadtsc.gov.bd
+host.ric.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 hrm.sprangpur.gov.bd
@@ -360,6 +362,7 @@ mudp.gov.bd
 mydocreader.gov.bd
 mymail.ekshop.gov.bd
 nagadislamic.gov.bd
+nagoriksheba.gov.bd
 nameage.comillaboard.gov.bd
 narsingdilg.gov.bd
 ncc.gov.bd
@@ -397,6 +400,7 @@ onlineschoolform.comillaboard.gov.bd
 onlineshr.dghs.gov.bd
 openid.dghs.gov.bd
 oss.beza.gov.bd
+ossbscic.gov.bd
 parbatipurtsc.gov.bd
 payment.ekshop.gov.bd
 pensionfacerecognition.finance.gov.bd
@@ -420,6 +424,7 @@ register.gameapp.gov.bd
 rescrutiny.comillaboard.gov.bd
 residence.dc-khagrachhari.gov.bd
 result.fgc.gov.bd
+ric.gov.bd
 rms.bscl.gov.bd
 roc.gov.bd
 rpi.gov.bd
@@ -680,6 +685,7 @@ www.mis.iresppw-brdb.gov.bd
 www.mokamup.gov.bd
 www.mspvaw109.gov.bd
 www.mudp.gov.bd
+www.nagoriksheba.gov.bd
 www.new.pict.gov.bd
 www.news.dcarangpur.gov.bd
 www.newsite.zsorangpur.gov.bd
@@ -704,6 +710,7 @@ www.realestate.rpi.gov.bd
 www.register.gameapp.gov.bd
 www.residence.dc-khagrachhari.gov.bd
 www.result.fgc.gov.bd
+www.ric.gov.bd
 www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
 www.seip-fd.gov.bd
