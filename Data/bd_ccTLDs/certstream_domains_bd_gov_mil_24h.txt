@@ -1,4 +1,5 @@
 admin.comillalg.gov.bd
+api.freelancers.gov.bd
 autodiscover.bhairabtsc.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
 bancharampurtsc.gov.bd
@@ -46,6 +47,7 @@ k8s-dboard-admin.dlrms-stg.land.gov.bd
 kjml.gov.bd
 lima.dife.gov.bd
 lis.bwdb.gov.bd
+lrms.gov.bd
 mail.bhairabtsc.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.ntrc.gameapp.gov.bd
@@ -65,9 +67,12 @@ rpi.gov.bd
 school-efiling.dinajpurboard.gov.bd
 share.cao.gov.bd
 shop.cirt.gov.bd
+sla.gov.bd
 smarthaat.gov.bd
+smartnabipur.gov.bd
 smartup.narsingdilg.gov.bd
 smsc.ekshop.gov.bd
+socialprotection.gov.bd
 sunamgonjtsc.gov.bd
 sylhettsc.gov.bd
 synotecagrovet.com.melandahbhata.gov.bd
@@ -76,6 +81,7 @@ test.bgmc.gov.bd
 thakurgaontsc.gov.bd
 tradelicence.scc.gov.bd
 training.apams.cabinet.gov.bd
+training.sla.gov.bd
 tsc-kurigram.gov.bd
 tscpatuakhali.gov.bd
 upsebarajshahidiv.gov.bd
@@ -98,6 +104,8 @@ www.mail.ntrc.gameapp.gov.bd
 www.nagadislamic.gov.bd
 www.nagoriksheba.gov.bd
 www.nnsop.gov.bd
+www.sla.gov.bd
+www.smartnabipur.gov.bd
 www.smartup.narsingdilg.gov.bd
 www.sp-apis.rpi.gov.bd
 www.sp-assets.rpi.gov.bd
