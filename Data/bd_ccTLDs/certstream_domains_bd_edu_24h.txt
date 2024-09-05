@@ -29,6 +29,7 @@ anandabastjasgs.edu.bd
 anowarabegumgirlsjuniorschool.edu.bd
 api.edu.bd
 arifinstitute.edu.bd
+arparamohilacollege.edu.bd
 artbmc.edu.bd
 asshs.edu.bd
 autodiscover.bghs.edu.bd
@@ -106,6 +107,7 @@ cmm.edu.bd
 communic.iba-ju.edu.bd
 convocation.bubt.edu.bd
 cpanel.bghs.edu.bd
+cpanel.bkgps.edu.bd
 cpanel.bmns.edu.bd
 cpanel.bnsck.edu.bd
 cpanel.cdfm.edu.bd
@@ -125,6 +127,7 @@ cpanel.seu.edu.bd
 cpanel.susc.edu.bd
 cpanel.uphs104820.edu.bd
 cpcalendars.bghs.edu.bd
+cpcalendars.bkgps.edu.bd
 cpcalendars.bmns.edu.bd
 cpcalendars.cdfm.edu.bd
 cpcalendars.chgmc.edu.bd
@@ -142,6 +145,7 @@ cpcalendars.seu.edu.bd
 cpcalendars.susc.edu.bd
 cpcalendars.uphs104820.edu.bd
 cpcontacts.bghs.edu.bd
+cpcontacts.bkgps.edu.bd
 cpcontacts.bmns.edu.bd
 cpcontacts.cdfm.edu.bd
 cpcontacts.chgmc.edu.bd
@@ -161,11 +165,13 @@ cpcontacts.uphs104820.edu.bd
 csbh.edu.bd
 ctgairporths.edu.bd
 cwkss.edu.bd
+dadpurghs.edu.bd
 daghsc.edu.bd
 dapi.edu.bd
 dariapurdegreecollege.edu.bd
 dasadikamilmadrasha.edu.bd
 datapulse.diu.edu.bd
+dbam.edu.bd
 ddmm.edu.bd
 degree-verify.seu.edu.bd
 demo.dhakastatecollege.edu.bd
@@ -215,6 +221,7 @@ girlsssnalchity.edu.bd
 gksshs.edu.bd
 gkuip.edu.bd
 gnhmhs.edu.bd
+gohailbarihs.edu.bd
 goiarbhangahs.edu.bd
 golkhalihs.edu.bd
 gollashangondm.edu.bd
@@ -263,6 +270,7 @@ journals.ulab.edu.bd
 jrshs.edu.bd
 justsc.edu.bd
 jzahs.edu.bd
+kakolihsc.edu.bd
 kakonhatghs.edu.bd
 kalikapurrssschool.edu.bd
 kalpohahighschool.edu.bd
@@ -306,6 +314,7 @@ laylamalekia.edu.bd
 lbankoahs.edu.bd
 lbcghs.edu.bd
 ledajhstek.edu.bd
+lib.eastdelta.edu.bd
 library.mahhs.edu.bd
 lpahs.edu.bd
 m.aadmadrasah.edu.bd
@@ -379,6 +388,7 @@ mgghighschool.edu.bd
 mgghs.edu.bd
 mghscollege.edu.bd
 mgschool.edu.bd
+mhhsf.edu.bd
 mhsmhs.edu.bd
 mirpurhs.edu.bd
 mirzapurhighschool.edu.bd
@@ -475,6 +485,7 @@ sajuriamhs.edu.bd
 salammokbulhighschool.edu.bd
 salehadarshahighschool.edu.bd
 sapahartsc.edu.bd
+satkhiragovtcollege.edu.bd
 satpukuriahs.edu.bd
 sauhs.edu.bd
 sauphs.edu.bd
@@ -487,6 +498,7 @@ shop.bcb.edu.bd
 shpc.jkkniu.edu.bd
 shui.com.bd.nobojibonpi.edu.bd
 skghighschool.edu.bd
+sldam.edu.bd
 smhsmp.edu.bd
 smmodelgovt.edu.bd
 smsa.edu.bd
@@ -514,6 +526,7 @@ survey.eastdelta.edu.bd
 susc.edu.bd
 tdcnil.edu.bd
 tengarcharraziakaderahs.edu.bd
+test.phss.edu.bd
 test.shibganjhighschool.edu.bd
 tkdm.edu.bd
 tmdc.edu.bd
@@ -530,6 +543,7 @@ upi.edu.bd
 vnhs.edu.bd
 vsahschool.edu.bd
 webdisk.bghs.edu.bd
+webdisk.bkgps.edu.bd
 webdisk.bmns.edu.bd
 webdisk.cdfm.edu.bd
 webdisk.chgmc.edu.bd
@@ -547,6 +561,7 @@ webdisk.seu.edu.bd
 webdisk.susc.edu.bd
 webdisk.uphs104820.edu.bd
 webmail.bghs.edu.bd
+webmail.bkgps.edu.bd
 webmail.bmns.edu.bd
 webmail.cdfm.edu.bd
 webmail.chgmc.edu.bd
@@ -659,6 +674,7 @@ www.komorpursgs.edu.bd.satcfakirhat.edu.bd
 www.kshuhs.edu.bd
 www.langolmorahs.edu.bd
 www.laravel10.presidencybd.edu.bd
+www.lib.eastdelta.edu.bd
 www.m.aadmadrasah.edu.bd
 www.m.cpdm.edu.bd
 www.m.jmbisfm.edu.bd
@@ -723,6 +739,7 @@ www.sundorhighschool.edu.bd
 www.surjyadiamhs.edu.bd
 www.survey.eastdelta.edu.bd
 www.susc.edu.bd
+www.test.phss.edu.bd
 www.test.shibganjhighschool.edu.bd
 www.thisatestok.ugv.edu.bd
 www.tkdm.edu.bd
