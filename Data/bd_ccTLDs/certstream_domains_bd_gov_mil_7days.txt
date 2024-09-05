@@ -27,6 +27,7 @@ api.bscl.gov.bd
 api.ncpds.dae.gov.bd
 api.pds.dae.gov.bd
 api.sacp.dae.gov.bd
+api.scc.gov.bd
 api.vaxepi.gov.bd
 application.sylhetboard.gov.bd
 appointment.srngih.gov.bd
@@ -96,6 +97,7 @@ chittagongzoo.gov.bd
 chuadangacollege.gov.bd
 cicd.most.gov.bd
 circle34.taxeszone2.gov.bd
+citizen.scc.gov.bd
 classvi.dinajpurboard.gov.bd
 cloud.ekshop.gov.bd
 cmp.bcc.gov.bd
@@ -106,6 +108,7 @@ conference.dghs.gov.bd
 controlroom.dghs.gov.bd
 corona.gov.bd
 cp.kda.gov.bd
+cpadmin.scc.gov.bd
 cpanel.bmdbwcsrp.gov.bd
 cpanel.dgca58.gov.bd
 cpanel.diaautomation.gov.bd
@@ -124,6 +127,7 @@ cpanel.sac.gov.bd
 cpanel.senbagcollege.gov.bd
 cpanel.tscgopal.gov.bd
 cpanel.ttcraj.gov.bd
+cpbackend.scc.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
 cpcalendars.caabhc.gov.bd
 cpcalendars.dgca58.gov.bd
@@ -394,6 +398,7 @@ nise3.gov.bd
 nmv.dscc.gov.bd
 nnsop.gov.bd
 noc.kda.gov.bd
+nogorapp.scc.gov.bd
 notarypublic.gov.bd
 ntrc.gameapp.gov.bd
 nttc.gov.bd
@@ -656,9 +661,11 @@ www.chandanpurup.gov.bd
 www.charjashordiup.faridpurlg.gov.bd
 www.chcpelearning.dghs.gov.bd
 www.circle34.taxeszone2.gov.bd
+www.citizen.scc.gov.bd
 www.cloud.ekshop.gov.bd
 www.comillaboard.gov.bd
 www.commission.ekshop.gov.bd
+www.cpadmin.scc.gov.bd
 www.da.ictbdiasms.gov.bd
 www.dashboard.idsdp.rdcd.gov.bd
 www.daulatpurup.gov.bd
@@ -740,6 +747,7 @@ www.nicvd.gov.bd
 www.nidw.gov.bd
 www.nilmrc.gov.bd
 www.nnsop.gov.bd
+www.nogorapp.scc.gov.bd
 www.ntrc.gameapp.gov.bd
 www.nuralapur.narsingdilg.gov.bd
 www.nuralapurup.narsingdilg.gov.bd
