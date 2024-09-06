@@ -37,6 +37,7 @@ autodiscover.jgbb.edu.bd
 autodiscover.ksnhighschool.edu.bd
 autodiscover.miam.edu.bd
 autodiscover.sdkm.edu.bd
+autodiscover.sduam.edu.bd
 autodiscover.skcr.edu.bd
 autodiscover.smcraj.edu.bd
 autodiscover.smuct.edu.bd
@@ -46,11 +47,13 @@ bank-reconciliation.bcps.edu.bd
 baraikandihs.edu.bd
 baramaishahighschool.edu.bd
 baruhahighschool.edu.bd
+basac.edu.bd
 basantighs.edu.bd
 bashgarihighschool.edu.bd
 baurshs.edu.bd
 bbaedu.info.dhankorahighschool.edu.bd
 bblhighschool.edu.bd
+beritolahs.edu.bd
 berpangadm.edu.bd
 beta.bksppsc.edu.bd
 beta.jaskm.edu.bd
@@ -96,6 +99,7 @@ chakariacollege.edu.bd
 charkulaghatdm.edu.bd
 charpouligsdmt.edu.bd
 cheoragovtcollege.edu.bd
+chilokuthighschool.edu.bd
 cjghs.edu.bd
 covid.seu.edu.bd
 covid19.seu.edu.bd
@@ -128,6 +132,7 @@ cpanel.pbahs.edu.bd
 cpanel.rajnagarrfm.edu.bd
 cpanel.rkmhsc.edu.bd
 cpanel.sdkm.edu.bd
+cpanel.sduam.edu.bd
 cpanel.sekindrabaddsdm.edu.bd
 cpanel.skcr.edu.bd
 cpanel.smcraj.edu.bd
@@ -160,6 +165,7 @@ cpcalendars.pbahs.edu.bd
 cpcalendars.rajnagarrfm.edu.bd
 cpcalendars.rkmhsc.edu.bd
 cpcalendars.sdkm.edu.bd
+cpcalendars.sduam.edu.bd
 cpcalendars.sekindrabaddsdm.edu.bd
 cpcalendars.skcr.edu.bd
 cpcalendars.smcraj.edu.bd
@@ -168,6 +174,7 @@ cpcalendars.uits.edu.bd
 cpcontacts.abuhurayra.edu.bd
 cpcontacts.arambaghsc.edu.bd
 cpcontacts.arcbhola.edu.bd
+cpcontacts.autodiscover.ssschool.edu.bd
 cpcontacts.baurshs.edu.bd
 cpcontacts.bhksc.edu.bd
 cpcontacts.birinchimadrasah.edu.bd
@@ -192,6 +199,7 @@ cpcontacts.pbahs.edu.bd
 cpcontacts.rajnagarrfm.edu.bd
 cpcontacts.rkmhsc.edu.bd
 cpcontacts.sdkm.edu.bd
+cpcontacts.sduam.edu.bd
 cpcontacts.sekindrabaddsdm.edu.bd
 cpcontacts.skcr.edu.bd
 cpcontacts.smcraj.edu.bd
@@ -382,6 +390,7 @@ mail.pbahs.edu.bd
 mail.rajnagarrfm.edu.bd
 mail.rkmhsc.edu.bd
 mail.sdkm.edu.bd
+mail.sduam.edu.bd
 mail.sekindrabaddsdm.edu.bd
 mail.skcr.edu.bd
 mail.smcraj.edu.bd
@@ -401,11 +410,13 @@ mgcfeni.edu.bd
 mgcollege.edu.bd
 mgi.edu.bd
 mhmgc.edu.bd
+mhsip.edu.bd
 mhslalpur.edu.bd
 miam.edu.bd
 midc.edu.bd
 minaltech.edu.bd
 mirkundihighschool.edu.bd
+monakashaghs.edu.bd
 mpwdc.edu.bd
 mrsc.edu.bd
 mtudm.edu.bd
@@ -485,6 +496,7 @@ scmuchs.edu.bd
 scpa.edu.bd
 scpa.edu.bd.mmemorialcollege.edu.bd
 sdkm.edu.bd
+sduam.edu.bd
 sekindrabaddsdm.edu.bd
 sgs.edu.bd
 shakpuramodelhighschool.edu.bd
@@ -521,6 +533,7 @@ sylgovcollege.edu.bd
 tangailinstitute.edu.bd
 tanorebmc.edu.bd
 tariqul.ugv.edu.bd
+tarma.edu.bd
 taskbdcalling.kafm.edu.bd
 taskone.kafm.edu.bd
 test.gsshs129875.edu.bd
@@ -563,6 +576,7 @@ webdisk.pbahs.edu.bd
 webdisk.rajnagarrfm.edu.bd
 webdisk.rkmhsc.edu.bd
 webdisk.sdkm.edu.bd
+webdisk.sduam.edu.bd
 webdisk.sekindrabaddsdm.edu.bd
 webdisk.skcr.edu.bd
 webdisk.smcraj.edu.bd
@@ -595,12 +609,14 @@ webmail.pbahs.edu.bd
 webmail.rajnagarrfm.edu.bd
 webmail.rkmhsc.edu.bd
 webmail.sdkm.edu.bd
+webmail.sduam.edu.bd
 webmail.sekindrabaddsdm.edu.bd
 webmail.skcr.edu.bd
 webmail.smcraj.edu.bd
 webmail.smuct.edu.bd
 webmail.uits.edu.bd
 wifi.uttarauniversity.edu.bd
+wisdomschoolandcollege.edu.bd
 www.abuhurayra.edu.bd
 www.admission.bajuasurendranathcollege.edu.bd
 www.adnann.info.dhankorahighschool.edu.bd
@@ -735,6 +751,7 @@ www.s.shamhs.edu.bd
 www.salim.arambaghsc.edu.bd
 www.scpa.edu.bd.mmemorialcollege.edu.bd
 www.sdkm.edu.bd
+www.sduam.edu.bd
 www.sekindrabaddsdm.edu.bd
 www.shibrampurhighschool.edu.bd
 www.shui.com.bd.nobojibonpi.edu.bd
