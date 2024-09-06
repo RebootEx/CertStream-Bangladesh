@@ -146,6 +146,7 @@ cpanel.ramgatipourashava.gov.bd
 cpanel.senbagcollege.gov.bd
 cpanel.shariatpurtsc.gov.bd
 cpanel.tscgopal.gov.bd
+cpanel.ugc-hemis.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bhairabtsc.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
@@ -165,6 +166,7 @@ cpcalendars.ramgatipourashava.gov.bd
 cpcalendars.senbagcollege.gov.bd
 cpcalendars.shariatpurtsc.gov.bd
 cpcalendars.tscgopal.gov.bd
+cpcalendars.ugc-hemis.gov.bd
 cpcontacts.aclandsadarpur.gov.bd
 cpcontacts.bhairabtsc.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
@@ -184,6 +186,7 @@ cpcontacts.ramgatipourashava.gov.bd
 cpcontacts.senbagcollege.gov.bd
 cpcontacts.shariatpurtsc.gov.bd
 cpcontacts.tscgopal.gov.bd
+cpcontacts.ugc-hemis.gov.bd
 crelic-lged.gov.bd
 csc.dghs.gov.bd
 ctgtaxeszone2.gov.bd
@@ -267,6 +270,7 @@ gbrcr.gov.bd
 ggc.gov.bd
 ghabc.gov.bd
 gisfs.bpc.gov.bd
+globe.dhamraimunicipality.gov.bd
 gmscn.dac.gov.bd
 gopalpurup.faridpurlg.gov.bd
 gpufp.gov.bd
@@ -351,6 +355,7 @@ mail.senbagcollege.gov.bd
 mail.shariatpurtsc.gov.bd
 mail.soms.gov.bd
 mail.tscgopal.gov.bd
+mail.ugc-hemis.gov.bd
 mail.vatdhakawest.gov.bd
 mail.zplakshmipur.gov.bd
 market.dam.gov.bd
@@ -539,6 +544,7 @@ tujerpurup.faridpurlg.gov.bd
 turn.vc8.bcc.gov.bd
 tvr.bscl.gov.bd
 uat.dc-khagrachhari.gov.bd
+ugc-hemis.gov.bd
 upsebarajshahidiv.gov.bd
 upsonod.com.melandahbhata.gov.bd
 useomadhukhali.gov.bd
@@ -575,6 +581,7 @@ webdisk.ramgatipourashava.gov.bd
 webdisk.senbagcollege.gov.bd
 webdisk.shariatpurtsc.gov.bd
 webdisk.tscgopal.gov.bd
+webdisk.ugc-hemis.gov.bd
 webmail.aclandsadarpur.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bmdbwcsrp.gov.bd
@@ -594,6 +601,8 @@ webmail.ramgatipourashava.gov.bd
 webmail.senbagcollege.gov.bd
 webmail.shariatpurtsc.gov.bd
 webmail.tscgopal.gov.bd
+webmail.ugc-hemis.gov.bd
+workshop.mspvaw109.gov.bd
 wqtrms.dphe.gov.bd
 www.academy.ekshop.gov.bd
 www.aclandsadarpur.gov.bd
@@ -670,6 +679,7 @@ www.financial-assist.dsw.gov.bd
 www.foreigner.dc-khagrachhari.gov.bd
 www.ghabc.gov.bd
 www.gisfs.bpc.gov.bd
+www.globe.dhamraimunicipality.gov.bd
 www.gmscn.dac.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.grsreport.karmasangsthanbank.gov.bd
@@ -764,12 +774,14 @@ www.training.ec4j.gov.bd
 www.tscgopal.gov.bd
 www.tujerpurup.faridpurlg.gov.bd
 www.uacco.melandahbhata.gov.bd
+www.ugc-hemis.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
 www.vatdhakawest.gov.bd
 www.verify-network.ekshop.gov.bd
 www.video.ekshop.gov.bd
 www.vrcbd.cmc.gov.bd
 www.water.scc.gov.bd
+www.workshop.mspvaw109.gov.bd
 www.zpkurigram.gov.bd
 www.zplakshmipur.gov.bd
 zpgazipur.gov.bd
