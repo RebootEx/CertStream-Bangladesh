@@ -1,3 +1,4 @@
+2021-22.accounts.comillaboard.gov.bd
 admin-mail.soms.gov.bd
 api-front.ekshop.gov.bd
 api-merchant.ekshop.gov.bd
@@ -5,6 +6,7 @@ api.career.nwpgcl.gov.bd
 api.freelancers.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 autodiscover.ccr.gov.bd
+autodiscover.iras.bamis.gov.bd
 autodiscover.patgrammunicipality.gov.bd
 backend.career.nwpgcl.gov.bd
 banihala.upmymensinghholdingtax.gov.bd
@@ -13,6 +15,7 @@ bargunamunicipality.gov.bd
 billing-service.bscl.gov.bd
 billing.bscl.gov.bd
 bogurapolice.gov.bd
+bsachittagong.gov.bd
 btbckaschool.com.btriapps.gov.bd
 cafoimed.gov.bd
 cafoindustries.gov.bd
@@ -29,12 +32,14 @@ cpadmin.ncc.gov.bd
 cpanel.aclandsadarpur.gov.bd
 cpanel.ccr.gov.bd
 cpanel.ghabc.gov.bd
+cpanel.iras.bamis.gov.bd
 cpanel.mahzcollege.gov.bd
 cpanel.ngmc.gov.bd
 cpanel.senbagcollege.gov.bd
 cpbackend.ncc.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.ghabc.gov.bd
+cpcalendars.iras.bamis.gov.bd
 cpcalendars.mahzcollege.gov.bd
 cpcalendars.ngmc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
@@ -42,6 +47,7 @@ cpcalendars.senbagcollege.gov.bd
 cpcontacts.aclandsadarpur.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.ghabc.gov.bd
+cpcontacts.iras.bamis.gov.bd
 cpcontacts.mahzcollege.gov.bd
 cpcontacts.ngmc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
@@ -57,6 +63,7 @@ edu.bd.gbrcr.gov.bd
 exam.noipunno.gov.bd
 ghabc.gov.bd
 ikfmss.gov.bd
+iras.bamis.gov.bd
 iras.brri.gov.bd
 jitsi.vc8.bcc.gov.bd
 lbphs.gov.bd
@@ -64,9 +71,11 @@ lms.ipemis.dpe.gov.bd
 lrms.gov.bd
 mahzcollege.gov.bd
 mail.aclandsadarpur.gov.bd
+mail.bsachittagong.gov.bd
 mail.ccr.gov.bd
 mail.egp.dghs.gov.bd
 mail.ghabc.gov.bd
+mail.iras.bamis.gov.bd
 mail.mahzcollege.gov.bd
 mail.ngmc.gov.bd
 mail.patgrammunicipality.gov.bd
@@ -82,11 +91,13 @@ pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
 patiyapourashava.gov.bd
 profile.rmch.gov.bd
+rhd.gov.bd
 ric.gov.bd
 rpi.gov.bd
 rrpm.mofood.gov.bd
 secpass.gov.bd
 senbagcollege.gov.bd
+sggsc.gov.bd
 sheikhrusseldigitallab.gov.bd
 sla.gov.bd
 socialprotection.gov.bd
@@ -95,6 +106,7 @@ sonod.ncc.gov.bd
 ssmcmh.gov.bd
 taherpurpourashava.gov.bd
 trainingbi.apamsv3.cabinet.gov.bd
+trainingjk.apamsv3.cabinet.gov.bd
 trainingmq.apamsv3.cabinet.gov.bd
 trainingpdf.apamsv3.cabinet.gov.bd
 turn.vc8.bcc.gov.bd
@@ -104,6 +116,7 @@ vimruli.gov.bd
 webdisk.aclandsadarpur.gov.bd
 webdisk.ccr.gov.bd
 webdisk.ghabc.gov.bd
+webdisk.iras.bamis.gov.bd
 webdisk.mahzcollege.gov.bd
 webdisk.ngmc.gov.bd
 webdisk.patgrammunicipality.gov.bd
@@ -111,6 +124,7 @@ webdisk.senbagcollege.gov.bd
 webmail.aclandsadarpur.gov.bd
 webmail.ccr.gov.bd
 webmail.ghabc.gov.bd
+webmail.iras.bamis.gov.bd
 webmail.mahzcollege.gov.bd
 webmail.ngmc.gov.bd
 webmail.senbagcollege.gov.bd
@@ -120,6 +134,7 @@ www.banihala.upmymensinghholdingtax.gov.bd
 www.bankposting.ncc.gov.bd
 www.bdrisdata.dcsherpurinfo.gov.bd
 www.bogurapolice.gov.bd
+www.bsachittagong.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
 www.ccr.gov.bd
 www.citizen.ncc.gov.bd
@@ -130,6 +145,7 @@ www.dashboard.idsdp.rdcd.gov.bd
 www.develop.aaic.aaic.gov.bd
 www.exam.noipunno.gov.bd
 www.ghabc.gov.bd
+www.iras.bamis.gov.bd
 www.mahzcollege.gov.bd
 www.mujibjigyasa.gov.bd
 www.nabipurwestsmartup.gov.bd
