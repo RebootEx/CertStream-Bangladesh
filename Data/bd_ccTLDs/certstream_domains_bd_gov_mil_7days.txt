@@ -25,6 +25,7 @@ api-milkvita.idsdp.rdcd.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 api.bfacf-ticket.gov.bd
 api.bscl.gov.bd
+api.career.nwpgcl.gov.bd
 api.ekpass.gov.bd
 api.freelancers.gov.bd
 api.sacp.dae.gov.bd
@@ -44,12 +45,14 @@ autodiscover.kishoreganjtsc.gov.bd
 autodiscover.shariatpurtsc.gov.bd
 autodiscover.tscgopal.gov.bd
 back.socialprotection.gov.bd
+backend.career.nwpgcl.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 bakshimulup.gov.bd
 bancharampurtsc.gov.bd
 bangabandhushilpanagar.gov.bd
+bangladeshtourism.gov.bd
 banihala.upmymensinghholdingtax.gov.bd
 bard.idsdp.rdcd.gov.bd
 barisalboard.gov.bd
@@ -94,6 +97,7 @@ burichangsadarup.gov.bd
 bvcdoctor.bvc.gov.bd
 bwc.gov.bd
 cafowater.gov.bd
+career-sandbox.nwpgcl.gov.bd
 career.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
 cbcctg.gov.bd
@@ -319,6 +323,7 @@ mahzcollege.gov.bd
 maijdeetsc.gov.bd
 mail.a2iservices.gov.bd
 mail.aclandsadarpur.gov.bd
+mail.bangladeshtourism.gov.bd
 mail.bhairabtsc.gov.bd
 mail.bmdbwcsrp.gov.bd
 mail.bsachittagong.gov.bd
@@ -607,6 +612,7 @@ www.ar.gameapp.gov.bd
 www.attendance.ekshop.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
 www.bakshimulup.gov.bd
+www.bangladeshtourism.gov.bd
 www.banihala.upmymensinghholdingtax.gov.bd
 www.bard.idsdp.rdcd.gov.bd
 www.barisal.barishalcity.gov.bd
