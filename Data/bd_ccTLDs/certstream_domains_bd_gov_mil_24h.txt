@@ -14,11 +14,13 @@ billing-service.bscl.gov.bd
 billing.bscl.gov.bd
 bogurapolice.gov.bd
 btbckaschool.com.btriapps.gov.bd
+cafoimed.gov.bd
 cafoindustries.gov.bd
 career-sandbox.nwpgcl.gov.bd
 casino.accessibledictionary.gov.bd
 cbraj.gov.bd
 ccr.gov.bd
+centraldhis.mohfw.gov.bd
 citizen.ncc.gov.bd
 contacts.rmch.gov.bd
 corona.gov.bd
@@ -36,6 +38,8 @@ dcsherpurinfo.gov.bd
 develop.aaic.aaic.gov.bd
 dmbogura.gov.bd
 edu.bd.gbrcr.gov.bd
+exam.noipunno.gov.bd
+iras.brri.gov.bd
 jitsi.vc8.bcc.gov.bd
 lbphs.gov.bd
 lms.ipemis.dpe.gov.bd
@@ -47,10 +51,14 @@ mail.patgrammunicipality.gov.bd
 manirampurmunicipality.gov.bd
 melandahbhata.gov.bd
 mujibjigyasa.gov.bd
+nabipurwestsmartup.gov.bd
+nazipurpourashava.gov.bd
 pabnapourashava.gov.bd
 pakundiapaurashava.gov.bd
+patiyapourashava.gov.bd
 profile.rmch.gov.bd
 ric.gov.bd
+rpi.gov.bd
 rrpm.mofood.gov.bd
 secpass.gov.bd
 sheikhrusseldigitallab.gov.bd
@@ -82,7 +90,9 @@ www.contacts.rmch.gov.bd
 www.cpadmin.ncc.gov.bd
 www.cpbackend.ncc.gov.bd
 www.develop.aaic.aaic.gov.bd
+www.exam.noipunno.gov.bd
 www.mujibjigyasa.gov.bd
+www.nabipurwestsmartup.gov.bd
 www.nagadislamic.gov.bd
 www.profile.rmch.gov.bd
 www.ric.gov.bd
@@ -90,6 +100,7 @@ www.sisrangpur.edu.bd.gbrcr.gov.bd
 www.sla.gov.bd
 www.soms.gov.bd
 www.sonod.ncc.gov.bd
+www.sp-server.rpi.gov.bd
 www.tcb.melandahbhata.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
