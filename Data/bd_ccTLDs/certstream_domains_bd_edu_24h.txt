@@ -54,6 +54,7 @@ autodiscover.paliparahs.edu.bd
 autodiscover.pati.edu.bd
 autodiscover.pdhs67.edu.bd
 autodiscover.pms.edu.bd
+autodiscover.stamforduniversity.edu.bd
 autodiscover.ucn.edu.bd
 babulcharahs.edu.bd
 baduriasecondaryschool.edu.bd
@@ -165,6 +166,7 @@ cpanel.rdmadrasah.edu.bd
 cpanel.seu.edu.bd
 cpanel.shamalataherschool.edu.bd
 cpanel.shasharahs.edu.bd
+cpanel.stamforduniversity.edu.bd
 cpanel.ucn.edu.bd
 cpcalendars.akbarpurhighschool.edu.bd
 cpcalendars.amhc.edu.bd
@@ -222,9 +224,11 @@ cpcontacts.pndhs.edu.bd
 cpcontacts.rdmadrasah.edu.bd
 cpcontacts.seu.edu.bd
 cpcontacts.shamalataherschool.edu.bd
+cpcontacts.stamforduniversity.edu.bd
 cpcontacts.ucn.edu.bd
 cpscn.edu.bd
 cscc.edu.bd
+cse.stamforduniversity.edu.bd
 csealumni.bubt.edu.bd
 dabarbhangahighschool.edu.bd
 daghsc.edu.bd
@@ -411,6 +415,7 @@ mail.rutb.edu.bd
 mail.shamalataherschool.edu.bd
 mail.sidmsat.edu.bd
 mail.stamfordcollege.edu.bd
+mail.stamforduniversity.edu.bd
 mail.tripanibidyapith.edu.bd
 mail.ucn.edu.bd
 mailer.bsmrstu.edu.bd
@@ -425,6 +430,7 @@ meags.edu.bd
 mgghighschool.edu.bd
 mhnss.edu.bd
 mhsdinajpur.edu.bd
+mhsts.edu.bd
 miamjuraindhaka.edu.bd
 mirerdangaiamadrasah.edu.bd
 mism.edu.bd
@@ -441,6 +447,8 @@ mskm.edu.bd
 msscbogra.edu.bd
 mstpsc.edu.bd
 muam.edu.bd
+munsirtallukgdm.edu.bd
+mushuddiafazuddinhighschool.edu.bd
 muss.edu.bd
 mwdc.edu.bd
 mysoft.afanullahhs.edu.bd
@@ -457,6 +465,7 @@ new.uits.edu.bd
 nghskhulna.edu.bd
 nghspaba.edu.bd
 nhs1972.edu.bd
+nhskaw.edu.bd
 nilakhaahhs.edu.bd
 nissk.edu.bd
 nitctg.edu.bd
@@ -495,6 +504,7 @@ portal.aeiag.edu.bd
 portal.aiscag.edu.bd
 portal.csmhs.edu.bd
 portal.glenrich.edu.bd
+portal.hsjrsc.edu.bd
 portal.kbnhighschool.edu.bd
 portal.kgdcollege.edu.bd
 portal.nahhms.edu.bd
@@ -569,6 +579,7 @@ ssdcnil.edu.bd
 ssgirlshighschool.edu.bd
 ssgirlsschool.edu.bd
 sssgstk.edu.bd
+stamford.stamforduniversity.edu.bd
 stamfordcollege.edu.bd
 stamforduniversity.edu.bd
 stpaulshighschool.edu.bd
@@ -723,6 +734,7 @@ www.chandipurmdm.edu.bd
 www.chatrascienceandtechnicalcollege.edu.bd
 www.chowkurihs.edu.bd
 www.chsphulbari.edu.bd
+www.cse.stamforduniversity.edu.bd
 www.csealumni.bubt.edu.bd
 www.dabarbhangahighschool.edu.bd
 www.daghsc.edu.bd
@@ -843,6 +855,7 @@ www.sidmsat.edu.bd.nbksmadrasah.edu.bd
 www.skhasina.dsti.edu.bd
 www.sms.nmhsc.edu.bd
 www.sohel.online.jathaliaashs.edu.bd
+www.stamford.stamforduniversity.edu.bd
 www.stamfordcollege.edu.bd
 www.studentportal.infra.edu.bd
 www.sundarbansgs.edu.bd.nbksmadrasah.edu.bd
