@@ -29,6 +29,7 @@ daulatpurup.gov.bd
 demo.kabinazrulcollege.gov.bd
 deopanchagarh.gov.bd
 dev.shrdashboard.dghs.gov.bd
+dhakadental.gov.bd
 dhis2tracker.dghs.gov.bd
 dscc.gov.bd
 egov.cabinet.gov.bd
@@ -40,6 +41,7 @@ himb.bwdb.gov.bd
 his1.bcc.gov.bd
 hrm-service.bscl.gov.bd
 hrm.bscl.gov.bd
+hrm.sprangpur.gov.bd
 ihtdhaka.gov.bd
 ikfmss.gov.bd
 jati.gov.bd
@@ -54,12 +56,15 @@ mfstc.gov.bd
 nazipurpourashava.gov.bd
 noc.kda.gov.bd
 onlinetc.dinajpurboard.gov.bd
+patharghatapourashava.gov.bd
 patiyapourashava.gov.bd
 phfis.dghs.gov.bd
 pop.emergencynutrition.gov.bd
+rpi.gov.bd
 share.cao.gov.bd
 shariatpurtsc.gov.bd
 smart.dncc.gov.bd
+smarthaat.gov.bd
 smartup.comillalg.gov.bd
 smtp.emergencynutrition.gov.bd
 tafaruqueschoolandcollege.gov.bd
@@ -78,10 +83,12 @@ www.challenge.gov.bd
 www.daulatpurup.gov.bd
 www.demo.kabinazrulcollege.gov.bd
 www.emergencynutrition.gov.bd
+www.hrm.sprangpur.gov.bd
 www.ihtdhaka.gov.bd
 www.joyparatsc.gov.bd
 www.mail2.mfsp.gov.bd
 www.sggsc.gov.bd
 www.shariatpurtsc.gov.bd
 www.taxzone21dhaka.gov.bd
+www.test.rpi.gov.bd
 zppatuakhali.gov.bd
