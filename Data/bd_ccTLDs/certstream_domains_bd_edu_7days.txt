@@ -947,6 +947,7 @@ cpanel.nhsc.edu.bd
 cpanel.nischintapurcollege.edu.bd
 cpanel.nischintapurhs.edu.bd
 cpanel.nkchs.edu.bd
+cpanel.nmdm.edu.bd
 cpanel.nnam.edu.bd
 cpanel.nstu.edu.bd
 cpanel.nuc.edu.bd
@@ -1183,6 +1184,7 @@ cpcalendars.nhsc.edu.bd
 cpcalendars.nischintapurcollege.edu.bd
 cpcalendars.nischintapurhs.edu.bd
 cpcalendars.nkchs.edu.bd
+cpcalendars.nmdm.edu.bd
 cpcalendars.nnam.edu.bd
 cpcalendars.nstu.edu.bd
 cpcalendars.ohs.edu.bd
@@ -1417,6 +1419,7 @@ cpcontacts.nhsc.edu.bd
 cpcontacts.nischintapurcollege.edu.bd
 cpcontacts.nischintapurhs.edu.bd
 cpcontacts.nkchs.edu.bd
+cpcontacts.nmdm.edu.bd
 cpcontacts.nnam.edu.bd
 cpcontacts.nstu.edu.bd
 cpcontacts.ohs.edu.bd
@@ -2126,6 +2129,7 @@ jhrcdb.edu.bd
 jhs1963.edu.bd
 jhschool.edu.bd
 jhsfulbari.edu.bd
+jifmadrasah.edu.bd
 jimdm.edu.bd
 jimighs.edu.bd
 jimmadrasah.edu.bd
@@ -2834,6 +2838,7 @@ mail.njuhs.edu.bd
 mail.nkbhs.edu.bd
 mail.nkchs.edu.bd
 mail.nkmins.edu.bd
+mail.nmdm.edu.bd
 mail.nnam.edu.bd
 mail.npi51040.edu.bd
 mail.nstu.edu.bd
@@ -3271,6 +3276,7 @@ nkmins.edu.bd
 nlhs.edu.bd
 nmcnag.edu.bd
 nmdhs.edu.bd
+nmdm.edu.bd
 nmhsc.edu.bd
 nmjhsc.edu.bd
 nmub.edu.bd
@@ -3398,6 +3404,7 @@ pharmacy.cityuniversity.edu.bd
 phdmkumarkhali.edu.bd
 philosophia.edu.bd
 phm.just.edu.bd
+photo.dis.edu.bd
 photoframe.daffodilvarsity.edu.bd
 phsafhs.edu.bd
 phsr.edu.bd
@@ -3593,6 +3600,8 @@ rostomabadhs.edu.bd
 royal.edu.bd
 royel.edu.bd
 rpghsc.edu.bd
+rpspgdit.iitju.edu.bd
+rpspmit.iitju.edu.bd
 rptc.edu.bd
 rrhighschoolduarabazar.edu.bd
 rscs.edu.bd
@@ -4233,6 +4242,7 @@ webdisk.nhsc.edu.bd
 webdisk.nischintapurcollege.edu.bd
 webdisk.nischintapurhs.edu.bd
 webdisk.nkchs.edu.bd
+webdisk.nmdm.edu.bd
 webdisk.nnam.edu.bd
 webdisk.nstu.edu.bd
 webdisk.ohs.edu.bd
@@ -4475,6 +4485,7 @@ webmail.nhsc.edu.bd
 webmail.nischintapurcollege.edu.bd
 webmail.nischintapurhs.edu.bd
 webmail.nkchs.edu.bd
+webmail.nmdm.edu.bd
 webmail.nnam.edu.bd
 webmail.nstu.edu.bd
 webmail.nuc.edu.bd
@@ -5413,6 +5424,7 @@ www.nkbhs.edu.bd
 www.nkchs.edu.bd
 www.nkhghs.edu.bd.sgpmhs.edu.bd
 www.nkmins.edu.bd
+www.nmdm.edu.bd
 www.nnam.edu.bd
 www.northmeramotpurhighschool.edu.bd
 www.npi51040.edu.bd
