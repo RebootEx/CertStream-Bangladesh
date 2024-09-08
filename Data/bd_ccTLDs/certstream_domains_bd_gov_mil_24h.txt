@@ -1,8 +1,12 @@
 amarai.gameapp.gov.bd
 ar.gameapp.gov.bd
+autodiscover.ngwc.gov.bd
 beta.nmcp.gov.bd
 bhairabmunicipality.gov.bd
 bsfmstu.gameapp.gov.bd
+cpanel.ngwc.gov.bd
+cpcalendars.ngwc.gov.bd
+cpcontacts.ngwc.gov.bd
 dataportal.bmd.gov.bd
 deodinajpur.gov.bd
 dev.shrdashboard.dghs.gov.bd
@@ -13,9 +17,11 @@ godagaricollege.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 info.dgda.gov.bd
 mail.cao.gov.bd
+mail.ngwc.gov.bd
 mailbox.macademy.gov.bd
 mfsp.gov.bd
 newdemo.nameage.comillaboard.gov.bd
+ngwc.gov.bd
 nrais.dgda.gov.bd
 ntrc.gameapp.gov.bd
 pabtec.gov.bd
@@ -28,6 +34,10 @@ taxeszone6.gov.bd
 test.gameapp.gov.bd
 ulipurmunicipality.gov.bd
 ver1.nameage.comillaboard.gov.bd
+vr.bangabhaban.gov.bd
+vr.gameapp.gov.bd
+webdisk.ngwc.gov.bd
+webmail.ngwc.gov.bd
 wqtrms.dphe.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
@@ -35,6 +45,7 @@ www.bsfmstu.gameapp.gov.bd
 www.du.gameapp.gov.bd
 www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
+www.ngwc.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
 www.test.gameapp.gov.bd
