@@ -16,15 +16,19 @@ btvlive.gov.bd
 census2021.gov.bd
 cmp.gov.bd
 cpanel.bhairabtsc.gov.bd
+cpanel.kmpi.gov.bd
 cpanel.ngwc.gov.bd
 cpcalendars.bhairabtsc.gov.bd
+cpcalendars.kmpi.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcontacts.bhairabtsc.gov.bd
+cpcontacts.kmpi.gov.bd
 cpcontacts.ngwc.gov.bd
 dataportal.bmd.gov.bd
 deodinajpur.gov.bd
 dev.shrdashboard.dghs.gov.bd
 du.gameapp.gov.bd
+ebrc.mil.bd
 ecptest.uru.gov.bd
 ehrm.fireservice.gov.bd
 epmis.gov.bd
@@ -32,9 +36,12 @@ everify.certificate.comillaboard.gov.bd
 godagaricollege.gov.bd
 hsc-dbtp-2024.dinajpurboard.gov.bd
 info.dgda.gov.bd
+kmpi.gov.bd
 korakdiup.faridpurlg.gov.bd
+lsb.gov.bd
 mail.bhairabtsc.gov.bd
 mail.cao.gov.bd
+mail.kmpi.gov.bd
 mail.ngwc.gov.bd
 mail.shmrmi.gov.bd
 mailbox.macademy.gov.bd
@@ -62,6 +69,7 @@ sonali-e-sheba.dinajpurboard.gov.bd
 taxeszone6.gov.bd
 test.bgmc.gov.bd
 test.gameapp.gov.bd
+tphsbagmara.gov.bd
 tr.shrlive.dghs.gov.bd
 ulipurmunicipality.gov.bd
 upsonod.com.melandahbhata.gov.bd
@@ -70,8 +78,10 @@ ver1.nameage.comillaboard.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 webdisk.bhairabtsc.gov.bd
+webdisk.kmpi.gov.bd
 webdisk.ngwc.gov.bd
 webmail.bhairabtsc.gov.bd
+webmail.kmpi.gov.bd
 webmail.ngwc.gov.bd
 webmail.shmrmi.gov.bd
 wqtrms.dphe.gov.bd
@@ -82,6 +92,7 @@ www.bhairabtsc.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.btvlive.gov.bd
 www.du.gameapp.gov.bd
+www.kmpi.gov.bd
 www.korakdiup.faridpurlg.gov.bd
 www.mail2.mfsp.gov.bd
 www.mailbox.macademy.gov.bd
@@ -92,4 +103,5 @@ www.register.gameapp.gov.bd
 www.roadshow.sec.gov.bd
 www.shmrmi.gov.bd
 www.test.gameapp.gov.bd
+www.tphsbagmara.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
