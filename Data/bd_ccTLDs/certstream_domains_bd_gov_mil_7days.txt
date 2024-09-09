@@ -247,6 +247,7 @@ dhis2tracker.dghs.gov.bd
 diaautomation.gov.bd
 dlrms-stg.land.gov.bd
 dmbogura.gov.bd
+dmp.gov.bd
 dns.ekshop.gov.bd
 dob.ekshop.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
@@ -708,6 +709,7 @@ www.dev.knsikhagrachari.gov.bd
 www.develop.aaic.aaic.gov.bd
 www.dgca58.gov.bd
 www.diaautomation.gov.bd
+www.dmp.gov.bd
 www.dob.ekshop.gov.bd
 www.dpg.ekshop.gov.bd
 www.du.gameapp.gov.bd

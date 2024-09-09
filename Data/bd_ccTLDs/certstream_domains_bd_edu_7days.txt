@@ -36,6 +36,7 @@ addm.edu.bd
 adgramhs.edu.bd
 admin.acas.edu.bd
 admin.cmsc.edu.bd
+admin.govtshcollege.edu.bd
 admin.habibullahcollege.edu.bd
 admin.mccollege.edu.bd
 adminssc.sscollege.edu.bd
@@ -70,6 +71,7 @@ ahs.edu.bd
 ahsbagmara.edu.bd
 ahschool.edu.bd
 ahsctg.edu.bd
+aidealhs.edu.bd
 aidm.edu.bd
 airporthighschool.edu.bd
 ais.just.edu.bd
@@ -482,6 +484,7 @@ bghschool.edu.bd
 bghsk.edu.bd
 bghst.edu.bd
 bgifm.edu.bd
+bgmdm.edu.bd
 bgmsc.edu.bd
 bgpsjashore.edu.bd
 bgsbmc.edu.bd
@@ -1674,6 +1677,7 @@ djalhs.edu.bd
 django.sylgovaliamadrasa.edu.bd
 djdm.edu.bd
 djhfm.edu.bd
+dkadm.edu.bd
 dkghs.edu.bd
 dkhs.edu.bd
 dkhss.dsam.edu.bd
@@ -1684,6 +1688,7 @@ dmhhs.edu.bd
 dmidm.edu.bd
 dmpndm118695.edu.bd
 dmuapghs.edu.bd
+dmudm.edu.bd
 dnaghs.edu.bd
 dncollege.edu.bd
 dngcnckss.edu.bd
@@ -2131,6 +2136,7 @@ jakir.xyz.jathaliaashs.edu.bd
 jalalpursecondaryschool.edu.bd
 jalaluddincollege.edu.bd
 jalkuriidm.edu.bd
+jamiafatehpur.edu.bd
 jamilakhatunlghs.edu.bd
 jamiraam.edu.bd
 jamiralata.bcb.edu.bd
@@ -2463,6 +2469,7 @@ m.aadmadrasah.edu.bd
 m.badudm.edu.bd
 m.cikm.edu.bd
 m.cpdm.edu.bd
+m.jamiafatehpur.edu.bd
 m.jmbisfm.edu.bd
 m.misfm.edu.bd
 m.mrdsdm.edu.bd
@@ -2484,6 +2491,7 @@ madhabbariahs.edu.bd
 madhupurgovtcollege.edu.bd
 madhusalhighschool.edu.bd
 madrasa.cpaghs.edu.bd
+madrasah.dmudm.edu.bd
 madrasah.skm.edu.bd
 maeti.edu.bd
 mafm.edu.bd
@@ -2653,7 +2661,9 @@ mail.difdm.edu.bd
 mail.dighicollege.edu.bd
 mail.dighleermdm.edu.bd
 mail.dipshikhahs.edu.bd
+mail.dkadm.edu.bd
 mail.dkhs.edu.bd
+mail.dmudm.edu.bd
 mail.dncollege.edu.bd
 mail.doailhs.edu.bd
 mail.doluahs.edu.bd
@@ -2741,6 +2751,7 @@ mail.issc.edu.bd
 mail.jadhs.edu.bd
 mail.jahiriamuhighschool.edu.bd
 mail.jalalpursecondaryschool.edu.bd
+mail.jamiafatehpur.edu.bd
 mail.jamirbariakhhs.edu.bd
 mail.jaskm.edu.bd
 mail.jasmm-ctg.edu.bd
@@ -2912,6 +2923,7 @@ mail.pddm.edu.bd
 mail.pdhs67.edu.bd
 mail.pdm.edu.bd
 mail.pgac.edu.bd
+mail.pghs.edu.bd
 mail.pgmhs.edu.bd
 mail.piainguljameya.edu.bd
 mail.pii.edu.bd
@@ -3421,6 +3433,7 @@ patnichanhs.edu.bd
 patulihs.edu.bd
 payment.mlis.edu.bd
 pbahs.edu.bd
+pbbdm.edu.bd
 pbdm1998.edu.bd
 pbdmadrasha.edu.bd
 pbfm.edu.bd
@@ -3447,6 +3460,7 @@ pg.bgeju.edu.bd
 pgac.edu.bd
 pgcbschool.edu.bd
 pgdit.iitju.edu.bd
+pghs.edu.bd
 pgmc.edu.bd
 pgmhs.edu.bd
 pgmsc.edu.bd
@@ -3784,7 +3798,9 @@ sc.sylgovaliamadrasa.edu.bd
 scbbhs.edu.bd
 scholarshomegsc.edu.bd
 school.bist.edu.bd
+school.mhhs.edu.bd
 school.mirzapurhs.edu.bd
+school.pghs.edu.bd
 school.sonagazigirlsphs.edu.bd
 school.ssrghs.edu.bd
 scmuchs.edu.bd
@@ -4023,6 +4039,7 @@ tangailmats.edu.bd.tangailinstitute.edu.bd
 tanorebmc.edu.bd
 tapobansecondaryschool.edu.bd
 tarac.edu.bd
+tarashgghs.edu.bd
 tariqul.ugv.edu.bd
 tarma.edu.bd
 taskbdcalling.kafm.edu.bd
@@ -4033,6 +4050,7 @@ tbgs.edu.bd
 tbjhs.edu.bd
 tbphs.edu.bd
 tcbschool.edu.bd
+tcmhs.edu.bd
 tdcnil.edu.bd
 tdskhs.edu.bd
 tdumadm.edu.bd
@@ -4648,6 +4666,7 @@ www.academy.gphis.edu.bd
 www.acce.bsmrstu.edu.bd
 www.addm.edu.bd
 www.admin.cmsc.edu.bd
+www.admin.govtshcollege.edu.bd
 www.admission.amc.edu.bd
 www.admission.bajuasurendranathcollege.edu.bd
 www.admission.imc.edu.bd
@@ -4795,8 +4814,10 @@ www.beta.senapalli.edu.bd
 www.betaa.bksppsc.edu.bd
 www.bgblhs.edu.bd
 www.bghs.edu.bd
+www.bghschool.edu.bd
 www.bghsk.edu.bd
 www.bgifm.edu.bd
+www.bgmdm.edu.bd
 www.bgmsc.edu.bd
 www.bhablahighschool.edu.bd
 www.bhadurircharhs.edu.bd
@@ -5003,10 +5024,12 @@ www.digitalit.panditsarhs.edu.bd
 www.dipshikhahs.edu.bd
 www.discounthutbd.com.hdgc.edu.bd
 www.django.sylgovaliamadrasa.edu.bd
+www.dkadm.edu.bd
 www.dkhs.edu.bd
 www.dkhss.dsam.edu.bd
 www.dkm.edu.bd
 www.dmacademy.edu.bd
+www.dmudm.edu.bd
 www.dncollege.edu.bd
 www.dnhsam.edu.bd
 www.doailhs.edu.bd
@@ -5211,6 +5234,7 @@ www.jagannathpurgghs.edu.bd
 www.jahiriamuhighschool.edu.bd
 www.jakir.xyz.jathaliaashs.edu.bd
 www.jalalpursecondaryschool.edu.bd
+www.jamiafatehpur.edu.bd
 www.jamilakhatunlghs.edu.bd
 www.jamirbariakhhs.edu.bd
 www.jananighs.edu.bd
@@ -5354,6 +5378,7 @@ www.m.aadmadrasah.edu.bd
 www.m.badudm.edu.bd
 www.m.cikm.edu.bd
 www.m.cpdm.edu.bd
+www.m.jamiafatehpur.edu.bd
 www.m.jmbisfm.edu.bd
 www.m.misfm.edu.bd
 www.m.mrdsdm.edu.bd
@@ -5372,6 +5397,7 @@ www.m.vmdm.edu.bd
 www.madhabbariahs.edu.bd
 www.madhusalhighschool.edu.bd
 www.madrasa.cpaghs.edu.bd
+www.madrasah.dmudm.edu.bd
 www.madrasah.skm.edu.bd
 www.maga.edu.bd
 www.magdm.edu.bd
@@ -5563,6 +5589,7 @@ www.pdm.edu.bd
 www.pg.bgeju.edu.bd
 www.pgac.edu.bd
 www.pgdit.iitju.edu.bd
+www.pghs.edu.bd
 www.pgmhs.edu.bd
 www.pharmacy.cityuniversity.edu.bd
 www.phm.just.edu.bd
@@ -5707,7 +5734,9 @@ www.sbngghs.edu.bd
 www.sc.sylgovaliamadrasa.edu.bd
 www.scbbhs.edu.bd
 www.school.bist.edu.bd
+www.school.mhhs.edu.bd
 www.school.mirzapurhs.edu.bd
+www.school.pghs.edu.bd
 www.school.rcmats.edu.bd
 www.school.sonagazigirlsphs.edu.bd
 www.school.ssrghs.edu.bd
