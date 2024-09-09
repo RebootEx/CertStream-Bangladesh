@@ -87,6 +87,7 @@ boithok.bcc.gov.bd
 booking.bpodms.gov.bd
 bpdb.gov.bd
 bsachittagong.gov.bd
+bsc.gov.bd
 bsfmstu.gameapp.gov.bd
 bsms.brri.gov.bd
 bsmsn.gov.bd
@@ -147,6 +148,7 @@ cpanel.ccr.gov.bd
 cpanel.dgca58.gov.bd
 cpanel.diaautomation.gov.bd
 cpanel.ghabc.gov.bd
+cpanel.gnc.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.iras.bamis.gov.bd
 cpanel.joyparatsc.gov.bd
@@ -172,6 +174,7 @@ cpcalendars.ccr.gov.bd
 cpcalendars.dgca58.gov.bd
 cpcalendars.diaautomation.gov.bd
 cpcalendars.ghabc.gov.bd
+cpcalendars.gnc.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcalendars.iras.bamis.gov.bd
 cpcalendars.joyparatsc.gov.bd
@@ -197,6 +200,7 @@ cpcontacts.ccr.gov.bd
 cpcontacts.dgca58.gov.bd
 cpcontacts.diaautomation.gov.bd
 cpcontacts.ghabc.gov.bd
+cpcontacts.gnc.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.iras.bamis.gov.bd
 cpcontacts.joyparatsc.gov.bd
@@ -298,6 +302,7 @@ gisfs.bpc.gov.bd
 globe.com.ph.dhamraimunicipality.gov.bd
 globe.dhamraimunicipality.gov.bd
 gmscn.dac.gov.bd
+gnc.gov.bd
 godagaricollege.gov.bd
 gopalpurup.faridpurlg.gov.bd
 grs.seip-fd.gov.bd
@@ -367,6 +372,7 @@ mail.egp.dghs.gov.bd
 mail.emergencynutrition.gov.bd
 mail.gameapp.gov.bd
 mail.ghabc.gov.bd
+mail.gnc.gov.bd
 mail.ihtdhaka.gov.bd
 mail.iras.bamis.gov.bd
 mail.joyparatsc.gov.bd
@@ -462,6 +468,7 @@ queue.cgbdsydney.gov.bd
 rains.sacp.dae.gov.bd
 ramgatipourashava.gov.bd
 rc.gov.bd
+rdobarishal.gov.bd
 register.gameapp.gov.bd
 result.fgc.gov.bd
 rgamc.gov.bd
@@ -508,6 +515,7 @@ smtp.emergencynutrition.gov.bd
 socialprotection.gov.bd
 soms.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
+sonod.gov.bd
 sonod.ncc.gov.bd
 sp.seip-fd.gov.bd
 sp.sicip.gov.bd
@@ -600,6 +608,7 @@ webdisk.ccr.gov.bd
 webdisk.dgca58.gov.bd
 webdisk.diaautomation.gov.bd
 webdisk.ghabc.gov.bd
+webdisk.gnc.gov.bd
 webdisk.ihtdhaka.gov.bd
 webdisk.iras.bamis.gov.bd
 webdisk.joyparatsc.gov.bd
@@ -624,6 +633,7 @@ webmail.ccr.gov.bd
 webmail.dgca58.gov.bd
 webmail.diaautomation.gov.bd
 webmail.ghabc.gov.bd
+webmail.gnc.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.iras.bamis.gov.bd
 webmail.joyparatsc.gov.bd
@@ -667,6 +677,7 @@ www.bhairabtsc.gov.bd
 www.bmdbwcsrp.gov.bd
 www.bnscp.navy.mil.bd
 www.bogurapolice.gov.bd
+www.bpmis.bsc.gov.bd
 www.bsachittagong.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.btbckaschool.com.btriapps.gov.bd
@@ -717,12 +728,14 @@ www.gisfs.bpc.gov.bd
 www.globe.com.ph.dhamraimunicipality.gov.bd
 www.globe.dhamraimunicipality.gov.bd
 www.gmscn.dac.gov.bd
+www.gnc.gov.bd
 www.gopalpurup.faridpurlg.gov.bd
 www.hajipurup.narsingdilg.gov.bd
 www.herpower.gov.bd
 www.hrm.sprangpur.gov.bd
 www.ihtdhaka.gov.bd
 www.iras.bamis.gov.bd
+www.job.bsc.gov.bd
 www.joyparatsc.gov.bd
 www.kakni.upmymensinghholdingtax.gov.bd
 www.kalirbazarup.gov.bd
