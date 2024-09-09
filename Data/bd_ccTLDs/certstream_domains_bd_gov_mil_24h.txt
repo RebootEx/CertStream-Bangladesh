@@ -5,11 +5,14 @@ api-merchant.ekshop.gov.bd
 api.freelancers.gov.bd
 apps.training.grs.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
+autodiscover.patgrammunicipality.gov.bd
+bankinfo.bise-ctg.gov.bd
 bharellasouthup.gov.bd
 bogura.gov.bd
 bogurapolice.gov.bd
 brta1.bpodms.gov.bd
 bvc.gov.bd
+cafoerd.gov.bd
 cafoparliament.gov.bd
 census2021.gov.bd
 chattogram.gov.bd
@@ -17,7 +20,9 @@ chattogramdiv.gov.bd
 chowmuhanimunicipality.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
+cpcalendars.patgrammunicipality.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
+cpcontacts.patgrammunicipality.gov.bd
 dashboard.training.grs.gov.bd
 dashboardapi.training.grs.gov.bd
 etds.gov.bd
@@ -30,6 +35,7 @@ jashore.gov.bd
 karmasangsthanbank.gov.bd
 kashianitsc.gov.bd
 mail.chowmuhanimunicipality.gov.bd
+mail.patgrammunicipality.gov.bd
 mail.rgdc.gov.bd
 matelehealth.gov.bd
 media.bmp.gov.bd
@@ -39,6 +45,8 @@ mra.gov.bd
 newsite.zsorangpur.gov.bd
 nlp.gov.bd
 nsderp.navy.mil.bd
+pabnapourashava.gov.bd
+pakundiapaurashava.gov.bd
 pmes.moind.gov.bd
 profile.rmch.gov.bd
 proxy.shrlive.dghs.gov.bd
@@ -52,6 +60,7 @@ uccbrdbshyamnagar.gov.bd
 verification.mfacademy.gov.bd
 vimruli.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
+webdisk.patgrammunicipality.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 www.bharellasouthup.gov.bd
 www.bogurapolice.gov.bd
@@ -64,6 +73,7 @@ www.nsderp.navy.mil.bd
 www.profile.rmch.gov.bd
 www.rgdc.gov.bd
 www.ric.gov.bd
+www.tcb.melandahbhata.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
 www.vimruli.gov.bd
