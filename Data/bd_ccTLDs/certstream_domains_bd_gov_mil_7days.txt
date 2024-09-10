@@ -32,6 +32,8 @@ api.ekpass.gov.bd
 api.freelancers.gov.bd
 api.sacp.dae.gov.bd
 api.scc.gov.bd
+app.jhalokathimunicipality.gov.bd
+app.monglaportmunicipality.gov.bd
 application.pmo.gov.bd
 application.sylhetboard.gov.bd
 apps.training.grs.gov.bd
@@ -39,6 +41,7 @@ ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 atghoria.uppabnaholdingtax.gov.bd
 attendance.ekshop.gov.bd
+autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.bamis.gov.bd
 autodiscover.bhairabtsc.gov.bd
 autodiscover.bmdbwcsrp.gov.bd
@@ -61,6 +64,7 @@ backend.career.nwpgcl.gov.bd
 backoffice.dlrms-stg.land.gov.bd
 backoffice.lams-stg.land.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
+bakshiganjpourashava.gov.bd
 ballabhdiup.faridpurlg.gov.bd
 bamis.gov.bd
 bancharampurtsc.gov.bd
@@ -159,6 +163,7 @@ cpadmin.ncc.gov.bd
 cpadmin.scc.gov.bd
 cpanel.14upazilaudd.gov.bd
 cpanel.aclandsadarpur.gov.bd
+cpanel.bakshiganjpourashava.gov.bd
 cpanel.bamis.gov.bd
 cpanel.bhairabtsc.gov.bd
 cpanel.bmdbwcsrp.gov.bd
@@ -191,6 +196,7 @@ cpanel.ugc-hemis.gov.bd
 cpbackend.ncc.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.14upazilaudd.gov.bd
+cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.bhairabtsc.gov.bd
 cpcalendars.bmdbwcsrp.gov.bd
@@ -223,6 +229,7 @@ cpcalendars.tseogulshan.gov.bd
 cpcalendars.ugc-hemis.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.aclandsadarpur.gov.bd
+cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.bhairabtsc.gov.bd
 cpcontacts.bmdbwcsrp.gov.bd
@@ -294,6 +301,7 @@ docker-image-registry.lams-stg.land.gov.bd
 dpg.ekshop.gov.bd
 dscc.gov.bd
 dscsc.mil.bd
+dtemymensingh.gov.bd
 du.gameapp.gov.bd
 dwatraining.gov.bd
 eacei.gov.bd
@@ -397,6 +405,7 @@ mahzcollege.gov.bd
 maijdeetsc.gov.bd
 mail.14upazilaudd.gov.bd
 mail.aclandsadarpur.gov.bd
+mail.bakshiganjpourashava.gov.bd
 mail.bangladeshtourism.gov.bd
 mail.bhairabtsc.gov.bd
 mail.bmdbwcsrp.gov.bd
@@ -445,6 +454,7 @@ mchti.gov.bd
 mci.shrlive.dghs.gov.bd
 media.bmp.gov.bd
 medical-info.dghs.gov.bd
+mehendiganjpourashava.gov.bd
 melandahbhata.gov.bd
 memis.gov.bd
 merchant.ekpay.gov.bd
@@ -632,6 +642,7 @@ web.pgcb.gov.bd
 web2.bise-ctg.gov.bd
 webdisk.14upazilaudd.gov.bd
 webdisk.aclandsadarpur.gov.bd
+webdisk.bakshiganjpourashava.gov.bd
 webdisk.bhairabtsc.gov.bd
 webdisk.bmdbwcsrp.gov.bd
 webdisk.cafoemrd.gov.bd
@@ -663,6 +674,7 @@ webdisk.tseogulshan.gov.bd
 webdisk.ugc-hemis.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.aclandsadarpur.gov.bd
+webmail.bakshiganjpourashava.gov.bd
 webmail.bhairabtsc.gov.bd
 webmail.bmdbwcsrp.gov.bd
 webmail.cafoemrd.gov.bd
@@ -710,6 +722,7 @@ www.ara-bd.org.zpkhulna.gov.bd
 www.artistdb.bsa.gov.bd
 www.attendance.ekshop.gov.bd
 www.bajrajoginiup.munshiganjlg.gov.bd
+www.bakshiganjpourashava.gov.bd
 www.ballabhdiup.faridpurlg.gov.bd
 www.bamis.gov.bd
 www.bangla.srngih.gov.bd
