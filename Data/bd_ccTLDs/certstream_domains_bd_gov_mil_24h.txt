@@ -3,6 +3,7 @@ akotercharup.faridpurlg.gov.bd
 api-admin.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
 api.ekpass.gov.bd
+api.otms.nass.gov.bd
 autodiscover.bamis.gov.bd
 bamis.gov.bd
 bangla.srngih.gov.bd
@@ -24,12 +25,14 @@ ccpc4teens.gov.bd
 challenge.gov.bd
 chandraup.faridpurlg.gov.bd
 cloud.pgcb.gov.bd
+coxpoly.gov.bd
 cpanel.bamis.gov.bd
 cpanel.ugc-hemis.gov.bd
 cpcalendars.bamis.gov.bd
 cpcalendars.ugc-hemis.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.ugc-hemis.gov.bd
+dashboard.otms.nass.gov.bd
 dcadhaka.gov.bd
 dgpay.ekshop.gov.bd
 dhis2tracker.dghs.gov.bd
@@ -58,6 +61,7 @@ melandahbhata.gov.bd
 naldangamunicipality.gov.bd
 onlineadmission.bise-ctg.gov.bd
 onlinetc.dinajpurboard.gov.bd
+otms.nass.gov.bd
 phfis.dghs.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rdobarishal.gov.bd
@@ -66,6 +70,7 @@ rpi.gov.bd
 sonod.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
 taxeszone25dhaka.gov.bd
+tk.coxpoly.gov.bd
 ugc-hemis.gov.bd
 v3.utility.eporcha.gov.bd
 webdisk.ugc-hemis.gov.bd
@@ -87,6 +92,8 @@ www.job.bsc.gov.bd
 www.laravel.sfcair.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
 www.routine.rpi.gov.bd
+www.softpromiss.tk.coxpoly.gov.bd
+www.softweb.tk.coxpoly.gov.bd
 www.stakeholder.beautifulbangladesh.gov.bd
 www.taxeszone25dhaka.gov.bd
 www.ugc-hemis.gov.bd
