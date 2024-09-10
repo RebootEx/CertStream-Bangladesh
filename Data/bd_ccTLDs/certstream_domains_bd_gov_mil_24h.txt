@@ -4,6 +4,7 @@ api-admin.ekshop.gov.bd
 api-ictpolicy.ictd.gov.bd
 api.ekpass.gov.bd
 api.otms.nass.gov.bd
+application.pmo.gov.bd
 autodiscover.bamis.gov.bd
 bamis.gov.bd
 bangla.srngih.gov.bd
@@ -47,6 +48,8 @@ egov.cabinet.gov.bd
 ekpass.gov.bd
 fpcsqit.dgfp.gov.bd
 ghorashalpourashava.gov.bd
+hrm-service.bscl.gov.bd
+hrm.bscl.gov.bd
 hscresult1.bise-ctg.gov.bd
 janatarsarkar.gov.bd
 kalihatipourashava.gov.bd
@@ -71,6 +74,7 @@ rabbitmq-dashboard-dev.niseee.gov.bd
 rdobarishal.gov.bd
 report-admin.dlrms-stg.land.gov.bd
 rpi.gov.bd
+saejp.gov.bd
 sonod.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
 taxeszone25dhaka.gov.bd
@@ -96,6 +100,8 @@ www.ekpass.gov.bd
 www.job.bsc.gov.bd
 www.laravel.sfcair.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
+www.pay-hostel-server.rpi.gov.bd
+www.pay-hostel.rpi.gov.bd
 www.routine.rpi.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
