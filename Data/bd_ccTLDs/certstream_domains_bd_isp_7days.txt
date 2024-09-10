@@ -4,12 +4,16 @@ backup.accesstel.net
 cpanel.accesstel.net
 image.mango.com.bd
 mail.accesstel.net
+mango-pub-dns1.mango.com.bd
+mango-pub-dns2.mango.com.bd
 ns1.mango.com.bd
+ns2.mango.com.bd
 panel2.agni.com
 portal.mango.com.bd
 reg.agni.com
 smtp.agni.com
 srv71.bdcom.com
+talk.link3.net
 webmail.accesstel.net
 www.accesstel.net
 www.agni.com
