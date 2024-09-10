@@ -1,4 +1,5 @@
 admin.ekshop.gov.bd
+akotercharup.faridpurlg.gov.bd
 api-admin.ekshop.gov.bd
 api.ekpass.gov.bd
 autodiscover.bamis.gov.bd
@@ -15,8 +16,10 @@ bsachittagong.gov.bd
 bsc.gov.bd
 bswnbr.gov.bd
 cafobsc.gov.bd
+cafoird.gov.bd
 ccpc4teens.gov.bd
 challenge.gov.bd
+chandraup.faridpurlg.gov.bd
 cloud.pgcb.gov.bd
 cpanel.bamis.gov.bd
 cpanel.ugc-hemis.gov.bd
@@ -52,6 +55,7 @@ onlinetc.dinajpurboard.gov.bd
 phfis.dghs.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rdobarishal.gov.bd
+report-admin.dlrms-stg.land.gov.bd
 rpi.gov.bd
 sonod.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
@@ -61,6 +65,7 @@ v3.utility.eporcha.gov.bd
 webdisk.ugc-hemis.gov.bd
 webmail.ugc-hemis.gov.bd
 workshop.mspvaw109.gov.bd
+www.akotercharup.faridpurlg.gov.bd
 www.bamis.gov.bd
 www.bangla.srngih.gov.bd
 www.bangladeshtourism.gov.bd
@@ -70,6 +75,7 @@ www.beautifulbangladesh.gov.bd
 www.bpmis.bsc.gov.bd
 www.bsachittagong.gov.bd
 www.challenge.gov.bd
+www.chandraup.faridpurlg.gov.bd
 www.ekpass.gov.bd
 www.job.bsc.gov.bd
 www.laravel.sfcair.gov.bd
