@@ -1,3 +1,5 @@
+admin.ekshop.gov.bd
+api-admin.ekshop.gov.bd
 api.ekpass.gov.bd
 autodiscover.bamis.gov.bd
 bamis.gov.bd
@@ -23,6 +25,7 @@ cpcalendars.ugc-hemis.gov.bd
 cpcontacts.bamis.gov.bd
 cpcontacts.ugc-hemis.gov.bd
 dgpay.ekshop.gov.bd
+dhis2tracker.dghs.gov.bd
 digitalhaat.gov.bd
 dmpi.gov.bd
 dscsc.mil.bd
@@ -30,6 +33,7 @@ edp.gov.bd
 ekpass.gov.bd
 fpcsqit.dgfp.gov.bd
 hscresult1.bise-ctg.gov.bd
+janatarsarkar.gov.bd
 kalihatipourashava.gov.bd
 kibana-dev.niseee.gov.bd
 kjtsc.gov.bd
