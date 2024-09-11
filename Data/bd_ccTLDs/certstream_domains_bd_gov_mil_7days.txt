@@ -52,6 +52,7 @@ autodiscover.rc.gov.bd
 autodiscover.sfcworks.gov.bd
 autodiscover.shariatpurtsc.gov.bd
 autodiscover.tseogulshan.gov.bd
+autodiscover.urp.gov.bd
 backend.career.nwpgcl.gov.bd
 bajrajoginiup.munshiganjlg.gov.bd
 bakshiganjpourashava.gov.bd
@@ -187,6 +188,7 @@ cpanel.sfcworks.gov.bd
 cpanel.shariatpurtsc.gov.bd
 cpanel.tseogulshan.gov.bd
 cpanel.ugc-hemis.gov.bd
+cpanel.urp.gov.bd
 cpbackend.ncc.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.14upazilaudd.gov.bd
@@ -220,6 +222,7 @@ cpcalendars.sfcworks.gov.bd
 cpcalendars.shariatpurtsc.gov.bd
 cpcalendars.tseogulshan.gov.bd
 cpcalendars.ugc-hemis.gov.bd
+cpcalendars.urp.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.aclandsadarpur.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
@@ -252,6 +255,7 @@ cpcontacts.sfcworks.gov.bd
 cpcontacts.shariatpurtsc.gov.bd
 cpcontacts.tseogulshan.gov.bd
 cpcontacts.ugc-hemis.gov.bd
+cpcontacts.urp.gov.bd
 crm.btrc.gov.bd
 daesms.bamis.gov.bd
 dakbazar.bpodms.gov.bd
@@ -431,6 +435,7 @@ mail.shmrmi.gov.bd
 mail.soms.gov.bd
 mail.tseogulshan.gov.bd
 mail.ugc-hemis.gov.bd
+mail.urp.gov.bd
 mailbox.macademy.gov.bd
 manirampurmunicipality.gov.bd
 matelehealth.gov.bd
@@ -606,6 +611,7 @@ unorupganj.gov.bd
 upms.ugc.gov.bd
 upsebarajshahidiv.gov.bd
 upsonod.com.melandahbhata.gov.bd
+urp.gov.bd
 useomadhukhali.gov.bd
 uzpseba.gov.bd
 v3.utility.eporcha.gov.bd
@@ -651,6 +657,7 @@ webdisk.sfcworks.gov.bd
 webdisk.shariatpurtsc.gov.bd
 webdisk.tseogulshan.gov.bd
 webdisk.ugc-hemis.gov.bd
+webdisk.urp.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.aclandsadarpur.gov.bd
 webmail.bakshiganjpourashava.gov.bd
@@ -682,6 +689,7 @@ webmail.shariatpurtsc.gov.bd
 webmail.shmrmi.gov.bd
 webmail.tseogulshan.gov.bd
 webmail.ugc-hemis.gov.bd
+webmail.urp.gov.bd
 workshop.mspvaw109.gov.bd
 wqtrms.dphe.gov.bd
 www.14upazilaudd.gov.bd
@@ -860,6 +868,7 @@ www.ugc-hemis.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
 www.upsheba.rpi.gov.bd
 www.upsonod.com.melandahbhata.gov.bd
+www.urp.gov.bd
 www.vgd.melandahbhata.gov.bd
 www.vgf.melandahbhata.gov.bd
 www.vimruli.gov.bd
