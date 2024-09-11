@@ -15,6 +15,7 @@ bsms.brri.gov.bd
 cafopsid.gov.bd
 chakariamunicipality.gov.bd
 cmc.gov.bd
+corona.gov.bd
 coxpoly.gov.bd
 cpanel.tangailtsc.gov.bd
 cpcalendars.tangailtsc.gov.bd
@@ -81,6 +82,7 @@ satkhiratsc.gov.bd
 sbcbiz.gov.bd
 shariatpurmunicipality.gov.bd
 shr.shrlive.dghs.gov.bd
+snipegate.karmasangsthanbank.gov.bd
 sonaimuripaurashava.gov.bd
 sonali-e-sheba.dinajpurboard.gov.bd
 srishtitetulia.gov.bd
@@ -92,7 +94,9 @@ svrs.bbs.gov.bd
 sys-event-monitor.lams-stg.land.gov.bd
 taloramunicipality.gov.bd
 tangailtsc.gov.bd
+taxeszone3ctg.gov.bd
 taxeszonerajshahi.gov.bd
+tds.taxeszone3ctg.gov.bd
 tealicense.gov.bd
 telehealth.gov.bd
 temis.dte.gov.bd
@@ -102,6 +106,7 @@ tetulia.uzpseba.gov.bd
 tk.coxpoly.gov.bd
 tr.shrlive.dghs.gov.bd
 training.edge.gov.bd
+ullaparapaurashava.gov.bd
 unorupganj.gov.bd
 uzpseba.gov.bd
 va.dghs.gov.bd
@@ -147,6 +152,7 @@ www.ranisankailpourashava.gov.bd
 www.register.gameapp.gov.bd
 www.satkhiratsc.gov.bd
 www.shariatpurmunicipality.gov.bd
+www.snipegate.karmasangsthanbank.gov.bd
 www.softpromiss.tk.coxpoly.gov.bd
 www.softweb.tk.coxpoly.gov.bd
 www.sonaimuripaurashava.gov.bd
@@ -154,6 +160,9 @@ www.srishtitetulia.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.taloramunicipality.gov.bd
 www.tangailtsc.gov.bd
+www.taxeszone3ctg.gov.bd
+www.tds.taxeszone3ctg.gov.bd
 www.temis.dte.gov.bd
 www.test.gameapp.gov.bd
+www.ullaparapaurashava.gov.bd
 www.uzpseba.gov.bd
