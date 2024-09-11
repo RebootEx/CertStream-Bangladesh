@@ -1,9 +1,11 @@
 admin.mango.com.bd
 admin.res.agni.com
 backup.accesstel.net
+cloud.mango.com.bd
 cpanel.accesstel.net
 hrm.bdcom.com
 image.mango.com.bd
+livetv.mango.com.bd
 mail.accesstel.net
 mango-pub-dns1.mango.com.bd
 mango-pub-dns2.mango.com.bd
@@ -11,8 +13,11 @@ ns1.mango.com.bd
 ns2.mango.com.bd
 panel2.agni.com
 portal.mango.com.bd
+pwm.agni.com
 reg.agni.com
 smtp.agni.com
+staging.link3.net
+storage.agni.com
 talk.link3.net
 webmail.accesstel.net
 www.accesstel.net
