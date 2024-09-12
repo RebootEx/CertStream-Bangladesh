@@ -1,7 +1,9 @@
 admin.amarai.gameapp.gov.bd
+api.ncpds.dae.gov.bd
 autodiscover.tseogulshan.gov.bd
 award.moysports.gov.bd
 backup.urp.gov.bd
+bankinfo.bise-ctg.gov.bd
 barakandaup.gov.bd
 bbuasm.gov.bd
 bjkb.gov.bd
@@ -33,9 +35,11 @@ gccn.nient.gov.bd
 govindapurup1.gov.bd
 hid.shrlive.dghs.gov.bd
 hscresult.comillaboard.gov.bd
+internal.startupsummit.gov.bd
 jmc.jessoreboard.gov.bd
 jscadmitcard.bise-ctg.gov.bd
 karmasangsthanbank.gov.bd
+kblos.karmasangsthanbank.gov.bd
 kumargata.upmymensinghholdingtax.gov.bd
 lsb.gov.bd
 mail.syedpurtsc.gov.bd
@@ -43,6 +47,7 @@ mail.tseogulshan.gov.bd
 mci.shrlive.dghs.gov.bd
 memis.gov.bd
 name.bise-ctg.gov.bd
+ncpds.dae.gov.bd
 old.bise-ctg.gov.bd
 online.bpi.com.ph.dhamraimunicipality.gov.bd
 patuakhalimunicipality.gov.bd
@@ -58,6 +63,7 @@ shr.shrlive.dghs.gov.bd
 smartbiz.gov.bd
 smartkrishi.gov.bd
 smartpurbadhaireastup.gov.bd
+sonali238.dinajpurboard.gov.bd
 sresult.bise-ctg.gov.bd
 surgeryrpmc.gov.bd
 syedpurtsc.gov.bd
@@ -88,6 +94,7 @@ www.digrajshahirange.gov.bd
 www.gccn.nient.gov.bd
 www.govindapurup1.gov.bd
 www.jmc.jessoreboard.gov.bd
+www.kblos.karmasangsthanbank.gov.bd
 www.kumargata.upmymensinghholdingtax.gov.bd
 www.online.bpi.com.ph.dhamraimunicipality.gov.bd
 www.policy.gov.bd
