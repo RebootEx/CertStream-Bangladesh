@@ -92,6 +92,7 @@ boda.uzpseba.gov.bd
 bogura.gov.bd
 boguramunicipality.gov.bd
 bogurapolice.gov.bd
+booking.bbcfec.gov.bd
 booking.bpodms.gov.bd
 bot.mujibjigyasa.gov.bd
 bpodelivery.ekshop.gov.bd
@@ -271,6 +272,7 @@ debendracollege.gov.bd
 debiganj.uzpseba.gov.bd
 dedo.gov.bd
 demo.kabinazrulcollege.gov.bd
+demo.pch.gov.bd
 demo.srishtitetulia.gov.bd
 deodinajpur.gov.bd
 deopanchagarh.gov.bd
@@ -385,6 +387,7 @@ llv.mspvaw.gov.bd
 lms.ipemis.dpe.gov.bd
 lrms.gov.bd
 lsb.gov.bd
+ltuvat.gov.bd
 lv.mspvaw.gov.bd
 madhukhalipaurashava.gov.bd
 maheshpurpourashava.gov.bd
@@ -414,6 +417,7 @@ mail.jessorecustoms.gov.bd
 mail.joyparatsc.gov.bd
 mail.kmpi.gov.bd
 mail.lalmohanpaurashava.gov.bd
+mail.ltuvat.gov.bd
 mail.mahzcollege.gov.bd
 mail.mspvaw.gov.bd
 mail.mudp.gov.bd
@@ -421,7 +425,9 @@ mail.ngmc.gov.bd
 mail.ngwc.gov.bd
 mail.pabnatsc.gov.bd
 mail.patgrammunicipality.gov.bd
+mail.pch.gov.bd
 mail.ramgonjcollege.gdc.gov.bd
+mail.rangpurvat.gov.bd
 mail.rc.gov.bd
 mail.rgdc.gov.bd
 mail.satkhiratsc.gov.bd
@@ -465,6 +471,7 @@ narsingdilg.gov.bd
 nazipurpourashava.gov.bd
 nccrfhd.gov.bd
 new.pict.gov.bd
+new.vatdhkeast.gov.bd
 newdemo.nameage.comillaboard.gov.bd
 newsclipping.banbeis.gov.bd
 newsite.zsorangpur.gov.bd
@@ -499,6 +506,7 @@ patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 patiyapourashava.gov.bd
 patuakhalimunicipality.gov.bd
+pch.gov.bd
 pdf.bise-ctg.gov.bd
 phfis.dghs.gov.bd
 pirojpurtsc.gov.bd
@@ -512,6 +520,7 @@ rabbitmq-dashboard-dev.niseee.gov.bd
 rajbaripourashava.gov.bd
 ramgonjcollege.gdc.gov.bd
 rampur.upmymensinghholdingtax.gov.bd
+rangpurvat.gov.bd
 ranisankailpourashava.gov.bd
 rc.gov.bd
 rdobarishal.gov.bd
@@ -543,6 +552,7 @@ secpass.gov.bd
 senbagcollege.gov.bd
 server.hossainpurpourashava.gov.bd
 service.ashrayanpmo.gov.bd
+settlement.gov.bd
 sfcworks.gov.bd
 sggsc.gov.bd
 share.cao.gov.bd
@@ -553,9 +563,11 @@ shmcht.gov.bd
 shmrmi.gov.bd
 shr.shrlive.dghs.gov.bd
 singramunicipality.gov.bd
+siteapi.ltuvat.gov.bd
 sla.gov.bd
 smart.dncc.gov.bd
 smartbdsummit.gov.bd
+smartdistrict.gov.bd
 smarthaat.gov.bd
 smartkrishi.gov.bd
 smartoms.mofood.gov.bd
@@ -738,6 +750,7 @@ www.betagimunicipality.gov.bd
 www.bhairabtsc.gov.bd
 www.bharellasouthup.gov.bd
 www.bogurapolice.gov.bd
+www.booking.bbcfec.gov.bd
 www.booking.bsa.gov.bd
 www.bpmis.bsc.gov.bd
 www.bsachittagong.gov.bd
@@ -813,6 +826,7 @@ www.lalmohanpaurashava.gov.bd
 www.laravel.sfcair.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
 www.llv.mspvaw.gov.bd
+www.ltuvat.gov.bd
 www.lv.mspvaw.gov.bd
 www.madhukhalipaurashava.gov.bd
 www.maheshpurpourashava.gov.bd
@@ -835,6 +849,7 @@ www.nagoriksheba.gov.bd
 www.naldangamunicipality.gov.bd
 www.nazipurpourashava.gov.bd
 www.new.pict.gov.bd
+www.new.vatdhkeast.gov.bd
 www.newsite.zsorangpur.gov.bd
 www.ngmc.gov.bd
 www.ngwc.gov.bd
@@ -851,11 +866,13 @@ www.patgrammunicipality.gov.bd
 www.patharghatapourashava.gov.bd
 www.pay-hostel-server.rpi.gov.bd
 www.pay-hostel.rpi.gov.bd
+www.pch.gov.bd
 www.policy.gov.bd
 www.profile.rmch.gov.bd
 www.rajbaripourashava.gov.bd
 www.ramgonjcollege.gdc.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
+www.rangpurvat.gov.bd
 www.ranisankailpourashava.gov.bd
 www.rc.gov.bd
 www.register.gameapp.gov.bd
@@ -866,6 +883,7 @@ www.routine.rpi.gov.bd
 www.satkhiratsc.gov.bd
 www.senbagcollege.gov.bd
 www.server.hossainpurpourashava.gov.bd
+www.settlement.gov.bd
 www.sfcworks.gov.bd
 www.sggsc.gov.bd
 www.shariatpurmunicipality.gov.bd
@@ -873,6 +891,7 @@ www.shariatpurtsc.gov.bd
 www.shilpokola.bsa.gov.bd
 www.shmrmi.gov.bd
 www.sisrangpur.edu.bd.gbrcr.gov.bd
+www.siteapi.ltuvat.gov.bd
 www.sla.gov.bd
 www.slot.rpi.gov.bd
 www.smartbdsummit.gov.bd
