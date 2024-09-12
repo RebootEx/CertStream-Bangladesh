@@ -1,4 +1,5 @@
 admin.amarai.gameapp.gov.bd
+autodiscover.tseogulshan.gov.bd
 award.moysports.gov.bd
 backup.urp.gov.bd
 barakandaup.gov.bd
@@ -8,10 +9,14 @@ chadniitinstitute.com.bd.zpkhulna.gov.bd
 chalibhangaup.gov.bd
 cnsatm-ib.gov.bd
 cpanel.syedpurtsc.gov.bd
+cpanel.tseogulshan.gov.bd
 cpcalendars.syedpurtsc.gov.bd
+cpcalendars.tseogulshan.gov.bd
 cpcontacts.syedpurtsc.gov.bd
+cpcontacts.tseogulshan.gov.bd
 dac.gov.bd
 digrajshahirange.gov.bd
+dmpwsid.gov.bd
 edutech.gov.bd
 effjsc.comillaboard.gov.bd
 esifdata.comillaboard.gov.bd
@@ -34,6 +39,7 @@ karmasangsthanbank.gov.bd
 kumargata.upmymensinghholdingtax.gov.bd
 lsb.gov.bd
 mail.syedpurtsc.gov.bd
+mail.tseogulshan.gov.bd
 mci.shrlive.dghs.gov.bd
 memis.gov.bd
 name.bise-ctg.gov.bd
@@ -60,10 +66,14 @@ temis.dte.gov.bd
 torjoni.gov.bd
 tphsbagmara.gov.bd
 tr.shrlive.dghs.gov.bd
+tseogulshan.gov.bd
+uniontax.gov.bd
 verification.mfacademy.gov.bd
 vlan.cmpi.gov.bd
 webdisk.syedpurtsc.gov.bd
+webdisk.tseogulshan.gov.bd
 webmail.syedpurtsc.gov.bd
+webmail.tseogulshan.gov.bd
 www.admin.amarai.gameapp.gov.bd
 www.barakandaup.gov.bd
 www.bjkb.gov.bd
@@ -81,4 +91,5 @@ www.smartpurbadhaireastup.gov.bd
 www.syedpurtsc.gov.bd
 www.temis.dte.gov.bd
 www.tphsbagmara.gov.bd
+www.tseogulshan.gov.bd
 zpsherpur.gov.bd
