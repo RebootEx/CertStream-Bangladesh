@@ -1,5 +1,8 @@
+aclandbarisalsadar.gov.bd
+adp.plancomm.gov.bd
 api.ipemis.training.dpe.gov.bd
 api.ncpds.dae.gov.bd
+attendance.rdobarishal.gov.bd
 autodiscover.provati3-lged.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
@@ -18,6 +21,7 @@ brta1.bpodms.gov.bd
 bvc.gov.bd
 cafoagriculture.gov.bd
 certificate.comillaboard.gov.bd
+comillalg.gov.bd
 cpanel.provati3-lged.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
@@ -36,10 +40,12 @@ cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
+crm.btrc.gov.bd
 dashboard.ipemis.training.dpe.gov.bd
 demand.taxeszone13dhaka.gov.bd
 demo.pch.gov.bd
 dncc-dch.gov.bd
+edp.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
 erp.bepza.gov.bd
@@ -82,6 +88,7 @@ shaistaganjmunicipality.gov.bd
 smartkrishi.gov.bd
 smms.fid.gov.bd
 soft.taxesinspection.gov.bd
+specialbranch.gov.bd
 stakeholder.beautifulbangladesh.gov.bd
 taxappealzone3dhaka.gov.bd
 taxesinspection.gov.bd
@@ -90,6 +97,7 @@ taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
 thedp.gov.bd
 training.gov.bd
+training.scms.gov.bd
 tvi.gov.bd
 uniontax.gov.bd
 unobagerhatsadar.gov.bd
@@ -107,6 +115,7 @@ webmail.taxeszone13dhaka.gov.bd
 webmail.taxeszone3dhaka.gov.bd
 webmail.taxeszoneonedhaka.gov.bd
 wtmu.gov.bd
+www.attendance.rdobarishal.gov.bd
 www.beautifulbangladesh.gov.bd
 www.bise-ctg.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
