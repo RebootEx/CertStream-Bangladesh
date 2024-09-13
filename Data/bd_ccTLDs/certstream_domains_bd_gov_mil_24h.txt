@@ -1,3 +1,4 @@
+api.ipemis.training.dpe.gov.bd
 api.ncpds.dae.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
@@ -7,6 +8,8 @@ autodiscover.taxeszoneonedhaka.gov.bd
 bbggc.gov.bd
 bise-ctg.gov.bd
 bkttcdhaka.gov.bd
+bot.mujibjigyasa.gov.bd
+bpodelivery.ekshop.gov.bd
 brta1.bpodms.gov.bd
 bvc.gov.bd
 certificate.comillaboard.gov.bd
@@ -25,12 +28,16 @@ cpcontacts.taxesinspection.gov.bd
 cpcontacts.taxeszone13dhaka.gov.bd
 cpcontacts.taxeszone3dhaka.gov.bd
 cpcontacts.taxeszoneonedhaka.gov.bd
+dashboard.ipemis.training.dpe.gov.bd
 demand.taxeszone13dhaka.gov.bd
 filesystem.dghs.gov.bd
 hris.dgme.gov.bd
+iedcr.gov.bd
+ipemis.training.dpe.gov.bd
 kashianitsc.gov.bd
 kblos.karmasangsthanbank.gov.bd
 kmc.gov.bd
+login.ipemis.training.dpe.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
@@ -38,10 +45,12 @@ mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
 ncpds.dae.gov.bd
 nshd.sreda.gov.bd
+ops.ipemis.training.dpe.gov.bd
 pbi.gov.bd
 pdo.khulnattc.gov.bd
 portal.netrokonatsc.gov.bd
 proxy.shrlive.dghs.gov.bd
+recruitment.bdansarerp.gov.bd
 school.gov.bd
 shaistaganjmunicipality.gov.bd
 soft.taxesinspection.gov.bd
@@ -50,8 +59,10 @@ taxesinspection.gov.bd
 taxeszone13dhaka.gov.bd
 taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
+thedp.gov.bd
 training.gov.bd
 uniontax.gov.bd
+unobagerhatsadar.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
 webdisk.taxeszone13dhaka.gov.bd
