@@ -1,3 +1,4 @@
+api.ncpds.dae.gov.bd
 autodiscover.taxappealzone3dhaka.gov.bd
 autodiscover.taxesinspection.gov.bd
 autodiscover.taxeszone13dhaka.gov.bd
@@ -6,6 +7,7 @@ autodiscover.taxeszoneonedhaka.gov.bd
 bise-ctg.gov.bd
 bkttcdhaka.gov.bd
 brta1.bpodms.gov.bd
+bvc.gov.bd
 certificate.comillaboard.gov.bd
 cpanel.taxappealzone3dhaka.gov.bd
 cpanel.taxesinspection.gov.bd
@@ -26,14 +28,19 @@ demand.taxeszone13dhaka.gov.bd
 filesystem.dghs.gov.bd
 hris.dgme.gov.bd
 kashianitsc.gov.bd
+kblos.karmasangsthanbank.gov.bd
 kmc.gov.bd
 mail.taxappealzone3dhaka.gov.bd
 mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
+ncpds.dae.gov.bd
 nshd.sreda.gov.bd
 pbi.gov.bd
+pdo.khulnattc.gov.bd
+portal.netrokonatsc.gov.bd
+proxy.shrlive.dghs.gov.bd
 school.gov.bd
 shaistaganjmunicipality.gov.bd
 soft.taxesinspection.gov.bd
@@ -57,7 +64,9 @@ webmail.taxeszoneonedhaka.gov.bd
 wtmu.gov.bd
 www.bise-ctg.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
+www.kblos.karmasangsthanbank.gov.bd
 www.nshd.sreda.gov.bd
+www.pdo.khulnattc.gov.bd
 www.soft.taxesinspection.gov.bd
 www.taxappealzone3dhaka.gov.bd
 www.taxesinspection.gov.bd
@@ -65,3 +74,4 @@ www.taxeszone13dhaka.gov.bd
 www.taxeszone3dhaka.gov.bd
 www.taxeszoneonedhaka.gov.bd
 www.wtmu.gov.bd
+zpjhenaidah.gov.bd
