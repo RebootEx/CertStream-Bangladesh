@@ -42,6 +42,7 @@ demo.pch.gov.bd
 dncc-dch.gov.bd
 ems.epb-exporttracker.gov.bd
 emsserver.epb-exporttracker.gov.bd
+erp.bepza.gov.bd
 filesystem.dghs.gov.bd
 flora-bnh.gov.bd
 ghk.gov.bd
@@ -61,6 +62,7 @@ mail.taxesinspection.gov.bd
 mail.taxeszone13dhaka.gov.bd
 mail.taxeszone3dhaka.gov.bd
 mail.taxeszoneonedhaka.gov.bd
+monitoring.landzoning.gov.bd
 ncpds.dae.gov.bd
 new.vatdhkeast.gov.bd
 nshd.sreda.gov.bd
@@ -86,8 +88,10 @@ taxeszone3dhaka.gov.bd
 taxeszoneonedhaka.gov.bd
 thedp.gov.bd
 training.gov.bd
+tvi.gov.bd
 uniontax.gov.bd
 unobagerhatsadar.gov.bd
+v3.utility.eporcha.gov.bd
 webdisk.provati3-lged.gov.bd
 webdisk.taxappealzone3dhaka.gov.bd
 webdisk.taxesinspection.gov.bd
@@ -107,6 +111,7 @@ www.demand.taxeszone13dhaka.gov.bd
 www.hrm.ekshop.gov.bd
 www.kanthaliaup.narsingdilg.gov.bd
 www.kblos.karmasangsthanbank.gov.bd
+www.monitoring.landzoning.gov.bd
 www.new.vatdhkeast.gov.bd
 www.nshd.sreda.gov.bd
 www.old.basb.gov.bd
