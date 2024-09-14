@@ -20,7 +20,9 @@ hscresult.bise-ctg.gov.bd
 hscresult1.bise-ctg.gov.bd
 hscrollsheet.comillaboard.gov.bd
 jorkanoneastup.gov.bd
+khulnashipyard.gov.bd
 kibana-dev.niseee.gov.bd
+kjtsc.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
 mail.cao.gov.bd
@@ -28,10 +30,13 @@ mail.provati3-lged.gov.bd
 melandahbhata.gov.bd
 mobileapp.pension.comillaboard.gov.bd
 ntrc.gameapp.gov.bd
+onlineadmission.bise-ctg.gov.bd
 provati3-lged.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 register.gameapp.gov.bd
+sholanalup.gov.bd
 smartkrishi.gov.bd
+smartpaharpurup.gov.bd
 smartpay.scc.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
@@ -56,6 +61,8 @@ www.laravel.sfcair.gov.bd
 www.ntrc.gameapp.gov.bd
 www.provati3-lged.gov.bd
 www.register.gameapp.gov.bd
+www.sholanalup.gov.bd
+www.smartpaharpurup.gov.bd
 www.smartpay.scc.gov.bd
 www.taxappealzone2dhaka.gov.bd
 www.taxeszone25dhaka.gov.bd
