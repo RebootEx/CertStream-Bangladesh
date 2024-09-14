@@ -2,6 +2,7 @@ admin.adolnutrireporting.nnsop.gov.bd
 admin.knsikhagrachari.gov.bd
 adolnutrireporting.nnsop.gov.bd
 amarai.gameapp.gov.bd
+api-ictpolicy.ictd.gov.bd
 api.diaautomation.gov.bd
 app.mymensingheducationboard.gov.bd
 ar.gameapp.gov.bd
@@ -20,6 +21,7 @@ borhamganjcollege.gov.bd
 bpi.com.ph.dhamraimunicipality.gov.bd
 bsfmstu.gameapp.gov.bd
 cafobsc.gov.bd
+cafomohfw.gov.bd
 cloud.pgcb.gov.bd
 cltp.gov.bd
 college.gov.bd
@@ -32,9 +34,15 @@ cpcontacts.bavs.gov.bd
 cpcontacts.pbi.gov.bd
 cpcontacts.provati3-lged.gov.bd
 curriculum.gov.bd
+diaautomation.gov.bd
+dic.dghs.gov.bd
 digitalliteracy.gov.bd
 du.gameapp.gov.bd
 enlistmentapi.frc.gov.bd
+erp.seip-fd.gov.bd
+erp.sicip.gov.bd
+finman.seip-fd.gov.bd
+finman.sicip.gov.bd
 fpcsqit.dgfp.gov.bd
 gaibandhapourashava.gov.bd
 hscresult.bise-ctg.gov.bd
@@ -48,6 +56,8 @@ kjtsc.gov.bd
 krishokerjanala.gov.bd
 lalmonirhatmunicipality.gov.bd
 laravel.sfcair.gov.bd
+lms.seip-fd.gov.bd
+lms.sicip.gov.bd
 login.borhamganjcollege.gov.bd
 mail.bavs.gov.bd
 mail.borhamganjcollege.gov.bd
@@ -59,12 +69,14 @@ mobileapp.pension.comillaboard.gov.bd
 mymensingheducationboard.gov.bd
 ndc.gov.bd
 nijerdelivery.ekshop.gov.bd
+notarypublic.gov.bd
 ntrc.gameapp.gov.bd
 onlineadmission.bise-ctg.gov.bd
 pbi.gov.bd
 provati3-lged.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 register.gameapp.gov.bd
+report-admin.dlrms-stg.land.gov.bd
 result.ebmeb.gov.bd
 shibpurpaurashava.gov.bd
 sholanalup.gov.bd
