@@ -48,12 +48,14 @@ autodiscover.joyparatsc.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.pabnatsc.gov.bd
 autodiscover.patgrammunicipality.gov.bd
+autodiscover.provati3-lged.gov.bd
 autodiscover.rc.gov.bd
 autodiscover.sfcworks.gov.bd
 autodiscover.shariatpurtsc.gov.bd
 autodiscover.tangailtsc.gov.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.urp.gov.bd
+automation.bepza.gov.bd
 award.moysports.gov.bd
 backend.career.nwpgcl.gov.bd
 backup.urp.gov.bd
@@ -171,6 +173,7 @@ cpanel.mspvaw.gov.bd
 cpanel.mudp.gov.bd
 cpanel.ngwc.gov.bd
 cpanel.pabnatsc.gov.bd
+cpanel.provati3-lged.gov.bd
 cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.rc.gov.bd
 cpanel.sfcworks.gov.bd
@@ -198,6 +201,7 @@ cpcalendars.mudp.gov.bd
 cpcalendars.ngwc.gov.bd
 cpcalendars.pabnatsc.gov.bd
 cpcalendars.patgrammunicipality.gov.bd
+cpcalendars.provati3-lged.gov.bd
 cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.rc.gov.bd
 cpcalendars.sfcworks.gov.bd
@@ -226,6 +230,7 @@ cpcontacts.mudp.gov.bd
 cpcontacts.ngwc.gov.bd
 cpcontacts.pabnatsc.gov.bd
 cpcontacts.patgrammunicipality.gov.bd
+cpcontacts.provati3-lged.gov.bd
 cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.rc.gov.bd
 cpcontacts.sfcworks.gov.bd
@@ -417,6 +422,7 @@ mail.ngwc.gov.bd
 mail.pabnatsc.gov.bd
 mail.patgrammunicipality.gov.bd
 mail.pch.gov.bd
+mail.provati3-lged.gov.bd
 mail.ramgonjcollege.gdc.gov.bd
 mail.rangpurvat.gov.bd
 mail.rc.gov.bd
@@ -508,6 +514,7 @@ policy.gov.bd
 polytech.gov.bd
 pop.emergencynutrition.gov.bd
 profile.rmch.gov.bd
+provati3-lged.gov.bd
 proxy.shrlive.dghs.gov.bd
 rabbitmq-dashboard-dev.niseee.gov.bd
 rajbaripourashava.gov.bd
@@ -671,6 +678,7 @@ webdisk.mudp.gov.bd
 webdisk.ngwc.gov.bd
 webdisk.pabnatsc.gov.bd
 webdisk.patgrammunicipality.gov.bd
+webdisk.provati3-lged.gov.bd
 webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.rc.gov.bd
 webdisk.sfcworks.gov.bd
@@ -698,6 +706,7 @@ webmail.mspvaw.gov.bd
 webmail.mudp.gov.bd
 webmail.ngwc.gov.bd
 webmail.pabnatsc.gov.bd
+webmail.provati3-lged.gov.bd
 webmail.ramgonjcollege.gdc.gov.bd
 webmail.rc.gov.bd
 webmail.sfcworks.gov.bd
@@ -859,6 +868,7 @@ www.pay-hostel.rpi.gov.bd
 www.pch.gov.bd
 www.policy.gov.bd
 www.profile.rmch.gov.bd
+www.provati3-lged.gov.bd
 www.rajbaripourashava.gov.bd
 www.ramgonjcollege.gdc.gov.bd
 www.rampur.upmymensinghholdingtax.gov.bd
