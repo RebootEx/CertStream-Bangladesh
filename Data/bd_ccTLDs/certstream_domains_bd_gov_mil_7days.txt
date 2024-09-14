@@ -44,6 +44,7 @@ autodiscover.cafoshipping.gov.bd
 autodiscover.ccr.gov.bd
 autodiscover.chowmuhanimunicipality.gov.bd
 autodiscover.debendracollege.gov.bd
+autodiscover.laxmipurtsc.gov.bd
 autodiscover.mathbariapourashava.gov.bd
 autodiscover.ngwc.gov.bd
 autodiscover.pabnatsc.gov.bd
@@ -174,6 +175,7 @@ cpanel.chowmuhanimunicipality.gov.bd
 cpanel.debendracollege.gov.bd
 cpanel.gnc.gov.bd
 cpanel.kmpi.gov.bd
+cpanel.laxmipurtsc.gov.bd
 cpanel.mathbariapourashava.gov.bd
 cpanel.mspvaw.gov.bd
 cpanel.ngwc.gov.bd
@@ -203,6 +205,7 @@ cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.debendracollege.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.kmpi.gov.bd
+cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
 cpcalendars.mspvaw.gov.bd
 cpcalendars.ngwc.gov.bd
@@ -234,6 +237,7 @@ cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.debendracollege.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.kmpi.gov.bd
+cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
 cpcontacts.mspvaw.gov.bd
 cpcontacts.ngwc.gov.bd
@@ -382,6 +386,7 @@ kblos.karmasangsthanbank.gov.bd
 kcchatt.gov.bd
 keshabpurpouroshava.gov.bd
 khulnashipyard.gov.bd
+khulnattc.gov.bd
 kibana-dev.niseee.gov.bd
 kjtsc.gov.bd
 kmc.gov.bd
@@ -396,6 +401,7 @@ lalmohanpaurashava.gov.bd
 lalmonirhatmunicipality.gov.bd
 land.gov.bd
 laravel.sfcair.gov.bd
+laxmipurtsc.gov.bd
 lbphs.gov.bd
 licence.gov.bd
 linktogoods.xyz.kalihatipourashava.gov.bd
@@ -426,6 +432,7 @@ mail.icml.gov.bd
 mail.jessorecustoms.gov.bd
 mail.kmpi.gov.bd
 mail.lalmohanpaurashava.gov.bd
+mail.laxmipurtsc.gov.bd
 mail.ltuvat.gov.bd
 mail.mathbariapourashava.gov.bd
 mail.mspvaw.gov.bd
@@ -585,6 +592,7 @@ shr.shrlive.dghs.gov.bd
 singramunicipality.gov.bd
 siteapi.ltuvat.gov.bd
 sla.gov.bd
+smartbangladesh.gov.bd
 smartbdsummit.gov.bd
 smartbiz.gov.bd
 smartdistrict.gov.bd
@@ -692,6 +700,7 @@ webdisk.chowmuhanimunicipality.gov.bd
 webdisk.debendracollege.gov.bd
 webdisk.gnc.gov.bd
 webdisk.kmpi.gov.bd
+webdisk.laxmipurtsc.gov.bd
 webdisk.mathbariapourashava.gov.bd
 webdisk.mspvaw.gov.bd
 webdisk.ngwc.gov.bd
@@ -723,6 +732,7 @@ webmail.debendracollege.gov.bd
 webmail.gnc.gov.bd
 webmail.harmonyprojectmora.gov.bd
 webmail.kmpi.gov.bd
+webmail.laxmipurtsc.gov.bd
 webmail.mathbariapourashava.gov.bd
 webmail.mspvaw.gov.bd
 webmail.ngwc.gov.bd
@@ -842,6 +852,7 @@ www.korakdiup.faridpurlg.gov.bd
 www.kumargata.upmymensinghholdingtax.gov.bd
 www.lalmohanpaurashava.gov.bd
 www.laravel.sfcair.gov.bd
+www.laxmipurtsc.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
 www.llv.mspvaw.gov.bd
 www.ltuvat.gov.bd
