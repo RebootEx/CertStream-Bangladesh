@@ -45,6 +45,8 @@ finman.seip-fd.gov.bd
 finman.sicip.gov.bd
 fpcsqit.dgfp.gov.bd
 gaibandhapourashava.gov.bd
+ghorashalpourashava.gov.bd
+hmis.uphcsdp.gov.bd
 hscresult.bise-ctg.gov.bd
 hscresult1.bise-ctg.gov.bd
 hscrollsheet.comillaboard.gov.bd
@@ -93,6 +95,7 @@ taxappealzone2dhaka.gov.bd
 taxeszone25dhaka.gov.bd
 taxeszone9dhaka.gov.bd
 test.gameapp.gov.bd
+upmymensinghholdingtax.gov.bd
 vashantekcollege.gov.bd
 web.bepza.gov.bd
 webdisk.bavs.gov.bd
@@ -114,6 +117,7 @@ www.bsfmstu.gameapp.gov.bd
 www.cltp.gov.bd
 www.digitalliteracy.gov.bd
 www.du.gameapp.gov.bd
+www.hmis.uphcsdp.gov.bd
 www.jorkanoneastup.gov.bd
 www.laravel.sfcair.gov.bd
 www.mymensingheducationboard.gov.bd
@@ -130,3 +134,4 @@ www.taxappealzone2dhaka.gov.bd
 www.taxeszone25dhaka.gov.bd
 www.taxeszone9dhaka.gov.bd
 www.test.gameapp.gov.bd
+www.trishal.upmymensinghholdingtax.gov.bd
