@@ -29,6 +29,7 @@ autodiscover.ketrangahighschool.edu.bd
 autodiscover.khandalmlhighschoolandcollege.edu.bd
 autodiscover.kkhighschool.edu.bd
 autodiscover.kmuhighschool.edu.bd
+autodiscover.kutubdiagghs.edu.bd
 autodiscover.mhschool.edu.bd
 autodiscover.midmadrasah.edu.bd
 autodiscover.newashiml.edu.bd
@@ -52,6 +53,8 @@ balokdiarhs.edu.bd
 bcpsac.edu.bd
 bdcip.edu.bd
 belgapurhs.edu.bd
+belnatbmi.edu.bd
+benodpurghs.edu.bd
 ber.bsmrstu.edu.bd
 beta.admission.sust.edu.bd
 beta.system.admission.sust.edu.bd
@@ -59,6 +62,7 @@ bgmc.edu.bd
 bhlmmhighschool.edu.bd
 bhs06.edu.bd
 bhssn.edu.bd
+birampurhs.edu.bd
 bkbc.edu.bd
 bkhsl.edu.bd
 bloomingsun.edu.bd
@@ -106,6 +110,7 @@ cpanel.ketrangahighschool.edu.bd
 cpanel.khandalmlhighschoolandcollege.edu.bd
 cpanel.kkhighschool.edu.bd
 cpanel.kmuhighschool.edu.bd
+cpanel.kutubdiagghs.edu.bd
 cpanel.mhschool.edu.bd
 cpanel.midmadrasah.edu.bd
 cpanel.newashiml.edu.bd
@@ -137,6 +142,7 @@ cpcalendars.ketrangahighschool.edu.bd
 cpcalendars.khandalmlhighschoolandcollege.edu.bd
 cpcalendars.kkhighschool.edu.bd
 cpcalendars.kmuhighschool.edu.bd
+cpcalendars.kutubdiagghs.edu.bd
 cpcalendars.mhschool.edu.bd
 cpcalendars.midmadrasah.edu.bd
 cpcalendars.newashiml.edu.bd
@@ -169,6 +175,7 @@ cpcontacts.ketrangahighschool.edu.bd
 cpcontacts.khandalmlhighschoolandcollege.edu.bd
 cpcontacts.kkhighschool.edu.bd
 cpcontacts.kmuhighschool.edu.bd
+cpcontacts.kutubdiagghs.edu.bd
 cpcontacts.mhschool.edu.bd
 cpcontacts.midmadrasah.edu.bd
 cpcontacts.newashiml.edu.bd
@@ -210,6 +217,7 @@ easn.edu.bd
 ebsesdpmhs.edu.bd
 ecom.gachhbariidealcollege.edu.bd
 edu.bd.dhakhs.edu.bd
+edu.bd.mlahs.edu.bd
 edu.bd.pmndm.edu.bd
 eghuidmadrasha.edu.bd
 ehs.ikarchalihighschool.edu.bd
@@ -223,6 +231,7 @@ fumkhs.edu.bd
 fuyad.adarshama.edu.bd
 gazihamidm.edu.bd
 gcim.edu.bd
+gkschool.edu.bd
 gmc2012.edu.bd
 golabariss.edu.bd
 goshaiganjsc.edu.bd
@@ -239,11 +248,14 @@ igkmc.edu.bd
 iims.balokdiarhs.edu.bd
 ikarchalihighschool.edu.bd
 ipv6.razapurcollege.edu.bd
+issdhaka.edu.bd
 jahfm.edu.bd
 jhacademy.edu.bd
 jiym.edu.bd
 jmkm.edu.bd
+kalatiacollege.edu.bd
 kaligonjcollege.edu.bd
+kamargaonhs.edu.bd
 karpurhs.edu.bd
 kbuhs.edu.bd
 kccmc.edu.bd
@@ -263,7 +275,10 @@ kohs.edu.bd
 komorpursgs.edu.bd
 ktnsdm.edu.bd
 ktnsdm.edu.bd.bodm.edu.bd
+kumarkhalifazilmadrasah.edu.bd
 kundashonhighschool.edu.bd
+kuphigh119693.edu.bd
+kutubdiagghs.edu.bd
 kzhcollege.edu.bd
 laujanaiudm.edu.bd
 library.cityuniversity.edu.bd
@@ -287,6 +302,7 @@ mail.ketrangahighschool.edu.bd
 mail.khandalmlhighschoolandcollege.edu.bd
 mail.kkhighschool.edu.bd
 mail.kmuhighschool.edu.bd
+mail.kutubdiagghs.edu.bd
 mail.mhschool.edu.bd
 mail.midmadrasah.edu.bd
 mail.newashiml.edu.bd
@@ -350,6 +366,7 @@ portal.bark.edu.bd
 portal.kalabadhaghs.edu.bd
 portal.kudc.edu.bd
 portal.rwdc.edu.bd
+portal.sjs.edu.bd
 pos.ikarchalihighschool.edu.bd
 ppgh.edu.bd
 prisonspublicschoolsylhet.edu.bd
@@ -360,6 +377,7 @@ ramms.edu.bd
 ramukhizareegovthighschool.edu.bd
 ranguniamhs.edu.bd
 razapurcollege.edu.bd
+rcit.edu.bd
 rghscr.edu.bd
 rhsc.edu.bd
 rpghsc.edu.bd
@@ -379,6 +397,7 @@ shankarpurmhs.edu.bd
 shoulaadarsha.edu.bd
 showroom.ikarchalihighschool.edu.bd
 shss.edu.bd
+singuriahs.edu.bd
 sjddm.edu.bd
 smahs.edu.bd
 smghschool.edu.bd
@@ -420,6 +439,7 @@ webdisk.ketrangahighschool.edu.bd
 webdisk.khandalmlhighschoolandcollege.edu.bd
 webdisk.kkhighschool.edu.bd
 webdisk.kmuhighschool.edu.bd
+webdisk.kutubdiagghs.edu.bd
 webdisk.mhschool.edu.bd
 webdisk.midmadrasah.edu.bd
 webdisk.newashiml.edu.bd
@@ -452,6 +472,7 @@ webmail.ketrangahighschool.edu.bd
 webmail.khandalmlhighschoolandcollege.edu.bd
 webmail.kkhighschool.edu.bd
 webmail.kmuhighschool.edu.bd
+webmail.kutubdiagghs.edu.bd
 webmail.mhschool.edu.bd
 webmail.midmadrasah.edu.bd
 webmail.newashiml.edu.bd
@@ -486,6 +507,7 @@ www.barati.ikarchalihighschool.edu.bd
 www.bdcip.edu.bd
 www.ber.bsmrstu.edu.bd
 www.bhlmmhighschool.edu.bd
+www.birampurhs.edu.bd.mlahs.edu.bd
 www.bkbc.edu.bd
 www.bmjf.org.ikarchalihighschool.edu.bd
 www.cdsam.edu.bd
@@ -528,6 +550,7 @@ www.kkzhs.edu.bd
 www.kmuhighschool.edu.bd
 www.knadc.edu.bd
 www.ktnsdm.edu.bd.bodm.edu.bd
+www.kutubdiagghs.edu.bd
 www.library.cityuniversity.edu.bd
 www.makarimhighschool.edu.bd
 www.mhs.edu.bd
@@ -569,6 +592,7 @@ www.safacollege.edu.bd.pmndm.edu.bd
 www.sarghsp.edu.bd
 www.shoulaadarsha.edu.bd.pmndm.edu.bd
 www.showroom.ikarchalihighschool.edu.bd
+www.singuriahs.edu.bd
 www.smahs.edu.bd
 www.smghschool.edu.bd.ihsh.edu.bd
 www.smtsc.edu.bd
