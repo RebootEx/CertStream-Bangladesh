@@ -138,6 +138,7 @@ cbc.dnbc.gov.bd
 cbctg.gov.bd
 cbraj.gov.bd
 ccapkhulna.gov.bd
+ccdfpfm.gov.bd
 ccms.gov.bd
 ccpc4teens.gov.bd
 ccr.gov.bd
@@ -171,6 +172,7 @@ cpanel.bamis.gov.bd
 cpanel.bavs.gov.bd
 cpanel.cafoemrd.gov.bd
 cpanel.cafoshipping.gov.bd
+cpanel.ccdfpfm.gov.bd
 cpanel.ccr.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
 cpanel.debendracollege.gov.bd
@@ -200,6 +202,7 @@ cpcalendars.bamis.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.cafoemrd.gov.bd
 cpcalendars.cafoshipping.gov.bd
+cpcalendars.ccdfpfm.gov.bd
 cpcalendars.ccr.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
 cpcalendars.debendracollege.gov.bd
@@ -232,6 +235,7 @@ cpcontacts.bamis.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.cafoemrd.gov.bd
 cpcontacts.cafoshipping.gov.bd
+cpcontacts.ccdfpfm.gov.bd
 cpcontacts.ccr.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
 cpcontacts.debendracollege.gov.bd
@@ -290,6 +294,7 @@ dmpwsid.gov.bd
 dncc-dch.gov.bd
 docs.lsb.gov.bd
 dpp.gov.bd
+dppseba.gov.bd
 dscsc.mil.bd
 dtemymensingh.gov.bd
 du.gameapp.gov.bd
@@ -307,6 +312,7 @@ ems.taxeszone3ctg.gov.bd
 emsserver.epb-exporttracker.gov.bd
 enlistment.frc.gov.bd
 enlistmentapi.frc.gov.bd
+erecruitment.sec.gov.bd
 erp.bepza.gov.bd
 erp.seip-fd.gov.bd
 erp.sicip.gov.bd
@@ -374,6 +380,7 @@ jessorecustoms.gov.bd
 jhalokathimunicipality.gov.bd
 jhikargachamunicipality.gov.bd
 jitsi.vc8.bcc.gov.bd
+jmc.gov.bd
 jmc.jessoreboard.gov.bd
 jorkanoneastup.gov.bd
 jscadmitcard.bise-ctg.gov.bd
@@ -428,10 +435,12 @@ mail.cafoemrd.gov.bd
 mail.cafoshipping.gov.bd
 mail.cao.gov.bd
 mail.cbraj.gov.bd
+mail.ccdfpfm.gov.bd
 mail.ccr.gov.bd
 mail.chowmuhanimunicipality.gov.bd
 mail.debendracollege.gov.bd
 mail.dedo.gov.bd
+mail.dppseba.gov.bd
 mail.gnc.gov.bd
 mail.icml.gov.bd
 mail.jessorecustoms.gov.bd
@@ -701,6 +710,7 @@ webdisk.bakshiganjpourashava.gov.bd
 webdisk.bavs.gov.bd
 webdisk.cafoemrd.gov.bd
 webdisk.cafoshipping.gov.bd
+webdisk.ccdfpfm.gov.bd
 webdisk.ccr.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
 webdisk.debendracollege.gov.bd
@@ -732,6 +742,7 @@ webmail.bakshiganjpourashava.gov.bd
 webmail.bavs.gov.bd
 webmail.cafoemrd.gov.bd
 webmail.cafoshipping.gov.bd
+webmail.ccdfpfm.gov.bd
 webmail.ccr.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
 webmail.debendracollege.gov.bd
@@ -806,6 +817,7 @@ www.cafoshipping.gov.bd
 www.cao.gov.bd
 www.cbc.dnbc.gov.bd
 www.cbraj.gov.bd
+www.ccdfpfm.gov.bd
 www.ccr.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.chakariamunicipality.gov.bd
@@ -824,6 +836,7 @@ www.digitalliteracy.gov.bd
 www.digrajshahirange.gov.bd
 www.dmp.gov.bd
 www.dpp.gov.bd
+www.dppseba.gov.bd
 www.du.gameapp.gov.bd
 www.ekpass.gov.bd
 www.ems.taxeszone3ctg.gov.bd
