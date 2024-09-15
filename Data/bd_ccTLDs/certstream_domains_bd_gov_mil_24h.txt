@@ -3,6 +3,7 @@ ar.gameapp.gov.bd
 auth.frc.gov.bd
 bsfmstu.gameapp.gov.bd
 bstiqrcode.gov.bd
+cafopsid.gov.bd
 culmination.bise-ctg.gov.bd
 curriculum.gov.bd
 du.gameapp.gov.bd
@@ -14,12 +15,14 @@ iif.bise-ctg.gov.bd
 kbasset.karmasangsthanbank.gov.bd
 lms.seip-fd.gov.bd
 mail.cao.gov.bd
+merchant.ekshop.gov.bd
 ntrc.gameapp.gov.bd
 register.gameapp.gov.bd
 test.gameapp.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
 www.bsfmstu.gameapp.gov.bd
+www.cafopsid.gov.bd
 www.du.gameapp.gov.bd
 www.kbasset.karmasangsthanbank.gov.bd
 www.ntrc.gameapp.gov.bd
