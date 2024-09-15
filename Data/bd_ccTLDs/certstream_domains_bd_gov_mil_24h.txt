@@ -1,10 +1,12 @@
 adminpanel.bise-ctg.gov.bd
 agecorrection.dinajpurboard.gov.bd
+agri.dam.gov.bd
 amarai.gameapp.gov.bd
 api.bdansarerp.gov.bd
 ar.gameapp.gov.bd
 attendance.gov.bd
 auth.frc.gov.bd
+bajitpurpaurashava.gov.bd
 boardadmin.bise-ctg.gov.bd
 bsfmstu.gameapp.gov.bd
 bspi.gov.bd
@@ -36,8 +38,10 @@ erp.bcsadminacademy.gov.bd
 erp.seip-fd.gov.bd
 facilityregistry.dghs.gov.bd
 finman.seip-fd.gov.bd
+hr.dam.gov.bd
 ica.gov.bd
 iif.bise-ctg.gov.bd
+innovation.dam.gov.bd
 judipay.gov.bd
 kbasset.karmasangsthanbank.gov.bd
 kodalkatihs.gov.bd
@@ -53,11 +57,14 @@ nabiganjpaurashava.gov.bd
 nient.gov.bd
 noakhaligmc.gov.bd
 ntrc.gameapp.gov.bd
+office.dam.gov.bd
 onlinefile.bise-ctg.gov.bd
 pdf.bise-ctg.gov.bd
 pirganjmunicipality.gov.bd
+rajabariup.gov.bd
 rajoirmunicipality.gov.bd
 register.gameapp.gov.bd
+reports.dlrms-stg.land.gov.bd
 rpmp.gov.bd
 rrdhs.gov.bd
 saidpurmunicipality.gov.bd
@@ -65,6 +72,7 @@ service.cirt.gov.bd
 supervision.dghs.gov.bd
 svrs.bbs.gov.bd
 taxeszonerajshahi.gov.bd
+tealicense.gov.bd
 test.gameapp.gov.bd
 training.edge.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -74,6 +82,7 @@ webdisk.nabiganjpaurashava.gov.bd
 webdisk.pirganjmunicipality.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
+www.bajitpurpaurashava.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cafoinfo.gov.bd
 www.cafopsid.gov.bd
