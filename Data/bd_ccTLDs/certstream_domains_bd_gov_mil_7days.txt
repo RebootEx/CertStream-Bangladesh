@@ -25,6 +25,7 @@ api.ekpass.gov.bd
 api.ipemis.training.dpe.gov.bd
 api.ncpds.dae.gov.bd
 api.otms.nass.gov.bd
+api.pds.dae.gov.bd
 api.torjoni.gov.bd
 app.jhalokathimunicipality.gov.bd
 app.monglaportmunicipality.gov.bd
@@ -365,6 +366,7 @@ jhikargachamunicipality.gov.bd
 jitsi.vc8.bcc.gov.bd
 jmc.gov.bd
 jmc.jessoreboard.gov.bd
+joinnavy.mil.bd
 jorkanoneastup.gov.bd
 jscadmitcard.bise-ctg.gov.bd
 judiciary.gov.bd
@@ -658,6 +660,7 @@ ullaparapaurashava.gov.bd
 uniontax.gov.bd
 unobagerhatsadar.gov.bd
 unorupganj.gov.bd
+uphcsdp.gov.bd
 upms.ugc.gov.bd
 upmymensinghholdingtax.gov.bd
 urp.gov.bd
