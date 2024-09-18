@@ -50,6 +50,7 @@ autodiscover.taxeszoneonedhaka.gov.bd
 autodiscover.tseogulshan.gov.bd
 autodiscover.urp.gov.bd
 automation.bepza.gov.bd
+award.imli.gov.bd
 award.moysports.gov.bd
 backup.urp.gov.bd
 baghaboup.narsingdilg.gov.bd
@@ -61,6 +62,7 @@ bangla.srngih.gov.bd
 bankinfo.bise-ctg.gov.bd
 barakandaup.gov.bd
 basb.gov.bd
+basbjobportal.gov.bd
 basbmed.gov.bd
 bavs.gov.bd
 bazarmonitoring.digrajshahirange.gov.bd
@@ -136,6 +138,7 @@ cpanel.bamis.gov.bd
 cpanel.bavs.gov.bd
 cpanel.ccdfpfm.gov.bd
 cpanel.chowmuhanimunicipality.gov.bd
+cpanel.dfsrcaab.gov.bd
 cpanel.gnc.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.mathbariapourashava.gov.bd
@@ -161,6 +164,7 @@ cpcalendars.bamis.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.ccdfpfm.gov.bd
 cpcalendars.chowmuhanimunicipality.gov.bd
+cpcalendars.dfsrcaab.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
@@ -187,6 +191,7 @@ cpcontacts.bamis.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.ccdfpfm.gov.bd
 cpcontacts.chowmuhanimunicipality.gov.bd
+cpcontacts.dfsrcaab.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
@@ -221,6 +226,7 @@ dashboardapi.training.grs.gov.bd
 dedo.gov.bd
 demand.taxeszone13dhaka.gov.bd
 demo.pch.gov.bd
+dfsrcaab.gov.bd
 dhis2training.dghs.gov.bd
 diaautomation.gov.bd
 dic.dghs.gov.bd
@@ -362,6 +368,7 @@ mail.cbraj.gov.bd
 mail.ccdfpfm.gov.bd
 mail.chowmuhanimunicipality.gov.bd
 mail.dedo.gov.bd
+mail.dfsrcaab.gov.bd
 mail.dppseba.gov.bd
 mail.gnc.gov.bd
 mail.icml.gov.bd
@@ -577,6 +584,7 @@ transmission.btcl.gov.bd
 tseogulshan.gov.bd
 turn.vc8.bcc.gov.bd
 tvi.gov.bd
+ullaparapaurashava.gov.bd
 uniontax.gov.bd
 unobagerhatsadar.gov.bd
 uphcsdp.gov.bd
@@ -593,6 +601,7 @@ vaxin.dghs.gov.bd
 ver1.nameage.comillaboard.gov.bd
 verification.mfacademy.gov.bd
 vlan.cmpi.gov.bd
+vpland.munshiganjlg.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vt.moind.gov.bd
@@ -601,6 +610,7 @@ webdisk.14upazilaudd.gov.bd
 webdisk.bavs.gov.bd
 webdisk.ccdfpfm.gov.bd
 webdisk.chowmuhanimunicipality.gov.bd
+webdisk.dfsrcaab.gov.bd
 webdisk.gnc.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.mathbariapourashava.gov.bd
@@ -626,6 +636,7 @@ webmail.14upazilaudd.gov.bd
 webmail.bavs.gov.bd
 webmail.ccdfpfm.gov.bd
 webmail.chowmuhanimunicipality.gov.bd
+webmail.dfsrcaab.gov.bd
 webmail.gnc.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.mathbariapourashava.gov.bd
@@ -691,6 +702,7 @@ www.cltp.gov.bd
 www.ctgdclicense.gov.bd
 www.dedo.gov.bd
 www.demand.taxeszone13dhaka.gov.bd
+www.dfsrcaab.gov.bd
 www.digitalliteracy.gov.bd
 www.digrajshahirange.gov.bd
 www.dpp.gov.bd
@@ -804,6 +816,7 @@ www.trishal.upmymensinghholdingtax.gov.bd
 www.tseogulshan.gov.bd
 www.upsheba.rpi.gov.bd
 www.urp.gov.bd
+www.vpland.munshiganjlg.gov.bd
 www.wtmu.gov.bd
 zpjhenaidah.gov.bd
 zpkhulna.gov.bd
