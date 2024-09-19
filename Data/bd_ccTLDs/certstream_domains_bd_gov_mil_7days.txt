@@ -130,6 +130,7 @@ cpanel.bamis.gov.bd
 cpanel.bavs.gov.bd
 cpanel.ccdfpfm.gov.bd
 cpanel.dfsrcaab.gov.bd
+cpanel.eregistration.gov.bd
 cpanel.gnc.gov.bd
 cpanel.laxmipurtsc.gov.bd
 cpanel.mathbariapourashava.gov.bd
@@ -152,6 +153,7 @@ cpcalendars.bamis.gov.bd
 cpcalendars.bavs.gov.bd
 cpcalendars.ccdfpfm.gov.bd
 cpcalendars.dfsrcaab.gov.bd
+cpcalendars.eregistration.gov.bd
 cpcalendars.gnc.gov.bd
 cpcalendars.laxmipurtsc.gov.bd
 cpcalendars.mathbariapourashava.gov.bd
@@ -175,6 +177,7 @@ cpcontacts.bamis.gov.bd
 cpcontacts.bavs.gov.bd
 cpcontacts.ccdfpfm.gov.bd
 cpcontacts.dfsrcaab.gov.bd
+cpcontacts.eregistration.gov.bd
 cpcontacts.gnc.gov.bd
 cpcontacts.laxmipurtsc.gov.bd
 cpcontacts.mathbariapourashava.gov.bd
@@ -233,6 +236,7 @@ emsserver.epb-exporttracker.gov.bd
 enlistment.frc.gov.bd
 enlistmentapi.frc.gov.bd
 erecruitment.sec.gov.bd
+eregistration.gov.bd
 erp.bcsadminacademy.gov.bd
 erp.bepza.gov.bd
 erp.seip-fd.gov.bd
@@ -263,6 +267,7 @@ gis-titasgas.gov.bd
 gnc.gov.bd
 gouripurup.comillalg.gov.bd
 gzmcfeni.gov.bd
+health.nwpgcl.gov.bd
 hmis.uphcsdp.gov.bd
 hr.dam.gov.bd
 hris.dgme.gov.bd
@@ -338,6 +343,7 @@ mail.ccdfpfm.gov.bd
 mail.dedo.gov.bd
 mail.dfsrcaab.gov.bd
 mail.dppseba.gov.bd
+mail.eregistration.gov.bd
 mail.gnc.gov.bd
 mail.icml.gov.bd
 mail.jessorecustoms.gov.bd
@@ -440,6 +446,7 @@ reports.dlrms-stg.land.gov.bd
 result.dghs.gov.bd
 result.ebmeb.gov.bd
 revenueshare.btcl.gov.bd
+rhd.gov.bd
 rmttc.gov.bd
 rpi.gov.bd
 rpmp.gov.bd
@@ -557,6 +564,7 @@ webdisk.14upazilaudd.gov.bd
 webdisk.bavs.gov.bd
 webdisk.ccdfpfm.gov.bd
 webdisk.dfsrcaab.gov.bd
+webdisk.eregistration.gov.bd
 webdisk.gnc.gov.bd
 webdisk.laxmipurtsc.gov.bd
 webdisk.mathbariapourashava.gov.bd
@@ -579,6 +587,7 @@ webmail.14upazilaudd.gov.bd
 webmail.bavs.gov.bd
 webmail.ccdfpfm.gov.bd
 webmail.dfsrcaab.gov.bd
+webmail.eregistration.gov.bd
 webmail.gnc.gov.bd
 webmail.laxmipurtsc.gov.bd
 webmail.mathbariapourashava.gov.bd
@@ -649,6 +658,7 @@ www.du.gameapp.gov.bd
 www.edge.gov.bd
 www.ekpass.gov.bd
 www.ems.taxeszone3ctg.gov.bd
+www.eregistration.gov.bd
 www.esheba.sylhetboard.gov.bd
 www.etds.gov.bd
 www.ezakat.gov.bd
@@ -687,6 +697,7 @@ www.mathbariapourashava.gov.bd
 www.monitoring.landzoning.gov.bd
 www.mspvaw.gov.bd
 www.mspvawpre.mspvaw.gov.bd
+www.muktagacha.upmymensinghholdingtax.gov.bd
 www.mymensingheducationboard.gov.bd
 www.nabiganjpaurashava.gov.bd
 www.new.vatdhkeast.gov.bd
