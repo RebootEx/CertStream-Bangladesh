@@ -21,6 +21,7 @@ autodiscover.kanchanpurhaorhighschool.edu.bd
 autodiscover.kifmadrasah.edu.bd
 autodiscover.lkahs.edu.bd
 autodiscover.nilimajakobcollege.edu.bd
+autodiscover.pearalicollege.edu.bd
 autodiscover.rhbdmadrasah.edu.bd
 autodiscover.snudmad.edu.bd
 autodiscover.thaneswarsc.edu.bd
@@ -32,6 +33,7 @@ bamhs.edu.bd
 banmghs.edu.bd
 barbariahighschool.edu.bd
 barbariahighschool.edu.bd.yusufpurkhs.edu.bd
+basailhighschool.edu.bd
 bau.edu.bd
 bbdmbagraj.edu.bd
 bdagdm.edu.bd
@@ -50,9 +52,11 @@ c.hausc.edu.bd
 cfdmtm.edu.bd
 cghnfm.edu.bd
 charbamundiyadmadrasha.edu.bd
+chdc.edu.bd
 chsm.edu.bd
 cirahs.edu.bd
 cmdck.edu.bd
+convocation.bsmrau.edu.bd
 cpanel.ajidmadrasah.edu.bd
 cpanel.bvdsdmadrasah.edu.bd
 cpanel.dajadmadrasah.edu.bd
@@ -62,6 +66,7 @@ cpanel.kanchanpurhaorhighschool.edu.bd
 cpanel.kifmadrasah.edu.bd
 cpanel.lkahs.edu.bd
 cpanel.nilimajakobcollege.edu.bd
+cpanel.pearalicollege.edu.bd
 cpanel.rhbdmadrasah.edu.bd
 cpanel.snudmad.edu.bd
 cpanel.thaneswarsc.edu.bd
@@ -75,6 +80,7 @@ cpcalendars.kanchanpurhaorhighschool.edu.bd
 cpcalendars.kifmadrasah.edu.bd
 cpcalendars.lkahs.edu.bd
 cpcalendars.nilimajakobcollege.edu.bd
+cpcalendars.pearalicollege.edu.bd
 cpcalendars.rhbdmadrasah.edu.bd
 cpcalendars.snudmad.edu.bd
 cpcalendars.thaneswarsc.edu.bd
@@ -88,6 +94,7 @@ cpcontacts.kanchanpurhaorhighschool.edu.bd
 cpcontacts.kifmadrasah.edu.bd
 cpcontacts.lkahs.edu.bd
 cpcontacts.nilimajakobcollege.edu.bd
+cpcontacts.pearalicollege.edu.bd
 cpcontacts.rhbdmadrasah.edu.bd
 cpcontacts.snudmad.edu.bd
 cpcontacts.thaneswarsc.edu.bd
@@ -98,7 +105,9 @@ daliaadghs.edu.bd
 dapnazrulislamcollege.edu.bd
 dash.dgt.edu.bd
 db.sffazilmadrasa.edu.bd
+demo.shibganjhighschool.edu.bd
 demo.sylhetcpsc.edu.bd
+deutyhsandc.edu.bd
 dgmsdm.edu.bd
 dhakaudyanpublicschool.edu.bd
 dhakirkandahrhighschool.edu.bd
@@ -159,10 +168,12 @@ mail.misam.edu.bd
 mail.munshiganjhighschool.edu.bd
 mail.ncgmhs.edu.bd
 mail.nilimajakobcollege.edu.bd
+mail.pearalicollege.edu.bd
 mail.rajkumaredward.edu.bd
 mail.ramshilcollege.edu.bd
 mail.rhbdmadrasah.edu.bd
 mail.sffazilmadrasa.edu.bd
+mail.smsgmphs.edu.bd
 mail.snudmad.edu.bd
 mail.thaneswarsc.edu.bd
 mail.ucmldm.edu.bd
@@ -174,6 +185,7 @@ metropoliceline.edu.bd
 metrouni.edu.bd
 misam.edu.bd
 mmukm.edu.bd
+muktakghs.edu.bd
 munshiganjhighschool.edu.bd
 naogaonghs.edu.bd
 nbpmhs.edu.bd
@@ -187,6 +199,7 @@ nsbkhs.edu.bd
 nuhsk.edu.bd
 palashislamiaalimmadrasha.edu.bd
 pbahdm.edu.bd
+pearalicollege.edu.bd
 pearpurshs.edu.bd
 pgbmdm.edu.bd
 phs105277.edu.bd
@@ -199,6 +212,7 @@ portal.dbmrhs.edu.bd
 portal.kalidaskuhs.edu.bd
 portal.kurianaghs.edu.bd
 portal.naogaonghs.edu.bd
+portal.nipghs.edu.bd
 portal.sahighschool.edu.bd
 portal.sof.edu.bd
 portal.wisdomsc.edu.bd
@@ -214,6 +228,7 @@ rhamadaripur.edu.bd
 rhbdmadrasah.edu.bd
 rkchs.edu.bd
 rmgcollege.edu.bd
+rokonpurhs.edu.bd
 rotarycollege.edu.bd
 roverscouts.daffodilvarsity.edu.bd
 rupsaahs.edu.bd
@@ -227,6 +242,7 @@ sherpurhighschool.edu.bd
 shibgonjghs.edu.bd
 shreemontopurghs.edu.bd
 sijghs.edu.bd
+smsgmphs.edu.bd
 snhschool.edu.bd
 snudmad.edu.bd
 socer.bkdcl.edu.bd
@@ -255,6 +271,7 @@ webdisk.kanchanpurhaorhighschool.edu.bd
 webdisk.kifmadrasah.edu.bd
 webdisk.lkahs.edu.bd
 webdisk.nilimajakobcollege.edu.bd
+webdisk.pearalicollege.edu.bd
 webdisk.rhbdmadrasah.edu.bd
 webdisk.snudmad.edu.bd
 webdisk.thaneswarsc.edu.bd
@@ -269,6 +286,7 @@ webmail.kanchanpurhaorhighschool.edu.bd
 webmail.kifmadrasah.edu.bd
 webmail.lkahs.edu.bd
 webmail.nilimajakobcollege.edu.bd
+webmail.pearalicollege.edu.bd
 webmail.rhbdmadrasah.edu.bd
 webmail.snudmad.edu.bd
 webmail.thaneswarsc.edu.bd
@@ -298,6 +316,7 @@ www.cse.fcub.edu.bd
 www.dajadmadrasah.edu.bd
 www.dapnazrulislamcollege.edu.bd
 www.db.sffazilmadrasa.edu.bd
+www.demo.shibganjhighschool.edu.bd
 www.dhakirkandahrhighschool.edu.bd
 www.dph.fcub.edu.bd
 www.eee.fcub.edu.bd
@@ -327,6 +346,8 @@ www.nilimajakobcollege.edu.bd
 www.nuhsk.edu.bd
 www.old.ugv.edu.bd
 www.pay.fcub.edu.bd
+www.pearalicollege.edu.bd
+www.portal.nipghs.edu.bd
 www.rajkumaredward.edu.bd
 www.ramshilcollege.edu.bd
 www.rhbdmadrasah.edu.bd
@@ -336,6 +357,7 @@ www.s.khanepurhighschool.edu.bd
 www.s.pakullamlhighschool.edu.bd
 www.school.rmgcollege.edu.bd
 www.sffazilmadrasa.edu.bd
+www.smsgmphs.edu.bd
 www.snudmad.edu.bd
 www.soc.fcub.edu.bd
 www.socer.bkdcl.edu.bd
