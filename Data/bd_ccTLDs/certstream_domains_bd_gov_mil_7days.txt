@@ -18,6 +18,7 @@ api-manager.dlrms-stg.land.gov.bd
 api.bdansarerp.gov.bd
 api.pds.dae.gov.bd
 api.torjoni.gov.bd
+app.dhakaeducationboard.gov.bd
 app.freelancers.gov.bd
 ar.gameapp.gov.bd
 arjsc.roc.gov.bd
@@ -99,6 +100,7 @@ cpanel.sac.gov.bd
 cpanel.sfmmttc.gov.bd
 cpanel.upsylhetholdingtax.gov.bd
 cpanel.urp.gov.bd
+cpanel.zsorangpur.gov.bd
 cpcalendars.14upazilaudd.gov.bd
 cpcalendars.admin.msdp.gov.bd
 cpcalendars.ccdfpfm.gov.bd
@@ -117,6 +119,7 @@ cpcalendars.sac.gov.bd
 cpcalendars.sfmmttc.gov.bd
 cpcalendars.upsylhetholdingtax.gov.bd
 cpcalendars.urp.gov.bd
+cpcalendars.zsorangpur.gov.bd
 cpcontacts.14upazilaudd.gov.bd
 cpcontacts.admin.msdp.gov.bd
 cpcontacts.ccdfpfm.gov.bd
@@ -135,6 +138,7 @@ cpcontacts.sac.gov.bd
 cpcontacts.sfmmttc.gov.bd
 cpcontacts.upsylhetholdingtax.gov.bd
 cpcontacts.urp.gov.bd
+cpcontacts.zsorangpur.gov.bd
 ctgdclicense.gov.bd
 culmination.bise-ctg.gov.bd
 curriculum.gov.bd
@@ -145,6 +149,7 @@ darsanapaurashava.gov.bd
 demo.iresppw-brdb.gov.bd
 dengue.gov.bd
 dev.portal.dgme.gov.bd
+dewanganjpaurashava.gov.bd
 dfsrcaab.gov.bd
 dgdp.gov.bd
 dhis2training.dghs.gov.bd
@@ -241,6 +246,7 @@ mail.laxmipurtsc.gov.bd
 mail.mspvaw.gov.bd
 mail.nabiganjpaurashava.gov.bd
 mail.nbrelearning.gov.bd
+mail.nilmrc.gov.bd
 mail.nilmrcbd.gov.bd
 mail.pbi.gov.bd
 mail.pict.gov.bd
@@ -253,6 +259,7 @@ mail.sfmmttc.gov.bd
 mail.tc.dghs.gov.bd
 mail.upsylhetholdingtax.gov.bd
 mail.urp.gov.bd
+mail.zsorangpur.gov.bd
 mathbariacollege.gov.bd
 mchti.gov.bd
 melandahbhata.gov.bd
@@ -272,6 +279,7 @@ nbrelearning.gov.bd
 network.ekshop.gov.bd
 newsletter.ec4j.gov.bd
 nient.gov.bd
+nilmrc.gov.bd
 nilmrcbd.gov.bd
 nimh.gov.bd
 nnsop.gov.bd
@@ -296,6 +304,7 @@ police.gov.bd
 policy.gov.bd
 polytech.gov.bd
 portal.satkhiratsc.gov.bd
+postcode.bpodms.gov.bd
 pouroseba.gov.bd
 powergrid.gov.bd
 practical.comillaboard.gov.bd
@@ -410,6 +419,7 @@ webdisk.sac.gov.bd
 webdisk.sfmmttc.gov.bd
 webdisk.upsylhetholdingtax.gov.bd
 webdisk.urp.gov.bd
+webdisk.zsorangpur.gov.bd
 webmail.14upazilaudd.gov.bd
 webmail.admin.msdp.gov.bd
 webmail.ccdfpfm.gov.bd
@@ -426,6 +436,7 @@ webmail.sac.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.upsylhetholdingtax.gov.bd
 webmail.urp.gov.bd
+webmail.zsorangpur.gov.bd
 whm.nilmrcbd.gov.bd
 www.14upazilaudd.gov.bd
 www.accounts.dhakaeducationboard.gov.bd
@@ -433,6 +444,7 @@ www.admin.msdp.gov.bd
 www.ahcollege.gov.bd
 www.amarai.gameapp.gov.bd
 www.apbn.gov.bd
+www.app.dhakaeducationboard.gov.bd
 www.ar.gameapp.gov.bd
 www.attendance-server.rpi.gov.bd
 www.attendance.rpi.gov.bd
@@ -457,6 +469,7 @@ www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.chawkidar.digrajshahirange.gov.bd
 www.ctgdclicense.gov.bd
 www.demo.iresppw-brdb.gov.bd
+www.dewanganjpaurashava.gov.bd
 www.dfsrcaab.gov.bd
 www.digital.bishwanathpaurashava.gov.bd
 www.dpp.gov.bd
@@ -496,6 +509,7 @@ www.nabiganjpaurashava.gov.bd
 www.nbrelearning.gov.bd
 www.network.ekshop.gov.bd
 www.newsletter.ec4j.gov.bd
+www.nilmrc.gov.bd
 www.nilmrcbd.gov.bd
 www.ntrc.gameapp.gov.bd
 www.old.bspi.gov.bd
@@ -537,6 +551,7 @@ www.upsheba.rpi.gov.bd
 www.upsylhetholdingtax.gov.bd
 www.urp.gov.bd
 www.vpland.munshiganjlg.gov.bd
+www.zsorangpur.gov.bd
 zpbagerhat.gov.bd
 zphabiganj.gov.bd
 zpkhulna.gov.bd
@@ -548,3 +563,4 @@ zppabna.gov.bd
 zpsunamganj.gov.bd
 zsanatore.gov.bd
 zsorajshahi.gov.bd
+zsorangpur.gov.bd
