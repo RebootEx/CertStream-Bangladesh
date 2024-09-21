@@ -16,6 +16,9 @@ cpcontacts.nilmrcbd.gov.bd
 cpcontacts.taxeszone12dhaka.gov.bd
 dashboard.ipemis.dpe.gov.bd
 eksheba.gov.bd
+grs.ec4j.gov.bd
+hrm.mfstc.gov.bd
+idea.gov.bd
 ipemis.dpe.gov.bd
 laravel.cafolgd.gov.bd
 login.ipemis.dpe.gov.bd
@@ -28,10 +31,12 @@ ncc.gov.bd
 network.ekshop.gov.bd
 nilmrcbd.gov.bd
 nwpgcl.gov.bd
+old.dhakadental.gov.bd
 ops.ipemis.dpe.gov.bd
 schoolform.comillaboard.gov.bd
 taxeszone12dhaka.gov.bd
 teachers.gov.bd
+useobagraj.gov.bd
 webdisk.nilmrcbd.gov.bd
 webdisk.taxeszone12dhaka.gov.bd
 webmail.nilmrcbd.gov.bd
@@ -39,9 +44,12 @@ webmail.taxeszone12dhaka.gov.bd
 whm.nilmrcbd.gov.bd
 www.ahsanmanzilticket.gov.bd
 www.basailpaurashava.gov.bd
+www.grs.ec4j.gov.bd
+www.hrm.mfstc.gov.bd
 www.laravel.cafolgd.gov.bd
 www.logistics.gov.bd
 www.network.ekshop.gov.bd
 www.nilmrcbd.gov.bd
+www.old.dhakadental.gov.bd
 www.taxeszone12dhaka.gov.bd
 zpdinajpur.gov.bd
