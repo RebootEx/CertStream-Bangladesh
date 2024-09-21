@@ -3,6 +3,7 @@ api-manager.dlrms-stg.land.gov.bd
 api.ipemis.dpe.gov.bd
 attendance.gov.bd
 autodiscover.taxeszone12dhaka.gov.bd
+barlekhamunicipality.gov.bd
 basailpaurashava.gov.bd
 bazardor.gov.bd
 bdhckl.gov.bd
@@ -28,11 +29,13 @@ mail.basailpaurashava.gov.bd
 mail.cpa.gov.bd
 mail.nilmrcbd.gov.bd
 mail.taxeszone12dhaka.gov.bd
+meeting.cabinet.gov.bd
 monohardipourashava.gov.bd
 ncc.gov.bd
 network.ekshop.gov.bd
 nilmrcbd.gov.bd
 nilphamarittc.gov.bd
+nnsop.gov.bd
 nwpgcl.gov.bd
 old.dhakadental.gov.bd
 ops.ipemis.dpe.gov.bd
