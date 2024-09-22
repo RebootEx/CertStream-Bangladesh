@@ -7,6 +7,7 @@ apamsv3.cabinet.gov.bd
 api.ncpds.dae.gov.bd
 app.dhakaeducationboard.gov.bd
 ar.gameapp.gov.bd
+assetgate.karmasangsthanbank.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.ec4j.gov.bd
 basurhatpourashava.gov.bd
@@ -27,6 +28,7 @@ cpcalendars.zsorangpur.gov.bd
 cpcontacts.ec4j.gov.bd
 cpcontacts.zsorangpur.gov.bd
 ddpr.gov.bd
+demo.certificatefuldin.gov.bd
 digidash.bhtpa.gov.bd
 dob.ekshop.gov.bd
 dpeojhenaidah.gov.bd
@@ -36,6 +38,7 @@ ec4j.gov.bd
 eff.comillaboard.gov.bd
 egppplus.ddm.gov.bd
 ehealthcertificate.bfsa.gov.bd
+emergencynutrition.gov.bd
 etender.comillaboard.gov.bd
 file.ekshop.gov.bd
 finance.ec4j.gov.bd
@@ -49,6 +52,7 @@ his.bcc.gov.bd
 ideabank.gov.bd
 jitsi.vc8.bcc.gov.bd
 job.bsc.gov.bd
+kenduagc.gov.bd
 kuwaitmoitreehospital.gov.bd
 mail.cao.gov.bd
 mail.cevccumilla.gov.bd
@@ -67,6 +71,7 @@ netrokonatsc.gov.bd
 nmcp.gov.bd
 ntcc.gov.bd
 ntrc.gameapp.gov.bd
+office.fta.gov.bd
 pcb-doe.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 pilgrim.hajj.gov.bd
@@ -76,6 +81,7 @@ rdcd.gov.bd
 register.gameapp.gov.bd
 seamenhostel.gov.bd
 sgtc.gov.bd
+smartbangladeshrun.ekpay.gov.bd
 smsgateway.comillaboard.gov.bd
 ssl-check.ekshop.gov.bd
 stgapp.cdc.gov.bd
@@ -99,13 +105,17 @@ webmail.zsorangpur.gov.bd
 wms.ansarvdp.gov.bd
 www.amarai.gameapp.gov.bd
 www.app.dhakaeducationboard.gov.bd
+www.apply.zpmoulvibazar.gov.bd
 www.ar.gameapp.gov.bd
+www.assetgate.karmasangsthanbank.gov.bd
 www.attendance.ekshop.gov.bd
+www.banaras.zpmoulvibazar.gov.bd
 www.basurhatpourashava.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
 www.cevccumilla.gov.bd
+www.demo.certificatefuldin.gov.bd
 www.dob.ekshop.gov.bd
 www.du.gameapp.gov.bd
 www.ec4j.gov.bd
@@ -116,9 +126,11 @@ www.grs.ec4j.gov.bd
 www.mne.ec4j.gov.bd
 www.nbrelearning.gov.bd
 www.ntrc.gameapp.gov.bd
+www.office.fta.gov.bd
 www.pti.ueopat.gov.bd
 www.radhanagarup.gov.bd
 www.register.gameapp.gov.bd
+www.sc.zpmoulvibazar.gov.bd
 www.task.ec4j.gov.bd
 www.taxeszone4dhaka.gov.bd
 www.test.gameapp.gov.bd
@@ -126,5 +138,6 @@ www.verify-network.ekshop.gov.bd
 www.video.ekshop.gov.bd
 www.webmail.tihdtcb.gov.bd
 www.zsorangpur.gov.bd
+zpmoulvibazar.gov.bd
 zpsirajganj.gov.bd
 zsorangpur.gov.bd
