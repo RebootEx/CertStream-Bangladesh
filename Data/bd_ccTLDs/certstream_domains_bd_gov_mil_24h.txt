@@ -3,6 +3,7 @@ apamsv3.cabinet.gov.bd
 api.ncpds.dae.gov.bd
 app.dhakaeducationboard.gov.bd
 ar.gameapp.gov.bd
+attendance.ekshop.gov.bd
 basurhatpourashava.gov.bd
 bpmis.bsc.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -15,6 +16,7 @@ cpcontacts.zsorangpur.gov.bd
 dob.ekshop.gov.bd
 du.gameapp.gov.bd
 eff.comillaboard.gov.bd
+ehealthcertificate.bfsa.gov.bd
 etender.comillaboard.gov.bd
 file.ekshop.gov.bd
 gms.dscc.gov.bd
@@ -30,6 +32,7 @@ mail.cpa.gov.bd
 mail.nbrelearning.gov.bd
 mail.zsorangpur.gov.bd
 meeting.cabinet.gov.bd
+mymail.ekshop.gov.bd
 nbrelearning.gov.bd
 ncpds.dae.gov.bd
 netrokonatsc.gov.bd
@@ -38,6 +41,7 @@ ntrc.gameapp.gov.bd
 pcb-doe.gov.bd
 pdf.apamsv3.cabinet.gov.bd
 postcode.bpodms.gov.bd
+radhanagarup.gov.bd
 rdcd.gov.bd
 register.gameapp.gov.bd
 seamenhostel.gov.bd
@@ -58,6 +62,7 @@ webmail.zsorangpur.gov.bd
 www.amarai.gameapp.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.ar.gameapp.gov.bd
+www.attendance.ekshop.gov.bd
 www.basurhatpourashava.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cevccumilla.gov.bd
@@ -67,6 +72,7 @@ www.ecertificate.fisheries.gov.bd
 www.grs.ec4j.gov.bd
 www.nbrelearning.gov.bd
 www.ntrc.gameapp.gov.bd
+www.radhanagarup.gov.bd
 www.register.gameapp.gov.bd
 www.test.gameapp.gov.bd
 www.verify-network.ekshop.gov.bd
