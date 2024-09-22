@@ -17,6 +17,7 @@ api.pds.dae.gov.bd
 app.dhakaeducationboard.gov.bd
 app.freelancers.gov.bd
 assets.bscl.gov.bd
+attendance.ekshop.gov.bd
 attendance.gov.bd
 autodiscover.pict.gov.bd
 autodiscover.rc.gov.bd
@@ -72,6 +73,7 @@ chawkidar.digrajshahirange.gov.bd
 chittagongzoo.gov.bd
 corona.gov.bd
 coxsbazarmunicipality.gov.bd
+coxsbazarpolice.gov.bd
 cpanel.admin.msdp.gov.bd
 cpanel.ccdfpfm.gov.bd
 cpanel.dfsrcaab.gov.bd
@@ -139,6 +141,7 @@ eduhub.gov.bd
 ehealthcertificate.bfsa.gov.bd
 eksheba.gov.bd
 elicense.fireservice.gov.bd
+email.cao.gov.bd
 ems.titumircollege.gov.bd
 enim.nnsop.gov.bd
 epassport.gov.bd
@@ -273,6 +276,7 @@ powergrid.gov.bd
 practical.comillaboard.gov.bd
 program.betarcommercialservice.gov.bd
 psdsms.gov.bd
+radhanagarup.gov.bd
 raipurapaurashava.gov.bd
 raipurpourashava.gov.bd
 rajoirmunicipality.gov.bd
@@ -328,6 +332,7 @@ tekpou.gov.bd
 tele-medicine.dghs.gov.bd
 teletalkapi.dinajpurboard.gov.bd
 templeedu.gov.bd
+test.habiganjpourashava.gov.bd
 tihdtcbproj.gov.bd
 tmis.bffwt.gov.bd
 training-adp.plancomm.gov.bd
@@ -381,6 +386,7 @@ webmail.rc.gov.bd
 webmail.sac.gov.bd
 webmail.sfmmttc.gov.bd
 webmail.taxeszone12dhaka.gov.bd
+webmail.tihdtcb.gov.bd
 webmail.upsylhetholdingtax.gov.bd
 webmail.urp.gov.bd
 webmail.zsorangpur.gov.bd
@@ -393,6 +399,7 @@ www.ahsanmanzilticket.gov.bd
 www.apbn.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.attendance-server.rpi.gov.bd
+www.attendance.ekshop.gov.bd
 www.attendance.rpi.gov.bd
 www.baghaboup.narsingdilg.gov.bd
 www.baharkachnagirlshighschool.edu.bd.gbrcr.gov.bd
@@ -409,6 +416,7 @@ www.certificatechecker.pwdta.gov.bd
 www.cevccumilla.gov.bd
 www.chadniitinstitute.com.bd.zpkhulna.gov.bd
 www.chawkidar.digrajshahirange.gov.bd
+www.coxsbazarpolice.gov.bd
 www.demo.iresppw-brdb.gov.bd
 www.dewanganjpaurashava.gov.bd
 www.dfsrcaab.gov.bd
@@ -461,6 +469,7 @@ www.policy.gov.bd
 www.polytechnichighschool.edu.bd.gbrcr.gov.bd
 www.program.betarcommercialservice.gov.bd
 www.psdsms.gov.bd
+www.radhanagarup.gov.bd
 www.rajoirmunicipality.gov.bd
 www.rc.gov.bd
 www.reporting.uphcsdp.gov.bd
@@ -481,6 +490,7 @@ www.taxeszone12dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
 www.templeedu.gov.bd
+www.test.habiganjpourashava.gov.bd
 www.training.uphcsdp.gov.bd
 www.upsheba.rpi.gov.bd
 www.upsylhetholdingtax.gov.bd
@@ -488,6 +498,7 @@ www.urp.gov.bd
 www.video.ekshop.gov.bd
 www.vms.ltuvat.gov.bd
 www.vpland.munshiganjlg.gov.bd
+www.webmail.tihdtcb.gov.bd
 www.zsorangpur.gov.bd
 zpbagerhat.gov.bd
 zpdinajpur.gov.bd
