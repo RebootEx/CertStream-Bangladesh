@@ -7,6 +7,7 @@ autodiscover.ec4j.gov.bd
 bdris.dscc.gov.bd
 beanibazarpaurashava.gov.bd
 bi.apamsv3.cabinet.gov.bd
+bwdb.gov.bd
 cevappealdhaka2.gov.bd
 comillalg.gov.bd
 coxsbazarpolice.gov.bd
@@ -23,6 +24,7 @@ ec4j.gov.bd
 edu.bd.gbrcr.gov.bd
 egppplus.ddm.gov.bd
 email.cao.gov.bd
+equipment.scc.gov.bd
 ezakat.gov.bd
 finance.ec4j.gov.bd
 hris.mohfw.gov.bd
@@ -46,6 +48,7 @@ reforms.cabinet.gov.bd
 report.ezakat.gov.bd
 rpi.gov.bd
 rsojessore.gov.bd
+sccdc.scc.gov.bd
 service.ezakat.gov.bd
 sfc-dp.gov.bd
 sfcair.gov.bd
@@ -53,6 +56,7 @@ shsmc.gov.bd
 smartavijogbox.gov.bd
 smartbangladeshrun.ekpay.gov.bd
 smsc.ekshop.gov.bd
+sonod.scc.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 test.habiganjpourashava.gov.bd
@@ -69,6 +73,7 @@ www.coxsbazarpolice.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.dms.basbmed.gov.bd
 www.ec4j.gov.bd
+www.equipment.scc.gov.bd
 www.ezakat.gov.bd
 www.finance.ec4j.gov.bd
 www.hostal.rpi.gov.bd
@@ -79,5 +84,6 @@ www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.pti.ueopat.gov.bd
 www.smsc.ekshop.gov.bd
+www.sonod.scc.gov.bd
 www.test.habiganjpourashava.gov.bd
 www.trademark.bsc.gov.bd
