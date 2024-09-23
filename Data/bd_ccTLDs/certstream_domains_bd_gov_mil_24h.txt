@@ -5,6 +5,7 @@ admin4.comillalg.gov.bd
 api.bfacf-ticket.gov.bd
 autodiscover.ec4j.gov.bd
 bdris.dscc.gov.bd
+beanibazarpaurashava.gov.bd
 bi.apamsv3.cabinet.gov.bd
 cevappealdhaka2.gov.bd
 comillalg.gov.bd
@@ -43,9 +44,11 @@ sfcair.gov.bd
 shsmc.gov.bd
 smartavijogbox.gov.bd
 smartbangladeshrun.ekpay.gov.bd
+smsc.ekshop.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
 turn.vc8.bcc.gov.bd
+uat-archive-slsd.mohpw.gov.bd
 ueopat.gov.bd
 webdisk.ec4j.gov.bd
 webmail.ec4j.gov.bd
@@ -59,3 +62,4 @@ www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.pti.ueopat.gov.bd
+www.smsc.ekshop.gov.bd
