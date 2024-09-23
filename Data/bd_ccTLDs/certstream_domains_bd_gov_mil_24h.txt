@@ -7,6 +7,7 @@ autodiscover.ec4j.gov.bd
 bdris.dscc.gov.bd
 beanibazarpaurashava.gov.bd
 bi.apamsv3.cabinet.gov.bd
+bnhoc.navy.mil.bd
 bwdb.gov.bd
 cevappealdhaka2.gov.bd
 comillalg.gov.bd
@@ -47,7 +48,9 @@ mne.ec4j.gov.bd
 monitoring.apamsv3.cabinet.gov.bd
 mq.apamsv3.cabinet.gov.bd
 ntp.gov.bd
+online.bpodms.gov.bd
 oss.bepza.gov.bd
+phghs.gov.bd
 pmes.most.gov.bd
 raozanpourashava.gov.bd
 reforms.cabinet.gov.bd
@@ -75,6 +78,7 @@ webdisk.ec4j.gov.bd
 webmail.ec4j.gov.bd
 workshop.fireservice.gov.bd
 www.attendence.rpi.gov.bd
+www.bnhoc.navy.mil.bd
 www.coxsbazarpolice.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.dms.basbmed.gov.bd
