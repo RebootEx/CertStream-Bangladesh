@@ -2,6 +2,7 @@ admin.ezakat.gov.bd
 admin2.comillalg.gov.bd
 admin3.comillalg.gov.bd
 admin4.comillalg.gov.bd
+api.bfacf-ticket.gov.bd
 autodiscover.ec4j.gov.bd
 bdris.dscc.gov.bd
 bi.apamsv3.cabinet.gov.bd
@@ -17,6 +18,7 @@ disability.wewb.gov.bd
 dms.basbmed.gov.bd
 drive.bcc.gov.bd
 ec4j.gov.bd
+edu.bd.gbrcr.gov.bd
 egppplus.ddm.gov.bd
 ezakat.gov.bd
 finance.ec4j.gov.bd
@@ -25,6 +27,7 @@ hrm.dghs.gov.bd
 identity.ezakat.gov.bd
 jitsi.vc8.bcc.gov.bd
 kenduagc.gov.bd
+kms.bamis.gov.bd
 lalmohanpaurashava.gov.bd
 laravel.sfcarmy.gov.bd
 mail.ec4j.gov.bd
@@ -32,6 +35,7 @@ mmch.gov.bd
 mne.ec4j.gov.bd
 pmes.most.gov.bd
 raozanpourashava.gov.bd
+reforms.cabinet.gov.bd
 report.ezakat.gov.bd
 service.ezakat.gov.bd
 sfc-dp.gov.bd
@@ -51,6 +55,7 @@ www.dms.basbmed.gov.bd
 www.ec4j.gov.bd
 www.ezakat.gov.bd
 www.finance.ec4j.gov.bd
+www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.pti.ueopat.gov.bd
