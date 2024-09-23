@@ -24,11 +24,14 @@ ec4j.gov.bd
 edu.bd.gbrcr.gov.bd
 egppplus.ddm.gov.bd
 email.cao.gov.bd
+ems.epb-exporttracker.gov.bd
+emsserver.epb-exporttracker.gov.bd
 equipment.scc.gov.bd
 ezakat.gov.bd
 finance.ec4j.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
+hrm.iresppw-brdb.gov.bd
 identity.ezakat.gov.bd
 jitsi.vc8.bcc.gov.bd
 kenduagc.gov.bd
@@ -38,8 +41,11 @@ laravel.sfcarmy.gov.bd
 licence.gov.bd
 maheshpurpourashava.gov.bd
 mail.ec4j.gov.bd
+market.dam.gov.bd
 mmch.gov.bd
 mne.ec4j.gov.bd
+monitoring.apamsv3.cabinet.gov.bd
+mq.apamsv3.cabinet.gov.bd
 ntp.gov.bd
 oss.bepza.gov.bd
 pmes.most.gov.bd
@@ -79,6 +85,7 @@ www.finance.ec4j.gov.bd
 www.hostal.rpi.gov.bd
 www.hostel-sever.rpi.gov.bd
 www.hostel.rpi.gov.bd
+www.hrm.iresppw-brdb.gov.bd
 www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
