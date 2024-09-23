@@ -36,11 +36,14 @@ laravel.sfcarmy.gov.bd
 mail.ec4j.gov.bd
 mmch.gov.bd
 mne.ec4j.gov.bd
+ntp.gov.bd
+oss.bepza.gov.bd
 pmes.most.gov.bd
 raozanpourashava.gov.bd
 reforms.cabinet.gov.bd
 report.ezakat.gov.bd
 rpi.gov.bd
+rsojessore.gov.bd
 service.ezakat.gov.bd
 sfc-dp.gov.bd
 sfcair.gov.bd
@@ -50,6 +53,7 @@ smartbangladeshrun.ekpay.gov.bd
 smsc.ekshop.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
+test.habiganjpourashava.gov.bd
 trademark.bsc.gov.bd
 turn.vc8.bcc.gov.bd
 uat-archive-slsd.mohpw.gov.bd
@@ -72,4 +76,5 @@ www.laravel.sfcarmy.gov.bd
 www.mne.ec4j.gov.bd
 www.pti.ueopat.gov.bd
 www.smsc.ekshop.gov.bd
+www.test.habiganjpourashava.gov.bd
 www.trademark.bsc.gov.bd
