@@ -1,36 +1,36 @@
 
 
 ---
-- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_09_23
+- #### 🖨️ **Stats** `24Hr`⏲️ ➼ 2024_09_24
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +13793452
+[+] New/ReNewed SSL Certs (ALL): +1490873
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +2738
-[+] New/ReNewed SSL Certs (Edu): +902
-[+] New/ReNewed SSL Certs (Gov|Mil): +100
-[+] New/ReNewed SSL Certs (ISPs): +3
+[+] New/ReNewed SSL Certs (ALL): +127
+[+] New/ReNewed SSL Certs (Edu): +27
+[+] New/ReNewed SSL Certs (Gov|Mil): +11
+[+] New/ReNewed SSL Certs (ISPs): +0
 
 
 ```
 
 ---
-- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_09_23 <--> 2024_09_16
+- #### 🖨️ **Stats** `7Days`⏲️ ➼ 2024_09_24 <--> 2024_09_17
 ```console
 
 
 --> 🌐 Total
-[+] New/ReNewed SSL Certs (ALL): +89447919
+[+] New/ReNewed SSL Certs (ALL): +98464154
 
 
 --> 🇧🇩 bd_ccTLDs
-[+] New/ReNewed SSL Certs (ALL): +12928
-[+] New/ReNewed SSL Certs (Edu): +4429
-[+] New/ReNewed SSL Certs (Gov|Mil): +537
+[+] New/ReNewed SSL Certs (ALL): +14578
+[+] New/ReNewed SSL Certs (Edu): +5001
+[+] New/ReNewed SSL Certs (Gov|Mil): +579
 [+] New/ReNewed SSL Certs (ISPs): +11
 
 
