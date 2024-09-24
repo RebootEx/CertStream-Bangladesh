@@ -19,6 +19,7 @@ icsetep.ugc.gov.bd
 iph.gov.bd
 jgmc.gov.bd
 kpik.gov.bd
+laravel.sfc-dp.gov.bd
 lmis.nmcp.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 maheshpurpourashava.gov.bd
@@ -27,6 +28,8 @@ mail.xiclassadmission.gov.bd
 mail.zpsatkhira.gov.bd
 mq.apamsv3.cabinet.gov.bd
 newetif.bise-ctg.gov.bd
+online.bpodms.gov.bd
+policy.gov.bd
 specialbranch.gov.bd
 srijon.gov.bd
 upmymensinghholdingtax.gov.bd
@@ -39,6 +42,7 @@ webmail.zpsatkhira.gov.bd
 www.hrm.iresppw-brdb.gov.bd
 www.icsetep.ugc.gov.bd
 www.kpik.gov.bd
+www.laravel.sfc-dp.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
 www.srijon.gov.bd
 www.xiclassadmission.gov.bd
