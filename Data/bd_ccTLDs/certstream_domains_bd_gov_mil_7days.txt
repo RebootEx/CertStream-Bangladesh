@@ -127,6 +127,7 @@ dch.gov.bd
 ddpr.gov.bd
 demo.certificatefuldin.gov.bd
 demo.iresppw-brdb.gov.bd
+demo.taxeszone6.gov.bd
 dengue.gov.bd
 dev.portal.dgme.gov.bd
 dewanganjpaurashava.gov.bd
@@ -158,6 +159,7 @@ epassport.gov.bd
 equipment.scc.gov.bd
 eregistration.gov.bd
 erequ.mowr.gov.bd
+ereturn.taxeszone6.gov.bd
 esifjsc.comillaboard.gov.bd
 etender.comillaboard.gov.bd
 evm.gov.bd
@@ -198,6 +200,7 @@ ilab.gov.bd
 inheritance.gov.bd
 ipemis.dpe.gov.bd
 jamalpurttc.gov.bd
+jessoreboard.gov.bd
 jitsi.vc8.bcc.gov.bd
 job.bsc.gov.bd
 journal.dhakadental.gov.bd
@@ -249,6 +252,7 @@ mail.psdsms.gov.bd
 mail.sac.gov.bd
 mail.sfmmttc.gov.bd
 mail.taxeszone12dhaka.gov.bd
+mail.taxeszone6.gov.bd
 mail.tc.dghs.gov.bd
 mail.upsylhetholdingtax.gov.bd
 mail.vatdhkeast.gov.bd
@@ -275,6 +279,7 @@ ncc.gov.bd
 ncpds.dae.gov.bd
 netrokonatsc.gov.bd
 network.ekshop.gov.bd
+ngosherpur.gov.bd
 nilmrc.gov.bd
 nilmrcbd.gov.bd
 nilphamarittc.gov.bd
@@ -363,8 +368,10 @@ taxeszone12dhaka.gov.bd
 taxeszone20dhaka.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone4dhaka.gov.bd
+taxeszone6.gov.bd
 taxeszone9dhaka.gov.bd
 tds.taxeszone13dhaka.gov.bd
+tds.taxeszone6.gov.bd
 teachers.gov.bd
 tekpou.gov.bd
 tele-medicine.dghs.gov.bd
@@ -373,6 +380,7 @@ test.gameapp.gov.bd
 test.habiganjpourashava.gov.bd
 testing.award.smartbangladesh.gov.bd
 tihdtcbproj.gov.bd
+track.bpodms.gov.bd
 trademark.bsc.gov.bd
 ttms.dpe.gov.bd
 turn.vc8.bcc.gov.bd
@@ -383,11 +391,13 @@ ugv2024.gnc.gov.bd
 ullaparapaurashava.gov.bd
 unosullah.gov.bd
 upmymensinghholdingtax.gov.bd
+uppabnaholdingtax.gov.bd
 upsylhetholdingtax.gov.bd
 useobagraj.gov.bd
 uttoradhikar.gov.bd
 uzparaihazar.gov.bd
 vatdhkeast.gov.bd
+vc2.bcc.gov.bd
 vcbig.bcc.gov.bd
 verify-network.ekshop.gov.bd
 video.ekshop.gov.bd
@@ -458,6 +468,7 @@ www.cedp.gbrcr.gov.bd
 www.cevccumilla.gov.bd
 www.cevdebidwar.gov.bd
 www.cevta.gov.bd
+www.chhaikola.uppabnaholdingtax.gov.bd
 www.chicd.gov.bd
 www.chittagongvat.gov.bd
 www.coxsbazarpolice.gov.bd
@@ -465,6 +476,7 @@ www.customsvaluation.gov.bd
 www.dch.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.demo.iresppw-brdb.gov.bd
+www.demo.taxeszone6.gov.bd
 www.dewanganjpaurashava.gov.bd
 www.dfsrcaab.gov.bd
 www.digital.bishwanathpaurashava.gov.bd
@@ -478,6 +490,7 @@ www.elab.fisheries.gov.bd
 www.epassport.gov.bd
 www.equipment.scc.gov.bd
 www.eregistration.gov.bd
+www.ereturn.taxeszone6.gov.bd
 www.ezakat.gov.bd
 www.finance.ec4j.gov.bd
 www.ghtcb.melandahbhata.gov.bd
@@ -548,7 +561,9 @@ www.task.ec4j.gov.bd
 www.taxeszone12dhaka.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone4dhaka.gov.bd
+www.taxeszone6.gov.bd
 www.tds.taxeszone13dhaka.gov.bd
+www.tds.taxeszone6.gov.bd
 www.test.gameapp.gov.bd
 www.test.habiganjpourashava.gov.bd
 www.trademark.bsc.gov.bd
