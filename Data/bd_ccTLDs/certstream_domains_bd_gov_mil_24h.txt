@@ -1,4 +1,5 @@
 accounts.bise-ctg.gov.bd
+apams.cabinet.gov.bd
 api-gateway.lams-stg.land.gov.bd
 api-manager.lams-stg.land.gov.bd
 apps.ekpass.gov.bd
@@ -60,8 +61,10 @@ network.ekshop.gov.bd
 newetif.bise-ctg.gov.bd
 ngosherpur.gov.bd
 online.bpodms.gov.bd
+phghs.gov.bd
 pims.dgfood.gov.bd
 policy.gov.bd
+qr.ekshop.gov.bd
 reforms.cabinet.gov.bd
 saejp.gov.bd
 smartschoolbus.gov.bd
