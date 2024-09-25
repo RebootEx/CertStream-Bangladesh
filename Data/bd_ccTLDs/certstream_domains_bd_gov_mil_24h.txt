@@ -3,6 +3,7 @@ apams.cabinet.gov.bd
 api-gateway.lams-stg.land.gov.bd
 api-manager.lams-stg.land.gov.bd
 autodiscover.mushroomproject.gov.bd
+bargunamunicipality.gov.bd
 bise-ctg.gov.bd
 bkspds.gov.bd
 cevdebidwar.gov.bd
@@ -21,6 +22,7 @@ cpcontacts.msdp.gov.bd
 cpcontacts.mushroomproject.gov.bd
 demo.taxeszone6.gov.bd
 dmpi.gov.bd
+dt.ekshop.gov.bd
 erequ.mowr.gov.bd
 ereturn.taxeszone6.gov.bd
 helpline.comillaboard.gov.bd
@@ -36,6 +38,7 @@ muladimunicipality.gov.bd
 mushroomproject.gov.bd
 ngosherpur.gov.bd
 nmcp.gov.bd
+nohs.navy.mil.bd
 pims.dgfood.gov.bd
 registry-slsd.mohpw.gov.bd
 sgtc.gov.bd
@@ -59,9 +62,11 @@ www.chittagongvat.gov.bd
 www.cms.cpadigital.gov.bd
 www.demo.taxeszone6.gov.bd
 www.dmpi.gov.bd
+www.dt.ekshop.gov.bd
 www.ereturn.taxeszone6.gov.bd
 www.msdp.gov.bd
 www.mushroomproject.gov.bd
+www.nohs.navy.mil.bd
 www.smartchapitalaup.gov.bd
 www.taxeszone6.gov.bd
 www.tds.taxeszone6.gov.bd
