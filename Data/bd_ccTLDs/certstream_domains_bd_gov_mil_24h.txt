@@ -5,6 +5,7 @@ api-manager.lams-stg.land.gov.bd
 autodiscover.acland.gov.bd
 autodiscover.mushroomproject.gov.bd
 bargunamunicipality.gov.bd
+beta.nmcp.gov.bd
 bise-ctg.gov.bd
 bkspds.gov.bd
 blpa.ekpay.gov.bd
@@ -64,6 +65,7 @@ sgtc.gov.bd
 singramunicipality.gov.bd
 smart-road.gov.bd
 smartchapitalaup.gov.bd
+soltrack.gov.bd
 taxeszone6.gov.bd
 tds.taxeszone6.gov.bd
 test-api.bfacf-ticket.gov.bd
