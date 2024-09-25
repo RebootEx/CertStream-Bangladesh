@@ -28,6 +28,8 @@ erequ.mowr.gov.bd
 ereturn.taxeszone6.gov.bd
 helpline.comillaboard.gov.bd
 jessoreboard.gov.bd
+k8s.dlrms.land.gov.bd
+k8s.lams.land.gov.bd
 lmis.nmcp.gov.bd
 mail.cevdebidwar.gov.bd
 mail.msdp.gov.bd
@@ -50,6 +52,7 @@ smart-road.gov.bd
 smartchapitalaup.gov.bd
 taxeszone6.gov.bd
 tds.taxeszone6.gov.bd
+test-api.bfacf-ticket.gov.bd
 track.bpodms.gov.bd
 ugv2024.gnc.gov.bd
 upmymensinghholdingtax.gov.bd
