@@ -2,6 +2,7 @@ aclandmotijheelcircle.gov.bd
 apams.cabinet.gov.bd
 api-gateway.lams-stg.land.gov.bd
 api-manager.lams-stg.land.gov.bd
+autodiscover.acland.gov.bd
 autodiscover.mushroomproject.gov.bd
 bargunamunicipality.gov.bd
 bise-ctg.gov.bd
@@ -14,11 +15,15 @@ chittagongvat.gov.bd
 ci-slsd.mohpw.gov.bd
 classvi24.dinajpurboard.gov.bd
 cms.cpadigital.gov.bd
+cpanel.acland.gov.bd
 cpanel.dmpi.gov.bd
 cpanel.msdp.gov.bd
 cpanel.mushroomproject.gov.bd
+cpanel.zpdinajpur.gov.bd
+cpcalendars.acland.gov.bd
 cpcalendars.msdp.gov.bd
 cpcalendars.mushroomproject.gov.bd
+cpcontacts.acland.gov.bd
 cpcontacts.msdp.gov.bd
 cpcontacts.mushroomproject.gov.bd
 demo.taxeszone6.gov.bd
@@ -27,10 +32,13 @@ dt.ekshop.gov.bd
 erequ.mowr.gov.bd
 ereturn.taxeszone6.gov.bd
 helpline.comillaboard.gov.bd
+jamalpurtsc.gov.bd
 jessoreboard.gov.bd
+judipay.gov.bd
 k8s.dlrms.land.gov.bd
 k8s.lams.land.gov.bd
 lmis.nmcp.gov.bd
+mail.acland.gov.bd
 mail.cevdebidwar.gov.bd
 mail.msdp.gov.bd
 mail.mushroomproject.gov.bd
@@ -46,6 +54,8 @@ nmcp.gov.bd
 nohs.navy.mil.bd
 pims.dgfood.gov.bd
 registry-slsd.mohpw.gov.bd
+registry.dlrms.land.gov.bd
+registry.lams.land.gov.bd
 rpi.gov.bd
 sgtc.gov.bd
 smart-road.gov.bd
@@ -59,10 +69,13 @@ upmymensinghholdingtax.gov.bd
 user.tds.taxeszone3ctg.gov.bd
 visipass.farmbroadcast.gov.bd
 volunteer.ekshop.gov.bd
+webdisk.acland.gov.bd
 webdisk.msdp.gov.bd
 webdisk.mushroomproject.gov.bd
+webmail.acland.gov.bd
 webmail.dmpi.gov.bd
 webmail.msdp.gov.bd
+webmail.zpdinajpur.gov.bd
 www.cevdebidwar.gov.bd
 www.cevta.gov.bd
 www.chicd.gov.bd
@@ -84,3 +97,5 @@ www.tds.taxeszone6.gov.bd
 www.ugv2024.gnc.gov.bd
 www.visipass.farmbroadcast.gov.bd
 www.volunteer.ekshop.gov.bd
+www.zpdinajpur.gov.bd
+zpdinajpur.gov.bd
