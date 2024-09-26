@@ -3,8 +3,10 @@ autodiscover.acland.gov.bd
 blpa.ekpay.gov.bd
 cafoerd.gov.bd
 cpanel.acland.gov.bd
+cpanel.zpdinajpur.gov.bd
 cpcalendars.acland.gov.bd
 cpcontacts.acland.gov.bd
+global.xiclassadmission.gov.bd
 jamalpurtsc.gov.bd
 jobportal.sfmmttc.gov.bd
 k8s.dlrms.land.gov.bd
@@ -12,9 +14,16 @@ k8s.lams.land.gov.bd
 macademy.gov.bd
 mail.acland.gov.bd
 mciadmin.mcishr.dghs.gov.bd
+minio-deb.xiclassadmission.gov.bd
+my.ngosherpur.gov.bd
 registry.lams.land.gov.bd
+singramunicipality.gov.bd
 taxeszone22dhaka.gov.bd
 test-api.bfacf-ticket.gov.bd
 webdisk.acland.gov.bd
 webmail.acland.gov.bd
+webmail.zpdinajpur.gov.bd
 www.jobportal.sfmmttc.gov.bd
+www.my.ngosherpur.gov.bd
+www.zpdinajpur.gov.bd
+zpdinajpur.gov.bd
