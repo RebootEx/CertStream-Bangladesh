@@ -50,6 +50,7 @@ blpa.ekpay.gov.bd
 bnhoc.navy.mil.bd
 borhamganjcollege.gov.bd
 bpmis.bsc.gov.bd
+bsc.gov.bd
 bsfmstu.gameapp.gov.bd
 bwdb.gov.bd
 cafoagriculture.gov.bd
@@ -65,6 +66,7 @@ cevappealdhaka2.gov.bd
 cevccomilla.gov.bd
 cevccumilla.gov.bd
 cevdebidwar.gov.bd
+cevdsc.gov.bd
 cevrajshahi.gov.bd
 cevta.gov.bd
 cgbdsydney.gov.bd
@@ -121,6 +123,7 @@ cpcontacts.xiclassadmission.gov.bd
 cpcontacts.zpsatkhira.gov.bd
 cpcontacts.zsorangpur.gov.bd
 ctgtaxeszone2.gov.bd
+cttcdmp.gov.bd
 customsvaluation.gov.bd
 dashboard.ipemis.dpe.gov.bd
 dch.gov.bd
@@ -131,6 +134,7 @@ dewanganjpaurashava.gov.bd
 dhakaeducationboard.gov.bd
 digidash.bhtpa.gov.bd
 disability.wewb.gov.bd
+dknvat.gov.bd
 dmpi.gov.bd
 dms.basbmed.gov.bd
 dnbc.gov.bd
@@ -143,6 +147,7 @@ du.gameapp.gov.bd
 dumainup.faridpurlg.gov.bd
 ec4j.gov.bd
 edu.bd.gbrcr.gov.bd
+eequip.mowr.gov.bd
 eff.comillaboard.gov.bd
 egppplus.ddm.gov.bd
 ehealthcertificate.bfsa.gov.bd
@@ -188,6 +193,7 @@ ideabank.gov.bd
 identity.ezakat.gov.bd
 idp.hajj.gov.bd
 inheritance.gov.bd
+inventory.rmch.gov.bd
 ipemis.dpe.gov.bd
 iph.gov.bd
 jamalpurtsc.gov.bd
@@ -226,9 +232,11 @@ mail.cao.gov.bd
 mail.cbc.gov.bd
 mail.cevccumilla.gov.bd
 mail.cevdebidwar.gov.bd
+mail.cevdsc.gov.bd
 mail.cevrajshahi.gov.bd
 mail.cpa.gov.bd
 mail.cpatos.gov.bd
+mail.cttcdmp.gov.bd
 mail.customsvaluation.gov.bd
 mail.dch.gov.bd
 mail.dnbc.gov.bd
@@ -268,6 +276,7 @@ my.ngosherpur.gov.bd
 mygov.gov.bd
 mymail.ekshop.gov.bd
 nalitabaritsc.gov.bd
+namecorrection.dinajpurboard.gov.bd
 nbrelearning.gov.bd
 ncc.gov.bd
 ncpds.dae.gov.bd
@@ -315,6 +324,7 @@ report.ezakat.gov.bd
 rpi.gov.bd
 rsojessore.gov.bd
 saejp.gov.bd
+savargc.gov.bd
 scan.jessoreboard.gov.bd
 sccdc.scc.gov.bd
 schoolform.comillaboard.gov.bd
@@ -404,6 +414,7 @@ webmail.ec4j.gov.bd
 webmail.hris.msdp.gov.bd
 webmail.msdp.gov.bd
 webmail.nilmrcbd.gov.bd
+webmail.savargc.gov.bd
 webmail.srijon.gov.bd
 webmail.taxeszone12dhaka.gov.bd
 webmail.tihdtcb.gov.bd
@@ -415,6 +426,7 @@ whm.nilmrcbd.gov.bd
 wms.ansarvdp.gov.bd
 workshop.fireservice.gov.bd
 www.acrdoc.bcms.gov.bd
+www.admin.bsc.gov.bd
 www.admin.msdp.gov.bd
 www.admin.saejp.gov.bd
 www.ahsanmanzilticket.gov.bd
@@ -435,6 +447,7 @@ www.cdc.gov.bd
 www.cedp.gbrcr.gov.bd
 www.cevccumilla.gov.bd
 www.cevdebidwar.gov.bd
+www.cevdsc.gov.bd
 www.cevrajshahi.gov.bd
 www.cevta.gov.bd
 www.chhaikola.uppabnaholdingtax.gov.bd
@@ -442,10 +455,12 @@ www.chicd.gov.bd
 www.chittagongvat.gov.bd
 www.cms.cpadigital.gov.bd
 www.coxsbazarpolice.gov.bd
+www.cttcdmp.gov.bd
 www.customsvaluation.gov.bd
 www.dch.gov.bd
 www.demo.certificatefuldin.gov.bd
 www.demo.taxeszone6.gov.bd
+www.department.bsc.gov.bd
 www.dev-sp-server.rpi.gov.bd
 www.dev-sp.rpi.gov.bd
 www.dewanganjpaurashava.gov.bd
@@ -465,7 +480,9 @@ www.equipment.scc.gov.bd
 www.ereturn.taxeszone6.gov.bd
 www.evm.gov.bd
 www.ezakat.gov.bd
+www.federal.bsc.gov.bd
 www.finance.ec4j.gov.bd
+www.forum.bsc.gov.bd
 www.ghtcb.melandahbhata.gov.bd
 www.grs.ec4j.gov.bd
 www.hariarkuthidm.edu.bd.gbrcr.gov.bd
@@ -478,6 +495,7 @@ www.hrm.iresppw-brdb.gov.bd
 www.hrm.mfstc.gov.bd
 www.icsetep.ugc.gov.bd
 www.ideabank.gov.bd
+www.inventory.rmch.gov.bd
 www.jobportal.sfmmttc.gov.bd
 www.keranirhatalikhlasdm.edu.bd.gbrcr.gov.bd
 www.khulnavat.gov.bd
@@ -508,6 +526,7 @@ www.pay.rpi.gov.bd
 www.pti.ueopat.gov.bd
 www.radhanagarup.gov.bd
 www.register.gameapp.gov.bd
+www.savargc.gov.bd
 www.sc.zpmoulvibazar.gov.bd
 www.scan.jessoreboard.gov.bd
 www.smartchapitalaup.gov.bd
