@@ -216,6 +216,7 @@ autodiscover.sdsdmadrasah.edu.bd
 autodiscover.spahs.edu.bd
 autodiscover.spghighschool.edu.bd
 autodiscover.srsc.edu.bd
+autodiscover.tdcollege.edu.bd
 autodiscover.teguriahs.edu.bd
 autodiscover.thaneswarsc.edu.bd
 autodiscover.ucmldm.edu.bd
@@ -641,6 +642,7 @@ cpanel.sii.edu.bd
 cpanel.spahs.edu.bd
 cpanel.spghighschool.edu.bd
 cpanel.srsc.edu.bd
+cpanel.tdcollege.edu.bd
 cpanel.teguriahs.edu.bd
 cpanel.thaneswarsc.edu.bd
 cpanel.ucmldm.edu.bd
@@ -730,6 +732,7 @@ cpcalendars.sogunaidm.edu.bd
 cpcalendars.spahs.edu.bd
 cpcalendars.spghighschool.edu.bd
 cpcalendars.srsc.edu.bd
+cpcalendars.tdcollege.edu.bd
 cpcalendars.teguriahs.edu.bd
 cpcalendars.thaneswarsc.edu.bd
 cpcalendars.ucmldm.edu.bd
@@ -814,6 +817,7 @@ cpcontacts.sogunaidm.edu.bd
 cpcontacts.spahs.edu.bd
 cpcontacts.spghighschool.edu.bd
 cpcontacts.srsc.edu.bd
+cpcontacts.tdcollege.edu.bd
 cpcontacts.teguriahs.edu.bd
 cpcontacts.thaneswarsc.edu.bd
 cpcontacts.ucmldm.edu.bd
@@ -861,6 +865,7 @@ dbmc.edu.bd
 dbmss.edu.bd
 dbuhschool.edu.bd
 dcgpsc.edu.bd
+dcpt.edu.bd
 dcu.edu.bd
 ddam.edu.bd
 ddc.edu.bd
@@ -1040,6 +1045,7 @@ gahs.edu.bd
 gahschool.edu.bd
 gajaghantasc.edu.bd
 gandhamaruasc.edu.bd
+garbhangasgschool.edu.bd
 gayhattasihighschool.edu.bd
 gazaria.edu.bd
 gazi.agranivn.edu.bd
@@ -1354,6 +1360,7 @@ kmcchs.edu.bd
 kmfgcmhs.edu.bd
 kmghschool.edu.bd
 kmhwc.edu.bd
+kmnghs.edu.bd
 kmuc.edu.bd
 knahs.edu.bd
 knghighschool.edu.bd
@@ -1414,6 +1421,7 @@ library.old.ulab.edu.bd
 likama.edu.bd
 lmhs.edu.bd
 lmsdemo.bhsch.edu.bd
+lna.edu.bd
 lohaniparahs.edu.bd
 louhajanghs.edu.bd
 lshs64.edu.bd
@@ -1541,6 +1549,7 @@ mail.kharjanahsamad.edu.bd
 mail.khphs.edu.bd
 mail.khsahs.edu.bd
 mail.kmfgcmhs.edu.bd
+mail.kmnghs.edu.bd
 mail.knahs.edu.bd
 mail.lakshmanpurcollegiate.edu.bd
 mail.lghschool.edu.bd
@@ -1592,6 +1601,7 @@ mail.spahs.edu.bd
 mail.spghighschool.edu.bd
 mail.srsc.edu.bd
 mail.tahaifm.edu.bd
+mail.tdcollege.edu.bd
 mail.teguriahs.edu.bd
 mail.testdiuweb.diu.edu.bd
 mail.thaneswarsc.edu.bd
@@ -1655,6 +1665,7 @@ mhsp.edu.bd
 mighs.edu.bd
 mirapar.auc.edu.bd
 miraparahighschool.auc.edu.bd
+mirpurghs.edu.bd
 mirzarcharhs.edu.bd
 misiraaghs.edu.bd
 mistnu.edu.bd
@@ -1909,6 +1920,8 @@ portal.phsrt.edu.bd
 portal.pingnahs.edu.bd
 portal.porbapoulihs.edu.bd
 portal.raghunathpurhs.edu.bd
+portal.rauhs.edu.bd
+portal.razabariahs.edu.bd
 portal.rcbm.edu.bd
 portal.rghscr.edu.bd
 portal.rrghs.edu.bd
@@ -1916,6 +1929,8 @@ portal.sakhuahighschool.edu.bd
 portal.sarkarhatnazaralirupzanhighschool.edu.bd
 portal.sbhs119919.edu.bd
 portal.sbuhs.edu.bd
+portal.shaheedjahangirhs.edu.bd
+portal.shalmaradakhilmadrasah.edu.bd
 portal.sherkolesahs.edu.bd
 portal.shitalpurhighschool.edu.bd
 portal.sof.edu.bd
@@ -1966,11 +1981,13 @@ ramnagarss.edu.bd
 rampurhighs.edu.bd
 rampurhs66.edu.bd
 rampurhschool.edu.bd
+rangdiaschoolandcollege.edu.bd
 ranibghschool.edu.bd
 rapghs.edu.bd
 rashedhasanhighschool.edu.bd
 rasschool.edu.bd
 rasulpurbn.edu.bd
+rauhs.edu.bd
 rbdmjuk.edu.bd
 rbghs.edu.bd
 rbghschu.edu.bd
@@ -2123,6 +2140,7 @@ shahidsmriti.edu.bd
 shahwaliullahinstitute.edu.bd
 shakuaibhsc.edu.bd
 shalbaribhs.edu.bd
+shalmaradakhilmadrasah.edu.bd
 shankarbatighs.edu.bd
 sharifabadcollege.edu.bd
 shashikarhighschool.edu.bd
@@ -2251,6 +2269,7 @@ tararmelaschool.edu.bd
 tarass.edu.bd
 tawfika.edu.bd
 tcti.edu.bd
+tdcollege.edu.bd
 te.just.edu.bd
 tebariasherkandigirlsschool.edu.bd
 tech.ghiorgovtcollege.edu.bd
@@ -2410,6 +2429,7 @@ webdisk.sheikherhaths.edu.bd
 webdisk.spahs.edu.bd
 webdisk.spghighschool.edu.bd
 webdisk.srsc.edu.bd
+webdisk.tdcollege.edu.bd
 webdisk.teguriahs.edu.bd
 webdisk.thaneswarsc.edu.bd
 webdisk.ucmldm.edu.bd
@@ -2496,6 +2516,7 @@ webmail.lakers.edu.bd
 webmail.lakshmanpurcollegiate.edu.bd
 webmail.lghschool.edu.bd
 webmail.mghschoolg.edu.bd
+webmail.mirpurghs.edu.bd
 webmail.misiraaghs.edu.bd
 webmail.mohanamangalpurhs.edu.bd
 webmail.mukmmd.edu.bd
@@ -2525,6 +2546,7 @@ webmail.sii.edu.bd
 webmail.spahs.edu.bd
 webmail.spghighschool.edu.bd
 webmail.srsc.edu.bd
+webmail.tdcollege.edu.bd
 webmail.teguriahs.edu.bd
 webmail.thaneswarsc.edu.bd
 webmail.ucmldm.edu.bd
@@ -2801,6 +2823,7 @@ www.gaac.edu.bd
 www.gaghs.edu.bd
 www.gahschool.edu.bd
 www.gandhamaruasc.edu.bd
+www.garbhangasgschool.edu.bd
 www.gazi.agranivn.edu.bd
 www.gazirhatdeco.edu.bd
 www.gbgc.edu.bd
@@ -2912,6 +2935,7 @@ www.kkaziziass.edu.bd.jspgirls.edu.bd
 www.kkmhs.edu.bd
 www.kmfgcmhs.edu.bd
 www.kmhwc.edu.bd
+www.kmnghs.edu.bd
 www.knahs.edu.bd
 www.konaparasc.edu.bd
 www.kphgs.edu.bd
@@ -2964,6 +2988,7 @@ www.mgt.tejgaoncollege.edu.bd
 www.mhsp.edu.bd
 www.mirapar.auc.edu.bd
 www.miraparahighschool.auc.edu.bd
+www.mirpurghs.edu.bd
 www.misiraaghs.edu.bd
 www.mistnu.edu.bd
 www.mitunursingcollege.edu.bd
@@ -3206,6 +3231,7 @@ www.talkhari1984.edu.bd
 www.talukcharduaniss.edu.bd.jspgirls.edu.bd
 www.tamizakhatungovtghs.edu.bd
 www.tangdukm.edu.bd
+www.tdcollege.edu.bd
 www.tech.ghiorgovtcollege.edu.bd
 www.teguriahs.edu.bd
 www.tehi2023.iitju.edu.bd
