@@ -19,6 +19,7 @@ api.ncpds.dae.gov.bd
 app.dhakaeducationboard.gov.bd
 apps.ekpass.gov.bd
 ar.gameapp.gov.bd
+asi.dfsrcaab.gov.bd
 assetgate.karmasangsthanbank.gov.bd
 attendance.ekshop.gov.bd
 autodiscover.acland.gov.bd
@@ -47,6 +48,7 @@ bsc.gov.bd
 bsfmstu.gameapp.gov.bd
 bwdb.gov.bd
 cafoerd.gov.bd
+card.mcishr.dghs.gov.bd
 cbc.gov.bd
 cd.dlrms.land.gov.bd
 cd.lams.land.gov.bd
@@ -62,6 +64,7 @@ cevrajshahi.gov.bd
 cevta.gov.bd
 cgbdsydney.gov.bd
 challan.gov.bd
+chattogram.gov.bd
 chicd.gov.bd
 chittagongvat.gov.bd
 chtpaimc.gov.bd
@@ -124,6 +127,7 @@ drive.bcc.gov.bd
 dt.ekshop.gov.bd
 du.gameapp.gov.bd
 dumainup.faridpurlg.gov.bd
+ebmeb.gov.bd
 ec4j.gov.bd
 edu.bd.gbrcr.gov.bd
 eequip.mowr.gov.bd
@@ -148,6 +152,7 @@ file.ekshop.gov.bd
 finance.ec4j.gov.bd
 finance.gov.bd
 freelancer.doict.gov.bd
+gaibandhapourashava.gov.bd
 gis.bwdb.gov.bd
 gjkagc.gov.bd
 global.xiclassadmission.gov.bd
@@ -243,6 +248,7 @@ mygov.gov.bd
 mymail.ekshop.gov.bd
 nalitabaritsc.gov.bd
 namecorrection.dinajpurboard.gov.bd
+nationalmuseumticket.gov.bd
 nbrelearning.gov.bd
 ncpds.dae.gov.bd
 netrokonatsc.gov.bd
@@ -309,6 +315,8 @@ srijon.gov.bd
 ssl-check.ekshop.gov.bd
 staging.award.smartbangladesh.gov.bd
 stgapp.cdc.gov.bd
+sundargonjpourashava.gov.bd
+surgeryrpmc.gov.bd
 sylhetboard.gov.bd
 task.ec4j.gov.bd
 taxeszone22dhaka.gov.bd
@@ -378,6 +386,7 @@ www.amarai.gameapp.gov.bd
 www.app.dhakaeducationboard.gov.bd
 www.apply.zpmoulvibazar.gov.bd
 www.ar.gameapp.gov.bd
+www.asi.dfsrcaab.gov.bd
 www.assetgate.karmasangsthanbank.gov.bd
 www.attendance.ekshop.gov.bd
 www.attendence.rpi.gov.bd
@@ -450,6 +459,7 @@ www.msdp.gov.bd
 www.mushroomproject.gov.bd
 www.my.ngosherpur.gov.bd
 www.nandail.upmymensinghholdingtax.gov.bd
+www.nationalmuseumticket.gov.bd
 www.nbrelearning.gov.bd
 www.network.ekshop.gov.bd
 www.nilmrc.gov.bd
