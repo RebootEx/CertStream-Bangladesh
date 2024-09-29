@@ -2,6 +2,7 @@ amarai.gameapp.gov.bd
 ar.gameapp.gov.bd
 autodiscover.cafodefence.gov.bd
 bepza.gov.bd
+bkspds.gov.bd
 bogura.gov.bd
 brta.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -19,6 +20,7 @@ data-slsd.mohpw.gov.bd
 dss-dev.niseee.gov.bd
 du.gameapp.gov.bd
 dyd-dev.niseee.gov.bd
+ebook.cmmc.gov.bd
 email.ops.a2i.gov.bd
 ems.titumircollege.gov.bd
 financialinclusion.gov.bd
@@ -42,11 +44,13 @@ nise-dev.niseee.gov.bd
 ntrc.gameapp.gov.bd
 nu-dev.niseee.gov.bd
 onlinepayment.bise-ctg.gov.bd
+profile.nins.gov.bd
 register.gameapp.gov.bd
 report.gov.bd
 ror.dc-rangamati.gov.bd
 rpl-dev.niseee.gov.bd
 satkhiratsc.gov.bd
+sdg.gov.bd
 smartandikot.gov.bd
 smartrajshahi.gov.bd
 smef-dev.niseee.gov.bd
@@ -67,6 +71,7 @@ www.gis.beautifulbangladesh.gov.bd
 www.gisadmin.beautifulbangladesh.gov.bd
 www.mail.ar.gameapp.gov.bd
 www.ntrc.gameapp.gov.bd
+www.profile.nins.gov.bd
 www.register.gameapp.gov.bd
 www.smartandikot.gov.bd
 www.test.gameapp.gov.bd
