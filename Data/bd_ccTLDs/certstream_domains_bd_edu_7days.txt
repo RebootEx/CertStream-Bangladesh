@@ -155,6 +155,7 @@ autodiscover.boahs.edu.bd
 autodiscover.cbbnj.edu.bd
 autodiscover.ddam.edu.bd
 autodiscover.gaac.edu.bd
+autodiscover.gkghs.edu.bd
 autodiscover.govtnacollege.edu.bd
 autodiscover.gsghs.edu.bd
 autodiscover.gzsmc.edu.bd
@@ -293,6 +294,7 @@ bhaibonchharacollege.edu.bd
 bhakhs.edu.bd
 bhakoddahs.edu.bd
 bhalukgpdm.edu.bd
+bharateswarihomes.edu.bd
 bhataiss.edu.bd
 bhatkhairhs.edu.bd
 bhelajanhs.edu.bd
@@ -496,6 +498,7 @@ cpanel.dhsbirampur.edu.bd
 cpanel.fkhsbaliadangi.edu.bd
 cpanel.gaac.edu.bd
 cpanel.gdnschs.edu.bd
+cpanel.gkghs.edu.bd
 cpanel.govtnacollege.edu.bd
 cpanel.gsghs.edu.bd
 cpanel.gssc.edu.bd
@@ -585,6 +588,7 @@ cpcalendars.ddam.edu.bd
 cpcalendars.fkhsbaliadangi.edu.bd
 cpcalendars.gaac.edu.bd
 cpcalendars.gdnschs.edu.bd
+cpcalendars.gkghs.edu.bd
 cpcalendars.govtnacollege.edu.bd
 cpcalendars.gsghs.edu.bd
 cpcalendars.gssc.edu.bd
@@ -657,6 +661,7 @@ cpcontacts.ddam.edu.bd
 cpcontacts.fkhsbaliadangi.edu.bd
 cpcontacts.gaac.edu.bd
 cpcontacts.gdnschs.edu.bd
+cpcontacts.gkghs.edu.bd
 cpcontacts.govtnacollege.edu.bd
 cpcontacts.gsghs.edu.bd
 cpcontacts.gssc.edu.bd
@@ -720,6 +725,7 @@ cvghs.edu.bd
 dabarbhangahighschool.edu.bd
 dafm.stamforduniversity.edu.bd
 dagonbhuiyangirls.edu.bd
+dahs.edu.bd
 daidm.edu.bd
 dakhinsuchiparaunionhighschool.edu.bd
 dakshinbjakdm.edu.bd
@@ -755,6 +761,7 @@ dfdm.edu.bd
 dgbn.edu.bd
 dghealthbd.com.mti.edu.bd
 dghsbogura.edu.bd
+dghshl.edu.bd
 dgt.edu.bd
 dhakaartcollege.edu.bd
 dhakagrammarschool.edu.bd
@@ -902,6 +909,7 @@ ghsandc.edu.bd
 ghsn.edu.bd
 gifdm.edu.bd
 gkdm.edu.bd
+gkghs.edu.bd
 gkh115266.edu.bd
 gkmhs.edu.bd
 gla.edu.bd
@@ -1061,6 +1069,7 @@ jhanjailhighschool.edu.bd
 jhaudangacollege.edu.bd
 jhaudangahighschool.edu.bd
 jhs.auc.edu.bd
+jiauddinsc.edu.bd
 jifm.edu.bd
 jinnatalimsc.edu.bd
 jis.edu.bd
@@ -1292,6 +1301,7 @@ mail.fanurjs.edu.bd
 mail.fphs.edu.bd
 mail.gaac.edu.bd
 mail.gdnschs.edu.bd
+mail.gkghs.edu.bd
 mail.gopalpurhs.edu.bd
 mail.govtnacollege.edu.bd
 mail.gsghs.edu.bd
@@ -1619,9 +1629,12 @@ portal.bhs119920.edu.bd
 portal.bmlhighschool.edu.bd
 portal.bongpurhs.edu.bd
 portal.bpatal.edu.bd
+portal.bsbhighschool.edu.bd
 portal.bscr.edu.bd
 portal.cjhscim.edu.bd
 portal.deutyhsandc.edu.bd
+portal.doulatpurhoquebahadurhs.edu.bd
+portal.dpshs.edu.bd
 portal.drhs1925.edu.bd
 portal.duhashuhamlhighschool.edu.bd
 portal.faiyazscr.edu.bd
@@ -1630,6 +1643,7 @@ portal.fenigaacademy.edu.bd
 portal.fumkhs.edu.bd
 portal.gazirhatdeco.edu.bd
 portal.hmphs.edu.bd
+portal.hnhnpmc.edu.bd
 portal.hoglahs.edu.bd
 portal.jobaidahs68.edu.bd
 portal.joshoilhs.edu.bd
@@ -1648,6 +1662,7 @@ portal.rcbm.edu.bd
 portal.rghscr.edu.bd
 portal.sakhuahighschool.edu.bd
 portal.sarkarhatnazaralirupzanhighschool.edu.bd
+portal.sbfmwc.edu.bd
 portal.sbhs119919.edu.bd
 portal.sbuhs.edu.bd
 portal.setabgonjidealacademy.edu.bd
@@ -2043,6 +2058,7 @@ webdisk.ddam.edu.bd
 webdisk.fkhsbaliadangi.edu.bd
 webdisk.gaac.edu.bd
 webdisk.gdnschs.edu.bd
+webdisk.gkghs.edu.bd
 webdisk.govtnacollege.edu.bd
 webdisk.gsghs.edu.bd
 webdisk.gssc.edu.bd
@@ -2131,6 +2147,7 @@ webmail.gaac.edu.bd
 webmail.gandhamaruasc.edu.bd
 webmail.gdnschs.edu.bd
 webmail.gfsc.edu.bd
+webmail.gkghs.edu.bd
 webmail.glabdhaka.edu.bd
 webmail.govtnacollege.edu.bd
 webmail.greenviewchapai.edu.bd
@@ -2418,6 +2435,7 @@ www.gcbdmdm.edu.bd.dagma.edu.bd
 www.gdnschs.edu.bd
 www.gfsc.edu.bd
 www.gifdm.edu.bd
+www.gkghs.edu.bd
 www.gla.edu.bd.jspgirls.edu.bd
 www.glabdhaka.edu.bd
 www.gopalpurhs.edu.bd
