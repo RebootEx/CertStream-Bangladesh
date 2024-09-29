@@ -30,6 +30,7 @@ autodiscover.jphss.edu.bd
 autodiscover.kazisdm.edu.bd
 autodiscover.khidirpurhsngn.edu.bd
 autodiscover.mhs-kuri.edu.bd
+autodiscover.nagarajpurhs.edu.bd
 autodiscover.rdhsn.edu.bd
 autodiscover.sghsngn.edu.bd
 autodiscover.shalukahs.edu.bd
@@ -78,6 +79,7 @@ ces.old.ulab.edu.bd
 cetl.old.ulab.edu.bd
 cgc.edu.bd
 chakendakhs.edu.bd
+chandpurcitycollege.edu.bd
 channirchakgirls.edu.bd
 charigramhighschool.edu.bd
 charpolishajlhs.edu.bd
@@ -98,6 +100,7 @@ cpanel.kazisdm.edu.bd
 cpanel.khidirpurhsngn.edu.bd
 cpanel.mhs-kuri.edu.bd
 cpanel.mollarhathighschool.edu.bd
+cpanel.nagarajpurhs.edu.bd
 cpanel.rckhs.edu.bd
 cpanel.rdhsn.edu.bd
 cpanel.sghsngn.edu.bd
@@ -116,6 +119,7 @@ cpcalendars.kazisdm.edu.bd
 cpcalendars.khidirpurhsngn.edu.bd
 cpcalendars.mhs-kuri.edu.bd
 cpcalendars.mollarhathighschool.edu.bd
+cpcalendars.nagarajpurhs.edu.bd
 cpcalendars.rckhs.edu.bd
 cpcalendars.rdhsn.edu.bd
 cpcalendars.sghsngn.edu.bd
@@ -134,6 +138,7 @@ cpcontacts.kazisdm.edu.bd
 cpcontacts.khidirpurhsngn.edu.bd
 cpcontacts.mhs-kuri.edu.bd
 cpcontacts.mollarhathighschool.edu.bd
+cpcontacts.nagarajpurhs.edu.bd
 cpcontacts.rckhs.edu.bd
 cpcontacts.rdhsn.edu.bd
 cpcontacts.sghsngn.edu.bd
@@ -188,6 +193,7 @@ hazrahatihs.edu.bd
 hello.alfarabi.edu.bd
 hetampurss.edu.bd
 hghscn.edu.bd
+hmmdc.edu.bd
 idp.wub.edu.bd
 iims.balokdiarhs.edu.bd
 info.ati.edu.bd
@@ -248,6 +254,7 @@ mail.khidirpurhsngn.edu.bd
 mail.mhhs.edu.bd
 mail.mhs-kuri.edu.bd
 mail.mollarhathighschool.edu.bd
+mail.nagarajpurhs.edu.bd
 mail.nu.edu.bd
 mail.radhapurhs.edu.bd
 mail.rampahs.edu.bd
@@ -267,6 +274,7 @@ mhhs.edu.bd
 mhs-kuri.edu.bd
 mhsp.edu.bd
 mmsgs.edu.bd
+moddohbhuterdiass.edu.bd
 mognamahighschool.edu.bd
 mollarhathighschool.edu.bd
 moubanss.edu.bd
@@ -274,8 +282,10 @@ mpbhs.edu.bd
 ms.dgpmhs.edu.bd
 msbn.edu.bd
 mtagsc.edu.bd
+nagarajpurhs.edu.bd
 nags.edu.bd
 nargunhighschool.edu.bd
+natherkandihs.edu.bd
 nayakhalihighschool.edu.bd
 new.bsdmdakhilmadrasah.edu.bd
 news.bsdmdakhilmadrasah.edu.bd
@@ -299,6 +309,7 @@ pssm.edu.bd
 purbabhs.edu.bd
 radhanagaranchs.edu.bd
 radhapurhs.edu.bd
+raghunathpurhs.edu.bd
 rampahs.edu.bd
 ratowalworldpoetrabindranathhs.edu.bd
 rauhs.edu.bd
@@ -315,6 +326,7 @@ scsc.edu.bd
 sgdcm.edu.bd
 sghsngn.edu.bd
 shalukahs.edu.bd
+shovarampurhighschool.edu.bd
 sjahighschool.edu.bd
 skc.edu.bd
 smem.haldiagovhs.edu.bd
@@ -356,6 +368,7 @@ webdisk.kazisdm.edu.bd
 webdisk.khidirpurhsngn.edu.bd
 webdisk.mhs-kuri.edu.bd
 webdisk.mollarhathighschool.edu.bd
+webdisk.nagarajpurhs.edu.bd
 webdisk.rckhs.edu.bd
 webdisk.rdhsn.edu.bd
 webdisk.sghsngn.edu.bd
@@ -374,6 +387,7 @@ webmail.kazisdm.edu.bd
 webmail.khidirpurhsngn.edu.bd
 webmail.mhs-kuri.edu.bd
 webmail.mollarhathighschool.edu.bd
+webmail.nagarajpurhs.edu.bd
 webmail.rckhs.edu.bd
 webmail.rdhsn.edu.bd
 webmail.sghsngn.edu.bd
@@ -416,6 +430,7 @@ www.mhhs.edu.bd
 www.mhs-kuri.edu.bd
 www.mollarhathighschool.edu.bd
 www.ms.dgpmhs.edu.bd
+www.nagarajpurhs.edu.bd
 www.new.bsdmdakhilmadrasah.edu.bd
 www.news.bsdmdakhilmadrasah.edu.bd
 www.plscf.edu.bd.abdulabadhighschool.edu.bd
