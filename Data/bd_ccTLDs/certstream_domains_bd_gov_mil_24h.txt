@@ -15,13 +15,17 @@ cpanel.cafodefence.gov.bd
 cpcalendars.cafodefence.gov.bd
 cpcontacts.cafodefence.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
+data-slsd.mohpw.gov.bd
 dss-dev.niseee.gov.bd
 du.gameapp.gov.bd
 dyd-dev.niseee.gov.bd
+email.ops.a2i.gov.bd
 ems.titumircollege.gov.bd
 financialinclusion.gov.bd
 gis.beautifulbangladesh.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
+ihtbogura.gov.bd
+imam.gov.bd
 industry-dev.niseee.gov.bd
 jachaipay.ekshop.gov.bd
 jashore.gov.bd
@@ -30,6 +34,7 @@ mail.cafodefence.gov.bd
 mail.cao.gov.bd
 mcci-dev.niseee.gov.bd
 migration-portal-dev.niseee.gov.bd
+mobile-slsd.mohpw.gov.bd
 nascib-dev.niseee.gov.bd
 nise-dev.niseee.gov.bd
 ntrc.gameapp.gov.bd
@@ -41,6 +46,7 @@ ror.dc-rangamati.gov.bd
 rpl-dev.niseee.gov.bd
 satkhiratsc.gov.bd
 smartandikot.gov.bd
+smartrajshahi.gov.bd
 smef-dev.niseee.gov.bd
 startupbangladesh.gov.bd
 surgeryrpmc.gov.bd
