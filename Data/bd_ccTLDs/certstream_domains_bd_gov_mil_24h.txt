@@ -1,5 +1,6 @@
 accounting.smartrajshahi.gov.bd
 api-admin.lams.land.gov.bd
+api-ai.dlrms.land.gov.bd
 api-communication.dlrms.land.gov.bd
 api-core.dlrms.land.gov.bd
 api-core.lams.land.gov.bd
@@ -23,6 +24,7 @@ demo.taxeszone2.gov.bd
 digicod.ekshop.gov.bd
 dlrms.land.gov.bd
 dms.basbmed.gov.bd
+dpg.gov.bd
 dumainup.faridpurlg.gov.bd
 eff-hsc.dinajpurboard.gov.bd
 en.sfcnavy.gov.bd
@@ -54,12 +56,14 @@ tdmtraining.finance.gov.bd
 test.gameapp.gov.bd
 tourismctg.gov.bd
 turn.vc8.bcc.gov.bd
+upmymensinghholdingtax.gov.bd
 vc2.bcc.gov.bd
 webdisk.e-tax-nbr.gov.bd
 webdisk.taxeszone2.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.taxeszone2.gov.bd
 www.apps.gjkagc.gov.bd
+www.basati.upmymensinghholdingtax.gov.bd
 www.bicm.gov.bd
 www.cafoinfo.cafoinfo.gov.bd
 www.demo.taxeszone2.gov.bd
