@@ -78,6 +78,7 @@ cpanel.acland.gov.bd
 cpanel.cafodefence.gov.bd
 cpanel.cevt.gov.bd
 cpanel.dmpi.gov.bd
+cpanel.moulvibazartsc.gov.bd
 cpanel.msdp.gov.bd
 cpanel.mushroomproject.gov.bd
 cpanel.srijon.gov.bd
@@ -108,6 +109,7 @@ demo.taxeszone6.gov.bd
 designforeveryone.gov.bd
 dev.digitalliteracy.gov.bd
 dhakaeducationboard.gov.bd
+digicod.ekshop.gov.bd
 digisigchecker.cca.gov.bd
 disability.wewb.gov.bd
 dknvat.gov.bd
@@ -136,6 +138,7 @@ ereturn.taxeszone6.gov.bd
 faridganjmunicipality.gov.bd
 financialinclusion.gov.bd
 ftp.cevt.gov.bd
+ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gaibandhapourashava.gov.bd
 gis.beautifulbangladesh.gov.bd
@@ -196,6 +199,7 @@ mail.cttcdmp.gov.bd
 mail.customsvaluation.gov.bd
 mail.dch.gov.bd
 mail.dnbc.gov.bd
+mail.moulvibazartsc.gov.bd
 mail.msdp.gov.bd
 mail.mushroomproject.gov.bd
 mail.srijon.gov.bd
@@ -212,6 +216,8 @@ minio-deb.xiclassadmission.gov.bd
 mmcm.gov.bd
 mmddl-ctgbcsir.gov.bd
 mobile-slsd.mohpw.gov.bd
+motjdigitalstore.gov.bd
+moulvibazartsc.gov.bd
 mq.apamsv3.cabinet.gov.bd
 msdp.gov.bd
 mujib100sfc.gov.bd
@@ -286,6 +292,7 @@ startupbangladesh.gov.bd
 sundargonjpourashava.gov.bd
 surgeryrpmc.gov.bd
 sylhetboard.gov.bd
+taxappealzone4dhaka.gov.bd
 taxeszone22dhaka.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone24dhaka.gov.bd
@@ -324,6 +331,7 @@ webdisk.zpsatkhira.gov.bd
 webmail.acland.gov.bd
 webmail.cafodefence.gov.bd
 webmail.dmpi.gov.bd
+webmail.moulvibazartsc.gov.bd
 webmail.msdp.gov.bd
 webmail.savargc.gov.bd
 webmail.srijon.gov.bd
@@ -388,6 +396,7 @@ www.laravel.sfcarmy.gov.bd
 www.laravel.sfcnavy.gov.bd
 www.lvstraining.ansarvdpbank.gov.bd
 www.mail.ar.gameapp.gov.bd
+www.moulvibazartsc.gov.bd
 www.msdp.gov.bd
 www.mushroomproject.gov.bd
 www.my.ngosherpur.gov.bd
