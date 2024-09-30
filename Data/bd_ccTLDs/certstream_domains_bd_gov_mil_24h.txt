@@ -1,4 +1,5 @@
 accounting.smartrajshahi.gov.bd
+admin.smartup.gov.bd
 api-admin.lams.land.gov.bd
 api-ai.dlrms.land.gov.bd
 api-communication.dlrms.land.gov.bd
@@ -10,6 +11,7 @@ autodiscover.e-tax-nbr.gov.bd
 autodiscover.taxeszone2.gov.bd
 backoffice.dlrms.land.gov.bd
 backoffice.lams.land.gov.bd
+bhpi.gov.bd
 bicm.gov.bd
 billing.a2i.gov.bd
 cafoinfo.cafoinfo.gov.bd
@@ -57,11 +59,13 @@ test.gameapp.gov.bd
 tourismctg.gov.bd
 turn.vc8.bcc.gov.bd
 upmymensinghholdingtax.gov.bd
+vaxepi.gov.bd
 vc2.bcc.gov.bd
 webdisk.e-tax-nbr.gov.bd
 webdisk.taxeszone2.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.taxeszone2.gov.bd
+www.admin.smartup.gov.bd
 www.apps.gjkagc.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
 www.bicm.gov.bd
@@ -77,4 +81,5 @@ www.spisg.spisg.gov.bd
 www.staging.zprajbari.gov.bd
 www.taxeszone2.gov.bd
 www.test.gameapp.gov.bd
+www.vaxepi.gov.bd
 zprajbari.gov.bd
