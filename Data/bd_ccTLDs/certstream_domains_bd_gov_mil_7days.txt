@@ -101,6 +101,7 @@ cttcdmp.gov.bd
 cumilla.gov.bd
 dashboard-backoffice-dev.niseee.gov.bd
 data-slsd.mohpw.gov.bd
+demo.krishibatighor.gov.bd
 demo.taxeszone2.gov.bd
 demo.taxeszone6.gov.bd
 designforeveryone.gov.bd
@@ -135,6 +136,7 @@ ftp.cevt.gov.bd
 ftp.moulvibazartsc.gov.bd
 ftp.oss.bepza.gov.bd
 gaibandhapourashava.gov.bd
+ggmcg.gov.bd
 gis.beautifulbangladesh.gov.bd
 gis.bwdb.gov.bd
 gisadmin.beautifulbangladesh.gov.bd
@@ -185,6 +187,7 @@ mail.munshiganjlg.gov.bd
 mail.mushroomproject.gov.bd
 mail.taxeszone2.gov.bd
 mail.taxeszone6.gov.bd
+mail.tearesort.gov.bd
 mcci-dev.niseee.gov.bd
 mciadmin.mcishr.dghs.gov.bd
 melandahbhata.gov.bd
@@ -275,6 +278,7 @@ taxeszone24dhaka.gov.bd
 taxeszone6.gov.bd
 tdmtraining.finance.gov.bd
 tds.taxeszone6.gov.bd
+tearesort.gov.bd
 test-api.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
 tourismctg.gov.bd
@@ -338,6 +342,7 @@ www.chicd.gov.bd
 www.chittagongvat.gov.bd
 www.cms.cpadigital.gov.bd
 www.cttcdmp.gov.bd
+www.demo.krishibatighor.gov.bd
 www.demo.taxeszone2.gov.bd
 www.demo.taxeszone6.gov.bd
 www.department.bsc.gov.bd
@@ -390,6 +395,7 @@ www.taxeszone2.gov.bd
 www.taxeszone23dhaka.gov.bd
 www.taxeszone6.gov.bd
 www.tds.taxeszone6.gov.bd
+www.tearesort.gov.bd
 www.test.gameapp.gov.bd
 www.ugv2024.gnc.gov.bd
 www.vaxepi.gov.bd
