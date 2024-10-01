@@ -1,5 +1,6 @@
 admin.adolnutrireporting.nnsop.gov.bd
 admin.smartup.gov.bd
+admin.tds.taxeszone3ctg.gov.bd
 admission.akcc.gov.bd
 adolnutrireporting.nnsop.gov.bd
 api-ai.dlrms.land.gov.bd
@@ -9,6 +10,7 @@ autodiscover.taxeszone2.gov.bd
 bamis.gov.bd
 bpo.farmbroadcast.gov.bd
 ccms.gov.bd
+covid19reports.dghs.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.moulvibazartsc.gov.bd
@@ -56,6 +58,7 @@ stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
 taxeszone2.gov.bd
 thakurgaonttc.gov.bd
+tscnatore.gov.bd
 upmymensinghholdingtax.gov.bd
 vaxepi.gov.bd
 webdisk.e-tax-nbr.gov.bd
