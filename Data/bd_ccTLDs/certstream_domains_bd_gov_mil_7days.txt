@@ -2,12 +2,14 @@
 accounting.smartrajshahi.gov.bd
 accounts.bise-ctg.gov.bd
 aclandmotijheelcircle.gov.bd
+admin.smartup.gov.bd
 admission.sttc.gov.bd
 ai.gameapp.gov.bd
 akkelpurmunicipality.gov.bd
 amarai.gameapp.gov.bd
 apams.cabinet.gov.bd
 api-admin.lams.land.gov.bd
+api-ai.dlrms.land.gov.bd
 api-communication.dlrms.land.gov.bd
 api-core.dlrms.land.gov.bd
 api-core.lams.land.gov.bd
@@ -35,6 +37,8 @@ bdansarerp.gov.bd
 bepza.gov.bd
 beta.nmcp.gov.bd
 bgcf.gov.bd
+bhpi.gov.bd
+bicm.gov.bd
 billing.a2i.gov.bd
 bise-ctg.gov.bd
 biwtavhc.gov.bd
@@ -127,8 +131,10 @@ disability.wewb.gov.bd
 dknvat.gov.bd
 dlrms.land.gov.bd
 dmpi.gov.bd
+dms.basbmed.gov.bd
 dnbc.gov.bd
 dpg.ekshop.gov.bd
+dpg.gov.bd
 dss-dev.niseee.gov.bd
 dt.ekshop.gov.bd
 du.gameapp.gov.bd
@@ -138,6 +144,7 @@ ebmeb.gov.bd
 ebook.cmmc.gov.bd
 edu.bd.gbrcr.gov.bd
 eequip.mowr.gov.bd
+eff-hsc.dinajpurboard.gov.bd
 ekshop.gov.bd
 email.ops.a2i.gov.bd
 emrddashboard.gov.bd
@@ -147,6 +154,7 @@ en.sfcnavy.gov.bd
 eng.sarkaribanglacollege.gov.bd
 erequ.mowr.gov.bd
 ereturn.taxeszone6.gov.bd
+exam-management.dinajpurboard.gov.bd
 faridganjmunicipality.gov.bd
 financialinclusion.gov.bd
 ftp.cevt.gov.bd
@@ -197,6 +205,7 @@ laravel.sfc-dp.gov.bd
 laravel.sfcarmy.gov.bd
 laravel.sfcnavy.gov.bd
 lmis.nmcp.gov.bd
+logo.smartbangladesh.gov.bd
 lvstraining.ansarvdpbank.gov.bd
 macademy.gov.bd
 maheshpurpourashava.gov.bd
@@ -287,6 +296,7 @@ ror.dc-rangamati.gov.bd
 rpi.gov.bd
 rpl-dev.niseee.gov.bd
 rsm.jgtdsl.gov.bd
+sadai.gov.bd
 saejp.gov.bd
 satkhiratsc.gov.bd
 savargc.gov.bd
@@ -296,10 +306,12 @@ server.kpik.gov.bd
 service.gov.bd
 sfc-dp.gov.bd
 sfcair.gov.bd
+sfcarmy.gov.bd
 sgtc.gov.bd
 singramunicipality.gov.bd
 smart-road.gov.bd
 smartandikot.gov.bd
+smartbangladesh.gov.bd
 smartchapitalaup.gov.bd
 smartrajshahi.gov.bd
 smartschoolbus.gov.bd
@@ -308,6 +320,7 @@ smef-dev.niseee.gov.bd
 smsc.ekshop.gov.bd
 soltrack.gov.bd
 specialbranch.gov.bd
+spisg.spisg.gov.bd
 srijon.gov.bd
 startupbangladesh.gov.bd
 sundargonjpourashava.gov.bd
@@ -319,6 +332,7 @@ taxeszone22dhaka.gov.bd
 taxeszone23dhaka.gov.bd
 taxeszone24dhaka.gov.bd
 taxeszone6.gov.bd
+tdmtraining.finance.gov.bd
 tds.taxeszone6.gov.bd
 test-api.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
@@ -337,6 +351,7 @@ uppabnaholdingtax.gov.bd
 user.tds.taxeszone3ctg.gov.bd
 uttoradhikar.gov.bd
 vatdhkeast.gov.bd
+vaxepi.gov.bd
 vc2.bcc.gov.bd
 vcbig.bcc.gov.bd
 visipass.farmbroadcast.gov.bd
@@ -369,13 +384,16 @@ webmail.zpdinajpur.gov.bd
 webmail.zpsatkhira.gov.bd
 www.admin.bsc.gov.bd
 www.admin.saejp.gov.bd
+www.admin.smartup.gov.bd
 www.amarai.gameapp.gov.bd
 www.apps.gjkagc.gov.bd
 www.ar.gameapp.gov.bd
 www.asi.dfsrcaab.gov.bd
 www.attendence.rpi.gov.bd
 www.balarhatadarshadegreecollege.edu.bd.gbrcr.gov.bd
+www.basati.upmymensinghholdingtax.gov.bd
 www.bdansarerp.gov.bd
+www.bicm.gov.bd
 www.biwtavhc.gov.bd
 www.bnhoc.navy.mil.bd
 www.bsfmstu.gameapp.gov.bd
@@ -400,6 +418,7 @@ www.designforeveryone.gov.bd
 www.dev-sp-server.rpi.gov.bd
 www.dev-sp.rpi.gov.bd
 www.dmpi.gov.bd
+www.dms.basbmed.gov.bd
 www.dnbc.gov.bd
 www.dpg.ekshop.gov.bd
 www.dt.ekshop.gov.bd
@@ -442,11 +461,14 @@ www.pay-server.rpi.gov.bd
 www.pay.rpi.gov.bd
 www.profile.nins.gov.bd
 www.register.gameapp.gov.bd
+www.sadai.gov.bd
 www.savargc.gov.bd
 www.smartandikot.gov.bd
+www.smartbangladesh.gov.bd
 www.smartchapitalaup.gov.bd
 www.smartschoolbus.gov.bd
 www.smsc.ekshop.gov.bd
+www.spisg.spisg.gov.bd
 www.srijon.gov.bd
 www.staging.zprajbari.gov.bd
 www.taxeszone2.gov.bd
@@ -457,6 +479,7 @@ www.test.gameapp.gov.bd
 www.trademark.bsc.gov.bd
 www.ugv2024.gnc.gov.bd
 www.vatdhkeast.gov.bd
+www.vaxepi.gov.bd
 www.visipass.farmbroadcast.gov.bd
 www.volunteer.ekshop.gov.bd
 www.vtour.beautifulbangladesh.gov.bd
