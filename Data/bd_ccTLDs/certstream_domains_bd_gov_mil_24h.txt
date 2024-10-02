@@ -13,6 +13,7 @@ cafomolwa.gov.bd
 ccms.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.server.melandahbhata.gov.bd
+cpanel.sylhettsc.gov.bd
 cpcalendars.eduboardresults.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcontacts.eduboardresults.gov.bd
@@ -35,6 +36,7 @@ ipv6.server.melandahbhata.gov.bd
 mail.eduboardresults.gov.bd
 mail.icml.gov.bd
 mail.server.melandahbhata.gov.bd
+mail.sylhettsc.gov.bd
 management.bogurapolice.gov.bd
 melandahbhata.gov.bd
 munshiganjtsc.gov.bd
@@ -57,6 +59,7 @@ soltrack.gov.bd
 sreda.gov.bd
 stage-admin.adolnutrireporting.nnsop.gov.bd
 stage.adolnutrireporting.nnsop.gov.bd
+sylhettsc.gov.bd
 thakurgaonttc.gov.bd
 tms.brri.gov.bd
 tscnatore.gov.bd
@@ -65,8 +68,10 @@ uppabnaholdingtax.gov.bd
 vaxepi.gov.bd
 webdisk.eduboardresults.gov.bd
 webdisk.server.melandahbhata.gov.bd
+webdisk.sylhettsc.gov.bd
 webmail.eduboardresults.gov.bd
 webmail.server.melandahbhata.gov.bd
+webmail.sylhettsc.gov.bd
 whm.server.melandahbhata.gov.bd
 www.1234.melandahbhata.gov.bd
 www.5678.melandahbhata.gov.bd
@@ -95,5 +100,6 @@ www.recruitment.sreda.gov.bd
 www.report.ec4j.gov.bd
 www.server.melandahbhata.gov.bd
 www.somotolercha.btriapps.gov.bd
+www.sylhettsc.gov.bd
 www.tarakanda.upmymensinghholdingtax.gov.bd
 www.vaxepi.gov.bd
