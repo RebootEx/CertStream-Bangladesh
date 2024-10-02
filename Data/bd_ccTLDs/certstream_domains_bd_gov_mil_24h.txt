@@ -1,5 +1,6 @@
 admin.adolnutrireporting.nnsop.gov.bd
 admission.akcc.gov.bd
+adolnutrireporting.nnsop.gov.bd
 api.padmamuseum.gov.bd
 app.dghs.gov.bd
 autoconfig.server.melandahbhata.gov.bd
@@ -11,6 +12,7 @@ cafocommerce.gov.bd
 cafocultural.gov.bd
 cafomolwa.gov.bd
 ccms.gov.bd
+cgpoura.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.server.melandahbhata.gov.bd
 cpanel.sylhettsc.gov.bd
@@ -41,6 +43,7 @@ management.bogurapolice.gov.bd
 melandahbhata.gov.bd
 munshiganjtsc.gov.bd
 padmamuseum.gov.bd
+panel.adolnutrireporting.nnsop.gov.bd
 pbrlp.gov.bd
 play.betarcommercialservice.gov.bd
 pmfellowship.cao.gov.bd
