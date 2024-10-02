@@ -13,6 +13,7 @@ app.mjfsc.edu.bd
 arghs.edu.bd
 arongghatasschool.edu.bd
 asp.rmb.edu.bd
+autodiscover.gbgc.edu.bd
 autodiscover.gsfmmc.edu.bd
 ayeshbamadrasah.edu.bd
 baghilfhs.edu.bd
@@ -53,12 +54,14 @@ courseplan.jalalabadcollege.edu.bd
 covid.rpsu.edu.bd
 cpanel.amzadalisarkerpghscollege.edu.bd
 cpanel.bsmmc.edu.bd
+cpanel.gbgc.edu.bd
 cpanel.gsfmmc.edu.bd
 cpanel.kadirkholass.edu.bd
 cpanel.msnsc.edu.bd
 cpanel.renesamschool.edu.bd
 cpcalendars.amzadalisarkerpghscollege.edu.bd
 cpcalendars.bsmmc.edu.bd
+cpcalendars.gbgc.edu.bd
 cpcalendars.gsfmmc.edu.bd
 cpcalendars.kadirkholass.edu.bd
 cpcalendars.manjurahmedhs.edu.bd
@@ -66,6 +69,7 @@ cpcalendars.msnsc.edu.bd
 cpcalendars.renesamschool.edu.bd
 cpcontacts.amzadalisarkerpghscollege.edu.bd
 cpcontacts.bsmmc.edu.bd
+cpcontacts.gbgc.edu.bd
 cpcontacts.gsfmmc.edu.bd
 cpcontacts.kadirkholass.edu.bd
 cpcontacts.msnsc.edu.bd
@@ -93,6 +97,7 @@ eservice.sust.edu.bd
 files.gmrwc.edu.bd
 fumkhs.edu.bd
 gadaipurjeheralihs.edu.bd
+gbgc.edu.bd
 gcsac.edu.bd
 govtsantoshiughs.edu.bd
 gsfmmc.edu.bd
@@ -152,6 +157,7 @@ mail.cjhscim.edu.bd
 mail.doulatpurhoquebahadurhs.edu.bd
 mail.drhs1925.edu.bd
 mail.earpurhighschool.edu.bd
+mail.gbgc.edu.bd
 mail.gsfmmc.edu.bd
 mail.haithkandihighschool.edu.bd
 mail.hcphs.edu.bd
@@ -219,6 +225,7 @@ pingnaghs.edu.bd
 pingnahs.edu.bd
 pmsn.edu.bd
 raghunathpurhs.edu.bd
+rapghs.edu.bd
 rasulpurmschoolandcollege.edu.bd
 rauhs.edu.bd
 razabariahs.edu.bd
@@ -239,6 +246,7 @@ shaheedsmrity.edu.bd
 shahs.edu.bd
 shalmaradakhilmadrasah.edu.bd
 sherkolesahs.edu.bd
+skbhs.edu.bd
 smhhighschool.edu.bd
 smrc.edu.bd
 sofama.edu.bd
@@ -262,6 +270,7 @@ urma.edu.bd
 wdbhs.edu.bd
 webdisk.amzadalisarkerpghscollege.edu.bd
 webdisk.bsmmc.edu.bd
+webdisk.gbgc.edu.bd
 webdisk.gsfmmc.edu.bd
 webdisk.kadirkholass.edu.bd
 webdisk.msnsc.edu.bd
@@ -269,6 +278,7 @@ webdisk.renesamschool.edu.bd
 webexpert.mmma.edu.bd
 webmail.amzadalisarkerpghscollege.edu.bd
 webmail.bsmmc.edu.bd
+webmail.gbgc.edu.bd
 webmail.gsfmmc.edu.bd
 webmail.ist.edu.bd
 webmail.kadirkholass.edu.bd
@@ -320,6 +330,7 @@ www.emba.bubt.edu.bd
 www.english.bubt.edu.bd
 www.files.gmrwc.edu.bd
 www.gallery.cub.edu.bd
+www.gbgc.edu.bd
 www.gkmc.abdulabadhighschool.edu.bd
 www.gsfmmc.edu.bd
 www.haithkandihighschool.edu.bd
@@ -362,6 +373,7 @@ www.nn.drmmrpc.edu.bd
 www.pingnaghs.edu.bd
 www.posdemo.ktc.edu.bd
 www.raghunathpurhs.edu.bd
+www.rapghs.edu.bd
 www.razabariahs.edu.bd
 www.renesamschool.edu.bd
 www.s.bhablahighschool.edu.bd
@@ -373,6 +385,7 @@ www.sebhs.edu.bd
 www.setabgonjidealacademy.edu.bd
 www.shaheedjahangirhs.edu.bd
 www.sherkolesahs.edu.bd
+www.skbhs.edu.bd
 www.smhhighschool.edu.bd
 www.soft.iiscmymensingh.edu.bd
 www.sreepoddimodelhs.edu.bd
