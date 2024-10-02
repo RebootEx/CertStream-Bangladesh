@@ -1,4 +1,5 @@
 admin.adolnutrireporting.nnsop.gov.bd
+admission.akcc.gov.bd
 api.padmamuseum.gov.bd
 app.dghs.gov.bd
 autoconfig.server.melandahbhata.gov.bd
@@ -9,14 +10,18 @@ btriapps.gov.bd
 cafocommerce.gov.bd
 cafomolwa.gov.bd
 ccms.gov.bd
+cpanel.eduboardresults.gov.bd
 cpanel.server.melandahbhata.gov.bd
+cpcalendars.eduboardresults.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
+cpcontacts.eduboardresults.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
 ct.taxeszoneonedhaka.gov.bd
 dhakalabsbcsir.gov.bd
 dis.btrc.gov.bd
 dphe.gov.bd
 dt.ekshop.gov.bd
+eduboardresults.gov.bd
 estate.kda.gov.bd
 fci.gov.bd
 ggmcg.gov.bd
@@ -26,6 +31,7 @@ hrm.ekshop.gov.bd
 icml.gov.bd
 ihtbogura.gov.bd
 ipv6.server.melandahbhata.gov.bd
+mail.eduboardresults.gov.bd
 mail.icml.gov.bd
 mail.server.melandahbhata.gov.bd
 management.bogurapolice.gov.bd
@@ -55,12 +61,15 @@ tms.brri.gov.bd
 tscnatore.gov.bd
 upmymensinghholdingtax.gov.bd
 vaxepi.gov.bd
+webdisk.eduboardresults.gov.bd
 webdisk.server.melandahbhata.gov.bd
+webmail.eduboardresults.gov.bd
 webmail.server.melandahbhata.gov.bd
 whm.server.melandahbhata.gov.bd
 www.1234.melandahbhata.gov.bd
 www.5678.melandahbhata.gov.bd
 www.91011.melandahbhata.gov.bd
+www.admission.akcc.gov.bd
 www.api.padmamuseum.gov.bd
 www.apps.gjkagc.gov.bd
 www.bamis.gov.bd
@@ -70,6 +79,7 @@ www.ccms.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.db.padmamuseum.gov.bd
 www.dutipata.btriapps.gov.bd
+www.eduboardresults.gov.bd
 www.erp.sreda.gov.bd
 www.ihtbogura.gov.bd
 www.investor.icml.gov.bd
