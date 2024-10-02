@@ -22,6 +22,8 @@ app.mjfsc.edu.bd
 arghs.edu.bd
 arongghatasschool.edu.bd
 asp.rmb.edu.bd
+autodiscover.baribarihs.edu.bd
+autodiscover.dklgdmad.edu.bd
 autodiscover.gbgc.edu.bd
 autodiscover.gsfmmc.edu.bd
 autodiscover.sdmm.edu.bd
@@ -37,6 +39,7 @@ bandiaahs.edu.bd
 bangladesh.casino.aamctg.edu.bd
 baragachhahs.edu.bd
 barasulacadetfazilmadrasah.edu.bd
+baribarihs.edu.bd
 barohiths.edu.bd
 baruiparapss.edu.bd
 basandc.edu.bd
@@ -88,6 +91,7 @@ cat.old.ulab.edu.bd
 cbbihs.edu.bd
 ccsc.edu.bd
 cdadm.edu.bd
+ceipolytechnic.edu.bd
 cfdmtm.edu.bd
 cgsnc.edu.bd
 chamagramhnhs.edu.bd
@@ -101,8 +105,10 @@ com.syedpuraliamadrasah.edu.bd
 courseplan.jalalabadcollege.edu.bd
 covid.rpsu.edu.bd
 cpanel.amzadalisarkerpghscollege.edu.bd
+cpanel.baribarihs.edu.bd
 cpanel.bsmmc.edu.bd
 cpanel.cfdmtm.edu.bd
+cpanel.dklgdmad.edu.bd
 cpanel.dlmch.edu.bd
 cpanel.gbgc.edu.bd
 cpanel.gsfmmc.edu.bd
@@ -117,7 +123,9 @@ cpanel.tcgmfhhs.edu.bd
 cpanel.upscj.edu.bd
 cpanel.zinoirhs.edu.bd
 cpcalendars.amzadalisarkerpghscollege.edu.bd
+cpcalendars.baribarihs.edu.bd
 cpcalendars.bsmmc.edu.bd
+cpcalendars.dklgdmad.edu.bd
 cpcalendars.dlmch.edu.bd
 cpcalendars.gbgc.edu.bd
 cpcalendars.gsfmmc.edu.bd
@@ -131,7 +139,9 @@ cpcalendars.shaheedsmrity.edu.bd
 cpcalendars.tcgmfhhs.edu.bd
 cpcalendars.upscj.edu.bd
 cpcontacts.amzadalisarkerpghscollege.edu.bd
+cpcontacts.baribarihs.edu.bd
 cpcontacts.bsmmc.edu.bd
+cpcontacts.dklgdmad.edu.bd
 cpcontacts.dlmch.edu.bd
 cpcontacts.gbgc.edu.bd
 cpcontacts.gsfmmc.edu.bd
@@ -156,6 +166,7 @@ dhalaibhs.edu.bd
 diam.edu.bd
 dighirparacb.edu.bd
 djsis.edu.bd
+dklgdmad.edu.bd
 dlmch.edu.bd
 dmrsti.edu.bd
 doubleexpressbd.com.ktc.edu.bd
@@ -233,6 +244,7 @@ janatamhs.edu.bd
 jashihatihighschool.edu.bd
 jdmm.edu.bd
 jghsc.edu.bd
+jgmhs.edu.bd
 jhsjamalpur.edu.bd
 jihs.edu.bd
 jisdm.edu.bd
@@ -270,13 +282,16 @@ lakshmiarahs.edu.bd
 lalkuthigsc.edu.bd
 ldmadrasah.edu.bd
 library.bcc.edu.bd
+library.uttarauniversity.edu.bd
 link.mangrove.edu.bd
 lms.bhsch.edu.bd
 lna.edu.bd
 lrmmcollege.edu.bd
 machhparahighschool.edu.bd
+madhobkundahs.edu.bd
 madrasah.kkim.edu.bd
 mahhs.edu.bd
+maijgramhs.edu.bd
 mail.agahs.edu.bd
 mail.ajgarahs.edu.bd
 mail.alaminfazil.edu.bd
@@ -284,6 +299,7 @@ mail.amzadalisarkerpghscollege.edu.bd
 mail.autodiscover.manjurahmedhs.edu.bd
 mail.baghilfhs.edu.bd
 mail.baikunthapurhs.edu.bd
+mail.baribarihs.edu.bd
 mail.bdsm.edu.bd
 mail.bmarmc.edu.bd
 mail.bogdadiahs.edu.bd
@@ -295,6 +311,7 @@ mail.bsmmc.edu.bd
 mail.chamagramhnhs.edu.bd
 mail.cjhscim.edu.bd
 mail.dighirparacb.edu.bd
+mail.dklgdmad.edu.bd
 mail.dlmch.edu.bd
 mail.doulatpurhoquebahadurhs.edu.bd
 mail.drhs1925.edu.bd
@@ -360,6 +377,7 @@ mamhs.edu.bd
 marichapalonghighschool.edu.bd
 markajctg.edu.bd
 mbacst.edu.bd
+mcnkhs.edu.bd
 mdch.edu.bd
 mdmlb.edu.bd
 mgmh.edu.bd
@@ -376,6 +394,7 @@ mroabasikhs.edu.bd
 msnsc.edu.bd
 muggaonahs.edu.bd
 mujibcollege.edu.bd
+nabogramschool.edu.bd
 nadcollege.edu.bd
 naldhamlh.edu.bd
 nasck.edu.bd
@@ -401,6 +420,7 @@ pchs.edu.bd
 pingnaghs.edu.bd
 pingnahs.edu.bd
 piser.edu.bd
+pjam.edu.bd
 plbhs.edu.bd
 pmsn.edu.bd
 pmuhs.edu.bd
@@ -426,6 +446,7 @@ rsths.edu.bd
 s.bhablahighschool.edu.bd
 s.mahhs.edu.bd
 s.vhs.edu.bd
+sadipurahs.edu.bd
 saf.image.edu.bd
 saikatghs.edu.bd
 sakhuahighschool.edu.bd
@@ -450,6 +471,7 @@ shamaschurahs.edu.bd
 sherkolesahs.edu.bd
 shmcjgov.edu.bd
 shsac.edu.bd
+siddekalihs.edu.bd
 skbhs.edu.bd
 smhhighschool.edu.bd
 smrc.edu.bd
@@ -478,6 +500,7 @@ tghs1967.edu.bd
 thfsschool.edu.bd
 tilnacollege.auc.edu.bd
 tjmhs.edu.bd
+tpghs.edu.bd
 transport.daffodilvarsity.edu.bd
 umfm.edu.bd
 update.krghs.edu.bd
@@ -489,7 +512,9 @@ vangulafazilmadrasha.edu.bd
 wdbhs.edu.bd
 web.recr.edu.bd
 webdisk.amzadalisarkerpghscollege.edu.bd
+webdisk.baribarihs.edu.bd
 webdisk.bsmmc.edu.bd
+webdisk.dklgdmad.edu.bd
 webdisk.dlmch.edu.bd
 webdisk.gbgc.edu.bd
 webdisk.gsfmmc.edu.bd
@@ -503,8 +528,10 @@ webdisk.tcgmfhhs.edu.bd
 webdisk.upscj.edu.bd
 webexpert.mmma.edu.bd
 webmail.amzadalisarkerpghscollege.edu.bd
+webmail.baribarihs.edu.bd
 webmail.bsmmc.edu.bd
 webmail.cfdmtm.edu.bd
+webmail.dklgdmad.edu.bd
 webmail.dlmch.edu.bd
 webmail.gbgc.edu.bd
 webmail.gsfmmc.edu.bd
@@ -537,6 +564,7 @@ www.ayeshaalihighschool.edu.bd.makdm.edu.bd
 www.baghilfhs.edu.bd
 www.baikunthapurhs.edu.bd
 www.bangladesh.casino.aamctg.edu.bd
+www.baribarihs.edu.bd
 www.basandc.edu.bd.makdm.edu.bd
 www.bba.bubt.edu.bd
 www.bdsm.edu.bd
@@ -577,6 +605,7 @@ www.cs.cgsnc.edu.bd
 www.dhakasecuritiesltd.com.akpi.edu.bd
 www.dhalaibhs.edu.bd
 www.dighirparacb.edu.bd
+www.dklgdmad.edu.bd
 www.dlmch.edu.bd
 www.doubleexpressbd.com.ktc.edu.bd
 www.doulatpurhoquebahadurhs.edu.bd
@@ -629,6 +658,7 @@ www.kochikantha.edu.bd
 www.kumarulihs.edu.bd
 www.kwhs.abdulabadhighschool.edu.bd
 www.library.bcc.edu.bd
+www.library.uttarauniversity.edu.bd
 www.llb.bubt.edu.bd
 www.llm.bubt.edu.bd
 www.lms.bhsch.edu.bd
