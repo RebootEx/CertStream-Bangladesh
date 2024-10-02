@@ -11,7 +11,9 @@ btriapps.gov.bd
 cafocommerce.gov.bd
 cafocultural.gov.bd
 cafomolwa.gov.bd
+cafoparliament.gov.bd
 ccms.gov.bd
+cdn.epb-exporttracker.gov.bd
 cgpoura.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.server.melandahbhata.gov.bd
@@ -26,7 +28,11 @@ dis.btrc.gov.bd
 dphe.gov.bd
 dt.ekshop.gov.bd
 eduboardresults.gov.bd
+ems.epb.gov.bd
+epb-exporttracker.gov.bd
 estate.kda.gov.bd
+exportdb.epb-exporttracker.gov.bd
+exportdbapi.epb-exporttracker.gov.bd
 fci.gov.bd
 ggmcg.gov.bd
 gjkagc.gov.bd
