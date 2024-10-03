@@ -15,6 +15,7 @@ api-core.lams.land.gov.bd
 api-utility.dlrms.land.gov.bd
 api.padmamuseum.gov.bd
 app.dghs.gov.bd
+app.latc.gov.bd
 apps.gjkagc.gov.bd
 ar.gameapp.gov.bd
 asi.dfsrcaab.gov.bd
@@ -218,6 +219,7 @@ padmamuseum.gov.bd
 panel.adolnutrireporting.nnsop.gov.bd
 payment.ekshop.gov.bd
 pbrlp.gov.bd
+pel.dfsrcaab.gov.bd
 play.betarcommercialservice.gov.bd
 pmfellowship.cao.gov.bd
 portal.ekpass.gov.bd
@@ -365,6 +367,7 @@ www.nrb.scc.gov.bd
 www.ntrc.gameapp.gov.bd
 www.oyshorzo.kabinazrulcollege.gov.bd
 www.pbrlp.gov.bd
+www.pel.dfsrcaab.gov.bd
 www.play.betarcommercialservice.gov.bd
 www.profile.nins.gov.bd
 www.rajshahiboard.gov.bd
