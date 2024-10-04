@@ -33,7 +33,6 @@ bangladesh.gov.bd
 barishal.gov.bd
 barishaldiv.gov.bd
 barura.comillalg.gov.bd
-bdansarerp.gov.bd
 bdrisnotification.dghs.gov.bd
 bepza.gov.bd
 bgcf.gov.bd
@@ -75,7 +74,6 @@ chittagongzoo.gov.bd
 citizen.dlrms.land.gov.bd
 comillalg.gov.bd
 comillasadar.comillalg.gov.bd
-covid19.mohfw.gov.bd
 covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpanel.cafodefence.gov.bd
@@ -85,6 +83,7 @@ cpanel.eduboardresults.gov.bd
 cpanel.moulvibazartsc.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpanel.server.melandahbhata.gov.bd
+cpanel.sesip.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxeszone2.gov.bd
 cpcalendars.cafodefence.gov.bd
@@ -92,12 +91,14 @@ cpcalendars.e-tax-nbr.gov.bd
 cpcalendars.eduboardresults.gov.bd
 cpcalendars.munshiganjlg.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
+cpcalendars.sesip.gov.bd
 cpcalendars.taxeszone2.gov.bd
 cpcontacts.cafodefence.gov.bd
 cpcontacts.e-tax-nbr.gov.bd
 cpcontacts.eduboardresults.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 cpcontacts.server.melandahbhata.gov.bd
+cpcontacts.sesip.gov.bd
 cpcontacts.taxeszone2.gov.bd
 ct.taxeszoneonedhaka.gov.bd
 cttcdmp.gov.bd
@@ -185,6 +186,7 @@ lams.land.gov.bd
 laravel.sfcnavy.gov.bd
 learning.dgme.gov.bd
 logo.smartbangladesh.gov.bd
+mail.akkelpurmunicipality.gov.bd
 mail.ar.gameapp.gov.bd
 mail.cafodefence.gov.bd
 mail.cao.gov.bd
@@ -196,9 +198,11 @@ mail.icml.gov.bd
 mail.moulvibazartsc.gov.bd
 mail.munshiganjlg.gov.bd
 mail.server.melandahbhata.gov.bd
+mail.sesip.gov.bd
 mail.sylhettsc.gov.bd
 mail.taxeszone2.gov.bd
 mail.tearesort.gov.bd
+mail.usc.dghs.gov.bd
 management.bogurapolice.gov.bd
 mbgc.gov.bd
 mcci-dev.niseee.gov.bd
@@ -274,6 +278,7 @@ server.melandahbhata.gov.bd
 service.gov.bd
 services.kda.gov.bd
 services.nha.gov.bd
+sesip.gov.bd
 sfcarmy.gov.bd
 sgtc.gov.bd
 shmcj.gov.bd
@@ -305,7 +310,6 @@ titas.comillalg.gov.bd
 tms.brri.gov.bd
 tourismctg.gov.bd
 tr.mcishr.dghs.gov.bd
-training.cirt.gov.bd
 tscnatore.gov.bd
 turn.vc8.bcc.gov.bd
 uniontax.gov.bd
@@ -321,8 +325,10 @@ webdisk.e-tax-nbr.gov.bd
 webdisk.eduboardresults.gov.bd
 webdisk.munshiganjlg.gov.bd
 webdisk.server.melandahbhata.gov.bd
+webdisk.sesip.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxeszone2.gov.bd
+webmail.akkelpurmunicipality.gov.bd
 webmail.cafodefence.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.eduboardresults.gov.bd
@@ -330,6 +336,7 @@ webmail.moulvibazartsc.gov.bd
 webmail.munshiganjlg.gov.bd
 webmail.savargc.gov.bd
 webmail.server.melandahbhata.gov.bd
+webmail.sesip.gov.bd
 webmail.sylhettsc.gov.bd
 webmail.taxeszone2.gov.bd
 whm.server.melandahbhata.gov.bd
@@ -347,7 +354,6 @@ www.ar.gameapp.gov.bd
 www.asi.dfsrcaab.gov.bd
 www.bamis.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
-www.bdansarerp.gov.bd
 www.bicm.gov.bd
 www.biwtavhc.gov.bd
 www.bpo.farmbroadcast.gov.bd
@@ -387,6 +393,7 @@ www.investor.icml.gov.bd
 www.laravel.sfcnavy.gov.bd
 www.mail.ar.gameapp.gov.bd
 www.mail.sreda.gov.bd
+www.majhpara.uppabnaholdingtax.gov.bd
 www.mopa.gov.bd
 www.moulvibazartsc.gov.bd
 www.munshiganjlg.gov.bd
@@ -409,6 +416,7 @@ www.report.ec4j.gov.bd
 www.sadai.gov.bd
 www.savargc.gov.bd
 www.server.melandahbhata.gov.bd
+www.sesip.gov.bd
 www.smartandikot.gov.bd
 www.smartbangladesh.gov.bd
 www.somotolercha.btriapps.gov.bd
