@@ -8,9 +8,13 @@ caabhc.gov.bd
 cmmc.gov.bd
 comillaboard.gov.bd
 cpanel.caabhc.gov.bd
+cpanel.munshiganjlg.gov.bd
 cpanel.railwaypolice.gov.bd
+cpcalendars.munshiganjlg.gov.bd
 cpcalendars.railwaypolice.gov.bd
+cpcontacts.munshiganjlg.gov.bd
 cpcontacts.railwaypolice.gov.bd
+dashboard.iedcr.gov.bd
 demo.rmch.gov.bd
 diva.bvc.gov.bd
 elearning.ec4j.gov.bd
@@ -25,10 +29,13 @@ mail.akkelpurmunicipality.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.caabhc.gov.bd
 mail.du.gameapp.gov.bd
+mail.munshiganjlg.gov.bd
 mail.railwaypolice.gov.bd
 mail.usc.dghs.gov.bd
 melandahbhata.gov.bd
+munshiganjlg.gov.bd
 new.bhtpa.gov.bd
+nis.cabinet.gov.bd
 npms.notarypublic.gov.bd
 pdb.shrlive.dghs.gov.bd
 prizebond.ird.gov.bd
@@ -44,9 +51,11 @@ travelexperts.cafoinfo.gov.bd
 tscmeherpur.gov.bd
 turn.vc7.bcc.gov.bd
 uppabnaholdingtax.gov.bd
+webdisk.munshiganjlg.gov.bd
 webdisk.railwaypolice.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.caabhc.gov.bd
+webmail.munshiganjlg.gov.bd
 webmail.railwaypolice.gov.bd
 www.beeer.sreda.gov.bd
 www.caabhc.gov.bd
@@ -70,6 +79,7 @@ www.keshorhatpourashava.gov.bd
 www.mail.bsfmstu.gameapp.gov.bd
 www.mail.du.gameapp.gov.bd
 www.mulgram.uppabnaholdingtax.gov.bd
+www.munshiganjlg.gov.bd
 www.new.bhtpa.gov.bd
 www.pmis.ansarvdpbank.gov.bd
 www.railwaypolice.gov.bd
