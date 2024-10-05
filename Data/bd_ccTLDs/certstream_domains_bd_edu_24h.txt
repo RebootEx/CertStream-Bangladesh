@@ -1,3 +1,4 @@
+aam.edu.bd
 aambc.edu.bd
 aasdm.edu.bd
 aausc.edu.bd
@@ -52,6 +53,7 @@ autodiscover.barakholhs.edu.bd
 autodiscover.bdmm.edu.bd
 autodiscover.bishiahs.edu.bd
 autodiscover.caghs.edu.bd
+autodiscover.cti.edu.bd
 autodiscover.daamm.edu.bd
 autodiscover.golaidangahighschool.edu.bd
 autodiscover.govmmalicollege.edu.bd
@@ -65,6 +67,7 @@ autodiscover.saturiagovmphschool.edu.bd
 autodiscover.shikarpurjhs.edu.bd
 autodiscover.sholakurihschool.edu.bd
 autodiscover.trimohanihs.edu.bd
+autodiscover.urphs.edu.bd
 azimuddinhs.edu.bd
 backend.nababganjdakhilmadrasah.edu.bd
 badchs.edu.bd
@@ -132,6 +135,7 @@ bmusc.edu.bd
 bnfm.edu.bd
 boaliass.edu.bd
 bogahighschool.edu.bd
+boyratmajaildhepahighschool.edu.bd
 bpjhs.edu.bd
 bpsam.edu.bd
 brbdm.edu.bd
@@ -185,6 +189,7 @@ cpanel.bdmm.edu.bd
 cpanel.bidmm.edu.bd
 cpanel.bishiahs.edu.bd
 cpanel.caghs.edu.bd
+cpanel.cti.edu.bd
 cpanel.daamm.edu.bd
 cpanel.golaidangahighschool.edu.bd
 cpanel.govmmalicollege.edu.bd
@@ -205,6 +210,7 @@ cpanel.sholakurihschool.edu.bd
 cpanel.snhsr.edu.bd
 cpanel.trimohanihs.edu.bd
 cpanel.uds.edu.bd
+cpanel.urphs.edu.bd
 cpcalendars.aausc.edu.bd
 cpcalendars.afmadrasah.edu.bd
 cpcalendars.aknabansbariahs.edu.bd
@@ -215,6 +221,7 @@ cpcalendars.bdmm.edu.bd
 cpcalendars.bidmm.edu.bd
 cpcalendars.bishiahs.edu.bd
 cpcalendars.caghs.edu.bd
+cpcalendars.cti.edu.bd
 cpcalendars.daamm.edu.bd
 cpcalendars.golaidangahighschool.edu.bd
 cpcalendars.govmmalicollege.edu.bd
@@ -234,6 +241,7 @@ cpcalendars.shikarpurjhs.edu.bd
 cpcalendars.sholakurihschool.edu.bd
 cpcalendars.snhsr.edu.bd
 cpcalendars.trimohanihs.edu.bd
+cpcalendars.urphs.edu.bd
 cpcontacts.aausc.edu.bd
 cpcontacts.afmadrasah.edu.bd
 cpcontacts.aknabansbariahs.edu.bd
@@ -244,6 +252,7 @@ cpcontacts.bdmm.edu.bd
 cpcontacts.bidmm.edu.bd
 cpcontacts.bishiahs.edu.bd
 cpcontacts.caghs.edu.bd
+cpcontacts.cti.edu.bd
 cpcontacts.daamm.edu.bd
 cpcontacts.golaidangahighschool.edu.bd
 cpcontacts.govmmalicollege.edu.bd
@@ -264,6 +273,7 @@ cpcontacts.sholakurihschool.edu.bd
 cpcontacts.snhsr.edu.bd
 cpcontacts.spdm1985.edu.bd
 cpcontacts.trimohanihs.edu.bd
+cpcontacts.urphs.edu.bd
 cptahs.edu.bd
 cts.edu.bd
 daamm.edu.bd
@@ -330,6 +340,7 @@ faumdm.edu.bd
 fchs.edu.bd
 ffm.edu.bd
 fgonjss.edu.bd
+fgphs.edu.bd
 fmkm.edu.bd
 frii.edu.bd
 ftphs.edu.bd
@@ -356,6 +367,7 @@ gosingaalimmadrasah.edu.bd
 gotatikorblhs.edu.bd
 gouripurpghs.edu.bd
 govmmalicollege.edu.bd
+govsmc.edu.bd
 govtsjmhs.edu.bd
 gpghs.edu.bd
 gpss.edu.bd
@@ -369,15 +381,18 @@ guhs.edu.bd
 gunarishitalchandrahighschool.edu.bd
 haahfahs.edu.bd
 hahdm.edu.bd
+hahs.edu.bd
 hamdarduniversity.edu.bd
 hashimpurmadrasah.edu.bd
 haziparahamidiahschool.edu.bd
+hbmc.edu.bd
 hdms.edu.bd
 hduakm.edu.bd
 hetampurss.edu.bd
 hfmdmtista.edu.bd
 hfuam.edu.bd
 hgdm.edu.bd
+hhscollege.edu.bd
 hkkmdm.edu.bd
 hkupam.edu.bd
 hmphss.edu.bd
@@ -508,6 +523,7 @@ mail.bpjhs.edu.bd
 mail.caghs.edu.bd
 mail.chkm.edu.bd
 mail.cmruhs.edu.bd
+mail.cti.edu.bd
 mail.daamm.edu.bd
 mail.dssm.edu.bd
 mail.frii.edu.bd
@@ -537,6 +553,7 @@ mail.sholakurihschool.edu.bd
 mail.snhsr.edu.bd
 mail.trimohanihs.edu.bd
 mail.ubc.edu.bd
+mail.urphs.edu.bd
 makss.edu.bd
 maudm.edu.bd
 maufm.edu.bd
@@ -585,6 +602,7 @@ nayergaonhs.edu.bd
 ndhc.edu.bd
 nefardargahs.edu.bd
 ngdm.edu.bd
+nghcpmhs.edu.bd
 ngpc.daffodilvarsity.edu.bd
 nhyahs.edu.bd
 nimaidighihs.edu.bd
@@ -609,6 +627,7 @@ paharpurgmhs.edu.bd
 pakuriahs.edu.bd
 pananifm.edu.bd
 panchgachimlhighschool.edu.bd
+pangshapilotgirlshighschool.edu.bd
 parbatipuriam.edu.bd
 pathairidm.edu.bd
 pauiam.edu.bd
@@ -779,6 +798,7 @@ uds.edu.bd
 uii.edu.bd
 ujanicollege.edu.bd
 uppss.edu.bd
+urphs.edu.bd
 uttara-ac-bd.uttarauniversity.edu.bd
 uttarbhs.edu.bd
 uttardahighschool.edu.bd
@@ -798,6 +818,7 @@ webdisk.bdmm.edu.bd
 webdisk.bidmm.edu.bd
 webdisk.bishiahs.edu.bd
 webdisk.caghs.edu.bd
+webdisk.cti.edu.bd
 webdisk.daamm.edu.bd
 webdisk.golaidangahighschool.edu.bd
 webdisk.govmmalicollege.edu.bd
@@ -818,6 +839,7 @@ webdisk.sholakurihschool.edu.bd
 webdisk.snhsr.edu.bd
 webdisk.spdm1985.edu.bd
 webdisk.trimohanihs.edu.bd
+webdisk.urphs.edu.bd
 webmail.aausc.edu.bd
 webmail.afmadrasah.edu.bd
 webmail.aknabansbariahs.edu.bd
@@ -826,6 +848,7 @@ webmail.bdmm.edu.bd
 webmail.bidmm.edu.bd
 webmail.bishiahs.edu.bd
 webmail.caghs.edu.bd
+webmail.cti.edu.bd
 webmail.daamm.edu.bd
 webmail.golaidangahighschool.edu.bd
 webmail.govmmalicollege.edu.bd
@@ -848,6 +871,7 @@ webmail.snhsr.edu.bd
 webmail.tghs.edu.bd
 webmail.trimohanihs.edu.bd
 webmail.uds.edu.bd
+webmail.urphs.edu.bd
 webportal.ugv.edu.bd
 westcharamddiss.edu.bd
 www.aambc.edu.bd.raichahs.edu.bd
@@ -949,6 +973,7 @@ www.cmruhs.edu.bd
 www.conference.bubt.edu.bd
 www.cpcontacts.spdm1985.edu.bd
 www.cptahs.edu.bd
+www.cti.edu.bd
 www.daamm.edu.bd
 www.dabhsc.edu.bd
 www.dacopesaheberabadhs.edu.bd
@@ -1006,6 +1031,7 @@ www.gses.edu.bd
 www.guagachhijoylahs.edu.bd
 www.guhs.edu.bd
 www.gunarishitalchandrahighschool.edu.bd
+www.hahs.edu.bd
 www.hashimpurmadrasah.edu.bd
 www.hduakm.edu.bd
 www.hkkmdm.edu.bd
@@ -1238,6 +1264,7 @@ www.tts.edu.bd.pekuahs.edu.bd
 www.ubc.edu.bd
 www.udadm.edu.bd
 www.uppss.edu.bd
+www.urphs.edu.bd
 www.uttara-ac-bd.uttarauniversity.edu.bd
 www.uttarbhs.edu.bd
 www.uttardahighschool.edu.bd
