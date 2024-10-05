@@ -6,6 +6,7 @@ admission.akcc.gov.bd
 adolnutrireporting.nnsop.gov.bd
 amarai.gameapp.gov.bd
 ansarvdpbank.gov.bd
+aoc.dfsrcaab.gov.bd
 api-admin.lams.land.gov.bd
 api-ai.dlrms.land.gov.bd
 api-communication.dlrms.land.gov.bd
@@ -75,6 +76,7 @@ covid19reports.dghs.gov.bd
 coxsbazarpolice.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.cafodefence.gov.bd
+cpanel.dikkha.gov.bd
 cpanel.e-tax-nbr.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.moulvibazartsc.gov.bd
@@ -85,6 +87,7 @@ cpanel.sesip.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxeszone2.gov.bd
 cpcalendars.cafodefence.gov.bd
+cpcalendars.dikkha.gov.bd
 cpcalendars.e-tax-nbr.gov.bd
 cpcalendars.eduboardresults.gov.bd
 cpcalendars.munshiganjlg.gov.bd
@@ -93,6 +96,7 @@ cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sesip.gov.bd
 cpcalendars.taxeszone2.gov.bd
 cpcontacts.cafodefence.gov.bd
+cpcontacts.dikkha.gov.bd
 cpcontacts.e-tax-nbr.gov.bd
 cpcontacts.eduboardresults.gov.bd
 cpcontacts.munshiganjlg.gov.bd
@@ -113,6 +117,7 @@ dewanganjbhata.gov.bd.melandahbhata.gov.bd
 dhakalabsbcsir.gov.bd
 digicod.ekshop.gov.bd
 digisigchecker.cca.gov.bd
+dikkha.gov.bd
 dis.btrc.gov.bd
 diva.bvc.gov.bd
 dlrms.land.gov.bd
@@ -180,6 +185,7 @@ mail.ar.gameapp.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.cafodefence.gov.bd
 mail.cao.gov.bd
+mail.dikkha.gov.bd
 mail.dphe.gov.bd
 mail.du.gameapp.gov.bd
 mail.eduboardresults.gov.bd
@@ -261,6 +267,7 @@ rsm.jgtdsl.gov.bd
 sadai.gov.bd
 sadarsouth.comillalg.gov.bd
 sam.nnsop.gov.bd
+sarsp.gnc.gov.bd
 satkhiratsc.gov.bd
 sdg.gov.bd
 sengarcharpaurashava.gov.bd
@@ -316,6 +323,7 @@ vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
 vtour.beautifulbangladesh.gov.bd
 webdisk.cafodefence.gov.bd
+webdisk.dikkha.gov.bd
 webdisk.e-tax-nbr.gov.bd
 webdisk.eduboardresults.gov.bd
 webdisk.munshiganjlg.gov.bd
@@ -327,6 +335,7 @@ webdisk.taxeszone2.gov.bd
 webmail.akkelpurmunicipality.gov.bd
 webmail.caabhc.gov.bd
 webmail.cafodefence.gov.bd
+webmail.dikkha.gov.bd
 webmail.e-tax-nbr.gov.bd
 webmail.eduboardresults.gov.bd
 webmail.moulvibazartsc.gov.bd
@@ -343,6 +352,7 @@ www.91011.melandahbhata.gov.bd
 www.admin.smartup.gov.bd
 www.admission.akcc.gov.bd
 www.amarai.gameapp.gov.bd
+www.aoc.dfsrcaab.gov.bd
 www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.apps.gjkagc.gov.bd
@@ -370,6 +380,7 @@ www.demo.krishibatighor.gov.bd
 www.demo.taxeszone2.gov.bd
 www.dewanganjbhata.gov.bd.melandahbhata.gov.bd
 www.dids.btriapps.gov.bd
+www.dikkha.gov.bd
 www.diva.bvc.gov.bd
 www.dms.basbmed.gov.bd
 www.du.gameapp.gov.bd
@@ -411,6 +422,7 @@ www.recruitment.sreda.gov.bd
 www.register.gameapp.gov.bd
 www.report.ec4j.gov.bd
 www.sadai.gov.bd
+www.sarsp.gnc.gov.bd
 www.server.melandahbhata.gov.bd
 www.sesip.gov.bd
 www.smartandikot.gov.bd
