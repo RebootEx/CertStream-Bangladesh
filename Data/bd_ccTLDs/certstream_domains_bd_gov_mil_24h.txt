@@ -28,6 +28,7 @@ du.gameapp.gov.bd
 eduboardresults.gov.bd
 elearning.ec4j.gov.bd
 epassport1.bpodms.gov.bd
+fima.gov.bd
 foodfornation.gov.bd
 fvt.ird.gov.bd
 gaibandhapourashava.gov.bd
@@ -47,6 +48,7 @@ mail.taxeszone5dhaka.gov.bd
 new.bhtpa.gov.bd
 nins.gov.bd
 nsdi.gov.bd
+ntp.gov.bd
 ntrc.gameapp.gov.bd
 pdb.shrlive.dghs.gov.bd
 pms.btcl.gov.bd
@@ -71,16 +73,20 @@ webmail.bpemc.gov.bd
 webmail.caabhc.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
+www.ban-fima-web.fima.gov.bd
 www.beeer.sreda.gov.bd
 www.beta.nicrh.gov.bd
 www.bpemc.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.caabhc.gov.bd
 www.center.dbwctp64.gov.bd
+www.course.fima.gov.bd
 www.cttcdmp.gov.bd
 www.demo.rmch.gov.bd
 www.du.gameapp.gov.bd
 www.elearning.ec4j.gov.bd
+www.elmis.ntp.gov.bd
+www.etbmanager.ntp.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
 www.icmab.gov.bd
 www.keshorhatpourashava.gov.bd
