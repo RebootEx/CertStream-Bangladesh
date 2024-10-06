@@ -5,6 +5,7 @@ admin.smartup.gov.bd
 admin.tds.taxeszone3ctg.gov.bd
 admission.akcc.gov.bd
 adolnutrireporting.nnsop.gov.bd
+amumc.gov.bd
 ansarvdpbank.gov.bd
 aoc.dfsrcaab.gov.bd
 api-admin.lams.land.gov.bd
@@ -272,6 +273,7 @@ smef-dev.niseee.gov.bd
 soltrack.gov.bd
 sonaimuripaurashava.gov.bd
 spisg.spisg.gov.bd
+spst.gov.bd
 sreda.gov.bd
 srishtitetulia.gov.bd
 ssnimc.gov.bd
@@ -433,4 +435,5 @@ www.verification.bmab.gov.bd
 www.verification.dos.gov.bd
 www.vwb.melandahbhata.gov.bd
 youth-dev.niseee.gov.bd
+zpjashore.gov.bd
 zprajbari.gov.bd
