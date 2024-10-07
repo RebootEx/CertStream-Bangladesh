@@ -34,6 +34,7 @@ backoffice.dlrms.land.gov.bd
 backoffice.lams.land.gov.bd
 bamis.gov.bd
 barura.comillalg.gov.bd
+bcoecopyright.gov.bd
 bdrisnotification.dghs.gov.bd
 beeer.sreda.gov.bd
 beta.nicrh.gov.bd
@@ -72,6 +73,7 @@ comillalg.gov.bd
 comillasadar.comillalg.gov.bd
 communitydhis.mohfw.gov.bd
 covid19reports.dghs.gov.bd
+cpanel.bcoecopyright.gov.bd
 cpanel.bpemc.gov.bd
 cpanel.caabhc.gov.bd
 cpanel.cafodefence.gov.bd
@@ -85,6 +87,7 @@ cpanel.server.melandahbhata.gov.bd
 cpanel.sesip.gov.bd
 cpanel.sylhettsc.gov.bd
 cpanel.taxeszone2.gov.bd
+cpcalendars.bcoecopyright.gov.bd
 cpcalendars.bpemc.gov.bd
 cpcalendars.cafodefence.gov.bd
 cpcalendars.dikkha.gov.bd
@@ -95,6 +98,7 @@ cpcalendars.railwaypolice.gov.bd
 cpcalendars.server.melandahbhata.gov.bd
 cpcalendars.sesip.gov.bd
 cpcalendars.taxeszone2.gov.bd
+cpcontacts.bcoecopyright.gov.bd
 cpcontacts.bpemc.gov.bd
 cpcontacts.cafodefence.gov.bd
 cpcontacts.dikkha.gov.bd
@@ -108,6 +112,7 @@ cpcontacts.taxeszone2.gov.bd
 ct.taxeszoneonedhaka.gov.bd
 cttcdmp.gov.bd
 dashboard.iedcr.gov.bd
+database.mspvaw.gov.bd
 daudkandi.comillalg.gov.bd
 dbwctp64.gov.bd
 debidwar.comillalg.gov.bd
@@ -137,6 +142,7 @@ enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
 epb-exporttracker.gov.bd
 episurveillance.dghs.gov.bd
+eservice.pmeat.gov.bd
 estate.kda.gov.bd
 estore.fireservice.gov.bd
 exam.akcc.gov.bd
@@ -180,6 +186,7 @@ lams.land.gov.bd
 learning.dgme.gov.bd
 logo.smartbangladesh.gov.bd
 mail.akkelpurmunicipality.gov.bd
+mail.bcoecopyright.gov.bd
 mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.caabhc.gov.bd
@@ -307,6 +314,7 @@ vaxepi.gov.bd
 verification.dos.gov.bd
 vr.bangabhaban.gov.bd
 vr.gameapp.gov.bd
+webdisk.bcoecopyright.gov.bd
 webdisk.bpemc.gov.bd
 webdisk.cafodefence.gov.bd
 webdisk.dikkha.gov.bd
@@ -319,6 +327,7 @@ webdisk.sesip.gov.bd
 webdisk.sylhettsc.gov.bd
 webdisk.taxeszone2.gov.bd
 webmail.akkelpurmunicipality.gov.bd
+webmail.bcoecopyright.gov.bd
 webmail.bpemc.gov.bd
 webmail.caabhc.gov.bd
 webmail.cafodefence.gov.bd
@@ -347,6 +356,7 @@ www.ar.gameapp.gov.bd
 www.bamis.gov.bd
 www.ban-fima-web.fima.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
+www.bcoecopyright.gov.bd
 www.beeer.sreda.gov.bd
 www.beta.nicrh.gov.bd
 www.bpemc.gov.bd
@@ -366,6 +376,7 @@ www.course.fima.gov.bd
 www.ct.taxeszoneonedhaka.gov.bd
 www.cttcdmp.gov.bd
 www.database.melandahbhata.gov.bd
+www.database.mspvaw.gov.bd
 www.db.padmamuseum.gov.bd
 www.demo.krishibatighor.gov.bd
 www.demo.rmch.gov.bd
@@ -385,6 +396,7 @@ www.elearning.ec4j.gov.bd
 www.elmis.ntp.gov.bd
 www.en.sfcnavy.gov.bd
 www.erp.sreda.gov.bd
+www.eservice.pmeat.gov.bd
 www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
 www.feedback.bmab.gov.bd
