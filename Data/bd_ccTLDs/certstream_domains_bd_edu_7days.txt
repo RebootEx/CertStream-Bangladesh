@@ -192,6 +192,7 @@ autodiscover.mkmadrasah.edu.bd
 autodiscover.nababganjdakhilmadrasah.edu.bd
 autodiscover.nghscollege.edu.bd
 autodiscover.paharpurgmhs.edu.bd
+autodiscover.pkshs.edu.bd
 autodiscover.puhs.edu.bd
 autodiscover.ramballavpurhs.edu.bd
 autodiscover.rikabi.edu.bd
@@ -630,6 +631,7 @@ cpanel.panjaraigkyidm.edu.bd
 cpanel.paratihs.edu.bd
 cpanel.pei.edu.bd
 cpanel.perulhs.edu.bd
+cpanel.pkshs.edu.bd
 cpanel.porabaripfm.edu.bd
 cpanel.premnolhs.edu.bd
 cpanel.puhs.edu.bd
@@ -740,6 +742,7 @@ cpcalendars.panjaraigkyidm.edu.bd
 cpcalendars.paratihs.edu.bd
 cpcalendars.pei.edu.bd
 cpcalendars.perulhs.edu.bd
+cpcalendars.pkshs.edu.bd
 cpcalendars.porabaripfm.edu.bd
 cpcalendars.premnolhs.edu.bd
 cpcalendars.puhs.edu.bd
@@ -844,6 +847,7 @@ cpcontacts.panjaraigkyidm.edu.bd
 cpcontacts.paratihs.edu.bd
 cpcontacts.pei.edu.bd
 cpcontacts.perulhs.edu.bd
+cpcontacts.pkshs.edu.bd
 cpcontacts.porabaripfm.edu.bd
 cpcontacts.premnolhs.edu.bd
 cpcontacts.puhs.edu.bd
@@ -1752,6 +1756,7 @@ mail.paratihs.edu.bd
 mail.pei.edu.bd
 mail.perulhs.edu.bd
 mail.pingnaghs.edu.bd
+mail.pkshs.edu.bd
 mail.porabaripfm.edu.bd
 mail.premnolhs.edu.bd
 mail.puhs.edu.bd
@@ -2111,6 +2116,7 @@ pkfsc.edu.bd
 pkhighschool.edu.bd
 pkhsss.edu.bd
 pkkdm.edu.bd
+pkshs.edu.bd
 plbhs.edu.bd
 plhksm.edu.bd
 plhschoolbarguna.edu.bd
@@ -2718,6 +2724,7 @@ webdisk.panjaraigkyidm.edu.bd
 webdisk.paratihs.edu.bd
 webdisk.pei.edu.bd
 webdisk.perulhs.edu.bd
+webdisk.pkshs.edu.bd
 webdisk.porabaripfm.edu.bd
 webdisk.premnolhs.edu.bd
 webdisk.puhs.edu.bd
@@ -2818,6 +2825,7 @@ webmail.nghscollege.edu.bd
 webmail.nhs.edu.bd
 webmail.paharpurgmhs.edu.bd
 webmail.pei.edu.bd
+webmail.pkshs.edu.bd
 webmail.porabaripfm.edu.bd
 webmail.puhs.edu.bd
 webmail.rbabhs.edu.bd
@@ -3760,6 +3768,7 @@ www.pirojpurfm.edu.bd
 www.pitambarpara.edu.bd
 www.pkhsss.edu.bd
 www.pkkdm.edu.bd
+www.pkshs.edu.bd
 www.pmd.edu.bd
 www.pmhs.edu.bd
 www.pmisgs.edu.bd
