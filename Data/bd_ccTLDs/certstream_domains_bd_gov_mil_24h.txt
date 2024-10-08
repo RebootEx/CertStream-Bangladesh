@@ -1,5 +1,6 @@
 admin.vaxepi.gov.bd
 alokitotaraganj.gov.bd
+app.zprajshahi.gov.bd
 autodiscover.bpemc.gov.bd
 backup.fima.gov.bd
 beta.nicrh.gov.bd
@@ -9,8 +10,10 @@ cafocabinet.gov.bd
 cafocagpscec.gov.bd
 cafocat.gov.bd
 cafoimed.gov.bd
+cafoird.gov.bd
 cafopme.gov.bd
 cafowomenchild.gov.bd
+cafoworks.gov.bd
 cafoyouthandsports.gov.bd
 chapaipoura.gov.bd
 cip.probashi.gov.bd
@@ -27,16 +30,19 @@ etds.gov.bd
 fima.gov.bd
 info.shr.dghs.gov.bd
 ipv6.durjog.gov.bd
+journal.bcsadminacademy.gov.bd
 kmch.gov.bd
 labrepository.bfsa.gov.bd
 mail.bholapourashava.gov.bd
 mail.bpemc.gov.bd
 mail.durjog.gov.bd
 ms.tihdtcb.gov.bd
+mylocker.gov.bd
 nins.gov.bd
 noipunno.gov.bd
 notice.bavs.gov.bd
 ntp.gov.bd
+omsdebidwar.gov.bd
 rpcl-org-bd.bpemc.gov.bd
 rpclorg.bpemc.gov.bd
 rpi.gov.bd
@@ -51,6 +57,7 @@ webdisk.bpemc.gov.bd
 webdisk.durjog.gov.bd
 webmail.bpemc.gov.bd
 webmail.durjog.gov.bd
+www.app.zprajshahi.gov.bd
 www.backup.fima.gov.bd
 www.ban-fima-web.fima.gov.bd
 www.beta.nicrh.gov.bd
@@ -74,5 +81,6 @@ www.server.secretariatclinic.gov.bd
 www.slot777.secretariatclinic.gov.bd
 www.slotgacor.secretariatclinic.gov.bd
 www.sums-server.rpi.gov.bd
+www.test.omsdebidwar.gov.bd
 zpchapainawabganj.gov.bd
 zpdhaka.gov.bd
