@@ -32,6 +32,7 @@ autodiscover.server.melandahbhata.gov.bd
 autodiscover.taxeszone2.gov.bd
 backoffice.dlrms.land.gov.bd
 backoffice.lams.land.gov.bd
+backup.fima.gov.bd
 bamis.gov.bd
 barura.comillalg.gov.bd
 bcoecopyright.gov.bd
@@ -356,6 +357,7 @@ www.api.edp.gov.bd
 www.api.padmamuseum.gov.bd
 www.apps.gjkagc.gov.bd
 www.ar.gameapp.gov.bd
+www.backup.fima.gov.bd
 www.bamis.gov.bd
 www.ban-fima-web.fima.gov.bd
 www.basati.upmymensinghholdingtax.gov.bd
