@@ -3,6 +3,7 @@ autodiscover.madanpourashava.gov.bd
 aviation.bmd.gov.bd
 backup.fima.gov.bd
 bhpi.gov.bd
+cafocat.gov.bd
 cafochta.gov.bd
 cafoeducation.gov.bd
 cafoimed.gov.bd
@@ -15,6 +16,7 @@ cafotnt.gov.bd
 cafoworks.gov.bd
 cafoyouthandsports.gov.bd
 certificates.gov.bd
+clms.emis.gov.bd
 cpanel.madanpourashava.gov.bd
 cpanel.rgccr.gov.bd
 cpcalendars.madanpourashava.gov.bd
@@ -23,6 +25,7 @@ cpcontacts.madanpourashava.gov.bd
 cpcontacts.rgccr.gov.bd
 dcsherpurinfo.gov.bd
 demo-vaxin.dghs.gov.bd
+dev-backend.tourismctg.gov.bd
 dhakala.gov.bd
 dinajpurboard.gov.bd
 dpg.grs.gov.bd
@@ -33,6 +36,7 @@ gsfy.brri.gov.bd
 habiganjpourashava.gov.bd
 info.shr.dghs.gov.bd
 ir.brri.gov.bd
+ispr.gov.bd
 journal.bcsadminacademy.gov.bd
 khaac.gov.bd
 labourdata.dife.gov.bd
@@ -45,8 +49,10 @@ mail.madanpourashava.gov.bd
 mail.rgccr.gov.bd
 management.eduboardresults.gov.bd
 mohanganjpaurashava.gov.bd
+ms.tihdtcb.gov.bd
 nabinagarpourashava.gov.bd
 narailpourashava.gov.bd
+ndsi.sreda.gov.bd
 noakhalicoll.gov.bd
 notice.bavs.gov.bd
 onlineexam.gbrcr.gov.bd
@@ -64,6 +70,7 @@ webmail.rgccr.gov.bd
 www.admin-server.rpi.gov.bd
 www.backup.fima.gov.bd
 www.home.habiganjpourashava.gov.bd
+www.ispr.gov.bd
 www.madanpourashava.gov.bd
 www.management.eduboardresults.gov.bd
 www.notice.bavs.gov.bd
