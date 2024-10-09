@@ -16,6 +16,7 @@ api.pogaldighamodelhs.edu.bd
 atigramsecondaryschool.edu.bd
 autodiscover.ambss.edu.bd
 autodiscover.betgarihs.edu.bd
+autodiscover.icmraj.edu.bd
 autodiscover.mmsc.edu.bd
 baghutiaam.edu.bd
 bakarerhaths.edu.bd
@@ -31,6 +32,7 @@ betgarihs.edu.bd
 bghsbpara.edu.bd
 bgs.edu.bd
 bhadialihs.edu.bd
+bhangamohilacollege.edu.bd
 bhuhscl.edu.bd
 bidyabithi.edu.bd
 binayekpurdm.edu.bd
@@ -38,6 +40,7 @@ bjdcm.edu.bd
 bndewhs.edu.bd
 boldiimhsdakshinsurma.edu.bd
 boragarighs.edu.bd
+broadmaxit.com.satiacharasnghs.edu.bd
 bsghs-lakhai.edu.bd
 bsidhaka.edu.bd
 cddm1.edu.bd
@@ -51,6 +54,7 @@ cocc.edu.bd
 continentalbd.com.legend.edu.bd
 cpanel.betgarihs.edu.bd
 cpanel.cddm1.edu.bd
+cpanel.gsamadrasha.edu.bd
 cpanel.mmsc.edu.bd
 cpanel.nhidm.edu.bd
 cpanel.nsghschool.edu.bd
@@ -64,6 +68,8 @@ cpc.daffodilvarsity.edu.bd
 cpcalendars.ambss.edu.bd
 cpcalendars.betgarihs.edu.bd
 cpcalendars.cddm1.edu.bd
+cpcalendars.gsamadrasha.edu.bd
+cpcalendars.icmraj.edu.bd
 cpcalendars.mmsc.edu.bd
 cpcalendars.nhidm.edu.bd
 cpcalendars.nsghschool.edu.bd
@@ -76,6 +82,8 @@ cpcalendars.zakigonjgovtcollege.edu.bd
 cpcontacts.ambss.edu.bd
 cpcontacts.betgarihs.edu.bd
 cpcontacts.cddm1.edu.bd
+cpcontacts.gsamadrasha.edu.bd
+cpcontacts.icmraj.edu.bd
 cpcontacts.mmsc.edu.bd
 cpcontacts.nhidm.edu.bd
 cpcontacts.nsghschool.edu.bd
@@ -118,8 +126,10 @@ fkhsbaliadangi.edu.bd
 garparahafizcollege.edu.bd
 gbagwc.edu.bd
 gbhsk.edu.bd
+gbmcwc.edu.bd
 gic.edu.bd
 gmfrgc.edu.bd
+gsamadrasha.edu.bd
 haithkandihighschool.edu.bd
 haranandapurhs.edu.bd
 hartasandc.edu.bd
@@ -133,8 +143,10 @@ hmuphs.edu.bd
 hollyhock.edu.bd
 hukhs.edu.bd
 ibmcr.edu.bd
+icmraj.edu.bd
 ieee.daffodilvarsity.edu.bd
 ihsh.edu.bd
+infra.edu.bd
 jadc.edu.bd
 jagannathpurscghs.edu.bd
 jalalpurcollege.edu.bd
@@ -166,6 +178,7 @@ kurchaimpmhs.edu.bd
 lakhaiacrcphs.edu.bd
 lalagorharaziadakhilmadrasa.edu.bd
 law.cub.edu.bd
+laxmipurgovtcollege.edu.bd
 lelangaraphs.edu.bd
 lib.su.edu.bd
 library.ist.edu.bd
@@ -178,6 +191,7 @@ mail.bcghs.edu.bd
 mail.betgarihs.edu.bd
 mail.boragarighs.edu.bd
 mail.cddm1.edu.bd
+mail.gsamadrasha.edu.bd
 mail.hmlhs.edu.bd
 mail.kagss.edu.bd
 mail.kkdghs.edu.bd
@@ -204,9 +218,11 @@ mmhs.edu.bd
 mmsc.edu.bd
 mmsram.edu.bd
 monirahmedacademy.edu.bd
+mrdcnil.edu.bd
 mrdcsandwip.edu.bd
 msmc.edu.bd
 mtabmc.edu.bd
+mufm118584.edu.bd
 muhs.edu.bd
 mumiam.edu.bd
 munsirtallukgdm.edu.bd
@@ -237,9 +253,13 @@ password.recovery.sust.edu.bd
 pgs.sau.edu.bd
 pkphs.edu.bd
 pmhs.edu.bd
+pmkadm.edu.bd
+portcity.edu.bd
+prcinstitution.edu.bd
 presidencybd.edu.bd
 primeasia.primeasia.edu.bd
 pshsc.edu.bd
+radhanagarhighschool.edu.bd
 rajafairhighschool.edu.bd
 rajibpurgovtcollege.edu.bd
 rangvalley.com.satiacharasnghs.edu.bd
@@ -304,6 +324,8 @@ vlsi.bubt.edu.bd
 wamhschool.edu.bd
 webdisk.betgarihs.edu.bd
 webdisk.cddm1.edu.bd
+webdisk.gsamadrasha.edu.bd
+webdisk.icmraj.edu.bd
 webdisk.mmsc.edu.bd
 webdisk.nhidm.edu.bd
 webdisk.nsghschool.edu.bd
@@ -315,12 +337,15 @@ webdisk.wamhschool.edu.bd
 webdisk.zakigonjgovtcollege.edu.bd
 webmail.betgarihs.edu.bd
 webmail.cddm1.edu.bd
+webmail.gsamadrasha.edu.bd
 webmail.mmsc.edu.bd
 webmail.ugv.edu.bd
+whm.gsamadrasha.edu.bd
 www.admission.ctschool.edu.bd
 www.admission.nipghs.edu.bd
 www.admission.presidencybd.edu.bd
 www.ajmhs.kdbbhs.edu.bd
+www.alumni.infra.edu.bd
 www.amwcollege.edu.bd
 www.anmdm.edu.bd
 www.api.pogaldighamodelhs.edu.bd
@@ -335,6 +360,7 @@ www.betgarihs.edu.bd
 www.bhuhscl.edu.bd
 www.boldiimhsdakshinsurma.edu.bd
 www.boragarighs.edu.bd
+www.broadmaxit.com.satiacharasnghs.edu.bd
 www.bsghs-lakhai.edu.bd
 www.cddm1.edu.bd
 www.chsb.kdbbhs.edu.bd
@@ -357,14 +383,17 @@ www.ems.tamuhaniarbhs.edu.bd
 www.fsnsc.edu.bd
 www.gbagwc.edu.bd
 www.gmfrgc.edu.bd
+www.gsamadrasha.edu.bd
 www.helpdesk2.green.edu.bd
 www.hkfm.edu.bd
 www.hkks.kdbbhs.edu.bd
 www.hmlhs.edu.bd
 www.hmuphs.edu.bd
+www.icmraj.edu.bd
 www.info.presidencybd.edu.bd
 www.jagannathpurscghs.edu.bd
 www.jalalpurcollege.edu.bd
+www.jobportal.infra.edu.bd
 www.juranpurknesahs.edu.bd
 www.kagss.edu.bd
 www.kamarkholaunionhighschool.edu.bd
@@ -398,6 +427,7 @@ www.panjaraigkyidm.edu.bd
 www.paschimdhs.edu.bd
 www.pgs.sau.edu.bd
 www.pmhs.edu.bd
+www.portcity.edu.bd
 www.primeasia.primeasia.edu.bd
 www.rangvalley.com.satiacharasnghs.edu.bd
 www.rowailhighschool.edu.bd
