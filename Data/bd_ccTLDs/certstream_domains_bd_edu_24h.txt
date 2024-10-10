@@ -130,6 +130,7 @@ cpcalendars.garparahs.edu.bd
 cpcalendars.icmraj.edu.bd
 cpcalendars.koittahighschool.edu.bd
 cpcalendars.lemubaribinodasundaryhighschool.edu.bd
+cpcalendars.mlisinfo.edu.bd
 cpcalendars.mmsc.edu.bd
 cpcalendars.mnbhs.edu.bd
 cpcalendars.porabaripfm.edu.bd
@@ -156,6 +157,7 @@ cpcontacts.garparahs.edu.bd
 cpcontacts.icmraj.edu.bd
 cpcontacts.koittahighschool.edu.bd
 cpcontacts.lemubaribinodasundaryhighschool.edu.bd
+cpcontacts.mlisinfo.edu.bd
 cpcontacts.mmsc.edu.bd
 cpcontacts.mnbhs.edu.bd
 cpcontacts.porabaripfm.edu.bd
@@ -213,6 +215,8 @@ hamdarduniversity.edu.bd
 hamghschool.edu.bd
 hiramiahghs.edu.bd
 hizaltalamhighs.edu.bd
+hkfm.edu.bd
+hmlhs.edu.bd
 icmraj.edu.bd
 idcardexpress.nstu.edu.bd
 ighsbsri.edu.bd
@@ -287,6 +291,7 @@ mail.cissmb.edu.bd
 mail.ctc.edu.bd
 mail.fkmrhighschool.edu.bd
 mail.garparahs.edu.bd
+mail.hmlhs.edu.bd
 mail.kakm.edu.bd
 mail.koittahighschool.edu.bd
 mail.lemubaribinodasundaryhighschool.edu.bd
@@ -327,6 +332,7 @@ mpahs.edu.bd
 mpghighschool.edu.bd
 msihs.edu.bd
 msk.edu.bd
+myasac.edu.bd
 nasc.edu.bd
 nasiruddinhs.edu.bd
 natidangadm.edu.bd
@@ -342,6 +348,7 @@ old.mhrms.edu.bd
 osmaniakamilmadrasah.edu.bd
 padm.edu.bd
 pallabimohiladegreecollege.edu.bd
+paniparaam.edu.bd
 parilahighschool.edu.bd
 pashchimbss.edu.bd
 pbcchs.edu.bd
@@ -383,6 +390,7 @@ sankorpayadarshahighschool.edu.bd
 santhiagov-pmhs.edu.bd
 sarmaranuhs.edu.bd
 satarbhagschoolandcollege.edu.bd
+satgaonhighschool.edu.bd
 sbnkhs.edu.bd
 sbss.edu.bd
 sbyc.daffodilvarsity.edu.bd
@@ -453,6 +461,7 @@ webdisk.garparahs.edu.bd
 webdisk.icmraj.edu.bd
 webdisk.koittahighschool.edu.bd
 webdisk.lemubaribinodasundaryhighschool.edu.bd
+webdisk.mlisinfo.edu.bd
 webdisk.mmsc.edu.bd
 webdisk.mnbhs.edu.bd
 webdisk.porabaripfm.edu.bd
@@ -478,6 +487,7 @@ webmail.fkmrhighschool.edu.bd
 webmail.garparahs.edu.bd
 webmail.koittahighschool.edu.bd
 webmail.lemubaribinodasundaryhighschool.edu.bd
+webmail.mlisinfo.edu.bd
 webmail.mmsc.edu.bd
 webmail.mnbhs.edu.bd
 webmail.porabaripfm.edu.bd
@@ -544,6 +554,8 @@ www.gatiparahighschool.edu.bd.tma.edu.bd
 www.gilatolimadrasah.edu.bd
 www.gohs.edu.bd
 www.hiramiahghs.edu.bd
+www.hkfm.edu.bd
+www.hmlhs.edu.bd
 www.icmraj.edu.bd
 www.idcardexpress.nstu.edu.bd
 www.inathganjhighschool77.edu.bd
@@ -611,6 +623,7 @@ www.sankorpayadarshahighschool.edu.bd
 www.santhiagov-pmhs.edu.bd
 www.sarmaranuhs.edu.bd
 www.satarbhagschoolandcollege.edu.bd
+www.satgaonhighschool.edu.bd
 www.sbss.edu.bd
 www.serkolshimla.edu.bd
 www.shakpurhs.edu.bd
