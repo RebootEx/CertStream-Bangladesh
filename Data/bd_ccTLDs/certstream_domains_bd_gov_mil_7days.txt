@@ -1,4 +1,5 @@
 333.gov.bd
+aaic.gov.bd
 accessibledictionary.gov.bd
 adarshasadar.comillalg.gov.bd
 admin.vaxepi.gov.bd
@@ -61,6 +62,7 @@ cafotnt.gov.bd
 cafowomenchild.gov.bd
 cafoworks.gov.bd
 cafoyouthandsports.gov.bd
+case-moef.gov.bd
 cbsh.gov.bd
 certificates.gov.bd
 chapaipoura.gov.bd
@@ -112,6 +114,7 @@ cpcontacts.rgccr.gov.bd
 cpcontacts.rmch.gov.bd
 cpcontacts.sesip.gov.bd
 cpcontacts.ulipurmunicipality.gov.bd
+ctgcollege.gov.bd
 cttcdmp.gov.bd
 dashboard.iedcr.gov.bd
 database.mspvaw.gov.bd
@@ -119,6 +122,7 @@ dbwctp64.gov.bd
 dcadhaka.gov.bd
 dcsherpurinfo.gov.bd
 demo-vaxin.dghs.gov.bd
+demo.railwayestate.gov.bd
 demo.rmch.gov.bd
 dev-backend.tourismctg.gov.bd
 dev-training.sla.gov.bd
@@ -137,10 +141,12 @@ edu.bd.gbrcr.gov.bd
 eduboardresults.gov.bd
 ekpass.gov.bd
 elearning.ec4j.gov.bd
+employee-hsms.somch.gov.bd
 enoc.fireservice.gov.bd
 epassport1.bpodms.gov.bd
 epietracker.dghs.gov.bd
 episurveillance.dghs.gov.bd
+epoas.ddm.gov.bd
 eservice.pmeat.gov.bd
 etds.gov.bd
 etracker.dghs.gov.bd
@@ -152,8 +158,10 @@ fowlab.gov.bd
 freelancers.gov.bd
 fvt.ird.gov.bd
 gaibandhapourashava.gov.bd
+gazette.railwayestate.gov.bd
 gdc.gov.bd
 ghjashore.gov.bd
+git.dghs.gov.bd
 global.xiclassadmission.gov.bd
 gobindagonjpourashava.gov.bd
 golapganjpourashava.gov.bd
@@ -167,6 +175,7 @@ home.gnc.gov.bd
 hotels.gov.bd
 hrm.dghs.gov.bd
 hsc-dbtp-2023.dinajpurboard.gov.bd
+hsms.somch.gov.bd
 icmab.gov.bd
 indoortracker.mohfw.gov.bd
 info.shr.dghs.gov.bd
@@ -175,6 +184,7 @@ ir.brri.gov.bd
 ispr.gov.bd
 jitsi.vc7.bcc.gov.bd
 jitsi.vc8.bcc.gov.bd
+jmc.gov.bd
 josherup.narsingdilg.gov.bd
 journal.bcsadminacademy.gov.bd
 judiciary.gov.bd
@@ -187,6 +197,7 @@ kmch.gov.bd
 labourdata.dife.gov.bd
 labrepository.bfsa.gov.bd
 ladhaka.gov.bd
+ldtax.gov.bd
 learn.freelancers.gov.bd
 logistics.gov.bd
 logo.gov.bd
@@ -199,6 +210,7 @@ mail.bpemc.gov.bd
 mail.bsfmstu.gameapp.gov.bd
 mail.caabhc.gov.bd
 mail.cao.gov.bd
+mail.case-moef.gov.bd
 mail.cttcdmp.gov.bd
 mail.dikkha.gov.bd
 mail.du.gameapp.gov.bd
@@ -208,6 +220,8 @@ mail.madanpourashava.gov.bd
 mail.mrccdhk.dos.gov.bd
 mail.munshiganjlg.gov.bd
 mail.railwaypolice.gov.bd
+mail.regionalwildlife.gov.bd
+mail.rgc.gov.bd
 mail.rgccr.gov.bd
 mail.rmch.gov.bd
 mail.sesip.gov.bd
@@ -223,6 +237,7 @@ mohanganjpaurashava.gov.bd
 ms.tihdtcb.gov.bd
 mta-sts.nothi.gov.bd
 munshiganjlg.gov.bd
+munshiganjtsc.gov.bd
 mylocker.gov.bd
 nabinagarpourashava.gov.bd
 naemict69.gnc.gov.bd
@@ -261,7 +276,11 @@ railwaypolice.gov.bd
 ramgatipourashava.gov.bd
 rangamaticollege.gov.bd
 rangamatimunicipality.gov.bd
+rca-lged.gov.bd
+regionalwildlife.gov.bd
 register.gameapp.gov.bd
+rems.railwayestate.gov.bd
+result.fci.gov.bd
 rgc.gov.bd
 rgccr.gov.bd
 rims.dgda.gov.bd
@@ -289,6 +308,7 @@ staging-ekyc.bcc-ca.gov.bd
 storems.ird.gov.bd
 sundargonjpourashava.gov.bd
 surgeryrpmc.gov.bd
+szmc.gov.bd
 taxeszone18dhaka.gov.bd
 taxeszone5dhaka.gov.bd
 test.gameapp.gov.bd
@@ -353,14 +373,17 @@ www.bpemc.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.caabhc.gov.bd
 www.cafohome.gov.bd
+www.case-moef.gov.bd
 www.center.dbwctp64.gov.bd
 www.chasebah.btriapps.gov.bd
 www.chatmohar.uppabnaholdingtax.gov.bd
 www.cmmc.gov.bd
 www.course.fima.gov.bd
 www.cttcdmp.gov.bd
+www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.database.melandahbhata.gov.bd
 www.database.mspvaw.gov.bd
+www.demo.railwayestate.gov.bd
 www.demo.rmch.gov.bd
 www.dids.btriapps.gov.bd
 www.dikkha.gov.bd
@@ -378,6 +401,8 @@ www.eservice.pmeat.gov.bd
 www.etbmanager.ntp.gov.bd
 www.exam.akcc.gov.bd
 www.fulbaria.upmymensinghholdingtax.gov.bd
+www.gafargaon.upmymensinghholdingtax.gov.bd
+www.gazette.railwayestate.gov.bd
 www.group.ansarvdpbank.gov.bd
 www.haluaghat.upmymensinghholdingtax.gov.bd
 www.home.gnc.gov.bd
@@ -414,6 +439,10 @@ www.pmis.ansarvdpbank.gov.bd
 www.profile.secretariatclinic.gov.bd
 www.python.secretariatclinic.gov.bd
 www.railwaypolice.gov.bd
+www.regionalwildlife.gov.bd
+www.rems.railwayestate.gov.bd
+www.result.fci.gov.bd
+www.rgc.gov.bd
 www.rgccr.gov.bd
 www.rmch.gov.bd
 www.rmp.gov.bd
