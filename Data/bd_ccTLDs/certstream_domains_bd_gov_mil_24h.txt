@@ -4,6 +4,7 @@ app.bdhckl.gov.bd
 appointment.bdhckl.gov.bd
 az.dotsim.gov.bd
 bdhckl.gov.bd
+cafohome.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.rgccr.gov.bd
@@ -20,6 +21,7 @@ dpl.gov.bd
 edc.srdl.gov.bd
 eduboardresults.gov.bd
 epietracker.dghs.gov.bd
+epoas.ddm.gov.bd
 eservices.boiler.gov.bd
 etracker.dghs.gov.bd
 git.dghs.gov.bd
@@ -42,8 +44,11 @@ mail.accessibledictionary.gov.bd
 mail.bdhckl.gov.bd
 mail.eduboardresults.gov.bd
 mail.rgccr.gov.bd
+mkgwclal.gov.bd
+mkgwclal.gov.bd.gbrcr.gov.bd
 nabinagarpourashava.gov.bd
 netrokonatsc.gov.bd
+nlas.dls.gov.bd
 ofr.btcl.gov.bd
 promise.gov.bd
 rca-lged.gov.bd
@@ -65,6 +70,7 @@ webmail.rgccr.gov.bd
 www.abc.dsw.gov.bd
 www.accessibledictionary.gov.bd
 www.bdhckl.gov.bd
+www.cafohome.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.dpl.gov.bd
 www.edc.srdl.gov.bd
@@ -72,6 +78,7 @@ www.eduboardresults.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
 www.home.habiganjpourashava.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
+www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.result.fci.gov.bd
 www.rgccr.gov.bd
 www.test.jaldhakamunicipality.gov.bd
