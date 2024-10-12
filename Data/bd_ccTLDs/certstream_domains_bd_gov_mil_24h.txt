@@ -2,10 +2,13 @@ abc.dsw.gov.bd
 accessibledictionary.gov.bd
 app.bdhckl.gov.bd
 appointment.bdhckl.gov.bd
+autodiscover.bepza.gov.bd
 az.dotsim.gov.bd
 bdhckl.gov.bd
+bepza.gov.bd
 cafohome.gov.bd
 cpanel.bdhckl.gov.bd
+cpanel.bepza.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.rgccr.gov.bd
 cpcalendars.bdhckl.gov.bd
@@ -50,6 +53,7 @@ nabinagarpourashava.gov.bd
 netrokonatsc.gov.bd
 nlas.dls.gov.bd
 ofr.btcl.gov.bd
+pdb.mcishr.dghs.gov.bd
 promise.gov.bd
 rca-lged.gov.bd
 result.fci.gov.bd
@@ -59,9 +63,11 @@ sherpurpolice.gov.bd
 st.dotsim.gov.bd
 sv.dotsim.gov.bd
 test.jaldhakamunicipality.gov.bd
+unomagurasadar.gov.bd
 upmymensinghholdingtax.gov.bd
 vrmanagement.rmp.gov.bd
 webdisk.bdhckl.gov.bd
+webdisk.bepza.gov.bd
 webdisk.eduboardresults.gov.bd
 webdisk.rgccr.gov.bd
 webmail.bdhckl.gov.bd
@@ -70,6 +76,7 @@ webmail.rgccr.gov.bd
 www.abc.dsw.gov.bd
 www.accessibledictionary.gov.bd
 www.bdhckl.gov.bd
+www.bepza.gov.bd
 www.cafohome.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.dpl.gov.bd
