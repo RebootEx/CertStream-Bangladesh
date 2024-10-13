@@ -28,10 +28,12 @@ az.dotsim.gov.bd
 backup.fima.gov.bd
 badhon.npi.gov.bd
 bagerhat.gov.bd
+barisal.gov.bd
 barisaldiv.gov.bd
 bcms.gov.bd
 bcoecopyright.gov.bd
 bdhckl.gov.bd
+belkuchipoura.gov.bd
 bepza.gov.bd
 beta.nicrh.gov.bd
 beza.gov.bd
@@ -70,6 +72,8 @@ cbsh.gov.bd
 certificates.gov.bd
 chapaipoura.gov.bd
 chatkhilpourashava.gov.bd
+chittagong.gov.bd
+chittagongdiv.gov.bd
 cip.probashi.gov.bd
 clms.emis.gov.bd
 cmch.gov.bd
@@ -150,6 +154,7 @@ eservices.boiler.gov.bd
 etds.gov.bd
 etracker.dghs.gov.bd
 ex01.mrccdhk.dos.gov.bd
+faridpur.gov.bd
 fima.gov.bd
 fowlab.gov.bd
 freelancers.gov.bd
@@ -188,6 +193,8 @@ kcchatt.gov.bd
 kcctl.gov.bd
 kgmc.gov.bd
 khaac.gov.bd
+khagrachhari.gov.bd
+khulna.gov.bd
 kmch.gov.bd
 kuliarcharpourashava.gov.bd
 labourdata.dife.gov.bd
@@ -199,9 +206,11 @@ learn.freelancers.gov.bd
 logistics.gov.bd
 logo.gov.bd
 madanpourashava.gov.bd
+madaripur.gov.bd
 magurapaurashava.gov.bd
 mail.accessibledictionary.gov.bd
 mail.bcoecopyright.gov.bd
+mail.bcsir.gov.bd
 mail.bdhckl.gov.bd
 mail.bholapourashava.gov.bd
 mail.bpemc.gov.bd
@@ -229,14 +238,18 @@ mkgwclal.gov.bd.gbrcr.gov.bd
 mohanganjpaurashava.gov.bd
 ms.tihdtcb.gov.bd
 mta-sts.nothi.gov.bd
+munshiganj.gov.bd
 munshiganjlg.gov.bd
 munshiganjtsc.gov.bd
 mylocker.gov.bd
 nabinagarpourashava.gov.bd
 naemict69.gnc.gov.bd
+narail.gov.bd
 narailpourashava.gov.bd
+narsingdi.gov.bd
 ndsi.sreda.gov.bd
 netrokonatsc.gov.bd
+new.rgamc.gov.bd
 nins.gov.bd
 nis.cabinet.gov.bd
 nlas.dls.gov.bd
@@ -286,6 +299,7 @@ secretariatclinic.gov.bd
 sells.mushroomproject.gov.bd
 sfcnavy.gov.bd
 sherpurpolice.gov.bd
+shift.gov.bd
 smtp.dghs.gov.bd
 soltrack.gov.bd
 spst.gov.bd
@@ -400,6 +414,7 @@ www.munshiganjlg.gov.bd
 www.mymail.ssnimc.gov.bd
 www.naemict69.gnc.gov.bd
 www.new.nins.gov.bd
+www.new.rgamc.gov.bd
 www.notice.bavs.gov.bd
 www.ntrc.gameapp.gov.bd
 www.onlineexam.gbrcr.gov.bd
