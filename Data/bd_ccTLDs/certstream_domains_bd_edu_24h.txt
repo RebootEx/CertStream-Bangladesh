@@ -11,6 +11,7 @@ adharahighschool.edu.bd
 admin.kftcs.edu.bd
 admission.aibasylhet.edu.bd
 admission.baust.edu.bd
+admissionportal.diu.edu.bd
 admissions.old.ulab.edu.bd
 afazuddinschoolandcollege.edu.bd
 ahmedbawanyacademy.edu.bd
@@ -41,6 +42,7 @@ autodiscover.ctc.edu.bd
 autodiscover.fkmrhighschool.edu.bd
 autodiscover.fulgcf.edu.bd
 autodiscover.gpghsc.edu.bd
+autodiscover.gwcr.edu.bd
 autodiscover.jatrapurghs.edu.bd
 autodiscover.kftcs.edu.bd
 autodiscover.koittahighschool.edu.bd
@@ -94,6 +96,7 @@ classmonitoring.ugv.edu.bd
 cm.krmdc.edu.bd
 cmc.edu.bd
 cmghst.edu.bd
+com.haldiagovhs.edu.bd
 conference.daffodilvarsity.edu.bd
 cpanel.al-ihsanhighschool.edu.bd
 cpanel.aushs.edu.bd
@@ -109,6 +112,7 @@ cpanel.fkmrhighschool.edu.bd
 cpanel.fulgcf.edu.bd
 cpanel.gpghsc.edu.bd
 cpanel.gurukul.edu.bd
+cpanel.gwcr.edu.bd
 cpanel.jatrapurghs.edu.bd
 cpanel.kahalthurihhs103781.edu.bd
 cpanel.kftcs.edu.bd
@@ -134,6 +138,7 @@ cpcalendars.fkmrhighschool.edu.bd
 cpcalendars.fulgcf.edu.bd
 cpcalendars.gpghsc.edu.bd
 cpcalendars.gurukul.edu.bd
+cpcalendars.gwcr.edu.bd
 cpcalendars.jatrapurghs.edu.bd
 cpcalendars.kahalthurihhs103781.edu.bd
 cpcalendars.kftcs.edu.bd
@@ -159,6 +164,7 @@ cpcontacts.fkmrhighschool.edu.bd
 cpcontacts.fulgcf.edu.bd
 cpcontacts.gpghsc.edu.bd
 cpcontacts.gurukul.edu.bd
+cpcontacts.gwcr.edu.bd
 cpcontacts.jatrapurghs.edu.bd
 cpcontacts.kahalthurihhs103781.edu.bd
 cpcontacts.kftcs.edu.bd
@@ -233,6 +239,9 @@ hamdarduniversity.edu.bd
 handialhs.edu.bd
 hasanpursncollege.edu.bd
 hatphs.edu.bd
+hiramiahghs.edu.bd
+hkm.edu.bd
+hmamsrhs.edu.bd
 hostel.infra.edu.bd
 hpss.edu.bd
 hsjrsc.edu.bd
@@ -252,6 +261,7 @@ jobportal.bousst.edu.bd
 jobs.bandhucomputer.edu.bd
 journals.daffodilvarsity.edu.bd
 jpbsc67.edu.bd
+jugs.edu.bd
 juumb.edu.bd
 kachalongdm.edu.bd
 kahalthurihhs103781.edu.bd
@@ -286,8 +296,10 @@ kodc.edu.bd
 koichapurhighschool.edu.bd
 koittahighschool.edu.bd
 kolasadaruddinhighschool.edu.bd
+kplhs.edu.bd
 krishdcollege.edu.bd
 krmdc.edu.bd
+krvhs.edu.bd
 kumullinamdarhighschool.edu.bd
 labmanagement.ugv.edu.bd
 lalpukuriagirlshighschool.edu.bd
@@ -318,6 +330,7 @@ mail.engolympics.daffodilvarsity.edu.bd
 mail.fkmrhighschool.edu.bd
 mail.fulgcf.edu.bd
 mail.gpghsc.edu.bd
+mail.gwcr.edu.bd
 mail.jatrapurghs.edu.bd
 mail.kahalthurihhs103781.edu.bd
 mail.kakm.edu.bd
@@ -359,6 +372,7 @@ nalamsc.edu.bd
 nalchaprahs.edu.bd
 nambir.edu.bd
 natidangadm.edu.bd
+ncmym.edu.bd
 ndufm.edu.bd
 nec.edu.bd
 news.eminence.edu.bd
@@ -441,12 +455,14 @@ swfm.kdbbhs.edu.bd
 tarapashahsc.edu.bd
 tarolhs.edu.bd
 tcdm.edu.bd
+test.bubt.edu.bd
 test.keundiahighschool.edu.bd
 test1.keundiahighschool.edu.bd
 tma.edu.bd
 tmlhs1953.edu.bd
 tnghs.edu.bd
 training.gpi.edu.bd
+tssbb.edu.bd
 tulabariahs.edu.bd
 ua.ois.edu.bd
 uca.edu.bd
@@ -473,6 +489,7 @@ webdisk.fkmrhighschool.edu.bd
 webdisk.fulgcf.edu.bd
 webdisk.gpghsc.edu.bd
 webdisk.gurukul.edu.bd
+webdisk.gwcr.edu.bd
 webdisk.jatrapurghs.edu.bd
 webdisk.kahalthurihhs103781.edu.bd
 webdisk.kftcs.edu.bd
@@ -497,6 +514,7 @@ webmail.fkmrhighschool.edu.bd
 webmail.fulgcf.edu.bd
 webmail.gpghsc.edu.bd
 webmail.gurukul.edu.bd
+webmail.gwcr.edu.bd
 webmail.jatrapurghs.edu.bd
 webmail.kahalthurihhs103781.edu.bd
 webmail.kftcs.edu.bd
@@ -572,11 +590,14 @@ www.gnhsc.edu.bd
 www.gohs.edu.bd
 www.gpghsc.edu.bd
 www.gurukul.edu.bd
+www.gwcr.edu.bd
+www.hiramiahghs.edu.bd
 www.hostel.infra.edu.bd
 www.hpss.edu.bd
 www.ict.butex.edu.bd
 www.info.mdch.edu.bd
 www.iqac.rpsu.edu.bd
+www.jashaldiahs.com.haldiagovhs.edu.bd
 www.jatrapurghs.edu.bd
 www.jobportal.bousst.edu.bd
 www.jobs.bandhucomputer.edu.bd
@@ -594,6 +615,7 @@ www.kamalpurhighschool.edu.bd
 www.kazirpaglaatinst.com.haldiagovhs.edu.bd
 www.kbdmb.edu.bd
 www.kftcs.edu.bd
+www.khalilurrahmanis.com.haldiagovhs.edu.bd
 www.kodc.edu.bd
 www.koichapurhighschool.edu.bd.ihsh.edu.bd
 www.koittahighschool.edu.bd
@@ -641,7 +663,9 @@ www.swfm.kdbbhs.edu.bd
 www.tarapashahsc.edu.bd
 www.tcdm.edu.bd
 www.test.bilchaprassdm.edu.bd
+www.test.bubt.edu.bd
 www.training.gpi.edu.bd
+www.tssbb.edu.bd
 www.ums.krc.edu.bd
 www.vbhsmn.edu.bd.tma.edu.bd
 www.zenithpl.edu.bd
