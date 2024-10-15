@@ -1,5 +1,7 @@
 adgfinance.gov.bd
+adminapi.vaxepi.gov.bd
 api.bhata.gov.bd
+api.vaxepi.gov.bd
 app.bdhckl.gov.bd
 appointment.bdhckl.gov.bd
 autodiscover.bangladeshfestival.gov.bd
@@ -88,6 +90,7 @@ taxappealctg.gov.bd
 test.dsw.gov.bd
 tourismctg.gov.bd
 upmymensinghholdingtax.gov.bd
+vaxepi.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 vrmanagement.rmp.gov.bd
 webdisk.bangladeshfestival.gov.bd
@@ -102,11 +105,13 @@ www.adgfinance.gov.bd
 www.bangladeshfestival.gov.bd
 www.bdhckl.gov.bd
 www.biteshwarup.gov.bd
+www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
 www.demo.kanaighatmunicipality.gov.bd
 www.demo.railwayestate.gov.bd
 www.diagnostic.rmch.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
+www.gafargaon.upmymensinghholdingtax.gov.bd
 www.gazette.railwayestate.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.inlandcrew.dos.gov.bd

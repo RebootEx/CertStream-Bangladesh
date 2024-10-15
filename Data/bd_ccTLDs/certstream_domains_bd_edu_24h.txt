@@ -3,6 +3,7 @@ accounts.ttuc.edu.bd
 achiahighschool.edu.bd
 achn.edu.bd
 admission.noaparadegreecollege.edu.bd
+admission.sof.edu.bd
 admissionportal.diu.edu.bd
 admissions.eastdelta.edu.bd
 aghs113613.edu.bd
@@ -70,11 +71,13 @@ autodiscover.vidm.edu.bd
 autodiscover.zcbmc.edu.bd
 badoparahighschool.edu.bd
 baduriahighschool.edu.bd
+baigachahs.edu.bd
 bakhundahighschool.edu.bd
 bamsjhs.edu.bd
 banalataghs.edu.bd
 bangabandhuhs.edu.bd
 bararoutahs.edu.bd
+bargachagirlsschool.edu.bd
 basantapurss.edu.bd
 bcc.edu.bd
 bck.edu.bd
@@ -126,8 +129,10 @@ cpanel.alhajershadaliwomenscollege.edu.bd
 cpanel.amratalachaprahs.edu.bd
 cpanel.anowara.edu.bd
 cpanel.badoparahighschool.edu.bd
+cpanel.baigachahs.edu.bd
 cpanel.bakhundahighschool.edu.bd
 cpanel.banalataghs.edu.bd
+cpanel.bargachagirlsschool.edu.bd
 cpanel.bdmsn.edu.bd
 cpanel.bhangagovpiloths.edu.bd
 cpanel.biraldahcollege.edu.bd
@@ -169,6 +174,8 @@ cpanel.ngc.edu.bd
 cpanel.nkghs.edu.bd
 cpanel.nmdcn.edu.bd
 cpanel.nssdk.edu.bd
+cpanel.palshahs.edu.bd
+cpanel.panishailhs.edu.bd
 cpanel.pimdcpr.edu.bd
 cpanel.poradiahighschool.edu.bd
 cpanel.ramnagarhighschool.edu.bd
@@ -178,6 +185,8 @@ cpanel.rumdo.edu.bd
 cpanel.rusdwdc.edu.bd
 cpanel.saic.edu.bd
 cpanel.sapgc.edu.bd
+cpanel.satarihs.edu.bd
+cpanel.sdmp.edu.bd
 cpanel.sharifbagikm.edu.bd
 cpanel.simt.edu.bd
 cpanel.sreeramdiahighschool.edu.bd
@@ -319,7 +328,9 @@ faorahhs.edu.bd
 feedback.vu.edu.bd
 forum.dic.edu.bd
 ftp.alhajershadaliwomenscollege.edu.bd
+ftp.baigachahs.edu.bd
 ftp.banalataghs.edu.bd
+ftp.bargachagirlsschool.edu.bd
 ftp.bdmsn.edu.bd
 ftp.biraldahcollege.edu.bd
 ftp.bsgs.edu.bd
@@ -333,8 +344,12 @@ ftp.hshs1985.edu.bd
 ftp.idm.edu.bd
 ftp.machmailghs.edu.bd
 ftp.nssdk.edu.bd
+ftp.palshahs.edu.bd
+ftp.panishailhs.edu.bd
 ftp.pimdcpr.edu.bd
 ftp.raniriverviewhs.edu.bd
+ftp.satarihs.edu.bd
+ftp.sdmp.edu.bd
 fulhariss.edu.bd
 gachhbariidealcollege.edu.bd
 gagc.edu.bd
@@ -366,6 +381,7 @@ gphighschool.edu.bd
 gsmghsc.edu.bd
 gsmmhs.edu.bd
 gurukul.edu.bd
+gwdc.edu.bd
 habibpurghs.edu.bd
 haithkandihighschool.edu.bd
 hakhs.edu.bd
@@ -397,6 +413,7 @@ iems.ius.edu.bd
 iems.smuct.edu.bd
 ifsp.bsmrau.edu.bd
 igs.edu.bd
+imkm.edu.bd
 iqac.bsmrau.edu.bd
 istt.edu.bd
 jaintapurghs.edu.bd
@@ -458,8 +475,10 @@ mail.amratalachaprahs.edu.bd
 mail.anowara.edu.bd
 mail.ashekpurcphs.edu.bd
 mail.badoparahighschool.edu.bd
+mail.baigachahs.edu.bd
 mail.bakhundahighschool.edu.bd
 mail.banalataghs.edu.bd
+mail.bargachagirlsschool.edu.bd
 mail.bdmsn.edu.bd
 mail.bhangagovpiloths.edu.bd
 mail.biraldahcollege.edu.bd
@@ -501,6 +520,8 @@ mail.ngc.edu.bd
 mail.nkghs.edu.bd
 mail.nmdcn.edu.bd
 mail.nssdk.edu.bd
+mail.palshahs.edu.bd
+mail.panishailhs.edu.bd
 mail.pimdcpr.edu.bd
 mail.poradiahighschool.edu.bd
 mail.ramnagarhighschool.edu.bd
@@ -511,6 +532,8 @@ mail.rusdwdc.edu.bd
 mail.saic.edu.bd
 mail.sapgc.edu.bd
 mail.sasgc.edu.bd
+mail.satarihs.edu.bd
+mail.sdmp.edu.bd
 mail.sharifbagikm.edu.bd
 mail.simt.edu.bd
 mail.squarehighschool.edu.bd
@@ -583,6 +606,8 @@ nwfmadrasa.edu.bd
 nzhschool.edu.bd
 padc.edu.bd
 paikgachaalimmadrasah.edu.bd
+palshahs.edu.bd
+panishailhs.edu.bd
 payment.vu.edu.bd
 pbfm.edu.bd
 pencilbox.edu.bd
@@ -605,6 +630,7 @@ qbcollege.edu.bd
 qwertypanda.bhsh.edu.bd
 raisasgiftbox.com.mkshs.edu.bd
 rakhs.edu.bd
+rakm.edu.bd
 ramnagarhighschool.edu.bd
 raniriverviewhs.edu.bd
 rbdm.edu.bd
@@ -632,9 +658,11 @@ sankairaghs.edu.bd
 sapgc.edu.bd
 sasgc.edu.bd
 sass.edu.bd
+satarihs.edu.bd
 satkhiragmc.edu.bd
 sbngbhs.edu.bd
 sdmadrasah.edu.bd
+sdmp.edu.bd
 server.gangghs.edu.bd
 sgcb.edu.bd
 sghs113507.edu.bd
@@ -683,6 +711,7 @@ ua.ois.edu.bd
 ucmhighschool.edu.bd
 uia.edu.bd
 ujanicollege.edu.bd
+umasc.edu.bd
 umc.edu.bd
 uttara-edu-bd.uttarauniversity.edu.bd
 uttara.edu.bd
@@ -741,8 +770,10 @@ webmail.alhajershadaliwomenscollege.edu.bd
 webmail.amratalachaprahs.edu.bd
 webmail.anowara.edu.bd
 webmail.badoparahighschool.edu.bd
+webmail.baigachahs.edu.bd
 webmail.bakhundahighschool.edu.bd
 webmail.banalataghs.edu.bd
+webmail.bargachagirlsschool.edu.bd
 webmail.bhangagovpiloths.edu.bd
 webmail.brahmandangahighschool.edu.bd
 webmail.bsgs.edu.bd
@@ -780,6 +811,8 @@ webmail.ngc.edu.bd
 webmail.nkghs.edu.bd
 webmail.nmdcn.edu.bd
 webmail.nssdk.edu.bd
+webmail.palshahs.edu.bd
+webmail.panishailhs.edu.bd
 webmail.poradiahighschool.edu.bd
 webmail.ramnagarhighschool.edu.bd
 webmail.raniriverviewhs.edu.bd
@@ -788,6 +821,8 @@ webmail.rumdo.edu.bd
 webmail.rusdwdc.edu.bd
 webmail.saic.edu.bd
 webmail.sapgc.edu.bd
+webmail.satarihs.edu.bd
+webmail.sdmp.edu.bd
 webmail.sharifbagikm.edu.bd
 webmail.simt.edu.bd
 webmail.sreeramdiahighschool.edu.bd
@@ -821,8 +856,10 @@ www.apbn.edu.bd
 www.ashekpurcphs.edu.bd
 www.badoparahighschool.edu.bd
 www.baduriahighschool.edu.bd
+www.baigachahs.edu.bd
 www.bakhundahighschool.edu.bd
 www.banalataghs.edu.bd
+www.bargachagirlsschool.edu.bd
 www.basukhalidakhilmadrasah.edu.bd
 www.bdmsn.edu.bd
 www.bhangagovpiloths.edu.bd
@@ -932,6 +969,8 @@ www.nmdcn.edu.bd
 www.nssdk.edu.bd
 www.nuc.bhelajanhs.edu.bd
 www.office.bgeju.edu.bd
+www.palshahs.edu.bd
+www.panishailhs.edu.bd
 www.payment.vu.edu.bd
 www.pimdcpr.edu.bd
 www.plsj.edu.bd
@@ -957,8 +996,10 @@ www.saic.edu.bd
 www.samasparamhs.edu.bd
 www.sapgc.edu.bd
 www.sasgc.edu.bd
+www.satarihs.edu.bd
 www.sbngbhs.edu.bd
 www.sdmadrasah.edu.bd.ihsh.edu.bd
+www.sdmp.edu.bd
 www.server.gangghs.edu.bd
 www.shakhatihs.edu.bd.bishnopurhighs.edu.bd
 www.sharifbagikm.edu.bd
