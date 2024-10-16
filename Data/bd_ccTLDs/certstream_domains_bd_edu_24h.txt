@@ -1,6 +1,7 @@
 access.ulab.edu.bd
 admission.sof.edu.bd
 admissiontest.diu.edu.bd
+adventist.edu.bd
 agadc.edu.bd
 aghs113613.edu.bd
 ajmhsedu.com.hmjacc.edu.bd
@@ -12,7 +13,10 @@ annex.bubt.edu.bd
 anwaragirlshighschool.edu.bd
 apacademy.edu.bd
 apimentoring.diu.edu.bd
+argo-ci.hasc.edu.bd
+argo.qa.bhsh.edu.bd
 ashekpurcphs.edu.bd
+auisc.edu.bd
 autoconfig.spdm1985.edu.bd
 autodiscover.bdahs.edu.bd
 autodiscover.chakpranhs.edu.bd
@@ -53,6 +57,8 @@ cloud.creativitysimplificpanel.bhsh.edu.bd
 clubs.daffodilvarsity.edu.bd
 cmc.edu.bd
 cmhighschool.edu.bd
+cpanel.adventist.edu.bd
+cpanel.auisc.edu.bd
 cpanel.bdahs.edu.bd
 cpanel.chakpranhs.edu.bd
 cpanel.ckkm.edu.bd
@@ -103,6 +109,7 @@ dshst.edu.bd
 dumuriatsc.edu.bd
 eakc.edu.bd
 eastkadhurkhil.edu.bd
+ems.npi51040.edu.bd
 erhs.edu.bd
 f5test.daffodilvarsity.edu.bd
 faculty.daffodilvarsity.edu.bd
@@ -111,6 +118,8 @@ fatepurjuniorghs.edu.bd.rangdiaschoolandcollege.edu.bd
 formanpurhighschool.edu.bd
 formanpurhighschool.edu.bd.bilshikaryhighschool.edu.bd
 fsgdm.edu.bd
+ftp.adventist.edu.bd
+ftp.auisc.edu.bd
 gagc.edu.bd
 gahsr.edu.bd
 gauss.edu.bd
@@ -126,6 +135,7 @@ hazimdabulfazalhighschool.edu.bd
 hcmshs.edu.bd
 hiatt.edu.bd
 hmakgc.edu.bd
+hmamsrhs.edu.bd
 hsbcollege.edu.bd
 hshstanki.edu.bd
 hspsctg.edu.bd
@@ -163,6 +173,7 @@ khs1973.edu.bd.nagargolahs.edu.bd
 khujgipur-mu-hs.edu.bd
 khulnarsomoy.com.munshigonjcollege.edu.bd
 kolakopaalimmadrasha.edu.bd
+kqiss.edu.bd
 krghs.edu.bd
 krishnanagarhs.edu.bd
 kscptk.edu.bd
@@ -175,7 +186,9 @@ lgghs.edu.bd
 machparacollege.edu.bd
 madnahighschool.edu.bd
 madnahighschool.edu.bd.darsanagirls.edu.bd
+mail.adventist.edu.bd
 mail.ashekpurcphs.edu.bd
+mail.auisc.edu.bd
 mail.bdahs.edu.bd
 mail.chakpranhs.edu.bd
 mail.fatepurjuniorghs.edu.bd
@@ -238,20 +251,25 @@ portal.kawaljanilsghs.edu.bd
 portal.kumarulihs.edu.bd
 portal.recr.edu.bd
 premharschool.edu.bd
+prod-workflow.hasc.edu.bd
+qzpklr47k1ynqiqm.hasc.edu.bd
 raisasgiftbox.com.mkshs.edu.bd
 rajapurbhhs.edu.bd
 rakm.edu.bd
 randhunimurahs.edu.bd
+rasulphs.edu.bd
 rbhhs.edu.bd
 rgs.edu.bd
 rgss.edu.bd
 rmahs.edu.bd
+royalnursingcollege.edu.bd
 rshs.edu.bd
 rstu.edu.bd
 saikatgovcollege.edu.bd
 sankairaghs.edu.bd
 sayeednoman.eastdelta.edu.bd
 sazanabaub.edu.bd
+services.test.eastdelta.edu.bd
 shalshirighs.edu.bd
 singherkathimlhs.edu.bd
 skfmhs.edu.bd
@@ -267,6 +285,7 @@ sylgovpilothss.edu.bd
 taloraaahs.edu.bd
 tdcbogura.edu.bd
 tepukhariahs.edu.bd
+test-workflow.bhsh.edu.bd
 tolaramcollege.edu.bd
 tsdm.edu.bd
 tulabariahs.edu.bd
@@ -288,6 +307,8 @@ webdisk.munshirbazarhighschool.edu.bd
 webdisk.nagarnursing.edu.bd
 webdisk.srscf.edu.bd
 webdisk.vidm.edu.bd
+webmail.adventist.edu.bd
+webmail.auisc.edu.bd
 webmail.bdahs.edu.bd
 webmail.chakpranhs.edu.bd
 webmail.ckkm.edu.bd
@@ -304,12 +325,15 @@ webmail.srscf.edu.bd
 webmail.vidm.edu.bd
 wikidocs.diu.edu.bd
 wksbjgs.edu.bd
+workflow.sandbox.bhsh.edu.bd
+www.adventist.edu.bd
 www.ajmhsedu.com.hmjacc.edu.bd
 www.alhajnoormiacollege.edu.bd
 www.alumni.butex.edu.bd
 www.amirabadss.edu.bd
 www.annex.bubt.edu.bd
 www.ashekpurcphs.edu.bd
+www.auisc.edu.bd
 www.bbssylhet.edu.bd
 www.bdahs.edu.bd
 www.bdmig.iist-mirpur.edu.bd
@@ -331,6 +355,7 @@ www.daudpurmlhs.edu.bd
 www.dbsm.edu.bd
 www.ddm.edu.bd
 www.dshst.edu.bd
+www.ems.npi51040.edu.bd
 www.erhs.edu.bd
 www.fatepurjuniorghs.edu.bd
 www.fatepurjuniorghs.edu.bd.rangdiaschoolandcollege.edu.bd
@@ -355,6 +380,7 @@ www.khalilurrahmanis.com.haldiagovhs.edu.bd
 www.khs1973.edu.bd.nagargolahs.edu.bd
 www.khujgipur-mu-hs.edu.bd
 www.khulnarsomoy.com.munshigonjcollege.edu.bd
+www.kqiss.edu.bd
 www.krghs.edu.bd
 www.law.uoda.edu.bd
 www.lawdept.fcub.edu.bd
