@@ -1,5 +1,6 @@
 aaic.gov.bd
 adminapi.vaxepi.gov.bd
+amcchuadanga.gov.bd
 arm.kalirbazarup.gov.bd
 bc.gov.bd
 bhawanigonjpaurashava.gov.bd
@@ -18,6 +19,7 @@ cpcontacts.comillalg.gov.bd
 ctgcollege.gov.bd
 demo.railwayestate.gov.bd
 diagnostic.rmch.gov.bd
+ebalance.ansarvdpbank.gov.bd
 ecc-beta.doe.gov.bd
 epoas.ddm.gov.bd
 feedback.karmasangsthanbank.gov.bd
@@ -48,6 +50,8 @@ new.rgamc.gov.bd
 office.doe.gov.bd
 oms.tzr.gov.bd
 openid.dghs.gov.bd
+origin-01.epassport.gov.bd
+origin-www.epassport.gov.bd
 portal.tihdtcb.gov.bd
 regionalwildlife.gov.bd
 rems.railwayestate.gov.bd
@@ -59,7 +63,9 @@ sherpur.gov.bd
 smmamc.gov.bd
 sreda.gov.bd
 szmc.gov.bd
+tds.taxeszone3dhaka.gov.bd
 tzr.gov.bd
+vrmanagement.rmp.gov.bd
 webdisk.comillalg.gov.bd
 webmail.comillalg.gov.bd
 www.amdiaup.narsingdilg.gov.bd
@@ -72,6 +78,7 @@ www.chatulup.faridpurlg.gov.bd
 www.comillalg.gov.bd
 www.demo.railwayestate.gov.bd
 www.diagnostic.rmch.gov.bd
+www.ebalance.ansarvdpbank.gov.bd
 www.erp.sreda.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.gazette.railwayestate.gov.bd
@@ -95,4 +102,6 @@ www.shd.sreda.gov.bd
 www.solar.sreda.gov.bd
 www.srepgen.sreda.gov.bd
 www.stdb.sreda.gov.bd
+www.tds.taxeszone3dhaka.gov.bd
 www.tzr.gov.bd
+www.vrmanagement.rmp.gov.bd
