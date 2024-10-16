@@ -28,6 +28,7 @@ demo.railwayestate.gov.bd
 dgme.gov.bd
 diagnostic.rmch.gov.bd
 din-crms.dinajpurboard.gov.bd
+dumainup.faridpurlg.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ecc-beta.doe.gov.bd
 edu.bd.gbrcr.gov.bd
@@ -44,6 +45,7 @@ gazette.railwayestate.gov.bd
 gca.bise-ctg.gov.bd
 herpower.gov.bd
 institution.comillaboard.gov.bd
+inventory.dbwctp64.gov.bd
 jhenaidah.gov.bd
 jresult.bise-ctg.gov.bd
 kcchatt.gov.bd
@@ -57,10 +59,12 @@ mail.case-moef.gov.bd
 mail.comillalg.gov.bd
 mail.regionalwildlife.gov.bd
 mail.tzr.gov.bd
+mail.zprajshahi.gov.bd
 manikganj.gov.bd
 manirampurmunicipality.gov.bd
 meherpur.gov.bd
 mmddl-ctgbcsir.gov.bd
+mokamup.gov.bd
 narsingdilg.gov.bd
 nazipurpourashava.gov.bd
 netrokona.gov.bd
@@ -107,6 +111,7 @@ www.comillaboard.gov.bd
 www.comillalg.gov.bd
 www.demo.railwayestate.gov.bd
 www.diagnostic.rmch.gov.bd
+www.dumainup.faridpurlg.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
 www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
@@ -115,11 +120,13 @@ www.feedback.karmasangsthanbank.gov.bd
 www.gazette.railwayestate.gov.bd
 www.hep.sreda.gov.bd
 www.iceeca2019.sreda.gov.bd
+www.inventory.dbwctp64.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
 www.locc.psdsms.gov.bd
 www.mail.sreda.gov.bd
 www.meherparaup.narsingdilg.gov.bd
+www.mokamup.gov.bd
 www.ndre.sreda.gov.bd
 www.nemcalc.sreda.gov.bd
 www.new.cafomolwa.gov.bd
@@ -139,3 +146,5 @@ www.tds.taxeszone3dhaka.gov.bd
 www.training.sreda.gov.bd
 www.tzr.gov.bd
 www.vrmanagement.rmp.gov.bd
+www.zprajshahi.gov.bd
+zprajshahi.gov.bd
