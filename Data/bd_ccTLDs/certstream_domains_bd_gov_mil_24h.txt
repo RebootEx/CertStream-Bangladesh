@@ -1,4 +1,6 @@
 aaic.gov.bd
+adminapi.vaxepi.gov.bd
+arm.kalirbazarup.gov.bd
 bc.gov.bd
 bstieapp.gov.bd
 chittagongdiv.gov.bd
@@ -11,6 +13,8 @@ cpcalendars.comillalg.gov.bd
 cpcontacts.comillalg.gov.bd
 ctgcollege.gov.bd
 demo.railwayestate.gov.bd
+diagnostic.rmch.gov.bd
+ecc-beta.doe.gov.bd
 epoas.ddm.gov.bd
 feedback.karmasangsthanbank.gov.bd
 galachipacollege.gov.bd
@@ -24,9 +28,11 @@ mail.comillalg.gov.bd
 manirampurmunicipality.gov.bd
 mmddl-ctgbcsir.gov.bd
 nazipurpourashava.gov.bd
+netrokona.gov.bd
 new.cafomolwa.gov.bd
 new.name.bise-ctg.gov.bd
 new.rgamc.gov.bd
+office.doe.gov.bd
 openid.dghs.gov.bd
 rems.railwayestate.gov.bd
 satkhira.gov.bd
@@ -38,6 +44,7 @@ webdisk.comillalg.gov.bd
 webmail.comillalg.gov.bd
 www.comillalg.gov.bd
 www.demo.railwayestate.gov.bd
+www.diagnostic.rmch.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.gazette.railwayestate.gov.bd
 www.khudrachaya.smmamc.gov.bd
