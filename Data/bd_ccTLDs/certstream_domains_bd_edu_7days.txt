@@ -133,6 +133,7 @@ apsp.daffodilvarsity.edu.bd
 arbss.edu.bd
 arjatatarzanhighschool.edu.bd
 arjunadm.edu.bd
+arjunamhs.edu.bd
 arkhancollege.edu.bd
 arrahkumed.edu.bd
 arss.edu.bd
@@ -415,6 +416,7 @@ bsgs.edu.bd
 bsm.edu.bd
 bsmahss.edu.bd
 bsmhs.edu.bd
+bsmrau.edu.bd
 bssp.edu.bd
 bsths.edu.bd
 bthqsgs.edu.bd
@@ -561,6 +563,7 @@ cpanel.brahmandangahighschool.edu.bd
 cpanel.brghsr.edu.bd
 cpanel.bsgs.edu.bd
 cpanel.bsm.edu.bd
+cpanel.bsmrau.edu.bd
 cpanel.carkss.edu.bd
 cpanel.cbmc.edu.bd
 cpanel.cdcmn.edu.bd
@@ -716,6 +719,7 @@ cpcalendars.bkghs.edu.bd
 cpcalendars.brahmandangahighschool.edu.bd
 cpcalendars.brghsr.edu.bd
 cpcalendars.bsm.edu.bd
+cpcalendars.bsmrau.edu.bd
 cpcalendars.carkss.edu.bd
 cpcalendars.cbmc.edu.bd
 cpcalendars.cdcmn.edu.bd
@@ -854,6 +858,7 @@ cpcontacts.bkghs.edu.bd
 cpcontacts.brahmandangahighschool.edu.bd
 cpcontacts.brghsr.edu.bd
 cpcontacts.bsm.edu.bd
+cpcontacts.bsmrau.edu.bd
 cpcontacts.carkss.edu.bd
 cpcontacts.cbmc.edu.bd
 cpcontacts.cdcmn.edu.bd
@@ -1299,6 +1304,7 @@ hasinahall.butex.edu.bd
 hasnabadajbhs.edu.bd
 hatbakoilhs.edu.bd
 hatphs.edu.bd
+hazimdabulfazalhighschool.edu.bd
 hazirashidalihighschool.edu.bd
 hbhss.edu.bd
 hbuc.edu.bd
@@ -1560,6 +1566,7 @@ ksghs1987.edu.bd
 kssddm.edu.bd
 kuihhs.edu.bd
 kulparahs.edu.bd
+kumarulihs.edu.bd
 kumullinamdarhighschool.edu.bd
 kuraliash.edu.bd
 kurchaimpmhs.edu.bd
@@ -1661,6 +1668,7 @@ mail.brghsr.edu.bd
 mail.bsgs.edu.bd
 mail.bsm.edu.bd
 mail.bsmhs.edu.bd
+mail.bsmrau.edu.bd
 mail.carkss.edu.bd
 mail.cbmc.edu.bd
 mail.cdcmn.edu.bd
@@ -1743,6 +1751,7 @@ mail.krisnardangihighschool.edu.bd
 mail.laskardiaarhs.edu.bd
 mail.latifpuralimmadrasah.edu.bd
 mail.lemubaribinodasundaryhighschool.edu.bd
+mail.lfafcollege.edu.bd
 mail.machmailghs.edu.bd
 mail.machparacollege.edu.bd
 mail.madhusalhighschool.edu.bd
@@ -1876,6 +1885,7 @@ medical.butex.edu.bd
 medinipurhs.edu.bd
 melandahgghs.edu.bd
 meritbangladesh.edu.bd
+mernsun.edu.bd
 mgaahs.edu.bd
 mgcdhaka.edu.bd
 mgdm.edu.bd
@@ -2072,6 +2082,7 @@ pbhhs.edu.bd
 pdbhssyl.edu.bd
 pdf.bmgc.edu.bd
 pencilbox.edu.bd
+pg.butex.edu.bd
 pgh.edu.bd
 pghschool.edu.bd
 pghsctg.edu.bd
@@ -2261,6 +2272,7 @@ satgaonhighschool.edu.bd
 satkhiragmc.edu.bd
 savarmadrasah.edu.bd
 sayeednoman.eastdelta.edu.bd
+sazanabaub.edu.bd
 sbchs.edu.bd
 sbdm.edu.bd
 sbgcr.edu.bd
@@ -2404,6 +2416,7 @@ subachanihs.edu.bd
 subidkhaligovtrihs.empo.edu.bd
 subss.abedhalimaidm.edu.bd
 suchiparadegreecollege.edu.bd
+suhssyl.edu.bd
 sujatpurcollege.edu.bd
 sukndm.edu.bd
 summit.daffodilvarsity.edu.bd
@@ -2555,6 +2568,7 @@ webdisk.bkghs.edu.bd
 webdisk.brahmandangahighschool.edu.bd
 webdisk.brghsr.edu.bd
 webdisk.bsm.edu.bd
+webdisk.bsmrau.edu.bd
 webdisk.carkss.edu.bd
 webdisk.cbmc.edu.bd
 webdisk.cdcmn.edu.bd
@@ -2696,6 +2710,7 @@ webmail.bkghs.edu.bd
 webmail.brahmandangahighschool.edu.bd
 webmail.brghsr.edu.bd
 webmail.bsgs.edu.bd
+webmail.bsmrau.edu.bd
 webmail.carkss.edu.bd
 webmail.cbmc.edu.bd
 webmail.cdcmn.edu.bd
@@ -2895,6 +2910,7 @@ www.apply.acps.edu.bd
 www.apply.cub.edu.bd
 www.apps.proyashrangpur.edu.bd
 www.arjunadm.edu.bd
+www.arjunamhs.edu.bd
 www.ashekpurcphs.edu.bd
 www.ashf.ssqcdc.edu.bd
 www.askcollege.edu.bd
@@ -2985,6 +3001,7 @@ www.bsgs.edu.bd
 www.bshndas.dmc.edu.bd
 www.bsm.edu.bd
 www.bsmhs.edu.bd
+www.bsmrau.edu.bd
 www.bthqsgs.edu.bd
 www.btrihs.edu.bd
 www.burirbaghs.edu.bd
@@ -3122,6 +3139,7 @@ www.garparahs.edu.bd
 www.gashigaonhs.edu.bd.ihsh.edu.bd
 www.gatiparahighschool.edu.bd.tma.edu.bd
 www.gauss.edu.bd
+www.gbmtcg.edu.bd
 www.gbpsgschool.edu.bd
 www.gfs.edu.bd
 www.ghatakcharhighschool.edu.bd
@@ -3156,6 +3174,7 @@ www.harekrishopurschool.edu.bd.balidiasecondaryschool.edu.bd
 www.hashimimodelhs.edu.bd
 www.hasinahall.butex.edu.bd
 www.hasnabadajbhs.edu.bd
+www.hazimdabulfazalhighschool.edu.bd
 www.hazirashidalihighschool.edu.bd
 www.hgahs.edu.bd.ihsh.edu.bd
 www.highaccounts.azimhakimschool.edu.bd
@@ -3282,6 +3301,7 @@ www.lawfair.amhc.edu.bd
 www.lbhsc.edu.bd
 www.lemubaribinodasundaryhighschool.edu.bd
 www.leturetech.com.rtnb.edu.bd
+www.lfafcollege.edu.bd
 www.lgac.edu.bd
 www.library.butex.edu.bd
 www.library.ist.edu.bd
@@ -3384,6 +3404,7 @@ www.patulihs.edu.bd
 www.patuliparahighschool.edu.bd
 www.payment.vu.edu.bd
 www.pdf.bmgc.edu.bd
+www.pg.butex.edu.bd
 www.pghsctg.edu.bd
 www.pgs.sau.edu.bd
 www.pharmacy.uoda.edu.bd
@@ -3533,6 +3554,7 @@ www.study-admin.ronit.edu.bd
 www.study.ronit.edu.bd
 www.subidkhaligovtrihs.empo.edu.bd
 www.suchiparadegreecollege.edu.bd
+www.suhssyl.edu.bd
 www.sunarhaths.edu.bd
 www.sutariahs.edu.bd
 www.swfm.kdbbhs.edu.bd

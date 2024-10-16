@@ -49,6 +49,7 @@ bise-ctg.gov.bd
 biteshwarup.gov.bd
 bmp.gov.bd
 boalmaripaurashava.gov.bd
+boalmariup.faridpurlg.gov.bd
 bogra.gov.bd
 brahmanbaria.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -67,6 +68,7 @@ cafoworks.gov.bd
 case-moef.gov.bd
 cat.brri.gov.bd
 cbsh.gov.bd
+cedp.gov.bd
 centralup.munshiganjlg.gov.bd
 chakariamunicipality.gov.bd
 chandpur.gov.bd
@@ -86,6 +88,7 @@ cpanel.bangladeshfestival.gov.bd
 cpanel.bcoecopyright.gov.bd
 cpanel.bdhckl.gov.bd
 cpanel.bepza.gov.bd
+cpanel.cedp.gov.bd
 cpanel.comillalg.gov.bd
 cpanel.durjog.gov.bd
 cpanel.eduboardresults.gov.bd
@@ -98,6 +101,7 @@ cpanel.ulipurmunicipality.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.bcoecopyright.gov.bd
 cpcalendars.bdhckl.gov.bd
+cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.durjog.gov.bd
 cpcalendars.eduboardresults.gov.bd
@@ -110,6 +114,7 @@ cpcalendars.ulipurmunicipality.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.bcoecopyright.gov.bd
 cpcontacts.bdhckl.gov.bd
+cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.durjog.gov.bd
 cpcontacts.eduboardresults.gov.bd
@@ -165,10 +170,12 @@ epoas.ddm.gov.bd
 eservice.pmeat.gov.bd
 eservices.boiler.gov.bd
 esifsix.bise-ctg.gov.bd
+etender.sylhetboard.gov.bd
 etracker.dghs.gov.bd
 faridpur.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
+fgc.gov.bd
 gazette.railwayestate.gov.bd
 gazipur.gov.bd
 gazirtekup.faridpurlg.gov.bd
@@ -185,6 +192,7 @@ gunbahaup.faridpurlg.gov.bd
 habiganjpourashava.gov.bd
 habiganjtsc.gov.bd
 hajj.gov.bd
+hamirdiup.faridpurlg.gov.bd
 herpower.gov.bd
 hmis.uphcsdp.gov.bd
 hotels.gov.bd
@@ -219,6 +227,7 @@ khagrachhari.gov.bd
 khulna.gov.bd
 khulnadiv.gov.bd
 kishoreganj.gov.bd
+kodaliashohidnagarup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
 kushtia.gov.bd
 labourdata.dife.gov.bd
@@ -242,6 +251,7 @@ mail.bdhckl.gov.bd
 mail.bholapourashava.gov.bd
 mail.bmdf.gov.bd
 mail.case-moef.gov.bd
+mail.cedp.gov.bd
 mail.comillalg.gov.bd
 mail.durjog.gov.bd
 mail.eduboardresults.gov.bd
@@ -254,6 +264,7 @@ mail.rgccr.gov.bd
 mail.rmch.gov.bd
 mail.support.a2i.gov.bd
 mail.ulipurmunicipality.gov.bd
+mail.zprajshahi.gov.bd
 manikganj.gov.bd
 marriage.gov.bd
 meeting.sla.gov.bd
@@ -334,6 +345,7 @@ rmch.gov.bd
 rmp.gov.bd
 rpi.gov.bd
 sarswp.gnc.gov.bd
+sathi.gov.bd
 satkhira.gov.bd
 savarmunicipality.gov.bd
 scholarship.dsw.gov.bd
@@ -358,6 +370,7 @@ store.ekshop.gov.bd
 sundargonjpourashava.gov.bd
 sv.dotsim.gov.bd
 szmc.gov.bd
+talmaup.faridpurlg.gov.bd
 tangail.gov.bd
 taxappealctg.gov.bd
 taxsurvey.gov.bd
@@ -385,6 +398,7 @@ webdisk.bangladeshfestival.gov.bd
 webdisk.bcoecopyright.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.bepza.gov.bd
+webdisk.cedp.gov.bd
 webdisk.comillalg.gov.bd
 webdisk.durjog.gov.bd
 webdisk.eduboardresults.gov.bd
@@ -397,6 +411,7 @@ webdisk.ulipurmunicipality.gov.bd
 webmail.bangladeshfestival.gov.bd
 webmail.bcoecopyright.gov.bd
 webmail.bdhckl.gov.bd
+webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.durjog.gov.bd
 webmail.eduboardresults.gov.bd
@@ -425,9 +440,11 @@ www.bholapourashava.gov.bd
 www.bikiron2021.sreda.gov.bd
 www.biteshwarup.gov.bd
 www.bmp.gov.bd
+www.boalmariup.faridpurlg.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cafohome.gov.bd
 www.case-moef.gov.bd
+www.cedp.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.comillalg.gov.bd
@@ -455,6 +472,7 @@ www.gazirtekup.faridpurlg.gov.bd
 www.gunaigachha.uppabnaholdingtax.gov.bd
 www.gunbahaup.faridpurlg.gov.bd
 www.hajj.gov.bd
+www.hamirdiup.faridpurlg.gov.bd
 www.hep.sreda.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.home.habiganjpourashava.gov.bd
@@ -465,6 +483,7 @@ www.iswarganj.upmymensinghholdingtax.gov.bd
 www.josherup.narsingdilg.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
 www.khudrachaya.smmamc.gov.bd
+www.kodaliashohidnagarup.faridpurlg.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.munshiganjlg.gov.bd
 www.naemict69.gnc.gov.bd
@@ -503,6 +522,7 @@ www.srepgen.sreda.gov.bd
 www.stdb.sreda.gov.bd
 www.stipend.rpi.gov.bd
 www.takanai0.rpi.gov.bd
+www.talmaup.faridpurlg.gov.bd
 www.taxsurvey.gov.bd
 www.test.dsw.gov.bd
 www.test.faridpurlg.gov.bd
@@ -513,6 +533,7 @@ www.ulipurmunicipality.gov.bd
 www.vmdatabase.mspvaw.gov.bd
 www.vrmanagement.rmp.gov.bd
 www.xiclassadmission.gov.bd
+www.zprajshahi.gov.bd
 xiclassadmission.gov.bd
 zpchapainawabganj.gov.bd
 zpfaridpur.gov.bd
