@@ -23,6 +23,7 @@ arm.kalirbazarup.gov.bd
 asr.333.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.bepza.gov.bd
+autodiscover.iresppw-brdb.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.railwayestate.gov.bd
 autodiscover.rmch.gov.bd
@@ -94,6 +95,7 @@ cpanel.bepza.gov.bd
 cpanel.cedp.gov.bd
 cpanel.comillalg.gov.bd
 cpanel.eduboardresults.gov.bd
+cpanel.iresppw-brdb.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpanel.pwdta.gov.bd
 cpanel.railwayestate.gov.bd
@@ -105,6 +107,7 @@ cpcalendars.bdhckl.gov.bd
 cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.eduboardresults.gov.bd
+cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.munshiganjlg.gov.bd
 cpcalendars.pwdta.gov.bd
 cpcalendars.railwayestate.gov.bd
@@ -116,6 +119,7 @@ cpcontacts.bdhckl.gov.bd
 cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.eduboardresults.gov.bd
+cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 cpcontacts.pwdta.gov.bd
 cpcontacts.railwayestate.gov.bd
@@ -196,6 +200,8 @@ herpower.gov.bd
 hmis.uphcsdp.gov.bd
 hotels.gov.bd
 hris-training.mohfw.gov.bd
+hris.mohfw.gov.bd
+hrm.dghs.gov.bd
 hrmddco.gov.bd
 hsc-dbtp-2023.dinajpurboard.gov.bd
 hsms.somch.gov.bd
@@ -203,6 +209,7 @@ inlandcrew.dos.gov.bd
 institute.bise-ctg.gov.bd
 institution.comillaboard.gov.bd
 inventory.dbwctp64.gov.bd
+iresppw-brdb.gov.bd
 jalalpur.upsylhetholdingtax.gov.bd
 jamalpur.gov.bd
 jessore.gov.bd
@@ -251,6 +258,7 @@ mail.case-moef.gov.bd
 mail.cedp.gov.bd
 mail.comillalg.gov.bd
 mail.eduboardresults.gov.bd
+mail.iresppw-brdb.gov.bd
 mail.munshiganjlg.gov.bd
 mail.pwdta.gov.bd
 mail.railwayestate.gov.bd
@@ -267,6 +275,7 @@ manirampurmunicipality.gov.bd
 marriage.gov.bd
 meeting.sla.gov.bd
 meherpur.gov.bd
+mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mmddl-ctgbcsir.gov.bd
@@ -300,6 +309,7 @@ number.btcl.gov.bd
 office.doe.gov.bd
 ofr.btcl.gov.bd
 ois.pgcb.gov.bd
+old.barishalcity.gov.bd
 old.ggmcg.gov.bd
 old.iedcr.gov.bd
 oms.tzr.gov.bd
@@ -326,6 +336,7 @@ pwdta.gov.bd
 radar.bmd.gov.bd
 railwayestate.gov.bd
 raipurup.faridpurlg.gov.bd
+rajabariup.gov.bd
 rajbaripourashava.gov.bd
 rajshahi.gov.bd
 rajshahidiv.gov.bd
@@ -340,6 +351,7 @@ register.gameapp.gov.bd
 rems.railwayestate.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
+rescrutiny.comillaboard.gov.bd
 residence.dc-khagrachhari.gov.bd
 result.barisalboard.gov.bd
 result.fci.gov.bd
@@ -373,6 +385,7 @@ st.dotsim.gov.bd
 staging-ekyc.bcc-ca.gov.bd
 startupsummit.gov.bd
 store.ekshop.gov.bd
+student.cmc.gov.bd
 sv.dotsim.gov.bd
 szmc.gov.bd
 talmaup.faridpurlg.gov.bd
@@ -406,6 +419,7 @@ webdisk.bepza.gov.bd
 webdisk.cedp.gov.bd
 webdisk.comillalg.gov.bd
 webdisk.eduboardresults.gov.bd
+webdisk.iresppw-brdb.gov.bd
 webdisk.munshiganjlg.gov.bd
 webdisk.pwdta.gov.bd
 webdisk.railwayestate.gov.bd
@@ -417,6 +431,7 @@ webmail.bdhckl.gov.bd
 webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.eduboardresults.gov.bd
+webmail.iresppw-brdb.gov.bd
 webmail.munshiganjlg.gov.bd
 webmail.pbrlp.gov.bd
 webmail.pwdta.gov.bd
@@ -486,6 +501,7 @@ www.iceeca2019.sreda.gov.bd
 www.idcard.rpi.gov.bd
 www.inlandcrew.dos.gov.bd
 www.inventory.dbwctp64.gov.bd
+www.iresppw-brdb.gov.bd
 www.iswarganj.upmymensinghholdingtax.gov.bd
 www.josherup.narsingdilg.gov.bd
 www.kamargaon.upmymensinghholdingtax.gov.bd
@@ -495,6 +511,7 @@ www.lgc.edu.bd.gbrcr.gov.bd
 www.locc.psdsms.gov.bd
 www.mail.sreda.gov.bd
 www.meherparaup.narsingdilg.gov.bd
+www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mokamup.gov.bd
 www.munshiganjlg.gov.bd
@@ -505,6 +522,7 @@ www.new.cafomolwa.gov.bd
 www.new.rgamc.gov.bd
 www.newmaza.fun.kalihatipourashava.gov.bd
 www.npi.gov.bd
+www.old.barishalcity.gov.bd
 www.old.ggmcg.gov.bd
 www.old.iedcr.gov.bd
 www.oms.tzr.gov.bd
@@ -515,6 +533,7 @@ www.portal.taxappealctg.gov.bd
 www.pwdta.gov.bd
 www.railwayestate.gov.bd
 www.raipurup.faridpurlg.gov.bd
+www.rajabariup.gov.bd
 www.recruitment.sreda.gov.bd
 www.reeep.sreda.gov.bd
 www.reeep2.sreda.gov.bd
@@ -535,8 +554,10 @@ www.shd.sreda.gov.bd
 www.smartlgd.dcsherpurinfo.gov.bd
 www.solar.sreda.gov.bd
 www.srepgen.sreda.gov.bd
+www.startupsummit.gov.bd
 www.stdb.sreda.gov.bd
 www.stipend.rpi.gov.bd
+www.student.cmc.gov.bd
 www.takanai0.rpi.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.taxsurvey.gov.bd

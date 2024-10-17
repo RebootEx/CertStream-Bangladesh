@@ -1,5 +1,6 @@
 blog.webapi.bracnet.net
 career.bracnet.net
+chgpwd.bdcom.com
 dashboard.bracnet.net
 demowebapi.bracnet.net
 emailsecurity.bracnet.net
@@ -7,6 +8,7 @@ ems.bdcom.com
 erp.bracnet.net
 gpon.btcl.gov.bd
 hticket.agni.com
+mail.bdcom.com
 mx1.agni.com
 nms.bracnet.net
 number.btcl.gov.bd
@@ -17,4 +19,6 @@ sms.bracnet.net
 speedtest.bdcom.com
 uat.bracnet.net
 webapi.bracnet.net
+webmail.bdcom.com
+webmailx.bdcom.com
 workflow-v3.bol-online.com
