@@ -1,4 +1,5 @@
 abc.dsw.gov.bd
+accounts.comillaboard.gov.bd
 adgfinance.gov.bd
 adminapi.vaxepi.gov.bd
 amarai.gameapp.gov.bd
@@ -6,6 +7,7 @@ api-communication.lams-stg.land.gov.bd
 api.bhata.gov.bd
 api.upension.gov.bd
 ar.gameapp.gov.bd
+autodiscover.bepza.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.pwdta.gov.bd
 autodiscover.ttcraj.gov.bd
@@ -13,6 +15,7 @@ barguna.gov.bd
 barisal.gov.bd
 barisaldiv.gov.bd
 bc.gov.bd
+bepza.gov.bd
 betagimunicipality.gov.bd
 bhata.gov.bd
 bhawanigonjpaurashava.gov.bd
@@ -21,8 +24,10 @@ biteshwarup.gov.bd
 boalmariup.faridpurlg.gov.bd
 bogra.gov.bd
 brahmanbaria.gov.bd
+cafopresident.gov.bd
 chakariamunicipality.gov.bd
 comillaboard.gov.bd
+cpanel.bepza.gov.bd
 cpanel.eduboardresults.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.pwdta.gov.bd
@@ -40,13 +45,16 @@ dgme.gov.bd
 dhakadiv.gov.bd
 dpl.gov.bd
 du.gameapp.gov.bd
+dwatraining.gov.bd
 eappeal.taxappealctg.gov.bd
 ecc-beta.doe.gov.bd
 eduboardresults.gov.bd
+elearning.gov.bd
 emrddashboard.gov.bd
 en.info.shr.dghs.gov.bd
 eservices.boiler.gov.bd
 esifhsc.bise-ctg.gov.bd
+etender.sylhetboard.gov.bd
 feedback.karmasangsthanbank.gov.bd
 fgc.gov.bd
 gazipur.gov.bd
@@ -71,6 +79,7 @@ mail.iresppw-brdb.gov.bd
 mail.pwdta.gov.bd
 mail.register.gameapp.gov.bd
 mail.ttcraj.gov.bd
+mail.tzr.gov.bd
 mail.zprajshahi.gov.bd
 meeting.sla.gov.bd
 middleware.dghs.gov.bd
@@ -79,6 +88,7 @@ mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
 mofa.gov.bd
 mokamup.gov.bd
+munshiganjtsc.gov.bd
 nameage.comillaboard.gov.bd
 nameletter.comillaboard.gov.bd
 netrokonatsc.gov.bd
@@ -90,6 +100,7 @@ office.doe.gov.bd
 ofr.btcl.gov.bd
 openid.dghs.gov.bd
 panchagarhmunicipality.gov.bd
+pension.comillaboard.gov.bd
 portal.munshiganjtsc.gov.bd
 portal.tihdtcb.gov.bd
 proxy.shrlive.dghs.gov.bd
@@ -97,6 +108,8 @@ pwdta.gov.bd
 qcb.gov.bd
 rajabariup.gov.bd
 rajbaripourashava.gov.bd
+reeep.sreda.gov.bd
+regicorrhsc.comillaboard.gov.bd
 register.gameapp.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
@@ -112,6 +125,7 @@ sherpurpolice.gov.bd
 shr.mcishr.dghs.gov.bd
 sjis.dgjute.gov.bd
 smart.dncc.gov.bd
+smmamc.gov.bd
 smtp.dghs.gov.bd
 sonagazicollege.gov.bd
 sonalibank.gov.bd
@@ -126,11 +140,13 @@ taxappealctg.gov.bd
 test.dsw.gov.bd
 test.jaldhakamunicipality.gov.bd
 ttcraj.gov.bd
+tzr.gov.bd
 uatsso-slsd.mohpw.gov.bd
 uppabnaholdingtax.gov.bd
 vamanager.dghs.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 vrmanagement.rmp.gov.bd
+webdisk.bepza.gov.bd
 webdisk.eduboardresults.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.pwdta.gov.bd
@@ -144,6 +160,7 @@ www.adgfinance.gov.bd
 www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
 www.beeer.sreda.gov.bd
+www.bepza.gov.bd
 www.bikiron2021.sreda.gov.bd
 www.billing.alaap.gov.bd
 www.biteshwarup.gov.bd
@@ -163,6 +180,7 @@ www.hep.sreda.gov.bd
 www.iceeca2019.sreda.gov.bd
 www.inventory.dbwctp64.gov.bd
 www.iresppw-brdb.gov.bd
+www.khudrachaya.smmamc.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mail.sreda.gov.bd
 www.mis.iresppw-brdb.gov.bd
@@ -193,6 +211,7 @@ www.test.dsw.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.training.sreda.gov.bd
 www.ttcraj.gov.bd
+www.tzr.gov.bd
 www.zprajshahi.gov.bd
 www3.bamis.gov.bd
 zpfeni.gov.bd
