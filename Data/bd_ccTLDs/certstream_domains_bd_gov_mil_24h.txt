@@ -11,11 +11,14 @@ autodiscover.ttcraj.gov.bd
 barguna.gov.bd
 barisal.gov.bd
 barisaldiv.gov.bd
+bc.gov.bd
 betagimunicipality.gov.bd
 bhata.gov.bd
+billing.alaap.gov.bd
 biteshwarup.gov.bd
 boalmariup.faridpurlg.gov.bd
 bogra.gov.bd
+brahmanbaria.gov.bd
 chakariamunicipality.gov.bd
 comillaboard.gov.bd
 cpanel.eduboardresults.gov.bd
@@ -65,6 +68,7 @@ mail.pwdta.gov.bd
 mail.register.gameapp.gov.bd
 mail.ttcraj.gov.bd
 mail.zprajshahi.gov.bd
+meeting.sla.gov.bd
 middleware.dghs.gov.bd
 mis.iresppw-brdb.gov.bd
 mofa.gov.bd
@@ -76,6 +80,7 @@ npi.gov.bd
 ntrc.gameapp.gov.bd
 nwpgcl.gov.bd
 ofr.btcl.gov.bd
+openid.dghs.gov.bd
 panchagarhmunicipality.gov.bd
 portal.munshiganjtsc.gov.bd
 proxy.shrlive.dghs.gov.bd
@@ -98,6 +103,7 @@ shr.mcishr.dghs.gov.bd
 sjis.dgjute.gov.bd
 smart.dncc.gov.bd
 smtp.dghs.gov.bd
+sonagazicollege.gov.bd
 sonalibank.gov.bd
 sreda.gov.bd
 st.dotsim.gov.bd
@@ -127,6 +133,7 @@ www.amarai.gameapp.gov.bd
 www.ar.gameapp.gov.bd
 www.beeer.sreda.gov.bd
 www.bikiron2021.sreda.gov.bd
+www.billing.alaap.gov.bd
 www.biteshwarup.gov.bd
 www.boalmariup.faridpurlg.gov.bd
 www.demo.kanaighatmunicipality.gov.bd
