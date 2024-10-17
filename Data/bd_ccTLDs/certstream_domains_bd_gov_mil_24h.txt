@@ -1,5 +1,6 @@
 abc.dsw.gov.bd
 adgfinance.gov.bd
+api.bhata.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 autodiscover.pwdta.gov.bd
 betagimunicipality.gov.bd
@@ -14,13 +15,17 @@ cpcontacts.eduboardresults.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.pwdta.gov.bd
 demo.kanaighatmunicipality.gov.bd
+dgme.gov.bd
 dpl.gov.bd
 eappeal.taxappealctg.gov.bd
 eduboardresults.gov.bd
+emrddashboard.gov.bd
+en.info.shr.dghs.gov.bd
 eservices.boiler.gov.bd
 esifhsc.bise-ctg.gov.bd
 gpon.btcl.gov.bd
 herpower.gov.bd
+hris-training.mohfw.gov.bd
 hscadmit.bise-ctg.gov.bd
 institute.bise-ctg.gov.bd
 iresppw-brdb.gov.bd
@@ -37,6 +42,9 @@ mail.register.gameapp.gov.bd
 mail.zprajshahi.gov.bd
 mis.iresppw-brdb.gov.bd
 nameage.comillaboard.gov.bd
+netrokonatsc.gov.bd
+npi.gov.bd
+nwpgcl.gov.bd
 ofr.btcl.gov.bd
 portal.munshiganjtsc.gov.bd
 pwdta.gov.bd
@@ -44,8 +52,11 @@ rajabariup.gov.bd
 rajbaripourashava.gov.bd
 rescrutiny.comillaboard.gov.bd
 result19.comillaboard.gov.bd
+senbagmunicipality.gov.bd
 sherpurpolice.gov.bd
+shr.mcishr.dghs.gov.bd
 sjis.dgjute.gov.bd
+smart.dncc.gov.bd
 smtp.dghs.gov.bd
 sonalibank.gov.bd
 st.dotsim.gov.bd
@@ -71,6 +82,7 @@ www.eduboardresults.gov.bd
 www.iresppw-brdb.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mis.iresppw-brdb.gov.bd
+www.npi.gov.bd
 www.portal.taxappealctg.gov.bd
 www.pwdta.gov.bd
 www.rajabariup.gov.bd
@@ -78,4 +90,6 @@ www.student.cmc.gov.bd
 www.test.dsw.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.zprajshahi.gov.bd
+www3.bamis.gov.bd
+zpmunshiganj.gov.bd
 zprajshahi.gov.bd
