@@ -6,9 +6,12 @@ ar.gameapp.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 bagerhat.gov.bd
 barguna.gov.bd
+barisalcity.gov.bd
 barisaldiv.gov.bd
+barishalcity.gov.bd
 belkuchipoura.gov.bd
 bhola.gov.bd
+bogra.gov.bd
 bogurapoly.gov.bd
 brahmanbaria.gov.bd
 bsfmstu.gameapp.gov.bd
@@ -16,6 +19,7 @@ cafopresident.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
 chuadanga.gov.bd
+comilla.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
@@ -76,6 +80,7 @@ sherpur.gov.bd
 shift.gov.bd
 smartschoolbus.gov.bd
 smtp.dghs.gov.bd
+somch.gov.bd
 startupsummit.gov.bd
 student.cmc.gov.bd
 sylhettsc.gov.bd
@@ -95,10 +100,13 @@ www.api.rpi.gov.bd
 www.apis.rpi.gov.bd
 www.application.rpi.gov.bd
 www.ar.gameapp.gov.bd
+www.barisal.barishalcity.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.du.gameapp.gov.bd
 www.employee-server.rpi.gov.bd
 www.employee.rpi.gov.bd
+www.etrade.barisalcity.gov.bd
+www.etrade.barishalcity.gov.bd
 www.idcard.rpi.gov.bd
 www.iresppw-brdb.gov.bd
 www.mis.iresppw-brdb.gov.bd
@@ -109,6 +117,7 @@ www.old.barishalcity.gov.bd
 www.qcb.gov.bd
 www.register.gameapp.gov.bd
 www.seat.rpi.gov.bd
+www.somch.gov.bd
 www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
 www.taxsurvey.gov.bd
