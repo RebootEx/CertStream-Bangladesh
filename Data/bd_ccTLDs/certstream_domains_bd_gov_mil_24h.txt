@@ -21,10 +21,12 @@ cafopresident.gov.bd
 cd-devops.lams-stg.land.gov.bd
 chakariamunicipality.gov.bd
 chandpur.gov.bd
+chapainawabganj.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
 chuadanga.gov.bd
 citizen.dlrms-stg.land.gov.bd
+cngwc.gov.bd
 comilla.gov.bd
 conference.dghs.gov.bd
 cpanel.iresppw-brdb.gov.bd
@@ -62,6 +64,7 @@ lakshmipur.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.munshiganjlg.gov.bd
 meeting.sla.gov.bd
+meherpur.gov.bd
 middleware.dghs.gov.bd
 mis.iresppw-brdb.gov.bd
 munshiganj.gov.bd
@@ -79,6 +82,7 @@ ntrc.gameapp.gov.bd
 old.barishalcity.gov.bd
 pabna.gov.bd
 patuakhali.gov.bd
+pfms.brri.gov.bd
 proxy.shrlive.dghs.gov.bd
 qcb.gov.bd
 rajshahi.gov.bd
@@ -88,13 +92,16 @@ register.gameapp.gov.bd
 rpi.gov.bd
 satkhira.gov.bd
 scholarship.dsw.gov.bd
+secpass.gov.bd
 sgc.gov.bd
 shariatpurmunicipality.gov.bd
 sherpur.gov.bd
 shift.gov.bd
+smartakubpurup.gov.bd
 smartschoolbus.gov.bd
 smtp.dghs.gov.bd
 somch.gov.bd
+sscadmit.bise-ctg.gov.bd
 startupsummit.gov.bd
 student.cmc.gov.bd
 sylhettsc.gov.bd
@@ -136,6 +143,7 @@ www.qcb.gov.bd
 www.register.gameapp.gov.bd
 www.scholarship.dsw.gov.bd
 www.seat.rpi.gov.bd
+www.smartakubpurup.gov.bd
 www.somch.gov.bd
 www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
