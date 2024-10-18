@@ -83,7 +83,9 @@ autodiscover.ksc.edu.bd
 autodiscover.lhmrschoolandcollege.edu.bd
 autodiscover.luminousschool.edu.bd
 autodiscover.mirpurcollege.edu.bd
+autodiscover.misc.edu.bd
 autodiscover.nascc.edu.bd
+autodiscover.nmdcn.edu.bd
 autodiscover.psm.edu.bd
 autodiscover.rc.edu.bd
 autodiscover.rglhs.edu.bd
@@ -196,7 +198,9 @@ cpanel.ksc.edu.bd
 cpanel.lhmrschoolandcollege.edu.bd
 cpanel.luminousschool.edu.bd
 cpanel.mirpurcollege.edu.bd
+cpanel.misc.edu.bd
 cpanel.nascc.edu.bd
+cpanel.nmdcn.edu.bd
 cpanel.pascchimjaflonghsc.edu.bd
 cpanel.psm.edu.bd
 cpanel.rc.edu.bd
@@ -256,7 +260,9 @@ cpcalendars.ksc.edu.bd
 cpcalendars.lhmrschoolandcollege.edu.bd
 cpcalendars.luminousschool.edu.bd
 cpcalendars.mirpurcollege.edu.bd
+cpcalendars.misc.edu.bd
 cpcalendars.nascc.edu.bd
+cpcalendars.nmdcn.edu.bd
 cpcalendars.pascchimjaflonghsc.edu.bd
 cpcalendars.psm.edu.bd
 cpcalendars.rc.edu.bd
@@ -316,7 +322,9 @@ cpcontacts.ksc.edu.bd
 cpcontacts.lhmrschoolandcollege.edu.bd
 cpcontacts.luminousschool.edu.bd
 cpcontacts.mirpurcollege.edu.bd
+cpcontacts.misc.edu.bd
 cpcontacts.nascc.edu.bd
+cpcontacts.nmdcn.edu.bd
 cpcontacts.pascchimjaflonghsc.edu.bd
 cpcontacts.psm.edu.bd
 cpcontacts.rc.edu.bd
@@ -354,6 +362,7 @@ dhakaorientalcollege.edu.bd
 dhalirparhighschool.edu.bd
 digitalit.panditsarhs.edu.bd
 dimc.edu.bd
+directors.shaheen.edu.bd
 dmaheswarpurdm.edu.bd
 dmaheswarpurdm.edu.bd.bedkashihdm.edu.bd
 dnaghs.edu.bd
@@ -532,8 +541,10 @@ mail.luminousschool.edu.bd
 mail.mam.edu.bd
 mail.mirpurcollege.edu.bd
 mail.mirzapurhs.edu.bd
+mail.misc.edu.bd
 mail.nascc.edu.bd
 mail.nisudm.edu.bd
+mail.nmdcn.edu.bd
 mail.padc.edu.bd
 mail.pascchimjaflonghsc.edu.bd
 mail.pbhs86.edu.bd
@@ -552,6 +563,7 @@ malekabghs.edu.bd
 mam.edu.bd
 mamuacmhs.edu.bd
 mbtkm.edu.bd
+mci.edu.bd
 mcshs.edu.bd
 member.hdukm.edu.bd
 members.hdukm.edu.bd
@@ -561,6 +573,7 @@ mgsc.edu.bd
 mikm.edu.bd
 mirpurcollege.edu.bd
 mirzapurhs.edu.bd
+misc.edu.bd
 mlhs.edu.bd
 mmb.edu.bd
 mmlhs.edu.bd
@@ -586,7 +599,9 @@ nism.edu.bd
 nisudm.edu.bd
 nizampurcollege.edu.bd
 nkdm.edu.bd
+nkgc.edu.bd
 nkmins.edu.bd
+nmdcn.edu.bd
 nnpghs.edu.bd
 nrahbhs.edu.bd
 nsam.edu.bd
@@ -638,6 +653,7 @@ rpgsc.edu.bd
 rrhsac.edu.bd
 rrhsclamakazi.edu.bd
 rsfm.edu.bd
+rssdp.edu.bd
 rstu.edu.bd
 rsuhs.edu.bd
 s.uahsc.edu.bd
@@ -671,6 +687,7 @@ sol-airdrop.abhs.edu.bd
 sonarparahighschool.edu.bd
 splsc.edu.bd
 sppmhs.edu.bd
+sreerampurshs.edu.bd
 sshsgs.edu.bd
 student.uoda.edu.bd
 studentportal.ugv.edu.bd
@@ -745,7 +762,9 @@ webdisk.ksc.edu.bd
 webdisk.lhmrschoolandcollege.edu.bd
 webdisk.luminousschool.edu.bd
 webdisk.mirpurcollege.edu.bd
+webdisk.misc.edu.bd
 webdisk.nascc.edu.bd
+webdisk.nmdcn.edu.bd
 webdisk.pascchimjaflonghsc.edu.bd
 webdisk.psm.edu.bd
 webdisk.rc.edu.bd
@@ -807,7 +826,9 @@ webmail.ksc.edu.bd
 webmail.lhmrschoolandcollege.edu.bd
 webmail.luminousschool.edu.bd
 webmail.mirpurcollege.edu.bd
+webmail.misc.edu.bd
 webmail.nascc.edu.bd
+webmail.nmdcn.edu.bd
 webmail.psm.edu.bd
 webmail.rc.edu.bd
 webmail.rglhs.edu.bd
@@ -874,6 +895,7 @@ www.dbc106996.edu.bd
 www.demo.uttargramhighschool.edu.bd.bilshikaryhighschool.edu.bd
 www.dgham.edu.bd
 www.digitalit.panditsarhs.edu.bd
+www.directors.shaheen.edu.bd
 www.dmaheswarpurdm.edu.bd.bedkashihdm.edu.bd
 www.dnasc.edu.bd
 www.drbashirahmedcollege.edu.bd
@@ -932,15 +954,18 @@ www.library.primeasia.edu.bd
 www.luminousschool.edu.bd
 www.m.malekabghs.edu.bd
 www.mam.edu.bd
+www.mci.edu.bd
 www.mghssn.edu.bd.saahs.edu.bd
 www.mirpurcollege.edu.bd
 www.mirzapurhs.edu.bd
+www.misc.edu.bd
 www.mondulbughighschool.edu.bd
 www.mpaaiam.edu.bd
 www.nascc.edu.bd
 www.nbghss.edu.bd
 www.nenc.edu.bd
 www.nisudm.edu.bd
+www.nmdcn.edu.bd
 www.old.bbcpsc.edu.bd
 www.padc.edu.bd
 www.pascchimjaflonghsc.edu.bd
