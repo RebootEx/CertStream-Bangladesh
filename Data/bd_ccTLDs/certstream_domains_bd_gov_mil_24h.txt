@@ -1,7 +1,9 @@
 1ebe3906165e6bbcd44bb69914abc6f1.land.gov.bd
 adp.plancomm.gov.bd
 amarai.gameapp.gov.bd
+api-admin.lams-stg.land.gov.bd
 api-communication.lams-stg.land.gov.bd
+api-utility.dlrms-stg.land.gov.bd
 ar.gameapp.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 bagerhat.gov.bd
@@ -16,10 +18,15 @@ bogurapoly.gov.bd
 brahmanbaria.gov.bd
 bsfmstu.gameapp.gov.bd
 cafopresident.gov.bd
+cd-devops.lams-stg.land.gov.bd
+chakariamunicipality.gov.bd
+chandpur.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
 chuadanga.gov.bd
+citizen.dlrms-stg.land.gov.bd
 comilla.gov.bd
+conference.dghs.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
@@ -28,6 +35,8 @@ cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 dashboard.gov.bd
 dhakadiv.gov.bd
+dhis2dev.dghs.gov.bd
+dlrms-stg.land.gov.bd
 du.gameapp.gov.bd
 dwatraining.gov.bd
 ecourt.gov.bd
@@ -43,6 +52,7 @@ jamalpur.gov.bd
 jamalpurtsc.gov.bd
 jessore.gov.bd
 jhalakathi.gov.bd
+k8s-dboard-admin.lams-stg.land.gov.bd
 khagrachhari.gov.bd
 khulnadiv.gov.bd
 kishoreganj.gov.bd
@@ -76,6 +86,8 @@ ral.brri.gov.bd
 register.gameapp.gov.bd
 rpi.gov.bd
 satkhira.gov.bd
+scholarship.dsw.gov.bd
+sgc.gov.bd
 shariatpurmunicipality.gov.bd
 sherpur.gov.bd
 shift.gov.bd
@@ -89,6 +101,7 @@ tangerine.dpe.gov.bd
 taxsurvey.gov.bd
 test.gameapp.gov.bd
 uatsso-slsd.mohpw.gov.bd
+ubid.gov.bd
 uppabnaholdingtax.gov.bd
 vmdatabase.mspvaw.gov.bd
 web.bise-ctg.gov.bd
@@ -119,6 +132,7 @@ www.ntrc.gameapp.gov.bd
 www.old.barishalcity.gov.bd
 www.qcb.gov.bd
 www.register.gameapp.gov.bd
+www.scholarship.dsw.gov.bd
 www.seat.rpi.gov.bd
 www.somch.gov.bd
 www.stipend.rpi.gov.bd
