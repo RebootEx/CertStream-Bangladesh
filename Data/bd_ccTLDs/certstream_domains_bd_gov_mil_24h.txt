@@ -1,5 +1,8 @@
+1ebe3906165e6bbcd44bb69914abc6f1.land.gov.bd
 adp.plancomm.gov.bd
+amarai.gameapp.gov.bd
 api-communication.lams-stg.land.gov.bd
+ar.gameapp.gov.bd
 autodiscover.iresppw-brdb.gov.bd
 bagerhat.gov.bd
 barguna.gov.bd
@@ -8,6 +11,7 @@ belkuchipoura.gov.bd
 bhola.gov.bd
 bogurapoly.gov.bd
 brahmanbaria.gov.bd
+bsfmstu.gameapp.gov.bd
 cafopresident.gov.bd
 chittagong.gov.bd
 chittagongdiv.gov.bd
@@ -19,6 +23,7 @@ cpcalendars.munshiganjlg.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 dhakadiv.gov.bd
+du.gameapp.gov.bd
 dwatraining.gov.bd
 ecourt.gov.bd
 en.info.shr.dghs.gov.bd
@@ -30,6 +35,7 @@ hris.mohfw.gov.bd
 hrm.dghs.gov.bd
 iresppw-brdb.gov.bd
 jamalpur.gov.bd
+jamalpurtsc.gov.bd
 jessore.gov.bd
 jhalakathi.gov.bd
 khagrachhari.gov.bd
@@ -52,6 +58,8 @@ narayanganj.gov.bd
 narsingdi.gov.bd
 natore.gov.bd
 netrokona.gov.bd
+new.rgamc.gov.bd
+ntrc.gameapp.gov.bd
 old.barishalcity.gov.bd
 pabna.gov.bd
 patuakhali.gov.bd
@@ -60,6 +68,7 @@ qcb.gov.bd
 rajshahi.gov.bd
 rajshahidiv.gov.bd
 ral.brri.gov.bd
+register.gameapp.gov.bd
 rpi.gov.bd
 satkhira.gov.bd
 shariatpurmunicipality.gov.bd
@@ -72,6 +81,7 @@ student.cmc.gov.bd
 sylhettsc.gov.bd
 tangerine.dpe.gov.bd
 taxsurvey.gov.bd
+test.gameapp.gov.bd
 uatsso-slsd.mohpw.gov.bd
 vmdatabase.mspvaw.gov.bd
 web.bise-ctg.gov.bd
@@ -80,20 +90,28 @@ webdisk.munshiganjlg.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.munshiganjlg.gov.bd
 www.admins.rpi.gov.bd
+www.amarai.gameapp.gov.bd
 www.api.rpi.gov.bd
 www.apis.rpi.gov.bd
 www.application.rpi.gov.bd
+www.ar.gameapp.gov.bd
+www.bsfmstu.gameapp.gov.bd
+www.du.gameapp.gov.bd
 www.employee-server.rpi.gov.bd
 www.employee.rpi.gov.bd
 www.idcard.rpi.gov.bd
 www.iresppw-brdb.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.munshiganjlg.gov.bd
+www.new.rgamc.gov.bd
+www.ntrc.gameapp.gov.bd
 www.old.barishalcity.gov.bd
 www.qcb.gov.bd
+www.register.gameapp.gov.bd
 www.seat.rpi.gov.bd
 www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
 www.taxsurvey.gov.bd
+www.test.gameapp.gov.bd
 www.vmdatabase.mspvaw.gov.bd
 zpmunshiganj.gov.bd
