@@ -635,7 +635,9 @@ autodiscover.bsfmstu.ac.bd
 autodiscover.bsicltd.com.bd
 autodiscover.bsu1952.org.bd
 autodiscover.businessinspection.com.bd
+autodiscover.casc.edu.bd
 autodiscover.cbmc.edu.bd
+autodiscover.ccc.edu.bd
 autodiscover.cemexproperties.com.bd
 autodiscover.chakpranhs.edu.bd
 autodiscover.chalkbazarjhs.edu.bd
@@ -648,6 +650,9 @@ autodiscover.cityhost.com.bd
 autodiscover.codevibes.com.bd
 autodiscover.colorqo.com.bd
 autodiscover.combosoft.com.bd
+autodiscover.cpscbusms.edu.bd
+autodiscover.cpscevjes.edu.bd
+autodiscover.cpsckhulna.edu.bd
 autodiscover.cseiu.ac.bd
 autodiscover.ctc.edu.bd
 autodiscover.cube.net.bd
@@ -670,6 +675,7 @@ autodiscover.ehousing.com.bd
 autodiscover.elegantsourcing.com.bd
 autodiscover.enatransport.com.bd
 autodiscover.eps.com.bd
+autodiscover.ermhs.edu.bd
 autodiscover.eureka.com.bd
 autodiscover.eventmanagementexpert.com.bd
 autodiscover.everyday.com.bd
@@ -946,6 +952,7 @@ barexam.justinian.com.bd
 bargachagirlsschool.edu.bd
 barguna.gov.bd
 barisal.gov.bd
+barisalcity.gov.bd
 barisaldiv.gov.bd
 barishalcity.gov.bd
 barnamalasc.edu.bd
@@ -1428,6 +1435,7 @@ carparts.xmarket.com.bd
 cart.shawon.com.bd
 cartwishlist.com.creativetours.com.bd
 cas.ulab.edu.bd
+casc.edu.bd
 case-moef.gov.bd
 case.hhfn.org.bd
 cashbaba.com.bd
@@ -1446,6 +1454,7 @@ cbmc.edu.bd
 cbs.ulab.edu.bd
 cc.maestro.com.bd
 ccbh.edu.bd
+ccc.edu.bd
 ccci.com.bd
 cces.edu.bd
 ccifb.com.bd
@@ -1797,10 +1806,12 @@ cpanel.bsu1952.org.bd
 cpanel.btsource.com.bd
 cpanel.businessinspection.com.bd
 cpanel.carkss.edu.bd
+cpanel.casc.edu.bd
 cpanel.cashconnect.com.bd
 cpanel.castle.com.bd
 cpanel.catseye.com.bd
 cpanel.cbmc.edu.bd
+cpanel.ccc.edu.bd
 cpanel.cedp.gov.bd
 cpanel.cemexproperties.com.bd
 cpanel.cesc.edu.bd
@@ -1826,6 +1837,9 @@ cpanel.combosoft.com.bd
 cpanel.comillalg.gov.bd
 cpanel.connect3.net.bd
 cpanel.cosmeticscorner.com.bd
+cpanel.cpscbusms.edu.bd
+cpanel.cpscevjes.edu.bd
+cpanel.cpsckhulna.edu.bd
 cpanel.csjs.edu.bd
 cpanel.cstu.ac.bd
 cpanel.ctc.edu.bd
@@ -1864,6 +1878,7 @@ cpanel.elegantsourcing.com.bd
 cpanel.enatransport.com.bd
 cpanel.enrichgroup.com.bd
 cpanel.eps.com.bd
+cpanel.ermhs.edu.bd
 cpanel.esop.com.bd
 cpanel.eureka.com.bd
 cpanel.eventmanagementexpert.com.bd
@@ -2261,9 +2276,11 @@ cpcalendars.bsu1952.org.bd
 cpcalendars.btsource.com.bd
 cpcalendars.businessinspection.com.bd
 cpcalendars.carkss.edu.bd
+cpcalendars.casc.edu.bd
 cpcalendars.castle.com.bd
 cpcalendars.catseye.com.bd
 cpcalendars.cbmc.edu.bd
+cpcalendars.ccc.edu.bd
 cpcalendars.cedp.gov.bd
 cpcalendars.cemexproperties.com.bd
 cpcalendars.cesc.edu.bd
@@ -2284,6 +2301,9 @@ cpcalendars.combosoft.com.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.connect3.net.bd
 cpcalendars.cosmeticscorner.com.bd
+cpcalendars.cpscbusms.edu.bd
+cpcalendars.cpscevjes.edu.bd
+cpcalendars.cpsckhulna.edu.bd
 cpcalendars.csjs.edu.bd
 cpcalendars.cstu.ac.bd
 cpcalendars.ctc.edu.bd
@@ -2320,6 +2340,7 @@ cpcalendars.elegantsourcing.com.bd
 cpcalendars.enatransport.com.bd
 cpcalendars.enrichgroup.com.bd
 cpcalendars.eps.com.bd
+cpcalendars.ermhs.edu.bd
 cpcalendars.esop.com.bd
 cpcalendars.eureka.com.bd
 cpcalendars.eventmanagementexpert.com.bd
@@ -2686,9 +2707,11 @@ cpcontacts.bsu1952.org.bd
 cpcontacts.btsource.com.bd
 cpcontacts.businessinspection.com.bd
 cpcontacts.carkss.edu.bd
+cpcontacts.casc.edu.bd
 cpcontacts.castle.com.bd
 cpcontacts.catseye.com.bd
 cpcontacts.cbmc.edu.bd
+cpcontacts.ccc.edu.bd
 cpcontacts.cedp.gov.bd
 cpcontacts.cemexproperties.com.bd
 cpcontacts.cesc.edu.bd
@@ -2708,6 +2731,9 @@ cpcontacts.colorqo.com.bd
 cpcontacts.combosoft.com.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.cosmeticscorner.com.bd
+cpcontacts.cpscbusms.edu.bd
+cpcontacts.cpscevjes.edu.bd
+cpcontacts.cpsckhulna.edu.bd
 cpcontacts.csjs.edu.bd
 cpcontacts.cstu.ac.bd
 cpcontacts.ctc.edu.bd
@@ -2744,6 +2770,7 @@ cpcontacts.elegantsourcing.com.bd
 cpcontacts.enatransport.com.bd
 cpcontacts.enrichgroup.com.bd
 cpcontacts.eps.com.bd
+cpcontacts.ermhs.edu.bd
 cpcontacts.esop.com.bd
 cpcontacts.eureka.com.bd
 cpcontacts.eventmanagementexpert.com.bd
@@ -3021,6 +3048,9 @@ cpcontacts.zcbmc.edu.bd
 cpcontacts.zphs.edu.bd
 cph.gov.bd
 cpmgc.edu.bd
+cpscbusms.edu.bd
+cpscevjes.edu.bd
+cpsckhulna.edu.bd
 cpscnatore.edu.bd
 cpserver.mdalamgir.com.bd
 cqams.bdeducation.org.bd
@@ -3678,6 +3708,7 @@ eps.com.bd
 equipmentsource.com.bd
 erecruitment.bdren.net.bd
 erhs.edu.bd
+ermhs.edu.bd
 erp.abm.com.bd
 erp.accurate.com.bd
 erp.araz.com.bd
@@ -3847,6 +3878,7 @@ fgghs.edu.bd
 fhl.com.bd
 fhp.com.bd
 fiberfashion.com.bd
+ficc.com.bd
 fidabangladesh.com.bd
 files.techware.com.bd
 fileserver.eps.com.bd
@@ -4137,6 +4169,7 @@ godagarihs.edu.bd
 gof.org.bd
 gohalagirls.edu.bd
 gohs.edu.bd
+gojo.com.bd
 golamrabbani.com.bd
 golamrabbani.com.bd.mdalamgir.com.bd
 goldenboiler.com.bd
@@ -5323,11 +5356,13 @@ mail.bwc.edu.bd
 mail.canvasmagazine.com.bd
 mail.caprashwoodland.com.bd
 mail.carkss.edu.bd
+mail.casc.edu.bd
 mail.case-moef.gov.bd
 mail.cashconnect.com.bd
 mail.castle.com.bd
 mail.casual.com.bd
 mail.cbmc.edu.bd
+mail.ccc.edu.bd
 mail.ccifb.com.bd
 mail.cedp.gov.bd
 mail.cemexproperties.com.bd
@@ -5358,6 +5393,9 @@ mail.comillalg.gov.bd
 mail.conference.daffodilvarsity.edu.bd
 mail.corecloud.com.bd
 mail.cosmeticscorner.com.bd
+mail.cpscbusms.edu.bd
+mail.cpscevjes.edu.bd
+mail.cpsckhulna.edu.bd
 mail.crowe.com.bd
 mail.csjs.edu.bd
 mail.cstu.ac.bd
@@ -5419,6 +5457,7 @@ mail.engolympics.daffodilvarsity.edu.bd
 mail.engsaf.com.bd
 mail.enrichgroup.com.bd
 mail.eps.com.bd
+mail.ermhs.edu.bd
 mail.esop.com.bd
 mail.eureka.com.bd
 mail.eventmanagementexpert.com.bd
@@ -6190,6 +6229,7 @@ monarchelectronics.com.bd
 monepore.com.bd
 monermoto.com.bd
 moneygram.com.bd
+monglagovtcollege.edu.bd
 monglaportmunicipality.gov.bd
 monimul.buet.ac.bd
 monir.info.bd
@@ -8765,9 +8805,11 @@ webdisk.bsu1952.org.bd
 webdisk.btsource.com.bd
 webdisk.businessinspection.com.bd
 webdisk.carkss.edu.bd
+webdisk.casc.edu.bd
 webdisk.castle.com.bd
 webdisk.catseye.com.bd
 webdisk.cbmc.edu.bd
+webdisk.ccc.edu.bd
 webdisk.cedp.gov.bd
 webdisk.cemexproperties.com.bd
 webdisk.cesc.edu.bd
@@ -8788,6 +8830,9 @@ webdisk.combosoft.com.bd
 webdisk.comillalg.gov.bd
 webdisk.connect3.net.bd
 webdisk.cosmeticscorner.com.bd
+webdisk.cpscbusms.edu.bd
+webdisk.cpscevjes.edu.bd
+webdisk.cpsckhulna.edu.bd
 webdisk.csjs.edu.bd
 webdisk.cstu.ac.bd
 webdisk.ctc.edu.bd
@@ -8824,6 +8869,7 @@ webdisk.elegantsourcing.com.bd
 webdisk.enatransport.com.bd
 webdisk.enrichgroup.com.bd
 webdisk.eps.com.bd
+webdisk.ermhs.edu.bd
 webdisk.esop.com.bd
 webdisk.eureka.com.bd
 webdisk.eventmanagementexpert.com.bd
@@ -9214,9 +9260,11 @@ webmail.bsu1952.org.bd
 webmail.btsource.com.bd
 webmail.businessinspection.com.bd
 webmail.carkss.edu.bd
+webmail.casc.edu.bd
 webmail.castle.com.bd
 webmail.catseye.com.bd
 webmail.cbmc.edu.bd
+webmail.ccc.edu.bd
 webmail.ccifb.com.bd
 webmail.cedp.gov.bd
 webmail.cemexproperties.com.bd
@@ -9243,6 +9291,9 @@ webmail.combosoft.com.bd
 webmail.comillalg.gov.bd
 webmail.connect3.net.bd
 webmail.cosmeticscorner.com.bd
+webmail.cpscbusms.edu.bd
+webmail.cpscevjes.edu.bd
+webmail.cpsckhulna.edu.bd
 webmail.csjs.edu.bd
 webmail.cstu.ac.bd
 webmail.ctc.edu.bd
@@ -9279,6 +9330,7 @@ webmail.elegantsourcing.com.bd
 webmail.enatransport.com.bd
 webmail.enrichgroup.com.bd
 webmail.eps.com.bd
+webmail.ermhs.edu.bd
 webmail.esop.com.bd
 webmail.eureka.com.bd
 webmail.eventmanagementexpert.com.bd
@@ -10051,6 +10103,7 @@ www.barashanta.edu.bd
 www.barcik.org.bd
 www.barexam.justinian.com.bd
 www.bargachagirlsschool.edu.bd
+www.barisal.barishalcity.gov.bd
 www.barnamalasc.edu.bd
 www.baronal.edu.bd
 www.basa.org.bd
@@ -10299,12 +10352,14 @@ www.carnavi.com.bd
 www.carparts.xmarket.com.bd
 www.carservice.goldeninfotech.com.bd
 www.cartwishlist.com.creativetours.com.bd
+www.casc.edu.bd
 www.case-moef.gov.bd
 www.cashconnect.com.bd
 www.castle.com.bd
 www.catalog.com.bd
 www.cbgghs.edu.bd
 www.cbmc.edu.bd
+www.ccc.edu.bd
 www.cccedu.theworld.com.bd
 www.ccifb.com.bd
 www.cdhs1993.edu.bd
@@ -10408,6 +10463,9 @@ www.course.dumarketing.ac.bd
 www.cozythai.pt.shahadat.com.bd
 www.cp.domainname.com.bd
 www.cp.scholarszone.com.bd
+www.cpscbusms.edu.bd
+www.cpscevjes.edu.bd
+www.cpsckhulna.edu.bd
 www.cqams.bdeducation.org.bd
 www.crabfashionbd.com.priyotex.com.bd
 www.creation.mmcreation.com.bd
@@ -10742,6 +10800,7 @@ www.epotrika.com.chowkurihs.edu.bd
 www.eps.com.bd
 www.equinox.com.bd
 www.erhs.edu.bd
+www.ermhs.edu.bd
 www.erp.abm.com.bd
 www.erp.accurate.com.bd
 www.erp.araz.com.bd
@@ -10764,6 +10823,8 @@ www.estilotrendy.com.castle.com.bd
 www.estore.saffroncorporation.com.bd
 www.etaxreturn.com.bd
 www.ete.uoda.edu.bd
+www.etrade.barisalcity.gov.bd
+www.etrade.barishalcity.gov.bd
 www.euparjon.com.bd.elnfiba.com.bd
 www.eureka.com.bd
 www.europeanstudy.com.bd
@@ -10888,6 +10949,7 @@ www.gahalihighschool.edu.bd.shibganjhighschool.edu.bd
 www.gahsr.edu.bd
 www.gaicourier.com.takesell.com.bd
 www.gal.com.bd
+www.galagaon.upmymensinghholdingtax.gov.bd
 www.gallery.cub.ac.bd
 www.ganganandapurcollege.momtajtdpl.com.bd
 www.gangjoarhs.edu.bd
@@ -11577,6 +11639,7 @@ www.modelhighschool.edu.bd
 www.modif.com.my.modif.com.bd
 www.mohammadpur.gicheck.info.bd
 www.mohanpurphschool.edu.bd
+www.moheshpurahs.edu.bd
 www.mohiminstitution.edu.bd
 www.mokamup.gov.bd
 www.mollagroup.com.bd.raconstruction.com.bd
@@ -11735,6 +11798,7 @@ www.noormohammadcollege.ac.bd
 www.nord-vpn.unicorn.com.bd
 www.nordvpn.fiber4.com.bd
 www.novonordisk.com.bd
+www.novsastrip.com.sarabela.com.bd
 www.novus.com.bd
 www.npi.gov.bd
 www.nptibd.eduman.com.bd
@@ -12153,6 +12217,7 @@ www.samadhan-school.samadhan.com.bd
 www.samahar.net.bd
 www.samasparamhs.edu.bd
 www.samim.com.bd
+www.samimagro.xyz.tradecoaid.com.bd
 www.samir.com.bd
 www.samzvai.com.one2one.com.bd
 www.sanctum.easyit.com.bd
@@ -12824,6 +12889,8 @@ www.www.www.www.www.wwwwwwwwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.www.www.www.wwwwwwwww.www.bgptools-wildcard-confirmed.nationaltrading.com.bd
 www.www.www.wwwwww.wwwwwwwwwwww.www.bgptools-wildcard-confirmed.nationaltrading.com.bd
 www.www.www.wwwwwwwwwwww.www.bgptools-wildcard-confirmed.nationaltrading.com.bd
+www.www.wwwawwwbgptools-wildcard-confirmed.nationaltrading.com.bd
+www.www.wwwbigdata.nationaltrading.com.bd
 www.www.wwwdwww.wwwwww.wwwwww.bgptools-wildcard-confirmed.nationaltrading.com.bd
 www.www.wwwwww.wwwwww.www.wwwwww.wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.www.wwwwww.wwwwww.wwwwww.www.wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
@@ -12837,6 +12904,7 @@ www.wwwawwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.wwwdwww.wwwwww.wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.wwwdwww.wwwwwwwww.bgptools-wildcard-confirmed.nationaltrading.com.bd
 www.wwwdwwwwwwbgptools-wildcard-confirmed.nationaltrading.com.bd
+www.wwwqa.bi.nationaltrading.com.bd
 www.wwwwww.awww.www.www.wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.wwwwww.awww.wwwbgptools-wildcard-confirmed.nationaltrading.com.bd
 www.wwwwww.www.fxvtjwwwssl.nationaltrading.com.bd
@@ -12889,6 +12957,7 @@ www.zarashahjahan.com.bd
 www.zas.processit.com.bd
 www.zayba.com.bd
 www.zcbmc.edu.bd
+www.zedgroup.steeltask.com.bd
 www.zenithpl.edu.bd
 www.zepto.com.bd.hmbr.com.bd
 www.zforce-archive.com.jungle.com.bd
@@ -12940,6 +13009,7 @@ xtra.com.bd
 xtremesolution.com.bd
 xyz.arrive.com.bd
 xyz.bonikbazar.com.bd
+xyz.tradecoaid.com.bd
 yaman.com.bd
 yamansourcing.uk.yaman.com.bd
 yellowltd.com.bd
@@ -12970,6 +13040,8 @@ zarbi.com.bd
 zayanshop.com.bd
 zayba.com.bd
 zcbmc.edu.bd
+zedgroup.com.bd
+zedgroup.steeltask.com.bd
 zedmart.com.bd
 zeng.creo.com.bd
 zenithpl.edu.bd
