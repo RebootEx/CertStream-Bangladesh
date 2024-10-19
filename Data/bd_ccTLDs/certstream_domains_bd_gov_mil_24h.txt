@@ -5,6 +5,7 @@ api-core.lams-stg.land.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 apps.idea.gov.bd
 backoffice.lams-stg.land.gov.bd
+barisalboard.gov.bd
 barisalcity.gov.bd
 barishalcity.gov.bd
 bdp.gov.bd
@@ -18,6 +19,7 @@ brdb.xyz.iresppw-brdb.gov.bd
 cafocat.gov.bd
 cafoimed.gov.bd
 cafoindustries.gov.bd
+case.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
 chandpur.gov.bd
 chittagongzoo.gov.bd
@@ -37,6 +39,7 @@ dsw.gov.bd
 effhsc21.comillaboard.gov.bd
 ems.fgc.gov.bd
 en.info.shr.dghs.gov.bd
+es.dlrms.land.gov.bd
 esifsix.bise-ctg.gov.bd
 esmmssadar.gov.bd
 event.dlrms.land.gov.bd
@@ -47,6 +50,7 @@ jalalpur.upsylhetholdingtax.gov.bd
 jhalokathimunicipality.gov.bd
 k8s-dboard-admin.dlrms-stg.land.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
+khagrachhari.gov.bd
 khulnadiv.gov.bd
 lams-stg.land.gov.bd
 land.gov.bd
@@ -56,6 +60,7 @@ mail.a2iservices.gov.bd
 marriage.gov.bd
 medical-info.dghs.gov.bd
 medicine.hossainpurpourashava.gov.bd
+muktopaath.gov.bd
 nmv.dscc.gov.bd
 notarypublic.gov.bd
 number.btcl.gov.bd
