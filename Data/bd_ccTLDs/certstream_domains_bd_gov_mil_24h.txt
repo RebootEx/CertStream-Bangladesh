@@ -27,6 +27,7 @@ conference.dghs.gov.bd
 ctm.bhata.gov.bd
 dashboard.gov.bd
 deraipaurashava.gov.bd
+dev.rgc.gov.bd
 dhamraimunicipality.gov.bd
 dhis2dev.dghs.gov.bd
 dlrms-stg.land.gov.bd
@@ -45,6 +46,7 @@ k8s-dboard-admin.dlrms-stg.land.gov.bd
 k8s-dboard-admin.lams-stg.land.gov.bd
 khulnadiv.gov.bd
 lams-stg.land.gov.bd
+lgcrrpmis.lged.gov.bd
 madhukhalipaurashava.gov.bd
 mail.a2iservices.gov.bd
 marriage.gov.bd
@@ -76,6 +78,7 @@ www.barisal.barishalcity.gov.bd
 www.bikiron2021.sreda.gov.bd
 www.bnscp.navy.mil.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
+www.dev.rgc.gov.bd
 www.etrade.barisalcity.gov.bd
 www.etrade.barishalcity.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
