@@ -16,12 +16,14 @@ cd-devops.dlrms-stg.land.gov.bd
 centralup.munshiganjlg.gov.bd
 chittagongdiv.gov.bd
 chuadanga.gov.bd
+citizen.scc.gov.bd
 clms.dshe.gov.bd
 cmp.gov.bd
 comillalg.gov.bd
 coxsbazar.gov.bd
 cpadmin.scc.gov.bd
 cpanel.comillalg.gov.bd
+cpbackend.scc.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcontacts.comillalg.gov.bd
 ctm.bhata.gov.bd
@@ -32,6 +34,7 @@ demo.kanaighatmunicipality.gov.bd
 denguereports.dghs.gov.bd
 dev.knsikhagrachari.gov.bd
 din-crms.dinajpurboard.gov.bd
+dosinland.dos.gov.bd
 dsw.gov.bd
 du.gameapp.gov.bd
 eappeal.taxappealctg.gov.bd
@@ -130,6 +133,7 @@ www.ar.gameapp.gov.bd
 www.bnscp.navy.mil.bd
 www.bsfmstu.gameapp.gov.bd
 www.centralup.munshiganjlg.gov.bd
+www.citizen.scc.gov.bd
 www.comillalg.gov.bd
 www.cpadmin.scc.gov.bd
 www.cumilla.srdl.gov.bd
