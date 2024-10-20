@@ -170,6 +170,7 @@ dhamraimunicipality.gov.bd
 dhaukhaliup.faridpurlg.gov.bd
 dhis2dev.dghs.gov.bd
 diagnostic.rmch.gov.bd
+digitalhaat.gov.bd
 din-crms.dinajpurboard.gov.bd
 dlrms-stg.land.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
@@ -183,6 +184,7 @@ e-library.fsa.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
 ecc-beta.doe.gov.bd
+ecertificate.sreda.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
 eduboardresults.gov.bd
@@ -190,6 +192,7 @@ effhsc.bise-ctg.gov.bd
 effhsc21.comillaboard.gov.bd
 effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
+ekpass.gov.bd
 ekpay.gov.bd
 elearning.gov.bd
 employee-hsms.somch.gov.bd
@@ -208,6 +211,7 @@ etender.sylhetboard.gov.bd
 event.dlrms.land.gov.bd
 event.lams.land.gov.bd
 everify.comillaboard.gov.bd
+facilityregistry.dghs.gov.bd
 faridpur.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
@@ -333,6 +337,7 @@ mmddl-ctgbcsir.gov.bd
 mofa.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
+mra.gov.bd
 muktopaath.gov.bd
 munshiganj.gov.bd
 munshiganjlg.gov.bd
@@ -570,6 +575,7 @@ www.du.gameapp.gov.bd
 www.dumainup.faridpurlg.gov.bd
 www.eappeal.taxappealctg.gov.bd
 www.ebalance.ansarvdpbank.gov.bd
+www.ecertificate.sreda.gov.bd
 www.eduboardresults.gov.bd
 www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
