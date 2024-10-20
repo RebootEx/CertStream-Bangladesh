@@ -48,6 +48,7 @@ admissions.old.ulab.edu.bd
 admissions.ulab.edu.bd
 admissiontest.diu.edu.bd
 adventist.edu.bd
+ae.butex.edu.bd
 afmc.edu.bd
 agadc.edu.bd
 aggsc.edu.bd
@@ -240,6 +241,7 @@ autodiscover.gpcpsc.edu.bd
 autodiscover.gpdmnageswari.edu.bd
 autodiscover.gpghsc.edu.bd
 autodiscover.gwcr.edu.bd
+autodiscover.hamirdipiloths.edu.bd
 autodiscover.hasnabadajbhs.edu.bd
 autodiscover.heedintschool.edu.bd
 autodiscover.icc.edu.bd
@@ -364,6 +366,7 @@ baramagirlsdakhilmadrasah.edu.bd
 bararoutahs.edu.bd
 barashanta.edu.bd
 bargachagirlsschool.edu.bd
+bark.edu.bd
 barnamalasc.edu.bd
 barobazardegreecollege.edu.bd
 barogangninudm115323.edu.bd
@@ -446,6 +449,7 @@ bilchaprassdm.edu.bd
 bilnaliamhs.edu.bd
 binailhs.edu.bd
 binnabaidmlhighschool.edu.bd
+binodpurcollege.edu.bd
 biology.avsc.edu.bd
 bipi.edu.bd
 biraldahcollege.edu.bd
@@ -752,6 +756,7 @@ cpanel.gpdmnageswari.edu.bd
 cpanel.gpghsc.edu.bd
 cpanel.gurukul.edu.bd
 cpanel.gwcr.edu.bd
+cpanel.hamirdipiloths.edu.bd
 cpanel.hamirkutsahs.edu.bd
 cpanel.hasnabadajbhs.edu.bd
 cpanel.heedintschool.edu.bd
@@ -975,6 +980,7 @@ cpcalendars.gpdmnageswari.edu.bd
 cpcalendars.gpghsc.edu.bd
 cpcalendars.gurukul.edu.bd
 cpcalendars.gwcr.edu.bd
+cpcalendars.hamirdipiloths.edu.bd
 cpcalendars.hasnabadajbhs.edu.bd
 cpcalendars.heedintschool.edu.bd
 cpcalendars.icc.edu.bd
@@ -1183,6 +1189,7 @@ cpcontacts.gpdmnageswari.edu.bd
 cpcontacts.gpghsc.edu.bd
 cpcontacts.gurukul.edu.bd
 cpcontacts.gwcr.edu.bd
+cpcontacts.hamirdipiloths.edu.bd
 cpcontacts.hasnabadajbhs.edu.bd
 cpcontacts.heedintschool.edu.bd
 cpcontacts.icc.edu.bd
@@ -1445,6 +1452,7 @@ dshst.edu.bd
 dslab.daffodilvarsity.edu.bd
 dsmkmr.edu.bd
 dsncp.edu.bd
+dssgs.edu.bd
 dssk.edu.bd
 dtc.ulab.edu.bd
 dugali.edu.bd
@@ -1476,6 +1484,7 @@ eklashpurhighschool.edu.bd
 elearning.infra.edu.bd
 emagazine.govmujibcollege.edu.bd
 email.mgsc.edu.bd
+emghs.edu.bd
 eminence.edu.bd
 employability.daffodilvarsity.edu.bd
 ems.hukhs.edu.bd
@@ -1484,6 +1493,7 @@ ems.npi51040.edu.bd
 ems.shamlapurhs.edu.bd
 enc.edu.bd
 engineering.butex.edu.bd
+english.cityuniversity.edu.bd
 engolympiadbd.daffodilvarsity.edu.bd
 engolympics.daffodilvarsity.edu.bd
 epi.edu.bd
@@ -1682,6 +1692,7 @@ halimahs.edu.bd
 hamcchs.edu.bd
 hamdarduniversity.edu.bd
 hamghschool.edu.bd
+hamirdipiloths.edu.bd
 hamirkutsahs.edu.bd
 handialhs.edu.bd
 harekrishnapurgirls.edu.bd
@@ -1697,6 +1708,7 @@ hazikhaliss.edu.bd
 hazimdabulfazalhighschool.edu.bd
 hazratmiachandshahhighschool.edu.bd
 hbhighschool.edu.bd
+hblhs.edu.bd
 hbuc.edu.bd
 hcmshs.edu.bd
 hduam.edu.bd
@@ -1767,6 +1779,7 @@ induriahs.edu.bd
 info.mdch.edu.bd
 infra.edu.bd
 internship.daffodilvarsity.edu.bd
+ipe.butex.edu.bd
 ipes.daffodilvarsity.edu.bd
 ipv6.khulnamats.edu.bd
 iqac-new.ulab.edu.bd
@@ -2198,6 +2211,7 @@ mail.gpghsc.edu.bd
 mail.guatalaghs.edu.bd
 mail.gwcr.edu.bd
 mail.hagakhs.edu.bd
+mail.hamirdipiloths.edu.bd
 mail.hamirkutsahs.edu.bd
 mail.hasnabadajbhs.edu.bd
 mail.hbhighschool.edu.bd
@@ -3045,6 +3059,7 @@ test1.keundiahighschool.edu.bd
 texbotgpt.tecn.edu.bd
 tfd.butex.edu.bd
 tfkghsmbs.edu.bd
+thakurmallikhs.edu.bd
 theduranto.com.nagargolahs.edu.bd
 tilakpurhs.edu.bd
 tis.edu.bd
@@ -3213,6 +3228,7 @@ webdisk.gpdmnageswari.edu.bd
 webdisk.gpghsc.edu.bd
 webdisk.gurukul.edu.bd
 webdisk.gwcr.edu.bd
+webdisk.hamirdipiloths.edu.bd
 webdisk.hasnabadajbhs.edu.bd
 webdisk.heedintschool.edu.bd
 webdisk.icc.edu.bd
@@ -3434,6 +3450,7 @@ webmail.gpdmnageswari.edu.bd
 webmail.gpghsc.edu.bd
 webmail.gurukul.edu.bd
 webmail.gwcr.edu.bd
+webmail.hamirdipiloths.edu.bd
 webmail.hamirkutsahs.edu.bd
 webmail.hasnabadajbhs.edu.bd
 webmail.heedintschool.edu.bd
@@ -3579,6 +3596,7 @@ wksbjgs.edu.bd
 wmts.edu.bd
 wohabidealpsc.edu.bd
 workflow.sandbox.bhsh.edu.bd
+wpe.butex.edu.bd
 www.2023.baurshs.edu.bd
 www.a.akmnc.edu.bd
 www.a.daliaadghs.edu.bd
@@ -3614,6 +3632,7 @@ www.admission.noaparadegreecollege.edu.bd
 www.admission.nstu.edu.bd
 www.admission.vu.edu.bd
 www.adventist.edu.bd
+www.ae.butex.edu.bd
 www.ahkdm.edu.bd
 www.aiam.edu.bd
 www.aifm.edu.bd
@@ -3885,6 +3904,7 @@ www.dsc.edu.bd
 www.dshst.edu.bd
 www.dsmkmr.edu.bd
 www.dsncp.edu.bd
+www.dssgs.edu.bd
 www.dwippuraghs.edu.bd
 www.dwu.uits.edu.bd
 www.ea.butex.edu.bd
@@ -3905,6 +3925,7 @@ www.ems.npi51040.edu.bd
 www.ems.pmths.edu.bd
 www.ems.shamlapurhs.edu.bd
 www.engineering.butex.edu.bd
+www.english.cityuniversity.edu.bd
 www.english.primeasia.edu.bd
 www.engolympiadbd.daffodilvarsity.edu.bd
 www.engolympics.daffodilvarsity.edu.bd
@@ -3985,6 +4006,7 @@ www.gwcr.edu.bd
 www.hagakhs.edu.bd
 www.hajeeasgaralihs.edu.bd.tma.edu.bd
 www.hakhs.edu.bd
+www.hamirdipiloths.edu.bd
 www.hamirkutsahs.edu.bd
 www.harekrishnapurgirls.edu.bd.balidiasecondaryschool.edu.bd
 www.harekrishopurschool.edu.bd.balidiasecondaryschool.edu.bd
@@ -4024,6 +4046,7 @@ www.incometaxhelpbd.satcfakirhat.edu.bd
 www.induriahs.edu.bd
 www.info.mdch.edu.bd
 www.international.sjs.edu.bd
+www.ipe.butex.edu.bd
 www.iqac.bsmrau.edu.bd
 www.iqac.bubt.edu.bd
 www.iqac.rpsu.edu.bd
@@ -4500,6 +4523,7 @@ www.webmail.kyamc.edu.bd
 www.whatsapp.gachhbariidealcollege.edu.bd
 www.wifi.uttarauniversity.edu.bd
 www.work.hbuc.edu.bd
+www.wpe.butex.edu.bd
 www.ywca.edu.bd
 www.zagirhighschool.edu.bd
 www.zcbmc.edu.bd
