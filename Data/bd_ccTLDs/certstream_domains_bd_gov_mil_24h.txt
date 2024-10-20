@@ -1,5 +1,6 @@
 adgfinance.gov.bd
 api-medicine.hossainpurpourashava.gov.bd
+api-vaxepi.dghs.gov.bd
 barisalboard.gov.bd
 betarcommercialservice.gov.bd
 bnscp.navy.mil.bd
@@ -38,6 +39,7 @@ event.lams.land.gov.bd
 farmbroadcast.gov.bd
 feni.gov.bd
 financial-assist.dsw.gov.bd
+gizi303.atikhulna.gov.bd
 godagaricollege.gov.bd
 hossainpurpourashava.gov.bd
 inheritance.gov.bd
@@ -45,6 +47,7 @@ inout.gso.gov.bd
 jamalpur.gov.bd
 jessore.gov.bd
 jhalakathi.gov.bd
+jhalokathimunicipality.gov.bd
 jhenaidah.gov.bd
 kaliakairpourashava.gov.bd
 khulnadiv.gov.bd
@@ -75,8 +78,10 @@ naogaon.gov.bd
 narail.gov.bd
 narsingdi.gov.bd
 natore.gov.bd
+neir.btrc.gov.bd
 netrokona.gov.bd
 nnsop.gov.bd
+npi.gov.bd
 nsdi.gov.bd
 nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
@@ -103,6 +108,7 @@ test.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
 training.ec4j.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
+uttoradhikar.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 webdisk.comillalg.gov.bd
 webmail.comillalg.gov.bd
@@ -124,6 +130,7 @@ www.inout.gso.gov.bd
 www.majidpurup.gov.bd
 www.medicine.hossainpurpourashava.gov.bd
 www.nabipurwestsmartup.gov.bd
+www.npi.gov.bd
 www.nshd.sreda.gov.bd
 www.ntrc.gameapp.gov.bd
 www.portal.taxappealctg.gov.bd
