@@ -1,5 +1,7 @@
+adgfinance.gov.bd
 api-medicine.hossainpurpourashava.gov.bd
 barisalboard.gov.bd
+betarcommercialservice.gov.bd
 bnscp.navy.mil.bd
 bsfmstu.gameapp.gov.bd
 cafoerd.gov.bd
@@ -18,6 +20,7 @@ cpcalendars.comillalg.gov.bd
 cpcontacts.comillalg.gov.bd
 ctm.bhata.gov.bd
 cumilla.srdl.gov.bd
+dam.gov.bd
 demo.kanaighatmunicipality.gov.bd
 denguereports.dghs.gov.bd
 dev.knsikhagrachari.gov.bd
@@ -31,10 +34,12 @@ ekhotiancoxsbazarsadar.gov.bd
 erp.gso.gov.bd
 es.dlrms.land.gov.bd
 event.lams.land.gov.bd
+farmbroadcast.gov.bd
 feni.gov.bd
 financial-assist.dsw.gov.bd
 godagaricollege.gov.bd
 hossainpurpourashava.gov.bd
+inheritance.gov.bd
 inout.gso.gov.bd
 jamalpur.gov.bd
 jessore.gov.bd
@@ -49,17 +54,21 @@ logs.dlrms.land.gov.bd
 magura.gov.bd
 mail.comillalg.gov.bd
 mail.egp.dghs.gov.bd
+majidpurup.gov.bd
 manikganj.gov.bd
+matelehealth.gov.bd
 mca.bise-ctg.gov.bd
 mchti.gov.bd
 medicine.hossainpurpourashava.gov.bd
 meherpur.gov.bd
+melandahbhata.gov.bd
 monglaportmunicipality.gov.bd
 movement.brri.gov.bd
 mra.gov.bd
 muktopaath.gov.bd
 munshiganj.gov.bd
 mymensingh.gov.bd
+nabiganjpaurashava.gov.bd
 nabipurwestsmartup.gov.bd
 naogaon.gov.bd
 narail.gov.bd
@@ -95,6 +104,7 @@ training.ec4j.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
 webdisk.comillalg.gov.bd
 webmail.comillalg.gov.bd
+www.adgfinance.gov.bd
 www.api-medicine.hossainpurpourashava.gov.bd
 www.bnscp.navy.mil.bd
 www.bsfmstu.gameapp.gov.bd
@@ -108,6 +118,7 @@ www.ecertificate.sreda.gov.bd
 www.erp.gso.gov.bd
 www.financial-assist.dsw.gov.bd
 www.inout.gso.gov.bd
+www.majidpurup.gov.bd
 www.medicine.hossainpurpourashava.gov.bd
 www.nabipurwestsmartup.gov.bd
 www.nshd.sreda.gov.bd
@@ -119,3 +130,4 @@ www.synotecagrovet.com.melandahbhata.gov.bd
 www.taxzone21dhaka.gov.bd
 www.test.gameapp.gov.bd
 www.training.ec4j.gov.bd
+www.uacco.melandahbhata.gov.bd
