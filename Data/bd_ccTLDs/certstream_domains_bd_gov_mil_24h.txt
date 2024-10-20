@@ -5,6 +5,7 @@ centralup.munshiganjlg.gov.bd
 chittagongdiv.gov.bd
 cmp.gov.bd
 coxsbazar.gov.bd
+cpadmin.scc.gov.bd
 cumilla.srdl.gov.bd
 dsw.gov.bd
 ebrc.mil.bd
@@ -23,6 +24,8 @@ lakshmipur.gov.bd
 logs.dlrms.land.gov.bd
 manikganj.gov.bd
 mca.bise-ctg.gov.bd
+medicine.hossainpurpourashava.gov.bd
+meherpur.gov.bd
 monglaportmunicipality.gov.bd
 muktopaath.gov.bd
 munshiganj.gov.bd
@@ -48,11 +51,15 @@ shr.mcishr.dghs.gov.bd
 tangail.gov.bd
 test.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
+training.ec4j.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.centralup.munshiganjlg.gov.bd
+www.cpadmin.scc.gov.bd
 www.cumilla.srdl.gov.bd
 www.financial-assist.dsw.gov.bd
+www.medicine.hossainpurpourashava.gov.bd
 www.ntrc.gameapp.gov.bd
 www.register.gameapp.gov.bd
 www.test.gameapp.gov.bd
+www.training.ec4j.gov.bd
