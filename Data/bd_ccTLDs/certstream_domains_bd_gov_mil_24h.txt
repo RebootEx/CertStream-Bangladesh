@@ -10,12 +10,16 @@ cmp.gov.bd
 coxsbazar.gov.bd
 cpadmin.scc.gov.bd
 cumilla.srdl.gov.bd
+dev.knsikhagrachari.gov.bd
+din-crms.dinajpurboard.gov.bd
 dsw.gov.bd
 ebrc.mil.bd
+ecertificate.sreda.gov.bd
 ecourt.gov.bd
 effhsc21.comillaboard.gov.bd
 erp.gso.gov.bd
 es.dlrms.land.gov.bd
+event.lams.land.gov.bd
 feni.gov.bd
 financial-assist.dsw.gov.bd
 hossainpurpourashava.gov.bd
@@ -29,6 +33,7 @@ kishoreganj.gov.bd
 kushtia.gov.bd
 lakshmipur.gov.bd
 logs.dlrms.land.gov.bd
+magura.gov.bd
 manikganj.gov.bd
 mca.bise-ctg.gov.bd
 medicine.hossainpurpourashava.gov.bd
@@ -42,6 +47,7 @@ narail.gov.bd
 narsingdi.gov.bd
 natore.gov.bd
 netrokona.gov.bd
+nnsop.gov.bd
 nsdi.gov.bd
 ntrc.gameapp.gov.bd
 number.btcl.gov.bd
@@ -60,6 +66,7 @@ sirajganj.gov.bd
 smartup.narsingdilg.gov.bd
 synotecagrovet.com.melandahbhata.gov.bd
 tangail.gov.bd
+taxeszonegazipur.gov.bd
 taxzone21dhaka.gov.bd
 test.bfacf-ticket.gov.bd
 test.gameapp.gov.bd
@@ -70,6 +77,8 @@ www.bsfmstu.gameapp.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.cpadmin.scc.gov.bd
 www.cumilla.srdl.gov.bd
+www.dev.knsikhagrachari.gov.bd
+www.ecertificate.sreda.gov.bd
 www.erp.gso.gov.bd
 www.financial-assist.dsw.gov.bd
 www.inout.gso.gov.bd
