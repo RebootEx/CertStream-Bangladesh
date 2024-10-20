@@ -115,6 +115,7 @@ cpanel.bepza.gov.bd
 cpanel.cedp.gov.bd
 cpanel.comillalg.gov.bd
 cpanel.eduboardresults.gov.bd
+cpanel.faridpurlg.gov.bd
 cpanel.ihtdhaka.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.munshiganjlg.gov.bd
@@ -129,6 +130,7 @@ cpcalendars.bdhckl.gov.bd
 cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.eduboardresults.gov.bd
+cpcalendars.faridpurlg.gov.bd
 cpcalendars.ihtdhaka.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.munshiganjlg.gov.bd
@@ -142,6 +144,7 @@ cpcontacts.bdhckl.gov.bd
 cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.eduboardresults.gov.bd
+cpcontacts.faridpurlg.gov.bd
 cpcontacts.ihtdhaka.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.munshiganjlg.gov.bd
@@ -157,6 +160,7 @@ culmination.comillaboard.gov.bd
 cumilla.gov.bd
 cumilla.srdl.gov.bd
 dashboard.gov.bd
+decreercharup.faridpurlg.gov.bd
 demo.kanaighatmunicipality.gov.bd
 demo.railwayestate.gov.bd
 denguereports.dghs.gov.bd
@@ -214,6 +218,7 @@ event.lams.land.gov.bd
 everify.comillaboard.gov.bd
 facilityregistry.dghs.gov.bd
 faridpur.gov.bd
+faridpurlg.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 fgc.gov.bd
@@ -235,6 +240,7 @@ gunbahaup.faridpurlg.gov.bd
 hajj.gov.bd
 hamirdiup.faridpurlg.gov.bd
 herpower.gov.bd
+himb.bwdb.gov.bd
 hmis.uphcsdp.gov.bd
 hossainpurpourashava.gov.bd
 hotels.gov.bd
@@ -253,6 +259,7 @@ internal.startupsummit.gov.bd
 inventory.dbwctp64.gov.bd
 iresppw-brdb.gov.bd
 ishangopalpurup.faridpurlg.gov.bd
+jadunandiup.faridpurlg.gov.bd
 jalalpur.upsylhetholdingtax.gov.bd
 jamalpur.gov.bd
 jamalpurtsc.gov.bd
@@ -307,6 +314,7 @@ mail.cedp.gov.bd
 mail.comillalg.gov.bd
 mail.eduboardresults.gov.bd
 mail.egp.dghs.gov.bd
+mail.faridpurlg.gov.bd
 mail.ihtdhaka.gov.bd
 mail.iresppw-brdb.gov.bd
 mail.jamalpurtsc.gov.bd
@@ -322,6 +330,7 @@ mail.tzr.gov.bd
 mail.ulipurmunicipality.gov.bd
 mail.vatdhakawest.gov.bd
 mail.zprajshahi.gov.bd
+manikdhaup.faridpurlg.gov.bd
 manikganj.gov.bd
 manirampurmunicipality.gov.bd
 marriage.gov.bd
@@ -338,6 +347,7 @@ mmddl-ctgbcsir.gov.bd
 mofa.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
+moynaup.faridpurlg.gov.bd
 mra.gov.bd
 muktopaath.gov.bd
 munshiganj.gov.bd
@@ -506,6 +516,7 @@ webdisk.bepza.gov.bd
 webdisk.cedp.gov.bd
 webdisk.comillalg.gov.bd
 webdisk.eduboardresults.gov.bd
+webdisk.faridpurlg.gov.bd
 webdisk.ihtdhaka.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.munshiganjlg.gov.bd
@@ -519,6 +530,7 @@ webmail.bdhckl.gov.bd
 webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.eduboardresults.gov.bd
+webmail.faridpurlg.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.munshiganjlg.gov.bd
@@ -527,6 +539,7 @@ webmail.pwdta.gov.bd
 webmail.railwayestate.gov.bd
 webmail.rmch.gov.bd
 webmail.ttcraj.gov.bd
+whm.faridpurlg.gov.bd
 www.abc.dsw.gov.bd
 www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
@@ -565,6 +578,7 @@ www.comillalg.gov.bd
 www.cpadmin.scc.gov.bd
 www.cumilla.srdl.gov.bd
 www.dakshinmaijpara.upmymensinghholdingtax.gov.bd
+www.decreercharup.faridpurlg.gov.bd
 www.demo.kanaighatmunicipality.gov.bd
 www.demo.railwayestate.gov.bd
 www.dev.knsikhagrachari.gov.bd
@@ -586,6 +600,7 @@ www.ems.fgc.gov.bd
 www.erp.sreda.gov.bd
 www.etrade.barisalcity.gov.bd
 www.etrade.barishalcity.gov.bd
+www.faridpurlg.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
@@ -607,6 +622,7 @@ www.inlandcrew.dos.gov.bd
 www.inventory.dbwctp64.gov.bd
 www.iresppw-brdb.gov.bd
 www.ishangopalpurup.faridpurlg.gov.bd
+www.jadunandiup.faridpurlg.gov.bd
 www.jamalpurtsc.gov.bd
 www.kaichailup.faridpurlg.gov.bd
 www.kaijuriup.faridpurlg.gov.bd
@@ -619,11 +635,13 @@ www.lgc.edu.bd.gbrcr.gov.bd
 www.locc.psdsms.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mail.sreda.gov.bd
+www.manikdhaup.faridpurlg.gov.bd
 www.medicine.hossainpurpourashava.gov.bd
 www.meherparaup.narsingdilg.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mokamup.gov.bd
+www.moynaup.faridpurlg.gov.bd
 www.munshiganjlg.gov.bd
 www.nabipurwestsmartup.gov.bd
 www.naemict69.gnc.gov.bd

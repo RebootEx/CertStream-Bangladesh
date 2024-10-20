@@ -188,6 +188,7 @@ autodiscover.bbcpsc.edu.bd
 autodiscover.bbnsc.edu.bd
 autodiscover.bciccollege.edu.bd
 autodiscover.bcpsc.edu.bd
+autodiscover.bcscctg.edu.bd
 autodiscover.bdahs.edu.bd
 autodiscover.bejparahs.edu.bd
 autodiscover.belkuchicollege.edu.bd
@@ -388,6 +389,7 @@ bcc.edu.bd
 bciccollege.edu.bd
 bck.edu.bd
 bcpsc.edu.bd
+bcscctg.edu.bd
 bdahs.edu.bd
 bdmig.iist-mirpur.edu.bd
 bdmsn.edu.bd
@@ -403,6 +405,7 @@ benigndev.ssqcdc.edu.bd
 bernaiyahighschool.edu.bd
 bes.edu.bd
 beta.acps.edu.bd
+beta.bcscctg.edu.bd
 beta.blscg.edu.bd
 beta.idealcollegedhanmondi.edu.bd
 beta.savarmodelcollege.edu.bd
@@ -679,6 +682,7 @@ cpanel.bbcpsc.edu.bd
 cpanel.bbnsc.edu.bd
 cpanel.bciccollege.edu.bd
 cpanel.bcpsc.edu.bd
+cpanel.bcscctg.edu.bd
 cpanel.bdahs.edu.bd
 cpanel.bdmsn.edu.bd
 cpanel.bejparahs.edu.bd
@@ -913,6 +917,7 @@ cpcalendars.bbcpsc.edu.bd
 cpcalendars.bbnsc.edu.bd
 cpcalendars.bciccollege.edu.bd
 cpcalendars.bcpsc.edu.bd
+cpcalendars.bcscctg.edu.bd
 cpcalendars.bdahs.edu.bd
 cpcalendars.bejparahs.edu.bd
 cpcalendars.belkuchicollege.edu.bd
@@ -1121,6 +1126,7 @@ cpcontacts.bbcpsc.edu.bd
 cpcontacts.bbnsc.edu.bd
 cpcontacts.bciccollege.edu.bd
 cpcontacts.bcpsc.edu.bd
+cpcontacts.bcscctg.edu.bd
 cpcontacts.bdahs.edu.bd
 cpcontacts.bejparahs.edu.bd
 cpcontacts.belkuchicollege.edu.bd
@@ -2041,6 +2047,7 @@ lhscnj.edu.bd
 library.butex.edu.bd
 library.girmm.edu.bd
 library.ulab.edu.bd
+lifm.edu.bd
 link.ahskbera.edu.bd
 linkeycon.xyz.dgdc.edu.bd
 lockdowngenius.dic.edu.bd
@@ -2105,6 +2112,7 @@ mail.bbcpsc.edu.bd
 mail.bbnsc.edu.bd
 mail.bciccollege.edu.bd
 mail.bcpsc.edu.bd
+mail.bcscctg.edu.bd
 mail.bdahs.edu.bd
 mail.bdmsn.edu.bd
 mail.bejparahs.edu.bd
@@ -3160,6 +3168,7 @@ webdisk.bbcpsc.edu.bd
 webdisk.bbnsc.edu.bd
 webdisk.bciccollege.edu.bd
 webdisk.bcpsc.edu.bd
+webdisk.bcscctg.edu.bd
 webdisk.bdahs.edu.bd
 webdisk.bejparahs.edu.bd
 webdisk.belkuchicollege.edu.bd
@@ -3378,6 +3387,7 @@ webmail.bbcpsc.edu.bd
 webmail.bbnsc.edu.bd
 webmail.bciccollege.edu.bd
 webmail.bcpsc.edu.bd
+webmail.bcscctg.edu.bd
 webmail.bdahs.edu.bd
 webmail.bejparahs.edu.bd
 webmail.belkuchicollege.edu.bd
@@ -3732,6 +3742,7 @@ www.bbssylhet.edu.bd
 www.bcam.edu.bd
 www.bciccollege.edu.bd
 www.bcpsc.edu.bd
+www.bcscctg.edu.bd
 www.bdahs.edu.bd
 www.bdmig.iist-mirpur.edu.bd
 www.bdmsn.edu.bd
@@ -3741,6 +3752,7 @@ www.beltolighs.edu.bd
 www.benigndev.ssqcdc.edu.bd
 www.bes.edu.bd
 www.beta.acps.edu.bd
+www.beta.bcscctg.edu.bd
 www.beta.blscg.edu.bd
 www.beta.idealcollegedhanmondi.edu.bd
 www.beta.savarmodelcollege.edu.bd
