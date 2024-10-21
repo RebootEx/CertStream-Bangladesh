@@ -2,6 +2,7 @@ abdurroufcollege.edu.bd
 accounts.ttuc.edu.bd
 achiahighschool.edu.bd
 admission.kist.edu.bd
+admission.sof.edu.bd
 ae.butex.edu.bd
 aehs.edu.bd
 afmc.edu.bd
@@ -46,6 +47,7 @@ autodiscover.munshirbazarhighschool.edu.bd
 autodiscover.nagarnursing.edu.bd
 autodiscover.rgwcollege.edu.bd
 autodiscover.srscf.edu.bd
+autodiscover.ssqcdc.edu.bd
 autodiscover.sthsc.edu.bd
 autodiscover.uttara.edu.bd
 baganbarihs.edu.bd
@@ -53,8 +55,10 @@ bakhundahighschool.edu.bd
 baliadangahs.edu.bd
 bamoigovths.edu.bd
 bamsjhs.edu.bd
+baneswarcollege.edu.bd
 bangabandhuhs.edu.bd
 bank-reconciliation.bcps.edu.bd
+bantrasecondaryschool.edu.bd
 bark.edu.bd
 barobakpurgirlsschool.edu.bd
 basantapurss.edu.bd
@@ -113,6 +117,7 @@ chahutpurss.edu.bd
 chaitanpurhs.edu.bd
 chandhatbazarhighschool.edu.bd
 chandpurss.edu.bd
+charabagihs.edu.bd
 charbakorhs.edu.bd
 chgc.edu.bd
 chhatnaicollege.edu.bd
@@ -152,6 +157,7 @@ cpanel.nazirpurhighschool.edu.bd
 cpanel.rgwcollege.edu.bd
 cpanel.safirunnesags.edu.bd
 cpanel.srscf.edu.bd
+cpanel.ssqcdc.edu.bd
 cpanel.sthsc.edu.bd
 cpanel.uttara.edu.bd
 cpcalendars.akmmc.edu.bd
@@ -180,6 +186,7 @@ cpcalendars.nazirpurhighschool.edu.bd
 cpcalendars.rgwcollege.edu.bd
 cpcalendars.safirunnesags.edu.bd
 cpcalendars.srscf.edu.bd
+cpcalendars.ssqcdc.edu.bd
 cpcalendars.sthsc.edu.bd
 cpcalendars.uttara.edu.bd
 cpcontacts.akmmc.edu.bd
@@ -208,6 +215,7 @@ cpcontacts.nazirpurhighschool.edu.bd
 cpcontacts.rgwcollege.edu.bd
 cpcontacts.safirunnesags.edu.bd
 cpcontacts.srscf.edu.bd
+cpcontacts.ssqcdc.edu.bd
 cpcontacts.sthsc.edu.bd
 cpcontacts.uttara.edu.bd
 crud.khkhsm.edu.bd
@@ -277,6 +285,7 @@ gohalagirls.edu.bd
 govtadiabadschoolcollege.edu.bd
 govtsjmhs.edu.bd
 gpi.edu.bd
+gsdfm.edu.bd
 gsmghsc.edu.bd
 gsmmhs.edu.bd
 hagakhs.edu.bd
@@ -395,6 +404,7 @@ mail.sfmhs.edu.bd
 mail.sitakundacollege.edu.bd
 mail.sps.edu.bd
 mail.srscf.edu.bd
+mail.ssqcdc.edu.bd
 mail.sthsc.edu.bd
 mail.tolaramcollege.edu.bd
 mail.uttara.edu.bd
@@ -430,6 +440,8 @@ muraulhs.edu.bd
 nabinagarghs.edu.bd
 nagarnursing.edu.bd
 naogc.edu.bd
+narayanganjpreparatoryschool.edu.bd
+nasimosmanmodelhighschool.edu.bd
 natherkandihs.edu.bd
 nazirpurhighschool.edu.bd
 nbpmhs.edu.bd
@@ -468,6 +480,7 @@ radhanagaranchs.edu.bd
 raisasgiftbox.com.mkshs.edu.bd
 rajapurhighschool.edu.bd
 rakhs.edu.bd
+rakm.edu.bd
 ramnagarhs.edu.bd
 rangpur.uist.edu.bd
 rbdm.edu.bd
@@ -479,6 +492,7 @@ rhrush.edu.bd
 rhscr.edu.bd
 rimc.edu.bd
 rmphs.edu.bd
+rneudm.edu.bd
 rsdm.edu.bd
 rstu.edu.bd
 rwam.edu.bd
@@ -520,8 +534,10 @@ sotoboro.com.renesa.edu.bd
 spghs.edu.bd
 splsc.edu.bd
 sps.edu.bd
+srijanyhs.edu.bd
 srscf.edu.bd
 ssbhs.edu.bd
+ssqcdc.edu.bd
 ssreerampurhighschool.edu.bd
 sthsc.edu.bd
 sukndm.edu.bd
@@ -541,6 +557,7 @@ ucgss.edu.bd
 ucmhighschool.edu.bd
 ug.butex.edu.bd
 ujanicollege.edu.bd
+upumss.edu.bd
 uttara-edu-bd.uttarauniversity.edu.bd
 uttara.edu.bd
 vcoffice.butex.edu.bd
@@ -572,6 +589,7 @@ webdisk.nazirpurhighschool.edu.bd
 webdisk.rgwcollege.edu.bd
 webdisk.safirunnesags.edu.bd
 webdisk.srscf.edu.bd
+webdisk.ssqcdc.edu.bd
 webdisk.sthsc.edu.bd
 webdisk.uttara.edu.bd
 webmail.akmmc.edu.bd
@@ -600,8 +618,10 @@ webmail.nazirpurhighschool.edu.bd
 webmail.rgwcollege.edu.bd
 webmail.safirunnesags.edu.bd
 webmail.srscf.edu.bd
+webmail.ssqcdc.edu.bd
 webmail.sthsc.edu.bd
 webmail.uttara.edu.bd
+webportal.ugv.edu.bd
 whmcpanel.stamforduniversity.edu.bd
 www.accounts.ttuc.edu.bd
 www.admission.kist.edu.bd
@@ -754,6 +774,7 @@ www.soft.mti.edu.bd
 www.sotoboro.com.renesa.edu.bd
 www.sps.edu.bd
 www.srscf.edu.bd
+www.ssqcdc.edu.bd
 www.sthsc.edu.bd
 www.studentportal.infra.edu.bd
 www.survey.eastdelta.edu.bd
