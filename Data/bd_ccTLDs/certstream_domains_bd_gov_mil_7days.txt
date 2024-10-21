@@ -9,6 +9,7 @@ adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
 adp.plancomm.gov.bd
 akkelpurmunicipality.gov.bd
+alfadangaup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 amcchuadanga.gov.bd
 api-admin.lams-stg.land.gov.bd
@@ -130,6 +131,7 @@ cpanel.ihtdhaka.gov.bd
 cpanel.iresppw-brdb.gov.bd
 cpanel.munshiganjlg.gov.bd
 cpanel.pwdta.gov.bd
+cpanel.quiz.gov.bd
 cpanel.railwayestate.gov.bd
 cpanel.ttcraj.gov.bd
 cpbackend.scc.gov.bd
@@ -143,6 +145,7 @@ cpcalendars.ihtdhaka.gov.bd
 cpcalendars.iresppw-brdb.gov.bd
 cpcalendars.munshiganjlg.gov.bd
 cpcalendars.pwdta.gov.bd
+cpcalendars.quiz.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
@@ -155,6 +158,7 @@ cpcontacts.ihtdhaka.gov.bd
 cpcontacts.iresppw-brdb.gov.bd
 cpcontacts.munshiganjlg.gov.bd
 cpcontacts.pwdta.gov.bd
+cpcontacts.quiz.gov.bd
 cpcontacts.railwayestate.gov.bd
 cpcontacts.ttcraj.gov.bd
 cph.gov.bd
@@ -304,6 +308,7 @@ kishoreganj.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
 kodalkatihs.gov.bd
 korakdi.faridpurlg.gov.bd
+krishnapurup.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
 kushtia.gov.bd
 ladhaka.gov.bd
@@ -341,6 +346,7 @@ mail.jamalpurtsc.gov.bd
 mail.lalmohanpaurashava.gov.bd
 mail.munshiganjlg.gov.bd
 mail.pwdta.gov.bd
+mail.quiz.gov.bd
 mail.railwayestate.gov.bd
 mail.regionalwildlife.gov.bd
 mail.register.gameapp.gov.bd
@@ -442,6 +448,7 @@ ppi.gov.bd
 proxy.shrlive.dghs.gov.bd
 pwdta.gov.bd
 qcb.gov.bd
+quiz.gov.bd
 railwayestate.gov.bd
 raipurup.faridpurlg.gov.bd
 rajabariup.gov.bd
@@ -486,6 +493,7 @@ shariatpurmunicipality.gov.bd
 sherpur.gov.bd
 sherpurpolice.gov.bd
 shift.gov.bd
+shiloyup.munshiganjlg.gov.bd
 shr.mcishr.dghs.gov.bd
 sirajganj.gov.bd
 sjis.dgjute.gov.bd
@@ -493,6 +501,7 @@ smart.dncc.gov.bd
 smartakubpurup.gov.bd
 smartschoolbus.gov.bd
 smartup.comillalg.gov.bd
+smartup.faridpurlg.gov.bd
 smartup.narsingdilg.gov.bd
 smmamc.gov.bd
 smtp.dghs.gov.bd
@@ -564,6 +573,7 @@ webdisk.ihtdhaka.gov.bd
 webdisk.iresppw-brdb.gov.bd
 webdisk.munshiganjlg.gov.bd
 webdisk.pwdta.gov.bd
+webdisk.quiz.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.bangladeshfestival.gov.bd
@@ -577,6 +587,7 @@ webmail.iresppw-brdb.gov.bd
 webmail.munshiganjlg.gov.bd
 webmail.pbrlp.gov.bd
 webmail.pwdta.gov.bd
+webmail.quiz.gov.bd
 webmail.railwayestate.gov.bd
 webmail.ttcraj.gov.bd
 whm.faridpurlg.gov.bd
@@ -584,6 +595,7 @@ www.abc.dsw.gov.bd
 www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.admins.rpi.gov.bd
+www.alfadangaup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.api-medicine.hossainpurpourashava.gov.bd
@@ -685,6 +697,7 @@ www.keshabpurpouroshava.gov.bd
 www.khudrachaya.smmamc.gov.bd
 www.kodaliashohidnagarup.faridpurlg.gov.bd
 www.korakdi.faridpurlg.gov.bd
+www.krishnapurup.faridpurlg.gov.bd
 www.lalmohanpaurashava.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
 www.locc.psdsms.gov.bd
@@ -727,6 +740,7 @@ www.pmhsr.edu.bd.gbrcr.gov.bd
 www.portal.taxappealctg.gov.bd
 www.pwdta.gov.bd
 www.qcb.gov.bd
+www.quiz.gov.bd
 www.railwayestate.gov.bd
 www.raipurup.faridpurlg.gov.bd
 www.rajabariup.gov.bd
@@ -747,7 +761,9 @@ www.scholarship.dsw.gov.bd
 www.seat.rpi.gov.bd
 www.shariatpurmunicipality.gov.bd
 www.shd.sreda.gov.bd
+www.shiloyup.munshiganjlg.gov.bd
 www.smartakubpurup.gov.bd
+www.smartup.faridpurlg.gov.bd
 www.smartup.narsingdilg.gov.bd
 www.solar.sreda.gov.bd
 www.somch.gov.bd
