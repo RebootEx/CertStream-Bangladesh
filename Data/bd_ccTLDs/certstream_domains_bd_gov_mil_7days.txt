@@ -11,6 +11,7 @@ adp.plancomm.gov.bd
 akkelpurmunicipality.gov.bd
 alfadangaup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
+ambikapurup.faridpurlg.gov.bd
 amcchuadanga.gov.bd
 api-admin.lams-stg.land.gov.bd
 api-communication.dlrms-stg.land.gov.bd
@@ -97,7 +98,9 @@ centralup.munshiganjlg.gov.bd
 chakariamunicipality.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
+charbhadrasanup.faridpurlg.gov.bd
 charbisnopurup.faridpurlg.gov.bd
+charharirampurup.faridpurlg.gov.bd
 chattogram.gov.bd
 chatulup.faridpurlg.gov.bd
 chittagong.gov.bd
@@ -167,6 +170,7 @@ ctm.bhata.gov.bd
 culmination.comillaboard.gov.bd
 cumilla.gov.bd
 cumilla.srdl.gov.bd
+cyberdrill.cirt.gov.bd
 dam.gov.bd
 dashboard.gov.bd
 dcadhaka.gov.bd
@@ -477,6 +481,7 @@ resultmanagement.comillaboard.gov.bd
 rmp.gov.bd
 rollsheet.comillaboard.gov.bd
 rpi.gov.bd
+sadarpurup.faridpurlg.gov.bd
 sarswp.gnc.gov.bd
 sathi.gov.bd
 satkhira.gov.bd
@@ -484,6 +489,7 @@ satkhiratsc.gov.bd
 savarmunicipality.gov.bd
 scc.gov.bd
 scholarship.dsw.gov.bd
+sciencebus.gov.bd
 sdg.gov.bd
 secpass.gov.bd
 senbagmunicipality.gov.bd
@@ -545,6 +551,7 @@ training.apams.cabinet.gov.bd
 training.ec4j.gov.bd
 training.gov.bd
 trainingjk.apamsv3.cabinet.gov.bd
+trainingnis.cabinet.gov.bd
 ttcraj.gov.bd
 tzr.gov.bd
 uatsso-slsd.mohpw.gov.bd
@@ -562,6 +569,7 @@ vmdatabase.mspvaw.gov.bd
 vrmanagement.rmp.gov.bd
 web.bise-ctg.gov.bd
 web.comillaboard.gov.bd
+web.pgcb.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bdhckl.gov.bd
 webdisk.bepza.gov.bd
@@ -597,6 +605,7 @@ www.admin.farmbroadcast.gov.bd
 www.admins.rpi.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
+www.ambikapurup.faridpurlg.gov.bd
 www.amdiaup.narsingdilg.gov.bd
 www.api-medicine.hossainpurpourashava.gov.bd
 www.api.rpi.gov.bd
@@ -626,7 +635,9 @@ www.cedp.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.chakariamunicipality.gov.bd
+www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
+www.charharirampurup.faridpurlg.gov.bd
 www.chatulup.faridpurlg.gov.bd
 www.citizen.scc.gov.bd
 www.comillaboard.gov.bd
@@ -756,8 +767,10 @@ www.residence.dc-khagrachhari.gov.bd
 www.result.fci.gov.bd
 www.result.fgc.gov.bd
 www.rmp.gov.bd
+www.sadarpurup.faridpurlg.gov.bd
 www.sarswp.gnc.gov.bd
 www.scholarship.dsw.gov.bd
+www.sciencebus.gov.bd
 www.seat.rpi.gov.bd
 www.shariatpurmunicipality.gov.bd
 www.shd.sreda.gov.bd
