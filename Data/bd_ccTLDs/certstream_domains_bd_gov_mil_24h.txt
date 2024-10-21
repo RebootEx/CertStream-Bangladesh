@@ -4,6 +4,7 @@ autodiscover.bangladeshfestival.gov.bd
 az.dotsim.gov.bd
 bangladesh.gov.bd
 bangladeshfestival.gov.bd
+barishal.gov.bd
 billingtest.alaap.gov.bd
 biteshwarup.gov.bd
 bnscp.navy.mil.bd
@@ -15,8 +16,10 @@ cpanel.bangladeshfestival.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cumilla.gov.bd
+dam.gov.bd
 dcadhaka.gov.bd
 dos.gov.bd
+dosinland.dos.gov.bd
 edu.bd.gbrcr.gov.bd
 gizi303.atikhulna.gov.bd
 globe.dhamraimunicipality.gov.bd
@@ -25,15 +28,20 @@ herpower.gov.bd
 kalipouragazi.gov.bd
 lgcrrpmis.lged.gov.bd
 mail.bangladeshfestival.gov.bd
+mail.satkhiratsc.gov.bd
 memis.gov.bd
 muktopaath.gov.bd
 newmaza.fun.kalihatipourashava.gov.bd
+rajbaripourashava.gov.bd
 residence.dc-khagrachhari.gov.bd
+satkhiratsc.gov.bd
 teachers.gov.bd
+test.bfacf-ticket.gov.bd
 titumircollege.gov.bd
 tourismctg.gov.bd
 training.gov.bd
 unorupganj.gov.bd
+upmymensinghholdingtax.gov.bd
 water.scc.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webmail.bangladeshfestival.gov.bd
@@ -46,6 +54,7 @@ www.herpower.gov.bd
 www.newmaza.fun.kalihatipourashava.gov.bd
 www.pmhsr.edu.bd.gbrcr.gov.bd
 www.residence.dc-khagrachhari.gov.bd
+www.satkhiratsc.gov.bd
 www.training.gov.bd
 www.water.scc.gov.bd
 zppatuakhali.gov.bd
