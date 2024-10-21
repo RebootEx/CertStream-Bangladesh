@@ -16,6 +16,7 @@ api-communication.lams-stg.land.gov.bd
 api-core.lams-stg.land.gov.bd
 api-medicine.hossainpurpourashava.gov.bd
 api-utility.dlrms-stg.land.gov.bd
+api-vaxepi.dghs.gov.bd
 api.bhata.gov.bd
 api.scc.gov.bd
 api.upension.gov.bd
@@ -52,6 +53,7 @@ bdp.gov.bd
 belkuchipoura.gov.bd
 bepza.gov.bd
 betagimunicipality.gov.bd
+betarcommercialservice.gov.bd
 bhata.gov.bd
 bhawanigonjpaurashava.gov.bd
 bhola.gov.bd
@@ -77,7 +79,9 @@ cafoimed.gov.bd
 cafoindustries.gov.bd
 cafoird.gov.bd
 cafolabour.gov.bd
+cafomofl.gov.bd
 cafopresident.gov.bd
+cafoyouthandsports.gov.bd
 case-moef.gov.bd
 case.gov.bd
 cat.brri.gov.bd
@@ -162,7 +166,9 @@ ctm.bhata.gov.bd
 culmination.comillaboard.gov.bd
 cumilla.gov.bd
 cumilla.srdl.gov.bd
+dam.gov.bd
 dashboard.gov.bd
+dcadhaka.gov.bd
 decreercharup.faridpurlg.gov.bd
 demo.kanaighatmunicipality.gov.bd
 demo.railwayestate.gov.bd
@@ -183,6 +189,7 @@ dlrms-stg.land.gov.bd
 dmbogura.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
 docker-image-registry.lams-stg.land.gov.bd
+dosinland.dos.gov.bd
 dpl.gov.bd
 dsw.gov.bd
 du.gameapp.gov.bd
@@ -191,6 +198,7 @@ dwatraining.gov.bd
 e-library.fsa.gov.bd
 eappeal.taxappealctg.gov.bd
 ebalance.ansarvdpbank.gov.bd
+ebrc.mil.bd
 ecc-beta.doe.gov.bd
 ecertificate.sreda.gov.bd
 ecourt.gov.bd
@@ -210,6 +218,7 @@ ems.fgc.gov.bd
 en.info.shr.dghs.gov.bd
 epicampaign.dghs.gov.bd
 epoas.ddm.gov.bd
+erp.gso.gov.bd
 es.dlrms.land.gov.bd
 eservices.boiler.gov.bd
 esifhsc.bise-ctg.gov.bd
@@ -223,9 +232,11 @@ everify.comillaboard.gov.bd
 facilityregistry.dghs.gov.bd
 faridpur.gov.bd
 faridpurlg.gov.bd
+farmbroadcast.gov.bd
 feedback.karmasangsthanbank.gov.bd
 feni.gov.bd
 fgc.gov.bd
+financial-assist.dsw.gov.bd
 fulsutiup.faridpurlg.gov.bd
 galachipacollege.gov.bd
 gattiup.faridpurlg.gov.bd
@@ -235,6 +246,7 @@ gazirtekup.faridpurlg.gov.bd
 gca.bise-ctg.gov.bd
 ghoraghatmunicipality.gov.bd
 git.dghs.gov.bd
+gizi303.atikhulna.gov.bd
 gmhs.gov.bd
 gobindagonjpourashava.gov.bd
 godagaricollege.gov.bd
@@ -256,7 +268,9 @@ hsc-dbtp-2023.dinajpurboard.gov.bd
 hscadmit.bise-ctg.gov.bd
 hsms.somch.gov.bd
 ihtdhaka.gov.bd
+inheritance.gov.bd
 inlandcrew.dos.gov.bd
+inout.gso.gov.bd
 institute.bise-ctg.gov.bd
 institution.comillaboard.gov.bd
 internal.startupsummit.gov.bd
@@ -291,6 +305,7 @@ khulna.gov.bd
 khulnadiv.gov.bd
 kishoreganj.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
+kodalkatihs.gov.bd
 korakdi.faridpurlg.gov.bd
 kuliarcharpourashava.gov.bd
 kushtia.gov.bd
@@ -304,6 +319,7 @@ lgcrrpmis.lged.gov.bd
 lms-admin.fsa.gov.bd
 lms-api.fsa.gov.bd
 locc.psdsms.gov.bd
+logs.dlrms.land.gov.bd
 madaripur.gov.bd
 madhukhalipaurashava.gov.bd
 magura.gov.bd
@@ -339,11 +355,15 @@ manikdhaup.faridpurlg.gov.bd
 manikganj.gov.bd
 manirampurmunicipality.gov.bd
 marriage.gov.bd
+matelehealth.gov.bd
+mca.bise-ctg.gov.bd
 mchti.gov.bd
 medical-info.dghs.gov.bd
 medicine.hossainpurpourashava.gov.bd
 meeting.sla.gov.bd
 meherpur.gov.bd
+melandahbhata.gov.bd
+memis.gov.bd
 middleware.dghs.gov.bd
 mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
@@ -352,6 +372,7 @@ mmddl-ctgbcsir.gov.bd
 mofa.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
+movement.brri.gov.bd
 moynaup.faridpurlg.gov.bd
 mra.gov.bd
 muktopaath.gov.bd
@@ -372,6 +393,7 @@ narsingdi.gov.bd
 narsingdilg.gov.bd
 natore.gov.bd
 nazipurpourashava.gov.bd
+neir.btrc.gov.bd
 netrokona.gov.bd
 netrokonatsc.gov.bd
 new.cafomolwa.gov.bd
@@ -384,6 +406,7 @@ nnsop.gov.bd
 nogorapp.scc.gov.bd
 notarypublic.gov.bd
 npi.gov.bd
+nsdi.gov.bd
 nshd.sreda.gov.bd
 ntrc.gameapp.gov.bd
 number.btcl.gov.bd
@@ -411,6 +434,7 @@ pfms.brri.gov.bd
 pirjatrapurup.gov.bd
 portal.munshiganjtsc.gov.bd
 portal.tihdtcb.gov.bd
+postalacademy.gov.bd
 ppi.gov.bd
 proxy.shrlive.dghs.gov.bd
 pwdta.gov.bd
@@ -451,6 +475,7 @@ satkhiratsc.gov.bd
 savarmunicipality.gov.bd
 scc.gov.bd
 scholarship.dsw.gov.bd
+sdg.gov.bd
 secpass.gov.bd
 senbagmunicipality.gov.bd
 sgc.gov.bd
@@ -465,6 +490,7 @@ sjis.dgjute.gov.bd
 smart.dncc.gov.bd
 smartakubpurup.gov.bd
 smartschoolbus.gov.bd
+smartup.narsingdilg.gov.bd
 smmamc.gov.bd
 smtp.dghs.gov.bd
 soltrack.gov.bd
@@ -481,12 +507,15 @@ student.cmc.gov.bd
 sunamganjpourashava.gov.bd
 sv.dotsim.gov.bd
 sylhettsc.gov.bd
+synotecagrovet.com.melandahbhata.gov.bd
 szmc.gov.bd
 talmaup.faridpurlg.gov.bd
 tangail.gov.bd
 tangerine.dpe.gov.bd
 taxappealctg.gov.bd
+taxeszonegazipur.gov.bd
 taxsurvey.gov.bd
+taxzone21dhaka.gov.bd
 tds.taxeszone3dhaka.gov.bd
 teacher.bise-ctg.gov.bd
 teachers.gov.bd
@@ -501,6 +530,7 @@ tourismctg.gov.bd
 training.apams.cabinet.gov.bd
 training.ec4j.gov.bd
 training.gov.bd
+trainingjk.apamsv3.cabinet.gov.bd
 ttcraj.gov.bd
 tzr.gov.bd
 uatsso-slsd.mohpw.gov.bd
@@ -508,6 +538,7 @@ ubid.gov.bd
 ulipurmunicipality.gov.bd
 upmymensinghholdingtax.gov.bd
 uppabnaholdingtax.gov.bd
+uttoradhikar.gov.bd
 vamanager.dghs.gov.bd
 vatdhakawest.gov.bd
 vaxepi.gov.bd
@@ -603,11 +634,13 @@ www.elibrary.sreda.gov.bd
 www.employee-server.rpi.gov.bd
 www.employee.rpi.gov.bd
 www.ems.fgc.gov.bd
+www.erp.gso.gov.bd
 www.erp.sreda.gov.bd
 www.etrade.barisalcity.gov.bd
 www.etrade.barishalcity.gov.bd
 www.faridpurlg.gov.bd
 www.feedback.karmasangsthanbank.gov.bd
+www.financial-assist.dsw.gov.bd
 www.fulsutiup.faridpurlg.gov.bd
 www.gafargaon.upmymensinghholdingtax.gov.bd
 www.galagaon.upmymensinghholdingtax.gov.bd
@@ -620,11 +653,13 @@ www.hajj.gov.bd
 www.hamirdiup.faridpurlg.gov.bd
 www.haripur.uppabnaholdingtax.gov.bd
 www.hep.sreda.gov.bd
+www.herpower.gov.bd
 www.hmis.uphcsdp.gov.bd
 www.iceeca2019.sreda.gov.bd
 www.idcard.rpi.gov.bd
 www.ihtdhaka.gov.bd
 www.inlandcrew.dos.gov.bd
+www.inout.gso.gov.bd
 www.inventory.dbwctp64.gov.bd
 www.iresppw-brdb.gov.bd
 www.ishangopalpurup.faridpurlg.gov.bd
@@ -691,6 +726,7 @@ www.scholarship.dsw.gov.bd
 www.seat.rpi.gov.bd
 www.shd.sreda.gov.bd
 www.smartakubpurup.gov.bd
+www.smartup.narsingdilg.gov.bd
 www.solar.sreda.gov.bd
 www.somch.gov.bd
 www.srepgen.sreda.gov.bd
@@ -698,9 +734,11 @@ www.startupsummit.gov.bd
 www.stdb.sreda.gov.bd
 www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
+www.synotecagrovet.com.melandahbhata.gov.bd
 www.takanai0.rpi.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.taxsurvey.gov.bd
+www.taxzone21dhaka.gov.bd
 www.tds.taxeszone3dhaka.gov.bd
 www.test.dsw.gov.bd
 www.test.faridpurlg.gov.bd
@@ -708,9 +746,11 @@ www.test.gameapp.gov.bd
 www.test.jaldhakamunicipality.gov.bd
 www.testimonial.noakhalicoll.gov.bd
 www.training.ec4j.gov.bd
+www.training.gov.bd
 www.training.sreda.gov.bd
 www.ttcraj.gov.bd
 www.tzr.gov.bd
+www.uacco.melandahbhata.gov.bd
 www.ulipurmunicipality.gov.bd
 www.vatdhakawest.gov.bd
 www.vmdatabase.mspvaw.gov.bd
