@@ -85,6 +85,7 @@ autodiscover.munshirbazarhighschool.edu.bd
 autodiscover.nagarnursing.edu.bd
 autodiscover.nhs1972.edu.bd
 autodiscover.oranpurbhighschool.edu.bd
+autodiscover.pbdmrk.edu.bd
 autodiscover.pdhs67.edu.bd
 autodiscover.pms.edu.bd
 autodiscover.poradiahighschool.edu.bd
@@ -250,6 +251,7 @@ cpanel.nssdk.edu.bd
 cpanel.oranpurbhighschool.edu.bd
 cpanel.palshahs.edu.bd
 cpanel.panishailhs.edu.bd
+cpanel.pbdmrk.edu.bd
 cpanel.pdhs67.edu.bd
 cpanel.pimdcpr.edu.bd
 cpanel.pms.edu.bd
@@ -324,6 +326,7 @@ cpcalendars.munshirbazarhighschool.edu.bd
 cpcalendars.nagarnursing.edu.bd
 cpcalendars.nhs1972.edu.bd
 cpcalendars.oranpurbhighschool.edu.bd
+cpcalendars.pbdmrk.edu.bd
 cpcalendars.pdhs67.edu.bd
 cpcalendars.pms.edu.bd
 cpcalendars.poradiahighschool.edu.bd
@@ -394,6 +397,7 @@ cpcontacts.munshirbazarhighschool.edu.bd
 cpcontacts.nagarnursing.edu.bd
 cpcontacts.nhs1972.edu.bd
 cpcontacts.oranpurbhighschool.edu.bd
+cpcontacts.pbdmrk.edu.bd
 cpcontacts.pdhs67.edu.bd
 cpcontacts.pms.edu.bd
 cpcontacts.poradiahighschool.edu.bd
@@ -448,11 +452,13 @@ dpmi.edu.bd
 dramtdc.edu.bd
 drsalehaselimhighschool.edu.bd
 dsncp.edu.bd
+dss.edu.bd
 dulaihighschool.edu.bd
 dumss.edu.bd
 dwipnagarhs.edu.bd
 dwippuraghs.edu.bd
 dwu.uits.edu.bd
+eastdelta.edu.bd
 edu.bd.bishnopurhighs.edu.bd
 edu.bd.ihsh.edu.bd
 edu.bd.kanthalbariaaghs.edu.bd
@@ -694,6 +700,7 @@ mail.nssdk.edu.bd
 mail.oranpurbhighschool.edu.bd
 mail.palshahs.edu.bd
 mail.panishailhs.edu.bd
+mail.pbdmrk.edu.bd
 mail.pdhs67.edu.bd
 mail.pimdcpr.edu.bd
 mail.pms.edu.bd
@@ -762,6 +769,7 @@ muradnagartsc.edu.bd
 mwdct.edu.bd
 nagarnursing.edu.bd
 narandiatrkn.edu.bd
+narayanganjhighschoolandcollege.edu.bd
 narayanganjpreparatoryschool.edu.bd
 nationalcollege.edu.bd
 navaronmam.edu.bd
@@ -792,6 +800,7 @@ panchgaondm.edu.bd
 panishailhs.edu.bd
 parpugihighschool.edu.bd
 paypal.maeti.edu.bd
+pbdmrk.edu.bd
 pbfm.edu.bd
 pd.daffodilvarsity.edu.bd
 pdhs67.edu.bd
@@ -836,6 +845,7 @@ rotarycollege.edu.bd
 rpspgdit.iitju.edu.bd
 rpspmit.iitju.edu.bd
 rumdo.edu.bd
+rupnagarmadrasah.edu.bd
 rusdwdc.edu.bd
 s.aparupa.edu.bd
 saags.edu.bd
@@ -953,6 +963,7 @@ webdisk.munshirbazarhighschool.edu.bd
 webdisk.nagarnursing.edu.bd
 webdisk.nhs1972.edu.bd
 webdisk.oranpurbhighschool.edu.bd
+webdisk.pbdmrk.edu.bd
 webdisk.pdhs67.edu.bd
 webdisk.pms.edu.bd
 webdisk.poradiahighschool.edu.bd
@@ -1040,6 +1051,7 @@ webmail.nssdk.edu.bd
 webmail.oranpurbhighschool.edu.bd
 webmail.palshahs.edu.bd
 webmail.panishailhs.edu.bd
+webmail.pbdmrk.edu.bd
 webmail.pdhs67.edu.bd
 webmail.pms.edu.bd
 webmail.poradiahighschool.edu.bd
@@ -1222,6 +1234,7 @@ www.panishailhs.edu.bd
 www.parpugihighschool.edu.bd
 www.payment.vu.edu.bd
 www.paypal.maeti.edu.bd
+www.pbdmrk.edu.bd
 www.pdhs67.edu.bd
 www.pimdcpr.edu.bd
 www.plsj.edu.bd
