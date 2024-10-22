@@ -2,11 +2,13 @@ adminapi.vaxepi.gov.bd
 adp.plancomm.gov.bd
 ambikapurup.faridpurlg.gov.bd
 api.bhata.gov.bd
+barishalcity.gov.bd
 bc.gov.bd
 cafoparliament.gov.bd
 ccapkhulna.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
 charharirampurup.faridpurlg.gov.bd
+cmp-stage.bcc.gov.bd
 cpanel.eduboardresults.gov.bd
 cpcalendars.eduboardresults.gov.bd
 cpcontacts.eduboardresults.gov.bd
@@ -28,6 +30,7 @@ lb.dotsim.gov.bd
 lgservice.gov.bd
 mail.bmdf.gov.bd
 mail.eduboardresults.gov.bd
+neir.btrc.gov.bd
 nowaparapourashava.gov.bd
 npi.gov.bd
 office.doe.gov.bd
@@ -35,16 +38,20 @@ ofr.btcl.gov.bd
 old.gzmcfeni.gov.bd
 openid.dghs.gov.bd
 panchgachhiawestup.gov.bd
+patgrammunicipality.gov.bd
+ppi.gov.bd
 school.gov.bd
 schoolform.bise-ctg.gov.bd
 shr.mcishr.dghs.gov.bd
 smart.dncc.gov.bd
+smartdistrict.gov.bd
 srishtitetulia.gov.bd
 st.dotsim.gov.bd
 sv.dotsim.gov.bd
 taxappealctg.gov.bd
 training.gov.bd
 unofulbari.certificatefuldin.gov.bd
+unorupganj.gov.bd
 uttoradhikar.gov.bd
 webdisk.eduboardresults.gov.bd
 webmail.eduboardresults.gov.bd
@@ -64,3 +71,4 @@ www.portal.taxappealctg.gov.bd
 www.training.gov.bd
 www.unofulbari.certificatefuldin.gov.bd
 www3.bamis.gov.bd
+zppatuakhali.gov.bd
