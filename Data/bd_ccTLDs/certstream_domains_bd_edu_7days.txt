@@ -34,6 +34,7 @@ admin.primeasia.edu.bd
 admission.aibasylhet.edu.bd
 admission.dis.edu.bd
 admission.eminence.edu.bd
+admission.just.edu.bd
 admission.kist.edu.bd
 admission.nstu.edu.bd
 admission.rajcpsc.edu.bd
@@ -639,6 +640,7 @@ canteen.bcc.edu.bd
 career.just.edu.bd
 career.mpsc.edu.bd
 career.rajcpsc.edu.bd
+career.sust.edu.bd
 career.ulab.edu.bd
 career.vu.edu.bd
 carkm.edu.bd
@@ -882,6 +884,7 @@ cpanel.induriahs.edu.bd
 cpanel.ipjhighschool.edu.bd
 cpanel.ipmhs.edu.bd
 cpanel.ius.edu.bd
+cpanel.jashimuddin.edu.bd
 cpanel.jaskm.edu.bd
 cpanel.jasmm-ctg.edu.bd
 cpanel.jesc.edu.bd
@@ -900,6 +903,7 @@ cpanel.kcidm103808.edu.bd
 cpanel.kdm120918.edu.bd
 cpanel.kdmadrasah.edu.bd
 cpanel.kftcs.edu.bd
+cpanel.khashhashil.edu.bd
 cpanel.kholabarihs.edu.bd
 cpanel.khulnamats.edu.bd
 cpanel.kpahs.edu.bd
@@ -980,6 +984,7 @@ cpanel.rsfm.edu.bd
 cpanel.rumdo.edu.bd
 cpanel.rusdwdc.edu.bd
 cpanel.safirunnesags.edu.bd
+cpanel.saic.edu.bd
 cpanel.saicmedical.edu.bd
 cpanel.sapgc.edu.bd
 cpanel.satarihs.edu.bd
@@ -995,6 +1000,7 @@ cpanel.senapalli.edu.bd
 cpanel.sghscdhaka.edu.bd
 cpanel.sharifbagikm.edu.bd
 cpanel.shcpsc.edu.bd
+cpanel.simt.edu.bd
 cpanel.singherkathimlhs.edu.bd
 cpanel.sipsc.edu.bd
 cpanel.smcollege.edu.bd
@@ -1145,6 +1151,7 @@ cpcalendars.induriahs.edu.bd
 cpcalendars.ipjhighschool.edu.bd
 cpcalendars.ipmhs.edu.bd
 cpcalendars.ius.edu.bd
+cpcalendars.jashimuddin.edu.bd
 cpcalendars.jaskm.edu.bd
 cpcalendars.jasmm-ctg.edu.bd
 cpcalendars.jesc.edu.bd
@@ -1162,6 +1169,7 @@ cpcalendars.kazlaschool.edu.bd
 cpcalendars.kcidm103808.edu.bd
 cpcalendars.kdmadrasah.edu.bd
 cpcalendars.kftcs.edu.bd
+cpcalendars.khashhashil.edu.bd
 cpcalendars.kholabarihs.edu.bd
 cpcalendars.khulnamats.edu.bd
 cpcalendars.kpahs.edu.bd
@@ -1235,6 +1243,7 @@ cpcalendars.rsfm.edu.bd
 cpcalendars.rumdo.edu.bd
 cpcalendars.rusdwdc.edu.bd
 cpcalendars.safirunnesags.edu.bd
+cpcalendars.saic.edu.bd
 cpcalendars.saicmedical.edu.bd
 cpcalendars.sapgc.edu.bd
 cpcalendars.satbargahs.edu.bd
@@ -1248,6 +1257,7 @@ cpcalendars.senapalli.edu.bd
 cpcalendars.sghscdhaka.edu.bd
 cpcalendars.sharifbagikm.edu.bd
 cpcalendars.shcpsc.edu.bd
+cpcalendars.simt.edu.bd
 cpcalendars.singherkathimlhs.edu.bd
 cpcalendars.sipsc.edu.bd
 cpcalendars.smcollege.edu.bd
@@ -1398,6 +1408,7 @@ cpcontacts.induriahs.edu.bd
 cpcontacts.ipjhighschool.edu.bd
 cpcontacts.ipmhs.edu.bd
 cpcontacts.ius.edu.bd
+cpcontacts.jashimuddin.edu.bd
 cpcontacts.jaskm.edu.bd
 cpcontacts.jasmm-ctg.edu.bd
 cpcontacts.jesc.edu.bd
@@ -1415,6 +1426,7 @@ cpcontacts.kazlaschool.edu.bd
 cpcontacts.kcidm103808.edu.bd
 cpcontacts.kdmadrasah.edu.bd
 cpcontacts.kftcs.edu.bd
+cpcontacts.khashhashil.edu.bd
 cpcontacts.kholabarihs.edu.bd
 cpcontacts.khulnamats.edu.bd
 cpcontacts.kpahs.edu.bd
@@ -1487,6 +1499,7 @@ cpcontacts.rsfm.edu.bd
 cpcontacts.rumdo.edu.bd
 cpcontacts.rusdwdc.edu.bd
 cpcontacts.safirunnesags.edu.bd
+cpcontacts.saic.edu.bd
 cpcontacts.saicmedical.edu.bd
 cpcontacts.sapgc.edu.bd
 cpcontacts.satbargahs.edu.bd
@@ -1500,6 +1513,7 @@ cpcontacts.senapalli.edu.bd
 cpcontacts.sghscdhaka.edu.bd
 cpcontacts.sharifbagikm.edu.bd
 cpcontacts.shcpsc.edu.bd
+cpcontacts.simt.edu.bd
 cpcontacts.singherkathimlhs.edu.bd
 cpcontacts.sipsc.edu.bd
 cpcontacts.smcollege.edu.bd
@@ -1568,6 +1582,7 @@ dahsc.edu.bd
 daksc.edu.bd
 dakshincpss.edu.bd
 daliaadghs.edu.bd
+daliya.saic.edu.bd
 dalniahighschool.edu.bd
 daluacharahs.edu.bd
 damdamhs.edu.bd
@@ -1635,6 +1650,7 @@ dictinstitute.edu.bd
 differencemaker.ulab.edu.bd
 dighalbakhsc.edu.bd
 digitalit.panditsarhs.edu.bd
+digrajcollege.edu.bd
 diit.edu.bd
 diitctg.edu.bd
 dil.daffodilvarsity.edu.bd
@@ -1721,6 +1737,7 @@ edu.bd.raichahs.edu.bd
 edu.bd.tma.edu.bd
 educare.kcidm103808.edu.bd
 edwardcollege.edu.bd
+eee.just.edu.bd
 eee.ulab.edu.bd
 ekhlaspurhs.edu.bd
 ekhlaspurhs.edu.bd.hmsrhs.edu.bd
@@ -2010,6 +2027,7 @@ icds.psschool.edu.bd
 icmeee.just.edu.bd
 ictbj.jkkniu.edu.bd
 ictcarnival.daffodilvarsity.edu.bd
+ictcellmgt.just.edu.bd
 ictworldnewsbd24.com.sujatpurcollege.edu.bd
 idealcollegedhanmondi.edu.bd
 idilpurup.rahmatpuraghs.edu.bd
@@ -2073,6 +2091,7 @@ jalalpurhighschool.edu.bd
 jalalpurunionhighschool.edu.bd
 jalilnagarjs.edu.bd
 jamungirlshighschool.edu.bd
+jashimuddin.edu.bd
 jaskm.edu.bd
 jasmm-ctg.edu.bd
 jatrabari.uist.edu.bd
@@ -2209,6 +2228,7 @@ khalilurrahmanis.com.haldiagovhs.edu.bd
 khamarbashahighschool.edu.bd
 khariatmdm.edu.bd
 kharkhoriadm.edu.bd
+khashhashil.edu.bd
 khashialislamiadm.edu.bd
 khaskhamaghs.edu.bd
 khaturiahs.edu.bd
@@ -2282,6 +2302,7 @@ kumarulihs.edu.bd
 kumullinamdarhighschool.edu.bd
 kuraliagss.edu.bd
 kushtiazillaschool.edu.bd
+kutubdangahs.edu.bd
 kyamc.edu.bd
 kzafdm.edu.bd
 lab.bgeju.edu.bd
@@ -2533,6 +2554,7 @@ mail.ipjhighschool.edu.bd
 mail.ipmhs.edu.bd
 mail.ius.edu.bd
 mail.jadhs.edu.bd
+mail.jashimuddin.edu.bd
 mail.jaskm.edu.bd
 mail.jasmm-ctg.edu.bd
 mail.jesc.edu.bd
@@ -2557,6 +2579,7 @@ mail.kftcs.edu.bd
 mail.kgsckalindi.edu.bd
 mail.khajurtalamc.edu.bd
 mail.khamarbashahighschool.edu.bd
+mail.khashhashil.edu.bd
 mail.khfdm.edu.bd
 mail.kholabarihs.edu.bd
 mail.khulnamats.edu.bd
@@ -2665,6 +2688,7 @@ mail.rsghs.edu.bd
 mail.rumdo.edu.bd
 mail.rusdwdc.edu.bd
 mail.safirunnesags.edu.bd
+mail.saic.edu.bd
 mail.saicmedical.edu.bd
 mail.saikatgovcollege.edu.bd
 mail.sapgc.edu.bd
@@ -2686,6 +2710,7 @@ mail.sharifbagikm.edu.bd
 mail.shcpsc.edu.bd
 mail.shhs.edu.bd
 mail.shspt.edu.bd
+mail.simt.edu.bd
 mail.singherkathimlhs.edu.bd
 mail.sipsc.edu.bd
 mail.sitakundacollege.edu.bd
@@ -2799,6 +2824,7 @@ mlhs.mlhschool.edu.bd
 mmasaipara.edu.bd
 mmb.edu.bd
 mmcitycollege.edu.bd
+mmdmb.edu.bd
 mmhassociates.com.mgsdi.edu.bd
 mmlhs.edu.bd
 mmmdc.edu.bd
@@ -2813,6 +2839,7 @@ moharajpurhighschool.edu.bd
 moheshpurahs.edu.bd
 mohiminstitution.edu.bd
 mohishbathanhighschool.edu.bd
+mohiuddin.cscc.edu.bd
 mohozidparahighschool.edu.bd
 mojaddediahs.edu.bd
 mojaddediahs.edu.bd.hmsrhs.edu.bd
@@ -2917,6 +2944,7 @@ ngmlhsc.edu.bd
 ngsbhs.edu.bd
 nhaquecollege.edu.bd
 nhs1972.edu.bd
+nhschool.edu.bd
 nhyahs.edu.bd
 niam.edu.bd
 nihs.edu.bd
@@ -3194,6 +3222,7 @@ sagsc.edu.bd
 sahall.butex.edu.bd
 sahaparasc.edu.bd
 sahighschool.edu.bd
+saic.edu.bd
 saicmedical.edu.bd
 saidpurphschool.edu.bd
 saikatgovcollege.edu.bd
@@ -3274,6 +3303,7 @@ shalshirighs.edu.bd
 shankarbatighs.edu.bd
 shaplaacademy.edu.bd
 sharifbagikm.edu.bd
+shashidalabutahercollege.edu.bd
 shatabmi.edu.bd
 shcpsc.edu.bd
 shhs.edu.bd
@@ -3282,6 +3312,7 @@ shibpurhighschool.edu.bd
 shoulparamkhs.edu.bd
 shspt.edu.bd
 shsrk.edu.bd
+simt.edu.bd
 singherkathimlhs.edu.bd
 sipsc.edu.bd
 sis.edu.bd
@@ -3625,6 +3656,7 @@ webdisk.induriahs.edu.bd
 webdisk.ipjhighschool.edu.bd
 webdisk.ipmhs.edu.bd
 webdisk.ius.edu.bd
+webdisk.jashimuddin.edu.bd
 webdisk.jaskm.edu.bd
 webdisk.jasmm-ctg.edu.bd
 webdisk.jesc.edu.bd
@@ -3642,6 +3674,7 @@ webdisk.kazlaschool.edu.bd
 webdisk.kcidm103808.edu.bd
 webdisk.kdmadrasah.edu.bd
 webdisk.kftcs.edu.bd
+webdisk.khashhashil.edu.bd
 webdisk.kholabarihs.edu.bd
 webdisk.khulnamats.edu.bd
 webdisk.kpahs.edu.bd
@@ -3714,6 +3747,7 @@ webdisk.rsfm.edu.bd
 webdisk.rumdo.edu.bd
 webdisk.rusdwdc.edu.bd
 webdisk.safirunnesags.edu.bd
+webdisk.saic.edu.bd
 webdisk.saicmedical.edu.bd
 webdisk.sapgc.edu.bd
 webdisk.satbargahs.edu.bd
@@ -3727,6 +3761,7 @@ webdisk.senapalli.edu.bd
 webdisk.sghscdhaka.edu.bd
 webdisk.sharifbagikm.edu.bd
 webdisk.shcpsc.edu.bd
+webdisk.simt.edu.bd
 webdisk.singherkathimlhs.edu.bd
 webdisk.sipsc.edu.bd
 webdisk.smcollege.edu.bd
@@ -3894,6 +3929,7 @@ webmail.induriahs.edu.bd
 webmail.ipjhighschool.edu.bd
 webmail.ipmhs.edu.bd
 webmail.ius.edu.bd
+webmail.jashimuddin.edu.bd
 webmail.jaskm.edu.bd
 webmail.jasmm-ctg.edu.bd
 webmail.jesc.edu.bd
@@ -3913,6 +3949,7 @@ webmail.kdm120918.edu.bd
 webmail.kdmadrasah.edu.bd
 webmail.kftcs.edu.bd
 webmail.kgsckalindi.edu.bd
+webmail.khashhashil.edu.bd
 webmail.kholabarihs.edu.bd
 webmail.khulnamats.edu.bd
 webmail.kpahs.edu.bd
@@ -3991,6 +4028,7 @@ webmail.rsfm.edu.bd
 webmail.rumdo.edu.bd
 webmail.rusdwdc.edu.bd
 webmail.safirunnesags.edu.bd
+webmail.saic.edu.bd
 webmail.saicmedical.edu.bd
 webmail.sapgc.edu.bd
 webmail.satarihs.edu.bd
@@ -4004,6 +4042,7 @@ webmail.senapalli.edu.bd
 webmail.sghscdhaka.edu.bd
 webmail.sharifbagikm.edu.bd
 webmail.shcpsc.edu.bd
+webmail.simt.edu.bd
 webmail.singherkathimlhs.edu.bd
 webmail.sipsc.edu.bd
 webmail.smcollege.edu.bd
@@ -4040,9 +4079,13 @@ webportal.ugv.edu.bd
 westcharamddiss.edu.bd
 whm.amtc.edu.bd
 whm.anowara.edu.bd
+whm.jashimuddin.edu.bd
+whm.khashhashil.edu.bd
 whm.rumdo.edu.bd
+whm.saic.edu.bd
 whm.saicmedical.edu.bd
 whm.savarmadrasah.edu.bd
+whm.simt.edu.bd
 whmcpanel.stamforduniversity.edu.bd
 wifi.uttarauniversity.edu.bd
 wikidocs.diu.edu.bd
@@ -4083,6 +4126,7 @@ www.admin.rsfm.edu.bd
 www.admin.victoriaschool.edu.bd
 www.admission.ahskbera.edu.bd
 www.admission.infra.edu.bd
+www.admission.just.edu.bd
 www.admission.kist.edu.bd
 www.admission.nstu.edu.bd
 www.admission.vu.edu.bd
@@ -4295,6 +4339,7 @@ www.campus-api.mcsk.edu.bd
 www.canteen.bcc.edu.bd
 www.career.just.edu.bd
 www.career.mpsc.edu.bd
+www.career.sust.edu.bd
 www.career.vu.edu.bd
 www.carkm.edu.bd
 www.casc.edu.bd
@@ -4413,6 +4458,7 @@ www.ea.butex.edu.bd
 www.ebookbou.edu.bd
 www.educare.kcidm103808.edu.bd
 www.eee.bsmrstu.edu.bd
+www.eee.just.edu.bd
 www.ekhlaspurhs.edu.bd
 www.ekhlaspurhs.edu.bd.hmsrhs.edu.bd
 www.elearning.dpsdu.edu.bd
@@ -4544,6 +4590,7 @@ www.icds.psschool.edu.bd
 www.icmeee.just.edu.bd
 www.ict.bsmrstu.edu.bd
 www.ictbj.jkkniu.edu.bd
+www.ictcellmgt.just.edu.bd
 www.ictworldnewsbd24.com.sujatpurcollege.edu.bd
 www.idealcollegedhanmondi.edu.bd
 www.idm.edu.bd
@@ -4576,6 +4623,7 @@ www.jaintiacollege.edu.bd
 www.jalalpurhighschool.edu.bd
 www.jalalpurunionhighschool.edu.bd
 www.jashaldiahs.com.haldiagovhs.edu.bd
+www.jashimuddin.edu.bd
 www.jaskm.edu.bd
 www.jasmm-ctg.edu.bd
 www.jatrabari.uist.edu.bd
@@ -4635,6 +4683,7 @@ www.khajuruphighschool.edu.bd.shibganjhighschool.edu.bd
 www.khalarparmadrasah.edu.bd
 www.khalilurrahmanis.com.haldiagovhs.edu.bd
 www.khamarbashahighschool.edu.bd
+www.khashhashil.edu.bd
 www.khaskhamaghs.edu.bd.panditsarhs.edu.bd
 www.khfdm.edu.bd
 www.kholabarihs.edu.bd
@@ -4692,6 +4741,7 @@ www.livenews24bd.khkhsm.edu.bd
 www.login.borishurschoolandcollege.edu.bd
 www.luminousschool.edu.bd
 www.m.galdaparanalihs.edu.bd
+www.m.kutubdangahs.edu.bd
 www.m.malekabghs.edu.bd
 www.machmailghs.edu.bd
 www.machparacollege.edu.bd
@@ -4902,6 +4952,7 @@ www.sabdaralikhanhs.edu.bd
 www.safirunnesags.edu.bd
 www.safirunnesags.edu.bd.kanthalbariaaghs.edu.bd
 www.sahall.butex.edu.bd
+www.saic.edu.bd
 www.saicmedical.edu.bd
 www.saikatgovcollege.edu.bd
 www.salammokbulhighschool.edu.bd
@@ -4943,6 +4994,7 @@ www.shatabmi.edu.bd
 www.shcpsc.edu.bd
 www.shhs.edu.bd
 www.shspt.edu.bd
+www.simt.edu.bd
 www.singherkathimlhs.edu.bd
 www.sipsc.edu.bd
 www.sitakundacollege.edu.bd
