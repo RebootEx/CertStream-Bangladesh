@@ -22,6 +22,7 @@ api-medicine.hossainpurpourashava.gov.bd
 api-utility.dlrms-stg.land.gov.bd
 api-vaxepi.dghs.gov.bd
 api.bhata.gov.bd
+api.otms.nass.gov.bd
 api.scc.gov.bd
 api.upension.gov.bd
 api.vaxepi.gov.bd
@@ -97,7 +98,9 @@ cd-devops.lams-stg.land.gov.bd
 cedp.gov.bd
 center.bise-ctg.gov.bd
 centralup.munshiganjlg.gov.bd
+certificate.bise-ctg.gov.bd
 chakariamunicipality.gov.bd
+chalibhangaup.gov.bd
 chandpur.gov.bd
 chapainawabganj.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
@@ -172,6 +175,7 @@ cumilla.srdl.gov.bd
 cyberdrill.cirt.gov.bd
 dam.gov.bd
 dashboard.gov.bd
+dashboard.otms.nass.gov.bd
 dcadhaka.gov.bd
 decreercharup.faridpurlg.gov.bd
 demo.kanaighatmunicipality.gov.bd
@@ -332,6 +336,7 @@ mail.bcsir.gov.bd
 mail.case-moef.gov.bd
 mail.cedp.gov.bd
 mail.comillalg.gov.bd
+mail.cpatos.gov.bd
 mail.eduboardresults.gov.bd
 mail.egp.dghs.gov.bd
 mail.emergencynutrition.gov.bd
@@ -430,6 +435,7 @@ onlineschoolform.comillaboard.gov.bd
 openid.dghs.gov.bd
 origin-01.epassport.gov.bd
 origin-www.epassport.gov.bd
+otms.nass.gov.bd
 pabna.gov.bd
 pabtec.gov.bd
 panchagarhmunicipality.gov.bd
@@ -443,6 +449,7 @@ pop.emergencynutrition.gov.bd
 portal.munshiganjtsc.gov.bd
 portal.tihdtcb.gov.bd
 postalacademy.gov.bd
+ppi.gov.bd
 proxy.shrlive.dghs.gov.bd
 pwdta.gov.bd
 qcb.gov.bd
@@ -499,6 +506,8 @@ sirajganj.gov.bd
 sjis.dgjute.gov.bd
 smart.dncc.gov.bd
 smartakubpurup.gov.bd
+smartdistrict.gov.bd
+smartpurbadhaireastup.gov.bd
 smartschoolbus.gov.bd
 smartup.comillalg.gov.bd
 smartup.faridpurlg.gov.bd
@@ -585,6 +594,7 @@ webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.eduboardresults.gov.bd
 webmail.faridpurlg.gov.bd
+webmail.harmonyprojectmora.gov.bd
 webmail.ihtdhaka.gov.bd
 webmail.iresppw-brdb.gov.bd
 webmail.munshiganjlg.gov.bd
@@ -629,6 +639,7 @@ www.cedp.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.centralup.narsingdilg.gov.bd
 www.chakariamunicipality.gov.bd
+www.chalibhangaup.gov.bd
 www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
 www.charharirampurup.faridpurlg.gov.bd
@@ -762,6 +773,7 @@ www.renewableenergy.gov.bd.sreda.gov.bd
 www.residence.dc-khagrachhari.gov.bd
 www.result.fgc.gov.bd
 www.rgdc.gov.bd
+www.routine.rpi.gov.bd
 www.sadarpurup.faridpurlg.gov.bd
 www.sarswp.gnc.gov.bd
 www.satkhiramc.gov.bd
@@ -773,6 +785,7 @@ www.shariatpurmunicipality.gov.bd
 www.shd.sreda.gov.bd
 www.shiloyup.munshiganjlg.gov.bd
 www.smartakubpurup.gov.bd
+www.smartpurbadhaireastup.gov.bd
 www.smartup.faridpurlg.gov.bd
 www.smartup.narsingdilg.gov.bd
 www.solar.sreda.gov.bd
@@ -784,6 +797,7 @@ www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
+www.takanai0.rpi.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.taloramunicipality.gov.bd
 www.taxsurvey.gov.bd
