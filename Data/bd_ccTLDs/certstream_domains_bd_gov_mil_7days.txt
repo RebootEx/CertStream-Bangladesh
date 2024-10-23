@@ -29,6 +29,7 @@ apps.idea.gov.bd
 ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 arm.kalirbazarup.gov.bd
+arparaup.faridpurlg.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.debendracollege.gov.bd
@@ -105,6 +106,7 @@ certificate.bise-ctg.gov.bd
 chakariamunicipality.gov.bd
 chalibhangaup.gov.bd
 chandpur.gov.bd
+chandpurup.faridpurlg.gov.bd
 chapainawabganj.gov.bd
 charbhadrasanup.faridpurlg.gov.bd
 charbisnopurup.faridpurlg.gov.bd
@@ -329,6 +331,7 @@ lakshmipur.gov.bd
 lalmohanpaurashava.gov.bd
 lams-stg.land.gov.bd
 land.gov.bd
+laskardiaup.faridpurlg.gov.bd
 lb.dotsim.gov.bd
 lgcrrpmis.lged.gov.bd
 lgservice.gov.bd
@@ -368,7 +371,9 @@ mail.taloramunicipality.gov.bd
 mail.ttcraj.gov.bd
 mail.tzr.gov.bd
 mail.vatdhakawest.gov.bd
+mail.zpkhulna.gov.bd
 mail.zprajshahi.gov.bd
+majcharup.faridpurlg.gov.bd
 majidpurup.gov.bd
 manikdhaup.faridpurlg.gov.bd
 manikganj.gov.bd
@@ -468,6 +473,7 @@ rajshahi.gov.bd
 rajshahidiv.gov.bd
 ral.brri.gov.bd
 ramgonjcollege.gdc.gov.bd
+ramnagarup.faridpurlg.gov.bd
 rangamati.gov.bd
 ranisankailpourashava.gov.bd
 reeep.sreda.gov.bd
@@ -511,6 +517,7 @@ sirajganj.gov.bd
 sjis.dgjute.gov.bd
 smart.dncc.gov.bd
 smartakubpurup.gov.bd
+smartbdsummit.gov.bd
 smartdistrict.gov.bd
 smartpurbadhaireastup.gov.bd
 smartschoolbus.gov.bd
@@ -539,6 +546,7 @@ sunamganjpourashava.gov.bd
 sv.dotsim.gov.bd
 sylhettsc.gov.bd
 synotecagrovet.com.melandahbhata.gov.bd
+tagarbandaup.faridpurlg.gov.bd
 talmaup.faridpurlg.gov.bd
 taloramunicipality.gov.bd
 tangail.gov.bd
@@ -627,6 +635,7 @@ www.apis.rpi.gov.bd
 www.application.rpi.gov.bd
 www.ar.gameapp.gov.bd
 www.ara-bd.org.zpkhulna.gov.bd
+www.arparaup.faridpurlg.gov.bd
 www.artistdb.bsa.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.bangladeshfestival.gov.bd
@@ -652,6 +661,7 @@ www.centralup.faridpurlg.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.chakariamunicipality.gov.bd
 www.chalibhangaup.gov.bd
+www.chandpurup.faridpurlg.gov.bd
 www.charbhadrasanup.faridpurlg.gov.bd
 www.charbisnopurup.faridpurlg.gov.bd
 www.charharirampurup.faridpurlg.gov.bd
@@ -732,11 +742,13 @@ www.kodaliashohidnagarup.faridpurlg.gov.bd
 www.korakdi.faridpurlg.gov.bd
 www.krishnapurup.faridpurlg.gov.bd
 www.lalmohanpaurashava.gov.bd
+www.laskardiaup.faridpurlg.gov.bd
 www.lgc.edu.bd.gbrcr.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
 www.maheshpurpourashava.gov.bd
 www.mail.register.gameapp.gov.bd
 www.mail.sreda.gov.bd
+www.majcharup.faridpurlg.gov.bd
 www.majidpurup.gov.bd
 www.manikdhaup.faridpurlg.gov.bd
 www.manirampurmunicipality.gov.bd
@@ -778,6 +790,7 @@ www.raipurup.faridpurlg.gov.bd
 www.rajabariup.gov.bd
 www.rajbaripourashava.gov.bd
 www.ramgonjcollege.gdc.gov.bd
+www.ramnagarup.faridpurlg.gov.bd
 www.recruitment.sreda.gov.bd
 www.reeep.sreda.gov.bd
 www.reeep2.sreda.gov.bd
@@ -799,6 +812,7 @@ www.shiloyup.munshiganjlg.gov.bd
 www.shilpokola.bsa.gov.bd
 www.shopify.nins.gov.bd
 www.smartakubpurup.gov.bd
+www.smartbdsummit.gov.bd
 www.smartpurbadhaireastup.gov.bd
 www.smartup.faridpurlg.gov.bd
 www.smartup.narsingdilg.gov.bd
@@ -812,6 +826,7 @@ www.stipend.rpi.gov.bd
 www.student.cmc.gov.bd
 www.sujanagarmunicipality.gov.bd
 www.synotecagrovet.com.melandahbhata.gov.bd
+www.tagarbandaup.faridpurlg.gov.bd
 www.takanai0.rpi.gov.bd
 www.talmaup.faridpurlg.gov.bd
 www.taloramunicipality.gov.bd
