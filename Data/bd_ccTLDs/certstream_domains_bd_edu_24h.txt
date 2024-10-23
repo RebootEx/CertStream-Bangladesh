@@ -47,6 +47,7 @@ autodiscover.goraihighschool.edu.bd
 autodiscover.hmsrhs.edu.bd
 autodiscover.hsschool.edu.bd
 autodiscover.ipmhs.edu.bd
+autodiscover.jgc.edu.bd
 autodiscover.jhinaiyahs.edu.bd
 autodiscover.kachiaraghs.edu.bd
 autodiscover.kaliakairkhanhighschool.edu.bd
@@ -152,6 +153,7 @@ cit.ulab.edu.bd
 cjhsptk.edu.bd
 cjnjhs.edu.bd
 ckkm.edu.bd
+cksm.edu.bd
 cloud.creativitysimplificpanel.bhsh.edu.bd
 cls.ulab.edu.bd
 club.mpi.edu.bd
@@ -185,6 +187,7 @@ cpanel.goraihighschool.edu.bd
 cpanel.hmsrhs.edu.bd
 cpanel.hsschool.edu.bd
 cpanel.ipmhs.edu.bd
+cpanel.jgc.edu.bd
 cpanel.jhinaiyahs.edu.bd
 cpanel.jhkm.edu.bd
 cpanel.kachiaraghs.edu.bd
@@ -240,6 +243,7 @@ cpcalendars.goraihighschool.edu.bd
 cpcalendars.hmsrhs.edu.bd
 cpcalendars.hsschool.edu.bd
 cpcalendars.ipmhs.edu.bd
+cpcalendars.jgc.edu.bd
 cpcalendars.jhinaiyahs.edu.bd
 cpcalendars.jhkm.edu.bd
 cpcalendars.kachiaraghs.edu.bd
@@ -294,6 +298,7 @@ cpcontacts.goraihighschool.edu.bd
 cpcontacts.hmsrhs.edu.bd
 cpcontacts.hsschool.edu.bd
 cpcontacts.ipmhs.edu.bd
+cpcontacts.jgc.edu.bd
 cpcontacts.jhinaiyahs.edu.bd
 cpcontacts.jhkm.edu.bd
 cpcontacts.kachiaraghs.edu.bd
@@ -426,6 +431,7 @@ itmar.info.safaghs.edu.bd
 ito.ulab.edu.bd
 jainkatiss.edu.bd
 jalalpurhighschool.edu.bd
+jgc.edu.bd
 jhinaiyahs.edu.bd
 jhinaiyahs.edu.bd.hmsrhs.edu.bd
 jhkm.edu.bd
@@ -510,6 +516,7 @@ mail.hasc.edu.bd
 mail.hmsrhs.edu.bd
 mail.hsschool.edu.bd
 mail.ipmhs.edu.bd
+mail.jgc.edu.bd
 mail.jhinaiyahs.edu.bd
 mail.jhkm.edu.bd
 mail.jkkac.edu.bd
@@ -745,6 +752,7 @@ webdisk.goraihighschool.edu.bd
 webdisk.hmsrhs.edu.bd
 webdisk.hsschool.edu.bd
 webdisk.ipmhs.edu.bd
+webdisk.jgc.edu.bd
 webdisk.jhinaiyahs.edu.bd
 webdisk.jhkm.edu.bd
 webdisk.kachiaraghs.edu.bd
@@ -802,6 +810,7 @@ webmail.goraihighschool.edu.bd
 webmail.hmsrhs.edu.bd
 webmail.hsschool.edu.bd
 webmail.ipmhs.edu.bd
+webmail.jgc.edu.bd
 webmail.jhinaiyahs.edu.bd
 webmail.jhkm.edu.bd
 webmail.kachiaraghs.edu.bd
@@ -931,6 +940,7 @@ www.ipmhs.edu.bd
 www.ipmhs.edu.bd.hmsrhs.edu.bd
 www.itmar.info.safaghs.edu.bd
 www.jalalpurhighschool.edu.bd
+www.jgc.edu.bd
 www.jhinaiyahs.edu.bd
 www.jhinaiyahs.edu.bd.hmsrhs.edu.bd
 www.jhkm.edu.bd
