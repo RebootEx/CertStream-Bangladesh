@@ -102,6 +102,7 @@ cbs.gov.bd
 ccapkhulna.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
 cd-devops.lams-stg.land.gov.bd
+cedp.gov.bd
 centralup.faridpurlg.gov.bd
 centralup.munshiganjlg.gov.bd
 certificate.bise-ctg.gov.bd
@@ -143,6 +144,7 @@ cpadmin.scc.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bepza.gov.bd
+cpanel.cedp.gov.bd
 cpanel.comillalg.gov.bd
 cpanel.debendracollege.gov.bd
 cpanel.eduboardresults.gov.bd
@@ -158,6 +160,7 @@ cpanel.ttcraj.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
+cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.debendracollege.gov.bd
 cpcalendars.eduboardresults.gov.bd
@@ -172,6 +175,7 @@ cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
+cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.debendracollege.gov.bd
 cpcontacts.eduboardresults.gov.bd
@@ -212,6 +216,7 @@ digitalhaat.gov.bd
 din-crms.dinajpurboard.gov.bd
 dlrms-stg.land.gov.bd
 dmbogura.gov.bd
+dmch.gov.bd
 dmp.gov.bd
 docker-image-registry.dlrms-stg.land.gov.bd
 docker-image-registry.lams-stg.land.gov.bd
@@ -355,6 +360,7 @@ mail.bargunamunicipality.gov.bd
 mail.bcsir.gov.bd
 mail.bmdf.gov.bd
 mail.cbraj.gov.bd
+mail.cedp.gov.bd
 mail.comillalg.gov.bd
 mail.cpatos.gov.bd
 mail.debendracollege.gov.bd
@@ -610,6 +616,7 @@ web.pgcb.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bepza.gov.bd
+webdisk.cedp.gov.bd
 webdisk.comillalg.gov.bd
 webdisk.debendracollege.gov.bd
 webdisk.eduboardresults.gov.bd
@@ -624,6 +631,7 @@ webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.bakshiganjpourashava.gov.bd
 webmail.bangladeshfestival.gov.bd
+webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.debendracollege.gov.bd
 webmail.eduboardresults.gov.bd
@@ -676,6 +684,7 @@ www.booking.bsa.gov.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
 www.bsfmstu.gameapp.gov.bd
 www.cbraj.gov.bd
+www.cedp.gov.bd
 www.centralup.faridpurlg.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.centralup.narsingdilg.gov.bd
