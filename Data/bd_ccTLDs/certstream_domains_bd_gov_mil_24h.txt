@@ -1,10 +1,12 @@
 accounts.comillaboard.gov.bd
 adminpanel.comillaboard.gov.bd
 admitcard.comillaboard.gov.bd
+api-communication.lams-stg.land.gov.bd
 arparaup.faridpurlg.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.ttcraj.gov.bd
 bakshiganjpourashava.gov.bd
+basb.gov.bd
 bcsi.gov.bd
 betagimunicipality.gov.bd
 bise-ctg.gov.bd
@@ -33,10 +35,13 @@ cpcontacts.ictbdiasms.gov.bd
 cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.ttcraj.gov.bd
 dakbazar.bpodms.gov.bd
+dhakadiv.gov.bd
 dhaukhaliup.faridpurlg.gov.bd
 dic.dghs.gov.bd
+dpe.gov.bd
 dpp.gov.bd
 ebalance.ansarvdpbank.gov.bd
+ebook.land.gov.bd
 effjsc.bise-ctg.gov.bd
 effssc.bise-ctg.gov.bd
 ekpay.gov.bd
@@ -52,6 +57,7 @@ govindapurup1.gov.bd
 ictbdiasms.gov.bd
 iedcr.gov.bd
 institution.comillaboard.gov.bd
+inventory.dbwctp64.gov.bd
 jmc.gov.bd
 jmc.jessoreboard.gov.bd
 jresult.bise-ctg.gov.bd
@@ -73,6 +79,7 @@ majcharup.faridpurlg.gov.bd
 memis.gov.bd
 middleware.dghs.gov.bd
 mokamup.gov.bd
+nameletter.comillaboard.gov.bd
 nnsop.gov.bd
 nshd.sreda.gov.bd
 number.btcl.gov.bd
@@ -132,6 +139,7 @@ www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
 www.govindapurup1.gov.bd
 www.ictbdiasms.gov.bd
+www.inventory.dbwctp64.gov.bd
 www.jmc.jessoreboard.gov.bd
 www.kaijuriup.faridpurlg.gov.bd
 www.kamarkhaliup.faridpurlg.gov.bd
@@ -141,6 +149,7 @@ www.majcharup.faridpurlg.gov.bd
 www.mokamup.gov.bd
 www.nemcalc.sreda.gov.bd
 www.nshd.sreda.gov.bd
+www.old.basb.gov.bd
 www.oms.tzr.gov.bd
 www.online.bpi.com.ph.dhamraimunicipality.gov.bd
 www.pdo.khulnattc.gov.bd
