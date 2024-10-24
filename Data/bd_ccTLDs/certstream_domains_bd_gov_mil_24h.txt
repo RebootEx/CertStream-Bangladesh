@@ -21,12 +21,15 @@ collegeiif.bise-ctg.gov.bd
 comillaboard.gov.bd
 corona.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
+cpanel.ictbdiasms.gov.bd
 cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.ttcraj.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
+cpcalendars.ictbdiasms.gov.bd
 cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
+cpcontacts.ictbdiasms.gov.bd
 cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.ttcraj.gov.bd
 dakbazar.bpodms.gov.bd
@@ -46,6 +49,8 @@ fgc.gov.bd
 gca.bise-ctg.gov.bd
 ghoraghatmunicipality.gov.bd
 govindapurup1.gov.bd
+ictbdiasms.gov.bd
+iedcr.gov.bd
 institution.comillaboard.gov.bd
 jmc.gov.bd
 jmc.jessoreboard.gov.bd
@@ -60,6 +65,7 @@ laskardiaup.faridpurlg.gov.bd
 linktogoods.xyz.kalihatipourashava.gov.bd
 ltu.khulnavat.gov.bd
 mail.bakshiganjpourashava.gov.bd
+mail.ictbdiasms.gov.bd
 mail.ramgonjcollege.gdc.gov.bd
 mail.ttcraj.gov.bd
 mail.tzr.gov.bd
@@ -80,6 +86,7 @@ openid.dghs.gov.bd
 pdo.khulnattc.gov.bd
 pension.comillaboard.gov.bd
 portal.netrokonatsc.gov.bd
+proinfo.lged.gov.bd
 raipurup.faridpurlg.gov.bd
 rajabariup.gov.bd
 ramgonjcollege.gdc.gov.bd
@@ -105,9 +112,11 @@ tzr.gov.bd
 uniontax.gov.bd
 web.comillaboard.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
+webdisk.ictbdiasms.gov.bd
 webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.bakshiganjpourashava.gov.bd
+webmail.ictbdiasms.gov.bd
 webmail.ramgonjcollege.gdc.gov.bd
 webmail.ttcraj.gov.bd
 wtmu.gov.bd
@@ -122,6 +131,7 @@ www.ebalance.ansarvdpbank.gov.bd
 www.eecpfp.sreda.gov.bd
 www.elibrary.sreda.gov.bd
 www.govindapurup1.gov.bd
+www.ictbdiasms.gov.bd
 www.jmc.jessoreboard.gov.bd
 www.kaijuriup.faridpurlg.gov.bd
 www.kamarkhaliup.faridpurlg.gov.bd

@@ -14,6 +14,7 @@ argis.bbgc.edu.bd
 argo-ci.hasc.edu.bd
 argo.qa.bhsh.edu.bd
 arvrlab.daffodilvarsity.edu.bd
+ashs.edu.bd
 asshs.edu.bd
 auisc.edu.bd
 autoconfig.spdm1985.edu.bd
@@ -29,6 +30,7 @@ autodiscover.dmhighschool.edu.bd
 autodiscover.gobfm.edu.bd
 autodiscover.jgc.edu.bd
 autodiscover.keidm.edu.bd
+autodiscover.khawarcharhighschool.edu.bd
 autodiscover.khsbd.edu.bd
 autodiscover.knhsm.edu.bd
 autodiscover.mlphsc.edu.bd
@@ -40,6 +42,7 @@ autodiscover.vib.edu.bd
 baakhs.edu.bd
 baakhs.edu.bd.hmsrhs.edu.bd
 bachilahs.edu.bd
+badiamhhs.edu.bd
 baligaonhighschool.edu.bd
 balusairhighschool.edu.bd
 barbuda.miam79.edu.bd
@@ -101,6 +104,7 @@ cpanel.dmhighschool.edu.bd
 cpanel.gobfm.edu.bd
 cpanel.jgc.edu.bd
 cpanel.keidm.edu.bd
+cpanel.khawarcharhighschool.edu.bd
 cpanel.khsbd.edu.bd
 cpanel.knhsm.edu.bd
 cpanel.mlphsc.edu.bd
@@ -123,6 +127,7 @@ cpcalendars.dmhighschool.edu.bd
 cpcalendars.gobfm.edu.bd
 cpcalendars.jgc.edu.bd
 cpcalendars.keidm.edu.bd
+cpcalendars.khawarcharhighschool.edu.bd
 cpcalendars.khsbd.edu.bd
 cpcalendars.knhsm.edu.bd
 cpcalendars.mlphsc.edu.bd
@@ -145,6 +150,7 @@ cpcontacts.dmhighschool.edu.bd
 cpcontacts.gobfm.edu.bd
 cpcontacts.jgc.edu.bd
 cpcontacts.keidm.edu.bd
+cpcontacts.khawarcharhighschool.edu.bd
 cpcontacts.khsbd.edu.bd
 cpcontacts.knhsm.edu.bd
 cpcontacts.mlphsc.edu.bd
@@ -264,9 +270,11 @@ keidm.edu.bd
 kgdcollege.edu.bd
 kgpurhs.edu.bd
 khajurtalamc.edu.bd
+khawarcharhighschool.edu.bd
 khc.edu.bd
 kheruazanihs.edu.bd
 khfdm.edu.bd
+kholahaticollege.edu.bd
 kholpatuamam.edu.bd
 khsbd.edu.bd
 khss.edu.bd
@@ -310,6 +318,7 @@ mail.jgc.edu.bd
 mail.jkkac.edu.bd
 mail.keidm.edu.bd
 mail.khajurtalamc.edu.bd
+mail.khawarcharhighschool.edu.bd
 mail.khsbd.edu.bd
 mail.knhsm.edu.bd
 mail.mlphsc.edu.bd
@@ -413,6 +422,7 @@ srcpsc-zajira.edu.bd
 stamforduniversity.edu.bd
 store.shaheen.edu.bd
 su.edu.bd
+suchs.edu.bd
 suhssyl.edu.bd
 sunfloweridealhighschool.edu.bd
 sunrisingkg.edu.bd
@@ -449,6 +459,7 @@ webdisk.dmhighschool.edu.bd
 webdisk.gobfm.edu.bd
 webdisk.jgc.edu.bd
 webdisk.keidm.edu.bd
+webdisk.khawarcharhighschool.edu.bd
 webdisk.khsbd.edu.bd
 webdisk.knhsm.edu.bd
 webdisk.mlphsc.edu.bd
@@ -474,6 +485,7 @@ webmail.dmhighschool.edu.bd
 webmail.gobfm.edu.bd
 webmail.jgc.edu.bd
 webmail.keidm.edu.bd
+webmail.khawarcharhighschool.edu.bd
 webmail.khsbd.edu.bd
 webmail.knhsm.edu.bd
 webmail.mlphsc.edu.bd
@@ -501,6 +513,7 @@ www.baakhs.edu.bd.hmsrhs.edu.bd
 www.backend.hawlahighschool.edu.bd
 www.backend.jhs.edu.bd
 www.backend.victoriaschool.edu.bd
+www.badiamhhs.edu.bd
 www.barbuda.miam79.edu.bd
 www.bba.tejgaoncollege.edu.bd
 www.bbsss.edu.bd.pmndm.edu.bd
@@ -584,9 +597,11 @@ www.kamarhatiblhs.edu.bd
 www.kamlapurhighschool.edu.bd
 www.keidm.edu.bd
 www.khajurtalamc.edu.bd
+www.khawarcharhighschool.edu.bd
 www.kholpatuamam.edu.bd.kni.edu.bd
 www.khsbd.edu.bd
 www.knhsm.edu.bd
+www.koyrakshs.edu.bd
 www.kualiresearch.bbgc.edu.bd
 www.kutubdangamufm.edu.bd
 www.law.green.edu.bd
