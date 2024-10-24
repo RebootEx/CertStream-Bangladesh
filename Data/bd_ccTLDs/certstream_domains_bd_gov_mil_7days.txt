@@ -1,6 +1,4 @@
 1ebe3906165e6bbcd44bb69914abc6f1.land.gov.bd
-abc.dsw.gov.bd
-accounts.comillaboard.gov.bd
 adgfinance.gov.bd
 admin.farmbroadcast.gov.bd
 admin.hossainpurpourashava.gov.bd
@@ -10,7 +8,6 @@ akkelpurmunicipality.gov.bd
 alfadangaup.faridpurlg.gov.bd
 amarai.gameapp.gov.bd
 ambikapurup.faridpurlg.gov.bd
-amcchuadanga.gov.bd
 api-admin-vaxepi.dghs.gov.bd
 api-admin.lams-stg.land.gov.bd
 api-communication.dlrms-stg.land.gov.bd
@@ -30,6 +27,7 @@ apps.bfa.gov.bd
 apps.idea.gov.bd
 ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
+arjsc.roc.gov.bd
 arm.kalirbazarup.gov.bd
 arparaup.faridpurlg.gov.bd
 autodiscover.bakshiganjpourashava.gov.bd
@@ -50,7 +48,6 @@ bangladeshfestival.gov.bd
 barakandaup.gov.bd
 barguna.gov.bd
 bargunamunicipality.gov.bd
-barisal.gov.bd
 barisalboard.gov.bd
 barisalcity.gov.bd
 barisaldiv.gov.bd
@@ -65,11 +62,9 @@ bepza.gov.bd
 betagimunicipality.gov.bd
 betarcommercialservice.gov.bd
 bhangapourashava.gov.bd
-bhata.gov.bd
 bhawanigonjpaurashava.gov.bd
 bhola.gov.bd
 bikiron2021.sreda.gov.bd
-billing.alaap.gov.bd
 billingtest.alaap.gov.bd
 birthdeath.dghs.gov.bd
 biteshwarup.gov.bd
@@ -78,6 +73,7 @@ bnscp.navy.mil.bd
 boalmaripaurashava.gov.bd
 boalmariup.faridpurlg.gov.bd
 bogra.gov.bd
+boguramunicipality.gov.bd
 bogurapoly.gov.bd
 brahmanbaria.gov.bd
 brdb.xyz.iresppw-brdb.gov.bd
@@ -103,10 +99,10 @@ cbs.gov.bd
 ccapkhulna.gov.bd
 cd-devops.dlrms-stg.land.gov.bd
 cd-devops.lams-stg.land.gov.bd
-cedp.gov.bd
 centralup.faridpurlg.gov.bd
 centralup.munshiganjlg.gov.bd
 certificate.bise-ctg.gov.bd
+certificatefuldin.gov.bd
 chakariamunicipality.gov.bd
 chalibhangaup.gov.bd
 chandpur.gov.bd
@@ -142,7 +138,6 @@ cpadmin.scc.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bepza.gov.bd
-cpanel.cedp.gov.bd
 cpanel.comillalg.gov.bd
 cpanel.debendracollege.gov.bd
 cpanel.eduboardresults.gov.bd
@@ -158,7 +153,6 @@ cpanel.ttcraj.gov.bd
 cpbackend.scc.gov.bd
 cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
-cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
 cpcalendars.debendracollege.gov.bd
 cpcalendars.eduboardresults.gov.bd
@@ -173,7 +167,6 @@ cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.ttcraj.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
-cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
 cpcontacts.debendracollege.gov.bd
 cpcontacts.eduboardresults.gov.bd
@@ -231,7 +224,6 @@ ecertificate.sreda.gov.bd
 ecourt.gov.bd
 edu.bd.gbrcr.gov.bd
 eduboardresults.gov.bd
-effhsc.bise-ctg.gov.bd
 effhsc21.comillaboard.gov.bd
 ekhotiancoxsbazarsadar.gov.bd
 ekpass.gov.bd
@@ -246,12 +238,9 @@ epicampaign.dghs.gov.bd
 erl.gov.bd
 erp.gso.gov.bd
 es.dlrms.land.gov.bd
-eservices.boiler.gov.bd
-esifhsc.bise-ctg.gov.bd
 esifsix.bise-ctg.gov.bd
 esmmssadar.gov.bd
 etds.gov.bd
-etender.sylhetboard.gov.bd
 event.dlrms.land.gov.bd
 event.lams.land.gov.bd
 facilityregistry.dghs.gov.bd
@@ -289,17 +278,13 @@ himb.bwdb.gov.bd
 hmis.uphcsdp.gov.bd
 hossainpurpourashava.gov.bd
 hpmdashboard.dghs.gov.bd
-hris-training.mohfw.gov.bd
 hris.mohfw.gov.bd
 hrm.dghs.gov.bd
-hrmddco.gov.bd
-hscadmit.bise-ctg.gov.bd
 ihtdhaka.gov.bd
 inheritance.gov.bd
 inout.gso.gov.bd
 institute.bise-ctg.gov.bd
 internal.startupsummit.gov.bd
-inventory.dbwctp64.gov.bd
 iresppw-brdb.gov.bd
 isec.gov.bd
 ishangopalpurup.faridpurlg.gov.bd
@@ -326,9 +311,7 @@ kalihatipourashava.gov.bd
 kalipouragazi.gov.bd
 kamarkhaliup.faridpurlg.gov.bd
 kanaipurup.faridpurlg.gov.bd
-katiadipourashava.gov.bd
 kcchatt.gov.bd
-kcctl.gov.bd
 keshabpurpouroshava.gov.bd
 khagrachhari.gov.bd
 khulnadiv.gov.bd
@@ -337,8 +320,9 @@ kmttc.gov.bd
 kodaliashohidnagarup.faridpurlg.gov.bd
 kodalkatihs.gov.bd
 korakdi.faridpurlg.gov.bd
+krishibatighor.gov.bd
 krishnapurup.faridpurlg.gov.bd
-kuliarcharpourashava.gov.bd
+kubedash.isec.gov.bd
 kushtia.gov.bd
 lakshmipur.gov.bd
 lakshmipurpourashava.gov.bd
@@ -355,7 +339,6 @@ logs.dlrms.land.gov.bd
 madaripur.gov.bd
 madhukhalipaurashava.gov.bd
 magura.gov.bd
-magurapaurashava.gov.bd
 maheshpurpourashava.gov.bd
 mail.a2iservices.gov.bd
 mail.bakshiganjpourashava.gov.bd
@@ -363,7 +346,6 @@ mail.bangladeshfestival.gov.bd
 mail.bargunamunicipality.gov.bd
 mail.bcsir.gov.bd
 mail.bmdf.gov.bd
-mail.cedp.gov.bd
 mail.comillalg.gov.bd
 mail.cpatos.gov.bd
 mail.debendracollege.gov.bd
@@ -388,7 +370,6 @@ mail.ttcraj.gov.bd
 mail.tzr.gov.bd
 mail.vatdhakawest.gov.bd
 mail.zpkhulna.gov.bd
-mail.zprajshahi.gov.bd
 majcharup.faridpurlg.gov.bd
 majidpurup.gov.bd
 manikdhaup.faridpurlg.gov.bd
@@ -409,7 +390,6 @@ middleware.dghs.gov.bd
 mis.iresppw-brdb.gov.bd
 mkgwclal.gov.bd
 mkgwclal.gov.bd.gbrcr.gov.bd
-mofa.gov.bd
 mokamup.gov.bd
 monglaportmunicipality.gov.bd
 movement.brri.gov.bd
@@ -427,7 +407,6 @@ nabiganjpaurashava.gov.bd
 nabipurwestsmartup.gov.bd
 naldangamunicipality.gov.bd
 nameage.comillaboard.gov.bd
-nameletter.comillaboard.gov.bd
 naogaon.gov.bd
 narail.gov.bd
 narayanganj.gov.bd
@@ -458,6 +437,7 @@ nwpgcl.gov.bd
 office.doe.gov.bd
 ofr.btcl.gov.bd
 old.barishalcity.gov.bd
+old.comillaboard.gov.bd
 old.ggmcg.gov.bd
 old.gzmcfeni.gov.bd
 old.iedcr.gov.bd
@@ -472,10 +452,8 @@ panchgachhiawestup.gov.bd
 patgrammunicipality.gov.bd
 patharghatapourashava.gov.bd
 patuakhali.gov.bd
-pension.comillaboard.gov.bd
 pfms.brri.gov.bd
 pop.emergencynutrition.gov.bd
-portal.munshiganjtsc.gov.bd
 portal.netrokonatsc.gov.bd
 portal.tihdtcb.gov.bd
 postalacademy.gov.bd
@@ -497,14 +475,12 @@ ramnagarup.faridpurlg.gov.bd
 rangamati.gov.bd
 ranisankailpourashava.gov.bd
 reeep.sreda.gov.bd
-regicorrhsc.comillaboard.gov.bd
 register.gameapp.gov.bd
 renewableenergy.gov.bd
 renewableenergy.gov.bd.sreda.gov.bd
 rescrutiny.comillaboard.gov.bd
 residence.dc-khagrachhari.gov.bd
 result.barisalboard.gov.bd
-result19.comillaboard.gov.bd
 resultapi.barisalboard.gov.bd
 resultmanagement.comillaboard.gov.bd
 rgamc.gov.bd
@@ -518,7 +494,6 @@ sathi.gov.bd
 satkhira.gov.bd
 satkhiramc.gov.bd
 satkhiratsc.gov.bd
-savarmunicipality.gov.bd
 sbcbiz.gov.bd
 scc.gov.bd
 scholarship.dsw.gov.bd
@@ -531,7 +506,6 @@ senbagmunicipality.gov.bd
 sgc.gov.bd
 shariatpurmunicipality.gov.bd
 sherpur.gov.bd
-sherpurpolice.gov.bd
 shift.gov.bd
 shiloyup.munshiganjlg.gov.bd
 shopify.nins.gov.bd
@@ -555,7 +529,6 @@ somch.gov.bd
 sonagazicollege.gov.bd
 sonaimuripaurashava.gov.bd
 sonali238.dinajpurboard.gov.bd
-sonalibank.gov.bd
 spisg.gov.bd
 sreda.gov.bd
 srishtitetulia.gov.bd
@@ -585,7 +558,6 @@ test.bfacf-ticket.gov.bd
 test.dsw.gov.bd
 test.faridpurlg.gov.bd
 test.gameapp.gov.bd
-test.jaldhakamunicipality.gov.bd
 testimonial.noakhalicoll.gov.bd
 testing.dope-test.dghs.gov.bd
 titumircollege.gov.bd
@@ -611,7 +583,6 @@ vamanager.dghs.gov.bd
 vatdhakawest.gov.bd
 vehikel.nationalmuseumticket.gov.bd
 vmdatabase.mspvaw.gov.bd
-vrmanagement.rmp.gov.bd
 water.scc.gov.bd
 web.alaap.gov.bd
 web.bise-ctg.gov.bd
@@ -619,7 +590,6 @@ web.pgcb.gov.bd
 webdisk.bakshiganjpourashava.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bepza.gov.bd
-webdisk.cedp.gov.bd
 webdisk.comillalg.gov.bd
 webdisk.debendracollege.gov.bd
 webdisk.eduboardresults.gov.bd
@@ -634,7 +604,6 @@ webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.ttcraj.gov.bd
 webmail.bakshiganjpourashava.gov.bd
 webmail.bangladeshfestival.gov.bd
-webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
 webmail.debendracollege.gov.bd
 webmail.eduboardresults.gov.bd
@@ -650,7 +619,6 @@ webmail.railwayestate.gov.bd
 webmail.ramgonjcollege.gdc.gov.bd
 webmail.ttcraj.gov.bd
 whm.faridpurlg.gov.bd
-www.abc.dsw.gov.bd
 www.adgfinance.gov.bd
 www.admin.farmbroadcast.gov.bd
 www.admin.hossainpurpourashava.gov.bd
@@ -681,14 +649,12 @@ www.belkuchipoura.gov.bd
 www.bepza.gov.bd
 www.betagimunicipality.gov.bd
 www.bikiron2021.sreda.gov.bd
-www.billing.alaap.gov.bd
 www.biteshwarup.gov.bd
 www.bnscp.navy.mil.bd
 www.boalmariup.faridpurlg.gov.bd
 www.booking.bsa.gov.bd
 www.brdb.xyz.iresppw-brdb.gov.bd
 www.bsfmstu.gameapp.gov.bd
-www.cedp.gov.bd
 www.centralup.faridpurlg.gov.bd
 www.centralup.munshiganjlg.gov.bd
 www.centralup.narsingdilg.gov.bd
@@ -757,7 +723,6 @@ www.iceeca2019.sreda.gov.bd
 www.idcard.rpi.gov.bd
 www.ihtdhaka.gov.bd
 www.inout.gso.gov.bd
-www.inventory.dbwctp64.gov.bd
 www.iresppw-brdb.gov.bd
 www.ishangopalpurup.faridpurlg.gov.bd
 www.jadunandiup.faridpurlg.gov.bd
@@ -878,7 +843,6 @@ www.tds.taxeszone3ctg.gov.bd
 www.test.dsw.gov.bd
 www.test.faridpurlg.gov.bd
 www.test.gameapp.gov.bd
-www.test.jaldhakamunicipality.gov.bd
 www.testimonial.noakhalicoll.gov.bd
 www.training.ec4j.gov.bd
 www.training.gov.bd
@@ -893,10 +857,8 @@ www.vmdatabase.mspvaw.gov.bd
 www.water.scc.gov.bd
 www.web.alaap.gov.bd
 www.zpkhulna.gov.bd
-www.zprajshahi.gov.bd
 www3.bamis.gov.bd
 zpfeni.gov.bd
 zpkhulna.gov.bd
 zpmunshiganj.gov.bd
 zppatuakhali.gov.bd
-zprajshahi.gov.bd
