@@ -30,6 +30,7 @@ ar.gameapp.gov.bd
 ara-bd.org.zpkhulna.gov.bd
 arm.kalirbazarup.gov.bd
 arparaup.faridpurlg.gov.bd
+autodiscover.bakshiganjpourashava.gov.bd
 autodiscover.bangladeshfestival.gov.bd
 autodiscover.bepza.gov.bd
 autodiscover.debendracollege.gov.bd
@@ -40,6 +41,7 @@ autodiscover.ttcraj.gov.bd
 az.dotsim.gov.bd
 backoffice.lams-stg.land.gov.bd
 bagerhat.gov.bd
+bakshiganjpourashava.gov.bd
 banglabazarup.munshiganjlg.gov.bd
 bangladesh.gov.bd
 bangladeshfestival.gov.bd
@@ -135,6 +137,7 @@ conference.dghs.gov.bd
 corona.gov.bd
 coxsbazar.gov.bd
 cpadmin.scc.gov.bd
+cpanel.bakshiganjpourashava.gov.bd
 cpanel.bangladeshfestival.gov.bd
 cpanel.bepza.gov.bd
 cpanel.cedp.gov.bd
@@ -151,6 +154,7 @@ cpanel.railwayestate.gov.bd
 cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.ttcraj.gov.bd
 cpbackend.scc.gov.bd
+cpcalendars.bakshiganjpourashava.gov.bd
 cpcalendars.bangladeshfestival.gov.bd
 cpcalendars.cedp.gov.bd
 cpcalendars.comillalg.gov.bd
@@ -165,6 +169,7 @@ cpcalendars.quiz.gov.bd
 cpcalendars.railwayestate.gov.bd
 cpcalendars.ramgonjcollege.gdc.gov.bd
 cpcalendars.ttcraj.gov.bd
+cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.bangladeshfestival.gov.bd
 cpcontacts.cedp.gov.bd
 cpcontacts.comillalg.gov.bd
@@ -345,6 +350,7 @@ magura.gov.bd
 magurapaurashava.gov.bd
 maheshpurpourashava.gov.bd
 mail.a2iservices.gov.bd
+mail.bakshiganjpourashava.gov.bd
 mail.bangladeshfestival.gov.bd
 mail.bargunamunicipality.gov.bd
 mail.bcsir.gov.bd
@@ -418,6 +424,7 @@ naogaon.gov.bd
 narail.gov.bd
 narayanganj.gov.bd
 narsingdi.gov.bd
+narsingdilg.gov.bd
 natore.gov.bd
 neir.btrc.gov.bd
 netrokona.gov.bd
@@ -593,6 +600,7 @@ vrmanagement.rmp.gov.bd
 water.scc.gov.bd
 web.bise-ctg.gov.bd
 web.pgcb.gov.bd
+webdisk.bakshiganjpourashava.gov.bd
 webdisk.bangladeshfestival.gov.bd
 webdisk.bepza.gov.bd
 webdisk.cedp.gov.bd
@@ -608,6 +616,7 @@ webdisk.quiz.gov.bd
 webdisk.railwayestate.gov.bd
 webdisk.ramgonjcollege.gdc.gov.bd
 webdisk.ttcraj.gov.bd
+webmail.bakshiganjpourashava.gov.bd
 webmail.bangladeshfestival.gov.bd
 webmail.cedp.gov.bd
 webmail.comillalg.gov.bd
@@ -632,6 +641,7 @@ www.admins.rpi.gov.bd
 www.alfadangaup.faridpurlg.gov.bd
 www.amarai.gameapp.gov.bd
 www.ambikapurup.faridpurlg.gov.bd
+www.amdiaup.narsingdilg.gov.bd
 www.api-medicine.hossainpurpourashava.gov.bd
 www.api.rpi.gov.bd
 www.apis.rpi.gov.bd
@@ -640,6 +650,7 @@ www.ar.gameapp.gov.bd
 www.ara-bd.org.zpkhulna.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.artistdb.bsa.gov.bd
+www.bakshiganjpourashava.gov.bd
 www.banglabazarup.munshiganjlg.gov.bd
 www.bangladeshfestival.gov.bd
 www.barakandaup.gov.bd
@@ -662,6 +673,7 @@ www.bsfmstu.gameapp.gov.bd
 www.cedp.gov.bd
 www.centralup.faridpurlg.gov.bd
 www.centralup.munshiganjlg.gov.bd
+www.centralup.narsingdilg.gov.bd
 www.chakariamunicipality.gov.bd
 www.chalibhangaup.gov.bd
 www.chandpurup.faridpurlg.gov.bd
@@ -757,6 +769,7 @@ www.manikdhaup.faridpurlg.gov.bd
 www.manirampurmunicipality.gov.bd
 www.medicine.hossainpurpourashava.gov.bd
 www.mehendiganjpourashava.gov.bd
+www.meherparaup.narsingdilg.gov.bd
 www.mis.iresppw-brdb.gov.bd
 www.mkgwclal.gov.bd.gbrcr.gov.bd
 www.mokamup.gov.bd
