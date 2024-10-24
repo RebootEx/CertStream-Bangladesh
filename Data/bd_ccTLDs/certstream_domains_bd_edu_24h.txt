@@ -3,6 +3,7 @@ admission.uob.edu.bd
 aghs134534.edu.bd
 ahmadndm.edu.bd
 aiamam.aiamam.edu.bd
+aiamam.edu.bd
 alumni.bbgc.edu.bd
 alumni.metrouni.edu.bd
 arvrlab.daffodilvarsity.edu.bd
@@ -10,6 +11,7 @@ autodiscover.baakhs.edu.bd
 autodiscover.bdahs.edu.bd
 autodiscover.bhec.edu.bd
 autodiscover.bia.edu.bd
+autodiscover.bicdt.edu.bd
 autodiscover.bkuc.edu.bd
 autodiscover.dagarpuraghs.edu.bd
 autodiscover.dgbhschool.edu.bd
@@ -26,12 +28,15 @@ baakhs.edu.bd.hmsrhs.edu.bd
 baligaonhighschool.edu.bd
 balusairhighschool.edu.bd
 barbuda.miam79.edu.bd
+batabariagh.edu.bd
 bbssylhet.edu.bd
 bdahs.edu.bd
 betagaadarshags.edu.bd
 bhec.edu.bd
 bia.edu.bd
 bia.edu.bd.hmsrhs.edu.bd
+bicdt.edu.bd
+bicdt.edu.bd.ahamc.edu.bd
 bkkhs.edu.bd
 bkuc.edu.bd
 blss.edu.bd
@@ -45,6 +50,7 @@ cahs.edu.bd
 ccscchuadanga.edu.bd
 cgcn.edu.bd
 chowdhuranihighschool.edu.bd
+chs1914.edu.bd
 cjhsptk.edu.bd
 cksm.edu.bd
 collegeoftechnology.edu.bd
@@ -54,6 +60,7 @@ cpanel.baakhs.edu.bd
 cpanel.bdahs.edu.bd
 cpanel.bhec.edu.bd
 cpanel.bia.edu.bd
+cpanel.bicdt.edu.bd
 cpanel.bkuc.edu.bd
 cpanel.dagarpuraghs.edu.bd
 cpanel.dgbhschool.edu.bd
@@ -70,6 +77,7 @@ cpcalendars.baakhs.edu.bd
 cpcalendars.bdahs.edu.bd
 cpcalendars.bhec.edu.bd
 cpcalendars.bia.edu.bd
+cpcalendars.bicdt.edu.bd
 cpcalendars.bkuc.edu.bd
 cpcalendars.dagarpuraghs.edu.bd
 cpcalendars.dgbhschool.edu.bd
@@ -86,6 +94,7 @@ cpcontacts.baakhs.edu.bd
 cpcontacts.bdahs.edu.bd
 cpcontacts.bhec.edu.bd
 cpcontacts.bia.edu.bd
+cpcontacts.bicdt.edu.bd
 cpcontacts.bkuc.edu.bd
 cpcontacts.dagarpuraghs.edu.bd
 cpcontacts.dgbhschool.edu.bd
@@ -98,6 +107,7 @@ cpcontacts.mlphsc.edu.bd
 cpcontacts.nouriahs.edu.bd
 cpcontacts.rrhsclamakazi.edu.bd
 cpcontacts.safama.edu.bd
+cub.edu.bd
 dagarpuraghs.edu.bd
 dagarpuraghs.edu.bd.hmsrhs.edu.bd
 dbnscr.edu.bd
@@ -112,10 +122,14 @@ dmhighschool.edu.bd
 dmhighschool.edu.bd.hmsrhs.edu.bd
 dmsdm.edu.bd
 dmsdm.edu.bd.nagargolahs.edu.bd
+dpmss.edu.bd
 drihs.edu.bd
+dssk.edu.bd
 duhs.edu.bd
 ekattorsangbad.snbghs.edu.bd
+erp.uttarauniversity.edu.bd
 fellows.bcps.edu.bd
+ftp.aiamam.edu.bd
 gampi.edu.bd
 gecp.edu.bd
 gobfm.edu.bd
@@ -138,11 +152,13 @@ jkkac.edu.bd
 kalakopakpschool.edu.bd
 kalinagardmsd.edu.bd
 kamaluddinghs.edu.bd
+kamlapurhighschool.edu.bd
 kawaljanilsghs.edu.bd
 kcsc.edu.bd
 keidm.edu.bd
 kheruazanihs.edu.bd
 khsbd.edu.bd
+knkm.edu.bd
 kolakopaalimmadrasha.edu.bd
 kumarkhalifazilmadrasah.edu.bd
 kurerparadarshahighschool.edu.bd
@@ -153,6 +169,7 @@ mail.baakhs.edu.bd
 mail.bdahs.edu.bd
 mail.bhec.edu.bd
 mail.bia.edu.bd
+mail.bicdt.edu.bd
 mail.bkuc.edu.bd
 mail.bnabshs.edu.bd
 mail.brimdc.edu.bd
@@ -196,6 +213,9 @@ pencilbox.edu.bd
 phaghsc.edu.bd
 pkbmhs.edu.bd
 portal.chamagramhnhs.edu.bd
+portal.cpmgc.edu.bd
+portal.dbnscr.edu.bd
+portal.govtadiabadschoolcollege.edu.bd
 portal.jjgkhs.edu.bd
 portal.kaundiasshs.edu.bd
 portal.kawaljanilsghs.edu.bd
@@ -206,10 +226,13 @@ research.npif.edu.bd
 result.shilkhurigirlshs.edu.bd
 rrhsclamakazi.edu.bd
 rtm-aktu.edu.bd
+rupdiacollege.edu.bd
+s.shhs.edu.bd
 safama.edu.bd
 sazanabaub.edu.bd
 sbdcollege.edu.bd
 sbpgc.edu.bd
+schoolmanagement.pbhs86.edu.bd
 sjiscsylhet.edu.bd
 sjnhs.edu.bd
 stamforduniversity.edu.bd
@@ -230,6 +253,7 @@ webdisk.baakhs.edu.bd
 webdisk.bdahs.edu.bd
 webdisk.bhec.edu.bd
 webdisk.bia.edu.bd
+webdisk.bicdt.edu.bd
 webdisk.bkuc.edu.bd
 webdisk.dagarpuraghs.edu.bd
 webdisk.dgbhschool.edu.bd
@@ -246,6 +270,7 @@ webmail.baakhs.edu.bd
 webmail.bdahs.edu.bd
 webmail.bhec.edu.bd
 webmail.bia.edu.bd
+webmail.bicdt.edu.bd
 webmail.bkuc.edu.bd
 webmail.dagarpuraghs.edu.bd
 webmail.dgbhschool.edu.bd
@@ -261,6 +286,7 @@ wmahs.edu.bd
 www.aamarpay.justsc.edu.bd
 www.admin.victoriaschool.edu.bd
 www.aiamam.aiamam.edu.bd
+www.aiamam.edu.bd
 www.baakhs.edu.bd
 www.baakhs.edu.bd.hmsrhs.edu.bd
 www.backend.victoriaschool.edu.bd
@@ -271,6 +297,8 @@ www.beta.green.edu.bd
 www.bhec.edu.bd
 www.bia.edu.bd
 www.bia.edu.bd.hmsrhs.edu.bd
+www.bicdt.edu.bd
+www.bicdt.edu.bd.ahamc.edu.bd
 www.bkuc.edu.bd
 www.bnabshs.edu.bd
 www.brimdc.edu.bd
@@ -303,6 +331,7 @@ www.jgc.edu.bd
 www.jkkac.edu.bd
 www.jmc.green.edu.bd
 www.journal.green.edu.bd
+www.kamlapurhighschool.edu.bd
 www.keidm.edu.bd
 www.khsbd.edu.bd
 www.law.green.edu.bd
@@ -322,6 +351,8 @@ www.proctor.butex.edu.bd
 www.publications.green.edu.bd
 www.result.shilkhurigirlshs.edu.bd
 www.rrhsclamakazi.edu.bd
+www.rupdiacollege.edu.bd
+www.s.shhs.edu.bd
 www.safama.edu.bd
 www.siteadmin.green.edu.bd
 www.sjiscsylhet.edu.bd

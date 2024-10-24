@@ -4,6 +4,8 @@ autodiscover.ttcraj.gov.bd
 bakshiganjpourashava.gov.bd
 boguramunicipality.gov.bd
 bscicemarket.gov.bd
+cbs.gov.bd
+corona.gov.bd
 cpanel.bakshiganjpourashava.gov.bd
 cpanel.ramgonjcollege.gdc.gov.bd
 cpanel.ttcraj.gov.bd
@@ -13,7 +15,11 @@ cpcalendars.ttcraj.gov.bd
 cpcontacts.bakshiganjpourashava.gov.bd
 cpcontacts.ramgonjcollege.gdc.gov.bd
 cpcontacts.ttcraj.gov.bd
+dpp.gov.bd
+ekpay.gov.bd
+emergencynutrition.gov.bd
 ems.epb-exporttracker.gov.bd
+etds.gov.bd
 fgc.gov.bd
 govindapurup1.gov.bd
 jmc.gov.bd
@@ -26,11 +32,14 @@ mail.bakshiganjpourashava.gov.bd
 mail.ramgonjcollege.gdc.gov.bd
 mail.ttcraj.gov.bd
 mail.tzr.gov.bd
+memis.gov.bd
 number.btcl.gov.bd
+nutritionprofile.gov.bd
 nwpgcl.gov.bd
 oms.tzr.gov.bd
 online.bpi.com.ph.dhamraimunicipality.gov.bd
 openid.dghs.gov.bd
+portal.netrokonatsc.gov.bd
 ramgonjcollege.gdc.gov.bd
 ramnagarup.faridpurlg.gov.bd
 sholanalup.gov.bd
@@ -44,6 +53,7 @@ webmail.ramgonjcollege.gdc.gov.bd
 webmail.ttcraj.gov.bd
 www.arparaup.faridpurlg.gov.bd
 www.bakshiganjpourashava.gov.bd
+www.dpp.gov.bd
 www.govindapurup1.gov.bd
 www.linktogoods.xyz.kalihatipourashava.gov.bd
 www.oms.tzr.gov.bd
